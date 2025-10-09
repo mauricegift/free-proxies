@@ -33,7 +33,7 @@ jobs:
       run: |
         git config --local user.email ${{ secrets.GIT_EMAIL }}
         git config --local user.name ${{ secrets.GIT_NAME }}
-        git commit -am "Update proxies - $(date '+%A %d-%m-%Y %H:%M:%S %Z')"
+        git commit -am "New Proxies - $(date '+%A %d-%m-%Y %H:%M:%S %Z')"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
