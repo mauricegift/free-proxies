@@ -55,6 +55,3 @@ Free to use **http**, **socks4** and **socks5** proxies that gets updated every 
 
 - There's [pyfreeproxies](https://github.com/Simatwa/pyfreeproxies) which works like a charm.
 
-## Credits
-
-- [x] [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List)
