@@ -1,17 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
-            "url": "socks4://92.86.92.126:42740",
-            "proxy": "92.86.92.126:42740",
-            "ip": "92.86.92.126",
-            "port": "42740",
+            "url": "socks4://81.12.169.254:4153",
+            "proxy": "81.12.169.254:4153",
+            "ip": "81.12.169.254",
+            "port": "4153",
             "type": "socks4",
             "countryCode": "RO",
             "country": "Romania",
-            "responseTime": 7.54
+            "responseTime": 5.4
+        },
+        {
+            "url": "socks4://46.214.153.223:5678",
+            "proxy": "46.214.153.223:5678",
+            "ip": "46.214.153.223",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "RO",
+            "country": "Romania",
+            "responseTime": 5.51
         }
     ]
 }
