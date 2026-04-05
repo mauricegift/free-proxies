@@ -1,27 +1,26 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 1,
     "proxies": [
         {
-            "url": "http://196.204.138.244:1976",
-            "proxy": "196.204.138.244:1976",
-            "ip": "196.204.138.244",
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat",
+            "org": "",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "62.193.104.28",
+            "type": "http",
             "port": "1976",
-            "type": "http",
-            "countryCode": "EG",
-            "country": "Egypt",
-            "responseTime": 0.95
-        },
-        {
-            "url": "http://84.36.35.206:1981",
-            "proxy": "84.36.35.206:1981",
-            "ip": "84.36.35.206",
-            "port": "1981",
-            "type": "http",
-            "countryCode": "EG",
-            "country": "Egypt",
-            "responseTime": 5.62
+            "response_time": 10.02
         }
     ]
 }
