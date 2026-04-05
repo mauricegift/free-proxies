@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "34.96.238.40",
             "type": "http",
             "port": "8080",
-            "response_time": 1.17
+            "response_time": 1.24
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "CTHKI",
+            "org": "",
+            "as": "AS23764 CTGNet",
+            "query": "203.196.8.6",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.36
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Yunify Technologies Inc",
+            "org": "Yunify Technologies Inc.",
+            "as": "AS134366 Cloud Computing HK Limited",
+            "query": "139.198.113.42",
+            "type": "http",
+            "port": "10023",
+            "response_time": 8.46
         }
     ]
 }
