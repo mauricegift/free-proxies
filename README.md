@@ -1,3 +1,6 @@
+then silence that connection pool logs
+Also make it commit readme.md everytime its committing so readme.md update it well so It will display total valid proxies committed at that time
+current readme:
 # free-proxies
 Free to use working and validated **http**, **socks4** and **socks5** proxies that gets updated every 30 mins/1hr depending on my server's load balancing
 
@@ -50,8 +53,4 @@ Free to use working and validated **http**, **socks4** and **socks5** proxies th
    ```
    https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/proxies.log
    ```
-
-## Python SDK/API
-
-- There's [pyfreeproxies](https://github.com/Simatwa/pyfreeproxies) which works like a charm.
 
