@@ -3,9 +3,45 @@
     "country": "Finland",
     "count": 4,
     "proxies": [
-        "http://45.12.151.226:2829",
-        "socks4://213.165.58.8:1080",
-        "socks5://213.165.58.5:1080",
-        "socks5://213.165.58.7:1080"
+        {
+            "url": "socks4://213.165.58.6:1080",
+            "proxy": "213.165.58.6:1080",
+            "ip": "213.165.58.6",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "FI",
+            "country": "Finland",
+            "responseTime": 0.91
+        },
+        {
+            "url": "socks5://65.21.90.27:600",
+            "proxy": "65.21.90.27:600",
+            "ip": "65.21.90.27",
+            "port": "600",
+            "type": "socks5",
+            "countryCode": "FI",
+            "country": "Finland",
+            "responseTime": 2.9
+        },
+        {
+            "url": "http://46.8.233.226:3128",
+            "proxy": "46.8.233.226:3128",
+            "ip": "46.8.233.226",
+            "port": "3128",
+            "type": "http",
+            "countryCode": "FI",
+            "country": "Finland",
+            "responseTime": 3.28
+        },
+        {
+            "url": "http://185.40.7.206:3128",
+            "proxy": "185.40.7.206:3128",
+            "ip": "185.40.7.206",
+            "port": "3128",
+            "type": "http",
+            "countryCode": "FI",
+            "country": "Finland",
+            "responseTime": 5.85
+        }
     ]
 }
