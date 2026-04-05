@@ -1,9 +1,47 @@
 {
     "countryCode": "VE",
     "country": "Venezuela",
-    "count": 2,
+    "count": 4,
     "proxies": [
-        "http://190.94.212.198:999",
-        "http://190.94.212.249:999"
+        {
+            "url": "http://38.255.75.28:999",
+            "proxy": "38.255.75.28:999",
+            "ip": "38.255.75.28",
+            "port": "999",
+            "type": "http",
+            "countryCode": "VE",
+            "country": "Venezuela",
+            "responseTime": 4.17
+        },
+        {
+            "url": "http://190.120.252.174:999",
+            "proxy": "190.120.252.174:999",
+            "ip": "190.120.252.174",
+            "port": "999",
+            "type": "http",
+            "countryCode": "VE",
+            "country": "Venezuela",
+            "responseTime": 6.46
+        },
+        {
+            "url": "http://38.255.75.200:999",
+            "proxy": "38.255.75.200:999",
+            "ip": "38.255.75.200",
+            "port": "999",
+            "type": "http",
+            "countryCode": "VE",
+            "country": "Venezuela",
+            "responseTime": 6.58
+        },
+        {
+            "url": "http://190.52.110.55:999",
+            "proxy": "190.52.110.55:999",
+            "ip": "190.52.110.55",
+            "port": "999",
+            "type": "http",
+            "countryCode": "VE",
+            "country": "Venezuela",
+            "responseTime": 7.61
+        }
     ]
 }
