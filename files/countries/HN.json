@@ -1,8 +1,18 @@
 {
     "countryCode": "HN",
     "country": "Honduras",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "url": "socks4://138.59.177.117:5678",
+            "proxy": "138.59.177.117:5678",
+            "ip": "138.59.177.117",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "HN",
+            "country": "Honduras",
+            "responseTime": 0.78
+        },
         {
             "url": "http://38.188.186.47:999",
             "proxy": "38.188.186.47:999",
@@ -11,7 +21,17 @@
             "type": "http",
             "countryCode": "HN",
             "country": "Honduras",
-            "responseTime": 10.41
+            "responseTime": 8.59
+        },
+        {
+            "url": "http://179.49.113.230:999",
+            "proxy": "179.49.113.230:999",
+            "ip": "179.49.113.230",
+            "port": "999",
+            "type": "http",
+            "countryCode": "HN",
+            "country": "Honduras",
+            "responseTime": 11.4
         }
     ]
 }
