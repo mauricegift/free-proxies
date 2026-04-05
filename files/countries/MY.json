@@ -1,8 +1,18 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "url": "socks4://1.32.57.85:5678",
+            "proxy": "1.32.57.85:5678",
+            "ip": "1.32.57.85",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "MY",
+            "country": "Malaysia",
+            "responseTime": 6.63
+        },
         {
             "url": "http://58.84.16.214:1231",
             "proxy": "58.84.16.214:1231",
@@ -11,27 +21,7 @@
             "type": "http",
             "countryCode": "MY",
             "country": "Malaysia",
-            "responseTime": 9.43
-        },
-        {
-            "url": "http://175.139.211.38:8080",
-            "proxy": "175.139.211.38:8080",
-            "ip": "175.139.211.38",
-            "port": "8080",
-            "type": "http",
-            "countryCode": "MY",
-            "country": "Malaysia",
-            "responseTime": 13.3
-        },
-        {
-            "url": "socks4://47.250.168.70:1080",
-            "proxy": "47.250.168.70:1080",
-            "ip": "47.250.168.70",
-            "port": "1080",
-            "type": "socks4",
-            "countryCode": "MY",
-            "country": "Malaysia",
-            "responseTime": 17.17
+            "responseTime": 13.52
         }
     ]
 }
