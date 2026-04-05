@@ -1,14 +1,47 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 7,
+    "count": 4,
     "proxies": [
-        "http://49.156.44.115:8080",
-        "http://45.201.208.192:8080",
-        "socks4://103.118.46.52:1080",
-        "socks5://110.235.246.62:1080",
-        "socks5://103.206.68.241:1080",
-        "socks5://203.189.135.73:1080",
-        "socks5://43.230.193.154:1080"
+        {
+            "url": "socks5://124.248.177.43:1080",
+            "proxy": "124.248.177.43:1080",
+            "ip": "124.248.177.43",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "KH",
+            "country": "Cambodia",
+            "responseTime": 2.55
+        },
+        {
+            "url": "socks5://185.175.229.58:1080",
+            "proxy": "185.175.229.58:1080",
+            "ip": "185.175.229.58",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "KH",
+            "country": "Cambodia",
+            "responseTime": 3.82
+        },
+        {
+            "url": "socks5://202.79.26.242:1080",
+            "proxy": "202.79.26.242:1080",
+            "ip": "202.79.26.242",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "KH",
+            "country": "Cambodia",
+            "responseTime": 5.67
+        },
+        {
+            "url": "socks5://202.62.55.95:1080",
+            "proxy": "202.62.55.95:1080",
+            "ip": "202.62.55.95",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "KH",
+            "country": "Cambodia",
+            "responseTime": 6.8
+        }
     ]
 }
