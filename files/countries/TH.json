@@ -1,12 +1,67 @@
 {
     "countryCode": "TH",
     "country": "Thailand",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        "http://125.27.192.162:8081",
-        "http://110.164.175.110:8080",
-        "http://124.122.115.165:8080",
-        "http://203.172.201.226:8080",
-        "socks4://182.53.216.73:4145"
+        {
+            "url": "socks4://49.0.87.62:1080",
+            "proxy": "49.0.87.62:1080",
+            "ip": "49.0.87.62",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "TH",
+            "country": "Thailand",
+            "responseTime": 1.57
+        },
+        {
+            "url": "socks4://183.89.250.246:1080",
+            "proxy": "183.89.250.246:1080",
+            "ip": "183.89.250.246",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "TH",
+            "country": "Thailand",
+            "responseTime": 2.26
+        },
+        {
+            "url": "http://182.53.202.208:8080",
+            "proxy": "182.53.202.208:8080",
+            "ip": "182.53.202.208",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "TH",
+            "country": "Thailand",
+            "responseTime": 3.45
+        },
+        {
+            "url": "socks4://113.53.29.228:13629",
+            "proxy": "113.53.29.228:13629",
+            "ip": "113.53.29.228",
+            "port": "13629",
+            "type": "socks4",
+            "countryCode": "TH",
+            "country": "Thailand",
+            "responseTime": 6.46
+        },
+        {
+            "url": "http://183.88.212.184:8080",
+            "proxy": "183.88.212.184:8080",
+            "ip": "183.88.212.184",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "TH",
+            "country": "Thailand",
+            "responseTime": 8.87
+        },
+        {
+            "url": "http://61.19.145.66:8080",
+            "proxy": "61.19.145.66:8080",
+            "ip": "61.19.145.66",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "TH",
+            "country": "Thailand",
+            "responseTime": 10.67
+        }
     ]
 }
