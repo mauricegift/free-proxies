@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Free Proxies — mauricegift</title>
+<meta name="description" content="647 free validated HTTP, SOCKS4 &amp; SOCKS5 proxies updated every 20 minutes."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{
+  --bg:#f8fafc;--surface:#ffffff;--surface2:#f1f5f9;--border:#e2e8f0;
+  --text:#0f172a;--muted:#64748b;--accent:#6366f1;--accent2:#8b5cf6;
+  --green:#10b981;--blue:#3b82f6;--purple:#8b5cf6;--orange:#f59e0b;
+  --header-h:64px;--sidebar-w:260px;--radius:12px;--shadow:0 1px 3px rgba(0,0,0,.08),0 4px 16px rgba(0,0,0,.04);
+}
+[data-theme=dark]{
+  --bg:#0f172a;--surface:#1e293b;--surface2:#334155;--border:#334155;
+  --text:#f1f5f9;--muted:#94a3b8;--shadow:0 1px 3px rgba(0,0,0,.4),0 4px 16px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;font-size:16px}
+body{font-family:"Inter",sans-serif;background:var(--bg);color:var(--text);transition:background .3s,color .3s;min-height:100vh}
+
+/* Header */
+header{
+  position:fixed;top:0;left:0;right:0;height:var(--header-h);z-index:1000;
+  background:var(--surface);border-bottom:1px solid var(--border);
+  display:flex;align-items:center;padding:0 24px;gap:16px;
+  backdrop-filter:blur(8px);background:rgba(255,255,255,.85);
+  transition:background .3s,border-color .3s;
+}
+[data-theme=dark] header{background:rgba(15,23,42,.85)}
+.logo{display:flex;align-items:center;gap:10px;font-weight:700;font-size:1.1rem;text-decoration:none;color:var(--text)}
+.logo-icon{width:32px;height:32px;background:linear-gradient(135deg,var(--accent),var(--accent2));border-radius:8px;display:grid;place-items:center;color:#fff;font-size:.85rem;font-weight:700}
+.header-spacer{flex:1}
+.gh-btn{
+  display:inline-flex;align-items:center;gap:6px;padding:7px 14px;border-radius:8px;
+  font-size:.8rem;font-weight:600;text-decoration:none;transition:all .2s;border:1px solid var(--border);
+  color:var(--text);background:var(--surface2);cursor:pointer;
+}
+.gh-btn:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+.gh-btn svg{width:16px;height:16px}
+.theme-toggle{
+  width:36px;height:36px;border-radius:8px;border:1px solid var(--border);
+  background:var(--surface2);cursor:pointer;display:grid;place-items:center;
+  color:var(--muted);transition:all .2s;
+}
+.theme-toggle:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+.hamburger{display:none;width:36px;height:36px;border-radius:8px;border:1px solid var(--border);background:var(--surface2);cursor:pointer;place-items:center;color:var(--muted)}
+@media(max-width:768px){.hamburger{display:grid}}
+
+/* Sidebar */
+.sidebar{
+  position:fixed;top:var(--header-h);left:0;bottom:0;width:var(--sidebar-w);
+  background:var(--surface);border-right:1px solid var(--border);
+  padding:24px 16px;overflow-y:auto;z-index:900;transition:transform .3s ease,background .3s,border-color .3s;
+}
+.sidebar-overlay{
+  display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:850;
+  opacity:0;transition:opacity .3s;
+}
+@media(max-width:768px){
+  .sidebar{transform:translateX(-100%)}
+  .sidebar.open{transform:translateX(0)}
+  .sidebar-overlay.open{display:block;opacity:1}
+}
+.nav-group{margin-bottom:24px}
+.nav-label{font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:0 8px;margin-bottom:8px}
+.nav-link{
+  display:flex;align-items:center;gap:10px;padding:9px 12px;border-radius:8px;
+  text-decoration:none;color:var(--text);font-size:.875rem;font-weight:500;
+  transition:all .2s;
+}
+.nav-link:hover,.nav-link.active{background:var(--accent);color:#fff}
+.nav-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.dot-http{background:#3b82f6}.dot-socks4{background:#10b981}.dot-socks5{background:#8b5cf6}
+.dot-combined{background:#f59e0b}.dot-random{background:#ec4899}.dot-country{background:#14b8a6}
+
+/* Main */
+.main{
+  margin-left:var(--sidebar-w);padding-top:var(--header-h);min-height:100vh;
+  transition:margin-left .3s;
+}
+@media(max-width:768px){.main{margin-left:0}}
+.content{max-width:900px;margin:0 auto;padding:40px 24px 80px}
+
+/* Hero */
+.hero{text-align:center;padding:48px 0 40px;}
+.hero h1{font-size:2.5rem;font-weight:700;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;line-height:1.2;margin-bottom:12px}
+@media(max-width:480px){.hero h1{font-size:1.8rem}}
+.hero p{color:var(--muted);font-size:1rem;margin-bottom:32px}
+.badge-row{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:8px}
+.badge{
+  display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:20px;
+  font-size:.8rem;font-weight:600;border:1px solid transparent;
+}
+.badge-http{background:#eff6ff;color:#1d4ed8;border-color:#bfdbfe}
+[data-theme=dark] .badge-http{background:#1e3a5f;color:#93c5fd;border-color:#1d4ed8}
+.badge-socks4{background:#f0fdf4;color:#15803d;border-color:#bbf7d0}
+[data-theme=dark] .badge-socks4{background:#14291e;color:#86efac;border-color:#15803d}
+.badge-socks5{background:#faf5ff;color:#7c3aed;border-color:#ddd6fe}
+[data-theme=dark] .badge-socks5{background:#2d1b47;color:#c4b5fd;border-color:#7c3aed}
+.badge-country{background:#fff7ed;color:#c2410c;border-color:#fed7aa}
+[data-theme=dark] .badge-country{background:#3b1a08;color:#fdba74;border-color:#c2410c}
+.ts{font-size:.78rem;color:var(--muted);margin-top:8px}
+
+/* Stats bar */
+.stats-bar{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:16px;margin-bottom:48px;
+}
+.stat-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:20px;text-align:center;box-shadow:var(--shadow);transition:transform .2s;
+}
+.stat-card:hover{transform:translateY(-2px)}
+.stat-num{font-size:2rem;font-weight:700;line-height:1}
+.stat-label{font-size:.78rem;color:var(--muted);margin-top:4px;font-weight:500}
+.num-http{color:#3b82f6}.num-socks4{color:#10b981}.num-socks5{color:#8b5cf6}.num-total{color:var(--accent)}
+
+/* Sections */
+.section{margin-bottom:48px}
+.section-title{
+  font-size:1.25rem;font-weight:700;margin-bottom:20px;display:flex;align-items:center;gap:10px;
+  padding-bottom:12px;border-bottom:2px solid var(--border);
+}
+.section-icon{
+  width:32px;height:32px;border-radius:8px;display:grid;place-items:center;font-size:1rem;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+}
+
+/* File cards */
+.file-cards{display:flex;flex-direction:column;gap:12px}
+.file-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:16px 20px;box-shadow:var(--shadow);transition:border-color .2s,transform .2s;
+}
+.file-card:hover{border-color:var(--accent);transform:translateY(-1px)}
+.fc-header{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+.fc-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.fc-title{font-weight:600;font-size:.95rem;flex:1}
+.fc-count{font-size:.8rem;color:var(--muted);background:var(--surface2);padding:2px 10px;border-radius:12px}
+.fc-url{
+  font-family:"JetBrains Mono",monospace;font-size:.78rem;color:var(--muted);
+  background:var(--surface2);border:1px solid var(--border);border-radius:6px;
+  padding:8px 12px;display:flex;align-items:center;gap:8px;word-break:break-all;
+}
+.copy-btn{
+  margin-left:auto;flex-shrink:0;background:var(--accent);color:#fff;border:none;
+  border-radius:6px;padding:4px 10px;font-size:.72rem;font-weight:600;cursor:pointer;
+  transition:opacity .2s;white-space:nowrap;
+}
+.copy-btn:hover{opacity:.85}
+.fc-link{
+  margin-top:10px;display:inline-flex;align-items:center;gap:6px;
+  font-size:.8rem;font-weight:600;color:var(--accent);text-decoration:none;
+}
+.fc-link:hover{text-decoration:underline}
+
+/* Country grid */
+.country-grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;
+}
+.country-card{
+  display:flex;align-items:center;gap:8px;padding:10px 14px;
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  text-decoration:none;color:var(--text);font-size:.8rem;font-weight:500;
+  box-shadow:var(--shadow);transition:all .2s;
+}
+.country-card:hover{background:var(--accent);color:#fff;border-color:var(--accent);transform:translateY(-1px)}
+.cc-flag{
+  font-size:.7rem;font-weight:700;background:var(--surface2);color:var(--muted);
+  padding:2px 6px;border-radius:4px;flex-shrink:0;font-family:"JetBrains Mono",monospace;
+}
+.country-card:hover .cc-flag{background:rgba(255,255,255,.2);color:#fff}
+.cc-name{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cc-count{font-size:.72rem;color:var(--muted);flex-shrink:0}
+.country-card:hover .cc-count{color:rgba(255,255,255,.8)}
+
+/* Footer */
+footer{
+  text-align:center;padding:32px 24px;color:var(--muted);font-size:.8rem;
+  border-top:1px solid var(--border);
+}
+footer a{color:var(--accent);text-decoration:none}
+footer a:hover{text-decoration:underline}
+
+/* Toast */
+.toast{
+  position:fixed;bottom:24px;right:24px;background:#1e293b;color:#f1f5f9;
+  padding:10px 18px;border-radius:8px;font-size:.85rem;font-weight:500;
+  z-index:9999;opacity:0;transform:translateY(8px);transition:all .3s;pointer-events:none;
+}
+.toast.show{opacity:1;transform:translateY(0)}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <button class="hamburger" onclick="toggleSidebar()" aria-label="Menu">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+  </button>
+  <a class="logo" href="#">
+    <span class="logo-icon">FP</span>
+    Free Proxies
+  </a>
+  <span class="header-spacer"></span>
+  <a class="gh-btn" href="https://github.com/mauricegift/free-proxies/stargazers" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+    Star
+  </a>
+  <a class="gh-btn" href="https://github.com/mauricegift/free-proxies/fork" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="6" r="3"/><path d="M6 9v2a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V9"/><line x1="12" y1="15" x2="12" y2="21"/></svg>
+    Fork
+  </a>
+  <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">
+    <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+  </button>
+</header>
+
+<!-- Sidebar overlay -->
+<div class="sidebar-overlay" id="overlay" onclick="toggleSidebar()"></div>
+
+<!-- Sidebar -->
+<nav class="sidebar" id="sidebar">
+  <div class="nav-group">
+    <div class="nav-label">Overview</div>
+    <a class="nav-link active" href="#hero" onclick="closeSidebar()">
+      <span class="nav-dot" style="background:var(--accent)"></span> Home
+    </a>
+  </div>
+  <div class="nav-group">
+    <div class="nav-label">Download</div>
+    <a class="nav-link" href="#http" onclick="closeSidebar()"><span class="nav-dot dot-http"></span> HTTP</a>
+    <a class="nav-link" href="#socks4" onclick="closeSidebar()"><span class="nav-dot dot-socks4"></span> SOCKS4</a>
+    <a class="nav-link" href="#socks5" onclick="closeSidebar()"><span class="nav-dot dot-socks5"></span> SOCKS5</a>
+    <a class="nav-link" href="#combined" onclick="closeSidebar()"><span class="nav-dot dot-combined"></span> Combined</a>
+    <a class="nav-link" href="#extras" onclick="closeSidebar()"><span class="nav-dot dot-random"></span> Extras</a>
+  </div>
+  <div class="nav-group">
+    <div class="nav-label">Countries</div>
+    <a class="nav-link" href="#countries" onclick="closeSidebar()"><span class="nav-dot dot-country"></span> By Country (63)</a>
+  </div>
+  <div class="nav-group">
+    <div class="nav-label">Repo</div>
+    <a class="nav-link" href="https://github.com/mauricegift/free-proxies" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+      &nbsp;GitHub
+    </a>
+  </div>
+</nav>
+
+<!-- Main -->
+<main class="main">
+  <div class="content">
+
+    <!-- Hero -->
+    <section class="hero" id="hero">
+      <h1>Free Proxy List</h1>
+      <p>Live-validated HTTP, SOCKS4 &amp; SOCKS5 proxies — updated every <strong>20 minutes</strong></p>
+      <div class="badge-row">
+        <span class="badge badge-http">🌐 HTTP &nbsp;202</span>
+        <span class="badge badge-socks4">🔒 SOCKS4 &nbsp;144</span>
+        <span class="badge badge-socks5">🛡 SOCKS5 &nbsp;301</span>
+        <span class="badge badge-country">🌍 63 Countries</span>
+      </div>
+      <div class="ts">Last updated: Sunday 05-04-2026 15:07:40 EAT</div>
+    </section>
+
+    <!-- Stats -->
+    <div class="stats-bar">
+      <div class="stat-card"><div class="stat-num num-http">202</div><div class="stat-label">HTTP Proxies</div></div>
+      <div class="stat-card"><div class="stat-num num-socks4">144</div><div class="stat-label">SOCKS4 Proxies</div></div>
+      <div class="stat-card"><div class="stat-num num-socks5">301</div><div class="stat-label">SOCKS5 Proxies</div></div>
+      <div class="stat-card"><div class="stat-num num-total">647</div><div class="stat-label">Total Validated</div></div>
+    </div>
+
+    <!-- HTTP -->
+    <section class="section" id="http">
+      <div class="section-title"><span class="section-icon">🌐</span> HTTP Proxies</div>
+      <div class="file-cards">
+        <div class="file-card">
+          <div class="fc-header">
+            <span class="fc-dot dot-http"></span>
+            <span class="fc-title">http.json</span>
+            <span class="fc-count">202 proxies</span>
+          </div>
+          <div class="fc-url">
+            <span id="url-http">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/http.json</span>
+            <button class="copy-btn" onclick="copy('url-http',this)">Copy</button>
+          </div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/http.json" target="_blank">↗ Open raw JSON</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- SOCKS4 -->
+    <section class="section" id="socks4">
+      <div class="section-title"><span class="section-icon">🔒</span> SOCKS4 Proxies</div>
+      <div class="file-cards">
+        <div class="file-card">
+          <div class="fc-header">
+            <span class="fc-dot dot-socks4"></span>
+            <span class="fc-title">socks4.json</span>
+            <span class="fc-count">144 proxies</span>
+          </div>
+          <div class="fc-url">
+            <span id="url-socks4">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/socks4.json</span>
+            <button class="copy-btn" onclick="copy('url-socks4',this)">Copy</button>
+          </div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/socks4.json" target="_blank">↗ Open raw JSON</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- SOCKS5 -->
+    <section class="section" id="socks5">
+      <div class="section-title"><span class="section-icon">🛡</span> SOCKS5 Proxies</div>
+      <div class="file-cards">
+        <div class="file-card">
+          <div class="fc-header">
+            <span class="fc-dot dot-socks5"></span>
+            <span class="fc-title">socks5.json</span>
+            <span class="fc-count">301 proxies</span>
+          </div>
+          <div class="fc-url">
+            <span id="url-socks5">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/socks5.json</span>
+            <button class="copy-btn" onclick="copy('url-socks5',this)">Copy</button>
+          </div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/socks5.json" target="_blank">↗ Open raw JSON</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Combined -->
+    <section class="section" id="combined">
+      <div class="section-title"><span class="section-icon">📦</span> Combined</div>
+      <div class="file-cards">
+        <div class="file-card">
+          <div class="fc-header">
+            <span class="fc-dot dot-combined"></span>
+            <span class="fc-title">proxies.json</span>
+            <span class="fc-count">647 proxies</span>
+          </div>
+          <div class="fc-url">
+            <span id="url-combined">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/proxies.json</span>
+            <button class="copy-btn" onclick="copy('url-combined',this)">Copy</button>
+          </div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/proxies.json" target="_blank">↗ Open raw JSON</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Extras -->
+    <section class="section" id="extras">
+      <div class="section-title"><span class="section-icon">✨</span> Extras</div>
+      <div class="file-cards">
+        <div class="file-card">
+          <div class="fc-header"><span class="fc-dot dot-random"></span><span class="fc-title">random.json</span><span class="fc-count">100 random</span></div>
+          <div class="fc-url"><span id="url-random">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/random.json</span><button class="copy-btn" onclick="copy('url-random',this)">Copy</button></div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/random.json" target="_blank">↗ Open raw JSON</a>
+        </div>
+        <div class="file-card">
+          <div class="fc-header"><span class="fc-dot" style="background:#64748b"></span><span class="fc-title">metadata.json</span><span class="fc-count">country + type info</span></div>
+          <div class="fc-url"><span id="url-meta">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/metadata.json</span><button class="copy-btn" onclick="copy('url-meta',this)">Copy</button></div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/metadata.json" target="_blank">↗ Open raw JSON</a>
+        </div>
+        <div class="file-card">
+          <div class="fc-header"><span class="fc-dot" style="background:#f59e0b"></span><span class="fc-title">timestamp.json</span><span class="fc-count">last update time</span></div>
+          <div class="fc-url"><span id="url-ts">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/timestamp.json</span><button class="copy-btn" onclick="copy('url-ts',this)">Copy</button></div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/timestamp.json" target="_blank">↗ Open raw JSON</a>
+        </div>
+        <div class="file-card">
+          <div class="fc-header"><span class="fc-dot" style="background:#ef4444"></span><span class="fc-title">proxies.log</span><span class="fc-count">validation log</span></div>
+          <div class="fc-url"><span id="url-log">https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/proxies.log</span><button class="copy-btn" onclick="copy('url-log',this)">Copy</button></div>
+          <a class="fc-link" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/proxies.log" target="_blank">↗ Open log</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Countries -->
+    <section class="section" id="countries">
+      <div class="section-title"><span class="section-icon">🌍</span> By Country <span style="font-size:.85rem;font-weight:500;color:var(--muted);margin-left:8px">(63 countries)</span></div>
+      <div class="country-grid">
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/AR.json" target="_blank">
+            <span class="cc-flag">AR</span>
+            <span class="cc-name">Argentina</span>
+            <span class="cc-count">11</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/AU.json" target="_blank">
+            <span class="cc-flag">AU</span>
+            <span class="cc-name">Australia</span>
+            <span class="cc-count">5</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/BA.json" target="_blank">
+            <span class="cc-flag">BA</span>
+            <span class="cc-name">Bosnia and Herzegovina</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/BD.json" target="_blank">
+            <span class="cc-flag">BD</span>
+            <span class="cc-name">Bangladesh</span>
+            <span class="cc-count">21</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/BF.json" target="_blank">
+            <span class="cc-flag">BF</span>
+            <span class="cc-name">Burkina Faso</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/BG.json" target="_blank">
+            <span class="cc-flag">BG</span>
+            <span class="cc-name">Bulgaria</span>
+            <span class="cc-count">5</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/BR.json" target="_blank">
+            <span class="cc-flag">BR</span>
+            <span class="cc-name">Brazil</span>
+            <span class="cc-count">17</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/BW.json" target="_blank">
+            <span class="cc-flag">BW</span>
+            <span class="cc-name">Botswana</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/CA.json" target="_blank">
+            <span class="cc-flag">CA</span>
+            <span class="cc-name">Canada</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/CL.json" target="_blank">
+            <span class="cc-flag">CL</span>
+            <span class="cc-name">Chile</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/CN.json" target="_blank">
+            <span class="cc-flag">CN</span>
+            <span class="cc-name">China</span>
+            <span class="cc-count">10</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/CO.json" target="_blank">
+            <span class="cc-flag">CO</span>
+            <span class="cc-name">Colombia</span>
+            <span class="cc-count">20</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/DE.json" target="_blank">
+            <span class="cc-flag">DE</span>
+            <span class="cc-name">Germany</span>
+            <span class="cc-count">5</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/EC.json" target="_blank">
+            <span class="cc-flag">EC</span>
+            <span class="cc-name">Ecuador</span>
+            <span class="cc-count">7</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/EG.json" target="_blank">
+            <span class="cc-flag">EG</span>
+            <span class="cc-name">Egypt</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/ES.json" target="_blank">
+            <span class="cc-flag">ES</span>
+            <span class="cc-name">Spain</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/FI.json" target="_blank">
+            <span class="cc-flag">FI</span>
+            <span class="cc-name">Finland</span>
+            <span class="cc-count">4</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/FR.json" target="_blank">
+            <span class="cc-flag">FR</span>
+            <span class="cc-name">France</span>
+            <span class="cc-count">4</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/GB.json" target="_blank">
+            <span class="cc-flag">GB</span>
+            <span class="cc-name">United Kingdom</span>
+            <span class="cc-count">60</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/GE.json" target="_blank">
+            <span class="cc-flag">GE</span>
+            <span class="cc-name">Georgia</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/HK.json" target="_blank">
+            <span class="cc-flag">HK</span>
+            <span class="cc-name">Hong Kong</span>
+            <span class="cc-count">6</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/HN.json" target="_blank">
+            <span class="cc-flag">HN</span>
+            <span class="cc-name">Honduras</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/HR.json" target="_blank">
+            <span class="cc-flag">HR</span>
+            <span class="cc-name">Croatia</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/HU.json" target="_blank">
+            <span class="cc-flag">HU</span>
+            <span class="cc-name">Hungary</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/ID.json" target="_blank">
+            <span class="cc-flag">ID</span>
+            <span class="cc-name">Indonesia</span>
+            <span class="cc-count">55</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/IN.json" target="_blank">
+            <span class="cc-flag">IN</span>
+            <span class="cc-name">India</span>
+            <span class="cc-count">20</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/IQ.json" target="_blank">
+            <span class="cc-flag">IQ</span>
+            <span class="cc-name">Iraq</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/IT.json" target="_blank">
+            <span class="cc-flag">IT</span>
+            <span class="cc-name">Italy</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/JP.json" target="_blank">
+            <span class="cc-flag">JP</span>
+            <span class="cc-name">Japan</span>
+            <span class="cc-count">19</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/KE.json" target="_blank">
+            <span class="cc-flag">KE</span>
+            <span class="cc-name">Kenya</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/KH.json" target="_blank">
+            <span class="cc-flag">KH</span>
+            <span class="cc-name">Cambodia</span>
+            <span class="cc-count">4</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/KR.json" target="_blank">
+            <span class="cc-flag">KR</span>
+            <span class="cc-name">South Korea</span>
+            <span class="cc-count">7</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/LK.json" target="_blank">
+            <span class="cc-flag">LK</span>
+            <span class="cc-name">Sri Lanka</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/LS.json" target="_blank">
+            <span class="cc-flag">LS</span>
+            <span class="cc-name">Lesotho</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/LT.json" target="_blank">
+            <span class="cc-flag">LT</span>
+            <span class="cc-name">Lithuania</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/LV.json" target="_blank">
+            <span class="cc-flag">LV</span>
+            <span class="cc-name">Latvia</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/LY.json" target="_blank">
+            <span class="cc-flag">LY</span>
+            <span class="cc-name">Libya</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/MM.json" target="_blank">
+            <span class="cc-flag">MM</span>
+            <span class="cc-name">Myanmar</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/MX.json" target="_blank">
+            <span class="cc-flag">MX</span>
+            <span class="cc-name">Mexico</span>
+            <span class="cc-count">12</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/MY.json" target="_blank">
+            <span class="cc-flag">MY</span>
+            <span class="cc-name">Malaysia</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/NL.json" target="_blank">
+            <span class="cc-flag">NL</span>
+            <span class="cc-name">The Netherlands</span>
+            <span class="cc-count">12</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/NP.json" target="_blank">
+            <span class="cc-flag">NP</span>
+            <span class="cc-name">Nepal</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/PA.json" target="_blank">
+            <span class="cc-flag">PA</span>
+            <span class="cc-name">Panama</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/PE.json" target="_blank">
+            <span class="cc-flag">PE</span>
+            <span class="cc-name">Peru</span>
+            <span class="cc-count">3</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/PH.json" target="_blank">
+            <span class="cc-flag">PH</span>
+            <span class="cc-name">Philippines</span>
+            <span class="cc-count">5</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/PK.json" target="_blank">
+            <span class="cc-flag">PK</span>
+            <span class="cc-name">Pakistan</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/PL.json" target="_blank">
+            <span class="cc-flag">PL</span>
+            <span class="cc-name">Poland</span>
+            <span class="cc-count">7</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/PT.json" target="_blank">
+            <span class="cc-flag">PT</span>
+            <span class="cc-name">Portugal</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/RS.json" target="_blank">
+            <span class="cc-flag">RS</span>
+            <span class="cc-name">Serbia</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/RU.json" target="_blank">
+            <span class="cc-flag">RU</span>
+            <span class="cc-name">Russia</span>
+            <span class="cc-count">19</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/SG.json" target="_blank">
+            <span class="cc-flag">SG</span>
+            <span class="cc-name">Singapore</span>
+            <span class="cc-count">9</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/SK.json" target="_blank">
+            <span class="cc-flag">SK</span>
+            <span class="cc-name">Slovakia</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/TH.json" target="_blank">
+            <span class="cc-flag">TH</span>
+            <span class="cc-name">Thailand</span>
+            <span class="cc-count">6</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/TR.json" target="_blank">
+            <span class="cc-flag">TR</span>
+            <span class="cc-name">Türkiye</span>
+            <span class="cc-count">5</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/UA.json" target="_blank">
+            <span class="cc-flag">UA</span>
+            <span class="cc-name">Ukraine</span>
+            <span class="cc-count">6</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/US.json" target="_blank">
+            <span class="cc-flag">US</span>
+            <span class="cc-name">United States</span>
+            <span class="cc-count">41</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/UY.json" target="_blank">
+            <span class="cc-flag">UY</span>
+            <span class="cc-name">Uruguay</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/UZ.json" target="_blank">
+            <span class="cc-flag">UZ</span>
+            <span class="cc-name">Uzbekistan</span>
+            <span class="cc-count">2</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/VE.json" target="_blank">
+            <span class="cc-flag">VE</span>
+            <span class="cc-name">Venezuela</span>
+            <span class="cc-count">4</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/VN.json" target="_blank">
+            <span class="cc-flag">VN</span>
+            <span class="cc-name">Vietnam</span>
+            <span class="cc-count">7</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/XK.json" target="_blank">
+            <span class="cc-flag">XK</span>
+            <span class="cc-name">Kosovo</span>
+            <span class="cc-count">1</span>
+          </a>
+          <a class="country-card" href="https://raw.githubusercontent.com/mauricegift/free-proxies/master/files/countries/ZA.json" target="_blank">
+            <span class="cc-flag">ZA</span>
+            <span class="cc-name">South Africa</span>
+            <span class="cc-count">3</span>
+          </a>
+      </div>
+    </section>
+
+  </div>
+
+  <footer>
+    Built with ❤️ by <a href="https://github.com/mauricegift" target="_blank">mauricegift</a> ·
+    <a href="https://github.com/mauricegift/free-proxies" target="_blank">View on GitHub</a> ·
+    Auto-updated every 20 minutes
+  </footer>
+</main>
+
+<div class="toast" id="toast">Copied!</div>
+
+<script>
+// Theme
+const root = document.documentElement;
+const saved = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+root.setAttribute('data-theme', saved);
+updateThemeIcon(saved);
+
+function toggleTheme() {
+  const t = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  root.setAttribute('data-theme', t);
+  localStorage.setItem('theme', t);
+  updateThemeIcon(t);
+}
+function updateThemeIcon(t) {
+  const icon = document.getElementById('theme-icon');
+  if (t === 'dark') {
+    icon.innerHTML = '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>';
+  } else {
+    icon.innerHTML = '<circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>';
+  }
+}
+
+// Sidebar
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('overlay').classList.toggle('open');
+}
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('overlay').classList.remove('open');
+}
+
+// Active nav on scroll
+const sections = document.querySelectorAll('section[id]');
+const links = document.querySelectorAll('.nav-link[href^="#"]');
+window.addEventListener('scroll', () => {
+  let cur = '';
+  sections.forEach(s => { if (window.scrollY >= s.offsetTop - 80) cur = s.id; });
+  links.forEach(l => { l.classList.toggle('active', l.getAttribute('href') === '#' + cur); });
+});
+
+// Copy
+function copy(id, btn) {
+  const text = document.getElementById(id).textContent.trim();
+  navigator.clipboard.writeText(text).then(() => {
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy', 2000);
+    showToast('Copied to clipboard!');
+  });
+}
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+</script>
+</body>
+</html>
