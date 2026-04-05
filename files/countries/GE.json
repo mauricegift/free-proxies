@@ -1,8 +1,27 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 1,
+    "count": 2,
     "proxies": [
-        "socks5://77.91.77.220:1080"
+        {
+            "url": "socks4://77.91.77.220:1080",
+            "proxy": "77.91.77.220:1080",
+            "ip": "77.91.77.220",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "GE",
+            "country": "Georgia",
+            "responseTime": 3.69
+        },
+        {
+            "url": "socks5://77.91.77.220:1080",
+            "proxy": "77.91.77.220:1080",
+            "ip": "77.91.77.220",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "GE",
+            "country": "Georgia",
+            "responseTime": 3.69
+        }
     ]
 }
