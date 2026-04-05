@@ -1,27 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
-            "url": "http://175.194.173.105:3128",
-            "proxy": "175.194.173.105:3128",
-            "ip": "175.194.173.105",
+            "url": "http://1.231.81.166:3128",
+            "proxy": "1.231.81.166:3128",
+            "ip": "1.231.81.166",
             "port": "3128",
             "type": "http",
             "countryCode": "KR",
             "country": "South Korea",
-            "responseTime": 3.75
+            "responseTime": 1.67
         },
         {
-            "url": "http://210.223.44.230:3128",
-            "proxy": "210.223.44.230:3128",
-            "ip": "210.223.44.230",
-            "port": "3128",
-            "type": "http",
+            "url": "socks4://175.203.138.160:5678",
+            "proxy": "175.203.138.160:5678",
+            "ip": "175.203.138.160",
+            "port": "5678",
+            "type": "socks4",
             "countryCode": "KR",
             "country": "South Korea",
-            "responseTime": 4.3
+            "responseTime": 4.34
         },
         {
             "url": "socks4://114.108.177.104:60984",
@@ -31,17 +31,7 @@
             "type": "socks4",
             "countryCode": "KR",
             "country": "South Korea",
-            "responseTime": 4.45
-        },
-        {
-            "url": "socks4://112.221.46.117:4153",
-            "proxy": "112.221.46.117:4153",
-            "ip": "112.221.46.117",
-            "port": "4153",
-            "type": "socks4",
-            "countryCode": "KR",
-            "country": "South Korea",
-            "responseTime": 6.31
+            "responseTime": 8.56
         }
     ]
 }
