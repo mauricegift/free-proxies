@@ -4,24 +4,42 @@
     "count": 2,
     "proxies": [
         {
-            "url": "socks4://213.149.156.87:5678",
-            "proxy": "213.149.156.87:5678",
-            "ip": "213.149.156.87",
-            "port": "5678",
-            "type": "socks4",
-            "countryCode": "BG",
+            "status": "success",
             "country": "Bulgaria",
-            "responseTime": 2.29
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Razlog",
+            "zip": "2760",
+            "lat": 41.8913,
+            "lon": 23.4806,
+            "timezone": "Europe/Sofia",
+            "isp": "VIM TV LTD",
+            "org": "VIM TV Ltd",
+            "as": "AS199702 VIM TV LTD",
+            "query": "213.149.156.87",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.32
         },
         {
-            "url": "http://85.187.224.21:8080",
-            "proxy": "85.187.224.21:8080",
-            "ip": "85.187.224.21",
-            "port": "8080",
-            "type": "http",
-            "countryCode": "BG",
+            "status": "success",
             "country": "Bulgaria",
-            "responseTime": 8.63
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Ablanitsa",
+            "zip": "2932",
+            "lat": 41.5309,
+            "lon": 23.9355,
+            "timezone": "Europe/Sofia",
+            "isp": "Sarnica-Net LTD",
+            "org": "Sarnica-Net LTD",
+            "as": "AS48584 Sarnica-Net LTD",
+            "query": "193.68.115.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.97
         }
     ]
 }
