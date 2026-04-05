@@ -4,24 +4,24 @@
     "count": 2,
     "proxies": [
         {
-            "url": "socks4://141.105.107.152:5678",
-            "proxy": "141.105.107.152:5678",
-            "ip": "141.105.107.152",
-            "port": "5678",
-            "type": "socks4",
+            "url": "http://185.114.73.2:1080",
+            "proxy": "185.114.73.2:1080",
+            "ip": "185.114.73.2",
+            "port": "1080",
+            "type": "http",
             "countryCode": "ES",
             "country": "Spain",
-            "responseTime": 2.31
+            "responseTime": 10.43
         },
         {
-            "url": "socks4://65.20.105.241:10001",
-            "proxy": "65.20.105.241:10001",
-            "ip": "65.20.105.241",
-            "port": "10001",
+            "url": "socks4://185.114.73.2:1080",
+            "proxy": "185.114.73.2:1080",
+            "ip": "185.114.73.2",
+            "port": "1080",
             "type": "socks4",
             "countryCode": "ES",
             "country": "Spain",
-            "responseTime": 4.31
+            "responseTime": 10.43
         }
     ]
 }
