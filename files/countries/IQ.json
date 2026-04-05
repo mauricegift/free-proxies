@@ -1,9 +1,17 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        "http://185.65.254.161:8081",
-        "socks4://62.201.212.198:4673"
+        {
+            "url": "http://185.65.254.161:8081",
+            "proxy": "185.65.254.161:8081",
+            "ip": "185.65.254.161",
+            "port": "8081",
+            "type": "http",
+            "countryCode": "IQ",
+            "country": "Iraq",
+            "responseTime": 7.63
+        }
     ]
 }
