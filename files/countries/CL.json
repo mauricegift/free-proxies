@@ -1,8 +1,27 @@
 {
     "countryCode": "CL",
     "country": "Chile",
-    "count": 1,
+    "count": 2,
     "proxies": [
-        "http://38.7.195.52:999"
+        {
+            "url": "http://204.199.140.23:999",
+            "proxy": "204.199.140.23:999",
+            "ip": "204.199.140.23",
+            "port": "999",
+            "type": "http",
+            "countryCode": "CL",
+            "country": "Chile",
+            "responseTime": 4.3
+        },
+        {
+            "url": "http://38.7.195.52:999",
+            "proxy": "38.7.195.52:999",
+            "ip": "38.7.195.52",
+            "port": "999",
+            "type": "http",
+            "countryCode": "CL",
+            "country": "Chile",
+            "responseTime": 10.61
+        }
     ]
 }
