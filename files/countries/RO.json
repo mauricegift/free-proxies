@@ -3,6 +3,15 @@
     "country": "Romania",
     "count": 1,
     "proxies": [
-        "socks4://46.214.153.223:5678"
+        {
+            "url": "socks4://92.86.92.126:42740",
+            "proxy": "92.86.92.126:42740",
+            "ip": "92.86.92.126",
+            "port": "42740",
+            "type": "socks4",
+            "countryCode": "RO",
+            "country": "Romania",
+            "responseTime": 7.54
+        }
     ]
 }
