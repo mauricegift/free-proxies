@@ -1,11 +1,77 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 4,
+    "count": 7,
     "proxies": [
-        "http://34.96.238.40:8080",
-        "http://152.32.190.98:3128",
-        "socks5://45.119.97.69:443",
-        "socks5://47.238.203.170:50000"
+        {
+            "url": "http://20.2.83.243:3128",
+            "proxy": "20.2.83.243:3128",
+            "ip": "20.2.83.243",
+            "port": "3128",
+            "type": "http",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 1.17
+        },
+        {
+            "url": "http://47.238.203.170:50000",
+            "proxy": "47.238.203.170:50000",
+            "ip": "47.238.203.170",
+            "port": "50000",
+            "type": "http",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 2.29
+        },
+        {
+            "url": "socks5://47.238.203.170:50000",
+            "proxy": "47.238.203.170:50000",
+            "ip": "47.238.203.170",
+            "port": "50000",
+            "type": "socks5",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 2.29
+        },
+        {
+            "url": "http://223.16.170.103:80",
+            "proxy": "223.16.170.103:80",
+            "ip": "223.16.170.103",
+            "port": "80",
+            "type": "http",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 2.66
+        },
+        {
+            "url": "http://203.196.8.6:3128",
+            "proxy": "203.196.8.6:3128",
+            "ip": "203.196.8.6",
+            "port": "3128",
+            "type": "http",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 3.7
+        },
+        {
+            "url": "socks4://8.210.158.189:9064",
+            "proxy": "8.210.158.189:9064",
+            "ip": "8.210.158.189",
+            "port": "9064",
+            "type": "socks4",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 4.0
+        },
+        {
+            "url": "socks5://45.119.97.69:443",
+            "proxy": "45.119.97.69:443",
+            "ip": "45.119.97.69",
+            "port": "443",
+            "type": "socks5",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 5.39
+        }
     ]
 }
