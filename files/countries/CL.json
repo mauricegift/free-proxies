@@ -1,17 +1,27 @@
 {
     "countryCode": "CL",
     "country": "Chile",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
-            "url": "http://204.199.140.23:999",
-            "proxy": "204.199.140.23:999",
-            "ip": "204.199.140.23",
-            "port": "999",
-            "type": "http",
+            "url": "socks4://190.13.147.93:5678",
+            "proxy": "190.13.147.93:5678",
+            "ip": "190.13.147.93",
+            "port": "5678",
+            "type": "socks4",
             "countryCode": "CL",
             "country": "Chile",
-            "responseTime": 4.3
+            "responseTime": 2.98
+        },
+        {
+            "url": "socks4://190.13.147.241:5678",
+            "proxy": "190.13.147.241:5678",
+            "ip": "190.13.147.241",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "CL",
+            "country": "Chile",
+            "responseTime": 3.24
         },
         {
             "url": "http://38.7.195.52:999",
@@ -21,7 +31,17 @@
             "type": "http",
             "countryCode": "CL",
             "country": "Chile",
-            "responseTime": 10.61
+            "responseTime": 5.55
+        },
+        {
+            "url": "http://179.57.171.227:999",
+            "proxy": "179.57.171.227:999",
+            "ip": "179.57.171.227",
+            "port": "999",
+            "type": "http",
+            "countryCode": "CL",
+            "country": "Chile",
+            "responseTime": 11.11
         }
     ]
 }
