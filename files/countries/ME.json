@@ -3,6 +3,15 @@
     "country": "Montenegro",
     "count": 1,
     "proxies": [
-        "socks4://62.4.37.104:60606"
+        {
+            "url": "socks4://62.4.37.104:60606",
+            "proxy": "62.4.37.104:60606",
+            "ip": "62.4.37.104",
+            "port": "60606",
+            "type": "socks4",
+            "countryCode": "ME",
+            "country": "Montenegro",
+            "responseTime": 3.43
+        }
     ]
 }
