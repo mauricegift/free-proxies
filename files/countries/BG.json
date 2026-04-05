@@ -1,8 +1,46 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Razlog",
+            "zip": "2760",
+            "lat": 41.8913,
+            "lon": 23.4806,
+            "timezone": "Europe/Sofia",
+            "isp": "VIM TV LTD",
+            "org": "VIM TV Ltd",
+            "as": "AS199702 VIM TV LTD",
+            "query": "213.149.156.87",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.36
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Ablanitsa",
+            "zip": "2932",
+            "lat": 41.5309,
+            "lon": 23.9355,
+            "timezone": "Europe/Sofia",
+            "isp": "Sarnica-Net LTD",
+            "org": "Sarnica-Net LTD",
+            "as": "AS48584 Sarnica-Net LTD",
+            "query": "193.68.115.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.12
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -11,16 +49,16 @@
             "regionName": "Sofia-Capital",
             "city": "Sofia",
             "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "lat": 42.6977,
+            "lon": 23.3219,
             "timezone": "Europe/Sofia",
-            "isp": "FIBER1",
-            "org": "",
-            "as": "AS39135 Fiber 1 Ltd.",
-            "query": "77.238.79.111",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.42
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.10",
+            "type": "http",
+            "port": "8001",
+            "response_time": 9.33
         }
     ]
 }
