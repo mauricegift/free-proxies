@@ -1,8 +1,27 @@
 {
     "countryCode": "DO",
     "country": "Dominican Republic",
-    "count": 1,
+    "count": 2,
     "proxies": [
-        "http://38.188.247.12:999"
+        {
+            "url": "http://38.159.223.159:999",
+            "proxy": "38.159.223.159:999",
+            "ip": "38.159.223.159",
+            "port": "999",
+            "type": "http",
+            "countryCode": "DO",
+            "country": "Dominican Republic",
+            "responseTime": 2.22
+        },
+        {
+            "url": "http://38.188.247.12:999",
+            "proxy": "38.188.247.12:999",
+            "ip": "38.188.247.12",
+            "port": "999",
+            "type": "http",
+            "countryCode": "DO",
+            "country": "Dominican Republic",
+            "responseTime": 2.42
+        }
     ]
 }
