@@ -1,8 +1,27 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
-        "socks4://125.227.169.85:38157"
+        {
+            "url": "http://210.61.216.63:60808",
+            "proxy": "210.61.216.63:60808",
+            "ip": "210.61.216.63",
+            "port": "60808",
+            "type": "http",
+            "countryCode": "TW",
+            "country": "Taiwan",
+            "responseTime": 9.14
+        },
+        {
+            "url": "http://27.147.28.73:8080",
+            "proxy": "27.147.28.73:8080",
+            "ip": "27.147.28.73",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "TW",
+            "country": "Taiwan",
+            "responseTime": 10.29
+        }
     ]
 }
