@@ -1,18 +1,8 @@
 {
     "countryCode": "VN",
     "country": "Vietnam",
-    "count": 5,
+    "count": 4,
     "proxies": [
-        {
-            "url": "socks4://27.65.240.89:1080",
-            "proxy": "27.65.240.89:1080",
-            "ip": "27.65.240.89",
-            "port": "1080",
-            "type": "socks4",
-            "countryCode": "VN",
-            "country": "Vietnam",
-            "responseTime": 1.31
-        },
         {
             "url": "http://113.160.132.26:8080",
             "proxy": "113.160.132.26:8080",
@@ -21,7 +11,17 @@
             "type": "http",
             "countryCode": "VN",
             "country": "Vietnam",
-            "responseTime": 1.92
+            "responseTime": 1.96
+        },
+        {
+            "url": "socks4://42.115.72.184:1080",
+            "proxy": "42.115.72.184:1080",
+            "ip": "42.115.72.184",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 2.06
         },
         {
             "url": "socks4://160.250.54.7:9000",
@@ -31,27 +31,17 @@
             "type": "socks4",
             "countryCode": "VN",
             "country": "Vietnam",
-            "responseTime": 5.07
+            "responseTime": 6.01
         },
         {
-            "url": "socks4://118.70.212.110:60606",
-            "proxy": "118.70.212.110:60606",
-            "ip": "118.70.212.110",
-            "port": "60606",
+            "url": "socks4://163.223.231.121:59118",
+            "proxy": "163.223.231.121:59118",
+            "ip": "163.223.231.121",
+            "port": "59118",
             "type": "socks4",
             "countryCode": "VN",
             "country": "Vietnam",
-            "responseTime": 8.31
-        },
-        {
-            "url": "http://110.172.29.131:3128",
-            "proxy": "110.172.29.131:3128",
-            "ip": "110.172.29.131",
-            "port": "3128",
-            "type": "http",
-            "countryCode": "VN",
-            "country": "Vietnam",
-            "responseTime": 11.08
+            "responseTime": 6.6
         }
     ]
 }
