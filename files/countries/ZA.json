@@ -1,57 +1,26 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 5,
+    "count": 1,
     "proxies": [
         {
-            "url": "http://169.255.77.150:9999",
-            "proxy": "169.255.77.150:9999",
-            "ip": "169.255.77.150",
-            "port": "9999",
-            "type": "http",
-            "countryCode": "ZA",
+            "status": "success",
             "country": "South Africa",
-            "responseTime": 4.29
-        },
-        {
-            "url": "socks4://105.27.180.194:1080",
-            "proxy": "105.27.180.194:1080",
-            "ip": "105.27.180.194",
-            "port": "1080",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Equestria",
+            "zip": "0040",
+            "lat": -25.7639,
+            "lon": 28.3365,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Vodacom Shared ENS NSA",
+            "org": "",
+            "as": "AS36994 Vodacom",
+            "query": "41.21.182.179",
             "type": "socks4",
-            "countryCode": "ZA",
-            "country": "South Africa",
-            "responseTime": 5.06
-        },
-        {
-            "url": "http://102.135.142.234:12354",
-            "proxy": "102.135.142.234:12354",
-            "ip": "102.135.142.234",
-            "port": "12354",
-            "type": "http",
-            "countryCode": "ZA",
-            "country": "South Africa",
-            "responseTime": 5.17
-        },
-        {
-            "url": "http://154.0.14.116:3128",
-            "proxy": "154.0.14.116:3128",
-            "ip": "154.0.14.116",
-            "port": "3128",
-            "type": "http",
-            "countryCode": "ZA",
-            "country": "South Africa",
-            "responseTime": 5.8
-        },
-        {
-            "url": "http://102.217.139.31:8180",
-            "proxy": "102.217.139.31:8180",
-            "ip": "102.217.139.31",
-            "port": "8180",
-            "type": "http",
-            "countryCode": "ZA",
-            "country": "South Africa",
-            "responseTime": 8.96
+            "port": "5678",
+            "response_time": 1.04
         }
     ]
 }
