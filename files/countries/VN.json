@@ -1,12 +1,77 @@
 {
     "countryCode": "VN",
     "country": "Vietnam",
-    "count": 5,
+    "count": 7,
     "proxies": [
-        "http://42.118.99.137:80",
-        "socks4://157.66.26.151:1080",
-        "socks4://116.106.106.79:1080",
-        "socks4://14.241.182.44:5678",
-        "socks4://183.80.130.9:4145"
+        {
+            "url": "socks4://116.106.106.79:1080",
+            "proxy": "116.106.106.79:1080",
+            "ip": "116.106.106.79",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 1.03
+        },
+        {
+            "url": "http://113.160.132.26:8080",
+            "proxy": "113.160.132.26:8080",
+            "ip": "113.160.132.26",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 1.25
+        },
+        {
+            "url": "socks4://160.250.54.5:9000",
+            "proxy": "160.250.54.5:9000",
+            "ip": "160.250.54.5",
+            "port": "9000",
+            "type": "socks4",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 3.36
+        },
+        {
+            "url": "http://171.232.43.57:8080",
+            "proxy": "171.232.43.57:8080",
+            "ip": "171.232.43.57",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 6.64
+        },
+        {
+            "url": "socks4://118.71.99.233:5678",
+            "proxy": "118.71.99.233:5678",
+            "ip": "118.71.99.233",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 8.42
+        },
+        {
+            "url": "http://203.205.49.2:10014",
+            "proxy": "203.205.49.2:10014",
+            "ip": "203.205.49.2",
+            "port": "10014",
+            "type": "http",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 10.07
+        },
+        {
+            "url": "http://103.3.246.71:3128",
+            "proxy": "103.3.246.71:3128",
+            "ip": "103.3.246.71",
+            "port": "3128",
+            "type": "http",
+            "countryCode": "VN",
+            "country": "Vietnam",
+            "responseTime": 13.15
+        }
     ]
 }
