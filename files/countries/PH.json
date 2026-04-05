@@ -1,10 +1,57 @@
 {
     "countryCode": "PH",
     "country": "Philippines",
-    "count": 3,
+    "count": 5,
     "proxies": [
-        "http://138.84.65.117:8081",
-        "http://161.49.215.28:10101",
-        "socks4://124.105.55.176:30906"
+        {
+            "url": "http://119.93.87.65:8080",
+            "proxy": "119.93.87.65:8080",
+            "ip": "119.93.87.65",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "PH",
+            "country": "Philippines",
+            "responseTime": 1.65
+        },
+        {
+            "url": "http://180.191.23.26:8081",
+            "proxy": "180.191.23.26:8081",
+            "ip": "180.191.23.26",
+            "port": "8081",
+            "type": "http",
+            "countryCode": "PH",
+            "country": "Philippines",
+            "responseTime": 3.23
+        },
+        {
+            "url": "http://49.146.153.161:8082",
+            "proxy": "49.146.153.161:8082",
+            "ip": "49.146.153.161",
+            "port": "8082",
+            "type": "http",
+            "countryCode": "PH",
+            "country": "Philippines",
+            "responseTime": 4.65
+        },
+        {
+            "url": "http://124.6.168.26:80",
+            "proxy": "124.6.168.26:80",
+            "ip": "124.6.168.26",
+            "port": "80",
+            "type": "http",
+            "countryCode": "PH",
+            "country": "Philippines",
+            "responseTime": 6.94
+        },
+        {
+            "url": "http://122.3.41.154:8090",
+            "proxy": "122.3.41.154:8090",
+            "ip": "122.3.41.154",
+            "port": "8090",
+            "type": "http",
+            "countryCode": "PH",
+            "country": "Philippines",
+            "responseTime": 16.03
+        }
     ]
 }
