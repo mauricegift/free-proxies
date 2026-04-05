@@ -1,27 +1,37 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
-            "url": "http://110.38.226.139:8080",
-            "proxy": "110.38.226.139:8080",
-            "ip": "110.38.226.139",
+            "url": "http://103.66.149.194:8080",
+            "proxy": "103.66.149.194:8080",
+            "ip": "103.66.149.194",
             "port": "8080",
             "type": "http",
             "countryCode": "PK",
             "country": "Pakistan",
-            "responseTime": 6.97
+            "responseTime": 7.12
         },
         {
-            "url": "http://103.197.47.42:8080",
-            "proxy": "103.197.47.42:8080",
-            "ip": "103.197.47.42",
+            "url": "socks4://124.109.44.126:4145",
+            "proxy": "124.109.44.126:4145",
+            "ip": "124.109.44.126",
+            "port": "4145",
+            "type": "socks4",
+            "countryCode": "PK",
+            "country": "Pakistan",
+            "responseTime": 8.04
+        },
+        {
+            "url": "http://116.0.53.34:8080",
+            "proxy": "116.0.53.34:8080",
+            "ip": "116.0.53.34",
             "port": "8080",
             "type": "http",
             "countryCode": "PK",
             "country": "Pakistan",
-            "responseTime": 11.94
+            "responseTime": 8.6
         }
     ]
 }
