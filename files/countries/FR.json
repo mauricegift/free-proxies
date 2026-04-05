@@ -1,37 +1,57 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
-            "url": "socks4://109.123.251.109:1080",
-            "proxy": "109.123.251.109:1080",
-            "ip": "109.123.251.109",
+            "url": "socks4://185.178.185.100:1080",
+            "proxy": "185.178.185.100:1080",
+            "ip": "185.178.185.100",
             "port": "1080",
             "type": "socks4",
             "countryCode": "FR",
             "country": "France",
-            "responseTime": 0.19
+            "responseTime": 0.7
         },
         {
-            "url": "http://173.249.50.95:3128",
-            "proxy": "173.249.50.95:3128",
-            "ip": "173.249.50.95",
+            "url": "http://37.60.237.110:30001",
+            "proxy": "37.60.237.110:30001",
+            "ip": "37.60.237.110",
+            "port": "30001",
+            "type": "http",
+            "countryCode": "FR",
+            "country": "France",
+            "responseTime": 1.75
+        },
+        {
+            "url": "http://62.171.161.88:2018",
+            "proxy": "62.171.161.88:2018",
+            "ip": "62.171.161.88",
+            "port": "2018",
+            "type": "http",
+            "countryCode": "FR",
+            "country": "France",
+            "responseTime": 3.59
+        },
+        {
+            "url": "http://173.212.246.157:3128",
+            "proxy": "173.212.246.157:3128",
+            "ip": "173.212.246.157",
             "port": "3128",
             "type": "http",
             "countryCode": "FR",
             "country": "France",
-            "responseTime": 9.68
+            "responseTime": 8.92
         },
         {
-            "url": "socks4://37.44.238.2:53471",
-            "proxy": "37.44.238.2:53471",
-            "ip": "37.44.238.2",
-            "port": "53471",
-            "type": "socks4",
+            "url": "http://85.208.51.165:443",
+            "proxy": "85.208.51.165:443",
+            "ip": "85.208.51.165",
+            "port": "443",
+            "type": "http",
             "countryCode": "FR",
             "country": "France",
-            "responseTime": 10.29
+            "responseTime": 16.08
         }
     ]
 }
