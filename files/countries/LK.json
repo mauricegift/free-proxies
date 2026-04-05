@@ -1,8 +1,18 @@
 {
     "countryCode": "LK",
     "country": "Sri Lanka",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "url": "http://192.248.95.98:54126",
+            "proxy": "192.248.95.98:54126",
+            "ip": "192.248.95.98",
+            "port": "54126",
+            "type": "http",
+            "countryCode": "LK",
+            "country": "Sri Lanka",
+            "responseTime": 5.23
+        },
         {
             "url": "socks4://192.248.95.98:54126",
             "proxy": "192.248.95.98:54126",
@@ -11,7 +21,7 @@
             "type": "socks4",
             "countryCode": "LK",
             "country": "Sri Lanka",
-            "responseTime": 4.44
+            "responseTime": 5.23
         }
     ]
 }
