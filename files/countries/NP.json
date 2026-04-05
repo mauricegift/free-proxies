@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "NP",
             "region": "P3",
             "regionName": "Bagmati Province",
-            "city": "Patan",
+            "city": "Kathmandu",
             "zip": "",
-            "lat": 27.6744,
-            "lon": 85.3123,
+            "lat": 27.7108,
+            "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "124.41.213.174",
+            "query": "202.79.35.12",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 6.02
+            "port": "1080",
+            "response_time": 6.04
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7108,
+            "lon": 85.3251,
+            "timezone": "Asia/Kathmandu",
+            "isp": "WorldLink Communications",
+            "org": "",
+            "as": "AS17501 WorldLink Communications Pvt Ltd",
+            "query": "202.79.35.143",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 8.05
         }
     ]
 }
