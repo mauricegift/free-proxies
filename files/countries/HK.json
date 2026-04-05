@@ -1,17 +1,27 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
-            "url": "http://103.210.22.17:3128",
-            "proxy": "103.210.22.17:3128",
-            "ip": "103.210.22.17",
-            "port": "3128",
+            "url": "http://223.16.170.103:80",
+            "proxy": "223.16.170.103:80",
+            "ip": "223.16.170.103",
+            "port": "80",
             "type": "http",
             "countryCode": "HK",
             "country": "Hong Kong",
-            "responseTime": 3.86
+            "responseTime": 1.38
+        },
+        {
+            "url": "http://34.96.238.40:8080",
+            "proxy": "34.96.238.40:8080",
+            "ip": "34.96.238.40",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "HK",
+            "country": "Hong Kong",
+            "responseTime": 3.45
         }
     ]
 }
