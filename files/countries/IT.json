@@ -1,9 +1,17 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        "socks4://91.192.25.158:4145",
-        "socks4://149.62.186.244:1080"
+        {
+            "url": "socks4://149.62.186.244:1080",
+            "proxy": "149.62.186.244:1080",
+            "ip": "149.62.186.244",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "IT",
+            "country": "Italy",
+            "responseTime": 0.71
+        }
     ]
 }
