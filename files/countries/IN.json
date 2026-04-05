@@ -1,8 +1,28 @@
 {
     "countryCode": "IN",
     "country": "India",
-    "count": 22,
+    "count": 24,
     "proxies": [
+        {
+            "url": "socks4://103.60.187.129:52195",
+            "proxy": "103.60.187.129:52195",
+            "ip": "103.60.187.129",
+            "port": "52195",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 0.88
+        },
+        {
+            "url": "socks4://139.59.24.173:1080",
+            "proxy": "139.59.24.173:1080",
+            "ip": "139.59.24.173",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 0.93
+        },
         {
             "url": "socks4://64.227.131.240:1080",
             "proxy": "64.227.131.240:1080",
@@ -11,57 +31,7 @@
             "type": "socks4",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 1.16
-        },
-        {
-            "url": "socks5://64.227.131.240:1080",
-            "proxy": "64.227.131.240:1080",
-            "ip": "64.227.131.240",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 1.16
-        },
-        {
-            "url": "socks4://103.76.190.37:31756",
-            "proxy": "103.76.190.37:31756",
-            "ip": "103.76.190.37",
-            "port": "31756",
-            "type": "socks4",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 1.19
-        },
-        {
-            "url": "socks4://103.197.32.205:5678",
-            "proxy": "103.197.32.205:5678",
-            "ip": "103.197.32.205",
-            "port": "5678",
-            "type": "socks4",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 1.31
-        },
-        {
-            "url": "socks5://103.163.244.106:1080",
-            "proxy": "103.163.244.106:1080",
-            "ip": "103.163.244.106",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 1.6
-        },
-        {
-            "url": "http://167.103.34.108:8800",
-            "proxy": "167.103.34.108:8800",
-            "ip": "167.103.34.108",
-            "port": "8800",
-            "type": "http",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 1.8
+            "responseTime": 0.96
         },
         {
             "url": "http://167.103.31.122:8800",
@@ -71,57 +41,67 @@
             "type": "http",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 2.0
+            "responseTime": 1.11
         },
         {
-            "url": "http://202.140.62.212:8080",
-            "proxy": "202.140.62.212:8080",
-            "ip": "202.140.62.212",
+            "url": "socks4://167.71.226.135:1080",
+            "proxy": "167.71.226.135:1080",
+            "ip": "167.71.226.135",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 1.28
+        },
+        {
+            "url": "http://167.103.34.108:8800",
+            "proxy": "167.103.34.108:8800",
+            "ip": "167.103.34.108",
+            "port": "8800",
+            "type": "http",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 1.51
+        },
+        {
+            "url": "socks4://103.224.54.233:31433",
+            "proxy": "103.224.54.233:31433",
+            "ip": "103.224.54.233",
+            "port": "31433",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 2.03
+        },
+        {
+            "url": "socks4://103.81.117.225:4153",
+            "proxy": "103.81.117.225:4153",
+            "ip": "103.81.117.225",
+            "port": "4153",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 3.12
+        },
+        {
+            "url": "http://103.122.60.2:8080",
+            "proxy": "103.122.60.2:8080",
+            "ip": "103.122.60.2",
             "port": "8080",
             "type": "http",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 2.04
+            "responseTime": 3.35
         },
         {
-            "url": "socks5://163.53.204.178:9813",
-            "proxy": "163.53.204.178:9813",
-            "ip": "163.53.204.178",
-            "port": "9813",
-            "type": "socks5",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 2.78
-        },
-        {
-            "url": "http://103.88.237.97:84",
-            "proxy": "103.88.237.97:84",
-            "ip": "103.88.237.97",
-            "port": "84",
-            "type": "http",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 3.87
-        },
-        {
-            "url": "socks4://103.41.33.169:51951",
-            "proxy": "103.41.33.169:51951",
-            "ip": "103.41.33.169",
-            "port": "51951",
+            "url": "socks4://122.15.255.229:60606",
+            "proxy": "122.15.255.229:60606",
+            "ip": "122.15.255.229",
+            "port": "60606",
             "type": "socks4",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 4.21
-        },
-        {
-            "url": "socks4://103.143.214.81:5678",
-            "proxy": "103.143.214.81:5678",
-            "ip": "103.143.214.81",
-            "port": "5678",
-            "type": "socks4",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 4.27
+            "responseTime": 3.67
         },
         {
             "url": "socks4://202.179.88.233:51951",
@@ -131,67 +111,27 @@
             "type": "socks4",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 6.19
+            "responseTime": 3.84
         },
         {
-            "url": "http://103.147.98.122:8080",
-            "proxy": "103.147.98.122:8080",
-            "ip": "103.147.98.122",
-            "port": "8080",
-            "type": "http",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 6.65
-        },
-        {
-            "url": "socks4://150.129.115.253:6667",
-            "proxy": "150.129.115.253:6667",
-            "ip": "150.129.115.253",
-            "port": "6667",
-            "type": "socks4",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 8.61
-        },
-        {
-            "url": "socks5://150.129.115.253:6667",
-            "proxy": "150.129.115.253:6667",
-            "ip": "150.129.115.253",
-            "port": "6667",
-            "type": "socks5",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 8.61
-        },
-        {
-            "url": "socks5://38.76.200.182:58367",
-            "proxy": "38.76.200.182:58367",
-            "ip": "38.76.200.182",
-            "port": "58367",
-            "type": "socks5",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 9.13
-        },
-        {
-            "url": "http://103.141.247.6:8080",
-            "proxy": "103.141.247.6:8080",
-            "ip": "103.141.247.6",
-            "port": "8080",
-            "type": "http",
-            "countryCode": "IN",
-            "country": "India",
-            "responseTime": 9.64
-        },
-        {
-            "url": "http://103.48.70.145:83",
-            "proxy": "103.48.70.145:83",
-            "ip": "103.48.70.145",
+            "url": "http://103.177.235.207:83",
+            "proxy": "103.177.235.207:83",
+            "ip": "103.177.235.207",
             "port": "83",
             "type": "http",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 9.87
+            "responseTime": 4.17
+        },
+        {
+            "url": "socks4://103.76.190.37:31756",
+            "proxy": "103.76.190.37:31756",
+            "ip": "103.76.190.37",
+            "port": "31756",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 5.37
         },
         {
             "url": "http://202.176.1.77:5555",
@@ -201,27 +141,107 @@
             "type": "http",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 13.62
+            "responseTime": 5.7
         },
         {
-            "url": "http://121.240.126.113:8083",
-            "proxy": "121.240.126.113:8083",
-            "ip": "121.240.126.113",
-            "port": "8083",
-            "type": "http",
+            "url": "socks4://45.116.230.79:4673",
+            "proxy": "45.116.230.79:4673",
+            "ip": "45.116.230.79",
+            "port": "4673",
+            "type": "socks4",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 13.69
+            "responseTime": 6.15
         },
         {
-            "url": "http://43.243.172.186:83",
-            "proxy": "43.243.172.186:83",
-            "ip": "43.243.172.186",
+            "url": "socks4://49.207.177.65:5678",
+            "proxy": "49.207.177.65:5678",
+            "ip": "49.207.177.65",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 6.19
+        },
+        {
+            "url": "http://103.48.71.46:83",
+            "proxy": "103.48.71.46:83",
+            "ip": "103.48.71.46",
             "port": "83",
             "type": "http",
             "countryCode": "IN",
             "country": "India",
-            "responseTime": 15.38
+            "responseTime": 6.31
+        },
+        {
+            "url": "socks4://103.254.57.227:48293",
+            "proxy": "103.254.57.227:48293",
+            "ip": "103.254.57.227",
+            "port": "48293",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 6.61
+        },
+        {
+            "url": "http://103.199.215.43:6262",
+            "proxy": "103.199.215.43:6262",
+            "ip": "103.199.215.43",
+            "port": "6262",
+            "type": "http",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 7.49
+        },
+        {
+            "url": "socks4://103.81.117.122:4153",
+            "proxy": "103.81.117.122:4153",
+            "ip": "103.81.117.122",
+            "port": "4153",
+            "type": "socks4",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 7.88
+        },
+        {
+            "url": "http://103.123.235.114:8080",
+            "proxy": "103.123.235.114:8080",
+            "ip": "103.123.235.114",
+            "port": "8080",
+            "type": "http",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 8.01
+        },
+        {
+            "url": "http://103.255.222.1:80",
+            "proxy": "103.255.222.1:80",
+            "ip": "103.255.222.1",
+            "port": "80",
+            "type": "http",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 9.48
+        },
+        {
+            "url": "http://134.209.153.66:3128",
+            "proxy": "134.209.153.66:3128",
+            "ip": "134.209.153.66",
+            "port": "3128",
+            "type": "http",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 10.84
+        },
+        {
+            "url": "http://103.136.82.252:83",
+            "proxy": "103.136.82.252:83",
+            "ip": "103.136.82.252",
+            "port": "83",
+            "type": "http",
+            "countryCode": "IN",
+            "country": "India",
+            "responseTime": 13.91
         }
     ]
 }
