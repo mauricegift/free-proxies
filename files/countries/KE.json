@@ -1,17 +1,45 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
-            "url": "socks4://154.79.248.156:5678",
-            "proxy": "154.79.248.156:5678",
-            "ip": "154.79.248.156",
-            "port": "5678",
-            "type": "socks4",
-            "countryCode": "KE",
+            "status": "success",
             "country": "Kenya",
-            "responseTime": 2.34
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.14.38",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.77
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.18.198",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.59
         }
     ]
 }
