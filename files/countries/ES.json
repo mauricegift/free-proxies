@@ -1,27 +1,37 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
-            "url": "http://185.114.73.2:1080",
-            "proxy": "185.114.73.2:1080",
-            "ip": "185.114.73.2",
-            "port": "1080",
+            "url": "http://90.174.128.42:3128",
+            "proxy": "90.174.128.42:3128",
+            "ip": "90.174.128.42",
+            "port": "3128",
             "type": "http",
             "countryCode": "ES",
             "country": "Spain",
-            "responseTime": 10.43
+            "responseTime": 4.21
         },
         {
-            "url": "socks4://185.114.73.2:1080",
-            "proxy": "185.114.73.2:1080",
-            "ip": "185.114.73.2",
-            "port": "1080",
-            "type": "socks4",
+            "url": "http://213.220.3.234:20573",
+            "proxy": "213.220.3.234:20573",
+            "ip": "213.220.3.234",
+            "port": "20573",
+            "type": "http",
             "countryCode": "ES",
             "country": "Spain",
-            "responseTime": 10.43
+            "responseTime": 9.71
+        },
+        {
+            "url": "http://185.226.195.218:2222",
+            "proxy": "185.226.195.218:2222",
+            "ip": "185.226.195.218",
+            "port": "2222",
+            "type": "http",
+            "countryCode": "ES",
+            "country": "Spain",
+            "responseTime": 16.5
         }
     ]
 }
