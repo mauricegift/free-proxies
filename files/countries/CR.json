@@ -3,6 +3,15 @@
     "country": "Costa Rica",
     "count": 1,
     "proxies": [
-        "socks4://200.192.236.242:1080"
+        {
+            "url": "socks4://181.193.12.82:6969",
+            "proxy": "181.193.12.82:6969",
+            "ip": "181.193.12.82",
+            "port": "6969",
+            "type": "socks4",
+            "countryCode": "CR",
+            "country": "Costa Rica",
+            "responseTime": 5.2
+        }
     ]
 }
