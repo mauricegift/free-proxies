@@ -1,17 +1,17 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 7,
+    "count": 6,
     "proxies": [
         {
-            "url": "http://111.227.254.10:22222",
-            "proxy": "111.227.254.10:22222",
-            "ip": "111.227.254.10",
-            "port": "22222",
+            "url": "http://180.125.216.109:8118",
+            "proxy": "180.125.216.109:8118",
+            "ip": "180.125.216.109",
+            "port": "8118",
             "type": "http",
             "countryCode": "CN",
             "country": "China",
-            "responseTime": 1.81
+            "responseTime": 1.57
         },
         {
             "url": "http://111.227.254.9:22222",
@@ -21,17 +21,37 @@
             "type": "http",
             "countryCode": "CN",
             "country": "China",
-            "responseTime": 4.78
+            "responseTime": 1.71
         },
         {
-            "url": "socks4://218.26.101.226:53813",
-            "proxy": "218.26.101.226:53813",
-            "ip": "218.26.101.226",
-            "port": "53813",
-            "type": "socks4",
+            "url": "http://111.227.254.11:22222",
+            "proxy": "111.227.254.11:22222",
+            "ip": "111.227.254.11",
+            "port": "22222",
+            "type": "http",
             "countryCode": "CN",
             "country": "China",
-            "responseTime": 4.79
+            "responseTime": 2.01
+        },
+        {
+            "url": "http://116.171.106.15:3443",
+            "proxy": "116.171.106.15:3443",
+            "ip": "116.171.106.15",
+            "port": "3443",
+            "type": "http",
+            "countryCode": "CN",
+            "country": "China",
+            "responseTime": 4.36
+        },
+        {
+            "url": "http://111.79.111.126:3128",
+            "proxy": "111.79.111.126:3128",
+            "ip": "111.79.111.126",
+            "port": "3128",
+            "type": "http",
+            "countryCode": "CN",
+            "country": "China",
+            "responseTime": 5.53
         },
         {
             "url": "http://218.108.131.186:17890",
@@ -41,37 +61,7 @@
             "type": "http",
             "countryCode": "CN",
             "country": "China",
-            "responseTime": 5.53
-        },
-        {
-            "url": "http://220.197.44.36:3128",
-            "proxy": "220.197.44.36:3128",
-            "ip": "220.197.44.36",
-            "port": "3128",
-            "type": "http",
-            "countryCode": "CN",
-            "country": "China",
-            "responseTime": 10.37
-        },
-        {
-            "url": "http://115.190.91.223:7897",
-            "proxy": "115.190.91.223:7897",
-            "ip": "115.190.91.223",
-            "port": "7897",
-            "type": "http",
-            "countryCode": "CN",
-            "country": "China",
-            "responseTime": 12.21
-        },
-        {
-            "url": "http://116.171.106.78:3443",
-            "proxy": "116.171.106.78:3443",
-            "ip": "116.171.106.78",
-            "port": "3443",
-            "type": "http",
-            "countryCode": "CN",
-            "country": "China",
-            "responseTime": 12.94
+            "responseTime": 5.67
         }
     ]
 }
