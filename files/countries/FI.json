@@ -1,47 +1,57 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
-            "url": "socks4://213.165.58.6:1080",
-            "proxy": "213.165.58.6:1080",
-            "ip": "213.165.58.6",
+            "url": "socks5://213.165.58.7:1080",
+            "proxy": "213.165.58.7:1080",
+            "ip": "213.165.58.7",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "FI",
+            "country": "Finland",
+            "responseTime": 1.35
+        },
+        {
+            "url": "http://65.108.159.129:8081",
+            "proxy": "65.108.159.129:8081",
+            "ip": "65.108.159.129",
+            "port": "8081",
+            "type": "http",
+            "countryCode": "FI",
+            "country": "Finland",
+            "responseTime": 2.18
+        },
+        {
+            "url": "http://45.12.151.226:2829",
+            "proxy": "45.12.151.226:2829",
+            "ip": "45.12.151.226",
+            "port": "2829",
+            "type": "http",
+            "countryCode": "FI",
+            "country": "Finland",
+            "responseTime": 2.41
+        },
+        {
+            "url": "socks4://109.120.151.2:1080",
+            "proxy": "109.120.151.2:1080",
+            "ip": "109.120.151.2",
             "port": "1080",
             "type": "socks4",
             "countryCode": "FI",
             "country": "Finland",
-            "responseTime": 0.91
+            "responseTime": 5.52
         },
         {
-            "url": "socks5://65.21.90.27:600",
-            "proxy": "65.21.90.27:600",
+            "url": "http://65.21.90.27:839",
+            "proxy": "65.21.90.27:839",
             "ip": "65.21.90.27",
-            "port": "600",
-            "type": "socks5",
-            "countryCode": "FI",
-            "country": "Finland",
-            "responseTime": 2.9
-        },
-        {
-            "url": "http://46.8.233.226:3128",
-            "proxy": "46.8.233.226:3128",
-            "ip": "46.8.233.226",
-            "port": "3128",
+            "port": "839",
             "type": "http",
             "countryCode": "FI",
             "country": "Finland",
-            "responseTime": 3.28
-        },
-        {
-            "url": "http://185.40.7.206:3128",
-            "proxy": "185.40.7.206:3128",
-            "ip": "185.40.7.206",
-            "port": "3128",
-            "type": "http",
-            "countryCode": "FI",
-            "country": "Finland",
-            "responseTime": 5.85
+            "responseTime": 17.45
         }
     ]
 }
