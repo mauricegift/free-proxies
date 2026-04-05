@@ -1,7 +1,7 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "url": "http://147.161.239.240:8800",
@@ -11,37 +11,47 @@
             "type": "http",
             "countryCode": "DE",
             "country": "Germany",
-            "responseTime": 0.19
+            "responseTime": 0.25
         },
         {
-            "url": "http://168.222.254.136:8888",
-            "proxy": "168.222.254.136:8888",
-            "ip": "168.222.254.136",
-            "port": "8888",
+            "url": "socks5://91.99.182.39:4000",
+            "proxy": "91.99.182.39:4000",
+            "ip": "91.99.182.39",
+            "port": "4000",
+            "type": "socks5",
+            "countryCode": "DE",
+            "country": "Germany",
+            "responseTime": 1.18
+        },
+        {
+            "url": "http://116.203.139.209:5678",
+            "proxy": "116.203.139.209:5678",
+            "ip": "116.203.139.209",
+            "port": "5678",
             "type": "http",
             "countryCode": "DE",
             "country": "Germany",
-            "responseTime": 0.63
+            "responseTime": 1.53
         },
         {
-            "url": "http://85.214.190.195:3128",
-            "proxy": "85.214.190.195:3128",
-            "ip": "85.214.190.195",
-            "port": "3128",
-            "type": "http",
+            "url": "socks4://109.107.181.77:1080",
+            "proxy": "109.107.181.77:1080",
+            "ip": "109.107.181.77",
+            "port": "1080",
+            "type": "socks4",
             "countryCode": "DE",
             "country": "Germany",
-            "responseTime": 12.07
+            "responseTime": 3.96
         },
         {
-            "url": "http://148.251.86.68:16379",
-            "proxy": "148.251.86.68:16379",
-            "ip": "148.251.86.68",
-            "port": "16379",
-            "type": "http",
+            "url": "socks4://88.99.82.67:443",
+            "proxy": "88.99.82.67:443",
+            "ip": "88.99.82.67",
+            "port": "443",
+            "type": "socks4",
             "countryCode": "DE",
             "country": "Germany",
-            "responseTime": 12.53
+            "responseTime": 11.97
         }
     ]
 }
