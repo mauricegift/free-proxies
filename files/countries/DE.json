@@ -1,11 +1,57 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 4,
+    "count": 5,
     "proxies": [
-        "http://209.38.183.26:3128",
-        "http://116.203.139.209:5678",
-        "socks4://193.233.254.77:1080",
-        "socks5://94.130.16.48:30094"
+        {
+            "url": "http://147.161.239.240:8800",
+            "proxy": "147.161.239.240:8800",
+            "ip": "147.161.239.240",
+            "port": "8800",
+            "type": "http",
+            "countryCode": "DE",
+            "country": "Germany",
+            "responseTime": 0.68
+        },
+        {
+            "url": "socks5://136.244.88.62:10001",
+            "proxy": "136.244.88.62:10001",
+            "ip": "136.244.88.62",
+            "port": "10001",
+            "type": "socks5",
+            "countryCode": "DE",
+            "country": "Germany",
+            "responseTime": 0.81
+        },
+        {
+            "url": "socks4://82.25.185.214:1080",
+            "proxy": "82.25.185.214:1080",
+            "ip": "82.25.185.214",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "DE",
+            "country": "Germany",
+            "responseTime": 1.73
+        },
+        {
+            "url": "http://128.140.113.110:8081",
+            "proxy": "128.140.113.110:8081",
+            "ip": "128.140.113.110",
+            "port": "8081",
+            "type": "http",
+            "countryCode": "DE",
+            "country": "Germany",
+            "responseTime": 1.96
+        },
+        {
+            "url": "socks5://94.130.16.48:30100",
+            "proxy": "94.130.16.48:30100",
+            "ip": "94.130.16.48",
+            "port": "30100",
+            "type": "socks5",
+            "countryCode": "DE",
+            "country": "Germany",
+            "responseTime": 19.48
+        }
     ]
 }
