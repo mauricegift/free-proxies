@@ -1,8 +1,18 @@
 {
     "countryCode": "NL",
     "country": "The Netherlands",
-    "count": 5,
+    "count": 2,
     "proxies": [
+        {
+            "url": "socks4://89.110.65.39:9999",
+            "proxy": "89.110.65.39:9999",
+            "ip": "89.110.65.39",
+            "port": "9999",
+            "type": "socks4",
+            "countryCode": "NL",
+            "country": "The Netherlands",
+            "responseTime": 1.19
+        },
         {
             "url": "socks4://104.248.203.234:1080",
             "proxy": "104.248.203.234:1080",
@@ -11,47 +21,7 @@
             "type": "socks4",
             "countryCode": "NL",
             "country": "The Netherlands",
-            "responseTime": 0.72
-        },
-        {
-            "url": "socks4://185.233.184.165:443",
-            "proxy": "185.233.184.165:443",
-            "ip": "185.233.184.165",
-            "port": "443",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 1.32
-        },
-        {
-            "url": "socks4://188.166.32.174:1080",
-            "proxy": "188.166.32.174:1080",
-            "ip": "188.166.32.174",
-            "port": "1080",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 6.22
-        },
-        {
-            "url": "http://45.140.147.82:1081",
-            "proxy": "45.140.147.82:1081",
-            "ip": "45.140.147.82",
-            "port": "1081",
-            "type": "http",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 10.07
-        },
-        {
-            "url": "socks4://45.140.147.82:1081",
-            "proxy": "45.140.147.82:1081",
-            "ip": "45.140.147.82",
-            "port": "1081",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 10.07
+            "responseTime": 4.04
         }
     ]
 }
