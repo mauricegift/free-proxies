@@ -4,24 +4,24 @@
     "count": 2,
     "proxies": [
         {
-            "url": "http://197.155.64.226:8090",
-            "proxy": "197.155.64.226:8090",
-            "ip": "197.155.64.226",
-            "port": "8090",
-            "type": "http",
+            "url": "socks4://197.232.43.224:1080",
+            "proxy": "197.232.43.224:1080",
+            "ip": "197.232.43.224",
+            "port": "1080",
+            "type": "socks4",
             "countryCode": "KE",
             "country": "Kenya",
-            "responseTime": 5.82
+            "responseTime": 5.02
         },
         {
-            "url": "http://102.211.145.161:8081",
-            "proxy": "102.211.145.161:8081",
-            "ip": "102.211.145.161",
-            "port": "8081",
+            "url": "http://197.248.75.221:8105",
+            "proxy": "197.248.75.221:8105",
+            "ip": "197.248.75.221",
+            "port": "8105",
             "type": "http",
             "countryCode": "KE",
             "country": "Kenya",
-            "responseTime": 7.19
+            "responseTime": 10.04
         }
     ]
 }
