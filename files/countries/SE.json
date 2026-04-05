@@ -3,6 +3,15 @@
     "country": "Sweden",
     "count": 1,
     "proxies": [
-        "http://193.148.58.165:3128"
+        {
+            "url": "socks4://81.228.44.187:65530",
+            "proxy": "81.228.44.187:65530",
+            "ip": "81.228.44.187",
+            "port": "65530",
+            "type": "socks4",
+            "countryCode": "SE",
+            "country": "Sweden",
+            "responseTime": 6.77
+        }
     ]
 }
