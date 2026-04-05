@@ -1,8 +1,37 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 1,
+    "count": 3,
     "proxies": [
-        "http://190.238.171.190:999"
+        {
+            "url": "socks4://190.12.95.170:37209",
+            "proxy": "190.12.95.170:37209",
+            "ip": "190.12.95.170",
+            "port": "37209",
+            "type": "socks4",
+            "countryCode": "PE",
+            "country": "Peru",
+            "responseTime": 3.26
+        },
+        {
+            "url": "http://170.81.241.14:999",
+            "proxy": "170.81.241.14:999",
+            "ip": "170.81.241.14",
+            "port": "999",
+            "type": "http",
+            "countryCode": "PE",
+            "country": "Peru",
+            "responseTime": 3.37
+        },
+        {
+            "url": "http://38.52.182.49:999",
+            "proxy": "38.52.182.49:999",
+            "ip": "38.52.182.49",
+            "port": "999",
+            "type": "http",
+            "countryCode": "PE",
+            "country": "Peru",
+            "responseTime": 11.36
+        }
     ]
 }
