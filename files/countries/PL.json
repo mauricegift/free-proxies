@@ -4,6 +4,16 @@
     "count": 2,
     "proxies": [
         {
+            "url": "socks4://91.223.52.141:5678",
+            "proxy": "91.223.52.141:5678",
+            "ip": "91.223.52.141",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "PL",
+            "country": "Poland",
+            "responseTime": 2.37
+        },
+        {
             "url": "socks4://31.42.6.125:5678",
             "proxy": "31.42.6.125:5678",
             "ip": "31.42.6.125",
@@ -11,17 +21,7 @@
             "type": "socks4",
             "countryCode": "PL",
             "country": "Poland",
-            "responseTime": 0.25
-        },
-        {
-            "url": "socks4://91.150.189.122:60647",
-            "proxy": "91.150.189.122:60647",
-            "ip": "91.150.189.122",
-            "port": "60647",
-            "type": "socks4",
-            "countryCode": "PL",
-            "country": "Poland",
-            "responseTime": 3.35
+            "responseTime": 4.48
         }
     ]
 }
