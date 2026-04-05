@@ -3,7 +3,25 @@
     "country": "Malaysia",
     "count": 2,
     "proxies": [
-        "socks4://47.250.168.70:1080",
-        "socks5://148.153.174.158:1080"
+        {
+            "url": "socks5://148.153.174.158:1080",
+            "proxy": "148.153.174.158:1080",
+            "ip": "148.153.174.158",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "MY",
+            "country": "Malaysia",
+            "responseTime": 1.16
+        },
+        {
+            "url": "socks5://47.250.168.70:1080",
+            "proxy": "47.250.168.70:1080",
+            "ip": "47.250.168.70",
+            "port": "1080",
+            "type": "socks5",
+            "countryCode": "MY",
+            "country": "Malaysia",
+            "responseTime": 6.06
+        }
     ]
 }
