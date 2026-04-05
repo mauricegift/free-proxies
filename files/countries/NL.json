@@ -1,37 +1,57 @@
 {
     "countryCode": "NL",
     "country": "The Netherlands",
-    "count": 18,
+    "count": 6,
     "proxies": [
         {
-            "url": "socks5://104.248.197.67:1080",
+            "url": "socks4://104.248.203.234:1080",
+            "proxy": "104.248.203.234:1080",
+            "ip": "104.248.203.234",
+            "port": "1080",
+            "type": "socks4",
+            "countryCode": "NL",
+            "country": "The Netherlands",
+            "responseTime": 0.28
+        },
+        {
+            "url": "socks4://45.140.147.82:1081",
+            "proxy": "45.140.147.82:1081",
+            "ip": "45.140.147.82",
+            "port": "1081",
+            "type": "socks4",
+            "countryCode": "NL",
+            "country": "The Netherlands",
+            "responseTime": 0.61
+        },
+        {
+            "url": "socks4://104.248.197.67:1080",
             "proxy": "104.248.197.67:1080",
             "ip": "104.248.197.67",
             "port": "1080",
-            "type": "socks5",
+            "type": "socks4",
             "countryCode": "NL",
             "country": "The Netherlands",
-            "responseTime": 0.49
+            "responseTime": 0.75
         },
         {
-            "url": "socks5://109.71.241.67:1080",
-            "proxy": "109.71.241.67:1080",
-            "ip": "109.71.241.67",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 0.5
-        },
-        {
-            "url": "http://64.227.76.27:1080",
-            "proxy": "64.227.76.27:1080",
-            "ip": "64.227.76.27",
-            "port": "1080",
+            "url": "http://195.133.28.31:8443",
+            "proxy": "195.133.28.31:8443",
+            "ip": "195.133.28.31",
+            "port": "8443",
             "type": "http",
             "countryCode": "NL",
             "country": "The Netherlands",
-            "responseTime": 0.54
+            "responseTime": 3.82
+        },
+        {
+            "url": "socks4://185.233.184.165:443",
+            "proxy": "185.233.184.165:443",
+            "ip": "185.233.184.165",
+            "port": "443",
+            "type": "socks4",
+            "countryCode": "NL",
+            "country": "The Netherlands",
+            "responseTime": 4.27
         },
         {
             "url": "socks4://64.227.76.27:1080",
@@ -41,147 +61,7 @@
             "type": "socks4",
             "countryCode": "NL",
             "country": "The Netherlands",
-            "responseTime": 0.54
-        },
-        {
-            "url": "socks5://64.227.76.27:1080",
-            "proxy": "64.227.76.27:1080",
-            "ip": "64.227.76.27",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 0.54
-        },
-        {
-            "url": "socks4://185.233.184.165:1080",
-            "proxy": "185.233.184.165:1080",
-            "ip": "185.233.184.165",
-            "port": "1080",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 0.62
-        },
-        {
-            "url": "socks4://104.248.203.234:1080",
-            "proxy": "104.248.203.234:1080",
-            "ip": "104.248.203.234",
-            "port": "1080",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 0.7
-        },
-        {
-            "url": "socks4://161.35.82.57:1080",
-            "proxy": "161.35.82.57:1080",
-            "ip": "161.35.82.57",
-            "port": "1080",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 0.96
-        },
-        {
-            "url": "socks5://161.35.82.57:1080",
-            "proxy": "161.35.82.57:1080",
-            "ip": "161.35.82.57",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 0.96
-        },
-        {
-            "url": "socks5://5.255.113.177:1080",
-            "proxy": "5.255.113.177:1080",
-            "ip": "5.255.113.177",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 1.58
-        },
-        {
-            "url": "http://89.208.106.138:10808",
-            "proxy": "89.208.106.138:10808",
-            "ip": "89.208.106.138",
-            "port": "10808",
-            "type": "http",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 2.47
-        },
-        {
-            "url": "socks4://89.208.106.138:10808",
-            "proxy": "89.208.106.138:10808",
-            "ip": "89.208.106.138",
-            "port": "10808",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 2.47
-        },
-        {
-            "url": "socks5://89.208.106.138:10808",
-            "proxy": "89.208.106.138:10808",
-            "ip": "89.208.106.138",
-            "port": "10808",
-            "type": "socks5",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 2.47
-        },
-        {
-            "url": "socks5://5.255.99.75:1080",
-            "proxy": "5.255.99.75:1080",
-            "ip": "5.255.99.75",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 2.6
-        },
-        {
-            "url": "http://45.140.147.82:1082",
-            "proxy": "45.140.147.82:1082",
-            "ip": "45.140.147.82",
-            "port": "1082",
-            "type": "http",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 2.67
-        },
-        {
-            "url": "socks4://45.140.147.82:1082",
-            "proxy": "45.140.147.82:1082",
-            "ip": "45.140.147.82",
-            "port": "1082",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 2.67
-        },
-        {
-            "url": "socks5://5.255.117.127:1080",
-            "proxy": "5.255.117.127:1080",
-            "ip": "5.255.117.127",
-            "port": "1080",
-            "type": "socks5",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 2.93
-        },
-        {
-            "url": "socks4://77.105.139.108:1080",
-            "proxy": "77.105.139.108:1080",
-            "ip": "77.105.139.108",
-            "port": "1080",
-            "type": "socks4",
-            "countryCode": "NL",
-            "country": "The Netherlands",
-            "responseTime": 5.44
+            "responseTime": 10.13
         }
     ]
 }
