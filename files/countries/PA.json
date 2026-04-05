@@ -1,8 +1,18 @@
 {
     "countryCode": "PA",
     "country": "Panama",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "url": "socks4://190.140.31.195:9900",
+            "proxy": "190.140.31.195:9900",
+            "ip": "190.140.31.195",
+            "port": "9900",
+            "type": "socks4",
+            "countryCode": "PA",
+            "country": "Panama",
+            "responseTime": 2.33
+        },
         {
             "url": "socks4://200.108.50.254:4145",
             "proxy": "200.108.50.254:4145",
@@ -11,7 +21,17 @@
             "type": "socks4",
             "countryCode": "PA",
             "country": "Panama",
-            "responseTime": 2.57
+            "responseTime": 2.99
+        },
+        {
+            "url": "http://45.229.58.33:999",
+            "proxy": "45.229.58.33:999",
+            "ip": "45.229.58.33",
+            "port": "999",
+            "type": "http",
+            "countryCode": "PA",
+            "country": "Panama",
+            "responseTime": 8.2
         }
     ]
 }
