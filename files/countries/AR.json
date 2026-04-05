@@ -1,27 +1,17 @@
 {
     "countryCode": "AR",
     "country": "Argentina",
-    "count": 11,
+    "count": 9,
     "proxies": [
         {
-            "url": "http://164.163.42.33:10000",
-            "proxy": "164.163.42.33:10000",
-            "ip": "164.163.42.33",
-            "port": "10000",
-            "type": "http",
+            "url": "socks4://200.41.182.243:4145",
+            "proxy": "200.41.182.243:4145",
+            "ip": "200.41.182.243",
+            "port": "4145",
+            "type": "socks4",
             "countryCode": "AR",
             "country": "Argentina",
-            "responseTime": 0.91
-        },
-        {
-            "url": "http://187.102.219.42:999",
-            "proxy": "187.102.219.42:999",
-            "ip": "187.102.219.42",
-            "port": "999",
-            "type": "http",
-            "countryCode": "AR",
-            "country": "Argentina",
-            "responseTime": 0.93
+            "responseTime": 1.17
         },
         {
             "url": "http://164.163.42.25:10000",
@@ -31,27 +21,7 @@
             "type": "http",
             "countryCode": "AR",
             "country": "Argentina",
-            "responseTime": 0.94
-        },
-        {
-            "url": "http://187.102.219.64:999",
-            "proxy": "187.102.219.64:999",
-            "ip": "187.102.219.64",
-            "port": "999",
-            "type": "http",
-            "countryCode": "AR",
-            "country": "Argentina",
-            "responseTime": 0.98
-        },
-        {
-            "url": "socks4://200.41.182.243:4145",
-            "proxy": "200.41.182.243:4145",
-            "ip": "200.41.182.243",
-            "port": "4145",
-            "type": "socks4",
-            "countryCode": "AR",
-            "country": "Argentina",
-            "responseTime": 1.05
+            "responseTime": 1.47
         },
         {
             "url": "http://164.163.42.17:10000",
@@ -61,27 +31,27 @@
             "type": "http",
             "countryCode": "AR",
             "country": "Argentina",
-            "responseTime": 1.17
+            "responseTime": 1.48
         },
         {
-            "url": "socks5://170.233.30.33:4153",
-            "proxy": "170.233.30.33:4153",
-            "ip": "170.233.30.33",
-            "port": "4153",
-            "type": "socks5",
-            "countryCode": "AR",
-            "country": "Argentina",
-            "responseTime": 2.22
-        },
-        {
-            "url": "http://200.70.35.2:8080",
-            "proxy": "200.70.35.2:8080",
-            "ip": "200.70.35.2",
-            "port": "8080",
+            "url": "http://164.163.42.33:10000",
+            "proxy": "164.163.42.33:10000",
+            "ip": "164.163.42.33",
+            "port": "10000",
             "type": "http",
             "countryCode": "AR",
             "country": "Argentina",
-            "responseTime": 2.23
+            "responseTime": 1.62
+        },
+        {
+            "url": "socks4://190.122.144.23:5678",
+            "proxy": "190.122.144.23:5678",
+            "ip": "190.122.144.23",
+            "port": "5678",
+            "type": "socks4",
+            "countryCode": "AR",
+            "country": "Argentina",
+            "responseTime": 3.11
         },
         {
             "url": "socks4://190.220.25.42:4153",
@@ -91,27 +61,37 @@
             "type": "socks4",
             "countryCode": "AR",
             "country": "Argentina",
-            "responseTime": 2.94
+            "responseTime": 3.32
         },
         {
-            "url": "http://45.238.220.1:8181",
-            "proxy": "45.238.220.1:8181",
-            "ip": "45.238.220.1",
-            "port": "8181",
+            "url": "http://200.41.170.211:11201",
+            "proxy": "200.41.170.211:11201",
+            "ip": "200.41.170.211",
+            "port": "11201",
             "type": "http",
             "countryCode": "AR",
             "country": "Argentina",
-            "responseTime": 9.16
+            "responseTime": 7.79
         },
         {
-            "url": "http://181.209.125.234:999",
-            "proxy": "181.209.125.234:999",
-            "ip": "181.209.125.234",
+            "url": "http://187.102.219.64:999",
+            "proxy": "187.102.219.64:999",
+            "ip": "187.102.219.64",
             "port": "999",
             "type": "http",
             "countryCode": "AR",
             "country": "Argentina",
-            "responseTime": 11.26
+            "responseTime": 8.77
+        },
+        {
+            "url": "http://181.209.108.226:999",
+            "proxy": "181.209.108.226:999",
+            "ip": "181.209.108.226",
+            "port": "999",
+            "type": "http",
+            "countryCode": "AR",
+            "country": "Argentina",
+            "responseTime": 9.58
         }
     ]
 }
