@@ -1,7 +1,7 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Baghdad",
             "city": "Baghdad",
             "zip": "",
-            "lat": 33.3152,
-            "lon": 44.3661,
+            "lat": 33.3364,
+            "lon": 44.4004,
             "timezone": "Asia/Baghdad",
             "isp": "Hulum",
-            "org": "EarthLink Ltd. Communications&",
+            "org": "Earthlink Telecommunications Equipment Trading & Services DMCC",
             "as": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
-            "query": "109.224.12.170",
-            "type": "socks4",
-            "port": "52015",
-            "response_time": 0.73
+            "query": "65.20.154.62",
+            "type": "http",
+            "port": "28080",
+            "response_time": 2.1
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "DA",
+            "regionName": "Duhok Governorate",
+            "city": "Duhok",
+            "zip": "",
+            "lat": 36.8631,
+            "lon": 42.9559,
+            "timezone": "Asia/Baghdad",
+            "isp": "Valin Company for General Trading and Communication LTD",
+            "org": "Valin Company General Trading and Communication LTD",
+            "as": "AS205254 Valeen for General trading, Internet Services and Information Technology / Ltd",
+            "query": "46.161.196.139",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.54
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "185.95.186.165",
             "type": "socks4",
             "port": "48293",
-            "response_time": 2.49
+            "response_time": 7.7
         }
     ]
 }
