@@ -20,7 +20,7 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.84
+            "response_time": 0.87
         },
         {
             "status": "success",
@@ -36,7 +36,7 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "165.22.57.158",
+            "query": "159.223.71.162",
             "type": "http",
             "port": "8080",
             "response_time": 0.92
@@ -58,7 +58,26 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 1.01
+            "response_time": 1.14
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "165.22.57.158",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.33
         },
         {
             "status": "success",
@@ -77,45 +96,26 @@
             "query": "159.223.71.162",
             "type": "http",
             "port": "443",
-            "response_time": 1.32
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "159.223.71.162",
-            "type": "http",
-            "port": "8080",
             "response_time": 1.35
         },
         {
             "status": "success",
             "country": "Singapore",
             "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
+            "region": "01",
+            "regionName": "Central Singapore",
             "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
+            "zip": "048582",
+            "lat": 1.28009,
+            "lon": 103.851,
             "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "Digitalocean",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "178.128.24.162",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-southeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.212.222.137",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.46
+            "port": "18041",
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -131,10 +131,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.245.194.13",
-            "type": "http",
-            "port": "8888",
-            "response_time": 11.27
+            "query": "104.248.151.220",
+            "type": "socks4",
+            "port": "57554",
+            "response_time": 8.58
         }
     ]
 }
