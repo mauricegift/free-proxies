@@ -1,26 +1,45 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75660",
+            "lat": 24.8127,
+            "lon": 67.0115,
+            "timezone": "Asia/Karachi",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.231.21",
+            "type": "http",
+            "port": "8082",
+            "response_time": 3.05
+        },
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Lahore",
-            "zip": "54000",
-            "lat": 31.5826,
-            "lon": 74.3276,
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
             "timezone": "Asia/Karachi",
-            "isp": "Pakistan Telecommuication company limited",
-            "org": "Pakistan Telecommuication company limited",
-            "as": "AS17557 Pakistan Telecommunication Company Limited",
-            "query": "182.176.164.41",
-            "type": "http",
-            "port": "8080",
-            "response_time": 16.53
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.14
         }
     ]
 }
