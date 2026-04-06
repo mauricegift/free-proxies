@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 11,
+    "count": 16,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "205.177.85.130",
             "type": "socks4",
             "port": "39593",
-            "response_time": 1.16
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "152-8503",
-            "lat": 35.68,
-            "lon": 139.77,
-            "timezone": "Asia/Tokyo",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (japaneast)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "4.216.195.194",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.32
+            "response_time": 1.21
         },
         {
             "status": "success",
@@ -58,26 +39,7 @@
             "query": "147.161.210.140",
             "type": "http",
             "port": "8800",
-            "response_time": 1.47
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
-            "timezone": "Asia/Tokyo",
-            "isp": "Contabo Asia Private Limited",
-            "org": "Contabo GmbH",
-            "as": "AS141995 Contabo Asia Private Limited",
-            "query": "5.104.87.17",
-            "type": "http",
-            "port": "8051",
-            "response_time": 2.83
+            "response_time": 1.29
         },
         {
             "status": "success",
@@ -93,10 +55,10 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.49.168",
+            "query": "116.80.96.100",
             "type": "http",
             "port": "3172",
-            "response_time": 3.36
+            "response_time": 2.3
         },
         {
             "status": "success",
@@ -112,10 +74,29 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.65.78",
+            "query": "116.80.49.162",
             "type": "http",
             "port": "3172",
-            "response_time": 4.53
+            "response_time": 2.32
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Kita",
+            "zip": "114-8502",
+            "lat": 35.752,
+            "lon": 139.7341,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.64.157",
+            "type": "http",
+            "port": "7777",
+            "response_time": 2.34
         },
         {
             "status": "success",
@@ -134,7 +115,7 @@
             "query": "133.242.138.34",
             "type": "http",
             "port": "8100",
-            "response_time": 4.55
+            "response_time": 3.8
         },
         {
             "status": "success",
@@ -150,10 +131,67 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.49.161",
+            "query": "116.80.95.238",
+            "type": "http",
+            "port": "7777",
+            "response_time": 4.38
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Kita",
+            "zip": "114-8502",
+            "lat": 35.752,
+            "lon": 139.7341,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.65.74",
             "type": "http",
             "port": "3172",
-            "response_time": 6.44
+            "response_time": 4.38
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Kita",
+            "zip": "114-8502",
+            "lat": 35.752,
+            "lon": 139.7341,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.77.99",
+            "type": "http",
+            "port": "7777",
+            "response_time": 4.4
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Shinjuku",
+            "zip": "289-2605",
+            "lat": 35.7139,
+            "lon": 139.702,
+            "timezone": "Asia/Tokyo",
+            "isp": "Reis Network Solutions",
+            "org": "Kdash D16",
+            "as": "AS140171 Reis Network Solutions",
+            "query": "103.38.183.18",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 4.76
         },
         {
             "status": "success",
@@ -162,17 +200,36 @@
             "region": "13",
             "regionName": "Tokyo",
             "city": "Tokyo",
-            "zip": "151-0071",
-            "lat": 35.6837,
-            "lon": 139.6805,
+            "zip": "140-0001",
+            "lat": 35.6164,
+            "lon": 139.7425,
             "timezone": "Asia/Tokyo",
-            "isp": "Sony Network Communications Inc",
-            "org": "Sony Network Communications Inc.",
-            "as": "AS2527 Sony Network Communications Inc.",
-            "query": "150.249.255.91",
+            "isp": "Contabo Asia Private Limited",
+            "org": "Contabo GmbH",
+            "as": "AS141995 Contabo Asia Private Limited",
+            "query": "5.104.87.17",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.02
+            "port": "8051",
+            "response_time": 6.15
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6906,
+            "lon": 139.77,
+            "timezone": "Asia/Tokyo",
+            "isp": "GMO Internet Group, Inc.",
+            "org": "GMO Internet, Inc.",
+            "as": "AS7506 GMO Internet Group, Inc.",
+            "query": "203.189.96.232",
+            "type": "http",
+            "port": "80",
+            "response_time": 7.02
         },
         {
             "status": "success",
@@ -188,10 +245,10 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.96.103",
+            "query": "116.80.49.172",
             "type": "http",
             "port": "3172",
-            "response_time": 8.44
+            "response_time": 8.46
         },
         {
             "status": "success",
@@ -207,10 +264,48 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.48.16",
+            "query": "116.80.49.168",
+            "type": "http",
+            "port": "3172",
+            "response_time": 8.5
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Kita",
+            "zip": "114-8502",
+            "lat": 35.752,
+            "lon": 139.7341,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.60.44",
             "type": "http",
             "port": "7777",
-            "response_time": 8.48
+            "response_time": 8.67
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Kita",
+            "zip": "114-8502",
+            "lat": 35.752,
+            "lon": 139.7341,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.82.232",
+            "type": "http",
+            "port": "3172",
+            "response_time": 9.13
         }
     ]
 }
