@@ -1,46 +1,8 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 6,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "LIM",
-            "regionName": "Lima region",
-            "city": "Chaclacayo",
-            "zip": "",
-            "lat": -11.9828,
-            "lon": -76.7675,
-            "timezone": "America/Lima",
-            "isp": "Cogent Communications",
-            "org": "Telcom Mikrotik Peru S.A.C",
-            "as": "AS273976 FICOM TELECOMUNICACIONES S.A.C.",
-            "query": "38.252.217.32",
-            "type": "http",
-            "port": "999",
-            "response_time": 0.98
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "TAC",
-            "regionName": "Tacna",
-            "city": "Piedra Blanca",
-            "zip": "",
-            "lat": -17.9714,
-            "lon": -70.1809,
-            "timezone": "America/Lima",
-            "isp": "Telefonica del Peru",
-            "org": "PE-TDPERX6-LACNIC",
-            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
-            "query": "201.230.15.57",
-            "type": "http",
-            "port": "999",
-            "response_time": 3.16
-        },
         {
             "status": "success",
             "country": "Peru",
@@ -58,26 +20,26 @@
             "query": "177.91.255.35",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.96
+            "response_time": 1.79
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "ARE",
-            "regionName": "Arequipa",
-            "city": "Arequipa",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
             "zip": "",
-            "lat": -16.4014,
-            "lon": -71.5343,
+            "lat": -12.046,
+            "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "Fiberred SAC",
-            "org": "Cogent Communications",
-            "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.193",
+            "isp": "Conex TV E.I.R.L",
+            "org": "Conex TV E.I.R.L",
+            "as": "AS273133 CONEX TV E.I.R.L.",
+            "query": "38.190.101.84",
             "type": "http",
             "port": "999",
-            "response_time": 4.23
+            "response_time": 7.21
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "38.191.85.108",
             "type": "http",
             "port": "999",
-            "response_time": 5.77
+            "response_time": 9.06
         },
         {
             "status": "success",
@@ -109,13 +71,13 @@
             "lat": -16.4014,
             "lon": -71.5343,
             "timezone": "America/Lima",
-            "isp": "M & B Soluciones Peru S.A.C.",
-            "org": "HFC Soluciones Peru",
-            "as": "AS269862 M & B Soluciones Peru S.A.C. (FASTNET)",
-            "query": "201.218.150.4",
+            "isp": "Nextnet SAC",
+            "org": "Nextnet SAC",
+            "as": "AS271814 NEXTNET SAC",
+            "query": "38.187.22.229",
             "type": "http",
-            "port": "999",
-            "response_time": 6.18
+            "port": "8080",
+            "response_time": 14.63
         }
     ]
 }
