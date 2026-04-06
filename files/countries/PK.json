@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,16 @@
             "regionName": "Sindh",
             "city": "Karachi",
             "zip": "75660",
-            "lat": 24.8127,
-            "lon": 67.0115,
+            "lat": 24.8021,
+            "lon": 67.0298,
             "timezone": "Asia/Karachi",
             "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
             "org": "TW RO",
             "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.231.21",
-            "type": "http",
-            "port": "8082",
-            "response_time": 3.05
+            "query": "110.93.206.62",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.76
         },
         {
             "status": "success",
@@ -28,18 +28,37 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Model Town",
-            "zip": "54700",
-            "lat": 31.481,
-            "lon": 74.3256,
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "ConnecTel Internet Services",
-            "org": "",
-            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
-            "query": "103.225.221.18",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 5.14
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "Pakistan Telecommuication company limited",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.176.164.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.02
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "74000",
+            "lat": 24.8591,
+            "lon": 66.9983,
+            "timezone": "Asia/Karachi",
+            "isp": "Connect Communication",
+            "org": "Connect Communication",
+            "as": "AS132165 Connect Communications",
+            "query": "115.42.67.186",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.2
         }
     ]
 }
