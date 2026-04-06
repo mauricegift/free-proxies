@@ -3,6 +3,24 @@
     "country": "New Zealand",
     "count": 1,
     "proxies": [
-        "socks4://43.231.192.105:4145"
+        {
+            "status": "success",
+            "country": "New Zealand",
+            "countryCode": "NZ",
+            "region": "TKI",
+            "regionName": "Taranaki Region",
+            "city": "New Plymouth",
+            "zip": "4310",
+            "lat": -39.0704,
+            "lon": 174.0652,
+            "timezone": "Pacific/Auckland",
+            "isp": "PrimoWireless Ltd",
+            "org": "PrimoWireless Ltd",
+            "as": "AS132255 PrimoWireless Ltd",
+            "query": "43.231.192.105",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.45
+        }
     ]
 }
