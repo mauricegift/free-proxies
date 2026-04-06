@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.29
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Furnari",
+            "zip": "98054",
+            "lat": 38.1031,
+            "lon": 15.1206,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "2.115.212.62",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 2.76
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
+            "type": "http",
+            "port": "8081",
+            "response_time": 3.32
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Bronte",
+            "zip": "95034",
+            "lat": 37.7891,
+            "lon": 14.8293,
+            "timezone": "Europe/Rome",
+            "isp": "Wicomm SRLS",
+            "org": "Wicomm SRLS",
+            "as": "AS212696 Wicomm SRLS",
+            "query": "185.195.129.116",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.63
         }
     ]
 }
