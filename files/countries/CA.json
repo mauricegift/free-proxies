@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.74
+            "response_time": 3.69
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "BC",
+            "regionName": "British Columbia",
+            "city": "Vancouver",
+            "zip": "V5Z",
+            "lat": 49.2476,
+            "lon": -123.1234,
+            "timezone": "America/Vancouver",
+            "isp": "GLOBALTELEHOST Corp.",
+            "org": "Inetcloud",
+            "as": "AS62563 GLOBALTELEHOST Corp.",
+            "query": "193.108.58.29",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.35
         }
     ]
 }
