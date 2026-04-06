@@ -1,7 +1,7 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 7,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "147.161.239.240",
             "type": "http",
             "port": "8800",
-            "response_time": 0.16
+            "response_time": 0.17
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "95.181.174.211",
             "type": "http",
             "port": "1080",
-            "response_time": 0.85
+            "response_time": 1.39
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "95.181.174.211",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.85
+            "response_time": 1.39
         },
         {
             "status": "success",
@@ -77,64 +77,26 @@
             "query": "116.203.139.209",
             "type": "http",
             "port": "5678",
-            "response_time": 1.89
+            "response_time": 1.48
         },
         {
             "status": "success",
             "country": "Germany",
             "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1154,
-            "lon": 8.68058,
+            "region": "SN",
+            "regionName": "Saxony",
+            "city": "Falkenstein",
+            "zip": "08223",
+            "lat": 50.4777,
+            "lon": 12.3649,
             "timezone": "Europe/Berlin",
-            "isp": "WAIcore Ltd",
-            "org": "WAIcore Ltd",
-            "as": "AS213887 WAIcore Ltd",
-            "query": "193.233.254.57",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.17
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1154,
-            "lon": 8.68058,
-            "timezone": "Europe/Berlin",
-            "isp": "WAIcore Ltd",
-            "org": "WAIcore Ltd",
-            "as": "AS213887 WAIcore Ltd",
-            "query": "193.233.254.82",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.27
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "SL",
-            "regionName": "Saarland",
-            "city": "Saarbr\u00fccken",
-            "zip": "66111",
-            "lat": 49.2405,
-            "lon": 6.98474,
-            "timezone": "Europe/Berlin",
-            "isp": "OVH SAS",
-            "org": "OVH GmbH",
-            "as": "AS16276 OVH SAS",
-            "query": "54.37.72.89",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "128.140.113.110",
             "type": "http",
-            "port": "80",
-            "response_time": 7.01
+            "port": "8081",
+            "response_time": 2.23
         }
     ]
 }
