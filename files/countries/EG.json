@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data",
+            "org": "",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.83.235",
+            "type": "http",
+            "port": "1981",
+            "response_time": 2.58
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -20,7 +39,7 @@
             "query": "62.193.104.28",
             "type": "http",
             "port": "1981",
-            "response_time": 5.47
+            "response_time": 9.3
         }
     ]
 }
