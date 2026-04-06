@@ -1,8 +1,46 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Rawalpindi",
+            "zip": "04600",
+            "lat": 33.599,
+            "lon": 73.0436,
+            "timezone": "Asia/Karachi",
+            "isp": "FASTTEL BROADBAND (PRIVATE) LIMITED",
+            "org": "Gamma Links PVT LTD",
+            "as": "AS150683 FASTTEL BROADBAND (PRIVATE) LIMITED",
+            "query": "103.229.252.67",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.79
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54760",
+            "lat": 31.4758,
+            "lon": 74.3069,
+            "timezone": "Asia/Karachi",
+            "isp": "Netsol Technologies Limited",
+            "org": "Netsol Technologies Limited",
+            "as": "AS17539 NetSol Connect",
+            "query": "103.197.47.42",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.89
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +58,7 @@
             "query": "103.225.221.18",
             "type": "socks4",
             "port": "5678",
-            "response_time": 8.19
+            "response_time": 6.49
         }
     ]
 }
