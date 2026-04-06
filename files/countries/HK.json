@@ -1,27 +1,8 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 4,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western District",
-            "city": "Hong Kong",
-            "zip": "",
-            "lat": 22.3193,
-            "lon": 114.1693,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Google LLC",
-            "org": "Google Cloud (asia-east2)",
-            "as": "AS396982 Google LLC",
-            "query": "34.96.238.40",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.21
-        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -39,7 +20,7 @@
             "query": "43.99.54.236",
             "type": "http",
             "port": "5555",
-            "response_time": 3.28
+            "response_time": 2.03
         },
         {
             "status": "success",
@@ -56,28 +37,9 @@
             "org": "Huizhou Huigu Cloud Technology Co., Ltd",
             "as": "AS152179 GLOBAL COMMUNICATION NETWORK LIMITED",
             "query": "89.251.26.233",
-            "type": "socks5",
+            "type": "socks4",
             "port": "7890",
-            "response_time": 3.56
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.238.203.170",
-            "type": "http",
-            "port": "50000",
-            "response_time": 17.86
+            "response_time": 9.82
         }
     ]
 }
