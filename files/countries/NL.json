@@ -1,7 +1,7 @@
 {
     "countryCode": "NL",
     "country": "The Netherlands",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -29,17 +29,55 @@
             "region": "NH",
             "regionName": "North Holland",
             "city": "Amsterdam",
-            "zip": "1098",
-            "lat": 52.352,
-            "lon": 4.9392,
+            "zip": "1012",
+            "lat": 52.3759,
+            "lon": 4.8975,
             "timezone": "Europe/Amsterdam",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "104.248.197.67",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "89.208.106.138",
+            "type": "socks5",
+            "port": "10808",
+            "response_time": 0.28
+        },
+        {
+            "status": "success",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "NH",
+            "regionName": "North Holland",
+            "city": "Amsterdam",
+            "zip": "1096",
+            "lat": 52.3385,
+            "lon": 4.9168,
+            "timezone": "Europe/Amsterdam",
+            "isp": "Hostkey B.V.",
+            "org": "Snowd Security OU",
+            "as": "AS57043 HOSTKEY B.V.",
+            "query": "185.233.184.165",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 3.91
+            "port": "443",
+            "response_time": 5.56
+        },
+        {
+            "status": "success",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "NH",
+            "regionName": "North Holland",
+            "city": "Amsterdam",
+            "zip": "1012",
+            "lat": 52.3676,
+            "lon": 4.90414,
+            "timezone": "Europe/Amsterdam",
+            "isp": "RedSwitches Pty LTD.",
+            "org": "RedSwitches",
+            "as": "AS50049 RedSwitches",
+            "query": "43.250.54.139",
+            "type": "http",
+            "port": "60000",
+            "response_time": 14.15
         }
     ]
 }
