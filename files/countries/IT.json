@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "IT",
             "region": "25",
             "regionName": "Lombardy",
-            "city": "Bergamo",
-            "zip": "24126",
-            "lat": 45.7049,
-            "lon": 9.6698,
+            "city": "Castiglione delle Stiviere",
+            "zip": "46043",
+            "lat": 45.391,
+            "lon": 10.4855,
             "timezone": "Europe/Rome",
-            "isp": "Planetel srl",
-            "org": "",
-            "as": "AS47217 Planetel SPA",
-            "query": "46.21.186.252",
+            "isp": "Mynet S.R.L.",
+            "org": "Mynet",
+            "as": "AS31263 MYNET S.R.L.",
+            "query": "84.247.236.86",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 0.3
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
+            "timezone": "Europe/Rome",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.13
+            "response_time": 0.9
         }
     ]
 }
