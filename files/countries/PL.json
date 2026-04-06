@@ -1,46 +1,8 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "30",
-            "regionName": "Greater Poland",
-            "city": "D\u0105browa",
-            "zip": "62-070",
-            "lat": 52.4035,
-            "lon": 16.7491,
-            "timezone": "Europe/Warsaw",
-            "isp": "Inea S.A",
-            "org": "",
-            "as": "AS13110 INEA sp. z o.o.",
-            "query": "77.65.50.118",
-            "type": "socks4",
-            "port": "34159",
-            "response_time": 0.47
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "32",
-            "regionName": "West Pomerania",
-            "city": "Chociwel",
-            "zip": "73-120",
-            "lat": 53.467,
-            "lon": 15.3334,
-            "timezone": "Europe/Warsaw",
-            "isp": "AS Consulting Sp. z o. o.",
-            "org": "Korbank S. A",
-            "as": "AS60645 AS Consulting Sp. z o. o.",
-            "query": "185.32.4.110",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.26
-        },
         {
             "status": "success",
             "country": "Poland",
@@ -58,7 +20,26 @@
             "query": "91.150.189.122",
             "type": "socks4",
             "port": "60647",
-            "response_time": 4.42
+            "response_time": 2.33
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "03-195",
+            "lat": 52.3029,
+            "lon": 20.9834,
+            "timezone": "Europe/Warsaw",
+            "isp": "WAWPOLIP",
+            "org": "",
+            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+            "query": "148.81.121.5",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.01
         }
     ]
 }
