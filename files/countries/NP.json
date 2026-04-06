@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,29 +17,48 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.79.35.12",
+            "query": "202.79.35.143",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 5.03
+            "port": "4153",
+            "response_time": 3.11
         },
         {
             "status": "success",
             "country": "Nepal",
             "countryCode": "NP",
-            "region": "P5",
-            "regionName": "Lumbini Province",
-            "city": "Butw\u0101l",
+            "region": "P2",
+            "regionName": "Madhesh",
+            "city": "Mahottari",
             "zip": "",
-            "lat": 27.7006,
-            "lon": 83.4484,
+            "lat": 26.6861,
+            "lon": 85.8218,
             "timezone": "Asia/Kathmandu",
-            "isp": "Web Networks Pvt. Ltd.",
-            "org": "Web Networks Pvt. Ltd",
-            "as": "AS136380 Web Networks Pvt. Ltd.",
-            "query": "103.86.57.9",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 6.17
+            "isp": "Subisu Cablenet",
+            "org": "SUBISU Retail Pool15",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "182.93.75.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.12
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7211,
+            "lon": 85.3331,
+            "timezone": "Asia/Kathmandu",
+            "isp": "BroadLink Networks and Communications",
+            "org": "",
+            "as": "AS55427 Broadlink Nepal",
+            "query": "43.245.95.178",
+            "type": "http",
+            "port": "53805",
+            "response_time": 12.67
         }
     ]
 }
