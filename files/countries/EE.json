@@ -1,8 +1,27 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "37",
+            "regionName": "Harjumaa",
+            "city": "Tallinn",
+            "zip": "",
+            "lat": 59.4381,
+            "lon": 24.7369,
+            "timezone": "Europe/Tallinn",
+            "isp": "OC NETWORKS LIMITED",
+            "org": "1Cent Host",
+            "as": "AS209693 OC NETWORKS LIMITED",
+            "query": "87.121.86.166",
+            "type": "http",
+            "port": "1080",
+            "response_time": 3.27
+        },
         {
             "status": "success",
             "country": "Estonia",
@@ -20,7 +39,7 @@
             "query": "87.121.86.166",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.31
+            "response_time": 3.27
         }
     ]
 }
