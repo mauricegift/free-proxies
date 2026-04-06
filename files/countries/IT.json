@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "82",
-            "regionName": "Sicily",
-            "city": "Furnari",
-            "zip": "98054",
-            "lat": 38.1031,
-            "lon": 15.1206,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
             "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "2.115.212.62",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
             "type": "socks4",
-            "port": "48293",
-            "response_time": 7.72
+            "port": "4145",
+            "response_time": 0.64
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "21",
+            "regionName": "Piedmont",
+            "city": "Turin",
+            "zip": "10121",
+            "lat": 45.0913,
+            "lon": 7.66158,
+            "timezone": "Europe/Rome",
+            "isp": "HOST-VDC",
+            "org": "",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.191.202",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.67
         }
     ]
 }
