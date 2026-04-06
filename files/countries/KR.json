@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Goyang-si",
+            "zip": "103",
+            "lat": 37.6792,
+            "lon": 126.8183,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "175.194.173.105",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.49
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 1.5
+            "response_time": 1.51
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.68
+            "response_time": 1.7
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "KR",
             "region": "41",
             "regionName": "Gyeonggi-do",
-            "city": "Ansan-si",
-            "zip": "155",
-            "lat": 37.2852,
-            "lon": 126.8251,
+            "city": "Goyang-si",
+            "zip": "10461",
+            "lat": 37.661,
+            "lon": 126.8324,
             "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "",
-            "as": "AS4766 Korea Telecom",
-            "query": "121.139.218.165",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "1.225.116.115",
             "type": "socks4",
-            "port": "43295",
-            "response_time": 6.45
+            "port": "9050",
+            "response_time": 2.61
         }
     ]
 }
