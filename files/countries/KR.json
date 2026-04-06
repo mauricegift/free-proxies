@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.62
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 2.5
+            "response_time": 2.52
         },
         {
             "status": "success",
@@ -58,7 +58,64 @@
             "query": "175.203.138.160",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.51
+            "response_time": 6.52
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "42",
+            "regionName": "Gangwon-do",
+            "city": "Chuncheon",
+            "zip": "24329",
+            "lat": 37.8897,
+            "lon": 127.736,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "140.245.66.105",
+            "type": "http",
+            "port": "8081",
+            "response_time": 10.04
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks4",
+            "port": "3128",
+            "response_time": 11.45
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks5",
+            "port": "3128",
+            "response_time": 11.45
         }
     ]
 }
