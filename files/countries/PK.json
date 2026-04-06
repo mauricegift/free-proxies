@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60000",
+            "lat": 30.1659,
+            "lon": 71.4415,
+            "timezone": "Asia/Karachi",
+            "isp": "Mian Internet Services (Pvt) Ltd",
+            "org": "MISPL  (Pvt) Ltd",
+            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
+            "query": "103.86.135.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.02
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +39,7 @@
             "query": "110.93.231.21",
             "type": "http",
             "port": "8082",
-            "response_time": 9.87
+            "response_time": 6.93
         }
     ]
 }
