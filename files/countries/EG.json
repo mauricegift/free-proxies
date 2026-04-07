@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data - Egypt",
+            "org": "HiNet",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.248.140",
+            "type": "http",
+            "port": "1981",
+            "response_time": 1.78
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -17,10 +36,10 @@
             "isp": "LINKdotNET AS number",
             "org": "Link Egypt (Link.NET)",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "41.128.72.142",
+            "query": "41.128.72.147",
             "type": "http",
             "port": "1981",
-            "response_time": 11.24
+            "response_time": 6.58
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "EG",
             "region": "C",
             "regionName": "Cairo Governorate",
-            "city": "Cairo",
+            "city": "El Shorouk",
             "zip": "",
-            "lat": 30.0507,
-            "lon": 31.2489,
+            "lat": 30.1381,
+            "lon": 31.6156,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat Misr Mobile BB",
-            "org": "",
+            "isp": "Etisalat",
+            "org": "EgyNet",
             "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.55.27",
+            "query": "84.36.35.206",
             "type": "http",
             "port": "1981",
-            "response_time": 12.47
+            "response_time": 11.84
         }
     ]
 }
