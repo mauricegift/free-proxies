@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "18",
-            "regionName": "Subcarpathia",
-            "city": "Rzesz\u00f3w",
-            "zip": "35-505",
-            "lat": 50.0439,
-            "lon": 21.9587,
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "05-077",
+            "lat": 52.2196,
+            "lon": 21.2313,
             "timezone": "Europe/Warsaw",
-            "isp": "Skyware Sp. z o.o.",
-            "org": "Skyware Sp. z o.o",
-            "as": "AS42673 Skyware Sp. z o.o.",
-            "query": "91.150.189.122",
+            "isp": "InterWan",
+            "org": "InterWan Sp. z o.o",
+            "as": "AS197177 InterWan Sp. z o.o.",
+            "query": "91.223.52.141",
             "type": "socks4",
-            "port": "60647",
-            "response_time": 3.36
+            "port": "5678",
+            "response_time": 5.42
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "00-510",
+            "lat": 52.2297,
+            "lon": 21.0122,
+            "timezone": "Europe/Warsaw",
+            "isp": "Layer IT services",
+            "org": "Layer IT services",
+            "as": "AS208949 HBING LIMITED",
+            "query": "45.88.0.111",
+            "type": "http",
+            "port": "3128",
+            "response_time": 14.24
         }
     ]
 }
