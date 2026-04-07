@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 7,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "51.79.74.158",
             "type": "socks5",
             "port": "40000",
-            "response_time": 0.66
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "AB",
-            "regionName": "Alberta",
-            "city": "Calgary",
-            "zip": "T2R",
-            "lat": 51.05,
-            "lon": -114.0879,
-            "timezone": "America/Edmonton",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.212.16",
-            "type": "http",
-            "port": "8890",
-            "response_time": 1.84
+            "response_time": 0.79
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "40.177.151.5",
             "type": "http",
             "port": "36730",
-            "response_time": 2.41
+            "response_time": 1.64
         },
         {
             "status": "success",
@@ -74,67 +55,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon Technologies Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.211.224",
+            "query": "40.177.212.16",
             "type": "http",
-            "port": "58483",
-            "response_time": 2.76
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Qu\u00e9bec",
-            "zip": "G2A",
-            "lat": 46.8751,
-            "lon": -71.392,
-            "timezone": "America/Toronto",
-            "isp": "TELUS Communications Inc",
-            "org": "TELUS Mobility-Ontario",
-            "as": "AS852 TELUS Communications Inc.",
-            "query": "173.182.69.5",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.87
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Laval",
-            "zip": "H7V",
-            "lat": 45.5472,
-            "lon": -73.7328,
-            "timezone": "America/Toronto",
-            "isp": "Le Groupe Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "24.37.245.42",
-            "type": "socks4",
-            "port": "51056",
-            "response_time": 4.75
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "AB",
-            "regionName": "Alberta",
-            "city": "Calgary",
-            "zip": "T2R",
-            "lat": 51.05,
-            "lon": -114.0879,
-            "timezone": "America/Edmonton",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.106.156",
-            "type": "http",
-            "port": "46292",
-            "response_time": 4.85
+            "port": "8890",
+            "response_time": 1.95
         }
     ]
 }
