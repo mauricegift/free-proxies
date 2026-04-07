@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,32 +14,51 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "43.99.54.236",
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology (hk) Limited",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "152.32.132.190",
             "type": "http",
-            "port": "5555",
-            "response_time": 1.12
+            "port": "7890",
+            "response_time": 1.17
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
+            "region": "HCW",
+            "regionName": "Central and Western District",
             "city": "Hong Kong",
-            "zip": "999077",
+            "zip": "",
             "lat": 22.3193,
-            "lon": 114.169,
+            "lon": 114.1693,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba.com LLC",
-            "org": "IPXO LLC, Zenlayer Inc, Delta Centric LLC",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.83.243.232",
-            "type": "socks5",
-            "port": "1024",
-            "response_time": 5.55
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.96.238.40",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.38
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NSK",
+            "regionName": "Sai Kung District",
+            "city": "Tseung Kwan O",
+            "zip": "",
+            "lat": 22.3346,
+            "lon": 114.2536,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "HGC Global Communications Limited",
+            "org": "HGC Global Communications Limited",
+            "as": "AS9304 HGC Global Communications Limited",
+            "query": "113.255.59.226",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.31
         }
     ]
 }
