@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "02",
-            "regionName": "Lower Silesia",
-            "city": "Wroclaw",
-            "zip": "50-027",
-            "lat": 51.101,
-            "lon": 17.0295,
+            "region": "30",
+            "regionName": "Greater Poland",
+            "city": "Poznan",
+            "zip": "60-865",
+            "lat": 52.4138,
+            "lon": 16.9127,
             "timezone": "Europe/Warsaw",
-            "isp": "OVH SAS",
-            "org": "OVH Sp. z o. o",
-            "as": "AS16276 OVH SAS",
-            "query": "145.239.94.103",
+            "isp": "ECHOSTAR-NET-124/24",
+            "org": "Echostar Studio Piotr Ziemniewicz Sp. z o.o",
+            "as": "AS8477 Echostar Studio Sp. z o.o.",
+            "query": "213.156.124.3",
             "type": "socks4",
-            "port": "10084",
-            "response_time": 0.42
+            "port": "33333",
+            "response_time": 0.27
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "16",
+            "regionName": "Opole Voivodeship",
+            "city": "Krzywa G\u00f3ra",
+            "zip": "46-034",
+            "lat": 50.8661,
+            "lon": 17.876,
+            "timezone": "Europe/Warsaw",
+            "isp": "Orange Polska Spolka Akcyjna",
+            "org": "Orange Polska S.A.",
+            "as": "AS5617 Orange Polska Spolka Akcyjna",
+            "query": "46.171.28.162",
+            "type": "socks4",
+            "port": "59311",
+            "response_time": 3.43
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "91.150.189.122",
             "type": "socks4",
             "port": "60647",
-            "response_time": 3.37
+            "response_time": 5.35
         }
     ]
 }
