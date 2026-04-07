@@ -1,46 +1,8 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "China",
-            "countryCode": "CN",
-            "region": "HE",
-            "regionName": "Hebei",
-            "city": "Shijiazhuang",
-            "zip": "050000",
-            "lat": 38.036,
-            "lon": 114.47,
-            "timezone": "Asia/Shanghai",
-            "isp": "Chinanet",
-            "org": "Chinanet HE",
-            "as": "AS4134 CHINANET-BACKBONE",
-            "query": "111.227.254.11",
-            "type": "http",
-            "port": "22222",
-            "response_time": 2.31
-        },
-        {
-            "status": "success",
-            "country": "China",
-            "countryCode": "CN",
-            "region": "LN",
-            "regionName": "Liaoning",
-            "city": "Shenyang",
-            "zip": "110000",
-            "lat": 41.8357,
-            "lon": 123.429,
-            "timezone": "Asia/Shanghai",
-            "isp": "CHINANET Liaoning province Dalian MAN network",
-            "org": "Chinanet LN",
-            "as": "AS134762 CHINANET Liaoning province Dalian MAN network",
-            "query": "59.46.216.131",
-            "type": "http",
-            "port": "30001",
-            "response_time": 2.68
-        },
         {
             "status": "success",
             "country": "China",
@@ -58,7 +20,7 @@
             "query": "111.227.254.9",
             "type": "http",
             "port": "22222",
-            "response_time": 3.64
+            "response_time": 2.93
         },
         {
             "status": "success",
@@ -77,7 +39,26 @@
             "query": "221.202.27.194",
             "type": "http",
             "port": "10809",
-            "response_time": 5.25
+            "response_time": 4.48
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "SH",
+            "regionName": "Shanghai",
+            "city": "Shanghai",
+            "zip": "",
+            "lat": 31.2222,
+            "lon": 121.4581,
+            "timezone": "Asia/Shanghai",
+            "isp": "China Unicom Shanghai Province Network",
+            "org": "",
+            "as": "AS17621 China Unicom Shanghai network",
+            "query": "27.115.33.94",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 6.99
         }
     ]
 }
