@@ -1,8 +1,27 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 5,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "02-146",
+            "lat": 52.1816,
+            "lon": 20.9673,
+            "timezone": "Europe/Warsaw",
+            "isp": "NETIA",
+            "org": "",
+            "as": "AS12741 Netia SA",
+            "query": "37.128.107.102",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.35
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,45 +39,7 @@
             "query": "45.88.0.113",
             "type": "http",
             "port": "3128",
-            "response_time": 0.24
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "18",
-            "regionName": "Subcarpathia",
-            "city": "Rzesz\u00f3w",
-            "zip": "35-505",
-            "lat": 50.0439,
-            "lon": 21.9587,
-            "timezone": "Europe/Warsaw",
-            "isp": "Skyware Sp. z o.o.",
-            "org": "Skyware Sp. z o.o",
-            "as": "AS42673 Skyware Sp. z o.o.",
-            "query": "91.150.189.122",
-            "type": "socks4",
-            "port": "60647",
-            "response_time": 0.24
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "24",
-            "regionName": "Silesia",
-            "city": "Racib\u00f3rz",
-            "zip": "47-400",
-            "lat": 50.0849,
-            "lon": 18.2166,
-            "timezone": "Europe/Warsaw",
-            "isp": "Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa",
-            "org": "Ostrog.Net",
-            "as": "AS30813 Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa",
-            "query": "78.31.93.76",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.38
+            "response_time": 2.26
         },
         {
             "status": "success",
@@ -77,26 +58,7 @@
             "query": "185.32.4.110",
             "type": "socks4",
             "port": "4153",
-            "response_time": 4.38
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "05-077",
-            "lat": 52.2196,
-            "lon": 21.2313,
-            "timezone": "Europe/Warsaw",
-            "isp": "InterWan",
-            "org": "InterWan Sp. z o.o",
-            "as": "AS197177 InterWan Sp. z o.o.",
-            "query": "91.223.52.141",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.59
+            "response_time": 7.52
         }
     ]
 }
