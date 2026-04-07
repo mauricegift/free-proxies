@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "KE",
+            "regionName": "Kom\u00e1rom-Esztergom",
+            "city": "Esztergom",
+            "zip": "2500",
+            "lat": 47.7928,
+            "lon": 18.7415,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom plc.",
+            "org": "Juropnet",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "79.121.102.227",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.49
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,7 @@
             "query": "95.214.123.80",
             "type": "http",
             "port": "8080",
-            "response_time": 1.53
+            "response_time": 14.49
         }
     ]
 }
