@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "195.219.98.27",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.47
+            "response_time": 0.43
         },
         {
             "status": "success",
@@ -36,48 +36,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "Amazon Data Services Spain",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.100.127.123",
+            "query": "18.100.127.30",
             "type": "http",
-            "port": "41158",
-            "response_time": 2.63
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28085",
-            "lat": 40.4153,
-            "lon": -3.694,
-            "timezone": "Europe/Madrid",
-            "isp": "First Server Limited",
-            "org": "Network Management Ltd",
-            "as": "AS200740 FIRST SERVER LIMITED",
-            "query": "185.114.73.2",
-            "type": "http",
-            "port": "1080",
-            "response_time": 2.88
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28085",
-            "lat": 40.4153,
-            "lon": -3.694,
-            "timezone": "Europe/Madrid",
-            "isp": "First Server Limited",
-            "org": "Network Management Ltd",
-            "as": "AS200740 FIRST SERVER LIMITED",
-            "query": "185.114.73.2",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.88
+            "port": "37180",
+            "response_time": 1.7
         },
         {
             "status": "success",
@@ -96,26 +58,26 @@
             "query": "213.220.3.183",
             "type": "http",
             "port": "3128",
-            "response_time": 8.32
+            "response_time": 7.35
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Dos Hermanas",
-            "zip": "41702",
-            "lat": 37.2866,
-            "lon": -5.9208,
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28085",
+            "lat": 40.4153,
+            "lon": -3.694,
             "timezone": "Europe/Madrid",
-            "isp": "Pinkbear SLU",
-            "org": "PINKBEAR SL",
-            "as": "AS211141 PINKBEAR SLU",
-            "query": "185.226.195.218",
+            "isp": "First Server Limited",
+            "org": "Network Management Ltd",
+            "as": "AS200740 FIRST SERVER LIMITED",
+            "query": "185.114.73.2",
             "type": "http",
-            "port": "2222",
-            "response_time": 10.76
+            "port": "1080",
+            "response_time": 10.41
         }
     ]
 }
