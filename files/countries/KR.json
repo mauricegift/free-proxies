@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.61
+            "response_time": 1.75
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "48",
-            "regionName": "Gyeongsangnam-do",
-            "city": "Hapcheon-gun",
-            "zip": "502",
-            "lat": 35.5698,
-            "lon": 128.1587,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "",
+            "lat": 37.5665,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-northeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.78.193.98",
+            "type": "http",
+            "port": "52606",
+            "response_time": 2.68
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "045",
+            "lat": 37.5656,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "",
+            "org": "Kornet",
             "as": "AS4766 Korea Telecom",
-            "query": "112.163.160.93",
+            "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 5.89
+            "response_time": 3.69
         }
     ]
 }
