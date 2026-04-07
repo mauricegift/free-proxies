@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "045",
+            "lat": 37.5656,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "210.223.44.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.51
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.75
+            "response_time": 1.73
         },
         {
             "status": "success",
@@ -39,26 +58,26 @@
             "query": "52.78.193.98",
             "type": "http",
             "port": "52606",
-            "response_time": 2.68
+            "response_time": 2.4
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "045",
-            "lat": 37.5656,
-            "lon": 126.978,
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Ansan-si",
+            "zip": "155",
+            "lat": 37.2852,
+            "lon": 126.8251,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "Kornet",
+            "org": "",
             "as": "AS4766 Korea Telecom",
-            "query": "210.223.44.230",
-            "type": "http",
-            "port": "3128",
-            "response_time": 3.69
+            "query": "121.139.218.165",
+            "type": "socks4",
+            "port": "43295",
+            "response_time": 8.56
         }
     ]
 }
