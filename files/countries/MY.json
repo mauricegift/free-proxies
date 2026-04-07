@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "MY",
             "region": "10",
             "regionName": "Selangor",
-            "city": "Petaling Jaya",
-            "zip": "47820",
-            "lat": 3.16459,
-            "lon": 101.613,
+            "city": "Shah Alam",
+            "zip": "40150",
+            "lat": 3.1071,
+            "lon": 101.5526,
             "timezone": "Asia/Kuala_Lumpur",
-            "isp": "E-world Communication SDN BHD",
-            "org": "E-world Communication SDN BHD",
-            "as": "AS134202 E-WORLD COMMUNICATION SDN BHD",
-            "query": "103.58.16.106",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 3.39
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.139.211.38",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.8
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.138.75.137",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.4
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "219.93.111.125",
             "type": "http",
             "port": "9412",
-            "response_time": 6.8
+            "response_time": 5.91
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.250.168.70",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.34
         }
     ]
 }
