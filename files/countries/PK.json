@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54600",
+            "lat": 31.5149,
+            "lon": 74.3464,
+            "timezone": "Asia/Karachi",
+            "isp": "PLAY BROADBAND (PRIVATE) LIMITED",
+            "org": "PLAY BROADBAND (PRIVATE) LIMITED",
+            "as": "AS151330 PLAY BROADBAND (PRIVATE) LIMITED",
+            "query": "103.198.154.151",
+            "type": "http",
+            "port": "8888",
+            "response_time": 4.67
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -11,16 +30,35 @@
             "regionName": "Sindh",
             "city": "Karachi",
             "zip": "75660",
-            "lat": 24.8021,
-            "lon": 67.0298,
+            "lat": 24.8127,
+            "lon": 67.0115,
             "timezone": "Asia/Karachi",
             "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
             "org": "TW RO",
             "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.206.62",
+            "query": "110.93.231.73",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.29
+            "response_time": 4.83
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
+            "timezone": "Asia/Karachi",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.33
         }
     ]
 }
