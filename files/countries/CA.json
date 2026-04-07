@@ -1,8 +1,46 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Laval",
+            "zip": "H7V",
+            "lat": 45.5472,
+            "lon": -73.7328,
+            "timezone": "America/Toronto",
+            "isp": "Le Groupe Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "24.37.245.42",
+            "type": "socks4",
+            "port": "51056",
+            "response_time": 2.64
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2R",
+            "lat": 51.05,
+            "lon": -114.0879,
+            "timezone": "America/Edmonton",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "40.177.106.156",
+            "type": "http",
+            "port": "46292",
+            "response_time": 3.13
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,26 +58,7 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.77
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.4995,
-            "lon": -73.5848,
-            "timezone": "America/Toronto",
-            "isp": "BrainStorm Network Inc.",
-            "org": "HostPapa",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "23.95.76.201",
-            "type": "http",
-            "port": "8443",
-            "response_time": 8.23
+            "response_time": 7.81
         }
     ]
 }
