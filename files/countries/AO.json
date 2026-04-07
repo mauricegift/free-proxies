@@ -1,8 +1,27 @@
 {
     "countryCode": "AO",
     "country": "Angola",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Angola",
+            "countryCode": "AO",
+            "region": "LUA",
+            "regionName": "Luanda Province",
+            "city": "Luanda",
+            "zip": "",
+            "lat": -8.8371,
+            "lon": 13.2333,
+            "timezone": "Africa/Luanda",
+            "isp": "TV CABO ANGOLA LDA",
+            "org": "TVCabo Angola, Lda",
+            "as": "AS36907 TV CABO ANGOLA LDA",
+            "query": "154.127.219.242",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.04
+        },
         {
             "status": "success",
             "country": "Angola",
@@ -20,7 +39,7 @@
             "query": "102.207.128.3",
             "type": "http",
             "port": "8080",
-            "response_time": 10.7
+            "response_time": 9.43
         }
     ]
 }
