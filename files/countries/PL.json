@@ -1,26 +1,26 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "24",
-            "regionName": "Silesia",
-            "city": "Cz\u0119stochowa",
-            "zip": "42-202",
-            "lat": 50.8047,
-            "lon": 19.1034,
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "05-077",
+            "lat": 52.2196,
+            "lon": 21.2313,
             "timezone": "Europe/Warsaw",
-            "isp": "MARCIN MALOLEPSZY @ALFANET",
-            "org": "MARCIN MALOLEPSZY @ALFANET",
-            "as": "AS49528 MARCIN MALOLEPSZY @ALFANET",
-            "query": "31.42.2.113",
+            "isp": "InterWan",
+            "org": "InterWan Sp. z o.o",
+            "as": "AS197177 InterWan Sp. z o.o.",
+            "query": "91.223.52.141",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.28
+            "response_time": 0.42
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "193.243.154.146",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.44
+            "response_time": 3.4
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "04-157",
+            "lat": 52.2424,
+            "lon": 21.1023,
+            "timezone": "Europe/Warsaw",
+            "isp": "P4 Sp. z o.o.",
+            "org": "Play",
+            "as": "AS9141 P4 Sp. z o.o.",
+            "query": "83.144.70.218",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.82
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "213.156.124.3",
             "type": "socks4",
             "port": "33333",
-            "response_time": 1.05
+            "response_time": 4.42
         },
         {
             "status": "success",
@@ -66,18 +85,18 @@
             "countryCode": "PL",
             "region": "32",
             "regionName": "West Pomerania",
-            "city": "Szczecinek",
-            "zip": "78-400",
-            "lat": 53.7056,
-            "lon": 16.6868,
+            "city": "Chociwel",
+            "zip": "73-120",
+            "lat": 53.467,
+            "lon": 15.3334,
             "timezone": "Europe/Warsaw",
-            "isp": "Gawex Media Sp.zoo",
-            "org": "Gawex Media Sp. z o. o.",
-            "as": "AS31608 Gawex Media Sp. z o. o.",
-            "query": "84.205.28.220",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.32
+            "isp": "AS Consulting Sp. z o. o.",
+            "org": "Korbank S. A",
+            "as": "AS60645 AS Consulting Sp. z o. o.",
+            "query": "185.32.4.65",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.4
         }
     ]
 }
