@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Sialkot",
+            "zip": "51040",
+            "lat": 32.426,
+            "lon": 74.3644,
+            "timezone": "Asia/Karachi",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "",
+            "as": "AS139820 HG TELECOMMUNICATION PRIVATE LIMITED",
+            "query": "59.103.34.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.3
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -18,9 +37,9 @@
             "org": "Connect Communication",
             "as": "AS132165 Connect Communications",
             "query": "115.42.67.186",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.44
+            "type": "socks4",
+            "port": "56534",
+            "response_time": 5.88
         }
     ]
 }
