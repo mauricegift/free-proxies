@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "NP",
             "region": "P3",
             "regionName": "Bagmati Province",
-            "city": "Patan",
+            "city": "Kathmandu",
             "zip": "",
-            "lat": 27.6729,
-            "lon": 85.3107,
+            "lat": 27.7108,
+            "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
-            "isp": "Subisu Cablenet",
+            "isp": "WorldLink Communications",
             "org": "",
-            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-            "query": "110.34.8.110",
+            "as": "AS17501 WorldLink Communications Pvt Ltd",
+            "query": "202.166.196.105",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 5.21
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7211,
+            "lon": 85.3331,
+            "timezone": "Asia/Kathmandu",
+            "isp": "BroadLink Networks and Communications",
+            "org": "",
+            "as": "AS55427 Broadlink Nepal",
+            "query": "43.245.95.178",
             "type": "http",
-            "port": "8080",
-            "response_time": 11.47
+            "port": "53805",
+            "response_time": 6.68
         }
     ]
 }
