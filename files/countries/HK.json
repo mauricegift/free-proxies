@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 8,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -26,6 +26,25 @@
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Lucidacloud Limited",
+            "org": "Lucidacloud Limited",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "103.143.81.156",
+            "type": "socks4",
+            "port": "7890",
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
             "region": "",
             "regionName": "Kowloon",
             "city": "Hong Kong",
@@ -39,45 +58,7 @@
             "query": "43.99.54.236",
             "type": "http",
             "port": "5555",
-            "response_time": 1.24
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western",
-            "city": "Hong Kong",
-            "zip": "",
-            "lat": 22.3964,
-            "lon": 114.109,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-east-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.198.99.209",
-            "type": "http",
-            "port": "30650",
-            "response_time": 2.21
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "NKT",
-            "regionName": "Kwai Tsing District",
-            "city": "Tsing Yi",
-            "zip": "",
-            "lat": 22.3484,
-            "lon": 114.112,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "HGC Global Communications Limited",
-            "org": "HGC Global Communications Limited",
-            "as": "AS9304 HGC Global Communications Limited",
-            "query": "223.16.170.103",
-            "type": "http",
-            "port": "80",
-            "response_time": 4.22
+            "response_time": 1.19
         },
         {
             "status": "success",
@@ -96,7 +77,26 @@
             "query": "89.251.26.233",
             "type": "socks4",
             "port": "7890",
-            "response_time": 8.21
+            "response_time": 2.29
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western",
+            "city": "Hong Kong",
+            "zip": "",
+            "lat": 22.3964,
+            "lon": 114.109,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-east-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "43.198.99.209",
+            "type": "http",
+            "port": "30650",
+            "response_time": 2.31
         },
         {
             "status": "success",
@@ -115,26 +115,7 @@
             "query": "203.196.8.6",
             "type": "http",
             "port": "3128",
-            "response_time": 8.22
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "NKT",
-            "regionName": "Kwai Tsing District",
-            "city": "Kwai Chung",
-            "zip": "",
-            "lat": 22.3702,
-            "lon": 114.13,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Hong Kong Broadband Network Ltd",
-            "org": "Hong Kong Broadband Network Limited",
-            "as": "AS9269 Hong Kong Broadband Network Ltd.",
-            "query": "183.178.50.58",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.75
+            "response_time": 7.35
         },
         {
             "status": "success",
@@ -153,7 +134,7 @@
             "query": "139.198.113.42",
             "type": "http",
             "port": "10023",
-            "response_time": 13.84
+            "response_time": 8.54
         }
     ]
 }
