@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "20",
-            "regionName": "Central Bohemia",
-            "city": "Votice",
-            "zip": "259 01",
-            "lat": 49.6409,
-            "lon": 14.6376,
+            "region": "71",
+            "regionName": "Olomouck\u00fd kraj",
+            "city": "Olomouc",
+            "zip": "779 00",
+            "lat": 49.5864,
+            "lon": 17.2537,
             "timezone": "Europe/Prague",
-            "isp": "BlueTone-CRa",
-            "org": "WIFCOM a.s.",
-            "as": "AS25248 RADIOKOMUNIKACE a.s.",
-            "query": "84.244.119.36",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "188.119.98.126",
             "type": "http",
-            "port": "23500",
-            "response_time": 8.14
+            "port": "9999",
+            "response_time": 4.93
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "80",
+            "regionName": "Moravskoslezsk\u00fd kraj",
+            "city": "Ostrava",
+            "zip": "700 30",
+            "lat": 49.7967,
+            "lon": 18.2343,
+            "timezone": "Europe/Prague",
+            "isp": "PODA a.s.",
+            "org": "PODA",
+            "as": "AS30764 PODA a.s.",
+            "query": "164.215.127.146",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.55
         }
     ]
 }
