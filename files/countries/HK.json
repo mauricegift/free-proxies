@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 8,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "152.32.132.190",
             "type": "http",
             "port": "7890",
-            "response_time": 1.1
+            "response_time": 1.12
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "103.143.81.156",
             "type": "socks4",
             "port": "7890",
-            "response_time": 1.13
+            "response_time": 1.17
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "43.99.54.236",
             "type": "http",
             "port": "5555",
-            "response_time": 1.45
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "NKT",
-            "regionName": "Kwai Tsing District",
-            "city": "Kwai Chung",
-            "zip": "",
-            "lat": 22.3702,
-            "lon": 114.13,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Hong Kong Broadband Network Ltd",
-            "org": "Hong Kong Broadband Network Limited",
-            "as": "AS9269 Hong Kong Broadband Network Ltd.",
-            "query": "183.178.50.58",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.34
+            "response_time": 1.41
         },
         {
             "status": "success",
@@ -96,7 +77,26 @@
             "query": "203.196.8.6",
             "type": "http",
             "port": "3128",
-            "response_time": 10.47
+            "response_time": 5.62
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HWC",
+            "regionName": "Wan Chai",
+            "city": "Wan Chai",
+            "zip": "96521",
+            "lat": 22.2782,
+            "lon": 114.176,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "ASSN-AKRN",
+            "org": "",
+            "as": "AS38136 Akari Networks",
+            "query": "103.135.102.161",
+            "type": "http",
+            "port": "8081",
+            "response_time": 7.52
         },
         {
             "status": "success",
@@ -115,45 +115,7 @@
             "query": "156.238.243.56",
             "type": "http",
             "port": "7890",
-            "response_time": 10.83
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Yunify Technologies Inc",
-            "org": "Yunify Technologies Inc.",
-            "as": "AS134366 Cloud Computing HK Limited",
-            "query": "139.198.113.42",
-            "type": "http",
-            "port": "10023",
-            "response_time": 12.46
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.210.158.189",
-            "type": "socks5",
-            "port": "9065",
-            "response_time": 20.59
+            "response_time": 9.83
         }
     ]
 }
