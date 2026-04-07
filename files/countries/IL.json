@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.85.49.118",
+            "type": "http",
+            "port": "9010",
+            "response_time": 3.96
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,7 +39,7 @@
             "query": "185.241.5.57",
             "type": "http",
             "port": "3128",
-            "response_time": 0.83
+            "response_time": 4.55
         }
     ]
 }
