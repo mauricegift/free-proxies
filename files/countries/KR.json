@@ -1,27 +1,8 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "",
-            "lat": 37.5665,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-northeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "52.78.193.98",
-            "type": "http",
-            "port": "5709",
-            "response_time": 2.57
-        },
         {
             "status": "success",
             "country": "South Korea",
@@ -39,7 +20,45 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 3.87
+            "response_time": 1.72
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "",
+            "lat": 37.5665,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-northeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.78.193.98",
+            "type": "http",
+            "port": "14025",
+            "response_time": 2.6
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Songpa-gu",
+            "zip": "055",
+            "lat": 37.508,
+            "lon": 127.1177,
+            "timezone": "Asia/Seoul",
+            "isp": "LG POWERCOMM",
+            "org": "Xpeed",
+            "as": "AS17858 LG POWERCOMM",
+            "query": "115.136.121.54",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 3.73
         }
     ]
 }
