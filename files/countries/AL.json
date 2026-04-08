@@ -1,8 +1,27 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
+            "zip": "",
+            "lat": 41.1122,
+            "lon": 20.0818,
+            "timezone": "Europe/Tirane",
+            "isp": "ATU",
+            "org": "",
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "37.26.86.206",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.38
+        },
         {
             "status": "success",
             "country": "Albania",
@@ -20,7 +39,7 @@
             "query": "80.91.116.129",
             "type": "http",
             "port": "8081",
-            "response_time": 5.95
+            "response_time": 4.46
         }
     ]
 }
