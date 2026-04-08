@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "34.96.238.40",
             "type": "http",
             "port": "8080",
-            "response_time": 1.17
+            "response_time": 1.19
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
+            "region": "NKT",
+            "regionName": "Kwai Tsing District",
+            "city": "Tsing Yi",
+            "zip": "",
+            "lat": 22.3484,
+            "lon": 114.112,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.238.203.170",
+            "isp": "HGC Global Communications Limited",
+            "org": "HGC Global Communications Limited",
+            "as": "AS9304 HGC Global Communications Limited",
+            "query": "223.16.170.103",
             "type": "http",
-            "port": "50000",
-            "response_time": 4.92
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "KYT",
-            "regionName": "Yau Tsim Mong District",
-            "city": "Tai Kok Tsui",
-            "zip": "999077",
-            "lat": 22.3242,
-            "lon": 114.163,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "LucidaCloud Limited",
-            "org": "PacketExchange",
-            "as": "AS139659 LUCIDACLOUD LIMITED",
-            "query": "68.64.179.186",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 7.37
+            "port": "80",
+            "response_time": 9.41
         }
     ]
 }
