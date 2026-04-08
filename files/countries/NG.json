@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "BO",
+            "regionName": "Borno State",
+            "city": "Maiduguri",
+            "zip": "",
+            "lat": 11.8311,
+            "lon": 13.151,
+            "timezone": "Africa/Lagos",
+            "isp": "Gutti Global Networks",
+            "org": "Gutti Global Networks",
+            "as": "AS327986 GUTTI GLOBAL NETWORKS",
+            "query": "169.239.236.201",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 4.16
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -17,10 +36,10 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.179.218",
+            "query": "154.113.220.1",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.95
+            "response_time": 6.02
         }
     ]
 }
