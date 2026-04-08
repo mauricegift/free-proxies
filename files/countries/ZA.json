@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "156.155.50.93",
             "type": "http",
             "port": "8080",
-            "response_time": 3.8
+            "response_time": 5.58
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "LP",
+            "regionName": "Limpopo",
+            "city": "Tzaneen",
+            "zip": "0850",
+            "lat": -23.8287,
+            "lon": 30.1672,
+            "timezone": "Africa/Johannesburg",
+            "isp": "LWIC",
+            "org": "",
+            "as": "AS328638 Letaba Networks (Pty) Ltd",
+            "query": "196.6.115.165",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.53
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Centurion",
+            "zip": "0157",
+            "lat": -25.8776,
+            "lon": 28.1682,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Session Telecoms(PTY) Ltd",
+            "org": "SessionTelecoms",
+            "as": "AS327907 Session Telecoms(PTY) Ltd",
+            "query": "102.135.142.234",
+            "type": "http",
+            "port": "12354",
+            "response_time": 8.23
         }
     ]
 }
