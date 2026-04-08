@@ -1,8 +1,46 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "24",
+            "regionName": "Stara Zagora",
+            "city": "Stara Zagora",
+            "zip": "6000",
+            "lat": 42.4361,
+            "lon": 25.6394,
+            "timezone": "Europe/Sofia",
+            "isp": "Bulsatcom AD",
+            "org": "Bulsatcom AD",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "46.47.82.16",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.21
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "16",
+            "regionName": "Plovdiv",
+            "city": "Plovdiv",
+            "zip": "4000",
+            "lat": 42.1513,
+            "lon": 24.7518,
+            "timezone": "Europe/Sofia",
+            "isp": "Netguard LLC",
+            "org": "Netguard LLC",
+            "as": "AS39251 NETGUARD LLC",
+            "query": "91.92.78.207",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.29
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,7 +58,26 @@
             "query": "213.169.33.7",
             "type": "http",
             "port": "8001",
-            "response_time": 3.91
+            "response_time": 3.9
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "19",
+            "regionName": "Silistra",
+            "city": "Sratsimir",
+            "zip": "7544",
+            "lat": 44.0358,
+            "lon": 27.3308,
+            "timezone": "Europe/Sofia",
+            "isp": "Netbox LTD",
+            "org": "NETBOX Mododex",
+            "as": "AS61071 NETBOX LTD",
+            "query": "88.213.214.254",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 7.45
         }
     ]
 }
