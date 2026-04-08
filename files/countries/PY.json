@@ -1,7 +1,7 @@
 {
     "countryCode": "PY",
     "country": "Paraguay",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "143.255.140.28",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.1
+            "response_time": 1.23
+        },
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "ASU",
+            "regionName": "Asunci\u00f3n",
+            "city": "Asunci\u00f3n",
+            "zip": "",
+            "lat": -25.2869,
+            "lon": -57.6511,
+            "timezone": "America/Asuncion",
+            "isp": "N\u00facleo S.A.",
+            "org": "N\u00facleo S.A",
+            "as": "AS27895 N\u00facleo S.A.",
+            "query": "190.104.143.94",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.41
         }
     ]
 }
