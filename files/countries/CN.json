@@ -1,7 +1,7 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Chinanet",
             "org": "Chinanet HE",
             "as": "AS4134 CHINANET-BACKBONE",
-            "query": "111.227.254.9",
+            "query": "111.227.254.10",
             "type": "http",
             "port": "22222",
-            "response_time": 1.63
+            "response_time": 1.62
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "Chinanet",
             "org": "Chinanet HE",
             "as": "AS4134 CHINANET-BACKBONE",
-            "query": "111.227.254.12",
+            "query": "111.227.254.11",
             "type": "http",
             "port": "22222",
-            "response_time": 1.71
+            "response_time": 1.74
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "HI",
+            "regionName": "Hainan",
+            "city": "Haikou",
+            "zip": "570000",
+            "lat": 20.0442,
+            "lon": 110.2,
+            "timezone": "Asia/Shanghai",
+            "isp": "CNC Group CHINA169 Hainan Province Network",
+            "org": "",
+            "as": "AS4837 CHINA UNICOM China169 Backbone",
+            "query": "113.59.113.4",
+            "type": "http",
+            "port": "1088",
+            "response_time": 5.72
         },
         {
             "status": "success",
@@ -49,16 +68,16 @@
             "regionName": "Liaoning",
             "city": "Shenyang",
             "zip": "110000",
-            "lat": 41.8048,
-            "lon": 123.433,
+            "lat": 41.8357,
+            "lon": 123.429,
             "timezone": "Asia/Shanghai",
-            "isp": "CNC Group CHINA169 Liaoning Province Network",
-            "org": "",
-            "as": "AS4837 CHINA UNICOM China169 Backbone",
-            "query": "221.202.27.194",
+            "isp": "CHINANET Liaoning province Dalian MAN network",
+            "org": "Chinanet LN",
+            "as": "AS134762 CHINANET Liaoning province Dalian MAN network",
+            "query": "59.46.216.131",
             "type": "http",
-            "port": "10811",
-            "response_time": 8.13
+            "port": "30001",
+            "response_time": 8.42
         }
     ]
 }
