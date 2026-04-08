@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 7,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.230.38.173",
+            "query": "159.223.71.162",
             "type": "http",
-            "port": "3128",
-            "response_time": 0.92
+            "port": "443",
+            "response_time": 0.95
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 1.0
+            "response_time": 1.05
         },
         {
             "status": "success",
@@ -58,7 +58,45 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.02
+            "response_time": 1.06
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Alibaba.com LLC",
+            "org": "Delta Centric LLC, Zenlayer Inc",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.84.126.81",
+            "type": "socks4",
+            "port": "443",
+            "response_time": 1.11
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digitalocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "178.128.24.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.19
         },
         {
             "status": "success",
@@ -77,26 +115,7 @@
             "query": "159.223.71.162",
             "type": "http",
             "port": "8080",
-            "response_time": 1.36
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "159.223.71.162",
-            "type": "http",
-            "port": "443",
-            "response_time": 1.37
+            "response_time": 1.39
         },
         {
             "status": "success",
@@ -115,7 +134,7 @@
             "query": "165.22.57.158",
             "type": "http",
             "port": "8080",
-            "response_time": 1.96
+            "response_time": 2.52
         },
         {
             "status": "success",
@@ -128,13 +147,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Alibaba Cloud (Singapore) Private Limited",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.219.97.248",
+            "query": "47.236.230.183",
             "type": "http",
-            "port": "80",
-            "response_time": 2.68
+            "port": "8888",
+            "response_time": 10.59
         }
     ]
 }
