@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "152.32.132.190",
             "type": "http",
             "port": "7890",
-            "response_time": 1.16
+            "response_time": 1.12
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "95.40.79.184",
             "type": "http",
             "port": "27595",
-            "response_time": 5.65
+            "response_time": 3.22
         },
         {
             "status": "success",
@@ -56,9 +56,28 @@
             "org": "Huizhou Huigu Cloud Technology Co., Ltd",
             "as": "AS152179 GLOBAL COMMUNICATION NETWORK LIMITED",
             "query": "89.251.26.233",
-            "type": "socks5",
+            "type": "socks4",
             "port": "7890",
-            "response_time": 8.75
+            "response_time": 5.85
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.31
         }
     ]
 }
