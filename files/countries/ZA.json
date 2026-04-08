@@ -1,26 +1,45 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
+            "region": "LP",
+            "regionName": "Limpopo",
+            "city": "Tzaneen",
+            "zip": "0850",
+            "lat": -23.8287,
+            "lon": 30.1672,
             "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.193.252",
+            "isp": "LWIC",
+            "org": "",
+            "as": "AS328638 Letaba Networks (Pty) Ltd",
+            "query": "196.6.115.165",
             "type": "http",
-            "port": "8083",
-            "response_time": 12.82
+            "port": "8080",
+            "response_time": 1.63
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7925",
+            "lat": -33.914,
+            "lon": 18.4129,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Vox Telecommunications (Pty) Limited",
+            "org": "Vox Telecom (Pty) Ltd",
+            "as": "AS11845 Vox Telecom Ltd",
+            "query": "102.39.233.4",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.12
         }
     ]
 }
