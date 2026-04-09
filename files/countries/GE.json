@@ -1,26 +1,45 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Georgia",
             "countryCode": "GE",
-            "region": "",
-            "regionName": "",
-            "city": "",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Zestaponi",
             "zip": "",
-            "lat": 42,
-            "lon": 43.4999,
+            "lat": 42.1046,
+            "lon": 43.0385,
             "timezone": "Asia/Tbilisi",
-            "isp": "Cloud Hosting Solutions, Limited.",
-            "org": "Chsl ONE LTD",
-            "as": "AS199785 Cloud Hosting Solutions, Limited.",
-            "query": "77.91.77.220",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.78
+            "isp": "Airmax LLC",
+            "org": "",
+            "as": "AS208320 AIRMAX LLC",
+            "query": "45.143.108.13",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.96
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.115",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.58
         }
     ]
 }
