@@ -1,8 +1,27 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 7,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "165.22.110.253",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.69
+        },
         {
             "status": "success",
             "country": "Singapore",
@@ -20,7 +39,7 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 1.44
+            "response_time": 0.98
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "77.93.89.128",
             "type": "http",
             "port": "47146",
-            "response_time": 3.17
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "104.248.151.220",
-            "type": "socks4",
-            "port": "57554",
-            "response_time": 5.09
+            "response_time": 1.74
         },
         {
             "status": "success",
@@ -77,7 +77,26 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 6.15
+            "response_time": 3.78
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "128.199.104.190",
+            "type": "socks4",
+            "port": "41354",
+            "response_time": 5.17
         },
         {
             "status": "success",
@@ -90,13 +109,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Akamai Technologies",
-            "org": "Linode",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "172.105.118.164",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.236.230.183",
             "type": "http",
-            "port": "3128",
-            "response_time": 10.97
+            "port": "8888",
+            "response_time": 9.21
         },
         {
             "status": "success",
@@ -109,13 +128,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Akamai Technologies, Inc.",
-            "org": "Linode",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "139.162.46.62",
+            "isp": "Alibaba.com LLC",
+            "org": "Delta Centric LLC, Zenlayer Inc",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.84.131.156",
             "type": "http",
-            "port": "3128",
-            "response_time": 14.7
+            "port": "8100",
+            "response_time": 10.2
         },
         {
             "status": "success",
@@ -132,9 +151,9 @@
             "org": "Google Cloud (asia-southeast1)",
             "as": "AS396982 Google LLC",
             "query": "34.124.190.108",
-            "type": "socks5",
+            "type": "socks4",
             "port": "8080",
-            "response_time": 15.1
+            "response_time": 16.68
         }
     ]
 }
