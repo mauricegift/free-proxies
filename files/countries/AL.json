@@ -1,26 +1,45 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Elbasan",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
             "zip": "",
-            "lat": 41.1122,
-            "lon": 20.0818,
+            "lat": 41.3253,
+            "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "ATU",
-            "org": "",
-            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
-            "query": "185.89.156.2",
-            "type": "http",
-            "port": "44224",
-            "response_time": 4.94
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone RESIDENTIAL NAT",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.78.106",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 1.29
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Enterprise",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.74.66",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 3.42
         }
     ]
 }
