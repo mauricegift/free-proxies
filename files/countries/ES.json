@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "83.56.15.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.52
+            "response_time": 1.39
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Hu\u00e9neja",
+            "zip": "18512",
+            "lat": 37.1766,
+            "lon": -2.95024,
+            "timezone": "Europe/Madrid",
+            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+            "org": "Ciberdolar",
+            "as": "AS29119 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+            "query": "109.167.83.167",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.41
         },
         {
             "status": "success",
@@ -29,17 +48,36 @@
             "region": "MD",
             "regionName": "Madrid",
             "city": "Madrid",
-            "zip": "28085",
-            "lat": 40.4153,
-            "lon": -3.694,
+            "zip": "28037",
+            "lat": 40.4327,
+            "lon": -3.621,
             "timezone": "Europe/Madrid",
-            "isp": "First Server Limited",
-            "org": "Network Management Ltd",
-            "as": "AS200740 FIRST SERVER LIMITED",
-            "query": "185.114.73.2",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Svenska AB",
+            "as": "AS31898 Oracle Corporation",
+            "query": "143.47.59.115",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 9.76
+            "port": "8118",
+            "response_time": 1.58
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AR",
+            "regionName": "Aragon",
+            "city": "Zaragoza",
+            "zip": "50090",
+            "lat": 41.6579,
+            "lon": -0.8777,
+            "timezone": "Europe/Madrid",
+            "isp": "Amazon Technologies Inc.",
+            "org": "Amazon Data Services Spain",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.100.127.30",
+            "type": "http",
+            "port": "44386",
+            "response_time": 1.62
         }
     ]
 }
