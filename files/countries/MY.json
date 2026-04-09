@@ -1,8 +1,46 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47800",
+            "lat": 3.1196,
+            "lon": 101.5843,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "60.54.19.46",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.41
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Amazon.com, Inc.",
+            "org": "United States Postal Service",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "56.68.77.224",
+            "type": "http",
+            "port": "8038",
+            "response_time": 1.81
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +58,26 @@
             "query": "56.68.77.224",
             "type": "http",
             "port": "57570",
-            "response_time": 5.33
+            "response_time": 7.24
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "16",
+            "regionName": "Putrajaya",
+            "city": "Putrajaya",
+            "zip": "62584",
+            "lat": 2.94405,
+            "lon": 101.723,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Extreme Broadband",
+            "org": "Extreme Broadband",
+            "as": "AS38182 Extreme Broadband - Total Broadband Experience",
+            "query": "58.84.16.214",
+            "type": "http",
+            "port": "1231",
+            "response_time": 9.11
         }
     ]
 }
