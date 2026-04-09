@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "65.108.159.129",
             "type": "http",
             "port": "8081",
-            "response_time": 2.08
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00100",
-            "lat": 60.1727,
-            "lon": 24.932,
-            "timezone": "Europe/Helsinki",
-            "isp": "WAIcore Ltd",
-            "org": "WAIcore Ltd",
-            "as": "AS213887 WAIcore Ltd",
-            "query": "213.165.58.7",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.69
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00100",
-            "lat": 60.1727,
-            "lon": 24.932,
-            "timezone": "Europe/Helsinki",
-            "isp": "WAIcore Ltd",
-            "org": "WAIcore Ltd",
-            "as": "AS213887 WAIcore Ltd",
-            "query": "213.165.58.8",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 9.59
+            "response_time": 1.95
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "213.165.58.8",
             "type": "socks5",
             "port": "1080",
-            "response_time": 9.59
+            "response_time": 6.64
         },
         {
             "status": "success",
@@ -110,12 +72,12 @@
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
             "isp": "Hetzner Online GmbH",
-            "org": "",
+            "org": "Hetzner",
             "as": "AS24940 Hetzner Online GmbH",
-            "query": "65.21.115.34",
+            "query": "135.181.113.216",
             "type": "http",
-            "port": "1000",
-            "response_time": 9.93
+            "port": "16379",
+            "response_time": 10.43
         }
     ]
 }
