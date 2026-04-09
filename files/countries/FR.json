@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "109.123.251.109",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.26
+            "response_time": 0.15
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "HDF",
+            "regionName": "Hauts-de-France",
+            "city": "Roubaix",
+            "zip": "59100",
+            "lat": 50.6924,
+            "lon": 3.20113,
+            "timezone": "Europe/Paris",
+            "isp": "OVH SAS",
+            "org": "OVH",
+            "as": "AS16276 OVH SAS",
+            "query": "217.182.195.221",
+            "type": "http",
+            "port": "30001",
+            "response_time": 0.75
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "85.208.51.165",
+            "type": "http",
+            "port": "443",
+            "response_time": 5.08
         },
         {
             "status": "success",
@@ -39,7 +77,45 @@
             "query": "85.208.51.165",
             "type": "socks4",
             "port": "443",
-            "response_time": 17.0
+            "response_time": 5.08
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "185.198.27.38",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.42
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "173.212.222.244",
+            "type": "http",
+            "port": "8888",
+            "response_time": 12.95
         }
     ]
 }
