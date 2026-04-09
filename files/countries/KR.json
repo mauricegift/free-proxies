@@ -1,26 +1,26 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Dongdaemun",
-            "zip": "024",
-            "lat": 37.5841,
-            "lon": 127.0616,
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
             "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "1.231.81.166",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.72
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
+            "type": "socks4",
+            "port": "60984",
+            "response_time": 1.22
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "52.78.193.98",
             "type": "http",
             "port": "14025",
-            "response_time": 2.6
+            "response_time": 2.73
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Goyang-si",
+            "zip": "10461",
+            "lat": 37.661,
+            "lon": 126.8324,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "1.225.116.115",
+            "type": "http",
+            "port": "1080",
+            "response_time": 3.42
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.508,
-            "lon": 127.1177,
+            "city": "Dongdaemun",
+            "zip": "024",
+            "lat": 37.5841,
+            "lon": 127.0616,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 3.73
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "1.231.81.166",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.78
         }
     ]
 }
