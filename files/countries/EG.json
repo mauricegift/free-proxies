@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 30.0507,
             "lon": 31.2489,
             "timezone": "Africa/Cairo",
-            "isp": "LINKdotNET AS number",
-            "org": "Link Egypt (Link.NET)",
+            "isp": "Enterprise",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "41.65.227.118",
+            "type": "http",
+            "port": "1981",
+            "response_time": 5.77
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "41.128.72.194",
+            "query": "197.164.101.10",
             "type": "http",
             "port": "1976",
-            "response_time": 7.68
+            "response_time": 8.14
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Madinaty",
+            "zip": "",
+            "lat": 30.0964,
+            "lon": 31.6595,
+            "timezone": "Africa/Cairo",
+            "isp": "TE-AS",
+            "org": "TE Data",
+            "as": "AS8452 TE-AS",
+            "query": "196.219.202.74",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.51
         }
     ]
 }
