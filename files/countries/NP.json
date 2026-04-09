@@ -1,8 +1,27 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Patan",
+            "zip": "",
+            "lat": 27.6639,
+            "lon": 85.3063,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Ncell Pty. Ltd.",
+            "org": "Ncell Pty. Ltd",
+            "as": "AS38565 Ncell Pvt. Ltd.",
+            "query": "36.253.18.38",
+            "type": "http",
+            "port": "8181",
+            "response_time": 3.23
+        },
         {
             "status": "success",
             "country": "Nepal",
@@ -11,16 +30,35 @@
             "regionName": "Bagmati Province",
             "city": "Kathmandu",
             "zip": "",
-            "lat": 27.7211,
-            "lon": 85.3331,
+            "lat": 27.7108,
+            "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
-            "isp": "RO-228 BroadLink",
+            "isp": "WorldLink Communications",
             "org": "",
-            "as": "AS55427 Broadlink Nepal",
-            "query": "103.232.228.138",
+            "as": "AS17501 WorldLink Communications Pvt Ltd",
+            "query": "202.166.196.105",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 6.22
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7017,
+            "lon": 85.3206,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Classic Tech Pvt. Ltd",
+            "org": "ClassicTech",
+            "as": "AS55915 Classic Tech Pvt. Ltd.",
+            "query": "49.236.212.134",
             "type": "http",
-            "port": "8080",
-            "response_time": 3.59
+            "port": "8888",
+            "response_time": 11.97
         }
     ]
 }
