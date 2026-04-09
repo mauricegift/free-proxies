@@ -1,8 +1,27 @@
 {
     "countryCode": "MN",
     "country": "Mongolia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Mongolia",
+            "countryCode": "MN",
+            "region": "1",
+            "regionName": "Ulaanbaatar",
+            "city": "Ulan Bator",
+            "zip": "",
+            "lat": 47.9094,
+            "lon": 106.8819,
+            "timezone": "Asia/Ulaanbaatar",
+            "isp": "Mongolia Telecom",
+            "org": "MTC Network",
+            "as": "AS9934 Mongolia Telecom",
+            "query": "202.179.13.161",
+            "type": "http",
+            "port": "443",
+            "response_time": 5.94
+        },
         {
             "status": "success",
             "country": "Mongolia",
@@ -20,7 +39,7 @@
             "query": "202.179.16.2",
             "type": "http",
             "port": "443",
-            "response_time": 9.19
+            "response_time": 13.65
         }
     ]
 }
