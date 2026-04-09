@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "134.199.159.23",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.36
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,45 @@
             "query": "167.103.144.127",
             "type": "http",
             "port": "8800",
-            "response_time": 1.69
+            "response_time": 1.58
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "North Sydney",
+            "zip": "2060",
+            "lat": -33.8401,
+            "lon": 151.209,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.209.6",
+            "type": "http",
+            "port": "6534",
+            "response_time": 2.93
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "134.199.159.23",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.74
         },
         {
             "status": "success",
@@ -57,8 +76,8 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "8000",
-            "response_time": 8.16
+            "port": "80",
+            "response_time": 13.12
         }
     ]
 }
