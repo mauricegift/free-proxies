@@ -1,45 +1,26 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
             "region": "HCW",
-            "regionName": "Central and Western District",
+            "regionName": "Central and Western",
             "city": "Hong Kong",
             "zip": "",
-            "lat": 22.3193,
-            "lon": 114.1693,
+            "lat": 22.3964,
+            "lon": 114.109,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Google LLC",
-            "org": "Google Cloud (asia-east2)",
-            "as": "AS396982 Google LLC",
-            "query": "34.96.238.40",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-east-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "95.40.79.184",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.19
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.238.203.170",
-            "type": "http",
-            "port": "50000",
-            "response_time": 10.27
+            "port": "51981",
+            "response_time": 5.07
         },
         {
             "status": "success",
@@ -53,12 +34,12 @@
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
             "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "43.99.11.213",
-            "type": "http",
-            "port": "45745",
-            "response_time": 17.17
+            "query": "8.210.158.189",
+            "type": "socks5",
+            "port": "9065",
+            "response_time": 13.18
         },
         {
             "status": "success",
@@ -72,12 +53,12 @@
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
             "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "43.99.84.229",
+            "query": "8.217.119.21",
             "type": "http",
-            "port": "35837",
-            "response_time": 20.47
+            "port": "41816",
+            "response_time": 30.67
         }
     ]
 }
