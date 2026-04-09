@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 1.02
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "165.22.63.252",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.28
+            "response_time": 1.13
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.43
+            "response_time": 1.17
         },
         {
             "status": "success",
@@ -74,10 +55,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.245.62.153",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.78
+            "query": "167.71.196.28",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.29
         },
         {
             "status": "success",
@@ -90,13 +71,51 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Alibaba Cloud (Singapore) Private Limited",
+            "isp": "Akamai Technologies, Inc.",
+            "org": "Linode",
+            "as": "AS63949 Akamai Connected Cloud",
+            "query": "139.162.46.62",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.05
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.219.97.248",
+            "query": "8.222.175.80",
             "type": "http",
-            "port": "80",
-            "response_time": 8.95
+            "port": "6128",
+            "response_time": 8.55
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "157.230.38.173",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.08
         }
     ]
 }
