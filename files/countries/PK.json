@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,55 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "75290",
-            "lat": 24.9239,
-            "lon": 67.1423,
+            "zip": "75660",
+            "lat": 24.8127,
+            "lon": 67.0115,
             "timezone": "Asia/Karachi",
-            "isp": "Galaxy Broadband (pvt.) Ltd.",
-            "org": "Clickbb",
-            "as": "AS139879 Galaxy Broadband",
-            "query": "103.146.137.201",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.231.73",
             "type": "socks4",
-            "port": "1081",
-            "response_time": 1.17
+            "port": "5678",
+            "response_time": 1.08
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
+            "timezone": "Asia/Karachi",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.72
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Rawalpindi",
+            "zip": "45600",
+            "lat": 33.63,
+            "lon": 73.2381,
+            "timezone": "Asia/Karachi",
+            "isp": "Pace Telecom and Brodcasting Private Limited",
+            "org": "Evosol (Pvt) Ltd",
+            "as": "AS150371 Pace Telecom and Brodcasting Private Limited",
+            "query": "123.253.93.192",
+            "type": "http",
+            "port": "8082",
+            "response_time": 6.38
         }
     ]
 }
