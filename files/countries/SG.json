@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.94
+            "response_time": 1.02
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "04",
+            "regionName": "South East",
+            "city": "Singapore",
+            "zip": "",
+            "lat": 1.36945,
+            "lon": 103.969,
+            "timezone": "Asia/Singapore",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.150.55.165",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.04
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "152.42.201.82",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.04
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "04",
+            "regionName": "South East",
+            "city": "Singapore",
+            "zip": "499941",
+            "lat": 1.36795,
+            "lon": 103.981,
+            "timezone": "Asia/Singapore",
+            "isp": "Bage Cloud LLC",
+            "org": "Bage Cloud LLC",
+            "as": "AS63150 BAGE CLOUD LLC",
+            "query": "77.93.89.128",
+            "type": "http",
+            "port": "47146",
+            "response_time": 5.09
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "34.124.190.108",
             "type": "socks5",
             "port": "8080",
-            "response_time": 15.16
+            "response_time": 10.57
         }
     ]
 }
