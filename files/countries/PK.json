@@ -1,26 +1,26 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8021,
-            "lon": 67.0298,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54760",
+            "lat": 31.4758,
+            "lon": 74.3069,
             "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.206.62",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.11
+            "isp": "Netsol Technologies Limited",
+            "org": "Netsol Technologies Limited",
+            "as": "AS17539 NetSol Connect",
+            "query": "103.197.47.42",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.04
         },
         {
             "status": "success",
@@ -30,16 +30,35 @@
             "regionName": "Sindh",
             "city": "Karachi",
             "zip": "",
-            "lat": 24.827,
-            "lon": 67.0292,
+            "lat": 24.8267,
+            "lon": 67.029,
             "timezone": "Asia/Karachi",
             "isp": "Supernet",
             "org": "Telecard Limited",
             "as": "AS24435 Supernet Limited Transit Autonomous System Number",
-            "query": "116.0.53.34",
+            "query": "116.0.54.25",
             "type": "http",
             "port": "8080",
-            "response_time": 4.38
+            "response_time": 5.89
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
+            "timezone": "Asia/Karachi",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.91
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "110.93.231.73",
             "type": "socks4",
             "port": "5678",
-            "response_time": 7.9
+            "response_time": 8.21
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "",
+            "lat": 24.827,
+            "lon": 67.0292,
+            "timezone": "Asia/Karachi",
+            "isp": "Supernet",
+            "org": "Telecard Limited",
+            "as": "AS24435 Supernet Limited Transit Autonomous System Number",
+            "query": "116.0.53.34",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.92
         }
     ]
 }
