@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 1.52
+            "response_time": 1.53
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 2.89
+            "response_time": 3.34
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "118.67.170.121",
             "type": "socks4",
             "port": "4153",
-            "response_time": 4.48
+            "response_time": 4.51
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "29",
+            "regionName": "Gwangju",
+            "city": "Dong-gu",
+            "zip": "614",
+            "lat": 35.1496,
+            "lon": 126.9156,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "",
+            "as": "AS4766 Korea Telecom",
+            "query": "121.147.253.205",
+            "type": "http",
+            "port": "3096",
+            "response_time": 5.82
         },
         {
             "status": "success",
@@ -66,18 +85,18 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Seocho-gu",
-            "zip": "067",
-            "lat": 37.4802,
-            "lon": 127.0444,
+            "city": "Seoul",
+            "zip": "",
+            "lat": 37.5665,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Sudogwongangnambonbujang",
-            "as": "AS4766 Korea Telecom",
-            "query": "121.138.61.193",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-northeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.78.193.98",
             "type": "http",
-            "port": "8095",
-            "response_time": 8.71
+            "port": "19825",
+            "response_time": 6.73
         }
     ]
 }
