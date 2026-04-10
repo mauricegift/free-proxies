@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "202.79.47.159",
             "type": "socks4",
             "port": "10800",
-            "response_time": 1.62
+            "response_time": 0.83
         },
         {
             "status": "success",
@@ -28,18 +28,37 @@
             "countryCode": "NP",
             "region": "P3",
             "regionName": "Bagmati Province",
-            "city": "Patan",
+            "city": "Kathmandu",
             "zip": "",
-            "lat": 27.6729,
-            "lon": 85.3107,
+            "lat": 27.7108,
+            "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
-            "isp": "Subisu Cablenet",
+            "isp": "WorldLink Communications",
             "org": "",
-            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-            "query": "110.34.13.4",
+            "as": "AS17501 WorldLink Communications Pvt Ltd",
+            "query": "202.79.35.143",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.89
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P2",
+            "regionName": "Madhesh",
+            "city": "Janakpur Dham",
+            "zip": "",
+            "lat": 26.7288,
+            "lon": 85.9263,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Fiberworld Communication Pvt. Ltd",
+            "org": "Mukundasen Cable Network",
+            "as": "AS140072 Fiberworld Communication Pvt.ltd",
+            "query": "103.167.229.147",
             "type": "http",
             "port": "8080",
-            "response_time": 7.13
+            "response_time": 11.05
         }
     ]
 }
