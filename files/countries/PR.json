@@ -1,7 +1,7 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,47 @@
             "org": "Liberty Mobile Puerto Rico Inc",
             "as": "AS11992 Liberty Mobile Puerto Rico Inc.",
             "query": "67.206.213.202",
+            "type": "socks4",
+            "port": "55555",
+            "response_time": 1.75
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Fajardo",
+            "city": "Fajardo",
+            "zip": "",
+            "lat": 18.3258,
+            "lon": -65.6524,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "FiberX",
+            "as": "AS21559 OSNET",
+            "query": "104.238.232.210",
             "type": "http",
-            "port": "3120",
-            "response_time": 4.64
+            "port": "999",
+            "response_time": 3.93
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Carolina",
+            "city": "Carolina",
+            "zip": "00979",
+            "lat": 18.3736,
+            "lon": -65.9631,
+            "timezone": "America/Puerto_Rico",
+            "isp": "FiberX",
+            "org": "Yknet Puerto Rico Corporacion",
+            "as": "AS21559 OSNET",
+            "query": "204.77.11.13",
+            "type": "http",
+            "port": "999",
+            "response_time": 12.26
         }
     ]
 }
