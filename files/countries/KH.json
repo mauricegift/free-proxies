@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE",
-            "org": "Viettel (cambodia) Pte, Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.155.160",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.09
+            "isp": "COGETEL Co., Ltd",
+            "org": "Cogetel Ltd",
+            "as": "AS23673 Cogetel Online, Cambodia, ISP",
+            "query": "124.248.164.36",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.2
         },
         {
             "status": "success",
@@ -30,16 +30,35 @@
             "regionName": "Phnom Penh",
             "city": "Phnom Penh",
             "zip": "",
-            "lat": 11.5563,
-            "lon": 104.9282,
+            "lat": 11.5583,
+            "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "OpenNet ISP Cambodia",
-            "org": "KingCorp Inc",
-            "as": "AS131178 EZECOM CO., LTD.",
-            "query": "58.97.192.124",
+            "isp": "EZECOM CO., LTD.",
+            "org": "EZECOM limited",
+            "as": "AS38901 EZECOM CO., LTD.",
+            "query": "110.74.195.34",
+            "type": "http",
+            "port": "25",
+            "response_time": 2.88
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "EZECOM CO., LTD.",
+            "org": "EZECOM limited",
+            "as": "AS38901 EZECOM CO., LTD.",
+            "query": "110.74.195.152",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.63
+            "response_time": 4.2
         }
     ]
 }
