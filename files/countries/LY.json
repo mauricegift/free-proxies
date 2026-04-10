@@ -1,7 +1,7 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 32.8908,
             "lon": 13.1796,
             "timezone": "Africa/Tripoli",
-            "isp": "LTT Autonomous System, Tripoli Libya",
-            "org": "Rawafed",
+            "isp": "LTT Network Backbone and POPs",
+            "org": "Libyan Telecom and Technology",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "102.68.128.218",
+            "query": "41.254.48.190",
+            "type": "http",
+            "port": "1976",
+            "response_time": 4.25
+        },
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "TB",
+            "regionName": "Tripoli",
+            "city": "Tripoli",
+            "zip": "",
+            "lat": 32.8874,
+            "lon": 13.1873,
+            "timezone": "Africa/Tripoli",
+            "isp": "Rawafed",
+            "org": "",
+            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
+            "query": "154.73.29.65",
             "type": "http",
             "port": "8080",
-            "response_time": 6.02
+            "response_time": 9.73
         }
     ]
 }
