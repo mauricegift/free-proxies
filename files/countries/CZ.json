@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "10",
-            "regionName": "Prague",
-            "city": "Prague",
-            "zip": "140 00",
-            "lat": 50.0471,
-            "lon": 14.4523,
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "N\u00fd\u0159any",
+            "zip": "330 23",
+            "lat": 49.7035,
+            "lon": 13.2156,
             "timezone": "Europe/Prague",
-            "isp": "JM-Networks, s.r.o.",
-            "org": "JM-Networks, s.r.o",
-            "as": "AS62099 JM-Networks, s.r.o.",
-            "query": "176.98.248.2",
+            "isp": "NoskaNet",
+            "org": "ForWiFi, s.r.o",
+            "as": "AS16019 Vodafone Czech Republic a.s.",
+            "query": "46.174.23.200",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 2.28
+            "port": "5678",
+            "response_time": 3.84
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Pilsen",
+            "zip": "323 00",
+            "lat": 49.7705,
+            "lon": 13.3689,
+            "timezone": "Europe/Prague",
+            "isp": "Neutral Free eXchange members - FreeTel alternate",
+            "org": "PilsFree, z.s",
+            "as": "AS8251 FreeTel, s.r.o.",
+            "query": "81.201.56.208",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.09
         }
     ]
 }
