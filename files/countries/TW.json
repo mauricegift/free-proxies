@@ -1,26 +1,45 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Taipei",
+            "region": "TNN",
+            "regionName": "Tainan",
+            "city": "Rende",
             "zip": "",
-            "lat": 25.0501,
-            "lon": 121.565,
+            "lat": 22.9702,
+            "lon": 120.249,
             "timezone": "Asia/Taipei",
-            "isp": "Asia Pacific On-line Service Inc.",
-            "org": "Asia Pacific On-line Services Inc.",
-            "as": "AS7482 Asia Pacific On-line Service Inc.",
-            "query": "210.201.86.72",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "202.39.75.106",
             "type": "http",
-            "port": "8080",
-            "response_time": 8.01
+            "port": "3128",
+            "response_time": 10.02
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "New Taipei City",
+            "zip": "",
+            "lat": 25.0693,
+            "lon": 121.4626,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "61.216.156.222",
+            "type": "http",
+            "port": "60808",
+            "response_time": 12.13
         }
     ]
 }
