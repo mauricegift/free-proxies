@@ -20,7 +20,26 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.93
+            "response_time": 0.99
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "165.22.110.253",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.04
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.97
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.230.38.173",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.29
+            "response_time": 1.25
         },
         {
             "status": "success",
@@ -71,32 +71,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Alibaba Cloud (Singapore) Private Limited",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba Cloud LLC",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.219.97.248",
+            "query": "47.236.104.43",
             "type": "http",
-            "port": "80",
-            "response_time": 1.5
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "048582",
-            "lat": 1.28009,
-            "lon": 103.851,
-            "timezone": "Asia/Singapore",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-southeast-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.212.110.200",
-            "type": "http",
-            "port": "443",
-            "response_time": 2.1
+            "port": "8118",
+            "response_time": 2.28
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "13.212.26.15",
             "type": "http",
             "port": "52759",
-            "response_time": 2.7
+            "response_time": 2.44
         },
         {
             "status": "success",
@@ -131,29 +112,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ap-southeast-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.212.110.200",
+            "query": "13.212.14.16",
             "type": "http",
-            "port": "9036",
-            "response_time": 3.22
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "190464",
-            "lat": 1.3048,
-            "lon": 103.8622,
-            "timezone": "Asia/Singapore",
-            "isp": "Google LLC",
-            "org": "Google Cloud (asia-southeast1)",
-            "as": "AS396982 Google LLC",
-            "query": "34.124.190.108",
-            "type": "socks5",
-            "port": "8080",
-            "response_time": 8.75
+            "port": "2558",
+            "response_time": 2.47
         },
         {
             "status": "success",
@@ -172,7 +134,45 @@
             "query": "101.32.163.17",
             "type": "socks4",
             "port": "7890",
-            "response_time": 11.19
+            "response_time": 2.88
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "01",
+            "regionName": "Central Singapore",
+            "city": "Singapore",
+            "zip": "048582",
+            "lat": 1.28009,
+            "lon": 103.851,
+            "timezone": "Asia/Singapore",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-southeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.212.110.200",
+            "type": "http",
+            "port": "443",
+            "response_time": 2.95
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "01",
+            "regionName": "Central Singapore",
+            "city": "Singapore",
+            "zip": "190464",
+            "lat": 1.3048,
+            "lon": 103.8622,
+            "timezone": "Asia/Singapore",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-southeast1)",
+            "as": "AS396982 Google LLC",
+            "query": "34.124.190.108",
+            "type": "socks5",
+            "port": "8080",
+            "response_time": 14.31
         }
     ]
 }
