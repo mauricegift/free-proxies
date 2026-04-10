@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.64
+            "response_time": 1.59
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "",
+            "lat": 37.5665,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-northeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.78.193.98",
+            "type": "http",
+            "port": "19825",
+            "response_time": 3.01
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 1.75
+            "response_time": 3.93
         },
         {
             "status": "success",
@@ -58,64 +77,26 @@
             "query": "118.67.170.121",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.33
+            "response_time": 5.3
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "42",
-            "regionName": "Gangwon-do",
-            "city": "Chuncheon",
-            "zip": "24329",
-            "lat": 37.8897,
-            "lon": 127.736,
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
             "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "146.56.110.131",
-            "type": "http",
-            "port": "8118",
-            "response_time": 7.06
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.508,
-            "lon": 127.1177,
-            "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
             "type": "socks4",
-            "port": "9050",
-            "response_time": 12.77
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.508,
-            "lon": 127.1177,
-            "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 12.77
+            "port": "60984",
+            "response_time": 8.4
         }
     ]
 }
