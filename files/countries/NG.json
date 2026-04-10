@@ -1,26 +1,45 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "RI",
+            "regionName": "Rivers State",
+            "city": "Port Harcourt",
+            "zip": "",
+            "lat": 4.7731,
+            "lon": 7.0085,
+            "timezone": "Africa/Lagos",
+            "isp": "MTN NIGERIA Communication limited",
+            "org": "MTN Nigeria",
+            "as": "AS29465 MTN NIGERIA Communication limited",
+            "query": "102.88.13.62",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.19
+        },
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Lekki",
+            "city": "Lagos",
             "zip": "",
-            "lat": 6.43457,
-            "lon": 3.49209,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
-            "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.193.46",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.98
+            "isp": "Globacom Limited",
+            "org": "Globacom",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.83.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.86
         }
     ]
 }
