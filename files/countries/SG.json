@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.95
+            "response_time": 0.93
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digitalocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "188.166.230.157",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.31
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.29
+            "response_time": 1.41
         },
         {
             "status": "success",
@@ -52,70 +71,32 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "UpCloud Ltd",
-            "org": "",
-            "as": "AS202053 UpCloud Ltd",
-            "query": "95.111.194.14",
-            "type": "http",
-            "port": "6045",
-            "response_time": 1.37
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "04",
-            "regionName": "South East",
-            "city": "Singapore",
-            "zip": "499941",
-            "lat": 1.36795,
-            "lon": 103.981,
-            "timezone": "Asia/Singapore",
-            "isp": "Bage Cloud LLC",
-            "org": "Bage Cloud LLC",
-            "as": "AS63150 BAGE CLOUD LLC",
-            "query": "77.93.89.128",
-            "type": "http",
-            "port": "47146",
-            "response_time": 1.59
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "104.248.151.220",
+            "isp": "Cloud Host Pte Ltd",
+            "org": "Cloud Host Pte Ltd",
+            "as": "AS138608 Cloud Host Pte Ltd",
+            "query": "103.189.235.233",
             "type": "socks4",
-            "port": "57554",
-            "response_time": 3.73
+            "port": "1080",
+            "response_time": 5.28
         },
         {
             "status": "success",
             "country": "Singapore",
             "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
+            "region": "01",
+            "regionName": "Central Singapore",
             "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.35208,
-            "lon": 103.82,
+            "zip": "190464",
+            "lat": 1.3048,
+            "lon": 103.8622,
             "timezone": "Asia/Singapore",
-            "isp": "Aceville Pte.ltd",
-            "org": "",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "101.32.163.17",
-            "type": "http",
-            "port": "7890",
-            "response_time": 6.91
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-southeast1)",
+            "as": "AS396982 Google LLC",
+            "query": "34.124.190.108",
+            "type": "socks4",
+            "port": "8080",
+            "response_time": 9.43
         }
     ]
 }
