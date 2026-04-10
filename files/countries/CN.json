@@ -1,7 +1,7 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "218.108.131.186",
             "type": "http",
             "port": "17890",
-            "response_time": 1.4
+            "response_time": 3.41
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "BJ",
+            "regionName": "Beijing",
+            "city": "Beijing",
+            "zip": "",
+            "lat": 39.911,
+            "lon": 116.395,
+            "timezone": "Asia/Shanghai",
+            "isp": "China Unicom Beijing Province Network",
+            "org": "",
+            "as": "AS4808 China Unicom Beijing Province Network",
+            "query": "222.129.141.73",
+            "type": "http",
+            "port": "9000",
+            "response_time": 4.1
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "202.141.161.53",
             "type": "http",
             "port": "10808",
-            "response_time": 2.69
+            "response_time": 5.57
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "202.141.161.53",
             "type": "socks5",
             "port": "10808",
-            "response_time": 2.69
+            "response_time": 5.57
         },
         {
             "status": "success",
@@ -77,7 +96,26 @@
             "query": "222.209.81.12",
             "type": "socks4",
             "port": "10800",
-            "response_time": 7.59
+            "response_time": 7.48
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "BJ",
+            "regionName": "Beijing",
+            "city": "Chaowai",
+            "zip": "",
+            "lat": 39.999,
+            "lon": 116.387,
+            "timezone": "Asia/Shanghai",
+            "isp": "JDCOM",
+            "org": "Beijing Jingdong 360 Degree E-commerce Co., Ltd.",
+            "as": "AS141679 China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch",
+            "query": "117.72.214.121",
+            "type": "http",
+            "port": "7890",
+            "response_time": 14.33
         }
     ]
 }
