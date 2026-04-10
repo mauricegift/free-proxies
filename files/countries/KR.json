@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.49
+            "response_time": 1.48
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Goyang-si",
+            "zip": "103",
+            "lat": 37.6792,
+            "lon": 126.8183,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "175.194.173.105",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.59
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 1.77
+            "response_time": 5.83
         },
         {
             "status": "success",
@@ -58,26 +77,26 @@
             "query": "114.108.177.104",
             "type": "socks4",
             "port": "60984",
-            "response_time": 8.61
+            "response_time": 6.56
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "48",
-            "regionName": "Gyeongsangnam-do",
-            "city": "Hapcheon-gun",
-            "zip": "502",
-            "lat": 35.5698,
-            "lon": 128.1587,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Gangdong-gu",
+            "zip": "052",
+            "lat": 37.5554,
+            "lon": 127.1515,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
             "org": "",
             "as": "AS4766 Korea Telecom",
-            "query": "112.163.160.93",
+            "query": "222.107.27.7",
             "type": "http",
-            "port": "3128",
-            "response_time": 9.1
+            "port": "8100",
+            "response_time": 13.23
         }
     ]
 }
