@@ -1,27 +1,8 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "30",
-            "regionName": "Daejeon",
-            "city": "Daejeon",
-            "zip": "34178",
-            "lat": 36.3461,
-            "lon": 127.375,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "plannix",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "114.108.177.104",
-            "type": "socks4",
-            "port": "60984",
-            "response_time": 1.47
-        },
         {
             "status": "success",
             "country": "South Korea",
@@ -39,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.57
+            "response_time": 1.49
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 1.75
+            "response_time": 1.77
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
+            "timezone": "Asia/Seoul",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
+            "type": "socks4",
+            "port": "60984",
+            "response_time": 8.61
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "48",
+            "regionName": "Gyeongsangnam-do",
+            "city": "Hapcheon-gun",
+            "zip": "502",
+            "lat": 35.5698,
+            "lon": 128.1587,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "",
+            "as": "AS4766 Korea Telecom",
+            "query": "112.163.160.93",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.1
         }
     ]
 }
