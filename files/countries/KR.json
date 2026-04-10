@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.59
+            "response_time": 1.53
         },
         {
             "status": "success",
@@ -38,8 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "52.78.193.98",
             "type": "http",
-            "port": "19825",
-            "response_time": 3.01
+            "port": "51786",
+            "response_time": 2.57
         },
         {
             "status": "success",
@@ -58,7 +58,45 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 3.93
+            "response_time": 2.88
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Songpa-gu",
+            "zip": "055",
+            "lat": 37.508,
+            "lon": 127.1177,
+            "timezone": "Asia/Seoul",
+            "isp": "LG POWERCOMM",
+            "org": "Xpeed",
+            "as": "AS17858 LG POWERCOMM",
+            "query": "115.136.121.54",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 3.77
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Songpa-gu",
+            "zip": "055",
+            "lat": 37.508,
+            "lon": 127.1177,
+            "timezone": "Asia/Seoul",
+            "isp": "LG POWERCOMM",
+            "org": "Xpeed",
+            "as": "AS17858 LG POWERCOMM",
+            "query": "115.136.121.54",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 3.77
         },
         {
             "status": "success",
@@ -66,37 +104,18 @@
             "countryCode": "KR",
             "region": "41",
             "regionName": "Gyeonggi-do",
-            "city": "Gwangmyeong",
-            "zip": "08620",
-            "lat": 37.465,
-            "lon": 126.891,
+            "city": "Ansan-si",
+            "zip": "155",
+            "lat": 37.2852,
+            "lon": 126.8251,
             "timezone": "Asia/Seoul",
-            "isp": "Netropy CO.",
-            "org": "NURILINK",
+            "isp": "Korea Telecom",
+            "org": "",
             "as": "AS4766 Korea Telecom",
-            "query": "118.67.170.121",
+            "query": "121.139.218.165",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 5.3
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "30",
-            "regionName": "Daejeon",
-            "city": "Daejeon",
-            "zip": "34178",
-            "lat": 36.3461,
-            "lon": 127.375,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "plannix",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "114.108.177.104",
-            "type": "socks4",
-            "port": "60984",
-            "response_time": 8.4
+            "port": "43295",
+            "response_time": 5.32
         }
     ]
 }
