@@ -1,26 +1,64 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima Province",
-            "city": "Lima",
+            "region": "ARE",
+            "regionName": "Arequipa",
+            "city": "Arequipa",
             "zip": "",
-            "lat": -12.046,
-            "lon": -77.0305,
+            "lat": -16.4014,
+            "lon": -71.5343,
             "timezone": "America/Lima",
-            "isp": "ON EMPRESAS S.A.C",
-            "org": "Miraflores De Turismo S.A.C",
-            "as": "AS27843 ON EMPRESAS S.A.C.",
-            "query": "190.12.95.170",
+            "isp": "Fiberred SAC",
+            "org": "Cogent Communications",
+            "as": "AS272838 FIBERRED SAC",
+            "query": "38.158.83.193",
+            "type": "http",
+            "port": "999",
+            "response_time": 2.18
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LIM",
+            "regionName": "Lima region",
+            "city": "Lur\u00edn",
+            "zip": "",
+            "lat": -12.2866,
+            "lon": -76.8707,
+            "timezone": "America/Lima",
+            "isp": "Nexsatel Sociedad Anonima Cerrada - .A.C.",
+            "org": "",
+            "as": "AS273026 NEXSATEL SOCIEDAD ANONIMA CERRADA - NEXSATEL S.A.C.",
+            "query": "38.52.182.49",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.48
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "JUN",
+            "regionName": "Junin",
+            "city": "Bajo Pichanaqui",
+            "zip": "",
+            "lat": -10.9275,
+            "lon": -74.8742,
+            "timezone": "America/Lima",
+            "isp": "Telcom Mikrotik Peru S.A.C",
+            "org": "Telcom Mikrotik Peru S.A.C",
+            "as": "AS273000 TELCOM MIKROTIK PERU S.A.C.",
+            "query": "38.252.213.64",
             "type": "socks4",
-            "port": "37209",
-            "response_time": 2.04
+            "port": "5678",
+            "response_time": 6.08
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "38.187.22.229",
             "type": "http",
             "port": "8080",
-            "response_time": 3.7
+            "response_time": 7.3
         }
     ]
 }
