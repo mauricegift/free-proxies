@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "203.171.252.7",
             "type": "http",
             "port": "8080",
-            "response_time": 2.76
+            "response_time": 3.3
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "EZECOM CO., LTD.",
+            "org": "EZECOM limited",
+            "as": "AS38901 EZECOM CO., LTD.",
+            "query": "110.74.195.152",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.08
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "EZECOM CO., LTD.",
+            "org": "EZECOM limited",
+            "as": "AS38901 EZECOM CO., LTD.",
+            "query": "110.74.195.34",
+            "type": "http",
+            "port": "25",
+            "response_time": 10.86
         }
     ]
 }
