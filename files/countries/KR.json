@@ -1,27 +1,8 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 4,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Dongdaemun",
-            "zip": "024",
-            "lat": 37.5841,
-            "lon": 127.0616,
-            "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "1.231.81.166",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.68
-        },
         {
             "status": "success",
             "country": "South Korea",
@@ -39,7 +20,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 2.94
+            "response_time": 1.73
         },
         {
             "status": "success",
@@ -47,37 +28,18 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Gangnam-gu",
-            "zip": "060",
-            "lat": 37.5245,
-            "lon": 127.0354,
+            "city": "Dongdaemun",
+            "zip": "024",
+            "lat": 37.5841,
+            "lon": 127.0616,
             "timezone": "Asia/Seoul",
-            "isp": "LG DACOM Corporation",
-            "org": "LG Uplus",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "112.221.46.117",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 4.56
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Gwangmyeong",
-            "zip": "08620",
-            "lat": 37.465,
-            "lon": 126.891,
-            "timezone": "Asia/Seoul",
-            "isp": "Netropy CO.",
-            "org": "NURILINK",
-            "as": "AS4766 Korea Telecom",
-            "query": "118.67.170.121",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 8.4
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "1.231.81.166",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.3
         }
     ]
 }
