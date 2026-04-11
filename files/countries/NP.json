@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "202.79.35.12",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.84
+            "response_time": 4.99
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P6",
+            "regionName": "Karnali Pradesh",
+            "city": "Narayan",
+            "zip": "",
+            "lat": 28.8404,
+            "lon": 81.7093,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Everest Wireless Network pvt. ltd",
+            "org": "Everest Wireless Network pvt. ltd",
+            "as": "AS137580 Everest Wireless Network pvt. ltd",
+            "query": "103.114.25.41",
+            "type": "http",
+            "port": "8088",
+            "response_time": 12.22
         }
     ]
 }
