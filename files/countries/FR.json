@@ -1,26 +1,26 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "France",
             "countryCode": "FR",
-            "region": "PDL",
-            "regionName": "Pays de la Loire",
-            "city": "Chemill\u00e9-en-Anjou",
-            "zip": "49120",
-            "lat": 47.2064,
-            "lon": -0.710834,
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
             "timezone": "Europe/Paris",
-            "isp": "OVH SAS",
-            "org": "Lemnia",
-            "as": "AS16276 OVH SAS",
-            "query": "5.196.101.18",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.48
+            "isp": "Contabo GmbH",
+            "org": "TerraTransit AG",
+            "as": "AS51167 Contabo GmbH",
+            "query": "109.123.251.109",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.42
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "45.95.233.23",
             "type": "socks5",
             "port": "2285",
-            "response_time": 4.9
+            "response_time": 1.25
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "PDL",
+            "regionName": "Pays de la Loire",
+            "city": "Chemill\u00e9-en-Anjou",
+            "zip": "49120",
+            "lat": 47.2064,
+            "lon": -0.710834,
+            "timezone": "Europe/Paris",
+            "isp": "OVH SAS",
+            "org": "Lemnia",
+            "as": "AS16276 OVH SAS",
+            "query": "5.196.101.18",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.39
         },
         {
             "status": "success",
@@ -55,10 +74,29 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "173.212.222.244",
+            "query": "173.212.246.157",
             "type": "http",
-            "port": "8888",
-            "response_time": 5.65
+            "port": "3128",
+            "response_time": 7.61
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "HDF",
+            "regionName": "Hauts-de-France",
+            "city": "Roubaix",
+            "zip": "59100",
+            "lat": 50.6924,
+            "lon": 3.20113,
+            "timezone": "Europe/Paris",
+            "isp": "OVH SAS",
+            "org": "OVH",
+            "as": "AS16276 OVH SAS",
+            "query": "51.77.210.150",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.15
         }
     ]
 }
