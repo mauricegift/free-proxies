@@ -1,8 +1,46 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47820",
+            "lat": 3.16459,
+            "lon": 101.613,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "E-world Communication SDN BHD",
+            "org": "E-world Communication SDN BHD",
+            "as": "AS134202 E-WORLD COMMUNICATION SDN BHD",
+            "query": "103.58.16.106",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.4
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "02",
+            "regionName": "Kedah",
+            "city": "Sungai Lalang",
+            "zip": "08010",
+            "lat": 5.6998,
+            "lon": 100.514,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.144.198.226",
+            "type": "socks4",
+            "port": "31694",
+            "response_time": 4.75
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -15,31 +53,12 @@
             "lon": 101.6852,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "Amazon.com, Inc.",
-            "org": "Amazon.com, Inc",
+            "org": "United States Postal Service",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.217.141.124",
+            "query": "56.68.77.224",
             "type": "http",
-            "port": "49708",
-            "response_time": 3.5
-        },
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "10",
-            "regionName": "Selangor",
-            "city": "Cyberjaya",
-            "zip": "63100",
-            "lat": 2.9186,
-            "lon": 101.6639,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Unifi BIZ",
-            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "1.32.48.93",
-            "type": "http",
-            "port": "8081",
-            "response_time": 7.47
+            "port": "8623",
+            "response_time": 5.27
         }
     ]
 }
