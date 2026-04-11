@@ -1,26 +1,45 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Marbella",
-            "zip": "29600",
-            "lat": 36.5149,
-            "lon": -4.8838,
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28085",
+            "lat": 40.4153,
+            "lon": -3.694,
             "timezone": "Europe/Madrid",
-            "isp": "AVATEL TELECOM, SA",
-            "org": "AVATEL TELECOM, SA",
-            "as": "AS200845 AVATEL TELECOM, SA",
-            "query": "185.202.165.1",
+            "isp": "First Server Limited",
+            "org": "Network Management Ltd",
+            "as": "AS200740 FIRST SERVER LIMITED",
+            "query": "185.114.73.2",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.93
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AR",
+            "regionName": "Aragon",
+            "city": "Zaragoza",
+            "zip": "50001",
+            "lat": 41.6537,
+            "lon": -0.873924,
+            "timezone": "Europe/Madrid",
+            "isp": "YSZ TRADING CO., LIMITED",
+            "org": "Redestel Networks S.L",
+            "as": "AS211484 YSZ TRADING CO., LIMITED",
+            "query": "213.220.3.183",
             "type": "http",
-            "port": "53281",
-            "response_time": 14.46
+            "port": "3128",
+            "response_time": 8.78
         }
     ]
 }
