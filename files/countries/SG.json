@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 5,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.99
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "152.42.201.82",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.22
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "048582",
-            "lat": 1.28009,
-            "lon": 103.851,
-            "timezone": "Asia/Singapore",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-southeast-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.212.110.200",
-            "type": "http",
-            "port": "27085",
-            "response_time": 4.36
+            "response_time": 0.98
         },
         {
             "status": "success",
@@ -90,13 +52,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - SG",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.236.230.183",
+            "query": "47.74.226.8",
             "type": "http",
-            "port": "8888",
-            "response_time": 12.96
+            "port": "5001",
+            "response_time": 1.32
         }
     ]
 }
