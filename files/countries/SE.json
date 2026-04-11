@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "PVDataNet AB",
+            "org": "PVDataNet AB",
+            "as": "AS42201 PVDataNet AB",
+            "query": "193.181.35.106",
+            "type": "http",
+            "port": "8118",
+            "response_time": 0.99
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,7 @@
             "query": "46.39.105.157",
             "type": "http",
             "port": "8080",
-            "response_time": 0.33
+            "response_time": 4.1
         }
     ]
 }
