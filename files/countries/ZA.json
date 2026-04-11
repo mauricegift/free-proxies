@@ -1,26 +1,45 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7945",
+            "lat": -33.9258,
+            "lon": 18.4259,
             "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.221.2",
+            "isp": "Bluedog Technology",
+            "org": "Bluedog Technology",
+            "as": "AS329181 Bluedog Technology",
+            "query": "102.217.139.31",
             "type": "http",
-            "port": "8104",
-            "response_time": 6.44
+            "port": "8180",
+            "response_time": 1.23
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "LP",
+            "regionName": "Limpopo",
+            "city": "Tzaneen",
+            "zip": "0850",
+            "lat": -23.8287,
+            "lon": 30.1672,
+            "timezone": "Africa/Johannesburg",
+            "isp": "LWIC",
+            "org": "",
+            "as": "AS328638 Letaba Networks (Pty) Ltd",
+            "query": "196.6.115.165",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.08
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "102.212.44.151",
             "type": "http",
             "port": "12354",
-            "response_time": 6.89
+            "response_time": 8.51
         }
     ]
 }
