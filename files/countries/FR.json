@@ -1,64 +1,26 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 5,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "France",
             "countryCode": "FR",
-            "region": "GES",
-            "regionName": "Grand Est",
-            "city": "Lauterbourg",
-            "zip": "67630",
-            "lat": 48.9742,
-            "lon": 8.1851,
-            "timezone": "Europe/Paris",
-            "isp": "Contabo GmbH",
-            "org": "TerraTransit AG",
-            "as": "AS51167 Contabo GmbH",
-            "query": "109.123.251.109",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.42
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "IDF",
-            "regionName": "\u00cele-de-France",
-            "city": "Paris",
-            "zip": "75000",
-            "lat": 48.8566,
-            "lon": 2.35222,
-            "timezone": "Europe/Paris",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Internet Solutions LLC",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.233.23",
-            "type": "socks5",
-            "port": "2285",
-            "response_time": 1.25
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "PDL",
-            "regionName": "Pays de la Loire",
-            "city": "Chemill\u00e9-en-Anjou",
-            "zip": "49120",
-            "lat": 47.2064,
-            "lon": -0.710834,
+            "region": "HDF",
+            "regionName": "Hauts-de-France",
+            "city": "Roubaix",
+            "zip": "59100",
+            "lat": 50.6924,
+            "lon": 3.20113,
             "timezone": "Europe/Paris",
             "isp": "OVH SAS",
-            "org": "Lemnia",
+            "org": "OVH",
             "as": "AS16276 OVH SAS",
-            "query": "5.196.101.18",
+            "query": "217.182.195.221",
             "type": "http",
-            "port": "3128",
-            "response_time": 1.39
+            "port": "30001",
+            "response_time": 0.41
         },
         {
             "status": "success",
@@ -77,7 +39,7 @@
             "query": "173.212.246.157",
             "type": "http",
             "port": "3128",
-            "response_time": 7.61
+            "response_time": 1.39
         },
         {
             "status": "success",
@@ -91,12 +53,12 @@
             "lon": 3.20113,
             "timezone": "Europe/Paris",
             "isp": "OVH SAS",
-            "org": "OVH",
+            "org": "OVH SAS",
             "as": "AS16276 OVH SAS",
-            "query": "51.77.210.150",
+            "query": "37.187.109.70",
             "type": "http",
-            "port": "3128",
-            "response_time": 11.15
+            "port": "10111",
+            "response_time": 2.56
         }
     ]
 }
