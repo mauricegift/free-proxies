@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 8,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "5.196.101.18",
             "type": "http",
             "port": "3128",
-            "response_time": 0.32
+            "response_time": 0.19
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "109.123.251.109",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.52
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "HDF",
-            "regionName": "Hauts-de-France",
-            "city": "Roubaix",
-            "zip": "59100",
-            "lat": 50.6924,
-            "lon": 3.20113,
-            "timezone": "Europe/Paris",
-            "isp": "OVH SAS",
-            "org": "OVH",
-            "as": "AS16276 OVH SAS",
-            "query": "217.182.195.221",
-            "type": "http",
-            "port": "30003",
-            "response_time": 1.11
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "HDF",
-            "regionName": "Hauts-de-France",
-            "city": "Roubaix",
-            "zip": "59100",
-            "lat": 50.6924,
-            "lon": 3.20113,
-            "timezone": "Europe/Paris",
-            "isp": "OVH SAS",
-            "org": "OVH SAS",
-            "as": "AS16276 OVH SAS",
-            "query": "37.187.109.70",
-            "type": "http",
-            "port": "10111",
-            "response_time": 1.35
+            "response_time": 1.19
         },
         {
             "status": "success",
@@ -96,45 +58,7 @@
             "query": "45.95.233.23",
             "type": "socks5",
             "port": "2285",
-            "response_time": 1.37
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "IDF",
-            "regionName": "\u00cele-de-France",
-            "city": "Paris",
-            "zip": "75000",
-            "lat": 48.8566,
-            "lon": 2.35222,
-            "timezone": "Europe/Paris",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-3)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.36.243.194",
-            "type": "http",
-            "port": "9899",
-            "response_time": 4.09
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "HDF",
-            "regionName": "Hauts-de-France",
-            "city": "Roubaix",
-            "zip": "59100",
-            "lat": 50.6924,
-            "lon": 3.20113,
-            "timezone": "Europe/Paris",
-            "isp": "OVH SAS",
-            "org": "OVH SAS",
-            "as": "AS16276 OVH SAS",
-            "query": "91.121.63.51",
-            "type": "http",
-            "port": "1080",
-            "response_time": 4.52
+            "response_time": 2.26
         },
         {
             "status": "success",
@@ -153,7 +77,26 @@
             "query": "92.204.54.29",
             "type": "socks4",
             "port": "9100",
-            "response_time": 18.52
+            "response_time": 2.76
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75001",
+            "lat": 48.8558,
+            "lon": 2.3494,
+            "timezone": "Europe/Paris",
+            "isp": "COLT Technology Services Group Limited",
+            "org": "Ensup",
+            "as": "AS8220 COLT Technology Services Group Limited",
+            "query": "62.23.184.84",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.44
         }
     ]
 }
