@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "43.99.54.236",
+            "query": "47.238.220.4",
             "type": "http",
-            "port": "5555",
-            "response_time": 2.03
+            "port": "8888",
+            "response_time": 2.09
         },
         {
             "status": "success",
@@ -36,29 +36,10 @@
             "isp": "Alibaba (US) Technology Co., Ltd.",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.210.158.189",
-            "type": "socks4",
-            "port": "9063",
-            "response_time": 4.87
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.210.158.189",
-            "type": "socks5",
-            "port": "9063",
-            "response_time": 4.87
+            "query": "8.217.90.107",
+            "type": "http",
+            "port": "22520",
+            "response_time": 3.72
         }
     ]
 }
