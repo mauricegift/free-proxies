@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "41.21.182.179",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.52
+            "response_time": 4.99
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "8001",
+            "lat": -33.9258,
+            "lon": 18.4259,
+            "timezone": "Africa/Johannesburg",
+            "isp": "SEACOM Limited",
+            "org": "Seacom Assignments",
+            "as": "AS37100 SEACOM Limited",
+            "query": "105.27.180.194",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.09
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "KZN",
+            "regionName": "KwaZulu-Natal",
+            "city": "Durban",
+            "zip": "4000",
+            "lat": -29.8427,
+            "lon": 31.0141,
+            "timezone": "Africa/Johannesburg",
+            "isp": "IMVULA ITECHNOLOGIES (PTY) LTD",
+            "org": "Net11",
+            "as": "AS328942 IMVULA ITECHNOLOGIES (PTY) LTD",
+            "query": "102.218.41.98",
+            "type": "http",
+            "port": "8082",
+            "response_time": 6.89
         },
         {
             "status": "success",
@@ -28,37 +66,18 @@
             "countryCode": "ZA",
             "region": "NW",
             "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
+            "city": "Potchefstroom",
+            "zip": "2531",
+            "lat": -26.7168,
+            "lon": 27.1054,
             "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.193.241",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "217.29.209.22",
             "type": "http",
-            "port": "8104",
-            "response_time": 4.76
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "LP",
-            "regionName": "Limpopo",
-            "city": "Tzaneen",
-            "zip": "0850",
-            "lat": -23.8287,
-            "lon": 30.1672,
-            "timezone": "Africa/Johannesburg",
-            "isp": "LWIC",
-            "org": "",
-            "as": "AS328638 Letaba Networks (Pty) Ltd",
-            "query": "196.6.115.165",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.81
+            "port": "8865",
+            "response_time": 8.25
         }
     ]
 }
