@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Pilsen",
+            "zip": "323 00",
+            "lat": 49.7705,
+            "lon": 13.3689,
+            "timezone": "Europe/Prague",
+            "isp": "Neutral Free eXchange members - FreeTel alternate",
+            "org": "PilsFree, z.s",
+            "as": "AS8251 FreeTel, s.r.o.",
+            "query": "81.201.56.208",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.19
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +39,7 @@
             "query": "81.162.195.35",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.43
+            "response_time": 5.56
         }
     ]
 }
