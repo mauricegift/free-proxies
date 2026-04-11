@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "82",
-            "regionName": "Sicily",
-            "city": "Furnari",
-            "zip": "98054",
-            "lat": 38.1031,
-            "lon": 15.1206,
-            "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "2.115.212.62",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 2.36
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -39,7 +20,45 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.07
+            "response_time": 0.54
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
+            "type": "http",
+            "port": "8443",
+            "response_time": 5.94
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "21",
+            "regionName": "Piedmont",
+            "city": "Turin",
+            "zip": "10121",
+            "lat": 45.0913,
+            "lon": 7.66158,
+            "timezone": "Europe/Rome",
+            "isp": "HOST-VDC",
+            "org": "",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.191.202",
+            "type": "http",
+            "port": "3128",
+            "response_time": 14.52
         }
     ]
 }
