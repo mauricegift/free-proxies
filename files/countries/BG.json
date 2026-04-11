@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "212.50.19.150",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.18
+            "response_time": 1.23
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
+            "region": "16",
+            "regionName": "Plovdiv",
+            "city": "Plovdiv",
+            "zip": "4000",
+            "lat": 42.1513,
+            "lon": 24.7518,
             "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "ESRI BULGARIA Network",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.10",
-            "type": "http",
-            "port": "8001",
-            "response_time": 6.24
+            "isp": "Netguard LLC",
+            "org": "Netguard LLC",
+            "as": "AS39251 NETGUARD LLC",
+            "query": "91.92.78.207",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.26
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Gotse Delchev",
+            "zip": "2900",
+            "lat": 41.5692,
+            "lon": 23.7291,
+            "timezone": "Europe/Sofia",
+            "isp": "VIM TV Ltd",
+            "org": "VIM TV Ltd",
+            "as": "AS199702 VIM TV LTD",
+            "query": "213.149.154.213",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.32
         }
     ]
 }
