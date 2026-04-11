@@ -1,26 +1,26 @@
 {
     "countryCode": "NL",
     "country": "The Netherlands",
-    "count": 10,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
             "country": "The Netherlands",
             "countryCode": "NL",
-            "region": "NH",
-            "regionName": "North Holland",
-            "city": "Amsterdam",
-            "zip": "1012",
-            "lat": 52.3759,
-            "lon": 4.8975,
+            "region": "DR",
+            "regionName": "Drenthe",
+            "city": "Meppel",
+            "zip": "7941",
+            "lat": 52.6921,
+            "lon": 6.19372,
             "timezone": "Europe/Amsterdam",
-            "isp": "Timeweb, LLP",
-            "org": "JSC \"TIMEWEB\"",
-            "as": "AS210976 Timeweb, LLP",
-            "query": "147.45.166.46",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "45.140.147.155",
             "type": "http",
-            "port": "3128",
-            "response_time": 0.15
+            "port": "1082",
+            "response_time": 0.18
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "152.53.107.239",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.2
-        },
-        {
-            "status": "success",
-            "country": "The Netherlands",
-            "countryCode": "NL",
-            "region": "DR",
-            "regionName": "Drenthe",
-            "city": "Meppel",
-            "zip": "7941",
-            "lat": 52.6921,
-            "lon": 6.19372,
-            "timezone": "Europe/Amsterdam",
-            "isp": "WorkTitans B.V.",
-            "org": "WorkTitans B.V",
-            "as": "AS209847 WorkTitans B.V.",
-            "query": "45.140.147.155",
-            "type": "http",
-            "port": "1081",
-            "response_time": 0.41
-        },
-        {
-            "status": "success",
-            "country": "The Netherlands",
-            "countryCode": "NL",
-            "region": "FL",
-            "regionName": "Flevoland",
-            "city": "Dronten",
-            "zip": "8253",
-            "lat": 52.5378,
-            "lon": 5.6966,
-            "timezone": "Europe/Amsterdam",
-            "isp": "The Infrastructure Group B.V.",
-            "org": "TIG",
-            "as": "AS60404 The Infrastructure Group B.V.",
-            "query": "5.255.123.43",
-            "type": "http",
-            "port": "1080",
-            "response_time": 1.42
+            "response_time": 0.21
         },
         {
             "status": "success",
@@ -96,26 +58,7 @@
             "query": "109.107.179.140",
             "type": "http",
             "port": "31000",
-            "response_time": 2.19
-        },
-        {
-            "status": "success",
-            "country": "The Netherlands",
-            "countryCode": "NL",
-            "region": "NH",
-            "regionName": "North Holland",
-            "city": "Amsterdam",
-            "zip": "1012",
-            "lat": 52.3676,
-            "lon": 4.90414,
-            "timezone": "Europe/Amsterdam",
-            "isp": "Servers Tech Fzco",
-            "org": "Servers Tech Fzco",
-            "as": "AS216071 SERVERS TECH FZCO",
-            "query": "77.105.139.108",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.67
+            "response_time": 4.0
         },
         {
             "status": "success",
@@ -131,29 +74,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "161.35.82.57",
+            "query": "104.248.197.67",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.59
-        },
-        {
-            "status": "success",
-            "country": "The Netherlands",
-            "countryCode": "NL",
-            "region": "NH",
-            "regionName": "North Holland",
-            "city": "Amsterdam",
-            "zip": "1098",
-            "lat": 52.352,
-            "lon": 4.9392,
-            "timezone": "Europe/Amsterdam",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "104.248.203.234",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.39
+            "response_time": 5.25
         },
         {
             "status": "success",
@@ -172,7 +96,7 @@
             "query": "195.26.224.49",
             "type": "http",
             "port": "3128",
-            "response_time": 10.39
+            "response_time": 5.66
         },
         {
             "status": "success",
@@ -188,10 +112,29 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "159.223.225.118",
+            "query": "128.199.37.92",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 10.37
+        },
+        {
+            "status": "success",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "NH",
+            "regionName": "North Holland",
+            "city": "Amsterdam",
+            "zip": "1012",
+            "lat": 52.3759,
+            "lon": 4.8975,
+            "timezone": "Europe/Amsterdam",
+            "isp": "SOLLUTIUM EU Sp z.o.o.",
+            "org": "Moula World Llc",
+            "as": "AS43641 SOLLUTIUM EU Sp z.o.o.",
+            "query": "194.58.47.219",
             "type": "http",
-            "port": "8888",
-            "response_time": 13.46
+            "port": "1080",
+            "response_time": 10.65
         }
     ]
 }
