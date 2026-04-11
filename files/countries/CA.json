@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon Technologies Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.212.16",
+            "query": "40.177.212.89",
             "type": "http",
-            "port": "7717",
-            "response_time": 1.6
+            "port": "29345",
+            "response_time": 1.83
         },
         {
             "status": "success",
@@ -55,29 +55,29 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon Technologies Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.106.156",
+            "query": "40.177.212.16",
             "type": "http",
-            "port": "51498",
-            "response_time": 1.9
+            "port": "7717",
+            "response_time": 2.64
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "",
-            "lat": 43.6532,
-            "lon": -79.3832,
-            "timezone": "America/Toronto",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ca-central-1)",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2R",
+            "lat": 51.05,
+            "lon": -114.0879,
+            "timezone": "America/Edmonton",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "3.99.169.21",
+            "query": "40.177.151.5",
             "type": "http",
-            "port": "13682",
-            "response_time": 4.34
+            "port": "6309",
+            "response_time": 3.43
         },
         {
             "status": "success",
@@ -96,26 +96,7 @@
             "query": "24.37.245.42",
             "type": "socks4",
             "port": "51056",
-            "response_time": 4.7
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "AB",
-            "regionName": "Alberta",
-            "city": "Calgary",
-            "zip": "T2R",
-            "lat": 51.05,
-            "lon": -114.0879,
-            "timezone": "America/Edmonton",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.212.89",
-            "type": "http",
-            "port": "40610",
-            "response_time": 4.94
+            "response_time": 5.69
         }
     ]
 }
