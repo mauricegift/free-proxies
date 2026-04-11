@@ -1,27 +1,8 @@
 {
     "countryCode": "NL",
     "country": "The Netherlands",
-    "count": 7,
+    "count": 10,
     "proxies": [
-        {
-            "status": "success",
-            "country": "The Netherlands",
-            "countryCode": "NL",
-            "region": "DR",
-            "regionName": "Drenthe",
-            "city": "Meppel",
-            "zip": "7941",
-            "lat": 52.6921,
-            "lon": 6.19372,
-            "timezone": "Europe/Amsterdam",
-            "isp": "WorkTitans B.V.",
-            "org": "WorkTitans B.V",
-            "as": "AS209847 WorkTitans B.V.",
-            "query": "45.140.147.155",
-            "type": "http",
-            "port": "1082",
-            "response_time": 0.18
-        },
         {
             "status": "success",
             "country": "The Netherlands",
@@ -49,16 +30,35 @@
             "regionName": "North Holland",
             "city": "Amsterdam",
             "zip": "1012",
-            "lat": 52.3676,
-            "lon": 4.90414,
+            "lat": 52.3759,
+            "lon": 4.8975,
             "timezone": "Europe/Amsterdam",
             "isp": "Servers Tech Fzco",
             "org": "Servers Tech Fzco",
             "as": "AS216071 SERVERS TECH FZCO",
-            "query": "109.107.179.140",
-            "type": "http",
-            "port": "31000",
-            "response_time": 4.0
+            "query": "91.84.125.92",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.47
+        },
+        {
+            "status": "success",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "NH",
+            "regionName": "North Holland",
+            "city": "Amsterdam",
+            "zip": "1098",
+            "lat": 52.352,
+            "lon": 4.9392,
+            "timezone": "Europe/Amsterdam",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "104.248.203.234",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.75
         },
         {
             "status": "success",
@@ -77,7 +77,26 @@
             "query": "104.248.197.67",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.25
+            "response_time": 0.87
+        },
+        {
+            "status": "success",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "NH",
+            "regionName": "North Holland",
+            "city": "Amsterdam",
+            "zip": "1098",
+            "lat": 52.352,
+            "lon": 4.9392,
+            "timezone": "Europe/Amsterdam",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "161.35.82.57",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.22
         },
         {
             "status": "success",
@@ -96,7 +115,7 @@
             "query": "195.26.224.49",
             "type": "http",
             "port": "3128",
-            "response_time": 5.66
+            "response_time": 4.68
         },
         {
             "status": "success",
@@ -112,10 +131,48 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "128.199.37.92",
+            "query": "159.223.225.118",
+            "type": "http",
+            "port": "8888",
+            "response_time": 4.71
+        },
+        {
+            "status": "success",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "NH",
+            "regionName": "North Holland",
+            "city": "Amsterdam",
+            "zip": "1012",
+            "lat": 52.3759,
+            "lon": 4.8975,
+            "timezone": "Europe/Amsterdam",
+            "isp": "Servers Tech Fzco",
+            "org": "Servers Tech Fzco",
+            "as": "AS216071 SERVERS TECH FZCO",
+            "query": "89.110.65.39",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 10.37
+            "port": "9999",
+            "response_time": 6.4
+        },
+        {
+            "status": "success",
+            "country": "Netherlands",
+            "countryCode": "NL",
+            "region": "NH",
+            "regionName": "North Holland",
+            "city": "Amsterdam",
+            "zip": "1012",
+            "lat": 52.3733,
+            "lon": 4.894,
+            "timezone": "Europe/Amsterdam",
+            "isp": "xorek.cloud International LTD",
+            "org": "xorek.cloud International LTD",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "195.133.28.31",
+            "type": "http",
+            "port": "8443",
+            "response_time": 8.47
         },
         {
             "status": "success",
@@ -134,7 +191,7 @@
             "query": "194.58.47.219",
             "type": "http",
             "port": "1080",
-            "response_time": 10.65
+            "response_time": 11.05
         }
     ]
 }
