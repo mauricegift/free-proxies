@@ -1,26 +1,45 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Malaysia",
             "countryCode": "MY",
-            "region": "16",
-            "regionName": "Putrajaya",
-            "city": "Putrajaya",
-            "zip": "62584",
-            "lat": 2.94405,
-            "lon": 101.723,
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "59100",
+            "lat": 3.11613,
+            "lon": 101.666,
             "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Extreme Broadband",
-            "org": "Extreme Broadband",
-            "as": "AS38182 Extreme Broadband - Total Broadband Experience",
-            "query": "58.84.16.214",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "103.1.105.10",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.22
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Shah Alam",
+            "zip": "40150",
+            "lat": 3.1071,
+            "lon": 101.5526,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.139.211.38",
             "type": "http",
-            "port": "1231",
-            "response_time": 9.32
+            "port": "8080",
+            "response_time": 8.87
         }
     ]
 }
