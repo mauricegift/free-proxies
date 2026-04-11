@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "MekongNet",
-            "org": "",
-            "as": "AS38235 ANGKOR DATA COMMUNICATION",
-            "query": "116.212.149.218",
+            "isp": "EZECOM CO., LTD.",
+            "org": "EZECOM limited",
+            "as": "AS38901 EZECOM CO., LTD.",
+            "query": "110.74.206.40",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.52
+            "port": "8181",
+            "response_time": 2.4
         },
         {
             "status": "success",
@@ -28,37 +28,18 @@
             "countryCode": "KH",
             "region": "12",
             "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
+            "city": "Chrang Chamreh Muoy",
             "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
+            "lat": 11.6305,
+            "lon": 104.885,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-            "org": "Viettel (cambodia) Pte, Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.147.34",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.48
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "12",
-            "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
-            "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "WiCAM Corporation",
-            "org": "WiCAM Corporation Ltd.",
+            "isp": "WiCAM Corporation Ltd",
+            "org": "WiCAM Corporation, LTD",
             "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "49.156.44.166",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.28
+            "query": "119.15.89.87",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.25
         }
     ]
 }
