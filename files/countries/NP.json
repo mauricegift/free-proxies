@@ -1,8 +1,27 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Patan",
+            "zip": "",
+            "lat": 27.6744,
+            "lon": 85.3123,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Nepal Telecommunications Corporation",
+            "org": "Nepal Telecommunications Corporation",
+            "as": "AS23752 Nepal Telecommunications Corporation, Internet Services,",
+            "query": "202.70.80.153",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.99
+        },
         {
             "status": "success",
             "country": "Nepal",
@@ -11,16 +30,35 @@
             "regionName": "Bagmati Province",
             "city": "Kathmandu",
             "zip": "",
-            "lat": 27.7108,
-            "lon": 85.3251,
+            "lat": 27.6856,
+            "lon": 85.346,
             "timezone": "Asia/Kathmandu",
-            "isp": "Vianet Communications Pvt. Ltd",
-            "org": "NET COMMUNICATION PUBLIC LIMITED",
-            "as": "AS45650 VIA NET COMMUNICATION LTD.",
-            "query": "110.44.115.83",
+            "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+            "org": "Websurfer Nepal Communication System Pvt. Ltd",
+            "as": "AS24550 Websurfer Nepal Internet Service Provider",
+            "query": "118.91.175.146",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.5
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7211,
+            "lon": 85.3331,
+            "timezone": "Asia/Kathmandu",
+            "isp": "BroadLink Networks and Communications",
+            "org": "",
+            "as": "AS55427 Broadlink Nepal",
+            "query": "43.245.93.193",
             "type": "http",
-            "port": "8080",
-            "response_time": 8.1
+            "port": "53805",
+            "response_time": 6.64
         }
     ]
 }
