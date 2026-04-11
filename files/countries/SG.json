@@ -1,27 +1,8 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
-            "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.35208,
-            "lon": 103.82,
-            "timezone": "Asia/Singapore",
-            "isp": "ZSCALER, INC.",
-            "org": "Zscaler Singapore",
-            "as": "AS53813 ZSCALER, INC.",
-            "query": "167.103.115.102",
-            "type": "http",
-            "port": "8800",
-            "response_time": 1.0
-        },
         {
             "status": "success",
             "country": "Singapore",
@@ -39,7 +20,45 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.16
+            "response_time": 1.7
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "ZSCALER, INC.",
+            "org": "Zscaler Singapore",
+            "as": "AS53813 ZSCALER, INC.",
+            "query": "167.103.115.102",
+            "type": "http",
+            "port": "8800",
+            "response_time": 1.72
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "157.245.62.153",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.14
         }
     ]
 }
