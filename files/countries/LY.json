@@ -1,7 +1,7 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "LTT Autonomous System, Tripoli Libya",
             "org": "Rawafed",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "102.68.128.217",
+            "query": "102.68.128.218",
             "type": "http",
             "port": "8080",
-            "response_time": 6.94
+            "response_time": 4.23
         },
         {
             "status": "success",
@@ -30,16 +30,16 @@
             "regionName": "Tripoli",
             "city": "Tripoli",
             "zip": "",
-            "lat": 32.8908,
-            "lon": 13.1796,
+            "lat": 32.8874,
+            "lon": 13.1873,
             "timezone": "Africa/Tripoli",
-            "isp": "LTT Autonomous System, Tripoli Libya",
-            "org": "Rawafed",
+            "isp": "Rawafed",
+            "org": "",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "102.68.128.212",
+            "query": "154.73.29.161",
             "type": "http",
             "port": "8080",
-            "response_time": 10.58
+            "response_time": 5.54
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "102.68.128.214",
             "type": "http",
             "port": "8080",
-            "response_time": 10.85
+            "response_time": 5.68
+        },
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "TB",
+            "regionName": "Tripoli",
+            "city": "Tripoli",
+            "zip": "",
+            "lat": 32.8908,
+            "lon": 13.1796,
+            "timezone": "Africa/Tripoli",
+            "isp": "LTT Autonomous System, Tripoli Libya",
+            "org": "Rawafed",
+            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
+            "query": "102.68.128.211",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.3
         }
     ]
 }
