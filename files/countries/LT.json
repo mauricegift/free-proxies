@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -21,6 +21,25 @@
             "type": "socks4",
             "port": "4145",
             "response_time": 1.34
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "09020",
+            "lat": 54.6912,
+            "lon": 25.2816,
+            "timezone": "Europe/Vilnius",
+            "isp": "BALTNET",
+            "org": "",
+            "as": "AS15440 UAB \"Baltnetos komunikacijos\"",
+            "query": "213.197.136.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.39
         }
     ]
 }
