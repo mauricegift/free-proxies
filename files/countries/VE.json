@@ -1,7 +1,7 @@
 {
     "countryCode": "VE",
     "country": "Venezuela",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 10.4873,
             "lon": -66.8738,
             "timezone": "America/Caracas",
-            "isp": "IFX Networks Venezuela C.A.",
-            "org": "IFX Networks Venezuela C.A",
-            "as": "AS8053 IFX Networks Venezuela C.A.",
-            "query": "190.94.212.216",
+            "isp": "CORPORACION FIBEX TELECOM, C.A.",
+            "org": "",
+            "as": "AS264628 CORPORACION FIBEX TELECOM, C.A.",
+            "query": "190.120.248.65",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.81
+        },
+        {
+            "status": "success",
+            "country": "Venezuela",
+            "countryCode": "VE",
+            "region": "A",
+            "regionName": "Distrito Federal",
+            "city": "Caracas",
+            "zip": "",
+            "lat": 10.4873,
+            "lon": -66.8738,
+            "timezone": "America/Caracas",
+            "isp": "Soluciones DCN Network C.A",
+            "org": "Soluciones DCN Network C.A",
+            "as": "AS266742 SOLUCIONES DCN NETWORK C.A",
+            "query": "45.230.169.129",
             "type": "http",
             "port": "999",
-            "response_time": 2.09
+            "response_time": 7.3
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 10.1615,
             "lon": -68.0004,
             "timezone": "America/Caracas",
-            "isp": "CORPORACION FIBEX TELECOM, C.A.",
-            "org": "CORPORACION FIBEX TELECOM, C.A",
-            "as": "AS264628 CORPORACION FIBEX TELECOM, C.A.",
-            "query": "190.120.252.174",
+            "isp": "Corporacion Digitel C.A",
+            "org": "SUPERNOVA TELECOMUNICACIONES, C.A",
+            "as": "AS27717 Corporacion Digitel C.A.",
+            "query": "186.167.112.91",
             "type": "http",
             "port": "999",
-            "response_time": 2.85
+            "response_time": 8.52
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "190.97.239.22",
             "type": "http",
             "port": "999",
-            "response_time": 6.43
+            "response_time": 9.09
         }
     ]
 }
