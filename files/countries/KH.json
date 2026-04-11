@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "MEKONGNET",
-            "org": "",
+            "isp": "Angkor Data Communication",
+            "org": "Mekongnet SR",
             "as": "AS38235 ANGKOR DATA COMMUNICATION",
-            "query": "203.171.252.7",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.31
+            "query": "202.178.114.61",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.18
         },
         {
             "status": "success",
@@ -34,31 +34,12 @@
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
             "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-            "org": "Viettel (cambodia) Pte., Ltd.",
+            "org": "Viettel (cambodia) Pte, Ltd.",
             "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "175.100.34.177",
+            "query": "36.37.147.34",
             "type": "http",
             "port": "8080",
-            "response_time": 6.2
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "8",
-            "regionName": "Kandal",
-            "city": "Phum\u012d K\u00e2ndal",
-            "zip": "",
-            "lat": 11.5634,
-            "lon": 104.9644,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-            "org": "Viettel (cambodia) Pte., Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.251.137",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.85
+            "response_time": 14.23
         }
     ]
 }
