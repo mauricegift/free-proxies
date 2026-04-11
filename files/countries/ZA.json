@@ -1,27 +1,8 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Equestria",
-            "zip": "0040",
-            "lat": -25.7639,
-            "lon": 28.3365,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Vodacom Shared ENS NSA",
-            "org": "",
-            "as": "AS36994 Vodacom",
-            "query": "41.21.182.179",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.99
-        },
         {
             "status": "success",
             "country": "South Africa",
@@ -39,7 +20,26 @@
             "query": "105.27.180.194",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.09
+            "response_time": 1.99
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "LP",
+            "regionName": "Limpopo",
+            "city": "Tzaneen",
+            "zip": "0850",
+            "lat": -23.8287,
+            "lon": 30.1672,
+            "timezone": "Africa/Johannesburg",
+            "isp": "LWIC",
+            "org": "",
+            "as": "AS328638 Letaba Networks (Pty) Ltd",
+            "query": "196.6.115.165",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.03
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "102.218.41.98",
             "type": "http",
             "port": "8082",
-            "response_time": 6.89
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Potchefstroom",
-            "zip": "2531",
-            "lat": -26.7168,
-            "lon": 27.1054,
-            "timezone": "Africa/Johannesburg",
-            "isp": "HERO TELECOMS (PTY) LTD",
-            "org": "Herotel",
-            "as": "AS328471 HERO TELECOMS (PTY) LTD",
-            "query": "217.29.209.22",
-            "type": "http",
-            "port": "8865",
-            "response_time": 8.25
+            "response_time": 14.75
         }
     ]
 }
