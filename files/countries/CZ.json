@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "64",
-            "regionName": "South Moravian",
-            "city": "\u0160ebetov",
-            "zip": "679 35",
-            "lat": 49.5487,
-            "lon": 16.7223,
+            "region": "80",
+            "regionName": "Moravskoslezsk\u00fd kraj",
+            "city": "Ostrava",
+            "zip": "700 30",
+            "lat": 49.7967,
+            "lon": 18.2343,
             "timezone": "Europe/Prague",
-            "isp": "O2 Czech Republic, a.s.",
-            "org": "Nordictelecomregional",
-            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
-            "query": "185.82.238.42",
+            "isp": "PODA a.s.",
+            "org": "PODA",
+            "as": "AS30764 PODA a.s.",
+            "query": "164.215.127.146",
             "type": "http",
-            "port": "8888",
-            "response_time": 6.61
+            "port": "8080",
+            "response_time": 4.25
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Pilsen",
+            "zip": "323 00",
+            "lat": 49.7705,
+            "lon": 13.3689,
+            "timezone": "Europe/Prague",
+            "isp": "Neutral Free eXchange members - FreeTel alternate",
+            "org": "PilsFree, z.s",
+            "as": "AS8251 FreeTel, s.r.o.",
+            "query": "81.201.56.208",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.95
         }
     ]
 }
