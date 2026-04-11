@@ -1,7 +1,7 @@
 {
     "countryCode": "VE",
     "country": "Venezuela",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 10.4873,
             "lon": -66.8738,
             "timezone": "America/Caracas",
-            "isp": "CORPORACION FIBEX TELECOM, C.A.",
-            "org": "",
-            "as": "AS264628 CORPORACION FIBEX TELECOM, C.A.",
-            "query": "190.120.248.65",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 1.81
+            "isp": "Gold Data USA Inc",
+            "org": "Gold Data Colombia",
+            "as": "AS394684 GOLD DATA USA INC",
+            "query": "190.52.110.79",
+            "type": "http",
+            "port": "999",
+            "response_time": 1.35
         },
         {
             "status": "success",
@@ -33,32 +33,13 @@
             "lat": 10.4873,
             "lon": -66.8738,
             "timezone": "America/Caracas",
-            "isp": "Soluciones DCN Network C.A",
-            "org": "Soluciones DCN Network C.A",
-            "as": "AS266742 SOLUCIONES DCN NETWORK C.A",
-            "query": "45.230.169.129",
+            "isp": "Gold Data USA Inc",
+            "org": "Gold Data Colombia",
+            "as": "AS394684 GOLD DATA USA INC",
+            "query": "190.52.110.15",
             "type": "http",
             "port": "999",
-            "response_time": 7.3
-        },
-        {
-            "status": "success",
-            "country": "Venezuela",
-            "countryCode": "VE",
-            "region": "G",
-            "regionName": "Carabobo",
-            "city": "Valencia",
-            "zip": "",
-            "lat": 10.1615,
-            "lon": -68.0004,
-            "timezone": "America/Caracas",
-            "isp": "Corporacion Digitel C.A",
-            "org": "SUPERNOVA TELECOMUNICACIONES, C.A",
-            "as": "AS27717 Corporacion Digitel C.A.",
-            "query": "186.167.112.91",
-            "type": "http",
-            "port": "999",
-            "response_time": 8.52
+            "response_time": 5.26
         },
         {
             "status": "success",
@@ -77,7 +58,45 @@
             "query": "190.97.239.22",
             "type": "http",
             "port": "999",
-            "response_time": 9.09
+            "response_time": 5.39
+        },
+        {
+            "status": "success",
+            "country": "Venezuela",
+            "countryCode": "VE",
+            "region": "K",
+            "regionName": "Lara",
+            "city": "Barquisimeto",
+            "zip": "",
+            "lat": 10.0647,
+            "lon": -69.357,
+            "timezone": "America/Caracas",
+            "isp": "Viginet C.A",
+            "org": "Viginet C.A",
+            "as": "AS263703 VIGINET C.A",
+            "query": "190.97.230.146",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.1
+        },
+        {
+            "status": "success",
+            "country": "Venezuela",
+            "countryCode": "VE",
+            "region": "K",
+            "regionName": "Lara",
+            "city": "Barquisimeto",
+            "zip": "",
+            "lat": 10.0664,
+            "lon": -69.3586,
+            "timezone": "America/Caracas",
+            "isp": "RED SERVITEL, CA",
+            "org": "RED SERVITEL, CA",
+            "as": "AS270026 RED SERVITEL, CA",
+            "query": "38.172.160.16",
+            "type": "http",
+            "port": "999",
+            "response_time": 11.84
         }
     ]
 }
