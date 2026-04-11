@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.115",
+            "query": "85.117.56.104",
             "type": "http",
             "port": "8080",
-            "response_time": 6.44
+            "response_time": 2.03
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.16
         },
         {
             "status": "success",
@@ -39,7 +58,45 @@
             "query": "77.91.77.220",
             "type": "socks4",
             "port": "1080",
-            "response_time": 9.89
+            "response_time": 6.19
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "",
+            "regionName": "",
+            "city": "",
+            "zip": "",
+            "lat": 42,
+            "lon": 43.4999,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Cloud Hosting Solutions, Limited.",
+            "org": "Chsl ONE LTD",
+            "as": "AS199785 Cloud Hosting Solutions, Limited.",
+            "query": "77.91.77.220",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.66
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.61.112",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.88
         }
     ]
 }
