@@ -1,8 +1,46 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "04",
+            "regionName": "South East",
+            "city": "Singapore",
+            "zip": "",
+            "lat": 1.36945,
+            "lon": 103.969,
+            "timezone": "Asia/Singapore",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.150.55.165",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.19
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba Cloud LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.236.104.43",
+            "type": "http",
+            "port": "8118",
+            "response_time": 3.13
+        },
         {
             "status": "success",
             "country": "Singapore",
@@ -20,7 +58,7 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.95
+            "response_time": 3.44
         },
         {
             "status": "success",
@@ -36,29 +74,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.245.62.153",
+            "query": "128.199.104.190",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 2.65
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "190464",
-            "lat": 1.3048,
-            "lon": 103.8622,
-            "timezone": "Asia/Singapore",
-            "isp": "Google LLC",
-            "org": "Google Cloud (asia-southeast1)",
-            "as": "AS396982 Google LLC",
-            "query": "34.124.190.108",
-            "type": "socks5",
-            "port": "8080",
-            "response_time": 12.41
+            "port": "41354",
+            "response_time": 11.06
         }
     ]
 }
