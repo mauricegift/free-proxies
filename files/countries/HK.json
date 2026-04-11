@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,9 @@
             "org": "",
             "as": "AS401443 WAP.AC LLC",
             "query": "45.149.92.147",
-            "type": "http",
+            "type": "socks4",
             "port": "5001",
-            "response_time": 1.37
+            "response_time": 1.09
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "152.32.132.190",
             "type": "http",
             "port": "7890",
-            "response_time": 2.37
+            "response_time": 1.16
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western",
+            "city": "Hong Kong",
+            "zip": "",
+            "lat": 22.3964,
+            "lon": 114.109,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-east-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "43.198.99.209",
+            "type": "http",
+            "port": "9379",
+            "response_time": 2.43
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "43.198.99.209",
             "type": "http",
             "port": "8004",
-            "response_time": 2.98
+            "response_time": 3.47
         },
         {
             "status": "success",
@@ -77,26 +96,26 @@
             "query": "139.198.113.42",
             "type": "http",
             "port": "10023",
-            "response_time": 7.78
+            "response_time": 9.09
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
+            "region": "HWC",
+            "regionName": "Wan Chai",
+            "city": "Wan Chai",
+            "zip": "96521",
+            "lat": 22.2782,
+            "lon": 114.176,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.238.203.170",
+            "isp": "ASSN-AKRN",
+            "org": "",
+            "as": "AS38136 Akari Networks",
+            "query": "103.135.102.161",
             "type": "http",
-            "port": "50000",
-            "response_time": 10.54
+            "port": "8081",
+            "response_time": 9.31
         }
     ]
 }
