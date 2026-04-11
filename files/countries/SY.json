@@ -1,8 +1,27 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "ID",
+            "regionName": "Idlib Governorate",
+            "city": "Arman\u0101z",
+            "zip": "",
+            "lat": 36.0836,
+            "lon": 36.5031,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "HU Pantel INT",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "89.43.133.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.58
+        },
         {
             "status": "success",
             "country": "Syria",
@@ -17,10 +36,10 @@
             "isp": "High Speed For Internet Services L.L.C",
             "org": "TELECOME SY",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "212.108.115.79",
+            "query": "212.108.115.179",
             "type": "http",
             "port": "8080",
-            "response_time": 8.55
+            "response_time": 4.04
         }
     ]
 }
