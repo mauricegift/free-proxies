@@ -1,8 +1,27 @@
 {
     "countryCode": "DO",
     "country": "Dominican Republic",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Dominican Republic",
+            "countryCode": "DO",
+            "region": "01",
+            "regionName": "Nacional",
+            "city": "Santo Domingo",
+            "zip": "11601",
+            "lat": 18.4872,
+            "lon": -69.8825,
+            "timezone": "America/Santo_Domingo",
+            "isp": "TELECABLE DOMINICANO, S.A.",
+            "org": "Telecable Dominicano S.A",
+            "as": "AS272112 TELECABLE DOMINICANO, S.A.",
+            "query": "38.52.221.2",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.46
+        },
         {
             "status": "success",
             "country": "Dominican Republic",
@@ -20,7 +39,7 @@
             "query": "38.188.247.12",
             "type": "http",
             "port": "999",
-            "response_time": 7.48
+            "response_time": 7.38
         }
     ]
 }
