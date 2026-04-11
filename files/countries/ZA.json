@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,36 +10,17 @@
             "region": "WC",
             "regionName": "Western Cape",
             "city": "Cape Town",
-            "zip": "7945",
-            "lat": -33.9258,
-            "lon": 18.4259,
+            "zip": "8160",
+            "lat": -33.914,
+            "lon": 18.4129,
             "timezone": "Africa/Johannesburg",
-            "isp": "Bluedog Technology",
-            "org": "Bluedog Technology",
-            "as": "AS329181 Bluedog Technology",
-            "query": "102.217.139.31",
+            "isp": "Municipal Network Services",
+            "org": "Trusc",
+            "as": "AS327804 Municipal Network Services",
+            "query": "160.119.58.220",
             "type": "http",
-            "port": "8180",
-            "response_time": 1.23
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "LP",
-            "regionName": "Limpopo",
-            "city": "Tzaneen",
-            "zip": "0850",
-            "lat": -23.8287,
-            "lon": 30.1672,
-            "timezone": "Africa/Johannesburg",
-            "isp": "LWIC",
-            "org": "",
-            "as": "AS328638 Letaba Networks (Pty) Ltd",
-            "query": "196.6.115.165",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.08
+            "port": "8088",
+            "response_time": 11.07
         },
         {
             "status": "success",
@@ -47,18 +28,18 @@
             "countryCode": "ZA",
             "region": "GP",
             "regionName": "Gauteng",
-            "city": "Randburg",
-            "zip": "2032",
-            "lat": -26.0964,
-            "lon": 27.991,
+            "city": "Equestria",
+            "zip": "0040",
+            "lat": -25.7639,
+            "lon": 28.3365,
             "timezone": "Africa/Johannesburg",
-            "isp": "OM-SN-44/24",
+            "isp": "Vodacom Shared ENS NSA",
             "org": "",
-            "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
-            "query": "102.212.44.151",
-            "type": "http",
-            "port": "12354",
-            "response_time": 8.51
+            "as": "AS36994 Vodacom",
+            "query": "41.21.182.179",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 11.74
         }
     ]
 }
