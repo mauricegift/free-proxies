@@ -1,26 +1,45 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "",
+            "lat": 24.8267,
+            "lon": 67.029,
+            "timezone": "Asia/Karachi",
+            "isp": "Supernet",
+            "org": "Telecard Limited",
+            "as": "AS24435 Supernet Limited Transit Autonomous System Number",
+            "query": "116.0.54.25",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.81
+        },
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Model Town",
-            "zip": "54700",
-            "lat": 31.481,
-            "lon": 74.3256,
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "ConnecTel Internet Services",
-            "org": "",
-            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
-            "query": "103.225.221.18",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 5.41
+            "isp": "Wateen Telecom Limited",
+            "org": "Wateen Telecom Limited",
+            "as": "AS38264 National WiMAX/IMS environment",
+            "query": "110.38.226.139",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.72
         }
     ]
 }
