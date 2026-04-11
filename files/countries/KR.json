@@ -1,26 +1,26 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "48",
-            "regionName": "Gyeongsangnam-do",
-            "city": "Hapcheon-gun",
-            "zip": "502",
-            "lat": 35.5698,
-            "lon": 128.1587,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "045",
+            "lat": 37.5656,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "",
+            "org": "Kornet",
             "as": "AS4766 Korea Telecom",
-            "query": "112.163.160.93",
+            "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 2.68
+            "response_time": 1.71
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 4.77
+            "response_time": 2.75
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Songpa-gu",
+            "zip": "055",
+            "lat": 37.508,
+            "lon": 127.1177,
+            "timezone": "Asia/Seoul",
+            "isp": "LG POWERCOMM",
+            "org": "Xpeed",
+            "as": "AS17858 LG POWERCOMM",
+            "query": "115.136.121.54",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 4.22
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "48",
+            "regionName": "Gyeongsangnam-do",
+            "city": "Changwon",
+            "zip": "516",
+            "lat": 35.0869,
+            "lon": 128.8109,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
+            "as": "AS4766 Korea Telecom",
+            "query": "220.84.180.217",
+            "type": "http",
+            "port": "3028",
+            "response_time": 4.84
         }
     ]
 }
