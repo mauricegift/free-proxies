@@ -1,8 +1,27 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NKT",
+            "regionName": "Kwai Tsing District",
+            "city": "Tsing Yi",
+            "zip": "",
+            "lat": 22.3484,
+            "lon": 114.112,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "HGC Global Communications Limited",
+            "org": "HGC Global Communications Limited",
+            "as": "AS9304 HGC Global Communications Limited",
+            "query": "223.16.170.103",
+            "type": "http",
+            "port": "80",
+            "response_time": 1.15
+        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -20,26 +39,45 @@
             "query": "47.238.220.4",
             "type": "http",
             "port": "8888",
-            "response_time": 1.18
+            "response_time": 2.05
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western District",
+            "region": "",
+            "regionName": "Kowloon",
             "city": "Hong Kong",
-            "zip": "",
+            "zip": "999077",
             "lat": 22.3193,
-            "lon": 114.1693,
+            "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Google LLC",
-            "org": "Google Cloud (asia-east2)",
-            "as": "AS396982 Google LLC",
-            "query": "34.96.238.40",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.217.90.107",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.24
+            "port": "22520",
+            "response_time": 2.96
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "CTHKI",
+            "org": "",
+            "as": "AS23764 CTGNet",
+            "query": "203.196.8.6",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.04
         },
         {
             "status": "success",
@@ -56,28 +94,9 @@
             "org": "Huizhou Huigu Cloud Technology Co., Ltd",
             "as": "AS152179 GLOBAL COMMUNICATION NETWORK LIMITED",
             "query": "89.251.26.233",
-            "type": "socks5",
-            "port": "7890",
-            "response_time": 2.32
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "WAP.AC LLC",
-            "org": "",
-            "as": "AS401443 WAP.AC LLC",
-            "query": "45.149.92.147",
             "type": "socks4",
-            "port": "5001",
-            "response_time": 10.87
+            "port": "7890",
+            "response_time": 4.14
         }
     ]
 }
