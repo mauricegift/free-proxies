@@ -1,8 +1,46 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "045",
+            "lat": 37.5656,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "210.223.44.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.28
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks4",
+            "port": "3128",
+            "response_time": 3.63
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +58,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 8.82
+            "response_time": 6.65
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "42",
+            "regionName": "Gangwon-do",
+            "city": "Chuncheon",
+            "zip": "24329",
+            "lat": 37.8897,
+            "lon": 127.736,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "140.245.66.105",
+            "type": "http",
+            "port": "8081",
+            "response_time": 10.26
         }
     ]
 }
