@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4642,
-            "lon": 9.18998,
-            "timezone": "Europe/Rome",
-            "isp": "Host SpA",
-            "org": "Host VDC",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.186.244",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.96
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -39,7 +20,45 @@
             "query": "85.208.200.185",
             "type": "http",
             "port": "8081",
-            "response_time": 4.02
+            "response_time": 5.42
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6358,
+            "lon": 11.6746,
+            "timezone": "Europe/Rome",
+            "isp": "NGI",
+            "org": "NGI Spa",
+            "as": "AS35612 EOLO S.p.A.",
+            "query": "78.134.20.48",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.09
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 6.57
         }
     ]
 }
