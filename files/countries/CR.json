@@ -1,7 +1,7 @@
 {
     "countryCode": "CR",
     "country": "Costa Rica",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "200.192.236.242",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.0
+            "response_time": 0.97
+        },
+        {
+            "status": "success",
+            "country": "Costa Rica",
+            "countryCode": "CR",
+            "region": "C",
+            "regionName": "Cartago Province",
+            "city": "Cartago",
+            "zip": "30101",
+            "lat": 9.8641,
+            "lon": -83.9141,
+            "timezone": "America/Costa_Rica",
+            "isp": "Instituto Costarricense de Electricidad y Telecom.",
+            "org": "CARTAGO",
+            "as": "AS11830 Instituto Costarricense de Electricidad y Telecom.",
+            "query": "181.193.12.82",
+            "type": "socks4",
+            "port": "6969",
+            "response_time": 2.3
         }
     ]
 }
