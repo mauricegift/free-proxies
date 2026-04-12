@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "115.42.67.186",
             "type": "socks4",
             "port": "56534",
-            "response_time": 4.02
+            "response_time": 0.93
         },
         {
             "status": "success",
@@ -29,17 +29,36 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8127,
-            "lon": 67.0115,
+            "zip": "75290",
+            "lat": 24.9239,
+            "lon": 67.1423,
             "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.231.73",
+            "isp": "Galaxy Broadband (pvt.) Ltd.",
+            "org": "Clickbb",
+            "as": "AS139879 Galaxy Broadband",
+            "query": "103.146.137.69",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 5.84
+            "port": "1081",
+            "response_time": 1.63
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Faisalabad",
+            "zip": "38000",
+            "lat": 31.3709,
+            "lon": 73.0336,
+            "timezone": "Asia/Karachi",
+            "isp": "Orbit Internet Service Provider Pvt Ltd",
+            "org": "Orbit Pvt Ltd",
+            "as": "AS151983 Orbit Internet Service Provider Pvt Ltd",
+            "query": "103.253.18.6",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.27
         }
     ]
 }
