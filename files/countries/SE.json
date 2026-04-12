@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "120 63",
+            "lat": 59.3326,
+            "lon": 18.0651,
+            "timezone": "Europe/Stockholm",
+            "isp": "Stockholms Stadsnat AB",
+            "org": "Stockholms Stadsnat AB",
+            "as": "AS50821 Bredband2 Stockholms Stadsnaet AB",
+            "query": "46.39.105.157",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.31
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,26 @@
             "query": "188.150.229.60",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.32
+            "response_time": 3.51
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "",
+            "lat": 59.3293,
+            "lon": 18.0685,
+            "timezone": "Europe/Stockholm",
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "193.148.58.165",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.37
         }
     ]
 }
