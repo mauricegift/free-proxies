@@ -1,8 +1,27 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "San Juan",
+            "city": "San Juan",
+            "zip": "00928",
+            "lat": 18.4,
+            "lon": -66.05,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Natural G.C. Inc.",
+            "org": "Natural G.C. Inc",
+            "as": "AS396899 Natural G.C. Inc.",
+            "query": "172.99.187.33",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.84
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -20,7 +39,7 @@
             "query": "198.52.243.21",
             "type": "http",
             "port": "9999",
-            "response_time": 4.05
+            "response_time": 7.21
         }
     ]
 }
