@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 1.76
+            "response_time": 2.91
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "JSC Kazakhtelecom",
+            "org": "LLC Kokos.kz",
+            "as": "AS9198 JSC Kazakhtelecom",
+            "query": "82.200.235.134",
+            "type": "socks4",
+            "port": "19170",
+            "response_time": 3.0
         }
     ]
 }
