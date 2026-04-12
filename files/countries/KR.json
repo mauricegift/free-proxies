@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Gwangmyeong",
+            "zip": "08620",
+            "lat": 37.465,
+            "lon": 126.891,
+            "timezone": "Asia/Seoul",
+            "isp": "Netropy CO.",
+            "org": "NURILINK",
+            "as": "AS4766 Korea Telecom",
+            "query": "118.67.170.121",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.19
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,26 +39,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.79
+            "response_time": 1.63
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.508,
-            "lon": 127.1177,
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Ansan-si",
+            "zip": "155",
+            "lat": 37.2852,
+            "lon": 126.8251,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
+            "isp": "Korea Telecom",
+            "org": "",
+            "as": "AS4766 Korea Telecom",
+            "query": "121.139.218.165",
             "type": "socks4",
-            "port": "9050",
-            "response_time": 4.71
+            "port": "43295",
+            "response_time": 4.28
         }
     ]
 }
