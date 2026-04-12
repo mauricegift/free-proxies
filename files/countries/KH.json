@@ -1,8 +1,27 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "8",
+            "regionName": "Kandal",
+            "city": "Phum\u012d K\u00e2ndal",
+            "zip": "",
+            "lat": 11.5634,
+            "lon": 104.9644,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+            "org": "Viettel (cambodia) Pte., Ltd.",
+            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+            "query": "36.37.244.41",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.7
+        },
         {
             "status": "success",
             "country": "Cambodia",
@@ -14,13 +33,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "WiCAM Corporation",
-            "org": "WiCAM Corporation Ltd.",
-            "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "49.156.44.10",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.66
+            "isp": "Phnom Penh Cable TV",
+            "org": "Phnom Penh Cable TV",
+            "as": "AS38286 PPCTV broadband service is the first cable and DSL internet in Cambodia",
+            "query": "122.252.179.66",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.38
         }
     ]
 }
