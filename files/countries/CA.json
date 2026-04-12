@@ -1,26 +1,26 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "L4L",
-            "lat": 43.8072,
-            "lon": -79.5946,
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H2A",
+            "lat": 45.562,
+            "lon": -73.6002,
             "timezone": "America/Toronto",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "140.238.156.12",
-            "type": "http",
-            "port": "1080",
-            "response_time": 1.62
+            "isp": "Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "45.73.0.118",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.73
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "193.108.58.29",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.88
+            "response_time": 2.06
         },
         {
             "status": "success",
@@ -47,37 +47,18 @@
             "countryCode": "CA",
             "region": "ON",
             "regionName": "Ontario",
-            "city": "Ottawa",
-            "zip": "K1C",
-            "lat": 45.4677,
-            "lon": -75.5399,
+            "city": "Toronto",
+            "zip": "L4L",
+            "lat": 43.8072,
+            "lon": -79.5946,
             "timezone": "America/Toronto",
-            "isp": "Rogers Communications Canada Inc.",
-            "org": "Rogers Communications Canada Inc",
-            "as": "AS812 Rogers Communications Canada Inc.",
-            "query": "174.114.24.95",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "140.238.156.12",
             "type": "http",
-            "port": "3128",
-            "response_time": 2.67
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H2A",
-            "lat": 45.562,
-            "lon": -73.6002,
-            "timezone": "America/Toronto",
-            "isp": "Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "45.73.0.118",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.78
+            "port": "1080",
+            "response_time": 3.74
         }
     ]
 }
