@@ -1,8 +1,46 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "79.101.106.74",
+            "type": "socks4",
+            "port": "33608",
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Zbet",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "178.220.148.82",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 3.28
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -17,10 +55,10 @@
             "isp": "TELEKOM SRBIJA a.d.",
             "org": "Skupstina stanara solitera Y",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "91.150.77.58",
+            "query": "91.150.77.57",
             "type": "socks4",
             "port": "56921",
-            "response_time": 1.9
+            "response_time": 5.39
         }
     ]
 }
