@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "134.199.159.23",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.28
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,45 @@
             "query": "167.103.144.127",
             "type": "http",
             "port": "8800",
-            "response_time": 1.63
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "134.199.159.23",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.57
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 11.42
         }
     ]
 }
