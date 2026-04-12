@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "21",
-            "regionName": "Piedmont",
-            "city": "Turin",
-            "zip": "10121",
-            "lat": 45.0913,
-            "lon": 7.66158,
-            "timezone": "Europe/Rome",
-            "isp": "HOST-VDC",
-            "org": "",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.191.202",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.69
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -39,7 +20,45 @@
             "query": "91.192.25.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 6.57
+            "response_time": 1.75
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "21",
+            "regionName": "Piedmont",
+            "city": "Turin",
+            "zip": "10121",
+            "lat": 45.0913,
+            "lon": 7.66158,
+            "timezone": "Europe/Rome",
+            "isp": "HOST-VDC",
+            "org": "",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.191.202",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.13
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Rome",
+            "zip": "00187",
+            "lat": 41.8967,
+            "lon": 12.4822,
+            "timezone": "Europe/Rome",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "5.253.43.103",
+            "type": "http",
+            "port": "3128",
+            "response_time": 12.25
         }
     ]
 }
