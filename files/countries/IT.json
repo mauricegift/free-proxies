@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "34",
-            "regionName": "Veneto",
-            "city": "Santa Margherita d'Adige",
-            "zip": "35040",
-            "lat": 45.2121,
-            "lon": 11.5576,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Sirius Technology SRL",
-            "org": "Sirius Technology SRL",
-            "as": "AS60501 Sirius Technology SRL",
-            "query": "149.86.203.217",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
             "type": "http",
-            "port": "8080",
-            "response_time": 2.05
+            "port": "8081",
+            "response_time": 0.31
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "21",
+            "regionName": "Piedmont",
+            "city": "Turin",
+            "zip": "10121",
+            "lat": 45.0913,
+            "lon": 7.66158,
+            "timezone": "Europe/Rome",
+            "isp": "HOST-VDC",
+            "org": "",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.191.202",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.54
         }
     ]
 }
