@@ -1,7 +1,7 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 8,
+    "count": 16,
     "proxies": [
         {
             "status": "success",
@@ -17,7 +17,26 @@
             "isp": "WAIcore Ltd",
             "org": "WAIcore Ltd",
             "as": "AS213887 WAIcore Ltd",
-            "query": "193.233.254.77",
+            "query": "193.233.254.57",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.11
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1154,
+            "lon": 8.68058,
+            "timezone": "Europe/Berlin",
+            "isp": "WAIcore Ltd",
+            "org": "WAIcore Ltd",
+            "as": "AS213887 WAIcore Ltd",
+            "query": "193.233.254.82",
             "type": "socks4",
             "port": "1080",
             "response_time": 0.13
@@ -39,7 +58,7 @@
             "query": "152.53.144.223",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.16
+            "response_time": 0.13
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "147.161.239.240",
             "type": "http",
             "port": "8800",
-            "response_time": 0.17
+            "response_time": 0.19
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "95.181.174.211",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.64
+            "response_time": 0.44
         },
         {
             "status": "success",
@@ -96,7 +115,7 @@
             "query": "95.181.174.211",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.64
+            "response_time": 0.44
         },
         {
             "status": "success",
@@ -112,10 +131,29 @@
             "isp": "Timeweb, LLP",
             "org": "Timeweb, LLP",
             "as": "AS210976 Timeweb, LLP",
-            "query": "185.166.196.59",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.7
+            "query": "72.56.108.205",
+            "type": "http",
+            "port": "3129",
+            "response_time": 1.01
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "SN",
+            "regionName": "Saxony",
+            "city": "Falkenstein",
+            "zip": "08223",
+            "lat": 50.4777,
+            "lon": 12.3649,
+            "timezone": "Europe/Berlin",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "91.99.182.39",
+            "type": "socks5",
+            "port": "4000",
+            "response_time": 1.34
         },
         {
             "status": "success",
@@ -128,13 +166,127 @@
             "lat": 50.1169,
             "lon": 8.6837,
             "timezone": "Europe/Berlin",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.157.30.42",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digital Ocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "209.38.249.114",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.75
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "TH",
+            "regionName": "Thuringia",
+            "city": "Erfurt",
+            "zip": "99084",
+            "lat": 50.9848,
+            "lon": 11.0299,
+            "timezone": "Europe/Berlin",
+            "isp": "OCKNet GmbH",
+            "org": "OCKNet",
+            "as": "AS202252 OCKNet GmbH",
+            "query": "185.133.239.244",
+            "type": "socks4",
+            "port": "16299",
+            "response_time": 1.92
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1169,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "DePowered Limited",
+            "org": "MTK Global Ltd",
+            "as": "AS214172 DePowered Limited",
+            "query": "91.108.243.203",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.24
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1109,
+            "lon": 8.68213,
+            "timezone": "Europe/Berlin",
+            "isp": "DpkgSoft International Limited",
+            "org": "Xorek.Cloud Frankfurt",
+            "as": "AS215590 DpkgSoft International Limited",
+            "query": "150.241.116.228",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.53
+            "response_time": 5.21
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1154,
+            "lon": 8.68058,
+            "timezone": "Europe/Berlin",
+            "isp": "WAIcore Ltd",
+            "org": "WAIcore Ltd",
+            "as": "AS213887 WAIcore Ltd",
+            "query": "193.233.254.77",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.29
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1169,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digital Ocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "209.38.249.114",
+            "type": "socks5",
+            "port": "1085",
+            "response_time": 6.18
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1169,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "Timeweb, LLP",
+            "org": "Timeweb, LLP",
+            "as": "AS210976 Timeweb, LLP",
+            "query": "72.56.108.205",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.91
         },
         {
             "status": "success",
@@ -153,7 +305,7 @@
             "query": "150.241.116.228",
             "type": "http",
             "port": "3128",
-            "response_time": 4.59
+            "response_time": 9.72
         }
     ]
 }
