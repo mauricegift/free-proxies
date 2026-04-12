@@ -1,8 +1,27 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Zbet",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "178.220.148.82",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 1.28
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -17,29 +36,29 @@
             "isp": "TELEKOM-SRBIJA",
             "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "79.101.45.94",
+            "query": "79.101.106.74",
             "type": "socks4",
-            "port": "56921",
-            "response_time": 4.26
+            "port": "33608",
+            "response_time": 2.33
         },
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "VO",
-            "regionName": "Vojvodina",
-            "city": "Ba\u010dki Petrovac",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
             "zip": "",
-            "lat": 45.359,
-            "lon": 19.593,
+            "lat": 44.8046,
+            "lon": 20.4637,
             "timezone": "Europe/Belgrade",
             "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Smederevo",
+            "org": "Skupstina stanara solitera Y",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "195.178.56.37",
-            "type": "http",
-            "port": "8080",
-            "response_time": 12.68
+            "query": "91.150.77.57",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 6.42
         }
     ]
 }
