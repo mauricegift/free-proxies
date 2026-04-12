@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.95
+            "response_time": 0.96
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.1
+            "response_time": 1.63
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.245.62.153",
+            "query": "152.42.201.82",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.77
+            "response_time": 6.98
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Cloud Host Pte Ltd",
+            "org": "Cloud Host Pte Ltd",
+            "as": "AS138608 Cloud Host Pte Ltd",
+            "query": "103.189.235.233",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.42
         },
         {
             "status": "success",
@@ -75,9 +94,9 @@
             "org": "Google Cloud (asia-southeast1)",
             "as": "AS396982 Google LLC",
             "query": "34.124.190.108",
-            "type": "socks4",
+            "type": "socks5",
             "port": "8080",
-            "response_time": 11.85
+            "response_time": 12.23
         }
     ]
 }
