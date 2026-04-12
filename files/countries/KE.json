@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Unwired Communications Ltd",
+            "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
-            "as": "AS328490 Unwired Communications Limited",
-            "query": "102.68.77.47",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.24.58",
             "type": "http",
             "port": "8080",
-            "response_time": 2.42
+            "response_time": 0.88
         },
         {
             "status": "success",
@@ -39,7 +39,64 @@
             "query": "102.0.25.184",
             "type": "http",
             "port": "8080",
-            "response_time": 5.8
+            "response_time": 4.04
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "154.79.248.156",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.08
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.21.148",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.2
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "36",
+            "regionName": "Nyeri County",
+            "city": "Nyeri",
+            "zip": "",
+            "lat": -0.4174,
+            "lon": 36.9525,
+            "timezone": "Africa/Nairobi",
+            "isp": "Safaricom Limited",
+            "org": "Safaricom Limited",
+            "as": "AS37061 Safaricom Limited",
+            "query": "197.248.75.221",
+            "type": "http",
+            "port": "8103",
+            "response_time": 8.89
         }
     ]
 }
