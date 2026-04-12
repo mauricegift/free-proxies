@@ -1,26 +1,45 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
+            "region": "NKT",
+            "regionName": "Kwai Tsing District",
+            "city": "Kwai Chung",
+            "zip": "",
+            "lat": 22.3702,
+            "lon": 114.13,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.238.203.170",
+            "isp": "Hong Kong Broadband Network Ltd",
+            "org": "Hong Kong Broadband Network Limited",
+            "as": "AS9269 Hong Kong Broadband Network Ltd.",
+            "query": "183.178.50.58",
             "type": "http",
-            "port": "50000",
-            "response_time": 9.44
+            "port": "8080",
+            "response_time": 1.39
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western District",
+            "city": "Hong Kong",
+            "zip": "00000",
+            "lat": 22.267,
+            "lon": 114.188,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (eastasia)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.2.83.243",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.24
         }
     ]
 }
