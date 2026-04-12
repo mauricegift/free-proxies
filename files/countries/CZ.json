@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "N\u00fd\u0159any",
+            "zip": "330 23",
+            "lat": 49.7035,
+            "lon": 13.2156,
+            "timezone": "Europe/Prague",
+            "isp": "NoskaNet",
+            "org": "ForWiFi, s.r.o",
+            "as": "AS16019 Vodafone Czech Republic a.s.",
+            "query": "46.174.23.200",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.55
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +39,26 @@
             "query": "185.73.103.23",
             "type": "http",
             "port": "3128",
-            "response_time": 7.19
+            "response_time": 7.03
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "80",
+            "regionName": "Moravskoslezsk\u00fd kraj",
+            "city": "Ostrava",
+            "zip": "700 30",
+            "lat": 49.7967,
+            "lon": 18.2343,
+            "timezone": "Europe/Prague",
+            "isp": "PODA a.s.",
+            "org": "PODA",
+            "as": "AS30764 PODA a.s.",
+            "query": "164.215.127.146",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.67
         }
     ]
 }
