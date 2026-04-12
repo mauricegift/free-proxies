@@ -1,26 +1,45 @@
 {
     "countryCode": "BO",
     "country": "Bolivia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Bolivia",
             "countryCode": "BO",
-            "region": "S",
-            "regionName": "Santa Cruz Department",
-            "city": "Santa Cruz de la Sierra",
+            "region": "L",
+            "regionName": "La Paz Department",
+            "city": "La Paz",
             "zip": "",
-            "lat": -17.7834,
-            "lon": -63.1822,
+            "lat": -16.5002,
+            "lon": -68.1493,
             "timezone": "America/La_Paz",
-            "isp": "Entel S.A. - EntelNet",
-            "org": "Empresa Nacional De Telecomunicaciones Sociedad Anonima",
-            "as": "AS6568 EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
-            "query": "181.115.207.114",
+            "isp": "Telef\u00f3nica Celular de Bolivia S.A.",
+            "org": "Telef\u00f3nica Celular de Bolivia S.A",
+            "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
+            "query": "190.104.26.227",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 4.09
+            "port": "33638",
+            "response_time": 1.1
+        },
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "L",
+            "regionName": "La Paz Department",
+            "city": "La Paz",
+            "zip": "",
+            "lat": -16.5002,
+            "lon": -68.1493,
+            "timezone": "America/La_Paz",
+            "isp": "AXS Bolivia S. A.",
+            "org": "AXS Bolivia S. A",
+            "as": "AS26210 AXS Bolivia S. A.",
+            "query": "186.121.214.210",
+            "type": "http",
+            "port": "32650",
+            "response_time": 12.08
         }
     ]
 }
