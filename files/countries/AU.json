@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
-            "timezone": "Australia/Sydney",
-            "isp": "ZSCALER, INC.",
-            "org": "Zscaler Sydney",
-            "as": "AS53813 ZSCALER, INC.",
-            "query": "167.103.144.127",
-            "type": "http",
-            "port": "8800",
-            "response_time": 1.62
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.46
+            "response_time": 3.04
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "61.29.96.146",
             "type": "http",
             "port": "80",
-            "response_time": 9.41
+            "response_time": 5.0
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.197.172",
+            "type": "http",
+            "port": "6544",
+            "response_time": 5.67
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "ZSCALER, INC.",
+            "org": "Zscaler Sydney",
+            "as": "AS53813 ZSCALER, INC.",
+            "query": "167.103.144.127",
+            "type": "http",
+            "port": "8800",
+            "response_time": 5.83
         }
     ]
 }
