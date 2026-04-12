@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Pilsen",
-            "zip": "323 00",
-            "lat": 49.7705,
-            "lon": 13.3689,
+            "region": "72",
+            "regionName": "Zl\u00edn",
+            "city": "Vala\u0161sk\u00e9 Klobouky",
+            "zip": "766 01",
+            "lat": 49.1472,
+            "lon": 18.0145,
             "timezone": "Europe/Prague",
-            "isp": "Neutral Free eXchange members - FreeTel alternate",
-            "org": "PilsFree, z.s",
-            "as": "AS8251 FreeTel, s.r.o.",
-            "query": "81.201.56.208",
+            "isp": "Martin Vicenik",
+            "org": "VicenikRoute",
+            "as": "AS34955 Martin Vicenik",
+            "query": "81.162.195.35",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.37
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "\u0160ebetov",
+            "zip": "679 35",
+            "lat": 49.5487,
+            "lon": 16.7223,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "Nordictelecomregional",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "185.82.238.42",
             "type": "http",
-            "port": "8080",
-            "response_time": 2.25
+            "port": "8888",
+            "response_time": 4.52
         }
     ]
 }
