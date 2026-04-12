@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54760",
+            "lat": 31.4758,
+            "lon": 74.3069,
+            "timezone": "Asia/Karachi",
+            "isp": "Netsol Technologies Limited",
+            "org": "Netsol Technologies Limited",
+            "as": "AS17539 NetSol Connect",
+            "query": "103.197.47.42",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.05
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +39,7 @@
             "query": "202.154.241.199",
             "type": "http",
             "port": "808",
-            "response_time": 1.98
+            "response_time": 6.68
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Multan",
-            "zip": "60000",
-            "lat": 30.1659,
-            "lon": 71.4415,
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "Mian Internet Services (Pvt) Ltd",
-            "org": "MISPL  (Pvt) Ltd",
-            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
-            "query": "103.86.135.34",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.17
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "Pakistan Telecommuication company limited",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.176.164.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.51
         }
     ]
 }
