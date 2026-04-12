@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Islamabad",
             "city": "Islamabad",
             "zip": "44000",
-            "lat": 33.7233,
-            "lon": 73.0435,
+            "lat": 33.6648,
+            "lon": 73.0419,
             "timezone": "Asia/Karachi",
-            "isp": "Nayatel (Pvt) Ltd",
-            "org": "Nayatel",
-            "as": "AS23674 Nayatel (Pvt) Ltd",
-            "query": "124.109.44.126",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 5.46
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "PTCL Triple Play Project",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "119.155.143.218",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.6
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Wateen Telecom Limited",
+            "org": "Wateen Telecom Limited",
+            "as": "AS38264 National WiMAX/IMS environment",
+            "query": "110.38.226.139",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.44
         }
     ]
 }
