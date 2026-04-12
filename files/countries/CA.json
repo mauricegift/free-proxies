@@ -1,26 +1,26 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "BC",
-            "regionName": "British Columbia",
-            "city": "Vancouver",
-            "zip": "V5Z",
-            "lat": 49.2476,
-            "lon": -123.1234,
-            "timezone": "America/Vancouver",
-            "isp": "GLOBALTELEHOST Corp.",
-            "org": "Inetcloud",
-            "as": "AS62563 GLOBALTELEHOST Corp.",
-            "query": "193.108.58.29",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Mississauga",
+            "zip": "L5J",
+            "lat": 43.5119,
+            "lon": -79.6299,
+            "timezone": "America/Toronto",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 7.12
+            "port": "50877",
+            "response_time": 4.71
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 7.81
+            "response_time": 5.74
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "BC",
+            "regionName": "British Columbia",
+            "city": "Vancouver",
+            "zip": "V5Z",
+            "lat": 49.2476,
+            "lon": -123.1234,
+            "timezone": "America/Vancouver",
+            "isp": "GLOBALTELEHOST Corp.",
+            "org": "Inetcloud",
+            "as": "AS62563 GLOBALTELEHOST Corp.",
+            "query": "193.108.58.29",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 12.2
         }
     ]
 }
