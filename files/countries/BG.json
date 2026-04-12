@@ -1,27 +1,8 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
-            "timezone": "Europe/Sofia",
-            "isp": "BTC Plc",
-            "org": "Bulgarian Telecommunications Company Plc.",
-            "as": "AS8866 Vivacom Bulgaria EAD",
-            "query": "212.5.132.74",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.57
-        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -39,7 +20,7 @@
             "query": "212.50.19.150",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.33
+            "response_time": 0.39
         },
         {
             "status": "success",
@@ -52,13 +33,51 @@
             "lat": 42.6826,
             "lon": 23.3223,
             "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "Mobiltel EAD",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "92.247.31.130",
+            "isp": "Telehouse EAD",
+            "org": "Rokada",
+            "as": "AS57344 Telehouse EAD",
+            "query": "94.72.158.129",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 7.53
+            "port": "4153",
+            "response_time": 1.24
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6826,
+            "lon": 23.3223,
+            "timezone": "Europe/Sofia",
+            "isp": "BTC-BROADBAND",
+            "org": "Bulgarian Telecommunications Company Plc.",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "46.10.209.230",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.05
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.10",
+            "type": "http",
+            "port": "8001",
+            "response_time": 8.42
         }
     ]
 }
