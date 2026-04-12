@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 12,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
             "isp": "Hetzner Online GmbH",
-            "org": "Hetzner Online GmbH",
+            "org": "Hetzner",
             "as": "AS24940 Hetzner Online GmbH",
-            "query": "65.108.203.35",
+            "query": "157.180.50.70",
             "type": "http",
-            "port": "18080",
-            "response_time": 0.48
+            "port": "3128",
+            "response_time": 0.45
         },
         {
             "status": "success",
@@ -39,64 +39,7 @@
             "query": "95.214.9.93",
             "type": "http",
             "port": "3128",
-            "response_time": 0.8
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.99.216",
-            "type": "http",
-            "port": "8888",
-            "response_time": 1.37
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.99.216",
-            "type": "socks4",
-            "port": "8888",
-            "response_time": 1.37
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.99.216",
-            "type": "socks5",
-            "port": "8888",
-            "response_time": 1.37
+            "response_time": 0.69
         },
         {
             "status": "success",
@@ -115,7 +58,26 @@
             "query": "213.165.58.6",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.5
+            "response_time": 1.23
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00100",
+            "lat": 60.1727,
+            "lon": 24.932,
+            "timezone": "Europe/Helsinki",
+            "isp": "WAIcore Ltd",
+            "org": "WAIcore Ltd",
+            "as": "AS213887 WAIcore Ltd",
+            "query": "213.165.58.6",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.23
         },
         {
             "status": "success",
@@ -134,7 +96,7 @@
             "query": "65.108.159.129",
             "type": "http",
             "port": "8081",
-            "response_time": 1.94
+            "response_time": 1.31
         },
         {
             "status": "success",
@@ -143,17 +105,17 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00100",
-            "lat": 60.1727,
-            "lon": 24.932,
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
             "timezone": "Europe/Helsinki",
-            "isp": "WAIcore Ltd",
-            "org": "WAIcore Ltd",
-            "as": "AS213887 WAIcore Ltd",
-            "query": "213.165.58.7",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.22
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "45.12.151.226",
+            "type": "http",
+            "port": "2829",
+            "response_time": 1.5
         },
         {
             "status": "success",
@@ -162,17 +124,36 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00100",
-            "lat": 60.1727,
-            "lon": 24.932,
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "WAIcore Ltd",
-            "org": "WAIcore Ltd",
-            "as": "AS213887 WAIcore Ltd",
-            "query": "213.165.58.7",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "138.124.99.216",
+            "type": "http",
+            "port": "8888",
+            "response_time": 3.42
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "138.124.99.216",
             "type": "socks5",
-            "port": "1080",
-            "response_time": 4.22
+            "port": "8888",
+            "response_time": 3.42
         },
         {
             "status": "success",
@@ -191,7 +172,7 @@
             "query": "213.165.58.8",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.29
+            "response_time": 8.5
         },
         {
             "status": "success",
@@ -200,17 +181,17 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00380",
-            "lat": 60.2188,
-            "lon": 24.8708,
+            "zip": "00100",
+            "lat": 60.1727,
+            "lon": 24.932,
             "timezone": "Europe/Helsinki",
-            "isp": "Hostkey B.V.",
-            "org": "Snowd Security OU",
-            "as": "AS57043 HOSTKEY B.V.",
-            "query": "185.212.119.154",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.79
+            "isp": "WAIcore Ltd",
+            "org": "WAIcore Ltd",
+            "as": "AS213887 WAIcore Ltd",
+            "query": "213.165.58.8",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 8.5
         },
         {
             "status": "success",
@@ -229,7 +210,7 @@
             "query": "135.181.113.216",
             "type": "http",
             "port": "16379",
-            "response_time": 13.63
+            "response_time": 9.41
         }
     ]
 }
