@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "RIX",
             "regionName": "R\u012bga",
             "city": "Riga",
-            "zip": "LV-1011",
-            "lat": 56.9728,
-            "lon": 24.1657,
+            "zip": "LV-1005",
+            "lat": 56.9891,
+            "lon": 24.1195,
             "timezone": "Europe/Riga",
-            "isp": "SIA VEESP",
-            "org": "SIA VEESP",
-            "as": "AS42532 SIA VEESP",
-            "query": "94.158.219.111",
+            "isp": "SIA \"BITE Latvija\"",
+            "org": "SIA Latnet",
+            "as": "AS2588 SIA BITE Latvija",
+            "query": "159.148.146.65",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.54
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "R\u012bga",
+            "city": "Riga",
+            "zip": "LV-1063",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "Anton Levin",
+            "org": "Vdska LV1",
+            "as": "AS50053 VDSka hosting",
+            "query": "81.85.74.176",
             "type": "http",
             "port": "3128",
-            "response_time": 13.51
+            "response_time": 6.75
         }
     ]
 }
