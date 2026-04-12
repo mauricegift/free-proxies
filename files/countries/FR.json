@@ -1,26 +1,26 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "France",
             "countryCode": "FR",
-            "region": "ARA",
-            "regionName": "Rh\u00f4ne-Alpes",
-            "city": "Cournon-d'Auvergne",
-            "zip": "63800",
-            "lat": 45.7317,
-            "lon": 3.2032,
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
             "timezone": "Europe/Paris",
-            "isp": "Abeille Sarl",
-            "org": "Beeip",
-            "as": "AS203500 ABEILLE SARL",
-            "query": "185.178.185.100",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.31
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "37.60.237.110",
+            "type": "http",
+            "port": "30001",
+            "response_time": 6.05
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "38.242.212.16",
+            "query": "173.212.246.157",
             "type": "http",
             "port": "3128",
-            "response_time": 4.75
+            "response_time": 6.39
         },
         {
             "status": "success",
@@ -58,26 +58,45 @@
             "query": "94.131.118.39",
             "type": "http",
             "port": "1081",
-            "response_time": 5.98
+            "response_time": 7.49
         },
         {
             "status": "success",
             "country": "France",
             "countryCode": "FR",
-            "region": "HDF",
-            "regionName": "Hauts-de-France",
-            "city": "Roubaix",
-            "zip": "59100",
-            "lat": 50.6924,
-            "lon": 3.20113,
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
             "timezone": "Europe/Paris",
-            "isp": "OVH SAS",
-            "org": "OVH SAS",
-            "as": "AS16276 OVH SAS",
-            "query": "37.187.109.70",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.118.39",
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 7.49
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "161.97.176.48",
             "type": "http",
-            "port": "10111",
-            "response_time": 7.48
+            "port": "3128",
+            "response_time": 8.01
         }
     ]
 }
