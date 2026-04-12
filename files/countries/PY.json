@@ -1,8 +1,27 @@
 {
     "countryCode": "PY",
     "country": "Paraguay",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "11",
+            "regionName": "Central Department",
+            "city": "Fernando de la Mora",
+            "zip": "",
+            "lat": -25.3386,
+            "lon": -57.5217,
+            "timezone": "America/Asuncion",
+            "isp": "N\u00facleo S.A.",
+            "org": "N\u00facleo S.A",
+            "as": "AS27895 N\u00facleo S.A.",
+            "query": "181.94.197.37",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.41
+        },
         {
             "status": "success",
             "country": "Paraguay",
@@ -17,10 +36,10 @@
             "isp": "Ufinet Paraguay S.A",
             "org": "Ufinet Colombia",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "181.78.27.38",
+            "query": "181.78.27.34",
             "type": "http",
             "port": "999",
-            "response_time": 7.97
+            "response_time": 8.93
         }
     ]
 }
