@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Kcell JSC",
+            "org": "\"KCell\" JSC",
+            "as": "AS29355 Kcell JSC",
+            "query": "2.78.60.10",
+            "type": "http",
+            "port": "3129",
+            "response_time": 5.12
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +39,7 @@
             "query": "82.200.235.134",
             "type": "socks4",
             "port": "38191",
-            "response_time": 7.84
+            "response_time": 9.55
         }
     ]
 }
