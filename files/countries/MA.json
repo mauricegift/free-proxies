@@ -1,7 +1,7 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "197.230.117.57",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.46
+            "response_time": 2.54
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "06",
+            "regionName": "Casablanca-Settat",
+            "city": "Casablanca",
+            "zip": "",
+            "lat": 33.5922,
+            "lon": -7.6184,
+            "timezone": "Africa/Casablanca",
+            "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "org": "IAM",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "105.159.161.206",
+            "type": "http",
+            "port": "4145",
+            "response_time": 4.58
         }
     ]
 }
