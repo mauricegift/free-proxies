@@ -1,8 +1,27 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "CTHKI",
+            "org": "",
+            "as": "AS23764 CTGNet",
+            "query": "203.196.8.6",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.38
+        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -10,17 +29,17 @@
             "region": "HCW",
             "regionName": "Central and Western District",
             "city": "Hong Kong",
-            "zip": "",
-            "lat": 22.3193,
-            "lon": 114.1693,
+            "zip": "999077",
+            "lat": 22.273,
+            "lon": 114.1498,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Google LLC",
-            "org": "Google Cloud (asia-east2)",
-            "as": "AS396982 Google LLC",
-            "query": "34.96.238.40",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.22
+            "isp": "Huizhou Huigu Cloud Technology Co Ltd",
+            "org": "Huizhou Huigu Cloud Technology Co., Ltd",
+            "as": "AS152179 GLOBAL COMMUNICATION NETWORK LIMITED",
+            "query": "89.251.26.233",
+            "type": "socks4",
+            "port": "7890",
+            "response_time": 11.36
         }
     ]
 }
