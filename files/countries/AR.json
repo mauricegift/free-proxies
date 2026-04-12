@@ -1,7 +1,7 @@
 {
     "countryCode": "AR",
     "country": "Argentina",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "200.41.182.243",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.7
+            "response_time": 1.48
         },
         {
             "status": "success",
             "country": "Argentina",
             "countryCode": "AR",
-            "region": "B",
-            "regionName": "Buenos Aires",
-            "city": "Villa Ramallo",
-            "zip": "2915",
-            "lat": -33.4959,
-            "lon": -60.0576,
-            "timezone": "America/Argentina/Buenos_Aires",
-            "isp": "INTERAIR",
-            "org": "INTERAIR",
-            "as": "AS264831 INTERAIR",
-            "query": "181.114.62.1",
+            "region": "H",
+            "regionName": "Chaco",
+            "city": "Villa \u00c1ngela",
+            "zip": "3540",
+            "lat": -27.5866,
+            "lon": -60.72,
+            "timezone": "America/Argentina/Cordoba",
+            "isp": "Interret Villa Angela SRL",
+            "org": "Interret Villa Angela SRL",
+            "as": "AS265763 Interret Villa Angela SRL",
+            "query": "164.163.42.33",
             "type": "http",
-            "port": "8085",
-            "response_time": 5.91
+            "port": "10000",
+            "response_time": 3.56
         },
         {
             "status": "success",
@@ -52,13 +52,51 @@
             "lat": -32.954,
             "lon": -60.6634,
             "timezone": "America/Argentina/Cordoba",
-            "isp": "Telecom Argentina S.A.",
-            "org": "Telecom Personal Bs",
-            "as": "AS7303 Telecom Argentina S.A.",
-            "query": "181.10.138.226",
+            "isp": "IP\u00b7RED",
+            "org": "IP\u00b7RED",
+            "as": "AS262934 IP\u00b7RED",
+            "query": "191.102.251.49",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.31
+        },
+        {
+            "status": "success",
+            "country": "Argentina",
+            "countryCode": "AR",
+            "region": "C",
+            "regionName": "Buenos Aires F.D.",
+            "city": "Buenos Aires",
+            "zip": "1871",
+            "lat": -34.6037,
+            "lon": -58.3821,
+            "timezone": "America/Argentina/Buenos_Aires",
+            "isp": "Telmex Argentina S.A",
+            "org": "Hipodromo Argentino De Palermo S.a. - Casino Club",
+            "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+            "query": "200.80.227.234",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 8.54
+        },
+        {
+            "status": "success",
+            "country": "Argentina",
+            "countryCode": "AR",
+            "region": "A",
+            "regionName": "Salta",
+            "city": "General G\u00fcemes",
+            "zip": "4430",
+            "lat": -24.6744,
+            "lon": -65.0466,
+            "timezone": "America/Argentina/Salta",
+            "isp": "ARSAT - Empresa Argentina de Soluciones Satelitales S.A",
+            "org": "Casazola Almazan Yamil",
+            "as": "AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.",
+            "query": "181.209.118.250",
             "type": "http",
-            "port": "8083",
-            "response_time": 9.45
+            "port": "999",
+            "response_time": 9.85
         }
     ]
 }
