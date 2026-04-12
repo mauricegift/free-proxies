@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "L",
+            "regionName": "South Aegean",
+            "city": "Rhodes",
+            "zip": "",
+            "lat": 36.4356,
+            "lon": 28.222,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "62.103.186.66",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.42
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,7 +39,7 @@
             "query": "94.68.245.147",
             "type": "http",
             "port": "8080",
-            "response_time": 6.38
+            "response_time": 2.85
         }
     ]
 }
