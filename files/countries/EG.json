@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "TE Data",
+            "org": "",
+            "as": "AS8452 TE-AS",
+            "query": "41.33.203.238",
+            "type": "http",
+            "port": "1975",
+            "response_time": 4.34
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -17,10 +36,10 @@
             "isp": "Etisalat Misr Mobile BB",
             "org": "",
             "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.55.10",
+            "query": "41.65.162.72",
             "type": "http",
-            "port": "1976",
-            "response_time": 10.11
+            "port": "1981",
+            "response_time": 21.34
         }
     ]
 }
