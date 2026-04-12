@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.89
+            "response_time": 0.93
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.98
+            "response_time": 0.94
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.222.248.34",
+            "type": "socks4",
+            "port": "443",
+            "response_time": 1.01
         },
         {
             "status": "success",
@@ -55,29 +74,29 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "104.248.151.220",
-            "type": "socks4",
-            "port": "57554",
-            "response_time": 3.46
+            "query": "167.71.196.178",
+            "type": "http",
+            "port": "80",
+            "response_time": 1.51
         },
         {
             "status": "success",
             "country": "Singapore",
             "countryCode": "SG",
-            "region": "04",
-            "regionName": "South East",
+            "region": "03",
+            "regionName": "North West",
             "city": "Singapore",
-            "zip": "",
-            "lat": 1.36945,
-            "lon": 103.969,
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "129.150.39.242",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - SG",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.74.226.8",
             "type": "http",
-            "port": "8118",
-            "response_time": 6.24
+            "port": "5001",
+            "response_time": 1.57
         }
     ]
 }
