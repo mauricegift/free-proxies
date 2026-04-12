@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "72",
-            "regionName": "Zl\u00edn",
-            "city": "Vala\u0161sk\u00e9 Klobouky",
-            "zip": "766 01",
-            "lat": 49.1472,
-            "lon": 18.0145,
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Klatovy",
+            "zip": "339 01",
+            "lat": 49.3791,
+            "lon": 13.3059,
             "timezone": "Europe/Prague",
-            "isp": "Martin Vicenik",
-            "org": "VicenikRoute",
-            "as": "AS34955 Martin Vicenik",
-            "query": "81.162.195.35",
+            "isp": "Airweb",
+            "org": "",
+            "as": "AS210712 ISP Alliance a.s.",
+            "query": "185.40.80.143",
             "type": "socks4",
             "port": "4153",
-            "response_time": 7.56
+            "response_time": 0.23
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "71",
+            "regionName": "Olomouck\u00fd kraj",
+            "city": "Olomouc",
+            "zip": "779 00",
+            "lat": 49.5864,
+            "lon": 17.2537,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "188.119.98.126",
+            "type": "http",
+            "port": "9999",
+            "response_time": 5.63
         }
     ]
 }
