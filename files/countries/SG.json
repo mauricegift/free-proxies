@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "129.150.55.165",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.89
+            "response_time": 0.95
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "167.103.115.102",
             "type": "http",
             "port": "8800",
-            "response_time": 0.94
+            "response_time": 1.0
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Cloud Host Pte Ltd",
+            "org": "Cloud Host Pte Ltd",
+            "as": "AS138608 Cloud Host Pte Ltd",
+            "query": "103.189.235.233",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.59
         },
         {
             "status": "success",
@@ -58,26 +77,26 @@
             "query": "8.219.97.248",
             "type": "http",
             "port": "80",
-            "response_time": 3.6
+            "response_time": 9.33
         },
         {
             "status": "success",
             "country": "Singapore",
             "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
+            "region": "01",
+            "regionName": "Central Singapore",
             "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.35208,
-            "lon": 103.82,
+            "zip": "190464",
+            "lat": 1.3048,
+            "lon": 103.8622,
             "timezone": "Asia/Singapore",
-            "isp": "Akamai Technologies, Inc.",
-            "org": "Linode",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "139.162.44.152",
-            "type": "http",
-            "port": "3128",
-            "response_time": 10.14
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-southeast1)",
+            "as": "AS396982 Google LLC",
+            "query": "34.124.190.108",
+            "type": "socks5",
+            "port": "8080",
+            "response_time": 13.88
         }
     ]
 }
