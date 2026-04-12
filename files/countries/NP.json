@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,16 @@
             "regionName": "Bagmati Province",
             "city": "Patan",
             "zip": "",
-            "lat": 27.6744,
-            "lon": 85.3123,
+            "lat": 27.6729,
+            "lon": 85.3107,
             "timezone": "Asia/Kathmandu",
-            "isp": "WorldLink Communications",
+            "isp": "Subisu Cablenet",
             "org": "",
-            "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "124.41.213.174",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.97
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "110.34.13.4",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.05
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "110.44.115.83",
             "type": "http",
             "port": "8080",
-            "response_time": 6.72
+            "response_time": 10.56
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Patan",
+            "zip": "",
+            "lat": 27.6729,
+            "lon": 85.3107,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Subisu Cablenet",
+            "org": "",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "110.34.1.180",
+            "type": "http",
+            "port": "32650",
+            "response_time": 12.23
         }
     ]
 }
