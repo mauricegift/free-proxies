@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "M",
+            "regionName": "Sk\u00e5ne County",
+            "city": "Malmo",
+            "zip": "200 01",
+            "lat": 55.6078,
+            "lon": 12.9982,
+            "timezone": "Europe/Stockholm",
+            "isp": "TELE2-BROADBAND",
+            "org": "Tele2 AB",
+            "as": "AS1257 Tele2 Sverige AB",
+            "query": "188.150.229.60",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.51
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -10,17 +29,17 @@
             "region": "AB",
             "regionName": "Stockholm County",
             "city": "Stockholm",
-            "zip": "120 63",
-            "lat": 59.3326,
-            "lon": 18.0651,
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Stockholms Stadsnat AB",
-            "org": "Stockholms Stadsnat AB",
-            "as": "AS50821 Bredband2 Stockholms Stadsnaet AB",
-            "query": "46.39.105.157",
+            "isp": "PVDataNet AB",
+            "org": "PVDataNet AB",
+            "as": "AS42201 PVDataNet AB",
+            "query": "193.181.35.106",
             "type": "http",
-            "port": "8080",
-            "response_time": 0.31
+            "port": "8118",
+            "response_time": 4.85
         }
     ]
 }
