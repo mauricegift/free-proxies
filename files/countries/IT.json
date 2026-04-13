@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "San Giovanni Valdarno",
-            "zip": "52027",
-            "lat": 43.5707,
-            "lon": 11.5331,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Bergamo",
+            "zip": "24126",
+            "lat": 45.7049,
+            "lon": 9.6698,
             "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "91.192.25.158",
+            "isp": "Planetel srl",
+            "org": "",
+            "as": "AS47217 Planetel SPA",
+            "query": "46.21.186.252",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 3.6
+            "port": "1080",
+            "response_time": 0.22
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
+            "timezone": "Europe/Rome",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.1
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "Mywic Costumers",
             "org": "",
             "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.41",
+            "query": "185.191.106.0",
             "type": "http",
             "port": "8081",
-            "response_time": 5.11
+            "response_time": 3.93
         }
     ]
 }
