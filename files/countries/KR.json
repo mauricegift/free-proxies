@@ -1,45 +1,26 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "47",
-            "regionName": "Gyeongsangbuk-do",
-            "city": "Chilgok-gun",
-            "zip": "398",
-            "lat": 36.0734,
-            "lon": 128.3934,
-            "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "58.235.170.51",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.46
-        },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.508,
-            "lon": 127.1177,
+            "city": "Seoul",
+            "zip": "045",
+            "lat": 37.5656,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 3.59
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "210.223.44.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.69
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 11.21
+            "response_time": 5.52
         }
     ]
 }
