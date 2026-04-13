@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "Pakistan Telecommuication company limited",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.176.164.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.4
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +39,7 @@
             "query": "115.42.67.186",
             "type": "socks4",
             "port": "56534",
-            "response_time": 2.01
+            "response_time": 7.88
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Rawalpindi",
-            "zip": "04600",
-            "lat": 33.599,
-            "lon": 73.0436,
+            "city": "Multan",
+            "zip": "60000",
+            "lat": 30.1659,
+            "lon": 71.4415,
             "timezone": "Asia/Karachi",
-            "isp": "FASTTEL BROADBAND (PRIVATE) LIMITED",
-            "org": "Gamma Links PVT LTD",
-            "as": "AS150683 FASTTEL BROADBAND (PRIVATE) LIMITED",
-            "query": "103.229.252.67",
+            "isp": "Mian Internet Services (Pvt) Ltd",
+            "org": "MISPL  (Pvt) Ltd",
+            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
+            "query": "103.86.135.34",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 5.22
+            "port": "5678",
+            "response_time": 7.92
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Lahore",
-            "zip": "55110",
-            "lat": 31.558,
-            "lon": 74.3507,
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
             "timezone": "Asia/Karachi",
-            "isp": "Supernet, PDS Limited",
-            "org": "Supernet",
-            "as": "AS24435 Supernet Limited Transit Autonomous System Number",
-            "query": "203.130.23.250",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.76
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.16
         }
     ]
 }
