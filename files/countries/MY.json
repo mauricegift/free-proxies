@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47301",
+            "lat": 3.1071,
+            "lon": 101.6139,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Unifi Home",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "180.72.72.58",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.86
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -10,17 +29,17 @@
             "region": "14",
             "regionName": "Kuala Lumpur",
             "city": "Kuala Lumpur",
-            "zip": "59100",
-            "lat": 3.11613,
-            "lon": 101.666,
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Streamyx",
+            "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "103.1.105.10",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 7.06
+            "query": "175.138.75.137",
+            "type": "http",
+            "port": "8080",
+            "response_time": 16.2
         }
     ]
 }
