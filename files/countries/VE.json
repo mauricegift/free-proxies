@@ -1,7 +1,7 @@
 {
     "countryCode": "VE",
     "country": "Venezuela",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 10.4873,
             "lon": -66.8738,
             "timezone": "America/Caracas",
-            "isp": "Viginet C.A",
-            "org": "",
-            "as": "AS263703 VIGINET C.A",
-            "query": "45.186.208.34",
+            "isp": "Soluciones DCN Network C.A",
+            "org": "Soluciones DCN Network C.A",
+            "as": "AS266742 SOLUCIONES DCN NETWORK C.A",
+            "query": "45.230.169.129",
             "type": "http",
-            "port": "8080",
-            "response_time": 9.75
+            "port": "999",
+            "response_time": 1.93
+        },
+        {
+            "status": "success",
+            "country": "Venezuela",
+            "countryCode": "VE",
+            "region": "A",
+            "regionName": "Distrito Federal",
+            "city": "Caracas",
+            "zip": "",
+            "lat": 10.4873,
+            "lon": -66.8738,
+            "timezone": "America/Caracas",
+            "isp": "Gold Data USA Inc",
+            "org": "Gold Data C.A",
+            "as": "AS394684 GOLD DATA USA INC",
+            "query": "186.96.74.144",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.04
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "38.172.160.160",
             "type": "http",
             "port": "999",
-            "response_time": 12.98
+            "response_time": 7.57
         }
     ]
 }
