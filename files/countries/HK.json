@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 8,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -17,29 +17,10 @@
             "isp": "Alibaba (US) Technology Co., Ltd.",
             "org": "Alibaba.com LLC",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "43.99.54.236",
+            "query": "43.99.54.80",
             "type": "http",
-            "port": "5555",
-            "response_time": 1.2
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "KYT",
-            "regionName": "Yau Tsim Mong District",
-            "city": "Tai Kok Tsui",
-            "zip": "999077",
-            "lat": 22.3242,
-            "lon": 114.163,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "LucidaCloud Limited",
-            "org": "PacketExchange",
-            "as": "AS139659 LUCIDACLOUD LIMITED",
-            "query": "68.64.179.186",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.76
+            "port": "7890",
+            "response_time": 0.93
         },
         {
             "status": "success",
@@ -52,32 +33,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud Information Technology (hk) Limited",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "152.32.132.190",
-            "type": "http",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "43.99.54.80",
+            "type": "socks4",
             "port": "7890",
-            "response_time": 4.43
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western District",
-            "city": "Hong Kong",
-            "zip": "00000",
-            "lat": 22.267,
-            "lon": 114.188,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (eastasia)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "20.205.16.149",
-            "type": "http",
-            "port": "3128",
-            "response_time": 6.41
+            "response_time": 0.93
         },
         {
             "status": "success",
@@ -96,7 +58,26 @@
             "query": "203.196.8.6",
             "type": "http",
             "port": "3128",
-            "response_time": 6.94
+            "response_time": 3.01
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology (hk) Limited",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "152.32.132.190",
+            "type": "http",
+            "port": "7890",
+            "response_time": 3.99
         },
         {
             "status": "success",
@@ -112,29 +93,10 @@
             "isp": "Alibaba (US) Technology Co., Ltd.",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.210.158.189",
-            "type": "socks4",
-            "port": "9065",
-            "response_time": 11.61
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HEA",
-            "regionName": "Eastern District",
-            "city": "Chai Wan",
-            "zip": "",
-            "lat": 22.2678,
-            "lon": 114.236,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "CloudFly Net Inc Pending",
-            "org": "CloudFly Net Inc",
-            "as": "AS135097 LUOGELANG (FRANCE) LIMITED",
-            "query": "154.220.66.6",
-            "type": "socks4",
-            "port": "50048",
-            "response_time": 11.84
+            "query": "8.217.90.107",
+            "type": "http",
+            "port": "22520",
+            "response_time": 8.05
         },
         {
             "status": "success",
@@ -148,12 +110,31 @@
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
             "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "org": "Alibaba.com LLC",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.218.152.184",
+            "query": "43.99.67.68",
+            "type": "http",
+            "port": "59409",
+            "response_time": 10.04
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
             "type": "socks5",
-            "port": "1111",
-            "response_time": 15.32
+            "port": "1080",
+            "response_time": 10.04
         }
     ]
 }
