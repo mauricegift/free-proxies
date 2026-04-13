@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.11",
+            "type": "http",
+            "port": "1976",
+            "response_time": 0.73
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -20,7 +39,7 @@
             "query": "213.131.85.28",
             "type": "http",
             "port": "1976",
-            "response_time": 4.58
+            "response_time": 2.34
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "LINKdotNET AS number",
             "org": "Link Egypt (Link.NET)",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "41.128.72.142",
+            "query": "41.128.72.194",
             "type": "http",
-            "port": "1981",
-            "response_time": 8.97
+            "port": "1976",
+            "response_time": 5.43
         }
     ]
 }
