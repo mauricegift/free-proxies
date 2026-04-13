@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.96
+            "response_time": 5.85
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
+            "type": "http",
+            "port": "8081",
+            "response_time": 6.71
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "5.253.43.103",
             "type": "http",
             "port": "3128",
-            "response_time": 7.95
+            "response_time": 10.91
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
+            "type": "http",
+            "port": "8081",
+            "response_time": 11.27
         }
     ]
 }
