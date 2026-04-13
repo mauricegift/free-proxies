@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "10",
             "regionName": "Selangor",
             "city": "Petaling Jaya",
-            "zip": "47301",
-            "lat": 3.1071,
-            "lon": 101.6139,
+            "zip": "47820",
+            "lat": 3.16459,
+            "lon": 101.613,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "E-world Communication SDN BHD",
+            "org": "E-world Communication SDN BHD",
+            "as": "AS134202 E-WORLD COMMUNICATION SDN BHD",
+            "query": "45.117.228.97",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.34
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50200",
+            "lat": 3.1399,
+            "lon": 101.7009,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Unifi Home",
+            "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "180.72.72.58",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.2
+            "query": "175.139.201.193",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.98
         }
     ]
 }
