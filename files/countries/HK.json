@@ -1,8 +1,46 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western District",
+            "city": "Central",
+            "zip": "96521",
+            "lat": 22.2836,
+            "lon": 114.16,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "PCCW IMSBiz",
+            "org": "Hong Kong Telecommunications (HKT) Limited",
+            "as": "AS4760 HKT Limited",
+            "query": "42.200.125.44",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.54
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.9
+        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -17,10 +55,10 @@
             "isp": "Microsoft Corporation",
             "org": "Microsoft Azure Cloud (eastasia)",
             "as": "AS8075 Microsoft Corporation",
-            "query": "20.2.83.243",
+            "query": "20.205.16.149",
             "type": "http",
             "port": "3128",
-            "response_time": 8.2
+            "response_time": 7.42
         },
         {
             "status": "success",
@@ -33,13 +71,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Yunify Technologies Inc",
-            "org": "Yunify Technologies Inc.",
-            "as": "AS134366 Cloud Computing HK Limited",
-            "query": "139.198.113.42",
+            "isp": "CTHKI",
+            "org": "",
+            "as": "AS23764 CTGNet",
+            "query": "203.196.8.6",
             "type": "http",
-            "port": "10023",
-            "response_time": 8.39
+            "port": "3128",
+            "response_time": 10.4
         },
         {
             "status": "success",
@@ -52,32 +90,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud HK",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "103.210.22.17",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "43.99.67.68",
             "type": "http",
-            "port": "3128",
-            "response_time": 11.0
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "xTom Hong Kong Limited",
-            "org": "Greencloud LLC",
-            "as": "AS9312 xTom",
-            "query": "45.128.220.217",
-            "type": "http",
-            "port": "3128",
-            "response_time": 11.03
+            "port": "59409",
+            "response_time": 18.59
         }
     ]
 }
