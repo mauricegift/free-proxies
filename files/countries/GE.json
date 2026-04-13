@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "77.91.77.220",
             "type": "http",
             "port": "3128",
-            "response_time": 6.61
+            "response_time": 2.47
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Kutaisi",
+            "zip": "",
+            "lat": 42.2648,
+            "lon": 42.7041,
+            "timezone": "Asia/Tbilisi",
+            "isp": "JSC \"Silknet\"",
+            "org": "Silknet Gpon",
+            "as": "AS35805 JSC \"Silknet\"",
+            "query": "31.146.73.192",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.62
         }
     ]
 }
