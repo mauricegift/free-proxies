@@ -1,26 +1,26 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
+            "region": "HCW",
+            "regionName": "Central and Western District",
             "city": "Hong Kong",
-            "zip": "999077",
+            "zip": "",
             "lat": 22.3193,
-            "lon": 114.169,
+            "lon": 114.1693,
             "timezone": "Asia/Hong_Kong",
-            "isp": "WAP.AC LLC",
-            "org": "",
-            "as": "AS401443 WAP.AC LLC",
-            "query": "45.149.92.147",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.96.238.40",
             "type": "http",
-            "port": "5001",
-            "response_time": 3.0
+            "port": "8080",
+            "response_time": 2.23
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "89.251.26.233",
             "type": "socks5",
             "port": "7890",
-            "response_time": 6.83
+            "response_time": 6.65
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western District",
+            "city": "Central",
+            "zip": "96521",
+            "lat": 22.2836,
+            "lon": 114.16,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "PCCW IMSBiz",
+            "org": "Hong Kong Telecommunications (HKT) Limited",
+            "as": "AS4760 HKT Limited",
+            "query": "42.200.125.44",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.9
         },
         {
             "status": "success",
@@ -52,13 +71,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "CTHKI",
-            "org": "",
-            "as": "AS23764 CTGNet",
-            "query": "203.196.8.6",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "43.99.67.68",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.11
+            "port": "59409",
+            "response_time": 10.2
         }
     ]
 }
