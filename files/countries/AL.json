@@ -1,8 +1,27 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Public",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.73.120",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 0.24
+        },
         {
             "status": "success",
             "country": "Albania",
@@ -20,45 +39,7 @@
             "query": "79.106.170.126",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.35
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
-            "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
-            "timezone": "Europe/Tirane",
-            "isp": "Vodafone Albania Sh.A.",
-            "org": "Enterprise",
-            "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.74.8",
-            "type": "socks4",
-            "port": "65530",
-            "response_time": 0.43
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
-            "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
-            "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.33.26",
-            "type": "http",
-            "port": "8079",
-            "response_time": 5.86
+            "response_time": 5.41
         }
     ]
 }
