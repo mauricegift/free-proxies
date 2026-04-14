@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "109.248.236.150",
             "type": "socks4",
             "port": "60606",
-            "response_time": 4.78
+            "response_time": 7.86
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 11.12
+            "response_time": 8.96
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
+            "timezone": "Asia/Almaty",
+            "isp": "PS Internet Company LLP",
+            "org": "Pskz Hosting VPS ALA",
+            "as": "AS48716 PS Internet Company LLP",
+            "query": "46.247.41.149",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.22
         }
     ]
 }
