@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Dalmine",
+            "zip": "24044",
+            "lat": 45.6548,
+            "lon": 9.608,
+            "timezone": "Europe/Rome",
+            "isp": "Planetel srl",
+            "org": "",
+            "as": "AS47217 Planetel SPA",
+            "query": "46.21.186.252",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.37
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.31
+            "response_time": 1.58
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.74
         },
         {
             "status": "success",
@@ -28,18 +66,37 @@
             "countryCode": "IT",
             "region": "25",
             "regionName": "Lombardy",
-            "city": "Gorgonzola",
-            "zip": "20064",
-            "lat": 45.5265,
-            "lon": 9.39564,
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "NTT IS SRL",
+            "isp": "Mywic Costumers",
             "org": "",
-            "as": "AS199785 Cloud Hosting Solutions, Limited.",
-            "query": "92.42.96.84",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
             "type": "http",
-            "port": "3128",
-            "response_time": 3.79
+            "port": "8081",
+            "response_time": 5.43
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Desenzano del Garda",
+            "zip": "25015",
+            "lat": 45.4677,
+            "lon": 10.5383,
+            "timezone": "Europe/Rome",
+            "isp": "Mynet S.R.L.",
+            "org": "Mynet",
+            "as": "AS31263 MYNET S.R.L.",
+            "query": "84.247.236.86",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 5.46
         }
     ]
 }
