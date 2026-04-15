@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "SHR",
+            "regionName": "Sharqia",
+            "city": "Zagazig",
+            "zip": "",
+            "lat": 30.5868,
+            "lon": 31.5026,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat",
+            "org": "",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "62.193.104.28",
+            "type": "http",
+            "port": "1981",
+            "response_time": 5.81
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -14,13 +33,13 @@
             "lat": 30.0046,
             "lon": 31.2044,
             "timezone": "Africa/Cairo",
-            "isp": "TE Data",
+            "isp": "Link Egypt (Link.NET)",
             "org": "",
-            "as": "AS8452 TE-AS",
-            "query": "41.33.245.139",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.10",
             "type": "http",
             "port": "1981",
-            "response_time": 4.8
+            "response_time": 7.87
         }
     ]
 }
