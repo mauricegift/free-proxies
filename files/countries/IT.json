@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,64 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.3
+            "response_time": 0.15
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6329,
-            "lon": 11.6726,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Dalmine",
+            "zip": "24044",
+            "lat": 45.6548,
+            "lon": 9.608,
             "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "185.248.245.119",
+            "isp": "Planetel srl",
+            "org": "",
+            "as": "AS47217 Planetel SPA",
+            "query": "46.21.186.252",
             "type": "socks4",
-            "port": "80",
-            "response_time": 1.75
+            "port": "1080",
+            "response_time": 0.23
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4681,
+            "lon": 9.2011,
+            "timezone": "Europe/Rome",
+            "isp": "Amazon Technologies Inc",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.160.132.166",
+            "type": "http",
+            "port": "20423",
+            "response_time": 0.44
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4681,
+            "lon": 9.2011,
+            "timezone": "Europe/Rome",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.161.59.54",
+            "type": "http",
+            "port": "16331",
+            "response_time": 0.75
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 2.2
+            "response_time": 2.86
         },
         {
             "status": "success",
@@ -77,7 +115,7 @@
             "query": "84.247.236.86",
             "type": "socks4",
             "port": "48293",
-            "response_time": 2.4
+            "response_time": 3.4
         }
     ]
 }
