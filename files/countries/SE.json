@@ -1,27 +1,8 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 6,
+    "count": 9,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "114 25",
-            "lat": 59.3326,
-            "lon": 18.0651,
-            "timezone": "Europe/Stockholm",
-            "isp": "Stockholms Stadsnat AB",
-            "org": "Stockholms Stadsnat AB",
-            "as": "AS50821 Bredband2 Stockholms Stadsnaet AB",
-            "query": "46.39.105.157",
-            "type": "http",
-            "port": "8080",
-            "response_time": 0.31
-        },
         {
             "status": "success",
             "country": "Sweden",
@@ -33,13 +14,13 @@
             "lat": 59.3293,
             "lon": 18.0686,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-north-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.181.61",
+            "query": "13.48.13.125",
             "type": "http",
-            "port": "9002",
-            "response_time": 0.42
+            "port": "10669",
+            "response_time": 0.44
         },
         {
             "status": "success",
@@ -55,10 +36,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-north-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.51.196.44",
+            "query": "13.53.139.178",
             "type": "http",
-            "port": "25516",
-            "response_time": 0.57
+            "port": "3128",
+            "response_time": 0.5
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.60.163.108",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.56
         },
         {
             "status": "success",
@@ -76,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.48.13.125",
             "type": "http",
-            "port": "43682",
-            "response_time": 1.52
+            "port": "9002",
+            "response_time": 0.6
         },
         {
             "status": "success",
@@ -90,13 +90,32 @@
             "lat": 59.3293,
             "lon": 18.0686,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-north-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.218.140",
+            "query": "13.53.139.178",
             "type": "http",
-            "port": "9489",
-            "response_time": 1.61
+            "port": "270",
+            "response_time": 0.73
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.51.196.44",
+            "type": "http",
+            "port": "25285",
+            "response_time": 1.55
         },
         {
             "status": "success",
@@ -115,7 +134,45 @@
             "query": "188.150.229.60",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.41
+            "response_time": 3.26
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.53.139.178",
+            "type": "http",
+            "port": "3129",
+            "response_time": 3.69
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "O",
+            "regionName": "V\u00e4stra G\u00f6taland County",
+            "city": "Gothenburg",
+            "zip": "400 10",
+            "lat": 57.7089,
+            "lon": 11.9746,
+            "timezone": "Europe/Stockholm",
+            "isp": "Telia Company AB",
+            "org": "Telia Network Services",
+            "as": "AS3301 Telia Company AB",
+            "query": "81.228.44.187",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 8.22
         }
     ]
 }
