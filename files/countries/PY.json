@@ -1,8 +1,46 @@
 {
     "countryCode": "PY",
     "country": "Paraguay",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "ASU",
+            "regionName": "Asunci\u00f3n",
+            "city": "Asunci\u00f3n",
+            "zip": "",
+            "lat": -25.2869,
+            "lon": -57.6511,
+            "timezone": "America/Asuncion",
+            "isp": "Telecel S.A.",
+            "org": "Telecel S.A",
+            "as": "AS23201 Telecel S.A.",
+            "query": "200.85.52.254",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "10",
+            "regionName": "Alto Paran\u00e1 Department",
+            "city": "Ciudad del Este",
+            "zip": "",
+            "lat": -25.5036,
+            "lon": -54.6507,
+            "timezone": "America/Asuncion",
+            "isp": "GIG@NET SOCIEDAD ANONIMA",
+            "org": "GigaNET SA",
+            "as": "AS61512 GIG@NET SOCIEDAD ANONIMA",
+            "query": "38.52.135.96",
+            "type": "http",
+            "port": "8181",
+            "response_time": 1.7
+        },
         {
             "status": "success",
             "country": "Paraguay",
@@ -17,10 +55,29 @@
             "isp": "MSW S.A.",
             "org": "Cross Connect Paraguay S.A",
             "as": "AS267885 MSW S.A.",
-            "query": "45.177.16.132",
+            "query": "45.177.16.137",
             "type": "http",
             "port": "999",
-            "response_time": 6.65
+            "response_time": 7.43
+        },
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "ASU",
+            "regionName": "Asunci\u00f3n",
+            "city": "Asunci\u00f3n",
+            "zip": "",
+            "lat": -25.2869,
+            "lon": -57.6511,
+            "timezone": "America/Asuncion",
+            "isp": "Telecel S.A.",
+            "org": "Telecel S.A",
+            "as": "AS23201 Telecel S.A.",
+            "query": "190.128.195.58",
+            "type": "http",
+            "port": "999",
+            "response_time": 11.91
         }
     ]
 }
