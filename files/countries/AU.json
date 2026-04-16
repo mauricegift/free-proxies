@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -26,20 +26,20 @@
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
-            "timezone": "Australia/Sydney",
-            "isp": "ZSCALER, INC.",
-            "org": "Zscaler Sydney",
-            "as": "AS53813 ZSCALER, INC.",
-            "query": "167.103.144.127",
-            "type": "http",
-            "port": "8800",
-            "response_time": 1.63
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
+            "timezone": "Australia/Melbourne",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.49
         },
         {
             "status": "success",
@@ -55,48 +55,10 @@
             "isp": "OVH SAS",
             "org": "OVH Australia PTY LTD",
             "as": "AS16276 OVH SAS",
-            "query": "51.161.197.172",
+            "query": "139.99.238.95",
             "type": "http",
-            "port": "6544",
-            "response_time": 3.26
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.50.210.199",
-            "type": "http",
-            "port": "8438",
-            "response_time": 3.33
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.50.210.199",
-            "type": "http",
-            "port": "15813",
-            "response_time": 3.45
+            "port": "8080",
+            "response_time": 3.58
         },
         {
             "status": "success",
@@ -115,7 +77,26 @@
             "query": "54.206.215.4",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.77
+            "response_time": 8.43
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 10.15
         }
     ]
 }
