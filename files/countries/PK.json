@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "74000",
+            "lat": 24.8591,
+            "lon": 66.9983,
+            "timezone": "Asia/Karachi",
+            "isp": "Connect Communication",
+            "org": "Connect Communication",
+            "as": "AS132165 Connect Communications",
+            "query": "115.42.67.186",
+            "type": "socks4",
+            "port": "56534",
+            "response_time": 2.63
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,26 +39,45 @@
             "query": "103.86.135.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.11
+            "response_time": 2.78
         },
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "IS",
-            "regionName": "Islamabad",
-            "city": "Islamabad",
-            "zip": "44000",
-            "lat": 33.7233,
-            "lon": 73.0435,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Rawalpindi",
+            "zip": "04600",
+            "lat": 33.599,
+            "lon": 73.0436,
             "timezone": "Asia/Karachi",
-            "isp": "Nayatel (Pvt) Ltd",
-            "org": "Nayatel",
-            "as": "AS23674 Nayatel (Pvt) Ltd",
-            "query": "124.109.44.126",
+            "isp": "FASTTEL BROADBAND (PRIVATE) LIMITED",
+            "org": "Gamma Links PVT LTD",
+            "as": "AS150683 FASTTEL BROADBAND (PRIVATE) LIMITED",
+            "query": "103.229.252.67",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 2.14
+            "port": "1080",
+            "response_time": 2.85
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
+            "timezone": "Asia/Karachi",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.44
         }
     ]
 }
