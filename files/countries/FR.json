@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 8,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-3)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.180.75.159",
+            "query": "35.180.127.14",
             "type": "http",
-            "port": "47592",
-            "response_time": 0.38
+            "port": "8052",
+            "response_time": 0.53
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-3)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.38.59.232",
+            "type": "http",
+            "port": "443",
+            "response_time": 0.73
         },
         {
             "status": "success",
@@ -39,64 +58,7 @@
             "query": "185.138.116.150",
             "type": "http",
             "port": "8080",
-            "response_time": 0.98
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "IDF",
-            "regionName": "\u00cele-de-France",
-            "city": "Paris",
-            "zip": "75000",
-            "lat": 48.8566,
-            "lon": 2.35222,
-            "timezone": "Europe/Paris",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-3)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "52.47.115.41",
-            "type": "http",
-            "port": "52305",
-            "response_time": 1.4
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "IDF",
-            "regionName": "\u00cele-de-France",
-            "city": "Paris",
-            "zip": "75000",
-            "lat": 48.8566,
-            "lon": 2.35222,
-            "timezone": "Europe/Paris",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-3)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.180.127.14",
-            "type": "http",
-            "port": "29",
-            "response_time": 3.51
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "GES",
-            "regionName": "Grand Est",
-            "city": "Lauterbourg",
-            "zip": "67630",
-            "lat": 48.9742,
-            "lon": 8.1851,
-            "timezone": "Europe/Paris",
-            "isp": "Contabo GmbH",
-            "org": "Contabo GmbH",
-            "as": "AS51167 Contabo GmbH",
-            "query": "85.208.51.165",
-            "type": "http",
-            "port": "443",
-            "response_time": 7.9
+            "response_time": 0.84
         },
         {
             "status": "success",
@@ -115,7 +77,7 @@
             "query": "85.208.51.165",
             "type": "socks4",
             "port": "443",
-            "response_time": 7.9
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -134,7 +96,7 @@
             "query": "85.208.51.165",
             "type": "socks5",
             "port": "443",
-            "response_time": 7.9
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -150,10 +112,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-3)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.180.127.14",
+            "query": "15.237.108.20",
             "type": "http",
-            "port": "8052",
-            "response_time": 8.33
+            "port": "3129",
+            "response_time": 3.68
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-3)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.36.243.194",
+            "type": "http",
+            "port": "303",
+            "response_time": 3.96
         }
     ]
 }
