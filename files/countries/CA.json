@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,64 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.68
+            "response_time": 1.19
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "AB",
-            "regionName": "Alberta",
-            "city": "Calgary",
-            "zip": "T2R",
-            "lat": 51.05,
-            "lon": -114.0879,
-            "timezone": "America/Edmonton",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.99.164",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
+            "timezone": "America/Toronto",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.181",
             "type": "http",
-            "port": "3129",
-            "response_time": 1.8
+            "port": "8081",
+            "response_time": 1.82
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Mississauga",
+            "zip": "L5J",
+            "lat": 43.5119,
+            "lon": -79.6299,
+            "timezone": "America/Toronto",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
+            "type": "socks4",
+            "port": "50877",
+            "response_time": 2.71
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "BC",
+            "regionName": "British Columbia",
+            "city": "Vancouver",
+            "zip": "V5Z",
+            "lat": 49.2827,
+            "lon": -123.121,
+            "timezone": "America/Vancouver",
+            "isp": "GLOBALTELEHOST Corp.",
+            "org": "Inetcloud",
+            "as": "AS62563 GLOBALTELEHOST Corp.",
+            "query": "193.108.58.29",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.44
         }
     ]
 }
