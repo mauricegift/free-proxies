@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.57
+            "response_time": 1.44
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.148.102",
+            "type": "http",
+            "port": "9999",
+            "response_time": 3.52
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "16.51.148.102",
             "type": "http",
             "port": "39389",
-            "response_time": 3.56
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.253.167.61",
-            "type": "http",
-            "port": "42503",
-            "response_time": 3.7
+            "response_time": 4.06
         },
         {
             "status": "success",
@@ -74,29 +74,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "Hewlett Packard Enterprise Company",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.99.200",
+            "query": "16.26.143.154",
             "type": "http",
-            "port": "80",
-            "response_time": 3.75
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.50.210.199",
-            "type": "http",
-            "port": "8126",
-            "response_time": 3.93
+            "port": "7875",
+            "response_time": 6.32
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "168.138.9.147",
             "type": "socks4",
             "port": "1080",
-            "response_time": 11.8
+            "response_time": 9.4
         }
     ]
 }
