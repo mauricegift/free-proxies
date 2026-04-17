@@ -1,7 +1,7 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "181.78.49.177",
             "type": "http",
             "port": "999",
-            "response_time": 3.04
+            "response_time": 3.56
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "05",
+            "regionName": "Departamento de Escuintla",
+            "city": "La Democracia",
+            "zip": "05003",
+            "lat": 14.2347,
+            "lon": -90.946,
+            "timezone": "America/Guatemala",
+            "isp": "Fibernet S.A",
+            "org": "Fibernet S.A",
+            "as": "AS269989 FIBERNET S.A",
+            "query": "138.117.230.131",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.39
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01009",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Comcel Guatemala S.A.",
+            "org": "Navega.com S.A",
+            "as": "AS23243 COMCEL GUATEMALA S.A.",
+            "query": "148.230.27.77",
+            "type": "http",
+            "port": "999",
+            "response_time": 10.51
         }
     ]
 }
