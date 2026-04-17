@@ -1,8 +1,27 @@
 {
     "countryCode": "PY",
     "country": "Paraguay",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "ASU",
+            "regionName": "Asunci\u00f3n",
+            "city": "Asunci\u00f3n",
+            "zip": "",
+            "lat": -25.2869,
+            "lon": -57.6511,
+            "timezone": "America/Asuncion",
+            "isp": "Ufinet Paraguay S.A",
+            "org": "IFX Networks Argentina S.R.L",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.78.95.40",
+            "type": "http",
+            "port": "999",
+            "response_time": 3.4
+        },
         {
             "status": "success",
             "country": "Paraguay",
@@ -20,7 +39,7 @@
             "query": "38.52.135.96",
             "type": "http",
             "port": "8181",
-            "response_time": 2.67
+            "response_time": 5.06
         },
         {
             "status": "success",
@@ -30,16 +49,35 @@
             "regionName": "Asunci\u00f3n",
             "city": "Asunci\u00f3n",
             "zip": "",
-            "lat": -25.2825,
-            "lon": -57.6379,
+            "lat": -25.2869,
+            "lon": -57.6511,
             "timezone": "America/Asuncion",
-            "isp": "MACHADO BAEZ, NERY JAVIER",
-            "org": "MACHADO BAEZ, NERY JAVIER",
-            "as": "AS270096 MACHADO BAEZ, NERY JAVIER (LOCAL NET PARAGUAY)",
-            "query": "170.245.132.85",
+            "isp": "Ufinet Paraguay S.A",
+            "org": "IFX Networks Argentina S.R.L",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.78.95.32",
             "type": "http",
             "port": "999",
-            "response_time": 5.73
+            "response_time": 6.88
+        },
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "11",
+            "regionName": "Central Department",
+            "city": "Fernando de la Mora",
+            "zip": "",
+            "lat": -25.3386,
+            "lon": -57.5217,
+            "timezone": "America/Asuncion",
+            "isp": "N\u00facleo S.A.",
+            "org": "N\u00facleo S.A",
+            "as": "AS27895 N\u00facleo S.A.",
+            "query": "181.94.197.37",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.2
         }
     ]
 }
