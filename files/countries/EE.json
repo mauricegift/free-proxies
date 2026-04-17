@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 2,
+    "count": 1,
     "proxies": [
         {
             "status": "success",
@@ -18,28 +18,9 @@
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
             "query": "147.45.60.34",
-            "type": "socks4",
+            "type": "http",
             "port": "1082",
-            "response_time": 0.48
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "45",
-            "regionName": "Ida-Virumaa",
-            "city": "Narva",
-            "zip": "29022",
-            "lat": 59.3614,
-            "lon": 28.1921,
-            "timezone": "Europe/Tallinn",
-            "isp": "RJ Network OU",
-            "org": "OU Web Hosting Solutions",
-            "as": "AS202759 RJ Network OU",
-            "query": "185.155.98.48",
-            "type": "socks4",
-            "port": "9000",
-            "response_time": 11.34
+            "response_time": 8.52
         }
     ]
 }
