@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Dalmine",
+            "zip": "24044",
+            "lat": 45.6548,
+            "lon": 9.608,
+            "timezone": "Europe/Rome",
+            "isp": "Planetel srl",
+            "org": "",
+            "as": "AS47217 Planetel SPA",
+            "query": "46.21.186.252",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.24
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.43
+            "response_time": 1.28
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "15.161.131.175",
             "type": "http",
             "port": "3129",
-            "response_time": 0.69
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 2.18
+            "response_time": 3.83
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Bronte",
+            "zip": "95034",
+            "lat": 37.7891,
+            "lon": 14.8293,
+            "timezone": "Europe/Rome",
+            "isp": "Wicomm SRLS",
+            "org": "Wicomm SRLS",
+            "as": "AS212696 Wicomm SRLS",
+            "query": "185.195.129.116",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.61
         }
     ]
 }
