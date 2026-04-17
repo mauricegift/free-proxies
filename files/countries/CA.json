@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 4,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "timezone": "America/Toronto",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "3.99.169.21",
+            "type": "http",
+            "port": "881",
+            "response_time": 1.1
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,7 +39,26 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.19
+            "response_time": 1.64
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2R",
+            "lat": 51.05,
+            "lon": -114.0879,
+            "timezone": "America/Edmonton",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "40.177.99.164",
+            "type": "http",
+            "port": "3129",
+            "response_time": 2.83
         },
         {
             "status": "success",
@@ -29,36 +67,17 @@
             "region": "ON",
             "regionName": "Ontario",
             "city": "Toronto",
-            "zip": "M3C",
-            "lat": 43.7338,
-            "lon": -79.3325,
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
             "timezone": "America/Toronto",
-            "isp": "BrainStorm Network, Inc",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "185.196.61.181",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "3.99.169.21",
             "type": "http",
-            "port": "8081",
-            "response_time": 1.82
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Mississauga",
-            "zip": "L5J",
-            "lat": 43.5119,
-            "lon": -79.6299,
-            "timezone": "America/Toronto",
-            "isp": "Ontario Inc.",
-            "org": "UNIXCHOSTING.COM",
-            "as": "AS40028 1651884 Ontario Inc.",
-            "query": "192.158.15.201",
-            "type": "socks4",
-            "port": "50877",
-            "response_time": 2.71
+            "port": "7264",
+            "response_time": 3.24
         },
         {
             "status": "success",
@@ -77,7 +96,26 @@
             "query": "193.108.58.29",
             "type": "socks4",
             "port": "1080",
-            "response_time": 9.44
+            "response_time": 4.27
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2R",
+            "lat": 51.05,
+            "lon": -114.0879,
+            "timezone": "America/Edmonton",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "40.177.211.224",
+            "type": "http",
+            "port": "25879",
+            "response_time": 5.34
         }
     ]
 }
