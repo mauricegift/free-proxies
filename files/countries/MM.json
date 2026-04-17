@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "AGB Communication Co., Ltd",
+            "org": "AGB Communication Co., Ltd",
+            "as": "AS134739 AGB Communication Co., Ltd",
+            "query": "103.200.135.228",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.23
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -17,10 +36,10 @@
             "isp": "Shwe Mahar MAE Khong Industrial Company Limited",
             "org": "Shwe Mahar MAE Khong Industrial Company Limited",
             "as": "AS140091 SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED",
-            "query": "103.153.202.215",
+            "query": "103.153.202.0",
             "type": "http",
             "port": "8181",
-            "response_time": 4.1
+            "response_time": 11.49
         }
     ]
 }
