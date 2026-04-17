@@ -1,8 +1,27 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "5",
+            "regionName": "Salzburg",
+            "city": "Rauris",
+            "zip": "5661",
+            "lat": 47.2241,
+            "lon": 12.9991,
+            "timezone": "Europe/Vienna",
+            "isp": "SALZBURG AG fur Energie, Verkehr und Telekommunikation",
+            "org": "Salzburg AG",
+            "as": "AS8445 SALZBURG AG fur Energie, Verkehr und Telekommunikation",
+            "query": "89.26.83.25",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.73
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -20,7 +39,7 @@
             "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.26
+            "response_time": 8.53
         }
     ]
 }
