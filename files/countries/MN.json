@@ -1,7 +1,7 @@
 {
     "countryCode": "MN",
     "country": "Mongolia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Ulaanbaatar",
             "city": "Ulan Bator",
             "zip": "",
-            "lat": 47.9094,
-            "lon": 106.8819,
+            "lat": 48.0216,
+            "lon": 106.887,
             "timezone": "Asia/Ulaanbaatar",
-            "isp": "Mongolia Telecom",
-            "org": "MTC Network",
-            "as": "AS9934 Mongolia Telecom",
-            "query": "202.179.13.161",
-            "type": "http",
-            "port": "443",
-            "response_time": 8.16
+            "isp": "Topica Co., Ltd",
+            "org": "Topica Co., Ltd",
+            "as": "AS10109 Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia",
+            "query": "119.40.98.27",
+            "type": "socks4",
+            "port": "8069",
+            "response_time": 0.99
+        },
+        {
+            "status": "success",
+            "country": "Mongolia",
+            "countryCode": "MN",
+            "region": "1",
+            "regionName": "Ulaanbaatar",
+            "city": "Ulan Bator",
+            "zip": "",
+            "lat": 48.0216,
+            "lon": 106.887,
+            "timezone": "Asia/Ulaanbaatar",
+            "isp": "Topica Co., Ltd",
+            "org": "Topica Co., Ltd",
+            "as": "AS10109 Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia",
+            "query": "119.40.98.29",
+            "type": "socks4",
+            "port": "8069",
+            "response_time": 1.54
         }
     ]
 }
