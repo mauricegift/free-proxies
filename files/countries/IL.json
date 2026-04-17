@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "51.17.5.6",
             "type": "http",
             "port": "4316",
-            "response_time": 1.14
+            "response_time": 1.95
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "",
+            "regionName": "Judea and Samaria Area",
+            "city": "Dolev",
+            "zip": "",
+            "lat": 31.9147,
+            "lon": 35.2068,
+            "timezone": "Asia/Hebron",
+            "isp": "BNET network",
+            "org": "BCI Telecommunication & Advanced Technology Company",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.73",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.74
         }
     ]
 }
