@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,48 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon.com, Inc.",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.62.123.236",
+            "query": "16.62.127.160",
             "type": "http",
-            "port": "6437",
-            "response_time": 3.7
+            "port": "56245",
+            "response_time": 0.85
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon.com, Inc.",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.62.229.137",
+            "type": "http",
+            "port": "41511",
+            "response_time": 1.42
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon.com, Inc.",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.18.37.186",
+            "type": "http",
+            "port": "31134",
+            "response_time": 3.44
         }
     ]
 }
