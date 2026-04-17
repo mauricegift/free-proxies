@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 7,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "AB",
             "regionName": "Stockholm",
             "city": "Stockholm",
-            "zip": "100 05",
+            "zip": "",
             "lat": 59.3293,
-            "lon": 18.0686,
+            "lon": 18.0685,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.163.108",
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "83.219.250.8",
             "type": "http",
-            "port": "3129",
-            "response_time": 0.51
+            "port": "62920",
+            "response_time": 0.22
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "",
+            "lat": 59.3293,
+            "lon": 18.0685,
+            "timezone": "Europe/Stockholm",
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "83.219.250.8",
+            "type": "socks4",
+            "port": "62920",
+            "response_time": 0.22
         },
         {
             "status": "success",
@@ -38,8 +57,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.60.181.61",
             "type": "http",
-            "port": "3129",
-            "response_time": 0.52
+            "port": "58080",
+            "response_time": 0.44
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "13.51.196.44",
             "type": "http",
             "port": "43817",
-            "response_time": 0.86
+            "response_time": 0.58
         },
         {
             "status": "success",
@@ -76,8 +95,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.48.13.125",
             "type": "http",
-            "port": "42007",
-            "response_time": 1.0
+            "port": "18104",
+            "response_time": 0.92
         },
         {
             "status": "success",
@@ -90,13 +109,13 @@
             "lat": 59.3293,
             "lon": 18.0686,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-north-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.181.61",
+            "query": "13.53.139.178",
             "type": "http",
-            "port": "52612",
-            "response_time": 1.55
+            "port": "443",
+            "response_time": 0.93
         },
         {
             "status": "success",
@@ -109,32 +128,32 @@
             "lat": 59.3293,
             "lon": 18.0686,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-north-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.181.61",
+            "query": "13.51.196.44",
             "type": "http",
-            "port": "9002",
-            "response_time": 1.8
+            "port": "41038",
+            "response_time": 0.98
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
-            "region": "O",
-            "regionName": "V\u00e4stra G\u00f6taland County",
-            "city": "Gothenburg",
-            "zip": "400 10",
-            "lat": 57.7089,
-            "lon": 11.9746,
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Telia Company AB",
-            "org": "Telia Network Services",
-            "as": "AS3301 Telia Company AB",
-            "query": "81.228.44.187",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.231.26",
             "type": "socks4",
-            "port": "65530",
-            "response_time": 4.37
+            "port": "1080",
+            "response_time": 7.64
         }
     ]
 }
