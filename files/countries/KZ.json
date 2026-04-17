@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,16 @@
             "regionName": "Almaty",
             "city": "Almaty",
             "zip": "050000",
-            "lat": 43.2525,
-            "lon": 76.9115,
+            "lat": 43.2514,
+            "lon": 76.9554,
             "timezone": "Asia/Almaty",
-            "isp": "Kcell JSC",
-            "org": "\"KCell\" JSC",
-            "as": "AS29355 Kcell JSC",
-            "query": "2.78.60.10",
+            "isp": "\"Cloud Services Kazakhstan\" LLP",
+            "org": "\"Cloud Services Kazakhstan\" LLP",
+            "as": "AS208795 Cloud Services Kazakhstan LLP",
+            "query": "94.131.93.238",
             "type": "http",
-            "port": "3129",
-            "response_time": 3.66
+            "port": "3128",
+            "response_time": 0.95
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "176.12.78.141",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.63
+            "response_time": 1.78
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Kcell JSC",
+            "org": "\"KCell\" JSC",
+            "as": "AS29355 Kcell JSC",
+            "query": "2.78.60.10",
+            "type": "http",
+            "port": "3129",
+            "response_time": 3.91
         }
     ]
 }
