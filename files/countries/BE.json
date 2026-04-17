@@ -1,7 +1,7 @@
 {
     "countryCode": "BE",
     "country": "Belgium",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "109.135.16.145",
             "type": "socks4",
             "port": "49879",
-            "response_time": 1.8
+            "response_time": 0.68
+        },
+        {
+            "status": "success",
+            "country": "Belgium",
+            "countryCode": "BE",
+            "region": "BRU",
+            "regionName": "Brussels Capital",
+            "city": "Brussels",
+            "zip": "1012",
+            "lat": 50.8534,
+            "lon": 4.347,
+            "timezone": "Europe/Brussels",
+            "isp": "Powerhouse Management, Inc.",
+            "org": "Unus, Inc.",
+            "as": "AS22363 Powerhouse Management, Inc.",
+            "query": "128.90.145.211",
+            "type": "http",
+            "port": "8118",
+            "response_time": 0.98
         }
     ]
 }
