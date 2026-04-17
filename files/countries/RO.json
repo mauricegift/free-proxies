@@ -1,26 +1,45 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "IF",
-            "regionName": "Ilfov",
-            "city": "Pantelimon",
-            "zip": "077145",
-            "lat": 44.4474,
-            "lon": 26.2044,
+            "region": "CJ",
+            "regionName": "Cluj County",
+            "city": "Cluj-Napoca",
+            "zip": "400002",
+            "lat": 46.7656,
+            "lon": 23.5945,
+            "timezone": "Europe/Bucharest",
+            "isp": "Romtelecom",
+            "org": "",
+            "as": "AS9050 Orange Romania S.A.",
+            "query": "92.86.207.198",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.91
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "SB",
+            "regionName": "Sibiu County",
+            "city": "C\u00e2r\u0163i\u015foara",
+            "zip": "557075",
+            "lat": 45.7167,
+            "lon": 24.5833,
             "timezone": "Europe/Bucharest",
             "isp": "Vodafone RO",
-            "org": "Vodafone Romania S.A.",
+            "org": "MobiFon S.A.",
             "as": "AS12302 Vodafone Romania S.A.",
-            "query": "81.12.169.254",
+            "query": "81.12.157.98",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 3.46
+            "port": "5678",
+            "response_time": 3.39
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "81.18.90.43",
             "type": "socks4",
             "port": "4153",
-            "response_time": 7.43
+            "response_time": 7.67
         }
     ]
 }
