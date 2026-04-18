@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 7,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.09
+            "response_time": 3.81
         },
         {
             "status": "success",
@@ -36,67 +36,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.239.120.120",
+            "query": "3.25.130.31",
             "type": "http",
-            "port": "10573",
-            "response_time": 3.28
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
-            "timezone": "Australia/Sydney",
-            "isp": "OVH SAS",
-            "org": "OVH Australia PTY LTD",
-            "as": "AS16276 OVH SAS",
-            "query": "51.161.197.172",
-            "type": "http",
-            "port": "6544",
-            "response_time": 3.34
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.239.120.120",
-            "type": "http",
-            "port": "906",
-            "response_time": 3.36
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon Corporate Services Pty Ltd, Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.79.125.20",
-            "type": "http",
-            "port": "14525",
-            "response_time": 3.62
+            "port": "54177",
+            "response_time": 6.94
         },
         {
             "status": "success",
@@ -112,10 +55,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.206.129.120",
-            "type": "http",
-            "port": "58291",
-            "response_time": 4.24
+            "query": "54.206.215.4",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.03
         },
         {
             "status": "success",
@@ -124,17 +67,17 @@
             "region": "VIC",
             "regionName": "Victoria",
             "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
             "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.143.154",
-            "type": "http",
-            "port": "57979",
-            "response_time": 4.77
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.64
         }
     ]
 }
