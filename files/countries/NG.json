@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.52438,
+            "lon": 3.37921,
+            "timezone": "Africa/Lagos",
+            "isp": "Accelon",
+            "org": "Krestal Laurel",
+            "as": "AS30988 IS InternetSolutions Limited",
+            "query": "197.156.240.66",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.12
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -15,12 +34,12 @@
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
             "isp": "Main one Cable Company Nigeria Limited",
-            "org": "Visual ICT",
+            "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.17.106",
+            "query": "154.113.172.58",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.02
+            "response_time": 4.08
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "169.239.236.201",
             "type": "socks4",
             "port": "10801",
-            "response_time": 4.45
+            "response_time": 5.5
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "Visual ICT",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.17.107",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.81
         }
     ]
 }
