@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "93.85.87.50",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.01
+            "response_time": 1.4
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "93.85.87.50",
             "type": "http",
             "port": "3128",
-            "response_time": 6.59
+            "response_time": 8.69
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220056",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "AI PI DI Group",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "82.209.251.53",
+            "type": "http",
+            "port": "45678",
+            "response_time": 11.6
         }
     ]
 }
