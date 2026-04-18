@@ -1,8 +1,46 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60000",
+            "lat": 30.1659,
+            "lon": 71.4415,
+            "timezone": "Asia/Karachi",
+            "isp": "Mian Internet Services (Pvt) Ltd",
+            "org": "MISPL  (Pvt) Ltd",
+            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
+            "query": "103.86.135.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.32
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "74000",
+            "lat": 24.8591,
+            "lon": 66.9983,
+            "timezone": "Asia/Karachi",
+            "isp": "Connect Communication",
+            "org": "Connect Communication",
+            "as": "AS132165 Connect Communications",
+            "query": "115.42.67.186",
+            "type": "socks4",
+            "port": "56534",
+            "response_time": 2.67
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +58,7 @@
             "query": "110.93.206.62",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.0
+            "response_time": 5.7
         },
         {
             "status": "success",
@@ -29,36 +67,17 @@
             "region": "PB",
             "regionName": "Punjab",
             "city": "Lahore",
-            "zip": "54000",
-            "lat": 31.5826,
-            "lon": 74.3276,
+            "zip": "54760",
+            "lat": 31.4758,
+            "lon": 74.3069,
             "timezone": "Asia/Karachi",
-            "isp": "Optix Pakistan (Pvt.) Limited",
-            "org": "Optix Pakistan (Pvt.) Limited",
-            "as": "AS136384 Optix Pakistan (Pvt.) Limited",
-            "query": "202.165.232.238",
+            "isp": "Netsol Technologies Limited",
+            "org": "Netsol Technologies Limited",
+            "as": "AS17539 NetSol Connect",
+            "query": "103.197.47.42",
             "type": "http",
             "port": "8080",
-            "response_time": 5.77
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75300",
-            "lat": 24.8782,
-            "lon": 67.0666,
-            "timezone": "Asia/Karachi",
-            "isp": "Satcomm",
-            "org": "M.C.R Private Limited",
-            "as": "AS38713 Broadband ISP, FTTH and Cable Service Provider",
-            "query": "103.205.178.226",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.86
+            "response_time": 5.97
         }
     ]
 }
