@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "ab stract",
+            "org": "ab stract",
+            "as": "AS39287 Materialism s.r.l.",
+            "query": "80.78.24.147",
+            "type": "socks4",
+            "port": "9065",
+            "response_time": 2.27
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,7 @@
             "query": "188.150.229.60",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.5
+            "response_time": 2.47
         }
     ]
 }
