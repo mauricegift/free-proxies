@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "39",
+            "regionName": "Qostanay Oblysy",
+            "city": "Kostanay",
+            "zip": "",
+            "lat": 53.2123,
+            "lon": 63.6281,
+            "timezone": "Asia/Qostanay",
+            "isp": "Uplink LLC",
+            "org": "Uplink LLC",
+            "as": "AS8200 Uplink LLC",
+            "query": "109.248.236.150",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 2.1
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +39,7 @@
             "query": "176.12.78.141",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.35
+            "response_time": 4.76
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 4.98
+            "response_time": 4.86
         },
         {
             "status": "success",
@@ -52,13 +71,13 @@
             "lat": 51.1876,
             "lon": 71.4491,
             "timezone": "Asia/Almaty",
-            "isp": "Kar-Tel LLC",
-            "org": "2DAY Telecom LLP",
-            "as": "AS21299 Kar-Tel LLC",
-            "query": "91.244.106.26",
-            "type": "socks4",
-            "port": "1090",
-            "response_time": 8.05
+            "isp": "JSC \"KazTransCom\"",
+            "org": "UCC LLP",
+            "as": "AS35104 Jusan Mobile JSC",
+            "query": "77.245.99.163",
+            "type": "http",
+            "port": "81",
+            "response_time": 6.12
         }
     ]
 }
