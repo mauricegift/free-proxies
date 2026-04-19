@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "PH",
+            "regionName": "Prahova",
+            "city": "Sinaia",
+            "zip": "106100",
+            "lat": 45.3492,
+            "lon": 25.5554,
+            "timezone": "Europe/Bucharest",
+            "isp": "Romtelecom",
+            "org": "",
+            "as": "AS9050 Orange Romania S.A.",
+            "query": "92.86.92.126",
+            "type": "socks4",
+            "port": "42740",
+            "response_time": 5.55
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +39,26 @@
             "query": "81.12.157.98",
             "type": "socks4",
             "port": "5678",
-            "response_time": 10.01
+            "response_time": 7.91
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucure\u0219ti",
+            "city": "Bucharest",
+            "zip": "052829",
+            "lat": 44.4268,
+            "lon": 26.1025,
+            "timezone": "Europe/Bucharest",
+            "isp": "Mondo-Byte SRL",
+            "org": "Mondo-Byte SRL",
+            "as": "AS39277 Mondo-Byte SRL",
+            "query": "194.117.230.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.86
         }
     ]
 }
