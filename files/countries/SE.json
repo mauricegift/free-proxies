@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "M",
+            "regionName": "Sk\u00e5ne County",
+            "city": "Malmo",
+            "zip": "211 42",
+            "lat": 55.6078,
+            "lon": 12.9982,
+            "timezone": "Europe/Stockholm",
+            "isp": "TELE2-BROADBAND",
+            "org": "Tele2 AB",
+            "as": "AS1257 Tele2 Sverige AB",
+            "query": "188.150.229.60",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.38
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,26 @@
             "query": "129.151.198.68",
             "type": "socks5",
             "port": "1111",
-            "response_time": 0.29
+            "response_time": 1.67
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.231.26",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.56
         }
     ]
 }
