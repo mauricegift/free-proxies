@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Harjumaa",
             "city": "Tallinn",
             "zip": "",
-            "lat": 59.437,
-            "lon": 24.7536,
+            "lat": 59.4381,
+            "lon": 24.7369,
             "timezone": "Europe/Tallinn",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.60.34",
+            "isp": "Aktsiaselts WaveCom",
+            "org": "3NT SOLUTIONS LLP",
+            "as": "AS34702 Aktsiaselts WaveCom",
+            "query": "38.180.44.151",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.25
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "37",
+            "regionName": "Harjumaa",
+            "city": "Tallinn",
+            "zip": "",
+            "lat": 59.4381,
+            "lon": 24.7369,
+            "timezone": "Europe/Tallinn",
+            "isp": "OC NETWORKS LIMITED",
+            "org": "1Cent Host",
+            "as": "AS209693 OC NETWORKS LIMITED",
+            "query": "95.85.242.7",
             "type": "socks4",
-            "port": "1082",
-            "response_time": 3.4
+            "port": "9050",
+            "response_time": 7.4
         },
         {
             "status": "success",
@@ -37,9 +56,9 @@
             "org": "OU Web Hosting Solutions",
             "as": "AS202759 RJ Network OU",
             "query": "185.155.98.48",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9000",
-            "response_time": 5.58
+            "response_time": 9.78
         }
     ]
 }
