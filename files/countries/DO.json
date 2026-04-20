@@ -1,8 +1,46 @@
 {
     "countryCode": "DO",
     "country": "Dominican Republic",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Dominican Republic",
+            "countryCode": "DO",
+            "region": "18",
+            "regionName": "Puerto Plata",
+            "city": "Puerto Plata",
+            "zip": "53000",
+            "lat": 19.451,
+            "lon": -70.6894,
+            "timezone": "America/Santo_Domingo",
+            "isp": "Visnetwork SRL",
+            "org": "Peniel Wilfi S.R.L",
+            "as": "AS64134 VISNETWORK SRL",
+            "query": "38.156.23.30",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.15
+        },
+        {
+            "status": "success",
+            "country": "Dominican Republic",
+            "countryCode": "DO",
+            "region": "25",
+            "regionName": "Santiago Province",
+            "city": "Santiago de los Caballeros",
+            "zip": "51000",
+            "lat": 19.451,
+            "lon": -70.6894,
+            "timezone": "America/Santo_Domingo",
+            "isp": "Jose Digital Media Dominicana SRL",
+            "org": "Jose Digital Media Dominicana SRL",
+            "as": "AS269908 JOSE DIGITAL MEDIA DOMINICANA SRL",
+            "query": "190.93.189.142",
+            "type": "http",
+            "port": "999",
+            "response_time": 8.97
+        },
         {
             "status": "success",
             "country": "Dominican Republic",
@@ -17,29 +55,10 @@
             "isp": "TELECABLE DOMINICANO, S.A.",
             "org": "Telecable Dominicano S.A",
             "as": "AS272112 TELECABLE DOMINICANO, S.A.",
-            "query": "38.52.222.77",
+            "query": "38.52.222.227",
             "type": "http",
             "port": "999",
-            "response_time": 8.72
-        },
-        {
-            "status": "success",
-            "country": "Dominican Republic",
-            "countryCode": "DO",
-            "region": "24",
-            "regionName": "Provincia S\u00e1nchez Ram\u00edrez",
-            "city": "Fantino",
-            "zip": "10702",
-            "lat": 19.1215,
-            "lon": -70.2997,
-            "timezone": "America/Santo_Domingo",
-            "isp": "REYNOSO, S.R.L.",
-            "org": "REYNOSO, S.R.L",
-            "as": "AS272083 REYNOSO, S.R.L.",
-            "query": "38.188.247.12",
-            "type": "http",
-            "port": "999",
-            "response_time": 11.27
+            "response_time": 14.07
         }
     ]
 }
