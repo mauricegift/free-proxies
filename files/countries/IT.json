@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.78
+            "response_time": 1.88
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.78
+            "response_time": 1.88
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6358,
+            "lon": 11.6746,
+            "timezone": "Europe/Rome",
+            "isp": "NGI",
+            "org": "NGI Spa",
+            "as": "AS35612 EOLO S.p.A.",
+            "query": "78.134.20.48",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.37
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6329,
+            "lon": 11.6726,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "185.248.245.119",
+            "type": "socks4",
+            "port": "80",
+            "response_time": 4.54
         },
         {
             "status": "success",
@@ -47,18 +85,18 @@
             "countryCode": "IT",
             "region": "25",
             "regionName": "Lombardy",
-            "city": "Gorgonzola",
-            "zip": "20064",
-            "lat": 45.5265,
-            "lon": 9.39564,
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "NTT IS SRL",
+            "isp": "Mywic Costumers",
             "org": "",
-            "as": "AS199785 Cloud Hosting Solutions, Limited.",
-            "query": "92.42.96.84",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.83
+            "port": "8081",
+            "response_time": 12.15
         }
     ]
 }
