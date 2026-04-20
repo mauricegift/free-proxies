@@ -1,7 +1,7 @@
 {
     "countryCode": "MD",
     "country": "Moldova",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 47.0042,
             "lon": 28.8574,
             "timezone": "Europe/Chisinau",
-            "isp": "Alexhost SRL",
+            "isp": "AVA HOST SRL",
             "org": "Alexhost SRL",
-            "as": "AS200019 ALEXHOST SRL",
-            "query": "146.19.213.93",
-            "type": "http",
-            "port": "3128",
-            "response_time": 0.35
+            "as": "AS48753 AVA HOST SRL",
+            "query": "193.84.71.242",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.22
+        },
+        {
+            "status": "success",
+            "country": "Moldova",
+            "countryCode": "MD",
+            "region": "CU",
+            "regionName": "Chi\u0219in\u0103u Municipality",
+            "city": "Chisinau",
+            "zip": "MD-2000",
+            "lat": 47.0042,
+            "lon": 28.8574,
+            "timezone": "Europe/Chisinau",
+            "isp": "AVA HOST SRL",
+            "org": "Alexhost SRL",
+            "as": "AS48753 AVA HOST SRL",
+            "query": "193.84.71.242",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 5.22
         }
     ]
 }
