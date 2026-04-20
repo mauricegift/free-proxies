@@ -1,8 +1,27 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "PAS",
+            "regionName": "Pasco",
+            "city": "Oxapampa",
+            "zip": "",
+            "lat": -10.5775,
+            "lon": -75.4017,
+            "timezone": "America/Lima",
+            "isp": "Telcom Mikrotik Peru S.A.C",
+            "org": "Telcom Mikrotik Peru S.A.C",
+            "as": "AS273000 TELCOM MIKROTIK PERU S.A.C.",
+            "query": "38.252.213.59",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.94
+        },
         {
             "status": "success",
             "country": "Peru",
@@ -10,17 +29,36 @@
             "region": "LMA",
             "regionName": "Lima",
             "city": "Lima",
-            "zip": "",
+            "zip": "01",
             "lat": -12.0463,
             "lon": -77.0427,
             "timezone": "America/Lima",
-            "isp": "NET WIN PERU",
-            "org": "NET WIN PERU",
-            "as": "AS271842 M & B Soluciones Peru S.A.C. (FASTNET)",
-            "query": "138.99.176.138",
+            "isp": "FICOM TELECOMUNICACIONES",
+            "org": "FICOM TELECOMUNICACIONES",
+            "as": "AS266771 MAKRONET CONSULTING TECNOLOGIA E INFORMATICA LIMITADA",
+            "query": "45.166.72.35",
             "type": "http",
             "port": "999",
-            "response_time": 2.69
+            "response_time": 6.47
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "ARE",
+            "regionName": "Arequipa",
+            "city": "Arequipa",
+            "zip": "",
+            "lat": -16.4014,
+            "lon": -71.5343,
+            "timezone": "America/Lima",
+            "isp": "Fiberred SAC",
+            "org": "Cogent Communications",
+            "as": "AS272838 FIBERRED SAC",
+            "query": "38.158.83.193",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.6
         }
     ]
 }
