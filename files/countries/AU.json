@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2140",
-            "lat": -33.8697,
-            "lon": 151.0827,
-            "timezone": "Australia/Sydney",
-            "isp": "iiNet Limited",
-            "org": "iiNet Limited",
-            "as": "AS4739 Internode Pty Ltd",
-            "query": "203.206.235.153",
-            "type": "socks4",
-            "port": "50042",
-            "response_time": 1.6
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.82
+            "response_time": 1.9
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.82
+            "response_time": 1.9
         },
         {
             "status": "success",
@@ -77,7 +58,7 @@
             "query": "170.64.170.204",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.83
+            "response_time": 2.09
         },
         {
             "status": "success",
@@ -96,7 +77,45 @@
             "query": "54.206.215.4",
             "type": "socks5",
             "port": "1080",
-            "response_time": 10.16
+            "response_time": 4.75
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 7.89
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
+            "timezone": "Australia/Melbourne",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.42
         }
     ]
 }
