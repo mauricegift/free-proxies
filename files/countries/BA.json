@@ -1,7 +1,7 @@
 {
     "countryCode": "BA",
     "country": "Bosnia and Herzegovina",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "80.65.80.230",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.46
+            "response_time": 1.1
+        },
+        {
+            "status": "success",
+            "country": "Bosnia and Herzegovina",
+            "countryCode": "BA",
+            "region": "BIH",
+            "regionName": "Federation of Bosnia and Herzegovina",
+            "city": "Mostar",
+            "zip": "",
+            "lat": 43.3426,
+            "lon": 17.811,
+            "timezone": "Europe/Sarajevo",
+            "isp": "JP HT d.d. Mostar",
+            "org": "Htnet",
+            "as": "AS20875 JP HT d.d. Mostar",
+            "query": "212.39.114.139",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.92
         }
     ]
 }
