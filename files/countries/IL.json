@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "129.159.152.152",
             "type": "socks4",
             "port": "6666",
-            "response_time": 1.52
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "JM",
-            "regionName": "Jerusalem",
-            "city": "Jerusalem",
-            "zip": "",
-            "lat": 31.7674,
-            "lon": 35.2186,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "129.159.152.152",
-            "type": "socks5",
-            "port": "6666",
-            "response_time": 1.52
+            "response_time": 1.27
         },
         {
             "status": "success",
@@ -58,26 +39,26 @@
             "query": "93.184.4.254",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.86
+            "response_time": 5.89
         },
         {
             "status": "success",
             "country": "Israel",
             "countryCode": "IL",
-            "region": "",
-            "regionName": "Judea and Samaria Area",
-            "city": "Dolev",
+            "region": "JM",
+            "regionName": "Jerusalem",
+            "city": "Jerusalem",
             "zip": "",
-            "lat": 31.9147,
-            "lon": 35.2068,
-            "timezone": "Asia/Hebron",
-            "isp": "BNET network",
-            "org": "BCI Telecommunication & Advanced Technology Company",
-            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.73",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.36
+            "lat": 31.7674,
+            "lon": 35.2186,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.159.159.78",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.58
         }
     ]
 }
