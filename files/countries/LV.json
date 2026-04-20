@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "94.158.219.111",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.26
+            "response_time": 1.79
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "088",
+            "regionName": "Saldus novads",
+            "city": "Saldus",
+            "zip": "LV-3801",
+            "lat": 56.6683,
+            "lon": 22.4999,
+            "timezone": "Europe/Riga",
+            "isp": "DNET ITRisinajumi Ltd.",
+            "org": "Sia Nano IT",
+            "as": "AS42099 SIA NETVISION",
+            "query": "31.170.19.5",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.04
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "159.148.146.65",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.92
+            "response_time": 6.14
         }
     ]
 }
