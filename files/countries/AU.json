@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.84
+            "response_time": 1.94
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.84
+            "response_time": 1.94
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "170.64.170.204",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.89
+            "response_time": 2.56
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "North Sydney",
+            "zip": "2060",
+            "lat": -33.8401,
+            "lon": 151.209,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.209.6",
+            "type": "http",
+            "port": "6534",
+            "response_time": 4.16
         }
     ]
 }
