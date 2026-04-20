@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,7 @@
             "query": "197.156.240.66",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.1
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lekki",
-            "zip": "",
-            "lat": 6.43457,
-            "lon": 3.49209,
-            "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
-            "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.193.46",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.09
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Eti-Osa",
-            "zip": "",
-            "lat": 6.53094,
-            "lon": 3.32648,
-            "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
-            "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.201.234",
-            "type": "socks4",
-            "port": "32639",
-            "response_time": 6.24
+            "response_time": 1.97
         },
         {
             "status": "success",
@@ -71,13 +33,32 @@
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "GLO",
-            "org": "",
-            "as": "AS37148 Globacom Limited",
-            "query": "41.203.76.166",
+            "isp": "Airtel Networks Limited",
+            "org": "Airtel Networks Limited",
+            "as": "AS36873 Airtel Networks Limited",
+            "query": "105.113.48.162",
             "type": "http",
             "port": "8080",
-            "response_time": 14.16
+            "response_time": 3.72
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "IP Express Ltd",
+            "org": "",
+            "as": "AS328451 IP Express Ltd",
+            "query": "102.69.146.59",
+            "type": "socks5",
+            "port": "7080",
+            "response_time": 8.66
         }
     ]
 }
