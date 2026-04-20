@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "93.184.7.26",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.22
+            "response_time": 6.68
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Salf\u012bt",
+            "zip": "",
+            "lat": 32.0837,
+            "lon": 35.1808,
+            "timezone": "Asia/Hebron",
+            "isp": "AL Zaytona Company For Communication Ltd.",
+            "org": "Zaytona Network",
+            "as": "AS197350 AL Zaytona Company For Communication Ltd.",
+            "query": "46.60.15.72",
+            "type": "http",
+            "port": "8082",
+            "response_time": 9.07
         }
     ]
 }
