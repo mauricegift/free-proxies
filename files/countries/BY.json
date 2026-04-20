@@ -1,8 +1,27 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220004",
+            "lat": 53.9006,
+            "lon": 27.559,
+            "timezone": "Europe/Minsk",
+            "isp": "Business network jv",
+            "org": "Business network LTD",
+            "as": "AS12406 Business Network Ltd",
+            "query": "80.249.81.179",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 2.52
+        },
         {
             "status": "success",
             "country": "Belarus",
@@ -20,7 +39,7 @@
             "query": "93.85.87.50",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.27
+            "response_time": 3.77
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "93.85.87.50",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.27
+            "response_time": 3.77
         },
         {
             "status": "success",
@@ -48,17 +67,17 @@
             "region": "HM",
             "regionName": "Minsk City",
             "city": "Minsk",
-            "zip": "220004",
-            "lat": 53.9006,
-            "lon": 27.559,
+            "zip": "220090",
+            "lat": 53.901,
+            "lon": 27.5707,
             "timezone": "Europe/Minsk",
-            "isp": "Business network jv",
-            "org": "Business network LTD",
-            "as": "AS12406 Business Network Ltd",
-            "query": "80.249.81.179",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 6.44
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "Beltelecom Datacenter",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "93.85.87.50",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.35
         }
     ]
 }
