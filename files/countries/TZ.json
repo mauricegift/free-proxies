@@ -1,7 +1,7 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "154.0.153.10",
             "type": "http",
             "port": "8080",
-            "response_time": 6.09
+            "response_time": 3.39
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
+            "zip": "",
+            "lat": -6.827,
+            "lon": 39.2675,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Tanzania Telecommunications CO. LTD",
+            "org": "TTCL",
+            "as": "AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD",
+            "query": "41.59.200.27",
+            "type": "http",
+            "port": "3030",
+            "response_time": 4.19
         }
     ]
 }
