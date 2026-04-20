@@ -1,26 +1,45 @@
 {
     "countryCode": "PS",
-    "country": "Palestine",
-    "count": 2,
+    "country": "Palestinian Territory",
+    "count": 3,
     "proxies": [
         {
             "status": "success",
-            "country": "Palestine",
+            "country": "Palestinian Territory",
             "countryCode": "PS",
-            "region": "NBS",
-            "regionName": "Nablus Governorate",
-            "city": "Nablus",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Ramallah",
             "zip": "",
-            "lat": 32.2207,
-            "lon": 35.2542,
+            "lat": 31.9038,
+            "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.68.210",
+            "isp": "BNET network",
+            "org": "",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.26",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 2.11
+            "port": "1080",
+            "response_time": 6.3
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.5.121",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 7.33
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "213.6.249.37",
             "type": "http",
             "port": "18000",
-            "response_time": 8.57
+            "response_time": 9.4
         }
     ]
 }
