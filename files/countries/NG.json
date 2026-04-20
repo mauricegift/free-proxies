@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.52438,
+            "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "IP Express Ltd",
+            "isp": "Accelon",
+            "org": "Krestal Laurel",
+            "as": "AS30988 IS InternetSolutions Limited",
+            "query": "197.156.240.66",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.1
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lekki",
+            "zip": "",
+            "lat": 6.43457,
+            "lon": 3.49209,
+            "timezone": "Africa/Lagos",
+            "isp": "Information Connectivity Solutions Limited",
             "org": "",
-            "as": "AS328451 IP Express Ltd",
-            "query": "102.69.146.59",
-            "type": "socks5",
-            "port": "7080",
-            "response_time": 5.55
+            "as": "AS37269 Information Connectivity Solutions Limited",
+            "query": "105.235.193.46",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.09
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "105.235.201.234",
             "type": "socks4",
             "port": "32639",
-            "response_time": 5.7
+            "response_time": 6.24
         },
         {
             "status": "success",
@@ -52,13 +71,13 @@
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
+            "isp": "GLO",
             "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.167.70",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 6.62
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.76.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.16
         }
     ]
 }
