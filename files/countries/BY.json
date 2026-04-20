@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "93.85.87.50",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.6
+            "response_time": 2.27
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "93.85.87.50",
             "type": "socks5",
             "port": "1080",
-            "response_time": 4.6
-        },
-        {
-            "status": "success",
-            "country": "Belarus",
-            "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220090",
-            "lat": 53.901,
-            "lon": 27.5707,
-            "timezone": "Europe/Minsk",
-            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-            "org": "Beltelecom Datacenter",
-            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-            "query": "93.85.87.50",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.81
+            "response_time": 2.27
         },
         {
             "status": "success",
@@ -75,9 +56,9 @@
             "org": "Business network LTD",
             "as": "AS12406 Business Network Ltd",
             "query": "80.249.81.179",
-            "type": "socks5",
+            "type": "socks4",
             "port": "9050",
-            "response_time": 11.43
+            "response_time": 6.44
         }
     ]
 }
