@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 4,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "170.64.170.204",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.83
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.12
+            "response_time": 2.24
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.12
+            "response_time": 2.24
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "170.64.170.204",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -71,13 +71,51 @@
             "lat": -37.8159,
             "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
+            "isp": "Amazon.com, Inc.",
+            "org": "Hewlett Packard Enterprise Company",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.51.148.102",
+            "query": "16.26.143.154",
             "type": "http",
-            "port": "59828",
-            "response_time": 3.06
+            "port": "46835",
+            "response_time": 3.55
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com, Inc.",
+            "org": "Hewlett Packard Enterprise Company",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.26.143.154",
+            "type": "http",
+            "port": "6524",
+            "response_time": 3.86
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com, Inc.",
+            "org": "Hewlett Packard Enterprise Company",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.26.143.154",
+            "type": "http",
+            "port": "45214",
+            "response_time": 3.89
         }
     ]
 }
