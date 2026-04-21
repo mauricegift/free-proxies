@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.4
+            "response_time": 1.14
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
             "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.0",
+            "isp": "Aruba S.p.A.",
+            "org": "Aruba S.p.A.",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "77.81.230.90",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 12.67
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6358,
+            "lon": 11.6746,
+            "timezone": "Europe/Rome",
+            "isp": "NGI",
+            "org": "NGI Spa",
+            "as": "AS35612 EOLO S.p.A.",
+            "query": "78.134.20.48",
             "type": "http",
-            "port": "8081",
-            "response_time": 6.51
+            "port": "8080",
+            "response_time": 15.36
         }
     ]
 }
