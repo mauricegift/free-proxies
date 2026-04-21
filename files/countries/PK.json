@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
+            "timezone": "Asia/Karachi",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.76
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +39,26 @@
             "query": "115.42.67.186",
             "type": "socks4",
             "port": "56534",
-            "response_time": 1.45
+            "response_time": 2.4
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Faisalabad",
+            "zip": "38000",
+            "lat": 31.3709,
+            "lon": 73.0336,
+            "timezone": "Asia/Karachi",
+            "isp": "Nadeem Abbas and Shayufta Rani",
+            "org": "",
+            "as": "AS140594 New Pakistan Cable Network (Firm)",
+            "query": "103.150.206.77",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.19
         },
         {
             "status": "success",
@@ -29,17 +67,17 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8127,
-            "lon": 67.0115,
+            "zip": "74200",
+            "lat": 24.8607,
+            "lon": 67.0011,
             "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.231.73",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 13.85
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.180.164.218",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 9.58
         },
         {
             "status": "success",
@@ -58,7 +96,26 @@
             "query": "116.0.54.25",
             "type": "http",
             "port": "8080",
-            "response_time": 15.49
+            "response_time": 12.76
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "Pakistan Telecommuication company limited",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.176.164.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 16.4
         }
     ]
 }
