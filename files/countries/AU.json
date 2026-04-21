@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "170.64.170.204",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.86
+            "response_time": 1.83
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.9
+            "response_time": 2.12
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.9
+            "response_time": 2.12
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.148.102",
+            "type": "http",
+            "port": "59828",
+            "response_time": 3.06
         }
     ]
 }
