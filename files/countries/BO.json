@@ -1,7 +1,7 @@
 {
     "countryCode": "BO",
     "country": "Bolivia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": -16.5002,
             "lon": -68.1493,
             "timezone": "America/La_Paz",
-            "isp": "Telef\u00f3nica Celular de Bolivia S.A.",
-            "org": "Telef\u00f3nica Celular de Bolivia S.A",
-            "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
-            "query": "190.104.26.227",
+            "isp": "AXS Bolivia S. A.",
+            "org": "AXS Bolivia S. A",
+            "as": "AS26210 AXS Bolivia S. A.",
+            "query": "200.105.192.6",
             "type": "socks4",
-            "port": "33638",
-            "response_time": 1.71
+            "port": "5678",
+            "response_time": 1.69
+        },
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "T",
+            "regionName": "Tarija Department",
+            "city": "Entre R\u00edos",
+            "zip": "",
+            "lat": -21.5266,
+            "lon": -64.173,
+            "timezone": "America/La_Paz",
+            "isp": "TIGO",
+            "org": "",
+            "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
+            "query": "158.172.153.36",
+            "type": "http",
+            "port": "999",
+            "response_time": 11.24
         }
     ]
 }
