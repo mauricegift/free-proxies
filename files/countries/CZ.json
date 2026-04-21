@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Znojmo",
+            "zip": "669 02",
+            "lat": 48.8519,
+            "lon": 16.0465,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.21
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +39,7 @@
             "query": "81.162.195.35",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.96
+            "response_time": 8.15
         }
     ]
 }
