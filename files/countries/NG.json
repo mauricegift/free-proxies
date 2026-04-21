@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Eti-Osa",
+            "zip": "",
+            "lat": 6.53094,
+            "lon": 3.32648,
+            "timezone": "Africa/Lagos",
+            "isp": "Information Connectivity Solutions Limited",
+            "org": "",
+            "as": "AS37269 Information Connectivity Solutions Limited",
+            "query": "105.235.201.234",
+            "type": "socks4",
+            "port": "32639",
+            "response_time": 1.03
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,7 @@
             "query": "102.69.146.59",
             "type": "socks5",
             "port": "7080",
-            "response_time": 2.44
+            "response_time": 2.29
         }
     ]
 }
