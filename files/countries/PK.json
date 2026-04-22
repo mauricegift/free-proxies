@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "103.152.254.195",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.94
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Faisalabad",
-            "zip": "38000",
-            "lat": 31.3709,
-            "lon": 73.0336,
-            "timezone": "Asia/Karachi",
-            "isp": "Nadeem Abbas and Shayufta Rani",
-            "org": "",
-            "as": "AS140594 New Pakistan Cable Network (Firm)",
-            "query": "103.150.206.77",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.91
+            "response_time": 2.71
         },
         {
             "status": "success",
@@ -58,7 +39,64 @@
             "query": "103.86.135.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.86
+            "response_time": 2.81
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "74200",
+            "lat": 24.8607,
+            "lon": 67.0011,
+            "timezone": "Asia/Karachi",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.180.164.218",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.88
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Faisalabad",
+            "zip": "38000",
+            "lat": 31.3709,
+            "lon": 73.0336,
+            "timezone": "Asia/Karachi",
+            "isp": "Nadeem Abbas and Shayufta Rani",
+            "org": "",
+            "as": "AS140594 New Pakistan Cable Network (Firm)",
+            "query": "103.150.206.77",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 9.43
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "45320",
+            "lat": 33.7314,
+            "lon": 73.0836,
+            "timezone": "Asia/Karachi",
+            "isp": "LINKdotNET Telecom Limited",
+            "org": "Ldnpk As23966",
+            "as": "AS23966 LINKdotNET Telecom Limited",
+            "query": "202.154.241.199",
+            "type": "http",
+            "port": "808",
+            "response_time": 9.72
         }
     ]
 }
