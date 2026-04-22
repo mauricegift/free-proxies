@@ -1,8 +1,46 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 4,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "JUN",
+            "regionName": "Junin",
+            "city": "Bajo Pichanaqui",
+            "zip": "",
+            "lat": -10.9275,
+            "lon": -74.8742,
+            "timezone": "America/Lima",
+            "isp": "Telcom Mikrotik Peru S.A.C",
+            "org": "Telcom Mikrotik Peru S.A.C",
+            "as": "AS273000 TELCOM MIKROTIK PERU S.A.C.",
+            "query": "38.252.213.64",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.44
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
+            "zip": "15001",
+            "lat": -12.0467,
+            "lon": -77.0431,
+            "timezone": "America/Lima",
+            "isp": "Level 3 Peru S.A",
+            "org": "Level 3 Colombia S.A",
+            "as": "AS3549 Level 3 Parent, LLC",
+            "query": "201.234.53.33",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.71
+        },
         {
             "status": "success",
             "country": "Peru",
@@ -20,26 +58,26 @@
             "query": "38.252.213.69",
             "type": "http",
             "port": "999",
-            "response_time": 4.94
+            "response_time": 5.5
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "APU",
-            "regionName": "Apur\u00edmac Department",
-            "city": "San Jer\u00f3nimo",
+            "region": "CAJ",
+            "regionName": "Cajamarca Department",
+            "city": "Huarango",
             "zip": "",
-            "lat": -13.6514,
-            "lon": -73.3639,
+            "lat": -5.27279,
+            "lon": -78.7758,
             "timezone": "America/Lima",
-            "isp": "Telefonica Del Peru",
-            "org": "PE-TDPERX12-LACNIC",
+            "isp": "Telefonica del Peru S.A.A.",
+            "org": "Telefonica Del Peru SAA",
             "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
-            "query": "201.230.121.86",
+            "query": "200.107.142.36",
             "type": "http",
-            "port": "999",
-            "response_time": 7.19
+            "port": "3128",
+            "response_time": 8.4
         },
         {
             "status": "success",
@@ -55,10 +93,29 @@
             "isp": "Fiberred SAC",
             "org": "Cogent Communications",
             "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.161",
+            "query": "38.158.83.193",
             "type": "http",
             "port": "999",
-            "response_time": 8.84
+            "response_time": 9.71
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "MDD",
+            "regionName": "Madre de Dios",
+            "city": "Mazuko",
+            "zip": "",
+            "lat": -13.1001,
+            "lon": -70.3674,
+            "timezone": "America/Lima",
+            "isp": "INTEL COMUNICACIONES PER\u00da SAC",
+            "org": "INTEL COMUNICACIONES PER\u00da SAC",
+            "as": "AS270006 INTEL COMUNICACIONES PER\u00da SAC",
+            "query": "187.102.210.138",
+            "type": "http",
+            "port": "999",
+            "response_time": 11.35
         },
         {
             "status": "success",
@@ -77,7 +134,26 @@
             "query": "38.252.213.66",
             "type": "http",
             "port": "999",
-            "response_time": 11.79
+            "response_time": 13.03
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "PAS",
+            "regionName": "Pasco",
+            "city": "Oxapampa",
+            "zip": "",
+            "lat": -10.5775,
+            "lon": -75.4017,
+            "timezone": "America/Lima",
+            "isp": "Telcom Mikrotik Peru S.A.C",
+            "org": "Telcom Mikrotik Peru S.A.C",
+            "as": "AS273000 TELCOM MIKROTIK PERU S.A.C.",
+            "query": "38.252.213.59",
+            "type": "http",
+            "port": "999",
+            "response_time": 14.34
         }
     ]
 }
