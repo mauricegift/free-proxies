@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Eti-Osa",
+            "city": "Lagos",
             "zip": "",
-            "lat": 6.53094,
-            "lon": 3.32648,
+            "lat": 6.52438,
+            "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
-            "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.201.234",
+            "isp": "Accelon",
+            "org": "Krestal Laurel",
+            "as": "AS30988 IS InternetSolutions Limited",
+            "query": "197.156.240.66",
             "type": "socks4",
-            "port": "32639",
-            "response_time": 1.03
+            "port": "5678",
+            "response_time": 6.03
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "BO",
+            "regionName": "Borno State",
+            "city": "Maiduguri",
+            "zip": "",
+            "lat": 11.8311,
+            "lon": 13.151,
+            "timezone": "Africa/Lagos",
+            "isp": "Gutti Global Networks",
+            "org": "Gutti Global Networks",
+            "as": "AS327986 GUTTI GLOBAL NETWORKS",
+            "query": "169.239.236.201",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 8.6
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "102.69.146.59",
             "type": "socks5",
             "port": "7080",
-            "response_time": 2.29
+            "response_time": 13.15
         }
     ]
 }
