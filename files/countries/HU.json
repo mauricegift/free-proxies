@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "SZ",
+            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
+            "city": "Z\u00e1hony",
+            "zip": "4625",
+            "lat": 48.4137,
+            "lon": 22.1753,
+            "timezone": "Europe/Budapest",
+            "isp": "Szatmarnet",
+            "org": "",
+            "as": "AS58098 Szatmarnet Bt.",
+            "query": "46.107.230.122",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.02
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,7 @@
             "query": "84.1.150.26",
             "type": "http",
             "port": "8080",
-            "response_time": 5.96
+            "response_time": 13.02
         }
     ]
 }
