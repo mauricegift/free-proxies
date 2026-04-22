@@ -1,27 +1,8 @@
 {
     "countryCode": "BW",
     "country": "Botswana",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Botswana",
-            "countryCode": "BW",
-            "region": "SE",
-            "regionName": "South-East",
-            "city": "Gaborone",
-            "zip": "",
-            "lat": -24.7623,
-            "lon": 25.7995,
-            "timezone": "Africa/Gaborone",
-            "isp": "STATURE (PTY) LTD",
-            "org": "Only Used for Clients Network for Their Public Services",
-            "as": "AS327776 STATURE (PTY) LTD",
-            "query": "154.73.87.241",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.48
-        },
         {
             "status": "success",
             "country": "Botswana",
@@ -36,10 +17,48 @@
             "isp": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
             "org": "Vbn Core",
             "as": "AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
-            "query": "83.143.24.66",
-            "type": "http",
-            "port": "80",
-            "response_time": 12.49
+            "query": "83.143.24.29",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.16
+        },
+        {
+            "status": "success",
+            "country": "Botswana",
+            "countryCode": "BW",
+            "region": "GA",
+            "regionName": "Gaborone",
+            "city": "Gaborone",
+            "zip": "",
+            "lat": -24.6545,
+            "lon": 25.9086,
+            "timezone": "Africa/Gaborone",
+            "isp": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "org": "Vbn Corp",
+            "as": "AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "query": "83.143.29.161",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "Botswana",
+            "countryCode": "BW",
+            "region": "GA",
+            "regionName": "Gaborone",
+            "city": "Gaborone",
+            "zip": "",
+            "lat": -24.6437,
+            "lon": 25.9112,
+            "timezone": "Africa/Gaborone",
+            "isp": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "org": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "as": "AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "query": "129.205.244.158",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.3
         }
     ]
 }
