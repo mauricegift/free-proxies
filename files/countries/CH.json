@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
             "query": "185.191.236.162",
             "type": "http",
-            "port": "8080",
-            "response_time": 7.76
+            "port": "3128",
+            "response_time": 1.29
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
+            "timezone": "Europe/Zurich",
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.82",
+            "type": "http",
+            "port": "808",
+            "response_time": 2.07
         }
     ]
 }
