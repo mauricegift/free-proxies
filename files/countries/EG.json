@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat Misr Mobile BB",
+            "org": "",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "41.65.55.27",
+            "type": "http",
+            "port": "1981",
+            "response_time": 7.01
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -17,29 +36,29 @@
             "isp": "Link Egypt (Link.NET)",
             "org": "",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "197.164.101.10",
+            "query": "197.164.101.14",
             "type": "http",
-            "port": "1981",
-            "response_time": 6.37
+            "port": "1976",
+            "response_time": 7.84
         },
         {
             "status": "success",
             "country": "Egypt",
             "countryCode": "EG",
-            "region": "SHR",
-            "regionName": "Sharqia",
-            "city": "Zagazig",
+            "region": "BH",
+            "regionName": "Beheira",
+            "city": "An N\u016bb\u0101r\u012byah",
             "zip": "",
-            "lat": 30.5868,
-            "lon": 31.5026,
+            "lat": 30.6687,
+            "lon": 30.0739,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat",
+            "isp": "Link Egypt (Link.NET)",
             "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "62.193.104.28",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "213.131.85.30",
             "type": "http",
-            "port": "1981",
-            "response_time": 13.95
+            "port": "1976",
+            "response_time": 9.76
         }
     ]
 }
