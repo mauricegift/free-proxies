@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "IP Express Ltd",
+            "org": "",
+            "as": "AS328451 IP Express Ltd",
+            "query": "102.69.146.59",
+            "type": "socks5",
+            "port": "7080",
+            "response_time": 1.89
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,45 @@
             "query": "105.235.193.46",
             "type": "socks4",
             "port": "5678",
-            "response_time": 8.5
+            "response_time": 4.02
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Ojota",
+            "zip": "",
+            "lat": 6.57806,
+            "lon": 3.38686,
+            "timezone": "Africa/Lagos",
+            "isp": "Vodacom Business Nigeria",
+            "org": "Inq. Digital Nigeria",
+            "as": "AS16284 Inq. Digital Nigeria",
+            "query": "155.93.96.210",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.35
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.52438,
+            "lon": 3.37921,
+            "timezone": "Africa/Lagos",
+            "isp": "Accelon",
+            "org": "Krestal Laurel",
+            "as": "AS30988 IS InternetSolutions Limited",
+            "query": "197.156.240.66",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.94
         }
     ]
 }
