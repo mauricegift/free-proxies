@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "203.25.78.209",
             "type": "socks5",
             "port": "58367",
-            "response_time": 1.3
+            "response_time": 1.34
         },
         {
             "status": "success",
@@ -39,26 +39,45 @@
             "query": "103.1.105.10",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.84
+            "response_time": 5.93
         },
         {
             "status": "success",
             "country": "Malaysia",
             "countryCode": "MY",
-            "region": "08",
-            "regionName": "Perak",
-            "city": "Chemor",
-            "zip": "31200",
-            "lat": 4.7211,
-            "lon": 101.119,
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50502",
+            "lat": 3.1398,
+            "lon": 101.6853,
             "timezone": "Asia/Kuala_Lumpur",
-            "isp": "ADSL Streamyx Telekom Malaysia",
-            "org": "",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "219.93.111.125",
+            "query": "175.139.200.17",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.07
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Shah Alam",
+            "zip": "40150",
+            "lat": 3.1071,
+            "lon": 101.5526,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.139.211.38",
             "type": "http",
-            "port": "9412",
-            "response_time": 13.04
+            "port": "8080",
+            "response_time": 8.2
         }
     ]
 }
