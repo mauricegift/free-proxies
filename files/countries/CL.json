@@ -1,8 +1,27 @@
 {
     "countryCode": "CL",
     "country": "Chile",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Chile",
+            "countryCode": "CL",
+            "region": "VS",
+            "regionName": "Regi\u00f3n de Valpara\u00edso",
+            "city": "Quillota",
+            "zip": "",
+            "lat": -32.88,
+            "lon": -71.2474,
+            "timezone": "America/Santiago",
+            "isp": "Airpoint Telecomunicaciones Limitada",
+            "org": "",
+            "as": "AS266830 AIRPOINT TELECOMUNICACIONES LIMITADA",
+            "query": "45.238.20.212",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.34
+        },
         {
             "status": "success",
             "country": "Chile",
@@ -17,48 +36,10 @@
             "isp": "Grupo ZGH SpA",
             "org": "Grupo ZGH SpA",
             "as": "AS263702 GRUPO ZGH SPA",
-            "query": "38.7.195.51",
+            "query": "38.7.195.55",
             "type": "http",
             "port": "999",
-            "response_time": 8.88
-        },
-        {
-            "status": "success",
-            "country": "Chile",
-            "countryCode": "CL",
-            "region": "RM",
-            "regionName": "Santiago Metropolitan",
-            "city": "Isla de Maipo",
-            "zip": "",
-            "lat": -33.7518,
-            "lon": -70.8913,
-            "timezone": "America/Santiago",
-            "isp": "Ingbell Chile SPA",
-            "org": "Cirion Technologies Solutions",
-            "as": "AS273237 INGBELL CHILE SPA",
-            "query": "204.199.139.76",
-            "type": "http",
-            "port": "999",
-            "response_time": 10.56
-        },
-        {
-            "status": "success",
-            "country": "Chile",
-            "countryCode": "CL",
-            "region": "RM",
-            "regionName": "Santiago Metropolitan",
-            "city": "Puente Alto",
-            "zip": "",
-            "lat": -33.6141,
-            "lon": -70.5893,
-            "timezone": "America/Santiago",
-            "isp": "Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada",
-            "org": "LARA INGENIERIA EN TECNOLOGIA Y TELECOMUNICACIONES LIMITADA (SOLUCIONES INTERLAN)",
-            "as": "AS271843 LARA INGENIERIA EN TECNOLOGIA Y TELECOMUNICACIONES LIMITADA (SOLUCIONES INTERLAN)",
-            "query": "45.162.132.157",
-            "type": "http",
-            "port": "999",
-            "response_time": 12.16
+            "response_time": 7.55
         },
         {
             "status": "success",
@@ -75,9 +56,9 @@
             "org": "Subcentro Las Condes S.A",
             "as": "AS6429 Telmex Chile Internet S.A.",
             "query": "190.54.100.74",
-            "type": "http",
-            "port": "8080",
-            "response_time": 14.09
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 9.17
         }
     ]
 }
