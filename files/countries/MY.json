@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47820",
+            "lat": 3.16459,
+            "lon": 101.613,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "E-world Communication SDN BHD",
+            "org": "E-world Communication SDN BHD",
+            "as": "AS134202 E-WORLD COMMUNICATION SDN BHD",
+            "query": "103.58.16.106",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.89
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +39,7 @@
             "query": "203.25.78.209",
             "type": "socks5",
             "port": "58367",
-            "response_time": 1.48
+            "response_time": 4.15
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "175.139.200.17",
             "type": "socks4",
             "port": "4153",
-            "response_time": 6.09
+            "response_time": 5.29
         }
     ]
 }
