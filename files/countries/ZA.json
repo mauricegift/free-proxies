@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "20.164.75.153",
             "type": "http",
             "port": "8080",
-            "response_time": 0.21
+            "response_time": 0.85
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7441",
+            "lat": -33.914,
+            "lon": 18.4129,
+            "timezone": "Africa/Johannesburg",
+            "isp": "SEACOM Limited",
+            "org": "Seacom Assignments",
+            "as": "AS37100 SEACOM Limited",
+            "query": "105.27.180.194",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.24
         },
         {
             "status": "success",
@@ -39,26 +58,64 @@
             "query": "165.0.100.149",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.51
+            "response_time": 3.05
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "MP",
-            "regionName": "Mpumalanga",
-            "city": "Nelspruit",
-            "zip": "1200",
-            "lat": -25.4633,
-            "lon": 30.9629,
+            "region": "LP",
+            "regionName": "Limpopo",
+            "city": "Tzaneen",
+            "zip": "0850",
+            "lat": -23.8287,
+            "lon": 30.1672,
             "timezone": "Africa/Johannesburg",
-            "isp": "Clear Access (Pty) Ltd",
-            "org": "Bridgnet",
-            "as": "AS327794 Clear Access (Pty) Ltd",
-            "query": "102.36.127.231",
+            "isp": "LWIC",
+            "org": "",
+            "as": "AS328638 Letaba Networks (Pty) Ltd",
+            "query": "196.6.115.165",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.64
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "8001",
+            "lat": -33.9258,
+            "lon": 18.4259,
+            "timezone": "Africa/Johannesburg",
+            "isp": "CloudGistics",
+            "org": "CloudGistics",
+            "as": "AS328970 CloudGistics",
+            "query": "102.217.190.157",
             "type": "socks5",
-            "port": "1080",
-            "response_time": 7.46
+            "port": "7080",
+            "response_time": 4.65
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "FS",
+            "regionName": "Free State",
+            "city": "Sasolburg",
+            "zip": "1947",
+            "lat": -26.8145,
+            "lon": 27.8153,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Mezobyte (Pty) LTD",
+            "org": "",
+            "as": "AS327943 Mezobyte (Pty) LTD",
+            "query": "169.239.85.121",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.27
         },
         {
             "status": "success",
@@ -77,7 +134,7 @@
             "query": "102.212.46.48",
             "type": "http",
             "port": "12354",
-            "response_time": 7.64
+            "response_time": 8.53
         }
     ]
 }
