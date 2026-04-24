@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.57
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "30",
-            "regionName": "Daejeon",
-            "city": "Daejeon",
-            "zip": "34178",
-            "lat": 36.3461,
-            "lon": 127.375,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "plannix",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "114.108.177.104",
-            "type": "socks4",
-            "port": "60984",
-            "response_time": 1.75
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "152.70.91.193",
-            "type": "socks4",
-            "port": "40000",
-            "response_time": 1.93
+            "response_time": 1.64
         },
         {
             "status": "success",
@@ -77,7 +39,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 2.21
+            "response_time": 3.2
         },
         {
             "status": "success",
@@ -96,26 +58,45 @@
             "query": "121.169.46.116",
             "type": "socks5",
             "port": "1090",
-            "response_time": 3.32
+            "response_time": 3.97
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Seongnam-si",
-            "zip": "13606",
-            "lat": 37.3595,
-            "lon": 127.105,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
             "timezone": "Asia/Seoul",
-            "isp": "NAVER Cloud Corp",
-            "org": "NAVER Cloud Corp.",
-            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
-            "query": "106.10.55.212",
-            "type": "http",
-            "port": "1121",
-            "response_time": 8.66
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks4",
+            "port": "3128",
+            "response_time": 6.86
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks5",
+            "port": "3128",
+            "response_time": 6.86
         }
     ]
 }
