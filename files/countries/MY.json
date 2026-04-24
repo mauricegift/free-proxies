@@ -1,26 +1,45 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Malaysia",
             "countryCode": "MY",
-            "region": "04",
-            "regionName": "Melaka",
-            "city": "Malacca",
-            "zip": "75450",
-            "lat": 2.2046,
-            "lon": 102.2645,
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Cyberjaya",
+            "zip": "63000",
+            "lat": 2.9679,
+            "lon": 101.653,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "IX Telecom",
+            "org": "IX Telecom",
+            "as": "AS56286 IX Telecom",
+            "query": "203.25.78.209",
+            "type": "socks5",
+            "port": "58367",
+            "response_time": 1.27
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Shah Alam",
+            "zip": "40150",
+            "lat": 3.1071,
+            "lon": 101.5526,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
             "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "175.145.210.143",
+            "query": "175.139.211.38",
             "type": "http",
             "port": "8080",
-            "response_time": 13.21
+            "response_time": 6.21
         }
     ]
 }
