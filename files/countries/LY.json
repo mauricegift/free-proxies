@@ -1,8 +1,27 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "BA",
+            "regionName": "Sha'biyat Banghazi",
+            "city": "Benghazi",
+            "zip": "",
+            "lat": 32.1159,
+            "lon": 20.0654,
+            "timezone": "Africa/Tripoli",
+            "isp": "Aljeel Aljadeed For Technology",
+            "org": "Aljeel Aljadeed Technology",
+            "as": "AS37284 Aljeel Aljadeed For Technology",
+            "query": "165.16.2.254",
+            "type": "http",
+            "port": "9999",
+            "response_time": 3.91
+        },
         {
             "status": "success",
             "country": "Libya",
@@ -11,16 +30,16 @@
             "regionName": "Tripoli",
             "city": "Tripoli",
             "zip": "",
-            "lat": 32.8908,
-            "lon": 13.1796,
+            "lat": 32.8874,
+            "lon": 13.1873,
             "timezone": "Africa/Tripoli",
-            "isp": "LTT Autonomous System, Tripoli Libya",
-            "org": "Rawafed",
+            "isp": "Rawafed",
+            "org": "",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "102.68.135.147",
+            "query": "154.73.29.161",
             "type": "http",
             "port": "8080",
-            "response_time": 6.05
+            "response_time": 5.49
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "165.16.92.193",
             "type": "http",
             "port": "8104",
-            "response_time": 8.49
+            "response_time": 6.27
+        },
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "TB",
+            "regionName": "Tripoli",
+            "city": "Tripoli",
+            "zip": "",
+            "lat": 32.8908,
+            "lon": 13.1796,
+            "timezone": "Africa/Tripoli",
+            "isp": "LTT Autonomous System, Tripoli Libya",
+            "org": "Rawafed",
+            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
+            "query": "102.68.135.147",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.78
         }
     ]
 }
