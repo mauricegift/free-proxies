@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Ketu",
+            "zip": "",
+            "lat": 6.6309,
+            "lon": 3.8805,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.179.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.5
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,26 +39,26 @@
             "query": "169.239.236.201",
             "type": "socks4",
             "port": "10801",
-            "response_time": 1.95
+            "response_time": 6.97
         },
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
-            "region": "ED",
-            "regionName": "Edo State",
-            "city": "Benin City",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
             "zip": "",
-            "lat": 6.3332,
-            "lon": 5.6238,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.170.145",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.79
+            "isp": "Globacom Limited",
+            "org": "Globacom",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.83.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.1
         }
     ]
 }
