@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "L4L",
+            "lat": 43.8072,
+            "lon": -79.5946,
+            "timezone": "America/Toronto",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "140.238.156.12",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.07
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,7 +39,7 @@
             "query": "40.233.83.232",
             "type": "socks5",
             "port": "1081",
-            "response_time": 2.15
+            "response_time": 2.17
         },
         {
             "status": "success",
@@ -29,55 +48,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H1E",
-            "lat": 45.632,
-            "lon": -73.5839,
+            "zip": "H2A",
+            "lat": 45.562,
+            "lon": -73.6002,
             "timezone": "America/Toronto",
-            "isp": "Videotron Telecom Ltee",
+            "isp": "Videotron Ltee",
             "org": "Videotron Ltee",
-            "as": "AS22652 Videotron Ltee",
-            "query": "184.95.235.194",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.7
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "BC",
-            "regionName": "British Columbia",
-            "city": "Vancouver",
-            "zip": "V5Z",
-            "lat": 49.2827,
-            "lon": -123.121,
-            "timezone": "America/Vancouver",
-            "isp": "GLOBALTELEHOST Corp.",
-            "org": "Inetcloud",
-            "as": "AS62563 GLOBALTELEHOST Corp.",
-            "query": "193.108.58.29",
+            "as": "AS5769 Videotron Ltee",
+            "query": "45.73.0.118",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 4.11
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "M5A",
-            "lat": 43.6547,
-            "lon": -79.3623,
-            "timezone": "America/Toronto",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "159.89.117.136",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 9.09
+            "port": "5678",
+            "response_time": 7.23
         }
     ]
 }
