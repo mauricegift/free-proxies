@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "JM",
+            "regionName": "Jerusalem",
+            "city": "Jerusalem",
+            "zip": "",
+            "lat": 31.7674,
+            "lon": 35.2186,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.159.152.152",
+            "type": "socks4",
+            "port": "6666",
+            "response_time": 1.37
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,7 +39,7 @@
             "query": "51.84.101.19",
             "type": "http",
             "port": "1525",
-            "response_time": 1.72
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -30,16 +49,16 @@
             "regionName": "Jerusalem",
             "city": "Jerusalem",
             "zip": "",
-            "lat": 31.7674,
-            "lon": 35.2186,
+            "lat": 31.7683,
+            "lon": 35.2137,
             "timezone": "Asia/Jerusalem",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "129.159.152.152",
-            "type": "socks5",
-            "port": "6666",
-            "response_time": 1.74
+            "isp": "Mada Al-Arab General Services Company",
+            "org": "Mada Network BB",
+            "as": "AS51407 Mada Al-Arab General Services Company",
+            "query": "84.242.58.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.63
         }
     ]
 }
