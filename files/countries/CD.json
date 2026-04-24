@@ -1,8 +1,27 @@
 {
     "countryCode": "CD",
-    "country": "Congo (DRC)",
-    "count": 1,
+    "country": "Democratic Republic of the Congo",
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Democratic Republic of the Congo",
+            "countryCode": "CD",
+            "region": "KN",
+            "regionName": "Kinshasa City",
+            "city": "Kinshasa",
+            "zip": "",
+            "lat": -4.32758,
+            "lon": 15.3136,
+            "timezone": "Africa/Kinshasa",
+            "isp": "Global Broadband Solution Inc",
+            "org": "Global Broadband Solution",
+            "as": "AS43256 Global Broadband Solution Inc",
+            "query": "217.171.94.214",
+            "type": "socks5",
+            "port": "10801",
+            "response_time": 2.55
+        },
         {
             "status": "success",
             "country": "Congo (DRC)",
@@ -20,7 +39,7 @@
             "query": "41.174.132.82",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.8
+            "response_time": 6.13
         }
     ]
 }
