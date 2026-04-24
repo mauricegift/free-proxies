@@ -1,26 +1,45 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "74000",
-            "lat": 24.8591,
-            "lon": 66.9983,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Faisalabad",
+            "zip": "38000",
+            "lat": 31.3709,
+            "lon": 73.0336,
             "timezone": "Asia/Karachi",
-            "isp": "Connect Communication",
-            "org": "Connect Communication",
-            "as": "AS132165 Connect Communications",
-            "query": "115.42.67.186",
+            "isp": "Nadeem Abbas and Shayufta Rani",
+            "org": "",
+            "as": "AS140594 New Pakistan Cable Network (Firm)",
+            "query": "103.150.206.77",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.6
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
+            "timezone": "Asia/Karachi",
+            "isp": "Nayatel (Pvt) Ltd",
+            "org": "Nayatel",
+            "as": "AS23674 Nayatel (Pvt) Ltd",
+            "query": "124.109.44.126",
             "type": "socks4",
-            "port": "56534",
-            "response_time": 5.4
+            "port": "4145",
+            "response_time": 4.83
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 31.5826,
             "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "Pakistan Telecommuication company limited",
-            "org": "",
-            "as": "AS139820 HG TELECOMMUNICATION PRIVATE LIMITED",
-            "query": "59.103.34.162",
+            "isp": "Optix Pakistan (Pvt.) Limited",
+            "org": "Optix Pakistan (Pvt.) Limited",
+            "as": "AS136384 Optix Pakistan (Pvt.) Limited",
+            "query": "202.165.232.238",
             "type": "http",
             "port": "8080",
-            "response_time": 5.79
+            "response_time": 8.75
         }
     ]
 }
