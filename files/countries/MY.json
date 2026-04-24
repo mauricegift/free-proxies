@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "203.25.78.209",
             "type": "socks5",
             "port": "58367",
-            "response_time": 1.44
-        },
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "14",
-            "regionName": "Kuala Lumpur",
-            "city": "Kuala Lumpur",
-            "zip": "50515",
-            "lat": 3.1408,
-            "lon": 101.6852,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon.com, Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.217.141.124",
-            "type": "http",
-            "port": "9002",
-            "response_time": 3.04
+            "response_time": 1.55
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "56.68.77.224",
             "type": "http",
             "port": "52758",
-            "response_time": 3.09
+            "response_time": 1.86
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon.com, Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "43.217.141.124",
+            "type": "http",
+            "port": "9002",
+            "response_time": 5.35
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Ampang",
+            "zip": "68000",
+            "lat": 3.15,
+            "lon": 101.767,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.144.60.126",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.08
         }
     ]
 }
