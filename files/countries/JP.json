@@ -1,27 +1,8 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 7,
+    "count": 8,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Shinjuku",
-            "zip": "289-2605",
-            "lat": 35.7139,
-            "lon": 139.702,
-            "timezone": "Asia/Tokyo",
-            "isp": "Reis Network Solutions",
-            "org": "Kdash D16",
-            "as": "AS140171 Reis Network Solutions",
-            "query": "103.38.183.18",
-            "type": "socks4",
-            "port": "1088",
-            "response_time": 1.81
-        },
         {
             "status": "success",
             "country": "Japan",
@@ -39,7 +20,7 @@
             "query": "103.75.118.84",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.92
+            "response_time": 1.89
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "103.75.118.84",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.92
+            "response_time": 1.89
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "102-0082",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "PCCW Global, Inc.",
+            "as": "AS31713 Gateway Communications",
+            "query": "205.177.85.130",
+            "type": "socks4",
+            "port": "39593",
+            "response_time": 2.8
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Shinjuku",
+            "zip": "289-2605",
+            "lat": 35.7139,
+            "lon": 139.702,
+            "timezone": "Asia/Tokyo",
+            "isp": "Reis Network Solutions",
+            "org": "Kdash D16",
+            "as": "AS140171 Reis Network Solutions",
+            "query": "103.38.183.18",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 3.61
         },
         {
             "status": "success",
@@ -74,10 +93,29 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.82.180",
+            "query": "116.80.62.136",
             "type": "http",
             "port": "3128",
-            "response_time": 3.15
+            "response_time": 5.37
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "151-0053",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "101.36.104.46",
+            "type": "socks5",
+            "port": "10808",
+            "response_time": 5.4
         },
         {
             "status": "success",
@@ -96,7 +134,7 @@
             "query": "150.230.59.207",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.93
+            "response_time": 9.18
         },
         {
             "status": "success",
@@ -104,37 +142,18 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Wakabayashi",
-            "zip": "154-0021",
-            "lat": 35.6491,
-            "lon": 139.6464,
+            "city": "Chiyoda City",
+            "zip": "100-0001",
+            "lat": 35.694,
+            "lon": 139.754,
             "timezone": "Asia/Tokyo",
-            "isp": "InfoSphere",
-            "org": "NTTPC Communications, Inc",
-            "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.48.51",
+            "isp": "SAKURA Internet Inc.",
+            "org": "Architectural Systems Inc.",
+            "as": "AS7684 SAKURA Internet Inc.",
+            "query": "133.242.228.153",
             "type": "http",
-            "port": "3128",
-            "response_time": 7.25
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "151-0053",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
-            "org": "Packet Host, Inc",
-            "as": "AS15830 Equinix (EMEA) Acquisition Enterprises B.V.",
-            "query": "147.75.92.249",
-            "type": "http",
-            "port": "10070",
-            "response_time": 19.19
+            "port": "20080",
+            "response_time": 11.98
         }
     ]
 }
