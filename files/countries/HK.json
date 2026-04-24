@@ -7,6 +7,25 @@
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western District",
+            "city": "Hong Kong",
+            "zip": "",
+            "lat": 22.3193,
+            "lon": 114.1693,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.96.238.40",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.33
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
             "region": "",
             "regionName": "Kowloon",
             "city": "Hong Kong",
@@ -20,45 +39,7 @@
             "query": "47.79.79.35",
             "type": "socks5",
             "port": "10808",
-            "response_time": 2.13
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western District",
-            "city": "Sheung Wan",
-            "zip": "96521",
-            "lat": 22.2868,
-            "lon": 114.152,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "CTG Server Ltd.",
-            "org": "Rackip Consultancy Pte. LTD",
-            "as": "AS152194 CTG Server Limited",
-            "query": "118.107.29.235",
-            "type": "socks5",
-            "port": "5555",
-            "response_time": 2.15
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.75.55.165",
-            "type": "socks5",
-            "port": "54321",
-            "response_time": 2.45
+            "response_time": 2.09
         },
         {
             "status": "success",
@@ -75,9 +56,9 @@
             "org": "",
             "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
             "query": "43.132.188.134",
-            "type": "http",
-            "port": "443",
-            "response_time": 10.08
+            "type": "socks5",
+            "port": "8888",
+            "response_time": 5.26
         },
         {
             "status": "success",
@@ -93,10 +74,29 @@
             "isp": "Alibaba Cloud LLC",
             "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.243.197.73",
+            "query": "47.243.201.253",
             "type": "socks5",
-            "port": "9050",
-            "response_time": 23.97
+            "port": "1011",
+            "response_time": 10.51
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.57.242.244",
+            "type": "socks4",
+            "port": "5080",
+            "response_time": 24.94
         }
     ]
 }
