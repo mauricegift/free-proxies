@@ -1,8 +1,27 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 7,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Safaricom Limited",
+            "org": "Safaricom Limited",
+            "as": "AS37061 Safaricom Limited",
+            "query": "41.139.147.86",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.95
+        },
         {
             "status": "success",
             "country": "Kenya",
@@ -20,7 +39,7 @@
             "query": "197.232.47.122",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.55
+            "response_time": 2.63
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "154.79.248.156",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.76
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Airtel KE Mobile & Fixed Internet",
-            "org": "",
-            "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.18.120",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.65
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Safaricom Limited",
-            "org": "Safaricom Limited",
-            "as": "AS37061 Safaricom Limited",
-            "query": "41.139.147.86",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.96
+            "response_time": 6.11
         },
         {
             "status": "success",
@@ -91,12 +72,12 @@
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
             "isp": "Jamii Telecommunications Limited",
-            "org": "FAIBA",
+            "org": "Faiba Business",
             "as": "AS36866 Jamii Telecommunications Limited",
-            "query": "197.232.47.122",
+            "query": "197.232.158.189",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.31
+            "port": "41890",
+            "response_time": 8.06
         },
         {
             "status": "success",
@@ -112,29 +93,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.22.238",
+            "query": "102.0.16.226",
             "type": "http",
             "port": "8080",
-            "response_time": 5.91
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Vennet Solutions Limited",
-            "org": "Vennet Solutions Limited",
-            "as": "AS329437 VENNET SOLUTIONS LIMITED",
-            "query": "102.209.18.28",
-            "type": "http",
-            "port": "8080",
-            "response_time": 12.36
+            "response_time": 8.72
         }
     ]
 }
