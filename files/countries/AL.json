@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "80.78.73.120",
             "type": "socks4",
             "port": "65530",
-            "response_time": 1.04
+            "response_time": 1.08
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Public",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.73.142",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 2.04
         },
         {
             "status": "success",
@@ -39,7 +58,45 @@
             "query": "147.45.221.189",
             "type": "socks5",
             "port": "1080",
-            "response_time": 4.21
+            "response_time": 3.29
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Rrashbull",
+            "zip": "",
+            "lat": 41.3228,
+            "lon": 19.5103,
+            "timezone": "Europe/Tirane",
+            "isp": "Lightnet Sh.p.k.",
+            "org": "Lightnet Sh.p.k",
+            "as": "AS212637 Lightnet Sh.p.k.",
+            "query": "185.190.90.2",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 6.25
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.33.26",
+            "type": "http",
+            "port": "8079",
+            "response_time": 13.99
         }
     ]
 }
