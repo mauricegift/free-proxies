@@ -1,26 +1,45 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Labinot-Fush\u00eb",
             "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
+            "lat": 41.1533,
+            "lon": 20.1683,
+            "timezone": "Europe/Tirane",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "147.45.221.189",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.33
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Durr\u00ebs",
+            "zip": "",
+            "lat": 41.3287,
+            "lon": 19.4494,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Enterprise",
+            "org": "Vodafone Albania Sh.A",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.74.8",
-            "type": "socks4",
-            "port": "65530",
-            "response_time": 4.21
+            "query": "66.186.199.33",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.03
         }
     ]
 }
