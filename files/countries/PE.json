@@ -1,26 +1,45 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima Province",
-            "city": "Lima",
+            "region": "APU",
+            "regionName": "Apur\u00edmac Department",
+            "city": "San Jer\u00f3nimo",
             "zip": "",
-            "lat": -12.046,
-            "lon": -77.0305,
+            "lat": -13.6514,
+            "lon": -73.3639,
             "timezone": "America/Lima",
-            "isp": "ON EMPRESAS S.A.C",
-            "org": "Miraflores De Turismo S.A.C",
-            "as": "AS27843 ON EMPRESAS S.A.C.",
-            "query": "190.12.95.170",
-            "type": "socks4",
-            "port": "37209",
-            "response_time": 3.63
+            "isp": "Telefonica Del Peru",
+            "org": "PE-TDPERX12-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "201.230.121.86",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.38
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "TAC",
+            "regionName": "Tacna",
+            "city": "Piedra Blanca",
+            "zip": "",
+            "lat": -17.9714,
+            "lon": -70.1809,
+            "timezone": "America/Lima",
+            "isp": "Telefonica del Peru",
+            "org": "PE-TDPERX6-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "201.230.15.57",
+            "type": "http",
+            "port": "999",
+            "response_time": 15.6
         }
     ]
 }
