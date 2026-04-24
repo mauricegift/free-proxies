@@ -1,27 +1,8 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8021,
-            "lon": 67.0298,
-            "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.206.62",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.69
-        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -39,7 +20,7 @@
             "query": "115.42.67.186",
             "type": "socks4",
             "port": "56534",
-            "response_time": 3.34
+            "response_time": 2.36
         },
         {
             "status": "success",
@@ -47,18 +28,56 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Model Town",
-            "zip": "54700",
-            "lat": 31.481,
-            "lon": 74.3256,
+            "city": "Multan",
+            "zip": "60000",
+            "lat": 30.1659,
+            "lon": 71.4415,
             "timezone": "Asia/Karachi",
-            "isp": "ConnecTel Internet Services",
-            "org": "",
-            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
-            "query": "103.225.221.18",
+            "isp": "Mian Internet Services (Pvt) Ltd",
+            "org": "MISPL  (Pvt) Ltd",
+            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
+            "query": "103.86.135.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 8.59
+            "response_time": 4.56
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Raiwind",
+            "zip": "55150",
+            "lat": 31.2489,
+            "lon": 74.2153,
+            "timezone": "Asia/Karachi",
+            "isp": "Gerrys Information Technology (PVT) Ltd",
+            "org": "Gerrys Information Technology (PVT) Ltd",
+            "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+            "query": "202.69.38.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.61
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
+            "timezone": "Asia/Karachi",
+            "isp": "Nayatel (Pvt) Ltd",
+            "org": "Nayatel",
+            "as": "AS23674 Nayatel (Pvt) Ltd",
+            "query": "124.109.44.126",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 8.86
         }
     ]
 }
