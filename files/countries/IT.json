@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 5,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
+            "type": "http",
+            "port": "8443",
+            "response_time": 4.86
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.13
+            "response_time": 7.69
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.13
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "San Giovanni Valdarno",
-            "zip": "52027",
-            "lat": 43.5707,
-            "lon": 11.5331,
-            "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "91.192.25.158",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 2.36
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6329,
-            "lon": 11.6726,
-            "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "185.248.245.119",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 2.47
+            "response_time": 7.69
         },
         {
             "status": "success",
@@ -96,7 +77,7 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 7.11
+            "response_time": 9.27
         }
     ]
 }
