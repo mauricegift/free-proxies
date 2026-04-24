@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "103.86.57.9",
             "type": "socks4",
             "port": "4145",
-            "response_time": 2.86
+            "response_time": 5.71
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "202.70.80.153",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.01
+            "response_time": 8.68
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7108,
+            "lon": 85.3251,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Vianet Communications Pvt. Ltd",
+            "org": "NET COMMUNICATION PUBLIC LIMITED",
+            "as": "AS45650 VIA NET COMMUNICATION LTD.",
+            "query": "110.44.115.83",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.5
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7017,
+            "lon": 85.3206,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Classic Tech Pvt. Ltd",
+            "org": "ClassicTech",
+            "as": "AS55915 Classic Tech Pvt. Ltd.",
+            "query": "103.1.93.184",
+            "type": "http",
+            "port": "55443",
+            "response_time": 13.43
         }
     ]
 }
