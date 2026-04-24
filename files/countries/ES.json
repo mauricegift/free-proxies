@@ -1,8 +1,46 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "PV",
+            "regionName": "Basque Country",
+            "city": "Bilbao",
+            "zip": "48070",
+            "lat": 43.2626,
+            "lon": -2.9238,
+            "timezone": "Europe/Madrid",
+            "isp": "TATA Communications",
+            "org": "Nexis Tecnologias",
+            "as": "AS6453 TATA COMMUNICATIONS (AMERICA) INC",
+            "query": "195.219.98.27",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.08
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "San Fernando de Henares",
+            "zip": "28830",
+            "lat": 40.4239,
+            "lon": -3.53261,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "83.56.15.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.19
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,26 +58,7 @@
             "query": "185.130.219.10",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.27
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Fuengirola",
-            "zip": "29640",
-            "lat": 36.54,
-            "lon": -4.62473,
-            "timezone": "Europe/Madrid",
-            "isp": "AVATEL TELECOM, SA",
-            "org": "AVATEL TELECOM, SA",
-            "as": "AS200845 AVATEL TELECOM, SA",
-            "query": "185.44.232.30",
-            "type": "http",
-            "port": "53281",
-            "response_time": 9.22
+            "response_time": 2.22
         }
     ]
 }
