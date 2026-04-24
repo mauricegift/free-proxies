@@ -1,26 +1,45 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8127,
-            "lon": 67.0115,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Faisalabad",
+            "zip": "38000",
+            "lat": 31.3709,
+            "lon": 73.0336,
             "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.231.73",
+            "isp": "Nadeem Abbas and Shayufta Rani",
+            "org": "",
+            "as": "AS140594 New Pakistan Cable Network (Firm)",
+            "query": "103.150.206.77",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.23
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
+            "timezone": "Asia/Karachi",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
             "type": "socks4",
             "port": "5678",
-            "response_time": 7.05
+            "response_time": 8.09
         }
     ]
 }
