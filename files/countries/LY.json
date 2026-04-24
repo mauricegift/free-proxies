@@ -1,8 +1,27 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "BA",
+            "regionName": "Sha'biyat Banghazi",
+            "city": "Benghazi",
+            "zip": "",
+            "lat": 32.1159,
+            "lon": 20.0654,
+            "timezone": "Africa/Tripoli",
+            "isp": "Aljeel Aljadeed For Technology",
+            "org": "Aljeel Aljadeed Technology",
+            "as": "AS37284 Aljeel Aljadeed For Technology",
+            "query": "165.16.2.234",
+            "type": "http",
+            "port": "9999",
+            "response_time": 8.65
+        },
         {
             "status": "success",
             "country": "Libya",
@@ -17,10 +36,10 @@
             "isp": "LTT Autonomous System, Tripoli Libya",
             "org": "Rawafed",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "102.68.128.210",
+            "query": "102.68.128.214",
             "type": "http",
             "port": "8080",
-            "response_time": 4.82
+            "response_time": 10.25
         }
     ]
 }
