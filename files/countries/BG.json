@@ -20,7 +20,7 @@
             "query": "94.72.158.129",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.97
+            "response_time": 2.03
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "213.149.156.87",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.97
+            "response_time": 2.22
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "18",
+            "regionName": "Ruse",
+            "city": "Rousse",
+            "zip": "7000",
+            "lat": 43.8487,
+            "lon": 25.9534,
+            "timezone": "Europe/Sofia",
+            "isp": "Kabelnet LTD",
+            "org": "Global Communication Net Plc",
+            "as": "AS205352 KABELNET LTD",
+            "query": "109.160.97.49",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.2
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "26",
+            "regionName": "Haskovo",
+            "city": "Svilengrad",
+            "zip": "6500",
+            "lat": 41.7662,
+            "lon": 26.1946,
+            "timezone": "Europe/Sofia",
+            "isp": "ESCOM Ltd",
+            "org": "ESCOMBG",
+            "as": "AS25374 ESCOM Ltd. - Haskovo",
+            "query": "93.183.175.6",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.24
         },
         {
             "status": "success",
@@ -49,54 +87,16 @@
             "regionName": "Sofia-Capital",
             "city": "Sofia",
             "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "lat": 42.6977,
+            "lon": 23.3219,
             "timezone": "Europe/Sofia",
-            "isp": "FIBER1",
-            "org": "",
-            "as": "AS39135 Fiber 1 Ltd.",
-            "query": "77.238.79.111",
+            "isp": "Neterra Ltd.",
+            "org": "Neterra Princess Svilengrad",
+            "as": "AS34224 Neterra Ltd.",
+            "query": "31.13.239.4",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.01
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "15",
-            "regionName": "Pleven",
-            "city": "Pleven",
-            "zip": "5800",
-            "lat": 43.4126,
-            "lon": 24.6089,
-            "timezone": "Europe/Sofia",
-            "isp": "5KOM",
-            "org": "",
-            "as": "AS197897 5KOM OOD",
-            "query": "31.211.142.115",
-            "type": "socks5",
-            "port": "8192",
-            "response_time": 3.54
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "16",
-            "regionName": "Plovdiv",
-            "city": "Plovdiv",
-            "zip": "4000",
-            "lat": 42.1513,
-            "lon": 24.7518,
-            "timezone": "Europe/Sofia",
-            "isp": "\"Cooolbox\" AD",
-            "org": "ITD Network",
-            "as": "AS9070 Cooolbox AD",
-            "query": "78.130.246.65",
-            "type": "http",
-            "port": "1881",
-            "response_time": 9.59
+            "response_time": 8.27
         },
         {
             "status": "success",
@@ -112,10 +112,10 @@
             "isp": "A1 Bulgaria EAD",
             "org": "ESRI BULGARIA Network",
             "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.10",
+            "query": "213.169.33.3",
             "type": "http",
             "port": "8001",
-            "response_time": 10.65
+            "response_time": 9.63
         }
     ]
 }
