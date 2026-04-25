@@ -1,8 +1,27 @@
 {
     "countryCode": "LB",
     "country": "Lebanon",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lebanon",
+            "countryCode": "LB",
+            "region": "AS",
+            "regionName": "Mohafazat Liban-Nord",
+            "city": "Tripoli",
+            "zip": "",
+            "lat": 34.4301,
+            "lon": 35.8476,
+            "timezone": "Asia/Beirut",
+            "isp": "Bitar NET Sarl",
+            "org": "Bitar NET Sarl",
+            "as": "AS50500 BITAR NET SARL",
+            "query": "185.114.89.74",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.16
+        },
         {
             "status": "success",
             "country": "Lebanon",
@@ -20,7 +39,7 @@
             "query": "160.238.122.200",
             "type": "http",
             "port": "8080",
-            "response_time": 9.36
+            "response_time": 5.94
         }
     ]
 }
