@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.73
+            "response_time": 1.97
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "134.199.159.23",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.97
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "170.64.170.204",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.1
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -58,26 +77,26 @@
             "query": "54.253.183.151",
             "type": "http",
             "port": "16955",
-            "response_time": 3.16
+            "response_time": 3.6
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.51.148.102",
+            "query": "54.253.183.151",
             "type": "http",
-            "port": "53000",
-            "response_time": 3.48
+            "port": "4145",
+            "response_time": 3.85
         }
     ]
 }
