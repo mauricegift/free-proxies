@@ -1,8 +1,27 @@
 {
     "countryCode": "CL",
     "country": "Chile",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Chile",
+            "countryCode": "CL",
+            "region": "LL",
+            "regionName": "Los Lagos Region",
+            "city": "Osorno",
+            "zip": "5290000",
+            "lat": -40.5743,
+            "lon": -73.139,
+            "timezone": "America/Santiago",
+            "isp": "Telefonica del Sur S.A",
+            "org": "SERV. AGRICOLA Y GANADERO",
+            "as": "AS14117 Telefonica del Sur S.A.",
+            "query": "190.13.147.241",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.71
+        },
         {
             "status": "success",
             "country": "Chile",
@@ -20,26 +39,7 @@
             "query": "45.238.20.212",
             "type": "http",
             "port": "999",
-            "response_time": 2.0
-        },
-        {
-            "status": "success",
-            "country": "Chile",
-            "countryCode": "CL",
-            "region": "LI",
-            "regionName": "O'Higgins Region",
-            "city": "Las Cabras",
-            "zip": "",
-            "lat": -34.2623,
-            "lon": -70.7982,
-            "timezone": "America/Santiago",
-            "isp": "Netdelsur Telecomunicaciones SPA",
-            "org": "Netdelsur Telecomunicaciones SPA",
-            "as": "AS265858 NETDELSUR TELECOMUNICACIONES SPA",
-            "query": "45.225.204.8",
-            "type": "http",
-            "port": "999",
-            "response_time": 10.46
+            "response_time": 5.66
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "38.7.195.52",
             "type": "http",
             "port": "999",
-            "response_time": 13.21
+            "response_time": 7.17
+        },
+        {
+            "status": "success",
+            "country": "Chile",
+            "countryCode": "CL",
+            "region": "RM",
+            "regionName": "Santiago Metropolitan",
+            "city": "Melipilla",
+            "zip": "",
+            "lat": -33.7004,
+            "lon": -71.2162,
+            "timezone": "America/Santiago",
+            "isp": "Binet Networking Data Limitada",
+            "org": "Binet Networking Data Limitada",
+            "as": "AS269988 BINET NETWORKING DATA LIMITADA",
+            "query": "177.128.115.198",
+            "type": "http",
+            "port": "999",
+            "response_time": 9.02
         }
     ]
 }
