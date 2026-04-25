@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 8,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "47.79.79.35",
             "type": "socks5",
             "port": "10808",
-            "response_time": 2.15
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HEA",
-            "regionName": "Eastern District",
-            "city": "North Point",
-            "zip": "96521",
-            "lat": 22.285,
-            "lon": 114.1953,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "PCCW IMSBiz",
-            "org": "Hong Kong Telecommunications (HKT) Limited",
-            "as": "AS4760 HKT Limited",
-            "query": "42.200.125.44",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.69
+            "response_time": 2.65
         },
         {
             "status": "success",
@@ -56,28 +37,9 @@
             "org": "Tencent Cloud Computing",
             "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
             "query": "43.129.80.138",
-            "type": "socks5",
+            "type": "socks4",
             "port": "18999",
-            "response_time": 7.53
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "NKT",
-            "regionName": "Kwai Tsing District",
-            "city": "Kwai Chung",
-            "zip": "",
-            "lat": 22.374,
-            "lon": 114.1369,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "DMIT Cloud Services",
-            "org": "",
-            "as": "AS906 DMIT Cloud Services",
-            "query": "154.12.176.85",
-            "type": "socks5",
-            "port": "8080",
-            "response_time": 9.65
+            "response_time": 3.26
         },
         {
             "status": "success",
@@ -96,7 +58,26 @@
             "query": "123.58.219.171",
             "type": "socks5",
             "port": "10808",
-            "response_time": 10.27
+            "response_time": 3.52
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NKT",
+            "regionName": "Kwai Tsing District",
+            "city": "Kwai Chung",
+            "zip": "",
+            "lat": 22.374,
+            "lon": 114.1369,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "DMIT Cloud Services",
+            "org": "",
+            "as": "AS906 DMIT Cloud Services",
+            "query": "154.12.176.85",
+            "type": "socks5",
+            "port": "8080",
+            "response_time": 5.11
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "154.12.176.85",
             "type": "socks5",
             "port": "8088",
-            "response_time": 10.28
+            "response_time": 6.09
         },
         {
             "status": "success",
@@ -123,18 +104,75 @@
             "countryCode": "HK",
             "region": "HCW",
             "regionName": "Central and Western District",
-            "city": "Sheung Wan",
-            "zip": "96521",
-            "lat": 22.2868,
-            "lon": 114.152,
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.273,
+            "lon": 114.1498,
             "timezone": "Asia/Hong_Kong",
-            "isp": "CTG Server Ltd.",
-            "org": "Rackip Consultancy Pte. LTD",
-            "as": "AS152194 CTG Server Limited",
-            "query": "118.107.29.235",
+            "isp": "Huizhou Huigu Cloud Technology Co Ltd",
+            "org": "Huizhou Huigu Cloud Technology Co., Ltd",
+            "as": "AS152179 GLOBAL COMMUNICATION NETWORK LIMITED",
+            "query": "89.251.26.233",
+            "type": "socks4",
+            "port": "7890",
+            "response_time": 9.71
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KSS",
+            "regionName": "Sham Shui Po District",
+            "city": "Cullinan West",
+            "zip": "",
+            "lat": 22.327,
+            "lon": 114.154,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "PCCW IMSBiz",
+            "org": "Hong Kong Telecommunications (HKT) Limited",
+            "as": "AS4760 HKT Limited",
+            "query": "42.200.76.16",
+            "type": "http",
+            "port": "3888",
+            "response_time": 11.13
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.218.99.137",
             "type": "socks5",
-            "port": "5555",
-            "response_time": 11.46
+            "port": "1011",
+            "response_time": 11.47
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Aceville Pte.ltd",
+            "org": "",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.132.188.134",
+            "type": "http",
+            "port": "443",
+            "response_time": 14.33
         },
         {
             "status": "success",
@@ -153,7 +191,26 @@
             "query": "43.132.188.134",
             "type": "socks5",
             "port": "8888",
-            "response_time": 12.14
+            "response_time": 16.99
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Yunify Technologies Inc",
+            "org": "Yunify Technologies Inc.",
+            "as": "AS134366 Cloud Computing HK Limited",
+            "query": "139.198.113.42",
+            "type": "http",
+            "port": "10023",
+            "response_time": 20.74
         }
     ]
 }
