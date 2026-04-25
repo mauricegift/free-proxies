@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.10.6",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.22
+            "query": "102.0.14.42",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.97
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.21.148",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.03
+            "query": "154.79.248.156",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.06
         },
         {
             "status": "success",
@@ -52,32 +52,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Safaricom Limited",
-            "org": "Safaricom Limited",
-            "as": "AS37061 Safaricom Limited",
-            "query": "197.248.86.237",
-            "type": "http",
-            "port": "32650",
-            "response_time": 7.96
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Maintainer Liquid Telecommunications Operations Limited",
-            "org": "",
-            "as": "AS30844 Liquid Telecommunications Ltd",
-            "query": "41.72.213.182",
-            "type": "http",
-            "port": "8090",
-            "response_time": 12.53
+            "isp": "Jamii Telecommunications Limited",
+            "org": "FAIBA",
+            "as": "AS36866 Jamii Telecommunications Limited",
+            "query": "197.232.47.122",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.68
         }
     ]
 }
