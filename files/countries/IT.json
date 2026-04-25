@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 7,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "15.160.132.166",
             "type": "http",
             "port": "3655",
-            "response_time": 1.2
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon Technologies Inc",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.160.116.45",
-            "type": "http",
-            "port": "28055",
-            "response_time": 1.21
+            "response_time": 1.37
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "15.160.116.45",
             "type": "http",
             "port": "13815",
-            "response_time": 1.22
+            "response_time": 1.38
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4681,
+            "lon": 9.2011,
+            "timezone": "Europe/Rome",
+            "isp": "Amazon Technologies Inc",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.160.116.45",
+            "type": "http",
+            "port": "28055",
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.24
+            "response_time": 1.55
         },
         {
             "status": "success",
@@ -96,45 +96,7 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.24
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "San Giovanni Valdarno",
-            "zip": "52027",
-            "lat": 43.5707,
-            "lon": 11.5331,
-            "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "91.192.25.158",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 3.74
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6358,
-            "lon": 11.6746,
-            "timezone": "Europe/Rome",
-            "isp": "NGI",
-            "org": "NGI Spa",
-            "as": "AS35612 EOLO S.p.A.",
-            "query": "78.134.20.48",
-            "type": "http",
-            "port": "8080",
-            "response_time": 16.16
+            "response_time": 1.55
         }
     ]
 }
