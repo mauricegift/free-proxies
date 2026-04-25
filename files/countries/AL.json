@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Enterprise",
+            "org": "Vodafone RESIDENTIAL NAT",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.74.66",
+            "query": "80.78.78.106",
             "type": "socks4",
             "port": "65530",
-            "response_time": 1.05
+            "response_time": 2.04
         },
         {
             "status": "success",
@@ -28,18 +28,56 @@
             "countryCode": "AL",
             "region": "03",
             "regionName": "Elbasan County",
-            "city": "Labinot-Fush\u00eb",
+            "city": "Elbasan",
             "zip": "",
-            "lat": 41.1533,
-            "lon": 20.1683,
+            "lat": 41.1122,
+            "lon": 20.0818,
             "timezone": "Europe/Tirane",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.221.189",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.84
+            "isp": "ATU",
+            "org": "",
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "37.26.86.206",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.23
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Abissnet ISP",
+            "org": "",
+            "as": "AS35047 Abissnet sh.a.",
+            "query": "80.91.116.129",
+            "type": "http",
+            "port": "8081",
+            "response_time": 5.3
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Business Custommers",
+            "org": "",
+            "as": "AS35047 Abissnet sh.a.",
+            "query": "77.242.21.133",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.93
         }
     ]
 }
