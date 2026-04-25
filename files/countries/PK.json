@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "103.150.206.77",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.4
+            "response_time": 5.1
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "103.225.221.18",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.89
+            "response_time": 6.55
         },
         {
             "status": "success",
@@ -48,17 +48,36 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "74000",
-            "lat": 24.8591,
-            "lon": 66.9983,
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
             "timezone": "Asia/Karachi",
-            "isp": "Connect Communication",
-            "org": "Connect Communication",
-            "as": "AS132165 Connect Communications",
-            "query": "115.42.67.186",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
             "type": "socks4",
-            "port": "56534",
-            "response_time": 8.49
+            "port": "5678",
+            "response_time": 6.56
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
+            "timezone": "Asia/Karachi",
+            "isp": "Nayatel (Pvt) Ltd",
+            "org": "Nayatel",
+            "as": "AS23674 Nayatel (Pvt) Ltd",
+            "query": "124.109.44.126",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 8.95
         }
     ]
 }
