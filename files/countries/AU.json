@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 8,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.02
+            "response_time": 1.73
         },
         {
             "status": "success",
@@ -36,48 +36,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "134.199.159.23",
+            "query": "170.64.170.204",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.02
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.99.200",
-            "type": "http",
-            "port": "19275",
-            "response_time": 3.36
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.99.200",
-            "type": "http",
-            "port": "35496",
-            "response_time": 3.46
+            "response_time": 2.1
         },
         {
             "status": "success",
@@ -90,13 +52,13 @@
             "lat": -33.8591,
             "lon": 151.2002,
             "timezone": "Australia/Sydney",
-            "isp": "Amazon Technologies Inc.",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.211.161.204",
+            "query": "54.253.183.151",
             "type": "http",
-            "port": "1452",
-            "response_time": 3.69
+            "port": "16955",
+            "response_time": 3.16
         },
         {
             "status": "success",
@@ -109,51 +71,13 @@
             "lat": -37.8159,
             "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.99.200",
+            "query": "16.51.148.102",
             "type": "http",
-            "port": "16969",
-            "response_time": 3.82
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.154.68",
-            "type": "http",
-            "port": "52712",
-            "response_time": 3.99
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.143.154",
-            "type": "http",
-            "port": "51934",
-            "response_time": 4.64
+            "port": "53000",
+            "response_time": 3.48
         }
     ]
 }
