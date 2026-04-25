@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 9,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Amazon Technologies Inc",
             "org": "AWS EC2 (eu-south-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.160.116.45",
+            "query": "15.160.132.166",
             "type": "http",
-            "port": "13815",
-            "response_time": 1.24
+            "port": "3655",
+            "response_time": 1.2
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "15.160.116.45",
             "type": "http",
             "port": "28055",
-            "response_time": 2.4
+            "response_time": 1.21
         },
         {
             "status": "success",
@@ -55,10 +55,10 @@
             "isp": "Amazon Technologies Inc",
             "org": "AWS EC2 (eu-south-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.160.132.166",
+            "query": "15.160.116.45",
             "type": "http",
-            "port": "3655",
-            "response_time": 4.27
+            "port": "13815",
+            "response_time": 1.22
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.49
+            "response_time": 1.24
         },
         {
             "status": "success",
@@ -96,26 +96,7 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.49
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "21",
-            "regionName": "Piedmont",
-            "city": "Turin",
-            "zip": "10121",
-            "lat": 45.0913,
-            "lon": 7.66158,
-            "timezone": "Europe/Rome",
-            "isp": "HOST-VDC",
-            "org": "",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.191.202",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.62
+            "response_time": 1.24
         },
         {
             "status": "success",
@@ -123,56 +104,37 @@
             "countryCode": "IT",
             "region": "52",
             "regionName": "Tuscany",
-            "city": "Arezzo",
-            "zip": "52100",
-            "lat": 43.4631,
-            "lon": 11.8783,
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
             "timezone": "Europe/Rome",
-            "isp": "Aruba S.p.A.",
-            "org": "Aruba S.p.A.",
-            "as": "AS31034 Aruba S.p.A.",
-            "query": "77.81.230.90",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
             "type": "socks4",
-            "port": "9050",
-            "response_time": 7.53
+            "port": "4145",
+            "response_time": 3.74
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Rome",
-            "zip": "00118",
-            "lat": 41.8905,
-            "lon": 12.5127,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6358,
+            "lon": 11.6746,
             "timezone": "Europe/Rome",
-            "isp": "Aeza Group LLC",
-            "org": "Qwarta",
-            "as": "AS216246 Aeza Group LLC",
-            "query": "178.159.94.76",
+            "isp": "NGI",
+            "org": "NGI Spa",
+            "as": "AS35612 EOLO S.p.A.",
+            "query": "78.134.20.48",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.09
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "82",
-            "regionName": "Sicily",
-            "city": "Furnari",
-            "zip": "98054",
-            "lat": 38.1031,
-            "lon": 15.1206,
-            "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "2.115.212.62",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 8.65
+            "port": "8080",
+            "response_time": 16.16
         }
     ]
 }
