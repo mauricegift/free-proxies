@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "45.8.98.142",
             "type": "socks4",
             "port": "30010",
-            "response_time": 1.82
+            "response_time": 1.72
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "45.8.98.142",
             "type": "socks5",
             "port": "30010",
-            "response_time": 1.82
+            "response_time": 1.72
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "198.13.190.60",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.95
+            "response_time": 1.76
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.78.141",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.77
         },
         {
             "status": "success",
@@ -77,45 +96,7 @@
             "query": "176.12.78.141",
             "type": "socks5",
             "port": "1080",
-            "response_time": 4.89
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "",
-            "lat": 51.1876,
-            "lon": 71.4491,
-            "timezone": "Asia/Almaty",
-            "isp": "NLS ASTANA LLP",
-            "org": "Beget",
-            "as": "AS205516 NLS ASTANA LLP",
-            "query": "91.218.140.166",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.76
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
-            "timezone": "Asia/Almaty",
-            "isp": "Netfire TEC",
-            "org": "",
-            "as": "AS205431 HostLab LLC",
-            "query": "176.12.78.141",
-            "type": "http",
-            "port": "3128",
-            "response_time": 6.58
+            "response_time": 5.77
         }
     ]
 }
