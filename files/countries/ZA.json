@@ -1,8 +1,27 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "MP",
+            "regionName": "Mpumalanga",
+            "city": "Nelspruit",
+            "zip": "1200",
+            "lat": -25.4633,
+            "lon": 30.9629,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Clear Access (Pty) Ltd",
+            "org": "Bridgnet",
+            "as": "AS327794 Clear Access (Pty) Ltd",
+            "query": "102.36.127.231",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.31
+        },
         {
             "status": "success",
             "country": "South Africa",
@@ -20,7 +39,7 @@
             "query": "165.0.100.149",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.47
+            "response_time": 1.49
         },
         {
             "status": "success",
@@ -39,45 +58,45 @@
             "query": "102.217.190.157",
             "type": "socks5",
             "port": "7080",
-            "response_time": 1.58
+            "response_time": 2.59
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "MP",
-            "regionName": "Mpumalanga",
-            "city": "Nelspruit",
-            "zip": "1200",
-            "lat": -25.4633,
-            "lon": 30.9629,
+            "region": "LP",
+            "regionName": "Limpopo",
+            "city": "Hoedspruit",
+            "zip": "1371",
+            "lat": -24.3512,
+            "lon": 30.9533,
             "timezone": "Africa/Johannesburg",
-            "isp": "Clear Access (Pty) Ltd",
-            "org": "Bridgnet",
-            "as": "AS327794 Clear Access (Pty) Ltd",
-            "query": "102.36.127.231",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 3.32
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.193.116",
+            "isp": "Herotel",
+            "org": "",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "102.66.104.162",
             "type": "http",
-            "port": "8084",
-            "response_time": 6.46
+            "port": "8865",
+            "response_time": 5.76
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2094",
+            "lat": -26.2309,
+            "lon": 28.0583,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Wirulink Pty Ltd",
+            "org": "",
+            "as": "AS37564 Wirulink Pty Ltd",
+            "query": "154.66.159.34",
+            "type": "http",
+            "port": "800",
+            "response_time": 6.93
         }
     ]
 }
