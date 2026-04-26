@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "74000",
-            "lat": 24.8591,
-            "lon": 66.9983,
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
             "timezone": "Asia/Karachi",
-            "isp": "Connect Communication",
-            "org": "Connect Communication",
-            "as": "AS132165 Connect Communications",
-            "query": "115.42.67.186",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
             "type": "socks4",
-            "port": "56534",
-            "response_time": 2.5
+            "port": "5678",
+            "response_time": 3.5
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "103.150.206.77",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.74
+            "response_time": 3.78
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
+            "timezone": "Asia/Karachi",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 9.18
         },
         {
             "status": "success",
@@ -48,17 +67,17 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8127,
-            "lon": 67.0115,
+            "zip": "",
+            "lat": 24.8267,
+            "lon": 67.029,
             "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.231.73",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 5.6
+            "isp": "Supernet",
+            "org": "Telecard Limited",
+            "as": "AS24435 Supernet Limited Transit Autonomous System Number",
+            "query": "116.0.54.25",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.08
         }
     ]
 }
