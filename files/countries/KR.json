@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "KR",
             "region": "41",
             "regionName": "Gyeonggi-do",
-            "city": "Suwon",
-            "zip": "165",
-            "lat": 37.2677,
-            "lon": 127.0457,
+            "city": "Gwangmyeong",
+            "zip": "08620",
+            "lat": 37.465,
+            "lon": 126.891,
             "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Sudogwongangnambonbujang",
+            "isp": "Netropy CO.",
+            "org": "NURILINK",
             "as": "AS4766 Korea Telecom",
-            "query": "121.169.46.116",
-            "type": "socks5",
-            "port": "1090",
-            "response_time": 2.23
+            "query": "118.67.170.121",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.7
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 6.02
+            "response_time": 3.21
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.133.90.161",
+            "type": "http",
+            "port": "8888",
+            "response_time": 6.77
         },
         {
             "status": "success",
@@ -58,7 +77,45 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 8.83
+            "response_time": 6.91
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
+            "timezone": "Asia/Seoul",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
+            "type": "socks4",
+            "port": "60984",
+            "response_time": 8.72
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Suwon",
+            "zip": "165",
+            "lat": 37.2677,
+            "lon": 127.0457,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Sudogwongangnambonbujang",
+            "as": "AS4766 Korea Telecom",
+            "query": "121.169.46.116",
+            "type": "socks5",
+            "port": "1090",
+            "response_time": 9.34
         },
         {
             "status": "success",
@@ -75,9 +132,9 @@
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
             "query": "152.70.237.238",
-            "type": "socks4",
+            "type": "socks5",
             "port": "3128",
-            "response_time": 14.23
+            "response_time": 10.4
         }
     ]
 }
