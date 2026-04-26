@@ -1,8 +1,46 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Public",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.73.120",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 1.14
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.33.26",
+            "type": "http",
+            "port": "8079",
+            "response_time": 7.5
+        },
         {
             "status": "success",
             "country": "Albania",
@@ -20,26 +58,7 @@
             "query": "46.183.124.129",
             "type": "socks4",
             "port": "53551",
-            "response_time": 2.92
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
-            "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
-            "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.170.126",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 3.66
+            "response_time": 8.82
         }
     ]
 }
