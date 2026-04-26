@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "154.12.176.85",
             "type": "socks5",
             "port": "8080",
-            "response_time": 2.12
+            "response_time": 2.05
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "154.12.176.85",
             "type": "socks5",
             "port": "8088",
-            "response_time": 2.18
+            "response_time": 3.14
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NKT",
+            "regionName": "Kwai Tsing District",
+            "city": "Kwai Chung",
+            "zip": "",
+            "lat": 22.3702,
+            "lon": 114.13,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Hong Kong Broadband Network Ltd",
+            "org": "Hong Kong Broadband Network Limited",
+            "as": "AS9269 Hong Kong Broadband Network Ltd.",
+            "query": "183.178.50.58",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.91
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western District",
+            "city": "Hong Kong",
+            "zip": "",
+            "lat": 22.3193,
+            "lon": 114.1693,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.96.238.40",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.94
         },
         {
             "status": "success",
@@ -52,13 +90,32 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud Information Technology (hk) Limited",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "123.58.219.171",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 10.72
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.129.80.138",
+            "type": "socks4",
+            "port": "18999",
+            "response_time": 6.4
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Yunify Technologies Inc",
+            "org": "Yunify Technologies Inc.",
+            "as": "AS134366 Cloud Computing HK Limited",
+            "query": "139.198.113.42",
+            "type": "http",
+            "port": "10023",
+            "response_time": 15.98
         },
         {
             "status": "success",
@@ -75,9 +132,9 @@
             "org": "Vapeline Technology(hk)., limited",
             "as": "AS401701 cognetcloud INC",
             "query": "103.52.153.52",
-            "type": "socks5",
+            "type": "socks4",
             "port": "8888",
-            "response_time": 11.06
+            "response_time": 17.82
         }
     ]
 }
