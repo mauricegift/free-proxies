@@ -1,8 +1,27 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "04",
+            "regionName": "Kujawsko-Pomorskie",
+            "city": "Torun",
+            "zip": "87-100",
+            "lat": 53.0176,
+            "lon": 18.6202,
+            "timezone": "Europe/Warsaw",
+            "isp": "TK Telekom sp. z o.o.",
+            "org": "Cmlukasza",
+            "as": "AS20960 TK Telekom sp. z o.o.",
+            "query": "94.40.127.166",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.07
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,7 +39,26 @@
             "query": "213.156.124.3",
             "type": "socks4",
             "port": "33333",
-            "response_time": 3.93
+            "response_time": 2.08
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Radom",
+            "zip": "26-600",
+            "lat": 51.3985,
+            "lon": 21.1582,
+            "timezone": "Europe/Warsaw",
+            "isp": "Korbank S. A.",
+            "org": "Korbank S. A.",
+            "as": "AS35179 Korbank S. A.",
+            "query": "83.168.101.27",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.11
         },
         {
             "status": "success",
@@ -28,37 +66,18 @@
             "countryCode": "PL",
             "region": "24",
             "regionName": "Silesia",
-            "city": "\u0141aziska G\u00f3rne",
-            "zip": "43-170",
-            "lat": 50.1495,
-            "lon": 18.8421,
+            "city": "Racib\u00f3rz",
+            "zip": "47-400",
+            "lat": 50.0849,
+            "lon": 18.2166,
             "timezone": "Europe/Warsaw",
-            "isp": "Slaska Siec Metropolitalna Sp. z o.o",
-            "org": "SSM",
-            "as": "AS197274 Slaska Siec Metropolitalna Sp. z o.o.",
-            "query": "185.160.13.112",
+            "isp": "Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa",
+            "org": "Ostrog.Net",
+            "as": "AS30813 Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa",
+            "query": "78.31.92.145",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.2
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "12",
-            "regionName": "Lesser Poland",
-            "city": "Krakow",
-            "zip": "30-710",
-            "lat": 50.0453,
-            "lon": 19.9715,
-            "timezone": "Europe/Warsaw",
-            "isp": "NETIA",
-            "org": "",
-            "as": "AS12741 Netia SA",
-            "query": "37.128.107.102",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 8.2
+            "response_time": 5.21
         }
     ]
 }
