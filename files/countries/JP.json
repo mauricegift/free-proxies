@@ -1,27 +1,8 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 6,
+    "count": 7,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "151-0053",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.163.219.10",
-            "type": "socks4",
-            "port": "20000",
-            "response_time": 1.57
-        },
         {
             "status": "success",
             "country": "Japan",
@@ -37,9 +18,28 @@
             "org": "Vultr Holdings, LLC",
             "as": "AS20473 The Constant Company, LLC",
             "query": "45.76.207.177",
-            "type": "socks5",
+            "type": "socks4",
             "port": "40000",
-            "response_time": 1.66
+            "response_time": 1.36
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "27",
+            "regionName": "\u014csaka",
+            "city": "Osaka",
+            "zip": "562-0021",
+            "lat": 34.8225,
+            "lon": 135.4711,
+            "timezone": "Asia/Tokyo",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-osaka-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "150.230.59.207",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.46
         },
         {
             "status": "success",
@@ -47,18 +47,37 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
+            "city": "Tokyo",
+            "zip": "102-0082",
+            "lat": 35.6893,
+            "lon": 139.6899,
             "timezone": "Asia/Tokyo",
-            "isp": "The Constant Company, LLC",
-            "org": "Choopa, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "66.42.35.216",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "PCCW Global, Inc.",
+            "as": "AS31713 Gateway Communications",
+            "query": "205.177.85.130",
+            "type": "socks4",
+            "port": "39593",
+            "response_time": 4.83
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "270-1351",
+            "lat": 35.798,
+            "lon": 140.1803,
+            "timezone": "Asia/Tokyo",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "150.230.194.118",
             "type": "socks5",
-            "port": "5555",
-            "response_time": 9.52
+            "port": "555",
+            "response_time": 6.27
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "103.75.118.84",
             "type": "socks4",
             "port": "1080",
-            "response_time": 16.05
+            "response_time": 8.29
         },
         {
             "status": "success",
@@ -86,17 +105,17 @@
             "region": "13",
             "regionName": "Tokyo",
             "city": "Tokyo",
-            "zip": "102-0082",
+            "zip": "151-0053",
             "lat": 35.6893,
             "lon": 139.6899,
             "timezone": "Asia/Tokyo",
-            "isp": "BrainStorm Network",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "103.75.118.84",
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "101.36.104.46",
             "type": "socks5",
-            "port": "1080",
-            "response_time": 16.05
+            "port": "10808",
+            "response_time": 14.5
         },
         {
             "status": "success",
@@ -114,8 +133,8 @@
             "as": "AS15830 Equinix (EMEA) Acquisition Enterprises B.V.",
             "query": "147.75.92.249",
             "type": "http",
-            "port": "10042",
-            "response_time": 16.3
+            "port": "10015",
+            "response_time": 15.58
         }
     ]
 }
