@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6329,
-            "lon": 11.6726,
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
             "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "185.248.245.119",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
             "type": "socks4",
-            "port": "80",
-            "response_time": 2.66
+            "port": "4153",
+            "response_time": 4.16
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Lioni",
+            "zip": "83047",
+            "lat": 40.8808,
+            "lon": 15.1833,
+            "timezone": "Europe/Rome",
+            "isp": "Sirius Technology SRL",
+            "org": "Sirius Technology SRL",
+            "as": "AS60501 Sirius Technology SRL",
+            "query": "149.86.206.27",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.28
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.8
+            "response_time": 7.18
         }
     ]
 }
