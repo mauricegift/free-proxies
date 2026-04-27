@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "102.217.190.157",
             "type": "socks5",
             "port": "7080",
-            "response_time": 1.56
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "MP",
+            "regionName": "Mpumalanga",
+            "city": "Nelspruit",
+            "zip": "1200",
+            "lat": -25.4633,
+            "lon": 30.9629,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Clear Access (Pty) Ltd",
+            "org": "Bridgnet",
+            "as": "AS327794 Clear Access (Pty) Ltd",
+            "query": "102.36.127.231",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.31
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7925",
+            "lat": -33.914,
+            "lon": 18.4129,
+            "timezone": "Africa/Johannesburg",
+            "isp": "RSAWEB (PTY) LTD",
+            "org": "Rsaweb",
+            "as": "AS37053 RSAWEB (PTY) LTD",
+            "query": "165.0.100.149",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.65
         },
         {
             "status": "success",
@@ -28,18 +66,18 @@
             "countryCode": "ZA",
             "region": "GP",
             "regionName": "Gauteng",
-            "city": "Germiston",
-            "zip": "1401",
-            "lat": -26.2135,
-            "lon": 28.1858,
+            "city": "Johannesburg",
+            "zip": "2188",
+            "lat": -26.2309,
+            "lon": 28.0583,
             "timezone": "Africa/Johannesburg",
-            "isp": "Screamer Telecommunications",
-            "org": "Screamer Telecommunications",
-            "as": "AS327688 Screamer Telecommunications",
-            "query": "41.57.35.211",
+            "isp": "OM-SN-46/24",
+            "org": "",
+            "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
+            "query": "102.212.46.48",
             "type": "http",
-            "port": "6060",
-            "response_time": 15.14
+            "port": "12354",
+            "response_time": 6.86
         }
     ]
 }
