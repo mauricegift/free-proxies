@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "WiCAM Corporation Ltd.",
-            "org": "U Solutions",
-            "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "202.79.26.242",
+            "isp": "COGETEL Co., Ltd",
+            "org": "Cogetel Ltd",
+            "as": "AS23673 Cogetel Online, Cambodia, ISP",
+            "query": "124.248.191.83",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.96
+            "response_time": 1.76
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "COGETEL Co",
+            "org": "",
+            "as": "AS23673 Cogetel Online, Cambodia, ISP",
+            "query": "43.230.193.154",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.5
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "110.235.252.74",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.48
+            "response_time": 3.58
         },
         {
             "status": "success",
@@ -52,13 +71,32 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "ONLINE",
-            "org": "",
-            "as": "AS23673 Cogetel Online, Cambodia, ISP",
-            "query": "203.189.154.80",
+            "isp": "WiCAM Corporation Ltd.",
+            "org": "WiCAM Corporation, LTD",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "202.79.27.12",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.71
+            "response_time": 3.96
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "WiCAM Corporation Ltd.",
+            "org": "U Solutions",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "202.79.26.242",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 7.0
         },
         {
             "status": "success",
@@ -77,26 +115,7 @@
             "query": "49.156.44.115",
             "type": "http",
             "port": "8080",
-            "response_time": 6.67
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "12",
-            "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
-            "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "COGETEL Co., Ltd",
-            "org": "Cogetel Ltd",
-            "as": "AS23673 Cogetel Online, Cambodia, ISP",
-            "query": "124.248.177.43",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 6.78
+            "response_time": 10.89
         }
     ]
 }
