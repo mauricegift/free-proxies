@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.69
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.91
+            "response_time": 7.55
         }
     ]
 }
