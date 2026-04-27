@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.196.105",
+            "query": "202.79.35.12",
             "type": "socks4",
-            "port": "48293",
-            "response_time": 2.61
+            "port": "1080",
+            "response_time": 5.62
         },
         {
             "status": "success",
@@ -30,16 +30,35 @@
             "regionName": "Bagmati Province",
             "city": "Kathmandu",
             "zip": "",
-            "lat": 27.7108,
-            "lon": 85.3251,
+            "lat": 27.7017,
+            "lon": 85.3206,
             "timezone": "Asia/Kathmandu",
-            "isp": "WorldLink Communications",
-            "org": "",
-            "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.217.188",
+            "isp": "Classic Tech Pvt. Ltd",
+            "org": "ClassicTech",
+            "as": "AS55915 Classic Tech Pvt. Ltd.",
+            "query": "49.236.212.134",
             "type": "http",
-            "port": "2121",
-            "response_time": 8.66
+            "port": "8888",
+            "response_time": 9.02
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Patan",
+            "zip": "",
+            "lat": 27.6744,
+            "lon": 85.3123,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Vianet",
+            "org": "Vianet Communications Pvt. Ltd",
+            "as": "AS45650 VIA NET COMMUNICATION LTD.",
+            "query": "43.245.85.46",
+            "type": "http",
+            "port": "808",
+            "response_time": 12.63
         }
     ]
 }
