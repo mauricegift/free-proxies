@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "213.176.66.191",
             "type": "socks5",
             "port": "34619",
-            "response_time": 1.08
+            "response_time": 1.15
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.66",
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 9.15
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.66",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 9.15
         },
         {
             "status": "success",
@@ -33,13 +71,13 @@
             "lat": 48.8558,
             "lon": 2.3494,
             "timezone": "Europe/Paris",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "158.178.198.31",
+            "isp": "Aeza International LTD",
+            "org": "Aeza International LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "77.221.152.210",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 2.03
+            "port": "36219",
+            "response_time": 11.58
         },
         {
             "status": "success",
@@ -49,16 +87,16 @@
             "regionName": "\u00cele-de-France",
             "city": "Paris",
             "zip": "75000",
-            "lat": 48.8575,
-            "lon": 2.35138,
+            "lat": 48.8566,
+            "lon": 2.35222,
             "timezone": "Europe/Paris",
-            "isp": "FBW NETWORKS SAS",
-            "org": "FBW NETWORKS",
-            "as": "AS34534 FBW NETWORKS SAS",
-            "query": "37.44.238.2",
-            "type": "socks4",
-            "port": "52611",
-            "response_time": 5.87
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.62",
+            "type": "http",
+            "port": "1081",
+            "response_time": 14.06
         }
     ]
 }
