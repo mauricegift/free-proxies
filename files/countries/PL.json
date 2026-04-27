@@ -1,8 +1,27 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Radom",
+            "zip": "26-600",
+            "lat": 51.3985,
+            "lon": 21.1582,
+            "timezone": "Europe/Warsaw",
+            "isp": "Korbank S. A.",
+            "org": "Korbank S. A.",
+            "as": "AS35179 Korbank S. A.",
+            "query": "83.168.101.27",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.81
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,26 +39,45 @@
             "query": "77.65.50.118",
             "type": "socks4",
             "port": "34159",
-            "response_time": 5.36
+            "response_time": 4.3
         },
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Siedlce",
-            "zip": "08-110",
-            "lat": 52.1703,
-            "lon": 22.2834,
+            "region": "18",
+            "regionName": "Subcarpathia",
+            "city": "Rzesz\u00f3w",
+            "zip": "35-213",
+            "lat": 50.0482,
+            "lon": 21.9329,
             "timezone": "Europe/Warsaw",
-            "isp": "Media Telekom Sp. z o.o.",
-            "org": "Media Telekom Sp. z o.o",
-            "as": "AS57723 Media Telekom Sp. z o.o.",
-            "query": "185.186.17.57",
+            "isp": "Skyware Sp. z o.o.",
+            "org": "Skyware Sp. z o.o",
+            "as": "AS42673 Skyware Sp. z o.o.",
+            "query": "91.150.189.122",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 6.55
+            "port": "60647",
+            "response_time": 4.41
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "24",
+            "regionName": "Silesia",
+            "city": "\u0141aziska G\u00f3rne",
+            "zip": "43-170",
+            "lat": 50.1495,
+            "lon": 18.8421,
+            "timezone": "Europe/Warsaw",
+            "isp": "Slaska Siec Metropolitalna Sp. z o.o",
+            "org": "SSM",
+            "as": "AS197274 Slaska Siec Metropolitalna Sp. z o.o.",
+            "query": "185.160.13.112",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.21
         }
     ]
 }
