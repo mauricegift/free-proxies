@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 4,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,67 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "86.104.74.110",
-            "type": "http",
+            "query": "185.234.64.63",
+            "type": "socks5",
             "port": "1081",
-            "response_time": 2.09
+            "response_time": 2.14
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "TerraTransit AG",
+            "as": "AS51167 Contabo GmbH",
+            "query": "109.123.251.109",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.29
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.62",
+            "type": "http",
+            "port": "1082",
+            "response_time": 2.9
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8575,
+            "lon": 2.35138,
+            "timezone": "Europe/Paris",
+            "isp": "OVH SAS",
+            "org": "Ahrefs Pte Ltd Dmytro",
+            "as": "AS16276 OVH SAS",
+            "query": "91.134.7.145",
+            "type": "socks4",
+            "port": "4008",
+            "response_time": 3.3
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "158.178.198.31",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.9
+            "response_time": 4.1
         },
         {
             "status": "success",
@@ -58,7 +115,45 @@
             "query": "158.178.198.31",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.9
+            "response_time": 4.1
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8575,
+            "lon": 2.35138,
+            "timezone": "Europe/Paris",
+            "isp": "OVH SAS",
+            "org": "Ahrefs Pte Ltd Dmytro",
+            "as": "AS16276 OVH SAS",
+            "query": "91.134.7.145",
+            "type": "socks5",
+            "port": "4002",
+            "response_time": 4.8
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "HDF",
+            "regionName": "Hauts-de-France",
+            "city": "Valenciennes",
+            "zip": "59300",
+            "lat": 50.3571,
+            "lon": 3.51833,
+            "timezone": "Europe/Paris",
+            "isp": "global",
+            "org": "",
+            "as": "AS197922 Techcrea Solutions SAS",
+            "query": "185.41.152.110",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.26
         },
         {
             "status": "success",
@@ -74,10 +169,29 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "185.234.64.66",
+            "query": "94.131.118.39",
+            "type": "http",
+            "port": "1082",
+            "response_time": 10.97
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.63",
             "type": "socks5",
-            "port": "1081",
-            "response_time": 7.16
+            "port": "1082",
+            "response_time": 15.28
         }
     ]
 }
