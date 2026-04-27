@@ -1,8 +1,27 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "8001",
+            "lat": -33.9258,
+            "lon": 18.4259,
+            "timezone": "Africa/Johannesburg",
+            "isp": "CloudGistics",
+            "org": "CloudGistics",
+            "as": "AS328970 CloudGistics",
+            "query": "102.217.190.157",
+            "type": "socks5",
+            "port": "7080",
+            "response_time": 2.06
+        },
         {
             "status": "success",
             "country": "South Africa",
@@ -20,7 +39,45 @@
             "query": "165.0.100.149",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.54
+            "response_time": 4.55
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "EC",
+            "regionName": "Eastern Cape",
+            "city": "Kareedouw",
+            "zip": "",
+            "lat": -33.9528,
+            "lon": 24.2905,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Telkom SA Ltd.",
+            "org": "Telkom SA Ltd",
+            "as": "AS5713 Telkom SA Ltd.",
+            "query": "196.25.34.194",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.7
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "KZN",
+            "regionName": "KwaZulu-Natal",
+            "city": "Durban",
+            "zip": "4001",
+            "lat": -29.8553,
+            "lon": 31.0428,
+            "timezone": "Africa/Johannesburg",
+            "isp": "ispot-core",
+            "org": "",
+            "as": "AS327922 Perlcom CC T/A iSPOT",
+            "query": "169.239.45.51",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.79
         },
         {
             "status": "success",
@@ -39,45 +96,7 @@
             "query": "217.29.209.22",
             "type": "http",
             "port": "8865",
-            "response_time": 5.86
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Pretoria",
-            "zip": "0157",
-            "lat": -25.757,
-            "lon": 28.1443,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Level-7 Internet",
-            "org": "",
-            "as": "AS327901 Level 7 Wireless (Pty) Ltd",
-            "query": "102.217.202.121",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.34
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "WC",
-            "regionName": "Western Cape",
-            "city": "Cape Town",
-            "zip": "7100",
-            "lat": -33.914,
-            "lon": 18.4129,
-            "timezone": "Africa/Johannesburg",
-            "isp": "RSAWEB (PTY) LTD",
-            "org": "Rsaweb",
-            "as": "AS37053 RSAWEB (PTY) LTD",
-            "query": "165.0.136.30",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.85
+            "response_time": 9.49
         }
     ]
 }
