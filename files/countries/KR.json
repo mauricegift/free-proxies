@@ -1,26 +1,26 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 7,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "45",
-            "regionName": "Jeollabuk-do",
-            "city": "Jeonju",
-            "zip": "548",
-            "lat": 35.8396,
-            "lon": 127.0671,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Kornet",
-            "as": "AS4766 Korea Telecom",
-            "query": "14.55.30.106",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.19
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.133.90.161",
+            "type": "http",
+            "port": "8888",
+            "response_time": 3.98
         },
         {
             "status": "success",
@@ -39,64 +39,7 @@
             "query": "121.169.46.116",
             "type": "socks5",
             "port": "1090",
-            "response_time": 2.46
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "045",
-            "lat": 37.5656,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Kornet",
-            "as": "AS4766 Korea Telecom",
-            "query": "210.223.44.230",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.53
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "04524",
-            "lat": 37.5658,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.133.90.161",
-            "type": "socks5",
-            "port": "8088",
-            "response_time": 5.67
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Jongno-gu",
-            "zip": "031",
-            "lat": 37.575,
-            "lon": 126.9778,
-            "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "1.231.81.166",
-            "type": "http",
-            "port": "3128",
-            "response_time": 7.14
+            "response_time": 5.64
         },
         {
             "status": "success",
@@ -115,7 +58,26 @@
             "query": "152.70.237.238",
             "type": "socks5",
             "port": "3128",
-            "response_time": 9.77
+            "response_time": 6.88
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Jongno-gu",
+            "zip": "031",
+            "lat": 37.575,
+            "lon": 126.9778,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "1.231.81.166",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.67
         },
         {
             "status": "success",
@@ -132,9 +94,9 @@
             "org": "Tencent Cloud Computing",
             "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
             "query": "43.133.90.161",
-            "type": "http",
-            "port": "8888",
-            "response_time": 14.04
+            "type": "socks5",
+            "port": "8088",
+            "response_time": 7.99
         }
     ]
 }
