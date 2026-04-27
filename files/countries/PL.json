@@ -1,7 +1,7 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,83 @@
             "query": "46.171.28.162",
             "type": "socks4",
             "port": "59311",
-            "response_time": 5.04
+            "response_time": 2.53
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Siedlce",
+            "zip": "08-110",
+            "lat": 52.1703,
+            "lon": 22.2834,
+            "timezone": "Europe/Warsaw",
+            "isp": "Media Telekom Sp. z o.o.",
+            "org": "Media Telekom Sp. z o.o",
+            "as": "AS57723 Media Telekom Sp. z o.o.",
+            "query": "185.186.17.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.08
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "30",
+            "regionName": "Greater Poland",
+            "city": "Poznan",
+            "zip": "61-772",
+            "lat": 52.4053,
+            "lon": 16.934,
+            "timezone": "Europe/Warsaw",
+            "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
+            "org": "Pozman ZOO",
+            "as": "AS8364 Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center",
+            "query": "212.126.5.245",
+            "type": "socks4",
+            "port": "42344",
+            "response_time": 4.16
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "04",
+            "regionName": "Kujawsko-Pomorskie",
+            "city": "Torun",
+            "zip": "87-100",
+            "lat": 53.0176,
+            "lon": 18.6202,
+            "timezone": "Europe/Warsaw",
+            "isp": "TK Telekom sp. z o.o.",
+            "org": "Cmlukasza",
+            "as": "AS20960 TK Telekom sp. z o.o.",
+            "query": "94.40.127.166",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.2
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "18",
+            "regionName": "Subcarpathia",
+            "city": "Rzesz\u00f3w",
+            "zip": "35-213",
+            "lat": 50.0482,
+            "lon": 21.9329,
+            "timezone": "Europe/Warsaw",
+            "isp": "Skyware Sp. z o.o.",
+            "org": "Skyware Sp. z o.o",
+            "as": "AS42673 Skyware Sp. z o.o.",
+            "query": "91.150.189.122",
+            "type": "http",
+            "port": "30389",
+            "response_time": 14.3
         }
     ]
 }
