@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "213.212.204.207",
             "type": "http",
             "port": "1976",
-            "response_time": 4.57
+            "response_time": 9.6
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0094,
+            "lon": 31.2086,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat Misr",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "217.52.247.69",
+            "type": "http",
+            "port": "1981",
+            "response_time": 11.28
         }
     ]
 }
