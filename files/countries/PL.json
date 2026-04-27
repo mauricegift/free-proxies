@@ -1,27 +1,8 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "30",
-            "regionName": "Greater Poland",
-            "city": "Poznan",
-            "zip": "60-537",
-            "lat": 52.4172,
-            "lon": 16.9068,
-            "timezone": "Europe/Warsaw",
-            "isp": "ECHOSTAR-NET-124/24",
-            "org": "Echostar Studio Piotr Ziemniewicz Sp. z o.o",
-            "as": "AS8477 Echostar Studio Sp. z o.o.",
-            "query": "213.156.124.3",
-            "type": "socks4",
-            "port": "33333",
-            "response_time": 2.04
-        },
         {
             "status": "success",
             "country": "Poland",
@@ -36,48 +17,10 @@
             "isp": "AS Consulting Sp. z o. o.",
             "org": "Korbank S. A",
             "as": "AS60645 AS Consulting Sp. z o. o.",
-            "query": "185.32.4.126",
+            "query": "185.32.4.102",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.2
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "05-077",
-            "lat": 52.2196,
-            "lon": 21.2313,
-            "timezone": "Europe/Warsaw",
-            "isp": "InterWan",
-            "org": "InterWan Sp. z o.o",
-            "as": "AS197177 InterWan Sp. z o.o.",
-            "query": "91.223.52.141",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.62
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "24",
-            "regionName": "Silesia",
-            "city": "Myszk\u00f3w",
-            "zip": "42-300",
-            "lat": 50.5709,
-            "lon": 19.3246,
-            "timezone": "Europe/Warsaw",
-            "isp": "PHU Kario-Sat Sp. z o.o.",
-            "org": "Kariosat 185 79",
-            "as": "AS206957 PHU Kario-Sat Sp. z o.o.",
-            "query": "185.79.243.153",
-            "type": "socks4",
-            "port": "38431",
-            "response_time": 6.07
+            "response_time": 1.04
         },
         {
             "status": "success",
@@ -96,7 +39,45 @@
             "query": "185.186.17.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.44
+            "response_time": 1.46
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Masovian",
+            "city": "Warsaw",
+            "zip": "03",
+            "lat": 52.2296,
+            "lon": 21.0122,
+            "timezone": "Europe/Warsaw",
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "192.145.28.25",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Radom",
+            "zip": "26-600",
+            "lat": 51.3985,
+            "lon": 21.1582,
+            "timezone": "Europe/Warsaw",
+            "isp": "Korbank S. A.",
+            "org": "Korbank S. A.",
+            "as": "AS35179 Korbank S. A.",
+            "query": "83.168.101.27",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.68
         },
         {
             "status": "success",
@@ -113,9 +94,9 @@
             "org": "OVH Sp. z o. o",
             "as": "AS16276 OVH SAS",
             "query": "51.83.226.103",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9055",
-            "response_time": 12.4
+            "response_time": 10.97
         }
     ]
 }
