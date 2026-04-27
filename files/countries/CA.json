@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "184.95.235.194",
             "type": "socks5",
             "port": "1080",
-            "response_time": 8.76
+            "response_time": 2.64
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H2L",
+            "lat": 45.5212,
+            "lon": -73.5524,
+            "timezone": "America/Toronto",
+            "isp": "Videotron Telecom Ltee",
+            "org": "Fibrenoire Inc.",
+            "as": "AS22652 Videotron Ltee",
+            "query": "184.95.220.42",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.86
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M5A",
+            "lat": 43.6547,
+            "lon": -79.3623,
+            "timezone": "America/Toronto",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "159.89.117.136",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 12.26
         }
     ]
 }
