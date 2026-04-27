@@ -1,8 +1,27 @@
 {
     "countryCode": "VE",
     "country": "Venezuela",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Venezuela",
+            "countryCode": "VE",
+            "region": "K",
+            "regionName": "Lara",
+            "city": "Barquisimeto",
+            "zip": "",
+            "lat": 10.0664,
+            "lon": -69.3586,
+            "timezone": "America/Caracas",
+            "isp": "RED SERVITEL, CA",
+            "org": "RED SERVITEL, CA",
+            "as": "AS270026 RED SERVITEL, CA",
+            "query": "38.172.160.16",
+            "type": "http",
+            "port": "999",
+            "response_time": 3.63
+        },
         {
             "status": "success",
             "country": "Venezuela",
@@ -14,13 +33,51 @@
             "lat": 10.4873,
             "lon": -66.8738,
             "timezone": "America/Caracas",
-            "isp": "IFX Networks Venezuela C.A.",
-            "org": "IFX Networks Venezuela C.A",
-            "as": "AS8053 IFX Networks Venezuela C.A.",
-            "query": "190.94.212.44",
+            "isp": "CORPORACION FIBEX TELECOM, C.A.",
+            "org": "",
+            "as": "AS264628 CORPORACION FIBEX TELECOM, C.A.",
+            "query": "190.120.248.65",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.32
+        },
+        {
+            "status": "success",
+            "country": "Venezuela",
+            "countryCode": "VE",
+            "region": "P",
+            "regionName": "Portuguesa",
+            "city": "Acarigua",
+            "zip": "",
+            "lat": 9.5568,
+            "lon": -69.2009,
+            "timezone": "America/Caracas",
+            "isp": "Corporaci\u00f3n Telemic C.A.",
+            "org": "Corporaci\u00f3n Telemic C.A",
+            "as": "AS21826 Corporaci\u00f3n Telemic C.A.",
+            "query": "200.8.19.122",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.86
+        },
+        {
+            "status": "success",
+            "country": "Venezuela",
+            "countryCode": "VE",
+            "region": "E",
+            "regionName": "Barinas",
+            "city": "Sabaneta",
+            "zip": "",
+            "lat": 8.75234,
+            "lon": -69.9335,
+            "timezone": "America/Caracas",
+            "isp": "Viginet C.A",
+            "org": "Viginet C.A",
+            "as": "AS263703 VIGINET C.A",
+            "query": "190.97.232.54",
             "type": "http",
             "port": "999",
-            "response_time": 6.21
+            "response_time": 9.56
         },
         {
             "status": "success",
@@ -34,12 +91,12 @@
             "lon": -66.8738,
             "timezone": "America/Caracas",
             "isp": "Gold Data USA Inc",
-            "org": "Gold Data C.A",
+            "org": "Gold Data Colombia",
             "as": "AS394684 GOLD DATA USA INC",
-            "query": "186.96.67.40",
+            "query": "190.52.110.111",
             "type": "http",
             "port": "999",
-            "response_time": 6.23
+            "response_time": 11.66
         }
     ]
 }
