@@ -1,7 +1,7 @@
 {
     "countryCode": "AR",
     "country": "Argentina",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,64 @@
             "query": "200.41.182.243",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.69
+            "response_time": 1.53
         },
         {
             "status": "success",
             "country": "Argentina",
             "countryCode": "AR",
-            "region": "Z",
-            "regionName": "Santa Cruz",
-            "city": "R\u00edo Gallegos",
-            "zip": "9400",
-            "lat": -51.6344,
-            "lon": -69.2203,
-            "timezone": "America/Argentina/Rio_Gallegos",
-            "isp": "Sebastian Souto",
-            "org": "Sebastian Souto",
-            "as": "AS264738 Sebastian Souto (SSSERVICIOS)",
-            "query": "170.233.30.33",
-            "type": "socks5",
-            "port": "4153",
-            "response_time": 2.89
+            "region": "S",
+            "regionName": "Santa Fe",
+            "city": "Carcara\u00f1\u00e1",
+            "zip": "2138",
+            "lat": -32.8558,
+            "lon": -61.1505,
+            "timezone": "America/Argentina/Cordoba",
+            "isp": "Intermedia Business Solutions S.R.L.",
+            "org": "Intermedia Business Solutions S.R.L",
+            "as": "AS267791 INTERMEDIA BUSINESS SOLUTIONS S.R.L.",
+            "query": "45.172.176.1",
+            "type": "socks4",
+            "port": "59341",
+            "response_time": 1.54
+        },
+        {
+            "status": "success",
+            "country": "Argentina",
+            "countryCode": "AR",
+            "region": "L",
+            "regionName": "La Pampa",
+            "city": "Santa Rosa",
+            "zip": "6300",
+            "lat": -36.6192,
+            "lon": -64.2797,
+            "timezone": "America/Argentina/Salta",
+            "isp": "Coop. Popular de Elec., Obras y Servicios Pub. de Santa Rosa LTDA",
+            "org": "Coop. Popular de Elec., Obras y Servicios Pub. de Santa Rosa LTDA",
+            "as": "AS27927 Coop. Popular de Elec., Obras y Servicios Pub. de Santa Rosa LTDA",
+            "query": "181.114.43.74",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.56
+        },
+        {
+            "status": "success",
+            "country": "Argentina",
+            "countryCode": "AR",
+            "region": "T",
+            "regionName": "Tucuman",
+            "city": "San Miguel de Tucum\u00e1n",
+            "zip": "4000",
+            "lat": -26.816,
+            "lon": -65.2154,
+            "timezone": "America/Argentina/Tucuman",
+            "isp": "Level Seven SRL",
+            "org": "Level Seven SRL",
+            "as": "AS265798 LEVEL SEVEN SRL",
+            "query": "138.117.14.249",
+            "type": "http",
+            "port": "9080",
+            "response_time": 11.83
         }
     ]
 }
