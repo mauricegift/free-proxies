@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Rawalpindi",
-            "zip": "45600",
-            "lat": 33.63,
-            "lon": 73.2381,
+            "city": "Faisalabad",
+            "zip": "38000",
+            "lat": 31.3709,
+            "lon": 73.0336,
             "timezone": "Asia/Karachi",
-            "isp": "Pace Telecom and Brodcasting Private Limited",
-            "org": "Evosol (Pvt) Ltd",
-            "as": "AS150371 Pace Telecom and Brodcasting Private Limited",
-            "query": "123.253.93.192",
+            "isp": "Nadeem Abbas and Shayufta Rani",
+            "org": "",
+            "as": "AS140594 New Pakistan Cable Network (Firm)",
+            "query": "103.150.206.77",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.64
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Supernet, PDS Limited",
+            "org": "Supernet",
+            "as": "AS24435 Supernet Limited Transit Autonomous System Number",
+            "query": "203.130.23.250",
             "type": "http",
-            "port": "8082",
-            "response_time": 9.64
+            "port": "80",
+            "response_time": 14.04
         }
     ]
 }
