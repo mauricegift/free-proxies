@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,28 @@
             "org": "Host VDC",
             "as": "AS47242 Host SpA",
             "query": "149.62.186.244",
-            "type": "socks4",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 1.77
+            "response_time": 1.46
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
+            "type": "http",
+            "port": "8081",
+            "response_time": 8.79
         }
     ]
 }
