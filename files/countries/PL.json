@@ -1,7 +1,7 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 7,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "213.156.124.3",
             "type": "socks4",
             "port": "33333",
-            "response_time": 1.06
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "24",
-            "regionName": "Silesia",
-            "city": "Myszk\u00f3w",
-            "zip": "42-300",
-            "lat": 50.5709,
-            "lon": 19.3246,
-            "timezone": "Europe/Warsaw",
-            "isp": "PHU Kario-Sat Sp. z o.o.",
-            "org": "Kariosat 185 79",
-            "as": "AS206957 PHU Kario-Sat Sp. z o.o.",
-            "query": "185.79.243.153",
-            "type": "socks4",
-            "port": "38431",
-            "response_time": 1.12
+            "response_time": 2.04
         },
         {
             "status": "success",
@@ -55,10 +36,10 @@
             "isp": "AS Consulting Sp. z o. o.",
             "org": "Korbank S. A",
             "as": "AS60645 AS Consulting Sp. z o. o.",
-            "query": "185.32.4.110",
+            "query": "185.32.4.126",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.04
+            "response_time": 2.2
         },
         {
             "status": "success",
@@ -77,7 +58,26 @@
             "query": "91.223.52.141",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.03
+            "response_time": 4.62
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "24",
+            "regionName": "Silesia",
+            "city": "Myszk\u00f3w",
+            "zip": "42-300",
+            "lat": 50.5709,
+            "lon": 19.3246,
+            "timezone": "Europe/Warsaw",
+            "isp": "PHU Kario-Sat Sp. z o.o.",
+            "org": "Kariosat 185 79",
+            "as": "AS206957 PHU Kario-Sat Sp. z o.o.",
+            "query": "185.79.243.153",
+            "type": "socks4",
+            "port": "38431",
+            "response_time": 6.07
         },
         {
             "status": "success",
@@ -85,37 +85,18 @@
             "countryCode": "PL",
             "region": "14",
             "regionName": "Mazovia",
-            "city": "Radom",
-            "zip": "26-600",
-            "lat": 51.3985,
-            "lon": 21.1582,
+            "city": "Siedlce",
+            "zip": "08-110",
+            "lat": 52.1703,
+            "lon": 22.2834,
             "timezone": "Europe/Warsaw",
-            "isp": "Korbank S. A.",
-            "org": "Korbank S. A.",
-            "as": "AS35179 Korbank S. A.",
-            "query": "83.168.101.27",
+            "isp": "Media Telekom Sp. z o.o.",
+            "org": "Media Telekom Sp. z o.o",
+            "as": "AS57723 Media Telekom Sp. z o.o.",
+            "query": "185.186.17.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.16
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "03-195",
-            "lat": 52.3029,
-            "lon": 20.9834,
-            "timezone": "Europe/Warsaw",
-            "isp": "WAWPOLIP",
-            "org": "",
-            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-            "query": "148.81.121.5",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.51
+            "response_time": 6.44
         },
         {
             "status": "success",
@@ -134,7 +115,7 @@
             "query": "51.83.226.103",
             "type": "socks4",
             "port": "9055",
-            "response_time": 16.36
+            "response_time": 12.4
         }
     ]
 }
