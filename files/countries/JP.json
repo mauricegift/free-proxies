@@ -1,46 +1,8 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 7,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "150-0002",
-            "lat": 35.6895,
-            "lon": 139.692,
-            "timezone": "Asia/Tokyo",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-northeast-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.207.102.83",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.47
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
-            "timezone": "Asia/Tokyo",
-            "isp": "Choopa",
-            "org": "Vultr Holdings, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "45.77.130.16",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.72
-        },
         {
             "status": "success",
             "country": "Japan",
@@ -58,7 +20,7 @@
             "query": "43.207.150.235",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.94
+            "response_time": 1.22
         },
         {
             "status": "success",
@@ -66,37 +28,18 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
+            "city": "Tokyo",
+            "zip": "150-0002",
+            "lat": 35.6895,
+            "lon": 139.692,
             "timezone": "Asia/Tokyo",
-            "isp": "Choopa",
-            "org": "Vultr Holdings, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "45.76.207.177",
-            "type": "http",
-            "port": "40000",
-            "response_time": 3.14
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "27",
-            "regionName": "\u014csaka",
-            "city": "Osaka",
-            "zip": "562-0021",
-            "lat": 34.8225,
-            "lon": 135.4711,
-            "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-osaka-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "150.230.59.207",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-northeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "43.207.102.83",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.24
+            "response_time": 1.78
         },
         {
             "status": "success",
@@ -115,7 +58,7 @@
             "query": "103.75.118.84",
             "type": "socks4",
             "port": "1080",
-            "response_time": 10.29
+            "response_time": 6.87
         },
         {
             "status": "success",
@@ -124,17 +67,17 @@
             "region": "13",
             "regionName": "Tokyo",
             "city": "Tokyo",
-            "zip": "151-0053",
-            "lat": 35.6893,
-            "lon": 139.6899,
+            "zip": "152-8503",
+            "lat": 35.68,
+            "lon": 139.77,
             "timezone": "Asia/Tokyo",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud Information Technology",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "101.36.104.46",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 14.44
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (japaneast)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.210.76.104",
+            "type": "http",
+            "port": "8561",
+            "response_time": 10.45
         }
     ]
 }
