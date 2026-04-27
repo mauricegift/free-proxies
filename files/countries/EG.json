@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0094,
+            "lon": 31.2086,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat Misr",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "217.52.247.69",
+            "type": "http",
+            "port": "1981",
+            "response_time": 9.42
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -14,13 +33,13 @@
             "lat": 30.0046,
             "lon": 31.2044,
             "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data",
+            "isp": "Link Egypt (Link.NET)",
             "org": "",
-            "as": "AS24835 Vodafone Data",
-            "query": "196.204.83.229",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.11",
             "type": "http",
-            "port": "8080",
-            "response_time": 2.49
+            "port": "1981",
+            "response_time": 11.02
         }
     ]
 }
