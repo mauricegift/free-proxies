@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 5,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "185.234.64.66",
+            "query": "86.104.74.110",
             "type": "socks4",
             "port": "1081",
-            "response_time": 9.15
+            "response_time": 1.24
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "185.234.64.66",
+            "query": "86.104.74.110",
             "type": "socks5",
             "port": "1081",
-            "response_time": 9.15
+            "response_time": 1.24
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.118.129",
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 1.48
         },
         {
             "status": "success",
@@ -71,13 +90,70 @@
             "lat": 48.8558,
             "lon": 2.3494,
             "timezone": "Europe/Paris",
-            "isp": "Aeza International LTD",
-            "org": "Aeza International LTD",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "77.221.152.210",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "158.178.198.31",
             "type": "socks4",
-            "port": "36219",
-            "response_time": 11.58
+            "port": "1080",
+            "response_time": 2.89
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8575,
+            "lon": 2.35138,
+            "timezone": "Europe/Paris",
+            "isp": "Fly.io, Inc.",
+            "org": "Fly.io, Inc",
+            "as": "AS40509 Fly.io, Inc.",
+            "query": "169.155.50.87",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.31
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8575,
+            "lon": 2.35138,
+            "timezone": "Europe/Paris",
+            "isp": "FBW NETWORKS SAS",
+            "org": "FBW NETWORKS",
+            "as": "AS34534 FBW NETWORKS SAS",
+            "query": "37.44.238.2",
+            "type": "socks5",
+            "port": "52611",
+            "response_time": 9.06
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8575,
+            "lon": 2.35138,
+            "timezone": "Europe/Paris",
+            "isp": "FBW NETWORKS SAS",
+            "org": "FBW NETWORKS",
+            "as": "AS34534 FBW NETWORKS SAS",
+            "query": "37.44.238.2",
+            "type": "socks5",
+            "port": "57167",
+            "response_time": 10.51
         },
         {
             "status": "success",
@@ -93,10 +169,29 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "185.234.64.62",
+            "query": "94.131.118.129",
+            "type": "http",
+            "port": "1082",
+            "response_time": 12.11
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.65",
             "type": "http",
             "port": "1081",
-            "response_time": 14.06
+            "response_time": 12.46
         }
     ]
 }
