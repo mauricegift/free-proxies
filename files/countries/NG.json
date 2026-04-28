@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "197.156.240.66",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.85
+            "response_time": 1.74
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Ketu",
+            "zip": "",
+            "lat": 6.6309,
+            "lon": 3.8805,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.179.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.73
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Globacom Limited",
-            "org": "Globacom",
-            "as": "AS37148 Globacom Limited",
-            "query": "41.203.83.242",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.23
+            "isp": "IP Express Ltd",
+            "org": "",
+            "as": "AS328451 IP Express Ltd",
+            "query": "102.69.146.59",
+            "type": "socks5",
+            "port": "7080",
+            "response_time": 8.75
         }
     ]
 }
