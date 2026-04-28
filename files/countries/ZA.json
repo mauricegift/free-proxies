@@ -1,8 +1,46 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7925",
+            "lat": -33.914,
+            "lon": 18.4129,
+            "timezone": "Africa/Johannesburg",
+            "isp": "RSAWEB (PTY) LTD",
+            "org": "Rsaweb",
+            "as": "AS37053 RSAWEB (PTY) LTD",
+            "query": "165.0.100.149",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.37
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "8001",
+            "lat": -33.9258,
+            "lon": 18.4259,
+            "timezone": "Africa/Johannesburg",
+            "isp": "CloudGistics",
+            "org": "CloudGistics",
+            "as": "AS328970 CloudGistics",
+            "query": "102.217.190.157",
+            "type": "socks5",
+            "port": "7080",
+            "response_time": 7.45
+        },
         {
             "status": "success",
             "country": "South Africa",
@@ -20,7 +58,7 @@
             "query": "102.217.202.121",
             "type": "http",
             "port": "8080",
-            "response_time": 2.45
+            "response_time": 8.21
         }
     ]
 }
