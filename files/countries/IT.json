@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "185.248.245.119",
             "type": "socks4",
             "port": "80",
-            "response_time": 3.51
+            "response_time": 1.8
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Adrano",
+            "zip": "95031",
+            "lat": 37.6623,
+            "lon": 14.8343,
+            "timezone": "Europe/Rome",
+            "isp": "Aircomm S.r.L.",
+            "org": "",
+            "as": "AS196865 Aircomm S.r.L.",
+            "query": "109.232.137.43",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.31
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "21",
+            "regionName": "Piedmont",
+            "city": "Turin",
+            "zip": "10121",
+            "lat": 45.0913,
+            "lon": 7.66158,
+            "timezone": "Europe/Rome",
+            "isp": "HOST-VDC",
+            "org": "",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.191.202",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.75
         },
         {
             "status": "success",
@@ -29,17 +67,17 @@
             "region": "25",
             "regionName": "Lombardy",
             "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4642,
-            "lon": 9.18998,
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Host SpA",
-            "org": "Host VDC",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.186.244",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 4.74
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
+            "type": "http",
+            "port": "8081",
+            "response_time": 12.04
         }
     ]
 }
