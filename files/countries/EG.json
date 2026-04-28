@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Giza",
             "city": "Giza",
             "zip": "",
-            "lat": 30.0046,
-            "lon": 31.2044,
+            "lat": 30.0094,
+            "lon": 31.2086,
             "timezone": "Africa/Cairo",
-            "isp": "Link Egypt (Link.NET)",
-            "org": "",
-            "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "197.164.101.11",
+            "isp": "Etisalat Misr",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "217.52.247.69",
             "type": "http",
             "port": "1981",
-            "response_time": 6.42
+            "response_time": 6.88
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat Misr Mobile BB",
+            "org": "",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "41.65.55.27",
+            "type": "http",
+            "port": "1981",
+            "response_time": 11.46
         },
         {
             "status": "success",
@@ -39,7 +58,45 @@
             "query": "197.164.101.10",
             "type": "http",
             "port": "1981",
-            "response_time": 10.62
+            "response_time": 12.35
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.14",
+            "type": "http",
+            "port": "1981",
+            "response_time": 16.74
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.11",
+            "type": "http",
+            "port": "1981",
+            "response_time": 18.95
         }
     ]
 }
