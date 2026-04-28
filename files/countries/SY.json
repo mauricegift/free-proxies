@@ -1,8 +1,27 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Aleppo",
+            "zip": "",
+            "lat": 36.2012,
+            "lon": 37.1612,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "Telecom SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "139.28.49.136",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 4.05
+        },
         {
             "status": "success",
             "country": "Syria",
@@ -17,29 +36,29 @@
             "isp": "High Speed For Internet Services L.L.C",
             "org": "HU Pantel INT",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "89.43.133.190",
+            "query": "89.43.133.145",
             "type": "http",
             "port": "8080",
-            "response_time": 5.06
+            "response_time": 5.79
         },
         {
             "status": "success",
             "country": "Syria",
             "countryCode": "SY",
-            "region": "ID",
-            "regionName": "Idlib Governorate",
-            "city": "Ad D\u0101n\u0101",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Aleppo",
             "zip": "",
-            "lat": 36.2125,
-            "lon": 36.77,
+            "lat": 36.2012,
+            "lon": 37.1612,
             "timezone": "Asia/Damascus",
             "isp": "High Speed For Internet Services L.L.C",
-            "org": "",
+            "org": "Telecom SY",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "89.43.132.82",
+            "query": "139.28.49.106",
             "type": "http",
             "port": "8080",
-            "response_time": 6.41
+            "response_time": 6.66
         }
     ]
 }
