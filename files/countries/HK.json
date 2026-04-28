@@ -1,8 +1,27 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 6,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology (hk) Limited",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "123.58.219.171",
+            "type": "socks5",
+            "port": "10808",
+            "response_time": 2.71
+        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -17,29 +36,10 @@
             "isp": "Alibaba Cloud LLC",
             "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.238.79.105",
+            "query": "47.75.55.165",
             "type": "socks5",
-            "port": "1080",
-            "response_time": 3.6
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.210.158.189",
-            "type": "socks4",
-            "port": "9063",
-            "response_time": 8.89
+            "port": "54321",
+            "response_time": 4.23
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "43.129.80.138",
             "type": "socks4",
             "port": "18999",
-            "response_time": 9.46
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.79.79.35",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 10.58
+            "response_time": 4.64
         },
         {
             "status": "success",
@@ -93,10 +74,10 @@
             "isp": "Alibaba Cloud LLC",
             "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.76.84.160",
+            "query": "47.243.201.253",
             "type": "socks5",
-            "port": "1145",
-            "response_time": 12.29
+            "port": "1011",
+            "response_time": 11.68
         },
         {
             "status": "success",
@@ -109,13 +90,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud Information Technology (hk) Limited",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "123.58.219.171",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 12.43
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.210.158.189",
+            "type": "socks4",
+            "port": "9063",
+            "response_time": 26.79
         }
     ]
 }
