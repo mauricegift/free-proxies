@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,9 @@
             "org": "SIA VEESP",
             "as": "AS42532 SIA VEESP",
             "query": "94.158.219.111",
-            "type": "socks5",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 1.12
+            "response_time": 1.14
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "159.148.146.65",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.14
+            "response_time": 4.13
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "R\u012bga",
+            "city": "Riga",
+            "zip": "LV-1063",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "Green Floid LLC",
+            "org": "Friendhosting LTD",
+            "as": "AS50979 GREEN FLOID LLC",
+            "query": "185.237.219.119",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 10.32
         }
     ]
 }
