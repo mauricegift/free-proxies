@@ -1,27 +1,8 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 8,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "M",
-            "regionName": "Sk\u00e5ne County",
-            "city": "Malmo",
-            "zip": "211 42",
-            "lat": 55.6078,
-            "lon": 12.9982,
-            "timezone": "Europe/Stockholm",
-            "isp": "TELE2-BROADBAND",
-            "org": "Tele2 AB",
-            "as": "AS1257 Tele2 Sverige AB",
-            "query": "188.150.229.60",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.1
-        },
         {
             "status": "success",
             "country": "Sweden",
@@ -33,13 +14,13 @@
             "lat": 59.3287,
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Aeza International LTD",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "109.120.132.166",
+            "isp": "Play2go International Limited",
+            "org": "Play2go International Limited",
+            "as": "AS215439 PLAY2GO INTERNATIONAL LIMITED",
+            "query": "144.31.230.27",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.27
+            "response_time": 1.08
         },
         {
             "status": "success",
@@ -58,64 +39,26 @@
             "query": "213.21.233.242",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.36
+            "response_time": 1.33
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
+            "region": "O",
+            "regionName": "V\u00e4stra G\u00f6taland County",
+            "city": "Gothenburg",
+            "zip": "400 10",
+            "lat": 57.7089,
+            "lon": 11.9746,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.163.108",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.56
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Play2go International Limited",
-            "org": "Play2go International Limited",
-            "as": "AS215439 PLAY2GO INTERNATIONAL LIMITED",
-            "query": "144.31.230.27",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 5.17
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.231.71",
+            "isp": "Telia Company AB",
+            "org": "Telia Network Services",
+            "as": "AS3301 Telia Company AB",
+            "query": "81.228.44.187",
             "type": "socks4",
-            "port": "56608",
-            "response_time": 9.42
+            "port": "65530",
+            "response_time": 3.87
         },
         {
             "status": "success",
@@ -134,7 +77,7 @@
             "query": "62.60.231.71",
             "type": "socks5",
             "port": "56608",
-            "response_time": 9.42
+            "response_time": 5.74
         },
         {
             "status": "success",
@@ -153,7 +96,26 @@
             "query": "109.120.133.253",
             "type": "socks4",
             "port": "9999",
-            "response_time": 10.26
+            "response_time": 8.03
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.231.26",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 9.38
         }
     ]
 }
