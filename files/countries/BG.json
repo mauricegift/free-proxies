@@ -1,8 +1,46 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "02",
+            "regionName": "Burgas",
+            "city": "Saint Vlas",
+            "zip": "8256",
+            "lat": 42.7136,
+            "lon": 27.7587,
+            "timezone": "Europe/Sofia",
+            "isp": "Vivacom Bulgaria EAD",
+            "org": "Vivacom Bulgaria EAD",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "77.85.168.253",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.06
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "15",
+            "regionName": "Pleven",
+            "city": "Pleven",
+            "zip": "5800",
+            "lat": 43.4126,
+            "lon": 24.6089,
+            "timezone": "Europe/Sofia",
+            "isp": "5KOM",
+            "org": "",
+            "as": "AS197897 5KOM OOD",
+            "query": "31.211.142.115",
+            "type": "socks5",
+            "port": "8192",
+            "response_time": 3.68
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,26 +58,26 @@
             "query": "213.149.156.87",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.98
+            "response_time": 5.72
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
+            "region": "18",
+            "regionName": "Ruse",
+            "city": "Rousse",
+            "zip": "7000",
+            "lat": 43.8487,
+            "lon": 25.9534,
             "timezone": "Europe/Sofia",
-            "isp": "Neterra Ltd.",
-            "org": "Neterra Princess Svilengrad",
-            "as": "AS34224 Neterra Ltd.",
-            "query": "31.13.239.4",
+            "isp": "Kabelnet LTD",
+            "org": "Global Communication Net Plc",
+            "as": "AS205352 KABELNET LTD",
+            "query": "109.160.97.49",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 2.3
+            "port": "4145",
+            "response_time": 8.32
         }
     ]
 }
