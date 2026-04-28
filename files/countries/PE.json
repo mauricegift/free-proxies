@@ -1,26 +1,45 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
             "region": "LMA",
-            "regionName": "Lima Province",
+            "regionName": "Lima",
             "city": "Lima",
             "zip": "",
-            "lat": -12.046,
-            "lon": -77.0305,
+            "lat": -12.0463,
+            "lon": -77.0427,
             "timezone": "America/Lima",
-            "isp": "ON EMPRESAS S.A.C",
-            "org": "Miraflores De Turismo S.A.C",
-            "as": "AS27843 ON EMPRESAS S.A.C.",
-            "query": "190.12.95.170",
-            "type": "socks4",
-            "port": "37209",
-            "response_time": 2.45
+            "isp": "NET WIN PERU",
+            "org": "NET WIN PERU",
+            "as": "AS271842 M & B Soluciones Peru S.A.C. (FASTNET)",
+            "query": "138.99.176.26",
+            "type": "http",
+            "port": "999",
+            "response_time": 7.45
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "CAJ",
+            "regionName": "Cajamarca Department",
+            "city": "Huarango",
+            "zip": "",
+            "lat": -5.27279,
+            "lon": -78.7758,
+            "timezone": "America/Lima",
+            "isp": "Telefonica del Peru S.A.A.",
+            "org": "Telefonica Del Peru SAA",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "200.107.142.36",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.31
         }
     ]
 }
