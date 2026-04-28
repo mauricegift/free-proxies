@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.133.214.90",
             "type": "http",
             "port": "8080",
-            "response_time": 5.19
+            "response_time": 8.48
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "04",
+            "regionName": "Mandalay Region",
+            "city": "Pyin Oo Lwin",
+            "zip": "",
+            "lat": 22.035,
+            "lon": 96.4568,
+            "timezone": "Asia/Yangon",
+            "isp": "Telenor Myanmar",
+            "org": "Telenor Myanmar",
+            "as": "AS133385 Atom Myanmar Limited",
+            "query": "37.111.52.46",
+            "type": "http",
+            "port": "8081",
+            "response_time": 10.86
         }
     ]
 }
