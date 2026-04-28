@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "72",
-            "regionName": "Campania",
-            "city": "Naples",
-            "zip": "80126",
-            "lat": 40.8449,
-            "lon": 14.2716,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Desenzano del Garda",
+            "zip": "25015",
+            "lat": 45.4677,
+            "lon": 10.5383,
             "timezone": "Europe/Rome",
-            "isp": "Vodafone",
-            "org": "",
-            "as": "AS30722 Fastweb SpA",
-            "query": "5.95.121.180",
+            "isp": "Mynet S.R.L.",
+            "org": "Mynet",
+            "as": "AS31263 MYNET S.R.L.",
+            "query": "84.247.236.86",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 1.14
+            "port": "48293",
+            "response_time": 1.1
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Adrano",
+            "zip": "95031",
+            "lat": 37.6623,
+            "lon": 14.8343,
+            "timezone": "Europe/Rome",
+            "isp": "Aircomm S.r.L.",
+            "org": "",
+            "as": "AS196865 Aircomm S.r.L.",
+            "query": "109.232.137.43",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.24
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.2
+            "response_time": 4.58
         }
     ]
 }
