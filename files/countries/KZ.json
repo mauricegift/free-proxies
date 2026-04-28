@@ -1,27 +1,8 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
-            "timezone": "Asia/Almaty",
-            "isp": "Servercore",
-            "org": "Modern Server Solutions LLP",
-            "as": "AS48988 Modern Server Solutions LLP",
-            "query": "198.13.190.60",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.75
-        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -39,7 +20,7 @@
             "query": "31.130.152.120",
             "type": "socks5",
             "port": "443",
-            "response_time": 1.75
+            "response_time": 1.78
         },
         {
             "status": "success",
@@ -48,17 +29,55 @@
             "region": "75",
             "regionName": "Almaty",
             "city": "Almaty",
-            "zip": "050000",
+            "zip": "",
             "lat": 43.2525,
             "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "Kcell JSC",
-            "org": "\"KCell\" JSC",
-            "as": "AS29355 Kcell JSC",
-            "query": "2.78.60.10",
-            "type": "http",
-            "port": "3129",
-            "response_time": 8.85
+            "isp": "Servercore",
+            "org": "Modern Server Solutions LLP",
+            "as": "AS48988 Modern Server Solutions LLP",
+            "query": "198.13.190.60",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.61
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.78.141",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 12.45
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.78.141",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 12.45
         }
     ]
 }
