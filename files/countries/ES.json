@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "195.219.98.27",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.24
+            "response_time": 6.35
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28070",
+            "lat": 40.4168,
+            "lon": -3.70379,
+            "timezone": "Europe/Madrid",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.231.204.221",
+            "type": "socks4",
+            "port": "6115",
+            "response_time": 7.33
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "San Fernando de Henares",
+            "zip": "28830",
+            "lat": 40.4239,
+            "lon": -3.53261,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "83.56.15.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.1
         }
     ]
 }
