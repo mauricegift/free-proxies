@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "ES",
             "region": "MD",
             "regionName": "Madrid",
-            "city": "San Fernando de Henares",
-            "zip": "28830",
-            "lat": 40.4239,
-            "lon": -3.53261,
+            "city": "Madrid",
+            "zip": "28108",
+            "lat": 40.5395,
+            "lon": -3.6456,
             "timezone": "Europe/Madrid",
-            "isp": "Telefonica de Espana SAU",
-            "org": "RIMA (Red IP Multi Acceso)",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "83.56.15.57",
+            "isp": "The Constant Company, LLC",
+            "org": "The Constant Company, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "65.20.105.241",
+            "type": "socks4",
+            "port": "10001",
+            "response_time": 1.95
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "PV",
+            "regionName": "Basque Country",
+            "city": "Bilbao",
+            "zip": "48070",
+            "lat": 43.2626,
+            "lon": -2.9238,
+            "timezone": "Europe/Madrid",
+            "isp": "TATA Communications",
+            "org": "Nexis Tecnologias",
+            "as": "AS6453 TATA COMMUNICATIONS (AMERICA) INC",
+            "query": "195.219.98.27",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.86
+            "response_time": 4.16
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "208.85.17.120",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.32
+            "response_time": 9.38
         }
     ]
 }
