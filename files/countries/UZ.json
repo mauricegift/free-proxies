@@ -1,8 +1,27 @@
 {
     "countryCode": "UZ",
     "country": "Uzbekistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Uzbekistan",
+            "countryCode": "UZ",
+            "region": "BU",
+            "regionName": "Bukhara",
+            "city": "Bukhara",
+            "zip": "",
+            "lat": 39.7703,
+            "lon": 64.4307,
+            "timezone": "Asia/Samarkand",
+            "isp": "\"Uzbektelekom\" Joint Stock Company",
+            "org": "\"Uzbektelekom\" Joint Stock Company",
+            "as": "AS8193 Uzbektelekom Joint Stock Company",
+            "query": "89.104.102.209",
+            "type": "http",
+            "port": "58080",
+            "response_time": 6.73
+        },
         {
             "status": "success",
             "country": "Uzbekistan",
@@ -17,10 +36,10 @@
             "isp": "\"Uzbektelekom\" Joint Stock Company",
             "org": "Uztelecom",
             "as": "AS8193 Uzbektelekom Joint Stock Company",
-            "query": "195.158.8.123",
+            "query": "195.158.10.99",
             "type": "http",
-            "port": "3128",
-            "response_time": 6.24
+            "port": "8080",
+            "response_time": 10.15
         }
     ]
 }
