@@ -1,8 +1,27 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "18",
+            "regionName": "Mwanza",
+            "city": "Mwanza",
+            "zip": "",
+            "lat": -2.51667,
+            "lon": 32.9,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node Public Limited",
+            "org": "Habari RockCable",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "154.0.153.10",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.1
+        },
         {
             "status": "success",
             "country": "Tanzania",
@@ -20,7 +39,7 @@
             "query": "165.16.192.81",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.98
+            "response_time": 8.16
         }
     ]
 }
