@@ -1,8 +1,65 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat Misr Mobile BB",
+            "org": "",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "41.65.103.11",
+            "type": "http",
+            "port": "1981",
+            "response_time": 4.68
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data",
+            "org": "",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.83.229",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.19
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "SHR",
+            "regionName": "Sharqia",
+            "city": "Zagazig",
+            "zip": "",
+            "lat": 30.5868,
+            "lon": 31.5026,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat",
+            "org": "",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "62.193.104.28",
+            "type": "http",
+            "port": "1981",
+            "response_time": 7.85
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -20,7 +77,7 @@
             "query": "197.164.101.11",
             "type": "http",
             "port": "1981",
-            "response_time": 12.04
+            "response_time": 11.4
         }
     ]
 }
