@@ -1,26 +1,45 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
             "region": "AB",
-            "regionName": "Stockholm",
+            "regionName": "Stockholm County",
             "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.51.196.44",
-            "type": "http",
-            "port": "21514",
-            "response_time": 1.33
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.151.74",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 1.48
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "M",
+            "regionName": "Sk\u00e5ne County",
+            "city": "Malmo",
+            "zip": "211 42",
+            "lat": 55.6078,
+            "lon": 12.9982,
+            "timezone": "Europe/Stockholm",
+            "isp": "TELE2-BROADBAND",
+            "org": "Tele2 AB",
+            "as": "AS1257 Tele2 Sverige AB",
+            "query": "188.150.229.60",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.91
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "13.53.139.178",
             "type": "http",
             "port": "40274",
-            "response_time": 2.61
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "109.120.155.122",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.71
+            "response_time": 2.36
         },
         {
             "status": "success",
@@ -77,26 +77,45 @@
             "query": "109.120.133.253",
             "type": "socks5",
             "port": "9999",
-            "response_time": 8.94
+            "response_time": 2.63
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
             "region": "AB",
-            "regionName": "Stockholm County",
+            "regionName": "Stockholm",
             "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0685,
             "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.231.71",
-            "type": "http",
-            "port": "56608",
-            "response_time": 11.34
+            "isp": "xorek.cloud International LTD",
+            "org": "Servers Tech Fzco",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "89.22.238.103",
+            "type": "socks4",
+            "port": "38871",
+            "response_time": 6.17
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0685,
+            "timezone": "Europe/Stockholm",
+            "isp": "xorek.cloud International LTD",
+            "org": "Servers Tech Fzco",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "89.22.238.103",
+            "type": "socks5",
+            "port": "38871",
+            "response_time": 6.17
         },
         {
             "status": "success",
@@ -115,7 +134,7 @@
             "query": "62.60.231.71",
             "type": "socks4",
             "port": "56608",
-            "response_time": 11.34
+            "response_time": 18.61
         }
     ]
 }
