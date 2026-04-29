@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "103.86.57.9",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.61
+            "response_time": 2.77
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.79.35.12",
+            "query": "124.41.213.174",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 5.61
+            "port": "5678",
+            "response_time": 6.57
         },
         {
             "status": "success",
@@ -52,13 +52,32 @@
             "lat": 27.7108,
             "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
-            "isp": "WorldLink Communications",
+            "isp": "Subisu Cablenet",
             "org": "",
-            "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.79.35.143",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 7.37
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "110.34.1.180",
+            "type": "http",
+            "port": "32650",
+            "response_time": 7.81
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7211,
+            "lon": 85.3331,
+            "timezone": "Asia/Kathmandu",
+            "isp": "RO-228 BroadLink",
+            "org": "",
+            "as": "AS55427 Broadlink Nepal",
+            "query": "103.232.228.138",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.44
         }
     ]
 }
