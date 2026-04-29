@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6329,
-            "lon": 11.6726,
-            "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "185.248.245.119",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 2.67
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -37,9 +18,9 @@
             "org": "Host VDC",
             "as": "AS47242 Host SpA",
             "query": "149.62.186.244",
-            "type": "socks5",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 5.17
+            "response_time": 3.39
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 10.6
+            "response_time": 5.55
         }
     ]
 }
