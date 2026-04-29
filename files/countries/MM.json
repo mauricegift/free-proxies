@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 16.7964,
             "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Global Technology Co",
+            "isp": "Myanma Post & Telecommunication",
             "org": "",
-            "as": "AS133524 Global Technology Co., Ltd.",
-            "query": "185.133.214.90",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.163.150",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.44
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "04",
+            "regionName": "Mandalay Region",
+            "city": "Pyin Oo Lwin",
+            "zip": "",
+            "lat": 22.035,
+            "lon": 96.4568,
+            "timezone": "Asia/Yangon",
+            "isp": "Telenor Myanmar",
+            "org": "Telenor Myanmar",
+            "as": "AS133385 Atom Myanmar Limited",
+            "query": "37.111.52.46",
             "type": "http",
-            "port": "8080",
-            "response_time": 3.53
+            "port": "8081",
+            "response_time": 10.4
         }
     ]
 }
