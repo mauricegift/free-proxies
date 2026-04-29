@@ -1,45 +1,26 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 8,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H1E",
-            "lat": 45.632,
-            "lon": -73.5839,
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
             "timezone": "America/Toronto",
-            "isp": "Videotron Telecom Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS22652 Videotron Ltee",
-            "query": "184.95.235.194",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.54
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H2A",
-            "lat": 45.562,
-            "lon": -73.6002,
-            "timezone": "America/Toronto",
-            "isp": "Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "45.73.0.118",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.19
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "3.99.158.157",
+            "type": "http",
+            "port": "50606",
+            "response_time": 2.0
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "15.223.237.12",
             "type": "http",
             "port": "33606",
-            "response_time": 2.24
+            "response_time": 2.12
         },
         {
             "status": "success",
@@ -77,26 +58,7 @@
             "query": "40.177.89.65",
             "type": "http",
             "port": "39913",
-            "response_time": 2.71
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "",
-            "lat": 43.6532,
-            "lon": -79.3832,
-            "timezone": "America/Toronto",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "3.99.158.157",
-            "type": "http",
-            "port": "50606",
-            "response_time": 3.04
+            "response_time": 2.49
         },
         {
             "status": "success",
@@ -112,48 +74,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "159.89.117.136",
-            "type": "socks4",
+            "query": "68.183.197.81",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 3.68
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Ottawa",
-            "zip": "K1C",
-            "lat": 45.4677,
-            "lon": -75.5399,
-            "timezone": "America/Toronto",
-            "isp": "Rogers Communications Canada Inc.",
-            "org": "Rogers Communications Canada Inc",
-            "as": "AS812 Rogers Communications Canada Inc.",
-            "query": "174.114.24.95",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.52
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "BC",
-            "regionName": "British Columbia",
-            "city": "Vancouver",
-            "zip": "V5Z",
-            "lat": 49.2827,
-            "lon": -123.121,
-            "timezone": "America/Vancouver",
-            "isp": "GLOBALTELEHOST Corp.",
-            "org": "Inetcloud",
-            "as": "AS62563 GLOBALTELEHOST Corp.",
-            "query": "193.108.58.29",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 8.12
+            "response_time": 4.65
         }
     ]
 }
