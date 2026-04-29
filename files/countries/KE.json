@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Airtel KE Mobile & Fixed Internet",
-            "org": "",
-            "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.10.6",
+            "isp": "Jamii Telecommunications Limited",
+            "org": "FAIBA",
+            "as": "AS36866 Jamii Telecommunications Limited",
+            "query": "197.232.43.224",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.53
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "12",
+            "regionName": "Kericho County",
+            "city": "Litein",
+            "zip": "",
+            "lat": -0.58249,
+            "lon": 35.1897,
+            "timezone": "Africa/Nairobi",
+            "isp": "Alwen Networks Co. Limited",
+            "org": "Alwen Networks Co. Limited",
+            "as": "AS329452 Alwen Networks Co. Limited",
+            "query": "102.208.166.30",
             "type": "http",
-            "port": "8080",
-            "response_time": 0.97
+            "port": "8082",
+            "response_time": 4.22
         }
     ]
 }
