@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "51.95.13.205",
             "type": "http",
             "port": "28913",
-            "response_time": 1.41
+            "response_time": 1.67
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "AR",
-            "regionName": "Aragon",
-            "city": "Zaragoza",
-            "zip": "50090",
-            "lat": 41.6579,
-            "lon": -0.8777,
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Hu\u00e9neja",
+            "zip": "18512",
+            "lat": 37.1766,
+            "lon": -2.95024,
             "timezone": "Europe/Madrid",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon ZAZ",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.49.153.183",
-            "type": "http",
-            "port": "30157",
-            "response_time": 2.71
+            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+            "org": "Ciberdolar",
+            "as": "AS29119 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+            "query": "109.167.83.167",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.36
         },
         {
             "status": "success",
@@ -56,9 +56,66 @@
             "org": "Oracle Svenska AB",
             "as": "AS31898 Oracle Corporation",
             "query": "143.47.59.115",
-            "type": "socks5",
+            "type": "socks4",
             "port": "8118",
-            "response_time": 2.78
+            "response_time": 4.21
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "IB",
+            "regionName": "Balearic Islands",
+            "city": "Sineu",
+            "zip": "07510",
+            "lat": 39.6409,
+            "lon": 3.0146,
+            "timezone": "Europe/Madrid",
+            "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+            "org": "Ibred",
+            "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
+            "query": "141.105.107.152",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.17
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Mijas",
+            "zip": "29650",
+            "lat": 36.5997,
+            "lon": -4.6384,
+            "timezone": "Europe/Madrid",
+            "isp": "AVATEL TELECOM, SA",
+            "org": "AVATEL TELECOM, SA",
+            "as": "AS200845 AVATEL TELECOM, SA",
+            "query": "185.202.165.1",
+            "type": "http",
+            "port": "53281",
+            "response_time": 6.54
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28018",
+            "lat": 40.3908,
+            "lon": -3.6598,
+            "timezone": "Europe/Madrid",
+            "isp": "Uni2",
+            "org": "",
+            "as": "AS12479 Orange Espagne SA",
+            "query": "90.174.128.42",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.28
         }
     ]
 }
