@@ -1,7 +1,7 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "VF GR - xCH",
             "org": "Panafon S.A.",
             "as": "AS3329 VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
-            "query": "46.198.132.232",
+            "query": "46.198.132.233",
             "type": "socks4",
             "port": "51372",
-            "response_time": 2.25
+            "response_time": 2.19
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "Thessaloniki",
+            "zip": "",
+            "lat": 40.6439,
+            "lon": 22.9358,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.68.245.147",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.21
         }
     ]
 }
