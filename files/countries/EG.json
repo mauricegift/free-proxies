@@ -1,27 +1,8 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Egypt",
-            "countryCode": "EG",
-            "region": "GZ",
-            "regionName": "Giza",
-            "city": "Giza",
-            "zip": "",
-            "lat": 30.0046,
-            "lon": 31.2044,
-            "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data",
-            "org": "",
-            "as": "AS24835 Vodafone Data",
-            "query": "196.204.83.229",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.38
-        },
         {
             "status": "success",
             "country": "Egypt",
@@ -39,7 +20,45 @@
             "query": "41.65.71.141",
             "type": "http",
             "port": "1976",
-            "response_time": 10.41
+            "response_time": 7.66
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "LINKdotNET AS number",
+            "org": "Link Egypt (Link.NET)",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "41.128.183.10",
+            "type": "http",
+            "port": "1976",
+            "response_time": 8.63
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.14",
+            "type": "http",
+            "port": "1981",
+            "response_time": 8.91
         }
     ]
 }
