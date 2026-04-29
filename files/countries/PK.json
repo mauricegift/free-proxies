@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60000",
+            "lat": 30.1659,
+            "lon": 71.4415,
+            "timezone": "Asia/Karachi",
+            "isp": "Mian Internet Services (Pvt) Ltd",
+            "org": "MISPL  (Pvt) Ltd",
+            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
+            "query": "103.86.135.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.46
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +39,7 @@
             "query": "103.157.200.126",
             "type": "http",
             "port": "3128",
-            "response_time": 2.17
+            "response_time": 2.65
         },
         {
             "status": "success",
@@ -29,36 +48,36 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "75290",
-            "lat": 24.9239,
-            "lon": 67.1423,
+            "zip": "75500",
+            "lat": 24.8309,
+            "lon": 67.0665,
             "timezone": "Asia/Karachi",
-            "isp": "Galaxy Broadband (pvt.) Ltd.",
-            "org": "Clickbb",
-            "as": "AS139879 Galaxy Broadband",
-            "query": "103.146.137.69",
+            "isp": "Multinet 125-110/24",
+            "org": "Multinet Pakistan Pvt. Ltd.",
+            "as": "AS9260 Multinet Pakistan Pvt. Ltd.",
+            "query": "125.209.110.83",
             "type": "socks4",
-            "port": "1081",
-            "response_time": 2.37
+            "port": "1981",
+            "response_time": 6.61
         },
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Faisalabad",
-            "zip": "38000",
-            "lat": 31.3709,
-            "lon": 73.0336,
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "74000",
+            "lat": 24.8591,
+            "lon": 66.9983,
             "timezone": "Asia/Karachi",
-            "isp": "Nadeem Abbas and Shayufta Rani",
-            "org": "",
-            "as": "AS140594 New Pakistan Cable Network (Firm)",
-            "query": "103.150.206.77",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 3.4
+            "isp": "Connect Communication",
+            "org": "Connect Communication",
+            "as": "AS132165 Connect Communications",
+            "query": "115.42.67.186",
+            "type": "socks4",
+            "port": "56534",
+            "response_time": 8.5
         }
     ]
 }
