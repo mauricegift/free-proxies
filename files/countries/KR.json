@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 7,
+    "count": 9,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.57
+            "response_time": 1.48
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 3.52
+            "response_time": 2.48
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "152.70.91.193",
             "type": "socks4",
             "port": "40000",
-            "response_time": 3.71
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "04524",
-            "lat": 37.5658,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.133.90.161",
-            "type": "socks5",
-            "port": "8088",
-            "response_time": 3.72
+            "response_time": 2.76
         },
         {
             "status": "success",
@@ -96,7 +77,45 @@
             "query": "121.169.46.116",
             "type": "socks5",
             "port": "1090",
-            "response_time": 5.13
+            "response_time": 3.95
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
+            "timezone": "Asia/Seoul",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
+            "type": "socks4",
+            "port": "60984",
+            "response_time": 6.36
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.133.90.161",
+            "type": "socks5",
+            "port": "8088",
+            "response_time": 6.72
         },
         {
             "status": "success",
@@ -115,7 +134,7 @@
             "query": "43.133.90.161",
             "type": "http",
             "port": "8888",
-            "response_time": 5.56
+            "response_time": 8.75
         },
         {
             "status": "success",
@@ -123,18 +142,37 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.5108,
-            "lon": 127.1048,
+            "city": "Seoul",
+            "zip": "039",
+            "lat": 37.5646,
+            "lon": 126.9223,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 5.91
+            "isp": "The Constant Company, LLC",
+            "org": "The Constant Company, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "158.247.212.189",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.93
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "27",
+            "regionName": "Daegu",
+            "city": "Suseong-gu",
+            "zip": "422",
+            "lat": 35.8481,
+            "lon": 128.6968,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
+            "as": "AS4766 Korea Telecom",
+            "query": "220.81.123.23",
+            "type": "http",
+            "port": "48678",
+            "response_time": 9.8
         }
     ]
 }
