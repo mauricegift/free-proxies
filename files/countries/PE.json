@@ -1,8 +1,27 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
+            "zip": "",
+            "lat": -12.046,
+            "lon": -77.0305,
+            "timezone": "America/Lima",
+            "isp": "ON EMPRESAS S.A.C",
+            "org": "Miraflores De Turismo S.A.C",
+            "as": "AS27843 ON EMPRESAS S.A.C.",
+            "query": "190.12.95.170",
+            "type": "socks4",
+            "port": "37209",
+            "response_time": 2.66
+        },
         {
             "status": "success",
             "country": "Peru",
@@ -20,7 +39,26 @@
             "query": "190.237.238.248",
             "type": "http",
             "port": "999",
-            "response_time": 4.31
+            "response_time": 7.24
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "PAS",
+            "regionName": "Pasco",
+            "city": "Oxapampa",
+            "zip": "",
+            "lat": -10.5775,
+            "lon": -75.4017,
+            "timezone": "America/Lima",
+            "isp": "Telcom Mikrotik Peru S.A.C",
+            "org": "Telcom Mikrotik Peru S.A.C",
+            "as": "AS273000 TELCOM MIKROTIK PERU S.A.C.",
+            "query": "38.252.213.59",
+            "type": "http",
+            "port": "999",
+            "response_time": 10.89
         },
         {
             "status": "success",
@@ -39,45 +77,26 @@
             "query": "200.107.142.36",
             "type": "http",
             "port": "3128",
-            "response_time": 6.98
+            "response_time": 13.54
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "ARE",
-            "regionName": "Arequipa",
-            "city": "Arequipa",
+            "region": "TAC",
+            "regionName": "Tacna",
+            "city": "Tacna",
             "zip": "",
-            "lat": -16.4014,
-            "lon": -71.5343,
+            "lat": -18.0052,
+            "lon": -70.2489,
             "timezone": "America/Lima",
-            "isp": "Fiberred SAC",
-            "org": "Cogent Communications",
-            "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.193",
+            "isp": "Telefonica del Peru",
+            "org": "PE-TDPERX6-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "200.106.124.245",
             "type": "http",
             "port": "999",
-            "response_time": 9.29
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "LIM",
-            "regionName": "Lima region",
-            "city": "Lur\u00edn",
-            "zip": "",
-            "lat": -12.2866,
-            "lon": -76.8707,
-            "timezone": "America/Lima",
-            "isp": "Nexsatel Sociedad Anonima Cerrada - .A.C.",
-            "org": "",
-            "as": "AS273026 NEXSATEL SOCIEDAD ANONIMA CERRADA - NEXSATEL S.A.C.",
-            "query": "38.52.183.33",
-            "type": "http",
-            "port": "999",
-            "response_time": 10.17
+            "response_time": 16.63
         }
     ]
 }
