@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "IL",
             "region": "",
             "regionName": "Judea and Samaria Area",
-            "city": "Dolev",
+            "city": "Giv'on HaHadasha",
             "zip": "",
-            "lat": 31.9147,
-            "lon": 35.2068,
+            "lat": 31.9038,
+            "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "BNET network",
-            "org": "BCI Telecommunication & Advanced Technology Company",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
             "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.73",
-            "type": "socks4",
+            "query": "93.184.4.37",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 6.33
+            "response_time": 4.89
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "HA",
+            "regionName": "Haifa",
+            "city": "Haifa",
+            "zip": "35085",
+            "lat": 32.794,
+            "lon": 34.9895,
+            "timezone": "Asia/Jerusalem",
+            "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+            "org": "Cloudwebmanage IL HA",
+            "as": "AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+            "query": "83.229.73.113",
+            "type": "http",
+            "port": "13554",
+            "response_time": 10.61
         }
     ]
 }
