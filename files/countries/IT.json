@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.131.175",
-            "type": "http",
-            "port": "13815",
-            "response_time": 1.43
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -37,9 +18,9 @@
             "org": "Host VDC",
             "as": "AS47242 Host SpA",
             "query": "149.62.186.244",
-            "type": "socks5",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 5.44
+            "response_time": 6.56
         }
     ]
 }
