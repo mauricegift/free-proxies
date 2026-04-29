@@ -1,7 +1,7 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,55 @@
             "region": "01",
             "regionName": "Guatemala",
             "city": "Guatemala City",
-            "zip": "01051",
-            "lat": 14.5649,
-            "lon": -90.5258,
+            "zip": "01001",
+            "lat": 14.6343,
+            "lon": -90.5155,
             "timezone": "America/Guatemala",
-            "isp": "Comunicaciones Metropolitanas Cablecolor",
-            "org": "International Services Company S.A",
-            "as": "AS22869 CABLECOLOR S.A.",
-            "query": "143.208.57.59",
+            "isp": "Ufinet Panama S.A.",
+            "org": "Infinitum S.A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "45.228.233.78",
+            "type": "http",
+            "port": "999",
+            "response_time": 1.65
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01009",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "186.33.5.13",
             "type": "http",
             "port": "8080",
-            "response_time": 10.24
+            "response_time": 6.17
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "04",
+            "regionName": "Chimaltenango",
+            "city": "Comalapa",
+            "zip": "",
+            "lat": 14.7409,
+            "lon": -90.8876,
+            "timezone": "America/Guatemala",
+            "isp": "Comunicaciones Metropolitanas Cablecolor",
+            "org": "Tecnologica De LA Informacion Del Ministerio De Finanzas",
+            "as": "AS22869 CABLECOLOR S.A.",
+            "query": "143.208.57.163",
+            "type": "http",
+            "port": "999",
+            "response_time": 8.82
         }
     ]
 }
