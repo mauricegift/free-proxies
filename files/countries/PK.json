@@ -1,27 +1,8 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Model Town",
-            "zip": "54700",
-            "lat": 31.481,
-            "lon": 74.3256,
-            "timezone": "Asia/Karachi",
-            "isp": "Logitech Cable (Private) Limited",
-            "org": "Logitech Cable (Private) Limited",
-            "as": "AS141372 Logitech Cable (Private) Limited",
-            "query": "103.157.200.126",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.99
-        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -39,7 +20,45 @@
             "query": "103.86.135.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.73
+            "response_time": 1.48
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
+            "timezone": "Asia/Karachi",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.72
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
+            "timezone": "Asia/Karachi",
+            "isp": "Logitech Cable (Private) Limited",
+            "org": "Logitech Cable (Private) Limited",
+            "as": "AS141372 Logitech Cable (Private) Limited",
+            "query": "103.157.200.126",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.07
         }
     ]
 }
