@@ -1,7 +1,7 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Ufinet Panama S.A.",
             "org": "UFINET Guatemala S. A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "181.119.111.59",
+            "query": "181.119.111.239",
             "type": "http",
             "port": "999",
-            "response_time": 8.59
+            "response_time": 2.97
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01009",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "186.33.5.13",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.78
         }
     ]
 }
