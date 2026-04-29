@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.19
+            "response_time": 2.2
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.19
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon Corporate Services Pty Ltd, Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.79.125.20",
-            "type": "http",
-            "port": "9098",
-            "response_time": 3.44
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.253.167.61",
-            "type": "http",
-            "port": "35554",
-            "response_time": 3.47
+            "response_time": 2.2
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "170.64.170.204",
             "type": "socks5",
             "port": "1080",
-            "response_time": 6.17
+            "response_time": 2.47
         },
         {
             "status": "success",
@@ -104,18 +66,37 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "Albury",
-            "zip": "2641",
-            "lat": -36.0426,
-            "lon": 146.9407,
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
             "timezone": "Australia/Sydney",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
+            "isp": "Amazon Corporate Services Pty Ltd, Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "54.79.125.20",
             "type": "http",
-            "port": "80",
-            "response_time": 10.24
+            "port": "9098",
+            "response_time": 3.64
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
+            "timezone": "Australia/Melbourne",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.03
         }
     ]
 }
