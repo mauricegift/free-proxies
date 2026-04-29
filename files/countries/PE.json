@@ -1,7 +1,7 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 5,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "177.91.255.35",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.67
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima Province",
-            "city": "Lima",
-            "zip": "15001",
-            "lat": -12.0467,
-            "lon": -77.0431,
-            "timezone": "America/Lima",
-            "isp": "Level 3 Peru S.A",
-            "org": "Level 3 Colombia S.A",
-            "as": "AS3549 Level 3 Parent, LLC",
-            "query": "201.234.53.33",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.87
+            "response_time": 3.58
         },
         {
             "status": "success",
@@ -52,51 +33,32 @@
             "lat": -12.046,
             "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "TDP-GRS",
-            "org": "PE-TDP-GRS",
-            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
-            "query": "190.237.238.248",
-            "type": "http",
-            "port": "999",
-            "response_time": 5.0
+            "isp": "ON EMPRESAS S.A.C",
+            "org": "Miraflores De Turismo S.A.C",
+            "as": "AS27843 ON EMPRESAS S.A.C.",
+            "query": "190.12.95.170",
+            "type": "socks4",
+            "port": "37209",
+            "response_time": 4.67
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "TAC",
-            "regionName": "Tacna",
-            "city": "Tacna",
+            "region": "CAJ",
+            "regionName": "Cajamarca Department",
+            "city": "Huarango",
             "zip": "",
-            "lat": -18.0052,
-            "lon": -70.2489,
+            "lat": -5.27279,
+            "lon": -78.7758,
             "timezone": "America/Lima",
-            "isp": "Telefonica Del Peru",
-            "org": "PE-TDPERX11-LACNIC",
+            "isp": "Telefonica del Peru S.A.A.",
+            "org": "Telefonica Del Peru SAA",
             "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
-            "query": "190.43.92.245",
+            "query": "200.107.142.36",
             "type": "http",
-            "port": "999",
-            "response_time": 6.0
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "TAC",
-            "regionName": "Tacna",
-            "city": "Tacna",
-            "zip": "",
-            "lat": -18.0052,
-            "lon": -70.2489,
-            "timezone": "America/Lima",
-            "isp": "Telefonica Del Peru",
-            "org": "PE-TDPERX11-LACNIC",
-            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
-            "query": "190.43.92.98",
-            "type": "http",
-            "port": "999",
-            "response_time": 15.0
+            "port": "3128",
+            "response_time": 9.81
         }
     ]
 }
