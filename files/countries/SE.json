@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 5,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "144.31.230.27",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.11
+            "response_time": 1.12
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.51.196.44",
+            "type": "http",
+            "port": "27491",
+            "response_time": 1.33
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "O",
+            "regionName": "V\u00e4stra G\u00f6taland County",
+            "city": "Gothenburg",
+            "zip": "400 10",
+            "lat": 57.7089,
+            "lon": 11.9746,
+            "timezone": "Europe/Stockholm",
+            "isp": "Telia Company AB",
+            "org": "Telia Network Services",
+            "as": "AS3301 Telia Company AB",
+            "query": "81.228.44.187",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 3.1
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "62.60.149.161",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.12
+            "response_time": 8.65
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "62.60.149.161",
             "type": "socks5",
             "port": "1080",
-            "response_time": 8.12
+            "response_time": 8.65
         },
         {
             "status": "success",
@@ -75,9 +113,9 @@
             "org": "NetCrafters OU",
             "as": "AS210644 AEZA GROUP LLC",
             "query": "62.60.231.71",
-            "type": "http",
+            "type": "socks4",
             "port": "56608",
-            "response_time": 10.53
+            "response_time": 20.07
         },
         {
             "status": "success",
@@ -96,7 +134,7 @@
             "query": "62.60.231.71",
             "type": "socks5",
             "port": "56608",
-            "response_time": 10.53
+            "response_time": 20.07
         }
     ]
 }
