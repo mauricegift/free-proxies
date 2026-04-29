@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 9,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.48
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "045",
-            "lat": 37.5656,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Kornet",
-            "as": "AS4766 Korea Telecom",
-            "query": "210.223.44.230",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.48
+            "response_time": 1.79
         },
         {
             "status": "success",
@@ -56,9 +37,9 @@
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
             "query": "152.70.91.193",
-            "type": "socks4",
+            "type": "socks5",
             "port": "40000",
-            "response_time": 2.76
+            "response_time": 1.94
         },
         {
             "status": "success",
@@ -77,26 +58,7 @@
             "query": "121.169.46.116",
             "type": "socks5",
             "port": "1090",
-            "response_time": 3.95
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "30",
-            "regionName": "Daejeon",
-            "city": "Daejeon",
-            "zip": "34178",
-            "lat": 36.3461,
-            "lon": 127.375,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "plannix",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "114.108.177.104",
-            "type": "socks4",
-            "port": "60984",
-            "response_time": 6.36
+            "response_time": 2.55
         },
         {
             "status": "success",
@@ -115,7 +77,7 @@
             "query": "43.133.90.161",
             "type": "socks5",
             "port": "8088",
-            "response_time": 6.72
+            "response_time": 3.49
         },
         {
             "status": "success",
@@ -134,7 +96,45 @@
             "query": "43.133.90.161",
             "type": "http",
             "port": "8888",
-            "response_time": 8.75
+            "response_time": 4.36
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Ansan-si",
+            "zip": "155",
+            "lat": 37.2852,
+            "lon": 126.8251,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "",
+            "as": "AS4766 Korea Telecom",
+            "query": "121.139.218.165",
+            "type": "socks4",
+            "port": "43295",
+            "response_time": 5.06
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "045",
+            "lat": 37.5656,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "210.223.44.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.77
         },
         {
             "status": "success",
@@ -151,28 +151,9 @@
             "org": "The Constant Company, LLC",
             "as": "AS20473 The Constant Company, LLC",
             "query": "158.247.212.189",
-            "type": "socks4",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 8.93
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "27",
-            "regionName": "Daegu",
-            "city": "Suseong-gu",
-            "zip": "422",
-            "lat": 35.8481,
-            "lon": 128.6968,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Korea Telecom",
-            "as": "AS4766 Korea Telecom",
-            "query": "220.81.123.23",
-            "type": "http",
-            "port": "48678",
-            "response_time": 9.8
+            "response_time": 5.92
         }
     ]
 }
