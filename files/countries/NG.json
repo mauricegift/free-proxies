@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.52438,
-            "lon": 3.37921,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Accelon",
-            "org": "Krestal Laurel",
-            "as": "AS30988 IS InternetSolutions Limited",
-            "query": "197.156.240.66",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.82
+            "isp": "GLO",
+            "org": "",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.76.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.43
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Ciudad Infrastructure Limited",
+            "org": "Rackcentre",
+            "as": "AS328722 Ciudad Infrastructure Limited",
+            "query": "102.221.238.238",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.13
         }
     ]
 }
