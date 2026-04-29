@@ -1,8 +1,27 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "18",
+            "regionName": "Izabal Department",
+            "city": "El Estor",
+            "zip": "18003",
+            "lat": 15.5322,
+            "lon": -89.3311,
+            "timezone": "America/Guatemala",
+            "isp": "UFINET Guatemala S. A",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.78.50.108",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.81
+        },
         {
             "status": "success",
             "country": "Guatemala",
@@ -10,17 +29,17 @@
             "region": "01",
             "regionName": "Guatemala",
             "city": "Guatemala City",
-            "zip": "01001",
+            "zip": "01009",
             "lat": 14.6343,
             "lon": -90.5155,
             "timezone": "America/Guatemala",
             "isp": "Ufinet Panama S.A.",
-            "org": "Infinitum S.A",
+            "org": "UFINET Guatemala S. A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "45.228.233.78",
+            "query": "186.33.5.13",
             "type": "http",
-            "port": "999",
-            "response_time": 4.7
+            "port": "8080",
+            "response_time": 10.6
         }
     ]
 }
