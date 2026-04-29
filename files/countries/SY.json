@@ -1,46 +1,8 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Syria",
-            "countryCode": "SY",
-            "region": "HL",
-            "regionName": "Aleppo Governorate",
-            "city": "Aleppo",
-            "zip": "",
-            "lat": 36.2012,
-            "lon": 37.1612,
-            "timezone": "Asia/Damascus",
-            "isp": "High Speed For Internet Services L.L.C",
-            "org": "Telecom SY",
-            "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "139.28.49.113",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.88
-        },
-        {
-            "status": "success",
-            "country": "Syria",
-            "countryCode": "SY",
-            "region": "HL",
-            "regionName": "Aleppo Governorate",
-            "city": "Manbij",
-            "zip": "",
-            "lat": 36.5281,
-            "lon": 37.9549,
-            "timezone": "Asia/Damascus",
-            "isp": "High Speed For Internet Services L.L.C",
-            "org": "",
-            "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "89.43.135.42",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.32
-        },
         {
             "status": "success",
             "country": "Syria",
@@ -58,7 +20,26 @@
             "query": "205.209.64.193",
             "type": "http",
             "port": "8080",
-            "response_time": 7.63
+            "response_time": 4.67
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "DI",
+            "regionName": "Damascus Governorate",
+            "city": "Damascus",
+            "zip": "",
+            "lat": 33.5132,
+            "lon": 36.2768,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "TELECOME SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "212.108.115.74",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.92
         },
         {
             "status": "success",
@@ -74,10 +55,10 @@
             "isp": "High Speed For Internet Services L.L.C",
             "org": "Telecom SY",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "139.28.49.106",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.94
+            "query": "139.28.49.136",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 9.04
         }
     ]
 }
