@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "",
-            "regionName": "Central Serbia",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.7958,
-            "lon": 20.4414,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "BeotelNet ISP",
-            "as": "AS6700 TELEKOM SRBIJA a.d.",
-            "query": "217.26.67.57",
-            "type": "http",
-            "port": "3180",
-            "response_time": 1.83
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -39,7 +20,7 @@
             "query": "178.220.148.82",
             "type": "socks4",
             "port": "10801",
-            "response_time": 5.03
+            "response_time": 1.98
         },
         {
             "status": "success",
@@ -52,13 +33,13 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "109.92.141.2",
-            "type": "http",
-            "port": "999",
-            "response_time": 5.19
+            "query": "79.101.45.94",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 2.19
         }
     ]
 }
