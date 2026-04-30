@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "168.253.92.93",
             "type": "socks5",
             "port": "10808",
-            "response_time": 0.12
+            "response_time": 0.11
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "KZN",
+            "regionName": "KwaZulu-Natal",
+            "city": "Durban",
+            "zip": "4001",
+            "lat": -29.8553,
+            "lon": 31.0428,
+            "timezone": "Africa/Johannesburg",
+            "isp": "ispot-core",
+            "org": "",
+            "as": "AS327922 Perlcom CC T/A iSPOT",
+            "query": "169.239.45.51",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.4
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7441",
+            "lat": -33.914,
+            "lon": 18.4129,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Vox Telecommunications (Pty) Limited",
+            "org": "Vox Telecom (Pty) Ltd",
+            "as": "AS11845 Vox Telecom Ltd",
+            "query": "102.39.233.4",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.31
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "FS",
+            "regionName": "Free State",
+            "city": "Bloemfontein",
+            "zip": "9301",
+            "lat": -29.1252,
+            "lon": 26.163,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Neotel GAU",
+            "org": "",
+            "as": "AS36937 Liquid Telecommunications South Africa (Pty) Ltd",
+            "query": "41.162.162.142",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.6
         },
         {
             "status": "success",
@@ -39,26 +96,7 @@
             "query": "165.0.100.149",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.28
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "41.79.148.233",
-            "type": "http",
-            "port": "8084",
-            "response_time": 4.11
+            "response_time": 5.52
         },
         {
             "status": "success",
@@ -66,18 +104,18 @@
             "countryCode": "ZA",
             "region": "GP",
             "regionName": "Gauteng",
-            "city": "Equestria",
-            "zip": "0040",
-            "lat": -25.7639,
-            "lon": 28.3365,
+            "city": "Daveyton",
+            "zip": "1520",
+            "lat": -26.1427,
+            "lon": 28.4203,
             "timezone": "Africa/Johannesburg",
-            "isp": "Vodacom Shared ENS NSA",
-            "org": "",
-            "as": "AS36994 Vodacom",
-            "query": "41.21.182.179",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 8.36
+            "isp": "Session Telecoms(PTY) Ltd",
+            "org": "SessionTelecoms",
+            "as": "AS327907 Session Telecoms(PTY) Ltd",
+            "query": "102.135.142.234",
+            "type": "http",
+            "port": "12354",
+            "response_time": 6.13
         }
     ]
 }
