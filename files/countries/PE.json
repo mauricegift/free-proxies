@@ -1,8 +1,46 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LIM",
+            "regionName": "Lima region",
+            "city": "Huaura",
+            "zip": "",
+            "lat": -11.0617,
+            "lon": -77.5977,
+            "timezone": "America/Lima",
+            "isp": "Forza Bussines S.A.C",
+            "org": "Forza Bussines S.A.C",
+            "as": "AS273084 FORZA BUSSINES S.A.C.",
+            "query": "38.183.183.114",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.89
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "TAC",
+            "regionName": "Tacna",
+            "city": "Tacna",
+            "zip": "",
+            "lat": -18.0052,
+            "lon": -70.2489,
+            "timezone": "America/Lima",
+            "isp": "Telefonica del Peru",
+            "org": "PE-TDPERX6-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "200.106.124.144",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.86
+        },
         {
             "status": "success",
             "country": "Peru",
@@ -20,26 +58,26 @@
             "query": "38.158.83.233",
             "type": "http",
             "port": "999",
-            "response_time": 6.71
+            "response_time": 6.57
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "AMA",
-            "regionName": "Amazonas",
-            "city": "Chachapoyas",
+            "region": "SAM",
+            "regionName": "San Mart\u00edn Department",
+            "city": "Sauce",
             "zip": "",
-            "lat": -6.2356,
-            "lon": -77.8691,
+            "lat": -6.69139,
+            "lon": -76.2147,
             "timezone": "America/Lima",
-            "isp": "Airwiz Peru E.I.R.L",
-            "org": "Airwiz Peru E.I.R.L",
-            "as": "AS270010 AIRWIZ PERU E.I.R.L",
-            "query": "200.39.152.193",
+            "isp": "Telefonica Del Peru",
+            "org": "PE-TDPERX12-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "201.230.121.244",
             "type": "http",
             "port": "999",
-            "response_time": 8.75
+            "response_time": 9.07
         },
         {
             "status": "success",
@@ -58,26 +96,7 @@
             "query": "179.1.147.137",
             "type": "http",
             "port": "999",
-            "response_time": 9.0
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "ARE",
-            "regionName": "Arequipa",
-            "city": "Arequipa",
-            "zip": "",
-            "lat": -16.4014,
-            "lon": -71.5343,
-            "timezone": "America/Lima",
-            "isp": "Fiberred SAC",
-            "org": "Cogent Communications",
-            "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.193",
-            "type": "http",
-            "port": "999",
-            "response_time": 11.12
+            "response_time": 9.85
         }
     ]
 }
