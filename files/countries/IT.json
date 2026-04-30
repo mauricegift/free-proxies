@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.26
+            "response_time": 0.98
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Adrano",
+            "zip": "95031",
+            "lat": 37.6623,
+            "lon": 14.8343,
+            "timezone": "Europe/Rome",
+            "isp": "Aircomm S.r.L.",
+            "org": "",
+            "as": "AS196865 Aircomm S.r.L.",
+            "query": "109.232.137.43",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.2
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "5.95.121.180",
             "type": "socks4",
             "port": "4153",
-            "response_time": 8.73
+            "response_time": 4.29
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6329,
+            "lon": 11.6726,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "185.248.245.119",
+            "type": "socks4",
+            "port": "80",
+            "response_time": 10.28
         }
     ]
 }
