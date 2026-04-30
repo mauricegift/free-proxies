@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "38.180.44.151",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.26
+            "response_time": 1.22
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "Narva",
+            "zip": "29022",
+            "lat": 59.3614,
+            "lon": 28.1921,
+            "timezone": "Europe/Tallinn",
+            "isp": "RJ Network OU",
+            "org": "OU Web Hosting Solutions",
+            "as": "AS202759 RJ Network OU",
+            "query": "185.155.99.106",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.39
         }
     ]
 }
