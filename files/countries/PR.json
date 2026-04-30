@@ -1,8 +1,46 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "San Juan",
+            "city": "San Juan",
+            "zip": "00928",
+            "lat": 18.4,
+            "lon": -66.05,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Natural G.C. Inc.",
+            "org": "Natural G.C. Inc",
+            "as": "AS396899 Natural G.C. Inc.",
+            "query": "172.99.187.33",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.22
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Humacao",
+            "city": "Candelero Arriba",
+            "zip": "",
+            "lat": 18.1019,
+            "lon": -65.8368,
+            "timezone": "America/Puerto_Rico",
+            "isp": "BNET",
+            "org": "OSNET Wireless",
+            "as": "AS401013 BNET",
+            "query": "198.52.243.3",
+            "type": "http",
+            "port": "9999",
+            "response_time": 8.47
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -17,29 +55,10 @@
             "isp": "Boom NET",
             "org": "Boom NET",
             "as": "AS63393 BOOM NET",
-            "query": "192.203.0.118",
+            "query": "192.203.0.250",
             "type": "http",
             "port": "999",
-            "response_time": 7.86
-        },
-        {
-            "status": "success",
-            "country": "Puerto Rico",
-            "countryCode": "PR",
-            "region": "",
-            "regionName": "Aguadilla",
-            "city": "Caban",
-            "zip": "",
-            "lat": 18.4433,
-            "lon": -67.136,
-            "timezone": "America/Puerto_Rico",
-            "isp": "Skynet Wireless",
-            "org": "Skynet Wireless",
-            "as": "AS397674 Skynet Wireless",
-            "query": "23.138.80.49",
-            "type": "http",
-            "port": "999",
-            "response_time": 11.12
+            "response_time": 10.75
         }
     ]
 }
