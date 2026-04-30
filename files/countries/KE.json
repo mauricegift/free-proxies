@@ -1,27 +1,8 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 3,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Jamii Telecommunications Limited",
-            "org": "FAIBA",
-            "as": "AS36866 Jamii Telecommunications Limited",
-            "query": "197.232.43.224",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.95
-        },
         {
             "status": "success",
             "country": "Kenya",
@@ -36,10 +17,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.21.136",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.51
+            "query": "154.79.248.156",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.64
         },
         {
             "status": "success",
@@ -58,7 +39,64 @@
             "query": "41.139.147.86",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.97
+            "response_time": 0.94
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Jamii Telecommunications Limited",
+            "org": "FAIBA",
+            "as": "AS36866 Jamii Telecommunications Limited",
+            "query": "197.232.43.224",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.68
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Unwired Communications Ltd",
+            "org": "",
+            "as": "AS328490 Unwired Communications Limited",
+            "query": "102.68.77.47",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.52
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.24.58",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.83
         }
     ]
 }
