@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 5,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Servercore",
+            "org": "Modern Server Solutions LLP",
+            "as": "AS48988 Modern Server Solutions LLP",
+            "query": "198.13.190.60",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.7
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -33,32 +52,13 @@
             "lat": 43.2525,
             "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "Servercore",
-            "org": "Modern Server Solutions LLP",
-            "as": "AS48988 Modern Server Solutions LLP",
-            "query": "198.13.190.60",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.72
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
-            "timezone": "Asia/Almaty",
             "isp": "Netfire TEC",
             "org": "",
             "as": "AS205431 HostLab LLC",
             "query": "176.12.78.141",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.18
+            "response_time": 4.24
         },
         {
             "status": "success",
@@ -77,7 +77,26 @@
             "query": "176.12.78.141",
             "type": "socks5",
             "port": "1080",
-            "response_time": 4.18
+            "response_time": 4.24
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "39",
+            "regionName": "Qostanay Oblysy",
+            "city": "Kostanay",
+            "zip": "",
+            "lat": 53.2123,
+            "lon": 63.6281,
+            "timezone": "Asia/Qostanay",
+            "isp": "Uplink LLC",
+            "org": "Uplink LLC",
+            "as": "AS8200 Uplink LLC",
+            "query": "109.248.236.150",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 8.63
         },
         {
             "status": "success",
@@ -96,7 +115,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 4.45
+            "response_time": 15.89
         }
     ]
 }
