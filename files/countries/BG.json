@@ -1,26 +1,26 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Razlog",
+            "zip": "2760",
+            "lat": 41.8913,
+            "lon": 23.4806,
             "timezone": "Europe/Sofia",
-            "isp": "Spectrum NET",
-            "org": "",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "212.50.19.150",
+            "isp": "VIM TV LTD",
+            "org": "VIM TV Ltd",
+            "as": "AS199702 VIM TV LTD",
+            "query": "213.149.156.87",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 0.85
+            "port": "5678",
+            "response_time": 1.19
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "94.72.158.129",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.86
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "01",
-            "regionName": "Blagoevgrad",
-            "city": "Razlog",
-            "zip": "2760",
-            "lat": 41.8913,
-            "lon": 23.4806,
-            "timezone": "Europe/Sofia",
-            "isp": "VIM TV LTD",
-            "org": "VIM TV Ltd",
-            "as": "AS199702 VIM TV LTD",
-            "query": "213.149.156.87",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.04
+            "response_time": 1.93
         },
         {
             "status": "success",
@@ -75,9 +56,9 @@
             "org": "",
             "as": "AS39135 Fiber 1 Ltd.",
             "query": "77.238.79.111",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.61
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.81
         },
         {
             "status": "success",
@@ -96,7 +77,26 @@
             "query": "213.149.154.213",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.09
+            "response_time": 5.04
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "02",
+            "regionName": "Burgas",
+            "city": "Saint Vlas",
+            "zip": "8256",
+            "lat": 42.7136,
+            "lon": 27.7587,
+            "timezone": "Europe/Sofia",
+            "isp": "Vivacom Bulgaria EAD",
+            "org": "Vivacom Bulgaria EAD",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "77.85.168.253",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 6.08
         },
         {
             "status": "success",
@@ -115,7 +115,26 @@
             "query": "85.187.224.21",
             "type": "http",
             "port": "8080",
-            "response_time": 8.44
+            "response_time": 7.5
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "18",
+            "regionName": "Ruse",
+            "city": "Rousse",
+            "zip": "7000",
+            "lat": 43.8487,
+            "lon": 25.9534,
+            "timezone": "Europe/Sofia",
+            "isp": "Kabelnet LTD",
+            "org": "Global Communication Net Plc",
+            "as": "AS205352 KABELNET LTD",
+            "query": "109.160.97.49",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 8.19
         }
     ]
 }
