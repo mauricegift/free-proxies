@@ -1,8 +1,46 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47800",
+            "lat": 3.1196,
+            "lon": 101.5843,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "60.54.19.46",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.05
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50502",
+            "lat": 3.1398,
+            "lon": 101.6853,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.139.201.193",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.11
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +58,26 @@
             "query": "103.58.16.106",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.76
+            "response_time": 6.94
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Shah Alam",
+            "zip": "40150",
+            "lat": 3.1071,
+            "lon": 101.5526,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.139.211.38",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.74
         },
         {
             "status": "success",
@@ -29,17 +86,17 @@
             "region": "14",
             "regionName": "Kuala Lumpur",
             "city": "Kuala Lumpur",
-            "zip": "52200",
-            "lat": 3.1572,
-            "lon": 101.6695,
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
             "timezone": "Asia/Kuala_Lumpur",
-            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Streamyx",
-            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "103.1.105.10",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 6.86
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.250.187.181",
+            "type": "socks5",
+            "port": "33333",
+            "response_time": 10.98
         }
     ]
 }
