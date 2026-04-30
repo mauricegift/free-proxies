@@ -1,26 +1,26 @@
 {
     "countryCode": "CL",
     "country": "Chile",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Chile",
             "countryCode": "CL",
-            "region": "AR",
-            "regionName": "Regi\u00f3n de la Araucan\u00eda",
-            "city": "Temuco",
-            "zip": "",
-            "lat": -38.7315,
-            "lon": -72.5992,
+            "region": "RM",
+            "regionName": "Santiago Metropolitan",
+            "city": "Santiago",
+            "zip": "8320000",
+            "lat": -33.4489,
+            "lon": -70.6693,
             "timezone": "America/Santiago",
-            "isp": "TELEF\u00d3NICA CHILE S.A.",
-            "org": "Telefonica Movil De Chile S.A",
-            "as": "AS7418 TELEF\u00d3NICA CHILE S.A.",
-            "query": "181.172.62.250",
+            "isp": "Telefonica del Sur S.A.",
+            "org": "Telefonica del Sur S.A",
+            "as": "AS14117 Telefonica del Sur S.A.",
+            "query": "201.220.112.98",
             "type": "http",
             "port": "999",
-            "response_time": 5.02
+            "response_time": 2.72
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "Grupo ZGH SpA",
             "org": "Grupo ZGH SpA",
             "as": "AS263702 GRUPO ZGH SPA",
-            "query": "38.7.195.52",
+            "query": "38.7.195.49",
             "type": "http",
             "port": "999",
-            "response_time": 5.49
+            "response_time": 5.17
+        },
+        {
+            "status": "success",
+            "country": "Chile",
+            "countryCode": "CL",
+            "region": "LR",
+            "regionName": "Los R\u00edos Region",
+            "city": "Valdivia",
+            "zip": "5090000",
+            "lat": -39.8159,
+            "lon": -73.2478,
+            "timezone": "America/Santiago",
+            "isp": "Telefonica del Sur S.A.",
+            "org": "Telefonica del Sur S.A",
+            "as": "AS14117 Telefonica del Sur S.A.",
+            "query": "190.13.147.93",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.63
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "38.7.195.50",
             "type": "http",
             "port": "999",
-            "response_time": 8.29
+            "response_time": 6.44
         },
         {
             "status": "success",
@@ -66,18 +85,18 @@
             "countryCode": "CL",
             "region": "VS",
             "regionName": "Regi\u00f3n de Valpara\u00edso",
-            "city": "Quillota",
+            "city": "Valpara\u00edso",
             "zip": "",
-            "lat": -32.88,
-            "lon": -71.2474,
+            "lat": -33.0348,
+            "lon": -71.6256,
             "timezone": "America/Santiago",
-            "isp": "Airpoint Telecomunicaciones Limitada",
-            "org": "",
-            "as": "AS266830 AIRPOINT TELECOMUNICACIONES LIMITADA",
-            "query": "45.238.20.212",
+            "isp": "Iconex SPA",
+            "org": "Iconex SPA",
+            "as": "AS270024 ICONEX SPA",
+            "query": "200.39.139.145",
             "type": "http",
             "port": "999",
-            "response_time": 12.04
+            "response_time": 6.81
         }
     ]
 }
