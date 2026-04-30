@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "185.130.219.11",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.0
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Hu\u00e9neja",
-            "zip": "18512",
-            "lat": 37.1766,
-            "lon": -2.95024,
-            "timezone": "Europe/Madrid",
-            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-            "org": "Ciberdolar",
-            "as": "AS29119 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-            "query": "109.167.83.167",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.1
+            "response_time": 5.14
         },
         {
             "status": "success",
@@ -56,9 +37,9 @@
             "org": "Oracle Svenska AB",
             "as": "AS31898 Oracle Corporation",
             "query": "143.47.59.115",
-            "type": "socks4",
+            "type": "socks5",
             "port": "8118",
-            "response_time": 4.12
+            "response_time": 7.56
         },
         {
             "status": "success",
@@ -77,45 +58,26 @@
             "query": "141.105.107.152",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.01
+            "response_time": 8.16
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "PV",
-            "regionName": "Basque Country",
-            "city": "Bilbao",
-            "zip": "48070",
-            "lat": 43.2626,
-            "lon": -2.9238,
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28070",
+            "lat": 40.4168,
+            "lon": -3.70379,
             "timezone": "Europe/Madrid",
-            "isp": "TATA Communications",
-            "org": "Nexis Tecnologias",
-            "as": "AS6453 TATA COMMUNICATIONS (AMERICA) INC",
-            "query": "195.219.98.27",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.117.60",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 5.26
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "CM",
-            "regionName": "Castille-La Mancha",
-            "city": "Oca\u00f1a",
-            "zip": "45300",
-            "lat": 39.9565,
-            "lon": -3.4889,
-            "timezone": "Europe/Madrid",
-            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-            "org": "Aire Networks Del Mediterraneo SL Unipersonal",
-            "as": "AS56882 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-            "query": "168.245.197.146",
-            "type": "socks5",
-            "port": "80",
-            "response_time": 6.48
+            "port": "9100",
+            "response_time": 21.04
         }
     ]
 }
