@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon Technologies Inc",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.160.116.45",
-            "type": "http",
-            "port": "31345",
-            "response_time": 1.2
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -39,7 +20,45 @@
             "query": "109.232.137.43",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.29
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4681,
+            "lon": 9.2011,
+            "timezone": "Europe/Rome",
+            "isp": "Amazon Technologies Inc",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.160.116.45",
+            "type": "http",
+            "port": "31345",
+            "response_time": 1.18
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 7.77
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.19
+            "response_time": 8.58
         }
     ]
 }
