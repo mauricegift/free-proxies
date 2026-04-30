@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "109.232.137.43",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.17
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon Technologies Inc",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.160.116.45",
-            "type": "http",
-            "port": "31345",
-            "response_time": 1.18
+            "response_time": 1.14
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "91.192.25.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 7.77
+            "response_time": 2.24
         },
         {
             "status": "success",
@@ -68,16 +49,54 @@
             "regionName": "Lombardy",
             "city": "Milan",
             "zip": "20121",
-            "lat": 45.4642,
-            "lon": 9.18998,
+            "lat": 45.4681,
+            "lon": 9.2011,
             "timezone": "Europe/Rome",
-            "isp": "Host SpA",
-            "org": "Host VDC",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.186.244",
+            "isp": "Amazon Technologies Inc",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.160.116.45",
+            "type": "http",
+            "port": "31345",
+            "response_time": 4.25
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 8.58
+            "port": "4153",
+            "response_time": 8.31
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Furnari",
+            "zip": "98054",
+            "lat": 38.1031,
+            "lon": 15.1206,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "2.115.212.62",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 9.29
         }
     ]
 }
