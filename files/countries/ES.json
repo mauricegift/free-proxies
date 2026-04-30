@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "109.167.83.167",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.9
+            "response_time": 0.91
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "PV",
+            "regionName": "Basque Country",
+            "city": "Bilbao",
+            "zip": "48070",
+            "lat": 43.2626,
+            "lon": -2.9238,
+            "timezone": "Europe/Madrid",
+            "isp": "TATA Communications",
+            "org": "Nexis Tecnologias",
+            "as": "AS6453 TATA COMMUNICATIONS (AMERICA) INC",
+            "query": "195.219.98.27",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.11
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "65.20.105.241",
             "type": "socks5",
             "port": "10001",
-            "response_time": 4.31
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "VC",
-            "regionName": "Valencia",
-            "city": "Javea",
-            "zip": "03730",
-            "lat": 38.7764,
-            "lon": -0.0075,
-            "timezone": "Europe/Madrid",
-            "isp": "customers4",
-            "org": "",
-            "as": "AS56697 SUIS BOGA TELECOM SL",
-            "query": "185.130.219.11",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 5.07
+            "response_time": 4.92
         },
         {
             "status": "success",
@@ -66,18 +66,56 @@
             "countryCode": "ES",
             "region": "MD",
             "regionName": "Madrid",
-            "city": "San Fernando de Henares",
-            "zip": "28830",
-            "lat": 40.4239,
-            "lon": -3.53261,
+            "city": "Madrid",
+            "zip": "28085",
+            "lat": 40.4153,
+            "lon": -3.694,
             "timezone": "Europe/Madrid",
-            "isp": "Telefonica de Espana SAU",
-            "org": "RIMA (Red IP Multi Acceso)",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "83.56.15.57",
+            "isp": "OVH SAS",
+            "org": "OVH Hispano",
+            "as": "AS16276 OVH SAS",
+            "query": "141.227.128.55",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.45
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28037",
+            "lat": 40.4327,
+            "lon": -3.621,
+            "timezone": "Europe/Madrid",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Svenska AB",
+            "as": "AS31898 Oracle Corporation",
+            "query": "143.47.59.115",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 6.21
+            "port": "8118",
+            "response_time": 8.82
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Mijas",
+            "zip": "29650",
+            "lat": 36.5997,
+            "lon": -4.6384,
+            "timezone": "Europe/Madrid",
+            "isp": "AVATEL TELECOM, SA",
+            "org": "AVATEL TELECOM, SA",
+            "as": "AS200845 AVATEL TELECOM, SA",
+            "query": "185.202.165.1",
+            "type": "http",
+            "port": "53281",
+            "response_time": 13.52
         }
     ]
 }
