@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.89
+            "response_time": 1.08
         },
         {
             "status": "success",
@@ -29,17 +29,36 @@
             "region": "25",
             "regionName": "Lombardy",
             "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
             "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.0",
-            "type": "http",
-            "port": "8081",
-            "response_time": 2.39
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.08
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6329,
+            "lon": 11.6726,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "185.248.245.119",
+            "type": "socks4",
+            "port": "80",
+            "response_time": 4.34
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "IT",
             "region": "82",
             "regionName": "Sicily",
-            "city": "Furnari",
-            "zip": "98054",
-            "lat": 38.1031,
-            "lon": 15.1206,
+            "city": "Adrano",
+            "zip": "95031",
+            "lat": 37.6623,
+            "lon": 14.8343,
             "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "2.115.212.62",
+            "isp": "Aircomm S.r.L.",
+            "org": "",
+            "as": "AS196865 Aircomm S.r.L.",
+            "query": "109.232.137.43",
             "type": "socks4",
-            "port": "48293",
-            "response_time": 2.72
+            "port": "5678",
+            "response_time": 8.84
         }
     ]
 }
