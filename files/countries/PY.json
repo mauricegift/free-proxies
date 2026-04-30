@@ -1,8 +1,27 @@
 {
     "countryCode": "PY",
     "country": "Paraguay",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "11",
+            "regionName": "Central Department",
+            "city": "Mariano Roque Alonso",
+            "zip": "",
+            "lat": -25.2133,
+            "lon": -57.5436,
+            "timezone": "America/Asuncion",
+            "isp": "Telecel S.A.",
+            "org": "Telecel S.A",
+            "as": "AS23201 Telecel S.A.",
+            "query": "190.128.134.66",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.61
+        },
         {
             "status": "success",
             "country": "Paraguay",
@@ -14,13 +33,13 @@
             "lat": -25.2869,
             "lon": -57.6511,
             "timezone": "America/Asuncion",
-            "isp": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-            "org": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-            "as": "AS28103 TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
-            "query": "179.189.219.98",
+            "isp": "Telecel S.A.",
+            "org": "Telecel S.A",
+            "as": "AS23201 Telecel S.A.",
+            "query": "200.85.52.254",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 6.44
+            "port": "5678",
+            "response_time": 8.73
         }
     ]
 }
