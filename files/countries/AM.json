@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "130.193.123.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.22
+            "response_time": 1.2
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1777,
+            "lon": 44.5126,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom CJSC",
+            "org": "Ucom CJSC",
+            "as": "AS44395 Ucom CJSC",
+            "query": "82.199.197.190",
+            "type": "http",
+            "port": "81",
+            "response_time": 5.61
         }
     ]
 }
