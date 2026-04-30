@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "San Giovanni Valdarno",
-            "zip": "52027",
-            "lat": 43.5707,
-            "lon": 11.5331,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
             "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "91.192.25.158",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 8.31
+            "port": "1080",
+            "response_time": 4.26
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 8.73
         }
     ]
 }
