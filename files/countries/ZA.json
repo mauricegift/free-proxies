@@ -1,26 +1,26 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 5,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2001",
-            "lat": -26.20229,
-            "lon": 28.034195,
+            "region": "FS",
+            "regionName": "Free State",
+            "city": "Bloemfontein",
+            "zip": "9301",
+            "lat": -29.1252,
+            "lon": 26.163,
             "timezone": "Africa/Johannesburg",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (southafricanorth)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "20.164.75.153",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.15
+            "isp": "Neotel GAU",
+            "org": "",
+            "as": "AS36937 Liquid Telecommunications South Africa (Pty) Ltd",
+            "query": "41.162.162.142",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.68
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "165.0.100.149",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.51
+            "response_time": 3.5
         },
         {
             "status": "success",
@@ -58,45 +58,7 @@
             "query": "41.57.7.190",
             "type": "http",
             "port": "6060",
-            "response_time": 3.75
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "MP",
-            "regionName": "Mpumalanga",
-            "city": "Delmas",
-            "zip": "2211",
-            "lat": -26.1466,
-            "lon": 28.6832,
-            "timezone": "Africa/Johannesburg",
-            "isp": "CM Value Added Services (Pty) Ltd",
-            "org": "CMV SP2",
-            "as": "AS37650 CM Value Added Services (Pty) Ltd",
-            "query": "168.253.92.93",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 7.57
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Potchefstroom",
-            "zip": "2531",
-            "lat": -26.7168,
-            "lon": 27.1054,
-            "timezone": "Africa/Johannesburg",
-            "isp": "JENNY INTERNET (PTY) LTD",
-            "org": "Jenny Internet cc",
-            "as": "AS327750 JENNY INTERNET (PTY) LTD",
-            "query": "102.23.237.121",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.39
+            "response_time": 6.98
         }
     ]
 }
