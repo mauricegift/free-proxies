@@ -1,45 +1,26 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 11,
+    "count": 14,
     "proxies": [
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.79.79.35",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 1.97
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
             "region": "HCW",
-            "regionName": "Central and Western",
+            "regionName": "Central and Western District",
             "city": "Hong Kong",
             "zip": "",
-            "lat": 22.3964,
-            "lon": 114.109,
+            "lat": 22.3193,
+            "lon": 114.1693,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-east-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.198.209.12",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.96.238.40",
             "type": "http",
-            "port": "5555",
-            "response_time": 2.0
+            "port": "8080",
+            "response_time": 1.6
         },
         {
             "status": "success",
@@ -64,6 +45,25 @@
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.79.79.35",
+            "type": "socks5",
+            "port": "10808",
+            "response_time": 2.18
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
             "region": "NKT",
             "regionName": "Kwai Tsing District",
             "city": "Kwai Chung",
@@ -76,8 +76,8 @@
             "as": "AS906 DMIT Cloud Services",
             "query": "154.12.176.85",
             "type": "socks5",
-            "port": "8088",
-            "response_time": 2.25
+            "port": "8080",
+            "response_time": 2.21
         },
         {
             "status": "success",
@@ -93,10 +93,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ap-east-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.198.99.209",
+            "query": "43.198.209.12",
             "type": "http",
-            "port": "14333",
-            "response_time": 2.43
+            "port": "5555",
+            "response_time": 2.22
         },
         {
             "status": "success",
@@ -115,7 +115,45 @@
             "query": "18.163.33.4",
             "type": "http",
             "port": "32162",
-            "response_time": 2.44
+            "response_time": 2.97
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western",
+            "city": "Hong Kong",
+            "zip": "",
+            "lat": 22.3964,
+            "lon": 114.109,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-east-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.163.33.4",
+            "type": "http",
+            "port": "35278",
+            "response_time": 2.98
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NKT",
+            "regionName": "Kwai Tsing District",
+            "city": "Kwai Chung",
+            "zip": "",
+            "lat": 22.374,
+            "lon": 114.1369,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "DMIT Cloud Services",
+            "org": "",
+            "as": "AS906 DMIT Cloud Services",
+            "query": "154.12.176.85",
+            "type": "socks5",
+            "port": "8088",
+            "response_time": 4.02
         },
         {
             "status": "success",
@@ -132,9 +170,9 @@
             "org": "Tencent Cloud Computing",
             "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
             "query": "43.129.80.138",
-            "type": "socks5",
+            "type": "socks4",
             "port": "18999",
-            "response_time": 5.22
+            "response_time": 8.0
         },
         {
             "status": "success",
@@ -153,7 +191,7 @@
             "query": "47.238.205.249",
             "type": "socks5",
             "port": "1011",
-            "response_time": 5.89
+            "response_time": 10.75
         },
         {
             "status": "success",
@@ -172,7 +210,7 @@
             "query": "139.198.113.42",
             "type": "http",
             "port": "10023",
-            "response_time": 8.36
+            "response_time": 10.78
         },
         {
             "status": "success",
@@ -188,10 +226,10 @@
             "isp": "Alibaba Cloud LLC",
             "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.76.84.160",
+            "query": "47.243.201.253",
             "type": "socks5",
             "port": "1011",
-            "response_time": 11.03
+            "response_time": 14.14
         },
         {
             "status": "success",
@@ -210,7 +248,26 @@
             "query": "151.242.125.125",
             "type": "socks5",
             "port": "5555",
-            "response_time": 21.02
+            "response_time": 14.88
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.210.158.189",
+            "type": "socks4",
+            "port": "9065",
+            "response_time": 17.57
         }
     ]
 }
