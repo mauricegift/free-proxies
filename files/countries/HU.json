@@ -1,26 +1,26 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "HB",
-            "regionName": "Hajd\u00fa-Bihar",
-            "city": "Hajd\u00fan\u00e1n\u00e1s",
-            "zip": "4080",
-            "lat": 47.8541,
-            "lon": 21.4404,
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1048",
+            "lat": 47.5,
+            "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom",
-            "org": "",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "84.2.239.42",
+            "isp": "One Hungary Ltd.",
+            "org": "Vodafone Hungary Ltd",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "89.134.125.5",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.69
+            "response_time": 2.13
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "91.147.235.162",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.0
+            "response_time": 4.43
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "Hajd\u00fan\u00e1n\u00e1s",
+            "zip": "4080",
+            "lat": 47.8541,
+            "lon": 21.4404,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "84.2.239.42",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 6.47
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "KE",
+            "regionName": "Kom\u00e1rom-Esztergom",
+            "city": "Esztergom",
+            "zip": "2500",
+            "lat": 47.7928,
+            "lon": 18.7415,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom plc.",
+            "org": "Juropnet",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "79.121.102.227",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.85
         }
     ]
 }
