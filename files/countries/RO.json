@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "IF",
+            "regionName": "Ilfov",
+            "city": "Pantelimon",
+            "zip": "077145",
+            "lat": 44.4474,
+            "lon": 26.2044,
+            "timezone": "Europe/Bucharest",
+            "isp": "Orange Romania Network",
+            "org": "Orange Romania S.A",
+            "as": "AS8953 Orange Romania S.A.",
+            "query": "109.166.207.162",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 4.15
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +39,26 @@
             "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.06
+            "response_time": 5.21
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucure\u0219ti",
+            "city": "Bucharest",
+            "zip": "052829",
+            "lat": 44.4268,
+            "lon": 26.1025,
+            "timezone": "Europe/Bucharest",
+            "isp": "Mondo-Byte SRL",
+            "org": "Mondo-Byte SRL",
+            "as": "AS39277 Mondo-Byte SRL",
+            "query": "194.117.230.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.0
         }
     ]
 }
