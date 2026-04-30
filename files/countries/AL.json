@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,48 +17,29 @@
             "isp": "Vodafone Albania Sh.A.",
             "org": "Enterprise",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.74.66",
+            "query": "80.78.74.8",
             "type": "socks4",
             "port": "65530",
-            "response_time": 2.13
+            "response_time": 3.11
         },
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Labinot-Fush\u00eb",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
             "zip": "",
-            "lat": 41.1533,
-            "lon": 20.1683,
+            "lat": 41.3253,
+            "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.221.189",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 5.02
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "05",
-            "regionName": "Gjirokast\u00ebr County",
-            "city": "Tepelen\u00eb",
-            "zip": "",
-            "lat": 40.2959,
-            "lon": 20.024,
-            "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.108.147",
-            "type": "http",
-            "port": "8079",
-            "response_time": 11.73
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Public",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.73.120",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 3.27
         }
     ]
 }
