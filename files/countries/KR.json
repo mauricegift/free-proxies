@@ -20,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 2.17
+            "response_time": 1.79
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 2.45
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "121.169.46.116",
             "type": "socks5",
             "port": "1090",
-            "response_time": 2.62
+            "response_time": 2.67
         },
         {
             "status": "success",
@@ -74,29 +74,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "132.226.235.199",
-            "type": "http",
-            "port": "1080",
-            "response_time": 2.86
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "132.226.235.199",
+            "query": "152.70.91.193",
             "type": "socks5",
-            "port": "1080",
-            "response_time": 2.86
+            "port": "40000",
+            "response_time": 5.31
         },
         {
             "status": "success",
@@ -105,17 +86,17 @@
             "region": "41",
             "regionName": "Gyeonggi-do",
             "city": "Seongnam-si",
-            "zip": "13606",
-            "lat": 37.3595,
-            "lon": 127.105,
+            "zip": "13215",
+            "lat": 37.4309,
+            "lon": 127.152,
             "timezone": "Asia/Seoul",
-            "isp": "NAVER Cloud Corp",
-            "org": "NAVER Cloud Corp.",
-            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
-            "query": "106.10.55.212",
-            "type": "http",
-            "port": "1121",
-            "response_time": 5.31
+            "isp": "Korea Telecom",
+            "org": "Netropy",
+            "as": "AS4766 Korea Telecom",
+            "query": "211.174.99.161",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.99
         },
         {
             "status": "success",
@@ -134,7 +115,26 @@
             "query": "158.247.241.3",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.07
+            "response_time": 6.45
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "039",
+            "lat": 37.5646,
+            "lon": 126.9223,
+            "timezone": "Asia/Seoul",
+            "isp": "The Constant Company, LLC",
+            "org": "The Constant Company, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "158.247.206.191",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.3
         }
     ]
 }
