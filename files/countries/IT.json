@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.99
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "15.160.116.45",
             "type": "http",
             "port": "31345",
-            "response_time": 2.21
+            "response_time": 1.28
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "109.232.137.43",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.2
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "34",
-            "regionName": "Veneto",
-            "city": "Crispi Cavour",
-            "zip": "36030",
-            "lat": 45.5819,
-            "lon": 11.5011,
-            "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "188.11.179.26",
-            "type": "http",
-            "port": "8443",
-            "response_time": 7.43
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Arezzo",
-            "zip": "52100",
-            "lat": 43.4631,
-            "lon": 11.8783,
-            "timezone": "Europe/Rome",
-            "isp": "Aruba S.p.A. Network",
-            "org": "Aruba S.p.A. - Cloud Services",
-            "as": "AS31034 Aruba S.p.A.",
-            "query": "80.211.131.230",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 16.61
+            "response_time": 8.39
         }
     ]
 }
