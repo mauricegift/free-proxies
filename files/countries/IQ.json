@@ -1,7 +1,7 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 36.1898,
             "lon": 44.0157,
             "timezone": "Asia/Baghdad",
-            "isp": "Allay Nawroz Telecom Company for Communication/Ltd.",
-            "org": "Allai NEwroz Telecom",
-            "as": "AS21277 Allay Nawroz Telecom Company for Communication/Ltd.",
-            "query": "109.127.82.4",
+            "isp": "Kurdistan Net 4",
+            "org": "",
+            "as": "AS206206 Kurdistan Net Company for Computer and Internet Ltd.",
+            "query": "212.237.125.216",
+            "type": "socks5",
+            "port": "6969",
+            "response_time": 5.89
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "SU",
+            "regionName": "Sulaymaniyah Governorate",
+            "city": "Kelar",
+            "zip": "",
+            "lat": 34.6308,
+            "lon": 45.3276,
+            "timezone": "Asia/Baghdad",
+            "isp": "BAG",
+            "org": "",
+            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
+            "query": "62.201.217.194",
             "type": "http",
-            "port": "8085",
-            "response_time": 9.31
+            "port": "8080",
+            "response_time": 13.69
         }
     ]
 }
