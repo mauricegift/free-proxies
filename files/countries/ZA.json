@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,83 @@
             "query": "41.162.162.142",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.68
+            "response_time": 0.57
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "WC",
-            "regionName": "Western Cape",
-            "city": "Cape Town",
-            "zip": "7925",
-            "lat": -33.914,
-            "lon": 18.4129,
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Equestria",
+            "zip": "0040",
+            "lat": -25.7639,
+            "lon": 28.3365,
             "timezone": "Africa/Johannesburg",
-            "isp": "RSAWEB (PTY) LTD",
-            "org": "Rsaweb",
-            "as": "AS37053 RSAWEB (PTY) LTD",
-            "query": "165.0.100.149",
+            "isp": "Vodacom Shared ENS NSA",
+            "org": "",
+            "as": "AS36994 Vodacom",
+            "query": "41.21.182.179",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.5
+            "response_time": 1.53
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2001",
+            "lat": -26.20229,
+            "lon": 28.034195,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (southafricanorth)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.164.75.153",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.54
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "MP",
+            "regionName": "Mpumalanga",
+            "city": "Standerton",
+            "zip": "2430",
+            "lat": -26.95,
+            "lon": 29.2523,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Soepa Soap Vervaardigers CC",
+            "org": "NetMDB",
+            "as": "AS328848 Soepa Soap Vervaardigers CC",
+            "query": "102.219.231.22",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.66
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Ventersdorp",
+            "zip": "2710",
+            "lat": -26.314,
+            "lon": 26.8222,
+            "timezone": "Africa/Johannesburg",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "196.216.133.18",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.42
         },
         {
             "status": "success",
@@ -58,7 +115,7 @@
             "query": "41.57.7.190",
             "type": "http",
             "port": "6060",
-            "response_time": 6.98
+            "response_time": 8.07
         }
     ]
 }
