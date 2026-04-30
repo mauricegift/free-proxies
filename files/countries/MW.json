@@ -1,7 +1,7 @@
 {
     "countryCode": "MW",
     "country": "Malawi",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "41.70.106.1",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.08
+            "response_time": 2.05
+        },
+        {
+            "status": "success",
+            "country": "Malawi",
+            "countryCode": "MW",
+            "region": "C",
+            "regionName": "Central Region",
+            "city": "Lilongwe",
+            "zip": "",
+            "lat": -13.9865,
+            "lon": 33.7681,
+            "timezone": "Africa/Blantyre",
+            "isp": "Skyband Corporation Limited",
+            "org": "",
+            "as": "AS37187 Inq. Digital Limited",
+            "query": "41.190.92.50",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 2.54
         }
     ]
 }
