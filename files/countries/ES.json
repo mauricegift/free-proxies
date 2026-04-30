@@ -1,27 +1,8 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "San Fernando de Henares",
-            "zip": "28830",
-            "lat": 40.4239,
-            "lon": -3.53261,
-            "timezone": "Europe/Madrid",
-            "isp": "Telefonica de Espana SAU",
-            "org": "RIMA (Red IP Multi Acceso)",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "83.56.15.57",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.07
-        },
         {
             "status": "success",
             "country": "Spain",
@@ -39,7 +20,45 @@
             "query": "168.245.197.146",
             "type": "socks5",
             "port": "80",
-            "response_time": 5.29
+            "response_time": 1.25
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Hu\u00e9neja",
+            "zip": "18512",
+            "lat": 37.1766,
+            "lon": -2.95024,
+            "timezone": "Europe/Madrid",
+            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+            "org": "Ciberdolar",
+            "as": "AS29119 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+            "query": "109.167.83.167",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.01
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "San Fernando de Henares",
+            "zip": "28830",
+            "lat": 40.4239,
+            "lon": -3.53261,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "83.56.15.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.22
         }
     ]
 }
