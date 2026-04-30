@@ -1,7 +1,7 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 7,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "156.244.39.41",
             "type": "socks4",
             "port": "20002",
-            "response_time": 1.54
+            "response_time": 1.59
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "156.244.39.41",
             "type": "socks5",
             "port": "20002",
-            "response_time": 1.54
+            "response_time": 1.59
         },
         {
             "status": "success",
@@ -55,29 +55,10 @@
             "isp": "Kaopu Cloud HK Limited",
             "org": "Lightnode Limited",
             "as": "AS138915 Kaopu Cloud HK Limited",
-            "query": "156.244.39.83",
-            "type": "socks4",
-            "port": "20002",
-            "response_time": 1.56
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima Province",
-            "city": "Lima",
-            "zip": "15001",
-            "lat": -12.0464,
-            "lon": -77.0428,
-            "timezone": "America/Lima",
-            "isp": "Kaopu Cloud HK Limited",
-            "org": "Lightnode Limited",
-            "as": "AS138915 Kaopu Cloud HK Limited",
-            "query": "156.244.39.83",
+            "query": "156.244.39.42",
             "type": "socks5",
             "port": "20002",
-            "response_time": 1.56
+            "response_time": 1.64
         },
         {
             "status": "success",
@@ -96,7 +77,7 @@
             "query": "156.244.39.37",
             "type": "socks4",
             "port": "20002",
-            "response_time": 1.69
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -115,7 +96,102 @@
             "query": "156.244.39.37",
             "type": "socks5",
             "port": "20002",
-            "response_time": 1.69
+            "response_time": 1.65
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
+            "zip": "15001",
+            "lat": -12.0464,
+            "lon": -77.0428,
+            "timezone": "America/Lima",
+            "isp": "Kaopu Cloud HK Limited",
+            "org": "Lightnode Limited",
+            "as": "AS138915 Kaopu Cloud HK Limited",
+            "query": "156.244.39.83",
+            "type": "socks4",
+            "port": "20002",
+            "response_time": 1.7
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
+            "zip": "15001",
+            "lat": -12.0464,
+            "lon": -77.0428,
+            "timezone": "America/Lima",
+            "isp": "Kaopu Cloud HK Limited",
+            "org": "Lightnode Limited",
+            "as": "AS138915 Kaopu Cloud HK Limited",
+            "query": "156.244.39.83",
+            "type": "socks5",
+            "port": "20002",
+            "response_time": 1.7
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "JUN",
+            "regionName": "Junin",
+            "city": "Bajo Pichanaqui",
+            "zip": "",
+            "lat": -10.9275,
+            "lon": -74.8742,
+            "timezone": "America/Lima",
+            "isp": "Telcom Mikrotik Peru S.A.C",
+            "org": "Telcom Mikrotik Peru S.A.C",
+            "as": "AS273000 TELCOM MIKROTIK PERU S.A.C.",
+            "query": "38.252.213.64",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.57
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "CUS",
+            "regionName": "Cuzco Department",
+            "city": "Cusco",
+            "zip": "",
+            "lat": -13.5228,
+            "lon": -71.9665,
+            "timezone": "America/Lima",
+            "isp": "Gpon Networks S.A.C.",
+            "org": "Gpon Networks S.A.C",
+            "as": "AS271868 GPON NETWORKS S.A.C.",
+            "query": "200.215.229.14",
+            "type": "http",
+            "port": "999",
+            "response_time": 9.8
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "ARE",
+            "regionName": "Arequipa",
+            "city": "Arequipa",
+            "zip": "",
+            "lat": -16.4014,
+            "lon": -71.5343,
+            "timezone": "America/Lima",
+            "isp": "GLG PERU SAC",
+            "org": "GLG PERU SAC",
+            "as": "AS263189 GLG PERU SAC",
+            "query": "179.43.96.178",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.85
         },
         {
             "status": "success",
@@ -128,13 +204,13 @@
             "lat": -12.046,
             "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "Conex TV E.I.R.L",
-            "org": "Conex TV E.I.R.L",
-            "as": "AS273133 CONEX TV E.I.R.L.",
-            "query": "38.172.130.232",
+            "isp": "Telefonica del Peru S.A.A.",
+            "org": "INTEGRATEL PER\u00da S.A.A",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "200.48.35.126",
             "type": "http",
             "port": "999",
-            "response_time": 8.93
+            "response_time": 13.15
         }
     ]
 }
