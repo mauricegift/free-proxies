@@ -1,8 +1,46 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 4,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.237.169.183",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.16
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digital Ocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "139.59.246.166",
+            "type": "socks5",
+            "port": "6868",
+            "response_time": 1.23
+        },
         {
             "status": "success",
             "country": "Singapore",
@@ -20,7 +58,45 @@
             "query": "43.133.44.89",
             "type": "http",
             "port": "8888",
-            "response_time": 1.25
+            "response_time": 1.64
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Alibaba Cloud (Singapore) Private Limited",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.219.97.248",
+            "type": "http",
+            "port": "80",
+            "response_time": 2.48
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Cloud Host Pte Ltd",
+            "org": "Cloud Host Pte Ltd",
+            "as": "AS138608 Cloud Host Pte Ltd",
+            "query": "103.189.235.233",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.06
         },
         {
             "status": "success",
@@ -39,7 +115,7 @@
             "query": "138.199.25.13",
             "type": "socks5",
             "port": "3906",
-            "response_time": 2.88
+            "response_time": 6.56
         },
         {
             "status": "success",
@@ -52,32 +128,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "OVH SAS",
-            "org": "Ipxo LLC",
-            "as": "AS16276 OVH SAS",
-            "query": "206.206.126.177",
-            "type": "http",
-            "port": "2412",
-            "response_time": 2.99
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "104.248.151.220",
-            "type": "socks4",
-            "port": "57554",
-            "response_time": 11.59
+            "isp": "DataCamp Limited",
+            "org": "Cdn77 SGP",
+            "as": "AS60068 Datacamp Limited",
+            "query": "138.199.25.13",
+            "type": "socks5",
+            "port": "3907",
+            "response_time": 7.25
         }
     ]
 }
