@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "SZ",
-            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
-            "city": "Z\u00e1hony",
-            "zip": "4625",
-            "lat": 48.4137,
-            "lon": 22.1753,
-            "timezone": "Europe/Budapest",
-            "isp": "Szatmarnet",
-            "org": "",
-            "as": "AS58098 Szatmarnet Bt.",
-            "query": "46.107.230.122",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.96
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,7 +20,45 @@
             "query": "84.2.239.42",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.73
+            "response_time": 1.55
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "SZ",
+            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
+            "city": "Z\u00e1hony",
+            "zip": "4625",
+            "lat": 48.4137,
+            "lon": 22.1753,
+            "timezone": "Europe/Budapest",
+            "isp": "Szatmarnet",
+            "org": "",
+            "as": "AS58098 Szatmarnet Bt.",
+            "query": "46.107.230.122",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.04
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "Debrecen",
+            "zip": "4002",
+            "lat": 47.5232,
+            "lon": 21.6334,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom plc.",
+            "org": "Portal",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "91.147.235.162",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 6.87
         }
     ]
 }
