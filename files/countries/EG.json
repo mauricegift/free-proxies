@@ -1,26 +1,26 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Egypt",
             "countryCode": "EG",
-            "region": "SHR",
-            "regionName": "Sharqia",
-            "city": "Zagazig",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
             "zip": "",
-            "lat": 30.5868,
-            "lon": 31.5026,
+            "lat": 30.0046,
+            "lon": 31.2044,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat",
+            "isp": "Vodafone Data",
             "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "62.193.104.28",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.83.229",
             "type": "http",
-            "port": "1981",
-            "response_time": 11.1
+            "port": "8080",
+            "response_time": 4.69
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 30.0046,
             "lon": 31.2044,
             "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data - Egypt",
-            "org": "HiNet",
-            "as": "AS24835 Vodafone Data",
-            "query": "196.204.248.140",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.11",
             "type": "http",
             "port": "1981",
-            "response_time": 11.33
+            "response_time": 9.89
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.14",
+            "type": "http",
+            "port": "1981",
+            "response_time": 10.82
         }
     ]
 }
