@@ -1,8 +1,27 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LIM",
+            "regionName": "Lima region",
+            "city": "Independencia",
+            "zip": "",
+            "lat": -11.99,
+            "lon": -77.0458,
+            "timezone": "America/Lima",
+            "isp": "Cogent Communications",
+            "org": "Telcom Mikrotik Peru S.A.C",
+            "as": "AS274156 TELDRA S.A.C.",
+            "query": "38.252.215.109",
+            "type": "http",
+            "port": "999",
+            "response_time": 7.22
+        },
         {
             "status": "success",
             "country": "Peru",
@@ -14,32 +33,32 @@
             "lat": -12.046,
             "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "Empresa De Telecomunicaciones Multimedia Alfa",
-            "org": "Antenas Cable Vision",
-            "as": "AS263224 EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA",
-            "query": "177.91.255.35",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.53
+            "isp": "Conex TV E.I.R.L",
+            "org": "Conex TV E.I.R.L",
+            "as": "AS273133 CONEX TV E.I.R.L.",
+            "query": "38.172.131.203",
+            "type": "http",
+            "port": "999",
+            "response_time": 9.18
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "ARE",
-            "regionName": "Arequipa",
-            "city": "Arequipa",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
             "zip": "",
-            "lat": -16.4014,
-            "lon": -71.5343,
+            "lat": -12.046,
+            "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "Fiberred SAC",
-            "org": "Cogent Communications",
-            "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.193",
+            "isp": "Conex TV E.I.R.L",
+            "org": "Conex TV E.I.R.L",
+            "as": "AS273133 CONEX TV E.I.R.L.",
+            "query": "38.172.130.248",
             "type": "http",
             "port": "999",
-            "response_time": 4.27
+            "response_time": 11.25
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "200.106.124.144",
             "type": "http",
             "port": "999",
-            "response_time": 12.88
+            "response_time": 15.45
         }
     ]
 }
