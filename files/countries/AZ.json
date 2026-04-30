@@ -1,7 +1,7 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.118.51.230",
             "type": "http",
             "port": "3128",
-            "response_time": 2.04
+            "response_time": 3.33
+        },
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "AzerSat",
+            "org": "",
+            "as": "AS209489 Azintex.com LLC",
+            "query": "85.132.37.9",
+            "type": "http",
+            "port": "1313",
+            "response_time": 7.14
         }
     ]
 }
