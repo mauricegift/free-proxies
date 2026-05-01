@@ -20,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.06
+            "response_time": 1.9
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.06
+            "response_time": 1.9
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "54.253.183.151",
+            "type": "http",
+            "port": "8438",
+            "response_time": 3.52
         },
         {
             "status": "success",
@@ -57,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.26.143.154",
             "type": "http",
-            "port": "24065",
-            "response_time": 3.19
+            "port": "27447",
+            "response_time": 3.67
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "170.64.170.204",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.7
+            "response_time": 4.15
         },
         {
             "status": "success",
@@ -86,36 +105,17 @@
             "region": "VIC",
             "regionName": "Victoria",
             "city": "Melbourne",
-            "zip": "3023",
-            "lat": -37.7512,
-            "lon": 144.7508,
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "168.138.9.147",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 10.24
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3023",
-            "lat": -37.7512,
-            "lon": 144.7508,
-            "timezone": "Australia/Melbourne",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "168.138.9.147",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 10.24
+            "isp": "Amazon.com, Inc.",
+            "org": "Hewlett Packard Enterprise Company",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.26.143.154",
+            "type": "http",
+            "port": "20513",
+            "response_time": 4.86
         }
     ]
 }
