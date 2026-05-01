@@ -1,26 +1,26 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "BU",
-            "regionName": "Budapest",
-            "city": "Budapest",
-            "zip": "1132",
-            "lat": 47.5,
-            "lon": 19.0412,
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "Debrecen",
+            "zip": "4002",
+            "lat": 47.5232,
+            "lon": 21.6334,
             "timezone": "Europe/Budapest",
-            "isp": "Szerverplex Kft",
-            "org": "SzerverPlex.hu Kft",
-            "as": "AS61998 SzerverPlex.hu KFT.",
-            "query": "79.172.212.71",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.42
+            "isp": "Magyar Telekom plc.",
+            "org": "Portal",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "91.147.235.203",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.97
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "95.214.123.140",
             "type": "http",
             "port": "8080",
-            "response_time": 4.18
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "HB",
-            "regionName": "Hajd\u00fa-Bihar",
-            "city": "Debrecen",
-            "zip": "4002",
-            "lat": 47.5232,
-            "lon": 21.6334,
-            "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Portal",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "91.147.235.203",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 4.21
+            "response_time": 12.23
         }
     ]
 }
