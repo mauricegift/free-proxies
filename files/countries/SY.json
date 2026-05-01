@@ -1,8 +1,27 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Aleppo",
+            "zip": "",
+            "lat": 36.2012,
+            "lon": 37.1612,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "Telecom SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "139.28.49.136",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 6.87
+        },
         {
             "status": "success",
             "country": "Syria",
@@ -17,29 +36,48 @@
             "isp": "High Speed For Internet Services L.L.C",
             "org": "",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "89.43.134.47",
+            "query": "89.43.134.93",
             "type": "http",
             "port": "8080",
-            "response_time": 5.94
+            "response_time": 8.49
         },
         {
             "status": "success",
             "country": "Syria",
             "countryCode": "SY",
-            "region": "DI",
-            "regionName": "Damascus Governorate",
-            "city": "Damascus",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Shuy\u016bkh Ta\u1e29t\u0101n\u012b",
             "zip": "",
-            "lat": 33.5132,
-            "lon": 36.2768,
+            "lat": 36.7506,
+            "lon": 38.0768,
             "timezone": "Asia/Damascus",
             "isp": "High Speed For Internet Services L.L.C",
-            "org": "TELECOME SY",
+            "org": "",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "212.108.115.39",
+            "query": "89.43.135.182",
+            "type": "http",
+            "port": "8085",
+            "response_time": 10.66
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Aleppo",
+            "zip": "",
+            "lat": 36.2012,
+            "lon": 37.1612,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "Telecom SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "139.28.49.106",
             "type": "http",
             "port": "8080",
-            "response_time": 8.05
+            "response_time": 11.19
         }
     ]
 }
