@@ -1,26 +1,45 @@
 {
     "countryCode": "DO",
     "country": "Dominican Republic",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Dominican Republic",
             "countryCode": "DO",
-            "region": "25",
-            "regionName": "Santiago Province",
-            "city": "Santiago de los Caballeros",
-            "zip": "11403",
-            "lat": 19.4857,
-            "lon": -70.7362,
+            "region": "24",
+            "regionName": "Provincia S\u00e1nchez Ram\u00edrez",
+            "city": "Fantino",
+            "zip": "10702",
+            "lat": 19.1215,
+            "lon": -70.2997,
             "timezone": "America/Santo_Domingo",
-            "isp": "BW TELECOM SRL",
-            "org": "BW TELECOM SRL",
-            "as": "AS52412 BW TELECOM SRL",
-            "query": "181.224.205.42",
+            "isp": "REYNOSO, S.R.L.",
+            "org": "REYNOSO, S.R.L",
+            "as": "AS272083 REYNOSO, S.R.L.",
+            "query": "38.188.247.12",
             "type": "http",
             "port": "999",
-            "response_time": 8.8
+            "response_time": 7.42
+        },
+        {
+            "status": "success",
+            "country": "Dominican Republic",
+            "countryCode": "DO",
+            "region": "01",
+            "regionName": "Nacional",
+            "city": "Santo Domingo",
+            "zip": "10203",
+            "lat": 18.4615,
+            "lon": -69.8965,
+            "timezone": "America/Santo_Domingo",
+            "isp": "TELECABLE DOMINICANO, S.A.",
+            "org": "Telecable Dominicano S.A",
+            "as": "AS272112 TELECABLE DOMINICANO, S.A.",
+            "query": "38.52.222.77",
+            "type": "http",
+            "port": "999",
+            "response_time": 9.93
         }
     ]
 }
