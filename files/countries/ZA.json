@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "20.164.75.153",
             "type": "http",
             "port": "8080",
-            "response_time": 0.18
+            "response_time": 0.16
         },
         {
             "status": "success",
@@ -33,32 +33,32 @@
             "lat": -26.2041,
             "lon": 28.0473,
             "timezone": "Africa/Johannesburg",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc",
             "org": "AWS EC2 (af-south-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.244.203.188",
+            "query": "13.246.6.135",
             "type": "http",
-            "port": "8050",
-            "response_time": 3.0
+            "port": "4953",
+            "response_time": 1.46
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2188",
-            "lat": -26.2309,
-            "lon": 28.0583,
+            "region": "MP",
+            "regionName": "Mpumalanga",
+            "city": "Nelspruit",
+            "zip": "1200",
+            "lat": -25.4633,
+            "lon": 30.9629,
             "timezone": "Africa/Johannesburg",
-            "isp": "OM-SN-46/24",
-            "org": "",
-            "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
-            "query": "102.212.46.48",
-            "type": "http",
-            "port": "12354",
-            "response_time": 3.75
+            "isp": "Clear Access (Pty) Ltd",
+            "org": "Bridgnet",
+            "as": "AS327794 Clear Access (Pty) Ltd",
+            "query": "102.36.127.231",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.25
         },
         {
             "status": "success",
@@ -77,45 +77,26 @@
             "query": "165.0.100.149",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.55
+            "response_time": 4.57
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Potchefstroom",
-            "zip": "2531",
-            "lat": -26.7168,
-            "lon": 27.1054,
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Equestria",
+            "zip": "0040",
+            "lat": -25.7639,
+            "lon": 28.3365,
             "timezone": "Africa/Johannesburg",
-            "isp": "JENNY Network",
+            "isp": "Vodacom Shared ENS NSA",
             "org": "",
-            "as": "AS327750 JENNY INTERNET (PTY) LTD",
-            "query": "154.126.213.5",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.18
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "EC",
-            "regionName": "Eastern Cape",
-            "city": "Kareedouw",
-            "zip": "",
-            "lat": -33.9528,
-            "lon": 24.2905,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Telkom SA Ltd.",
-            "org": "Telkom SA Ltd",
-            "as": "AS5713 Telkom SA Ltd.",
-            "query": "196.25.34.194",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.57
+            "as": "AS36994 Vodacom",
+            "query": "41.21.182.179",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.44
         }
     ]
 }
