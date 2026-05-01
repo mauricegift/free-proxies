@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 8,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -33,13 +33,51 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology (hk) Limited",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "152.32.132.190",
+            "type": "http",
+            "port": "7890",
+            "response_time": 2.19
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
             "isp": "Alibaba Cloud LLC",
             "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
             "query": "47.238.121.31",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.74
+            "response_time": 2.67
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NST",
+            "regionName": "Sha Tin",
+            "city": "Fo Tan",
+            "zip": "",
+            "lat": 22.398,
+            "lon": 114.191,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Forewin Telecom Group Limited",
+            "org": "Forewin Telecom Group Limited",
+            "as": "AS38186 Forewin Telecom Group Limited, ISP at HK",
+            "query": "118.99.3.133",
+            "type": "socks5",
+            "port": "1111",
+            "response_time": 4.51
         },
         {
             "status": "success",
@@ -58,26 +96,45 @@
             "query": "47.238.79.105",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.88
+            "response_time": 6.42
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "NKT",
-            "regionName": "Kwai Tsing District",
-            "city": "Kwai Chung",
-            "zip": "",
-            "lat": 22.3702,
-            "lon": 114.13,
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Hong Kong Broadband Network Ltd",
-            "org": "Hong Kong Broadband Network Limited",
-            "as": "AS9269 Hong Kong Broadband Network Ltd.",
-            "query": "183.178.50.58",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.69
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.217.90.107",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.98
+            "port": "22520",
+            "response_time": 8.74
         },
         {
             "status": "success",
@@ -96,7 +153,7 @@
             "query": "43.129.80.138",
             "type": "socks5",
             "port": "18999",
-            "response_time": 8.28
+            "response_time": 9.88
         },
         {
             "status": "success",
@@ -115,7 +172,7 @@
             "query": "162.211.180.216",
             "type": "socks4",
             "port": "10808",
-            "response_time": 12.92
+            "response_time": 10.99
         },
         {
             "status": "success",
@@ -128,32 +185,32 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Corenet Cloud Sdn. Bhd.",
-            "org": "G NETWORK LLC",
-            "as": "AS154321 CORENET CLOUD SDN. BHD.",
-            "query": "162.211.180.216",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.218.197.6",
             "type": "socks5",
-            "port": "10808",
-            "response_time": 12.92
+            "port": "8099",
+            "response_time": 12.09
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "HEA",
-            "regionName": "Eastern District",
-            "city": "Chai Wan",
-            "zip": "",
-            "lat": 22.2661,
-            "lon": 114.247,
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Yisu Cloud LTD",
-            "org": "Asline Limited",
-            "as": "AS142403 YISU CLOUD LTD",
-            "query": "154.209.4.204",
-            "type": "socks5",
-            "port": "38080",
-            "response_time": 17.73
+            "isp": "Yunify Technologies Inc",
+            "org": "Yunify Technologies Inc.",
+            "as": "AS134366 Cloud Computing HK Limited",
+            "query": "139.198.113.42",
+            "type": "http",
+            "port": "10023",
+            "response_time": 19.48
         }
     ]
 }
