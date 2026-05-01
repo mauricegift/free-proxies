@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.15
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.15
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -47,18 +47,37 @@
             "countryCode": "IT",
             "region": "82",
             "regionName": "Sicily",
-            "city": "Furnari",
-            "zip": "98054",
-            "lat": 38.1031,
-            "lon": 15.1206,
+            "city": "Adrano",
+            "zip": "95031",
+            "lat": 37.6623,
+            "lon": 14.8343,
             "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A",
+            "isp": "Aircomm S.r.L.",
+            "org": "",
+            "as": "AS196865 Aircomm S.r.L.",
+            "query": "109.232.137.43",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.27
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
             "org": "INTERBUSINESS",
             "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "2.115.212.62",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 10.68
+            "query": "188.11.179.26",
+            "type": "http",
+            "port": "8443",
+            "response_time": 10.37
         }
     ]
 }
