@@ -1,27 +1,8 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "IS",
-            "regionName": "Islamabad",
-            "city": "Islamabad",
-            "zip": "45210",
-            "lat": 33.6965,
-            "lon": 73.0121,
-            "timezone": "Asia/Karachi",
-            "isp": "COMSATS",
-            "org": "Nexus Technologies Private Limited",
-            "as": "AS7590 Commission on Science and Technology for",
-            "query": "103.152.254.195",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.04
-        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -39,7 +20,26 @@
             "query": "103.157.200.126",
             "type": "http",
             "port": "3128",
-            "response_time": 4.3
+            "response_time": 2.06
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "45210",
+            "lat": 33.6965,
+            "lon": 73.0121,
+            "timezone": "Asia/Karachi",
+            "isp": "COMSATS",
+            "org": "Nexus Technologies Private Limited",
+            "as": "AS7590 Commission on Science and Technology for",
+            "query": "103.152.254.195",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.11
         },
         {
             "status": "success",
@@ -48,36 +48,17 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8127,
-            "lon": 67.0115,
+            "zip": "74200",
+            "lat": 24.8607,
+            "lon": 67.0011,
             "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.231.73",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 6.01
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Lahore",
-            "zip": "54000",
-            "lat": 31.5826,
-            "lon": 74.3276,
-            "timezone": "Asia/Karachi",
-            "isp": "PLAY BROADBAND (PRIVATE) LIMITED",
-            "org": "PLAY BROADBAND (PRIVATE) LIMITED",
-            "as": "AS151330 PLAY BROADBAND (PRIVATE) LIMITED",
-            "query": "103.198.154.196",
-            "type": "http",
-            "port": "8080",
-            "response_time": 12.83
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.180.164.218",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.73
         }
     ]
 }
