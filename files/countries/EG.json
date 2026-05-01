@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data - Egypt",
+            "org": "HiNet",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.248.140",
+            "type": "http",
+            "port": "1981",
+            "response_time": 6.77
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -20,7 +39,7 @@
             "query": "197.164.101.14",
             "type": "http",
             "port": "1981",
-            "response_time": 7.27
+            "response_time": 11.04
         }
     ]
 }
