@@ -1,8 +1,27 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone RESIDENTIAL NAT",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.78.106",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 1.07
+        },
         {
             "status": "success",
             "country": "Albania",
@@ -20,7 +39,45 @@
             "query": "185.196.182.22",
             "type": "http",
             "port": "8080",
-            "response_time": 2.54
+            "response_time": 1.68
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Durr\u00ebs",
+            "zip": "",
+            "lat": 41.3287,
+            "lon": 19.4494,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Sh.A",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "66.186.199.33",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.79
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
+            "zip": "",
+            "lat": 41.1122,
+            "lon": 20.0818,
+            "timezone": "Europe/Tirane",
+            "isp": "ATU",
+            "org": "",
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "185.89.156.2",
+            "type": "http",
+            "port": "44224",
+            "response_time": 4.74
         }
     ]
 }
