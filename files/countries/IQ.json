@@ -1,8 +1,27 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "SU",
+            "regionName": "Sulaymaniyah Governorate",
+            "city": "Sulaymaniyah",
+            "zip": "",
+            "lat": 35.5558,
+            "lon": 45.4351,
+            "timezone": "Asia/Baghdad",
+            "isp": "NETWORKS-SULY1",
+            "org": "",
+            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
+            "query": "62.201.212.198",
+            "type": "socks4",
+            "port": "4673",
+            "response_time": 2.24
+        },
         {
             "status": "success",
             "country": "Iraq",
@@ -11,16 +30,16 @@
             "regionName": "Baghdad",
             "city": "Baghdad",
             "zip": "",
-            "lat": 33.3364,
-            "lon": 44.4004,
+            "lat": 33.3406,
+            "lon": 44.4009,
             "timezone": "Asia/Baghdad",
             "isp": "Hulum",
-            "org": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+            "org": "EarthLink Ltd. Communications&",
             "as": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
-            "query": "65.20.154.62",
-            "type": "http",
-            "port": "28080",
-            "response_time": 4.62
+            "query": "109.224.22.35",
+            "type": "socks4",
+            "port": "51372",
+            "response_time": 4.48
         }
     ]
 }
