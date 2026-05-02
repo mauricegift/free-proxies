@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "",
+            "regionName": "Judea and Samaria Area",
+            "city": "Giv'on HaHadasha",
+            "zip": "",
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.4.37",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.72
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -19,8 +38,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.84.100.37",
             "type": "http",
-            "port": "8289",
-            "response_time": 6.11
+            "port": "48030",
+            "response_time": 2.14
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "",
+            "regionName": "Judea and Samaria Area",
+            "city": "Dolev",
+            "zip": "",
+            "lat": 31.9147,
+            "lon": 35.2068,
+            "timezone": "Asia/Hebron",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "BCI Telecommunication & Advanced Technology Company",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.4.254",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.83
         }
     ]
 }
