@@ -1,8 +1,27 @@
 {
     "countryCode": "ZW",
     "country": "Zimbabwe",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Zimbabwe",
+            "countryCode": "ZW",
+            "region": "MW",
+            "regionName": "Mashonaland West",
+            "city": "Chinhoyi",
+            "zip": "",
+            "lat": -17.3596,
+            "lon": 30.2039,
+            "timezone": "Africa/Harare",
+            "isp": "Liquid Telecommunications Ltd",
+            "org": "LZW Broadband",
+            "as": "AS30844 Liquid Telecommunications Ltd",
+            "query": "197.155.230.206",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.47
+        },
         {
             "status": "success",
             "country": "Zimbabwe",
@@ -20,7 +39,7 @@
             "query": "154.119.80.27",
             "type": "http",
             "port": "3128",
-            "response_time": 8.05
+            "response_time": 9.9
         }
     ]
 }
