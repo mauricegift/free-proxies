@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "L",
+            "regionName": "South Aegean",
+            "city": "Rhodes",
+            "zip": "",
+            "lat": 36.4356,
+            "lon": 28.222,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "62.103.186.66",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.24
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -17,10 +36,29 @@
             "isp": "VF GR - xCH",
             "org": "Panafon S.A.",
             "as": "AS3329 VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
-            "query": "46.198.132.233",
+            "query": "46.198.132.237",
             "type": "socks4",
             "port": "51372",
-            "response_time": 6.1
+            "response_time": 2.01
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Piraeus",
+            "zip": "",
+            "lat": 37.9437,
+            "lon": 23.6421,
+            "timezone": "Europe/Athens",
+            "isp": "VF GR - xCH",
+            "org": "Panafon S.A.",
+            "as": "AS3329 VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
+            "query": "46.198.132.232",
+            "type": "socks4",
+            "port": "51372",
+            "response_time": 8.21
         }
     ]
 }
