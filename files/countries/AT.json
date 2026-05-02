@@ -1,45 +1,26 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 1,
     "proxies": [
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "9",
-            "regionName": "Vienna",
-            "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2082,
-            "lon": 16.3739,
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Kapfenberg",
+            "zip": "8605",
+            "lat": 47.4446,
+            "lon": 15.2933,
             "timezone": "Europe/Vienna",
-            "isp": "xorek.cloud International LTD",
-            "org": "xorek.cloud International LTD",
-            "as": "AS210644 AEZA INTERNATIONAL LTD",
-            "query": "212.113.106.198",
+            "isp": "customers with static IP",
+            "org": "",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.238.226",
             "type": "socks4",
-            "port": "987",
-            "response_time": 1.92
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "5",
-            "regionName": "Salzburg",
-            "city": "Rauris",
-            "zip": "5661",
-            "lat": 47.2241,
-            "lon": 12.9991,
-            "timezone": "Europe/Vienna",
-            "isp": "SALZBURG AG fur Energie, Verkehr und Telekommunikation",
-            "org": "Salzburg AG",
-            "as": "AS8445 SALZBURG AG fur Energie, Verkehr und Telekommunikation",
-            "query": "89.26.83.25",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.89
+            "port": "5678",
+            "response_time": 1.16
         }
     ]
 }
