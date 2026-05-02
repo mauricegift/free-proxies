@@ -1,26 +1,26 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
+            "region": "",
+            "regionName": "Taiwan",
             "city": "Taipei",
             "zip": "",
-            "lat": 25.053,
-            "lon": 121.5259,
+            "lat": 25.0501,
+            "lon": 121.565,
             "timezone": "Asia/Taipei",
-            "isp": "Scloud Pte Ltd",
-            "org": "Scloud Pte Ltd",
-            "as": "AS142002 Scloud Pte Ltd",
-            "query": "165.154.226.148",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.67
+            "isp": "Asia Pacific On-line Service Inc.",
+            "org": "Far EasTone Telecommunication Co., Ltd.",
+            "as": "AS7482 Asia Pacific On-line Service Inc.",
+            "query": "210.201.86.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.49
         },
         {
             "status": "success",
@@ -36,29 +36,10 @@
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "118.163.120.181",
-            "type": "http",
-            "port": "58837",
-            "response_time": 4.86
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "NWT",
-            "regionName": "New Taipei City",
-            "city": "Xindian District",
-            "zip": "",
-            "lat": 24.9547,
-            "lon": 121.5354,
-            "timezone": "Asia/Taipei",
-            "isp": "Extra-Lan Technologies Co., LTD",
-            "org": "cgnet",
-            "as": "AS18429 Extra-Lan Technologies Co., LTD",
-            "query": "27.147.28.73",
+            "query": "118.163.13.200",
             "type": "http",
             "port": "8080",
-            "response_time": 11.87
+            "response_time": 5.51
         }
     ]
 }
