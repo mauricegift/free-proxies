@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "198.13.190.60",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.73
+            "response_time": 1.76
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "31.130.152.120",
             "type": "socks5",
             "port": "443",
-            "response_time": 2.71
+            "response_time": 3.91
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "",
+            "lat": 51.1876,
+            "lon": 71.4491,
+            "timezone": "Asia/Almaty",
+            "isp": "Kar-Tel LLC",
+            "org": "2DAY Telecom LLP",
+            "as": "AS21299 Kar-Tel LLC",
+            "query": "91.244.106.26",
+            "type": "socks4",
+            "port": "1090",
+            "response_time": 4.8
         },
         {
             "status": "success",
@@ -58,26 +77,45 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 4.49
+            "response_time": 7.72
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
+            "region": "35",
+            "regionName": "Karaganda",
+            "city": "Karaganda",
             "zip": "",
-            "lat": 51.1876,
-            "lon": 71.4491,
+            "lat": 49.7989,
+            "lon": 73.0994,
             "timezone": "Asia/Almaty",
-            "isp": "NLS ASTANA LLP",
-            "org": "Beget",
-            "as": "AS205516 NLS ASTANA LLP",
-            "query": "91.218.140.166",
-            "type": "socks5",
+            "isp": "PE Fedinyak Sergey Vyacheslavovich",
+            "org": "PE Fedinyak Sergey Vyacheslavovich",
+            "as": "AS203087 Fedinyak Sergey Vyacheslavovich",
+            "query": "46.8.31.104",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 5.36
+            "response_time": 8.28
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "39",
+            "regionName": "Qostanay Oblysy",
+            "city": "Kostanay",
+            "zip": "",
+            "lat": 53.2123,
+            "lon": 63.6281,
+            "timezone": "Asia/Qostanay",
+            "isp": "Uplink LLC",
+            "org": "Uplink LLC",
+            "as": "AS8200 Uplink LLC",
+            "query": "109.248.236.150",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 8.49
         }
     ]
 }
