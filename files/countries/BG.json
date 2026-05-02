@@ -1,46 +1,8 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "15",
-            "regionName": "Pleven",
-            "city": "Pleven",
-            "zip": "5800",
-            "lat": 43.4126,
-            "lon": 24.6089,
-            "timezone": "Europe/Sofia",
-            "isp": "5KOM",
-            "org": "",
-            "as": "AS197897 5KOM OOD",
-            "query": "31.211.142.115",
-            "type": "socks5",
-            "port": "8192",
-            "response_time": 3.82
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "01",
-            "regionName": "Blagoevgrad",
-            "city": "Razlog",
-            "zip": "2760",
-            "lat": 41.8863,
-            "lon": 23.4671,
-            "timezone": "Europe/Sofia",
-            "isp": "VIM TV Ltd",
-            "org": "VIM TV Ltd",
-            "as": "AS199702 VIM TV LTD",
-            "query": "213.149.154.213",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 6.19
-        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -58,7 +20,26 @@
             "query": "93.183.175.6",
             "type": "socks4",
             "port": "5678",
-            "response_time": 8.74
+            "response_time": 5.18
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "04",
+            "regionName": "Veliko Tarnovo",
+            "city": "Sistov",
+            "zip": "5250",
+            "lat": 43.6264,
+            "lon": 25.3544,
+            "timezone": "Europe/Sofia",
+            "isp": "ZONATA - INVEST sLLC",
+            "org": "Neterra Thezone",
+            "as": "AS34368 ZONATA - INVEST sLLC",
+            "query": "85.217.192.245",
+            "type": "http",
+            "port": "1414",
+            "response_time": 8.43
         }
     ]
 }
