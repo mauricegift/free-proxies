@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75730",
+            "lat": 24.8794,
+            "lon": 66.992,
+            "timezone": "Asia/Karachi",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.184.119.180",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.36
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +39,7 @@
             "query": "103.157.200.126",
             "type": "http",
             "port": "3128",
-            "response_time": 3.12
+            "response_time": 3.74
         },
         {
             "status": "success",
@@ -30,35 +49,16 @@
             "regionName": "Sindh",
             "city": "Karachi",
             "zip": "75660",
-            "lat": 24.8021,
-            "lon": 67.0298,
+            "lat": 24.8127,
+            "lon": 67.0115,
             "timezone": "Asia/Karachi",
             "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
             "org": "TW RO",
             "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.206.62",
+            "query": "110.93.231.73",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.53
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75290",
-            "lat": 24.9239,
-            "lon": 67.1423,
-            "timezone": "Asia/Karachi",
-            "isp": "Galaxy Broadband (pvt.) Ltd.",
-            "org": "Clickbb",
-            "as": "AS139879 Galaxy Broadband",
-            "query": "103.146.137.253",
-            "type": "socks4",
-            "port": "1081",
-            "response_time": 8.17
+            "response_time": 5.0
         },
         {
             "status": "success",
@@ -77,7 +77,26 @@
             "query": "202.69.38.82",
             "type": "http",
             "port": "8080",
-            "response_time": 9.95
+            "response_time": 5.16
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
+            "timezone": "Asia/Karachi",
+            "isp": "Trans World Enterprise Services (Private) Limited",
+            "org": "Trans World Enterprise Services (Private) Limited",
+            "as": "AS135407 Trans World Enterprise Services (Private) Limited",
+            "query": "154.57.213.237",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 5.43
         }
     ]
 }
