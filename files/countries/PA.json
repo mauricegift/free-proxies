@@ -1,7 +1,7 @@
 {
     "countryCode": "PA",
     "country": "Panama",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "190.218.146.195",
             "type": "socks5",
             "port": "6881",
-            "response_time": 3.86
+            "response_time": 2.85
+        },
+        {
+            "status": "success",
+            "country": "Panama",
+            "countryCode": "PA",
+            "region": "8",
+            "regionName": "Provincia de Panam\u00e1",
+            "city": "Panama City",
+            "zip": "34002",
+            "lat": 8.9948,
+            "lon": -79.523,
+            "timezone": "America/Panama",
+            "isp": "Cable Onda",
+            "org": "Cable Onda",
+            "as": "AS14709 Cable Onda",
+            "query": "200.108.50.254",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 8.57
         }
     ]
 }
