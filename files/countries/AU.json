@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 7,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.82
+            "response_time": 2.1
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.82
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.253.167.61",
-            "type": "http",
-            "port": "8263",
-            "response_time": 3.69
+            "response_time": 2.1
         },
         {
             "status": "success",
@@ -77,45 +58,7 @@
             "query": "15.135.215.62",
             "type": "http",
             "port": "24020",
-            "response_time": 4.46
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "170.64.170.204",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 4.53
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Goulburn",
-            "zip": "2580",
-            "lat": -34.7591,
-            "lon": 149.7225,
-            "timezone": "Australia/Sydney",
-            "isp": "YLess4U Pty Ltd",
-            "org": "RemoteISP Pty Ltd",
-            "as": "AS45447 YLess4U Regional Broadband",
-            "query": "103.131.232.9",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.64
+            "response_time": 5.17
         },
         {
             "status": "success",
@@ -132,9 +75,9 @@
             "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
             "as": "AS31898 Oracle Corporation",
             "query": "168.138.9.147",
-            "type": "socks4",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 17.62
+            "response_time": 7.1
         }
     ]
 }
