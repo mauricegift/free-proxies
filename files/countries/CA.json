@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "72.11.150.178",
             "type": "http",
             "port": "6005",
-            "response_time": 1.54
+            "response_time": 1.55
         },
         {
             "status": "success",
@@ -28,18 +28,56 @@
             "countryCode": "CA",
             "region": "QC",
             "regionName": "Quebec",
-            "city": "Beauharnois",
-            "zip": "J6N",
-            "lat": 45.3161,
-            "lon": -73.8736,
+            "city": "Montreal",
+            "zip": "H4X",
+            "lat": 45.5019,
+            "lon": -73.5674,
             "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc",
-            "as": "AS16276 OVH SAS",
-            "query": "54.39.154.107",
-            "type": "http",
-            "port": "8082",
-            "response_time": 13.35
+            "isp": "Rica Web Services",
+            "org": "Moula World Llc",
+            "as": "AS26832 Rica Web Services",
+            "query": "86.107.168.166",
+            "type": "socks4",
+            "port": "22",
+            "response_time": 2.36
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Mississauga",
+            "zip": "L5J",
+            "lat": 43.5119,
+            "lon": -79.6299,
+            "timezone": "America/Toronto",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
+            "type": "socks4",
+            "port": "50877",
+            "response_time": 8.32
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M5A",
+            "lat": 43.6547,
+            "lon": -79.3623,
+            "timezone": "America/Toronto",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "68.183.197.81",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 11.79
         }
     ]
 }
