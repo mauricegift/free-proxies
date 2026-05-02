@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "45.59.122.132",
             "type": "http",
             "port": "80",
-            "response_time": 1.1
+            "response_time": 0.98
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZG",
+            "regionName": "Zug",
+            "city": "H\u00fcnenberg",
+            "zip": "6331",
+            "lat": 47.1619,
+            "lon": 8.43988,
+            "timezone": "Europe/Zurich",
+            "isp": "Datasource AG",
+            "org": "Datasource AG",
+            "as": "AS56803 Datasource AG",
+            "query": "185.195.71.218",
+            "type": "socks5",
+            "port": "18080",
+            "response_time": 1.05
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "51.34.28.236",
             "type": "http",
             "port": "41680",
-            "response_time": 4.9
+            "response_time": 1.37
         }
     ]
 }
