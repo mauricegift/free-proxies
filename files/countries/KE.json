@@ -1,27 +1,8 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Safaricom Limited",
-            "org": "Safaricom Limited",
-            "as": "AS37061 Safaricom Limited",
-            "query": "41.139.147.86",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.02
-        },
         {
             "status": "success",
             "country": "Kenya",
@@ -36,10 +17,48 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.16.24",
+            "query": "154.159.247.119",
             "type": "http",
             "port": "8080",
-            "response_time": 4.6
+            "response_time": 6.49
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Unwired Communications Ltd",
+            "org": "",
+            "as": "AS328490 Unwired Communications Limited",
+            "query": "102.68.77.47",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.86
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Safaricom Limited",
+            "org": "Safaricom Limited",
+            "as": "AS37061 Safaricom Limited",
+            "query": "197.248.37.31",
+            "type": "http",
+            "port": "8104",
+            "response_time": 8.88
         }
     ]
 }
