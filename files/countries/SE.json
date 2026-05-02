@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 7,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "109.120.156.122",
             "type": "http",
             "port": "8090",
-            "response_time": 1.36
+            "response_time": 1.25
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
-            "region": "N",
-            "regionName": "Halland County",
-            "city": "Falkenberg",
-            "zip": "311 39",
-            "lat": 56.9012,
-            "lon": 12.498,
+            "region": "M",
+            "regionName": "Sk\u00e5ne County",
+            "city": "Malmo",
+            "zip": "211 42",
+            "lat": 55.6078,
+            "lon": 12.9982,
             "timezone": "Europe/Stockholm",
-            "isp": "Fornex Hosting S.L.",
-            "org": "Fornex",
-            "as": "AS48040 Fornex Hosting S.L.",
-            "query": "185.21.11.140",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.52
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "G",
-            "regionName": "Kronoberg County",
-            "city": "Vaxjo",
-            "zip": "352 37",
-            "lat": 56.8746,
-            "lon": 14.8124,
-            "timezone": "Europe/Stockholm",
-            "isp": "Patrik Lagerman",
-            "org": "Kronnet",
-            "as": "AS35100 Patrik Lagerman",
-            "query": "171.25.158.95",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.67
+            "isp": "TELE2-BROADBAND",
+            "org": "Tele2 AB",
+            "as": "AS1257 Tele2 Sverige AB",
+            "query": "188.150.229.60",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.03
         },
         {
             "status": "success",
@@ -77,7 +58,7 @@
             "query": "62.60.149.161",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.81
+            "response_time": 3.04
         },
         {
             "status": "success",
@@ -93,48 +74,29 @@
             "isp": "Aeza International LTD",
             "org": "NetCrafters OU",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.231.71",
-            "type": "http",
-            "port": "56608",
-            "response_time": 4.03
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.231.71",
-            "type": "socks4",
-            "port": "56608",
-            "response_time": 4.03
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.231.71",
+            "query": "62.60.149.161",
             "type": "socks5",
-            "port": "56608",
-            "response_time": 4.03
+            "port": "1080",
+            "response_time": 3.04
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "G",
+            "regionName": "Kronoberg County",
+            "city": "Vaxjo",
+            "zip": "352 37",
+            "lat": 56.8746,
+            "lon": 14.8124,
+            "timezone": "Europe/Stockholm",
+            "isp": "Patrik Lagerman",
+            "org": "Kronnet",
+            "as": "AS35100 Patrik Lagerman",
+            "query": "171.25.158.95",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.0
         }
     ]
 }
