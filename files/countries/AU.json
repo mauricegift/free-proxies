@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -18,47 +18,28 @@
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
             "query": "134.199.159.23",
-            "type": "socks4",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 2.02
+            "response_time": 2.07
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "134.199.159.23",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.02
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "170.64.170.204",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.42
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4683,
+            "lon": 153.0322,
+            "timezone": "Australia/Brisbane",
+            "isp": "Telstra Internet",
+            "org": "",
+            "as": "AS1221 Telstra Limited",
+            "query": "144.139.247.178",
+            "type": "http",
+            "port": "58000",
+            "response_time": 16.23
         }
     ]
 }
