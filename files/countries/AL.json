@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone RESIDENTIAL NAT",
+            "org": "Enterprise",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.78.106",
+            "query": "80.78.74.8",
             "type": "socks4",
             "port": "65530",
-            "response_time": 1.03
+            "response_time": 1.97
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "66.186.199.33",
             "type": "http",
             "port": "8080",
-            "response_time": 4.75
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "07",
-            "regionName": "Kuk\u00ebs County",
-            "city": "Krum\u00eb",
-            "zip": "",
-            "lat": 42.1992,
-            "lon": 20.4105,
-            "timezone": "Europe/Tirane",
-            "isp": "shqiponjaisp.al LLC",
-            "org": "",
-            "as": "AS206088 shqiponjaisp.al LLC",
-            "query": "185.196.182.22",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.75
+            "response_time": 7.48
         }
     ]
 }
