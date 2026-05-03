@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "154.236.191.45",
             "type": "http",
             "port": "1981",
-            "response_time": 4.73
+            "response_time": 2.33
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.14",
+            "type": "http",
+            "port": "1981",
+            "response_time": 4.81
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "EG",
             "region": "C",
             "regionName": "Cairo Governorate",
-            "city": "Cairo",
+            "city": "Madinaty",
             "zip": "",
-            "lat": 30.0507,
-            "lon": 31.2489,
+            "lat": 30.0964,
+            "lon": 31.6595,
             "timezone": "Africa/Cairo",
-            "isp": "TE Data",
-            "org": "",
+            "isp": "TE-AS",
+            "org": "TE Data",
             "as": "AS8452 TE-AS",
-            "query": "41.33.203.228",
+            "query": "196.219.202.74",
             "type": "http",
-            "port": "1976",
-            "response_time": 5.9
+            "port": "8080",
+            "response_time": 6.27
         },
         {
             "status": "success",
@@ -58,64 +77,7 @@
             "query": "154.236.191.45",
             "type": "http",
             "port": "1976",
-            "response_time": 7.54
-        },
-        {
-            "status": "success",
-            "country": "Egypt",
-            "countryCode": "EG",
-            "region": "C",
-            "regionName": "Cairo Governorate",
-            "city": "Cairo",
-            "zip": "",
-            "lat": 30.0507,
-            "lon": 31.2489,
-            "timezone": "Africa/Cairo",
-            "isp": "Etisalat Misr Mobile BB",
-            "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.55.27",
-            "type": "http",
-            "port": "1981",
-            "response_time": 8.21
-        },
-        {
-            "status": "success",
-            "country": "Egypt",
-            "countryCode": "EG",
-            "region": "GZ",
-            "regionName": "Giza",
-            "city": "Giza",
-            "zip": "",
-            "lat": 30.0046,
-            "lon": 31.2044,
-            "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data - Egypt",
-            "org": "HiNet",
-            "as": "AS24835 Vodafone Data",
-            "query": "196.204.248.140",
-            "type": "http",
-            "port": "1976",
-            "response_time": 12.93
-        },
-        {
-            "status": "success",
-            "country": "Egypt",
-            "countryCode": "EG",
-            "region": "GH",
-            "regionName": "Gharbia",
-            "city": "Samann\u016bd",
-            "zip": "",
-            "lat": 30.9616,
-            "lon": 31.2407,
-            "timezone": "Africa/Cairo",
-            "isp": "Etisalat",
-            "org": "EgyNet",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "84.36.228.154",
-            "type": "http",
-            "port": "1981",
-            "response_time": 21.09
+            "response_time": 6.83
         }
     ]
 }
