@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 12,
+    "count": 13,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Play2go International Limited",
-            "org": "Play2go International Limited",
-            "as": "AS215439 PLAY2GO INTERNATIONAL LIMITED",
-            "query": "193.23.201.147",
+            "isp": "Hosting Industry Limited",
+            "org": "Finland ISP",
+            "as": "AS207461 HOSTING INDUSTRY LIMITED",
+            "query": "45.94.47.227",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.16
+            "response_time": 1.33
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "DpkgSoft International Limited",
-            "org": "Xorek.Cloud Helsinki",
-            "as": "AS215590 DpkgSoft International Limited",
-            "query": "144.31.152.222",
-            "type": "socks5",
+            "isp": "Livi Hosting LTD",
+            "org": "ZTV CORP LLC",
+            "as": "AS212706 LIVI HOSTING LTD",
+            "query": "185.230.191.240",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 1.42
+            "response_time": 1.72
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "185.230.191.240",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.49
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Hetzner Online GmbH",
-            "org": "HETZNER-DC",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "95.216.117.50",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 1.63
+            "response_time": 1.72
         },
         {
             "status": "success",
@@ -96,7 +77,26 @@
             "query": "65.108.159.129",
             "type": "http",
             "port": "8081",
-            "response_time": 2.88
+            "response_time": 2.09
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
+            "timezone": "Europe/Helsinki",
+            "isp": "DpkgSoft International Limited",
+            "org": "Xorek.Cloud Helsinki",
+            "as": "AS215590 DpkgSoft International Limited",
+            "query": "2.27.32.81",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.28
         },
         {
             "status": "success",
@@ -109,13 +109,13 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Hosting Industry Limited",
-            "org": "Finland ISP",
-            "as": "AS207461 HOSTING INDUSTRY LIMITED",
-            "query": "45.94.47.227",
+            "isp": "Play2go International Limited",
+            "org": "Play2go International Limited",
+            "as": "AS215439 PLAY2GO INTERNATIONAL LIMITED",
+            "query": "193.23.201.147",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.2
+            "response_time": 2.54
         },
         {
             "status": "success",
@@ -134,64 +134,7 @@
             "query": "193.221.203.192",
             "type": "socks5",
             "port": "1080",
-            "response_time": 4.28
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.99.216",
-            "type": "http",
-            "port": "8888",
-            "response_time": 7.7
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Livi Hosting LTD",
-            "org": "ZTV CORP LLC",
-            "as": "AS212706 LIVI HOSTING LTD",
-            "query": "185.230.191.240",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.67
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Livi Hosting LTD",
-            "org": "ZTV CORP LLC",
-            "as": "AS212706 LIVI HOSTING LTD",
-            "query": "185.230.190.195",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.72
+            "response_time": 2.7
         },
         {
             "status": "success",
@@ -210,7 +153,83 @@
             "query": "185.230.190.195",
             "type": "socks5",
             "port": "1080",
-            "response_time": 10.18
+            "response_time": 4.16
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Hetzner Online GmbH",
+            "org": "HETZNER-DC",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "95.216.101.112",
+            "type": "socks5",
+            "port": "1888",
+            "response_time": 7.18
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Livi Hosting LTD",
+            "org": "ZTV CORP LLC",
+            "as": "AS212706 LIVI HOSTING LTD",
+            "query": "185.230.190.195",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.23
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "CGI GLOBAL LIMITED",
+            "org": "CGI GLOBAL LIMITED",
+            "as": "AS56971 AS56971 Cloud",
+            "query": "46.8.233.226",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.69
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Hetzner Online GmbH",
+            "org": "HETZNER-DC",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "95.216.117.50",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 8.87
         },
         {
             "status": "success",
@@ -229,7 +248,7 @@
             "query": "65.21.212.113",
             "type": "socks5",
             "port": "9050",
-            "response_time": 13.15
+            "response_time": 15.67
         }
     ]
 }
