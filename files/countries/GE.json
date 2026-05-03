@@ -1,26 +1,45 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Georgia",
             "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
+            "region": "KK",
+            "regionName": "Kvemo Kartli",
+            "city": "",
             "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
+            "lat": 41.555,
+            "lon": 44.9805,
             "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online LLC",
-            "org": "",
-            "as": "AS16010 Magticom Ltd.",
-            "query": "188.129.255.58",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.147",
             "type": "http",
             "port": "8080",
-            "response_time": 5.65
+            "response_time": 8.08
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Kutaisi",
+            "zip": "",
+            "lat": 42.2648,
+            "lon": 42.7041,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Deltanet-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.122.174",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.3
         }
     ]
 }
