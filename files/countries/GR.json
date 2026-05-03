@@ -1,26 +1,45 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "Thessaloniki",
+            "zip": "",
+            "lat": 40.6439,
+            "lon": 22.9358,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.68.245.147",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.84
+        },
         {
             "status": "success",
             "country": "Greece",
             "countryCode": "GR",
             "region": "I",
             "regionName": "Attica",
-            "city": "Korop\u00ed",
+            "city": "Athens",
             "zip": "",
-            "lat": 37.9011,
-            "lon": 23.8727,
+            "lat": 37.9842,
+            "lon": 23.7353,
             "timezone": "Europe/Athens",
-            "isp": "TOPHOST-VPS",
-            "org": "",
-            "as": "AS20857 Signet B.V.",
-            "query": "185.4.132.222",
+            "isp": "University of Thessaly",
+            "org": "Network Operations Center, University of Thessaly",
+            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
+            "query": "194.177.207.44",
             "type": "http",
             "port": "3128",
-            "response_time": 7.06
+            "response_time": 16.44
         }
     ]
 }
