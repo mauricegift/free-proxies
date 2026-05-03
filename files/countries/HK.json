@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud Information Technology (hk) Limited",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "152.32.132.190",
-            "type": "http",
-            "port": "7890",
-            "response_time": 1.58
+            "isp": "Akile LTD",
+            "org": "",
+            "as": "AS61112 AkileCloud Network",
+            "query": "151.242.125.125",
+            "type": "socks5",
+            "port": "5555",
+            "response_time": 3.31
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.79.79.35",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 2.02
+            "query": "47.238.203.170",
+            "type": "http",
+            "port": "50000",
+            "response_time": 4.3
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "47.238.79.105",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.81
+            "response_time": 4.3
         },
         {
             "status": "success",
@@ -71,13 +71,51 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud HK",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "103.210.22.17",
-            "type": "http",
-            "port": "3128",
-            "response_time": 13.33
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.129.80.138",
+            "type": "socks4",
+            "port": "18999",
+            "response_time": 7.34
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.129.80.138",
+            "type": "socks5",
+            "port": "18999",
+            "response_time": 7.34
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - HK",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.243.201.253",
+            "type": "socks5",
+            "port": "1011",
+            "response_time": 14.64
         }
     ]
 }
