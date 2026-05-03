@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "175.145.210.143",
             "type": "http",
             "port": "8080",
-            "response_time": 3.49
+            "response_time": 4.44
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47820",
+            "lat": 3.16459,
+            "lon": 101.613,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "E-world Communication SDN BHD",
+            "org": "E-world Communication SDN BHD",
+            "as": "AS134202 E-WORLD COMMUNICATION SDN BHD",
+            "query": "103.58.16.106",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.81
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "16",
+            "regionName": "Putrajaya",
+            "city": "Putrajaya",
+            "zip": "62584",
+            "lat": 2.94405,
+            "lon": 101.723,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Extreme Broadband",
+            "org": "Extreme Broadband",
+            "as": "AS38182 Extreme Broadband - Total Broadband Experience",
+            "query": "58.84.16.214",
+            "type": "http",
+            "port": "1231",
+            "response_time": 7.9
         }
     ]
 }
