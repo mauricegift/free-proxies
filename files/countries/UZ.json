@@ -1,26 +1,45 @@
 {
     "countryCode": "UZ",
     "country": "Uzbekistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Uzbekistan",
+            "countryCode": "UZ",
+            "region": "SI",
+            "regionName": "Sirdaryo Region",
+            "city": "Guliston",
+            "zip": "",
+            "lat": 40.4906,
+            "lon": 68.791,
+            "timezone": "Asia/Tashkent",
+            "isp": "Iplus LLC",
+            "org": "COMNET IPoE STATIC",
+            "as": "AS43060 IPLUS LLC",
+            "query": "94.158.49.82",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.06
+        },
         {
             "status": "success",
             "country": "Uzbekistan",
             "countryCode": "UZ",
             "region": "TK",
             "regionName": "Tashkent",
-            "city": "Tashkent",
+            "city": "Bektemir",
             "zip": "",
-            "lat": 41.2615,
-            "lon": 69.2177,
+            "lat": 41.2097,
+            "lon": 69.3342,
             "timezone": "Asia/Tashkent",
             "isp": "\"Uzbektelekom\" Joint Stock Company",
             "org": "Uztelecom",
             "as": "AS8193 Uzbektelekom Joint Stock Company",
-            "query": "213.230.121.41",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 3.03
+            "query": "83.222.7.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.05
         }
     ]
 }
