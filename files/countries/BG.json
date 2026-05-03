@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 9,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,64 @@
             "query": "213.149.154.213",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.99
+            "response_time": 1.06
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
             "timezone": "Europe/Sofia",
-            "isp": "FIBER1",
-            "org": "",
-            "as": "AS39135 Fiber 1 Ltd.",
-            "query": "77.238.79.111",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.21
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "24",
+            "regionName": "Stara Zagora",
+            "city": "Kazanlak",
+            "zip": "6100",
+            "lat": 42.6223,
+            "lon": 25.3937,
+            "timezone": "Europe/Sofia",
+            "isp": "Bulsatcom AD",
+            "org": "Bulsatcom AD",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "46.47.82.16",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.94
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Razlog",
+            "zip": "2760",
+            "lat": 41.8913,
+            "lon": 23.4806,
+            "timezone": "Europe/Sofia",
+            "isp": "VIM TV LTD",
+            "org": "VIM TV Ltd",
+            "as": "AS199702 VIM TV LTD",
+            "query": "213.149.156.87",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.66
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
-            "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "Mobiltel EAD",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "92.247.31.130",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.12
+            "response_time": 2.7
         },
         {
             "status": "success",
@@ -77,64 +96,7 @@
             "query": "93.183.175.6",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.99
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "02",
-            "regionName": "Burgas",
-            "city": "Saint Vlas",
-            "zip": "8256",
-            "lat": 42.7136,
-            "lon": 27.7587,
-            "timezone": "Europe/Sofia",
-            "isp": "Vivacom Bulgaria EAD",
-            "org": "Vivacom Bulgaria EAD",
-            "as": "AS8866 Vivacom Bulgaria EAD",
-            "query": "77.85.168.253",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 5.06
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "15",
-            "regionName": "Pleven",
-            "city": "Pleven",
-            "zip": "5800",
-            "lat": 43.4126,
-            "lon": 24.6089,
-            "timezone": "Europe/Sofia",
-            "isp": "5KOM",
-            "org": "",
-            "as": "AS197897 5KOM OOD",
-            "query": "31.211.142.115",
-            "type": "socks5",
-            "port": "8192",
-            "response_time": 5.66
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "04",
-            "regionName": "Veliko Tarnovo",
-            "city": "Sistov",
-            "zip": "5250",
-            "lat": 43.6264,
-            "lon": 25.3544,
-            "timezone": "Europe/Sofia",
-            "isp": "ZONATA - INVEST sLLC",
-            "org": "Neterra Thezone",
-            "as": "AS34368 ZONATA - INVEST sLLC",
-            "query": "85.217.192.39",
-            "type": "http",
-            "port": "1414",
-            "response_time": 6.91
+            "response_time": 3.46
         },
         {
             "status": "success",
@@ -153,7 +115,7 @@
             "query": "88.213.214.254",
             "type": "socks4",
             "port": "4145",
-            "response_time": 8.09
+            "response_time": 4.03
         },
         {
             "status": "success",
@@ -172,7 +134,7 @@
             "query": "78.130.246.65",
             "type": "http",
             "port": "1881",
-            "response_time": 9.86
+            "response_time": 10.25
         }
     ]
 }
