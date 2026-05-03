@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.11.176",
+            "query": "102.0.21.148",
             "type": "http",
             "port": "8080",
-            "response_time": 4.35
+            "response_time": 0.5
         },
         {
             "status": "success",
@@ -36,10 +36,48 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.16.24",
+            "query": "154.79.248.156",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.8
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Jamii Telecommunications Limited",
+            "org": "FAIBA",
+            "as": "AS36866 Jamii Telecommunications Limited",
+            "query": "197.232.43.224",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.88
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.13.202",
             "type": "http",
             "port": "8080",
-            "response_time": 8.31
+            "response_time": 7.63
         }
     ]
 }
