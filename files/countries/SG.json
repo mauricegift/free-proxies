@@ -1,26 +1,83 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 8,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
             "country": "Singapore",
             "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
+            "region": "01",
+            "regionName": "Central Singapore",
             "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
+            "zip": "048582",
+            "lat": 1.28009,
+            "lon": 103.851,
             "timezone": "Asia/Singapore",
-            "isp": "The Constant Company",
-            "org": "Vultr Holdings, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "45.76.159.143",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.140.192.202",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.88
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Tencent Cloud Computing (Beijing) Co",
+            "org": "",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "129.226.152.29",
             "type": "socks4",
-            "port": "10808",
-            "response_time": 1.36
+            "port": "20000",
+            "response_time": 1.23
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Tencent Cloud Computing (Beijing) Co",
+            "org": "",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "129.226.152.29",
+            "type": "socks5",
+            "port": "20000",
+            "response_time": 1.23
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Aceville Pte.ltd",
+            "org": "",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.133.44.89",
+            "type": "http",
+            "port": "8888",
+            "response_time": 1.29
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "206.206.126.177",
             "type": "http",
             "port": "2412",
-            "response_time": 1.38
+            "response_time": 1.35
         },
         {
             "status": "success",
@@ -52,13 +109,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.156.8.189",
+            "isp": "Zenlayer Inc",
+            "org": "UCLOUD",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "107.155.55.190",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.76
+            "response_time": 1.75
         },
         {
             "status": "success",
@@ -75,28 +132,9 @@
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
             "query": "165.22.110.253",
-            "type": "socks4",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 2.51
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
-            "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.35208,
-            "lon": 103.82,
-            "timezone": "Asia/Singapore",
-            "isp": "Alibaba Cloud (Singapore) Private Limited",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.219.97.248",
-            "type": "http",
-            "port": "80",
-            "response_time": 4.28
+            "response_time": 6.77
         },
         {
             "status": "success",
@@ -115,7 +153,7 @@
             "query": "34.124.190.108",
             "type": "socks4",
             "port": "8080",
-            "response_time": 8.64
+            "response_time": 9.66
         },
         {
             "status": "success",
@@ -134,7 +172,7 @@
             "query": "34.124.190.108",
             "type": "socks5",
             "port": "8080",
-            "response_time": 8.64
+            "response_time": 9.66
         },
         {
             "status": "success",
@@ -150,10 +188,29 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "104.248.151.220",
+            "query": "167.71.222.124",
+            "type": "http",
+            "port": "10001",
+            "response_time": 17.32
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "167.71.222.124",
             "type": "socks5",
-            "port": "57554",
-            "response_time": 10.86
+            "port": "10001",
+            "response_time": 17.32
         }
     ]
 }
