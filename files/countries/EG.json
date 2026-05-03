@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 30.0046,
             "lon": 31.2044,
             "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data - Egypt",
-            "org": "HiNet",
+            "isp": "Vodafone Data",
+            "org": "",
             "as": "AS24835 Vodafone Data",
-            "query": "196.204.248.140",
+            "query": "196.204.83.229",
             "type": "http",
-            "port": "1976",
-            "response_time": 5.91
+            "port": "8080",
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -36,10 +36,67 @@
             "isp": "Link Egypt (Link.NET)",
             "org": "",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "197.164.101.13",
+            "query": "197.164.101.14",
+            "type": "http",
+            "port": "1981",
+            "response_time": 5.54
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "LINKdotNET AS number",
+            "org": "Link Egypt (Link.NET)",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "41.128.72.136",
+            "type": "http",
+            "port": "1981",
+            "response_time": 6.21
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.10",
+            "type": "http",
+            "port": "1981",
+            "response_time": 6.77
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "ALX",
+            "regionName": "Alexandria",
+            "city": "Alexandria",
+            "zip": "",
+            "lat": 31.1882,
+            "lon": 29.9189,
+            "timezone": "Africa/Cairo",
+            "isp": "Global-AWAYED",
+            "org": "",
+            "as": "AS24835 Vodafone Data",
+            "query": "82.129.237.65",
             "type": "http",
             "port": "1976",
-            "response_time": 9.06
+            "response_time": 7.83
         }
     ]
 }
