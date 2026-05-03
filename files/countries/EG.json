@@ -1,8 +1,46 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Madinaty",
+            "zip": "",
+            "lat": 30.0964,
+            "lon": 31.6595,
+            "timezone": "Africa/Cairo",
+            "isp": "TE-AS",
+            "org": "TE Data",
+            "as": "AS8452 TE-AS",
+            "query": "196.219.202.74",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.39
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "KFS",
+            "regionName": "Kafr el-Sheikh",
+            "city": "Ar Riy\u0101\u1e11",
+            "zip": "",
+            "lat": 31.2419,
+            "lon": 30.945,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat Fixed BB",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "154.236.191.45",
+            "type": "http",
+            "port": "1976",
+            "response_time": 7.69
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -19,8 +57,8 @@
             "as": "AS24835 Vodafone Data",
             "query": "196.204.248.140",
             "type": "http",
-            "port": "1976",
-            "response_time": 2.66
+            "port": "1981",
+            "response_time": 7.78
         }
     ]
 }
