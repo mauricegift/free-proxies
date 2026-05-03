@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 30.0046,
             "lon": 31.2044,
             "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data - Egypt",
-            "org": "HiNet",
-            "as": "AS24835 Vodafone Data",
-            "query": "196.204.248.140",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.10",
             "type": "http",
-            "port": "1976",
-            "response_time": 2.87
+            "port": "1981",
+            "response_time": 6.68
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "197.164.101.14",
             "type": "http",
             "port": "1981",
-            "response_time": 9.17
+            "response_time": 6.98
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.13",
+            "type": "http",
+            "port": "1976",
+            "response_time": 7.28
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "TE Data",
+            "org": "",
+            "as": "AS8452 TE-AS",
+            "query": "41.33.203.115",
+            "type": "http",
+            "port": "1982",
+            "response_time": 7.86
         }
     ]
 }
