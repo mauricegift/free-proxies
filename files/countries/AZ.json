@@ -1,8 +1,27 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "",
+            "lat": 40.381,
+            "lon": 49.8551,
+            "timezone": "Asia/Baku",
+            "isp": "Caspian Telecom CGN",
+            "org": "Caspian Telecom LLC",
+            "as": "AS201167 Caspian Telecom LLC",
+            "query": "185.43.189.253",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 1.28
+        },
         {
             "status": "success",
             "country": "Azerbaijan",
@@ -20,7 +39,7 @@
             "query": "185.118.51.133",
             "type": "http",
             "port": "3128",
-            "response_time": 7.11
+            "response_time": 3.11
         }
     ]
 }
