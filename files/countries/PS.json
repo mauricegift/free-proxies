@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
-    "country": "Palestinian Territory",
-    "count": 1,
+    "country": "Palestine",
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "NBS",
+            "regionName": "Nablus Governorate",
+            "city": "Nablus",
+            "zip": "",
+            "lat": 32.2207,
+            "lon": 35.2542,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.21
+        },
         {
             "status": "success",
             "country": "Palestinian Territory",
@@ -17,10 +36,10 @@
             "isp": "BCI Telecommunication & Advanced Technology Company",
             "org": "Bnet Network",
             "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.5.121",
-            "type": "socks5",
+            "query": "93.184.9.9",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 7.07
+            "response_time": 2.24
         }
     ]
 }
