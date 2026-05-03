@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
+            "timezone": "Asia/Karachi",
+            "isp": "Nayatel (Pvt) Ltd",
+            "org": "Nayatel",
+            "as": "AS23674 Nayatel (Pvt) Ltd",
+            "query": "124.109.44.126",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.65
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,26 +39,26 @@
             "query": "110.93.206.62",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.52
+            "response_time": 1.75
         },
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Faisalabad",
-            "zip": "38000",
-            "lat": 31.3709,
-            "lon": 73.0336,
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "74000",
+            "lat": 24.8591,
+            "lon": 66.9983,
             "timezone": "Asia/Karachi",
-            "isp": "Orbit Internet Service Provider Pvt Ltd",
-            "org": "Orbit Pvt Ltd",
-            "as": "AS151983 Orbit Internet Service Provider Pvt Ltd",
-            "query": "103.253.18.6",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.39
+            "isp": "Connect Communication",
+            "org": "Connect Communication",
+            "as": "AS132165 Connect Communications",
+            "query": "115.42.67.186",
+            "type": "socks4",
+            "port": "56534",
+            "response_time": 2.77
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "103.150.206.77",
             "type": "socks5",
             "port": "1080",
-            "response_time": 9.87
+            "response_time": 5.46
         }
     ]
 }
