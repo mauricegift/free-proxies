@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "170.64.170.204",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.89
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,7 @@
             "query": "134.199.159.23",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.95
+            "response_time": 1.84
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "134.199.159.23",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.95
+            "response_time": 1.84
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "170.64.170.204",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.07
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4683,
+            "lon": 153.0322,
+            "timezone": "Australia/Brisbane",
+            "isp": "Telstra Internet",
+            "org": "",
+            "as": "AS1221 Telstra Limited",
+            "query": "144.139.247.178",
+            "type": "http",
+            "port": "58000",
+            "response_time": 12.3
         }
     ]
 }
