@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.06
+            "response_time": 1.13
         },
         {
             "status": "success",
@@ -39,7 +39,64 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.06
+            "response_time": 1.13
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Desenzano del Garda",
+            "zip": "25015",
+            "lat": 45.4677,
+            "lon": 10.5383,
+            "timezone": "Europe/Rome",
+            "isp": "Mynet S.R.L.",
+            "org": "Mynet",
+            "as": "AS31263 MYNET S.R.L.",
+            "query": "84.247.236.86",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 1.88
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
+            "type": "http",
+            "port": "8081",
+            "response_time": 3.52
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Furnari",
+            "zip": "98054",
+            "lat": 38.1031,
+            "lon": 15.1206,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "2.115.212.62",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 5.1
         }
     ]
 }
