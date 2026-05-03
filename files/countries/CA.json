@@ -1,26 +1,26 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H2L",
-            "lat": 45.5212,
-            "lon": -73.5524,
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
             "timezone": "America/Toronto",
-            "isp": "Videotron Telecom Ltee",
-            "org": "Fibrenoire Inc.",
-            "as": "AS22652 Videotron Ltee",
-            "query": "184.95.220.42",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.181",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.57
+            "response_time": 6.12
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "24.37.245.42",
             "type": "socks4",
             "port": "51056",
-            "response_time": 6.42
+            "response_time": 7.08
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Beauharnois",
+            "zip": "J6N",
+            "lat": 45.3161,
+            "lon": -73.8736,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc",
+            "as": "AS16276 OVH SAS",
+            "query": "54.39.154.107",
+            "type": "http",
+            "port": "8082",
+            "response_time": 15.51
         }
     ]
 }
