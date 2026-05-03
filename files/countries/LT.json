@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "TE",
+            "regionName": "Telsiai",
+            "city": "Ma\u017eeikiai",
+            "zip": "89021",
+            "lat": 56.3176,
+            "lon": 22.3463,
+            "timezone": "Europe/Vilnius",
+            "isp": "KLI",
+            "org": "",
+            "as": "AS43627 UAB Besmegeniai",
+            "query": "46.36.65.117",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.01
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -14,13 +33,13 @@
             "lat": 55.7158,
             "lon": 21.111,
             "timezone": "Europe/Vilnius",
-            "isp": "Balticum TV network",
-            "org": "",
-            "as": "AS39007 UAB Balticum TV",
-            "query": "86.100.63.246",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.94
+            "isp": "Telia Lietuva",
+            "org": "Telia Lietuva, AB",
+            "as": "AS8764 Telia Lietuva, AB",
+            "query": "88.119.139.237",
+            "type": "http",
+            "port": "53281",
+            "response_time": 6.72
         },
         {
             "status": "success",
@@ -29,17 +48,17 @@
             "region": "VL",
             "regionName": "Vilnius",
             "city": "Vilnius",
-            "zip": "14007",
+            "zip": "02021",
             "lat": 54.6876,
             "lon": 25.2806,
             "timezone": "Europe/Vilnius",
-            "isp": "BALTNET",
-            "org": "",
-            "as": "AS15440 UAB Baltnetos komunikacijos",
-            "query": "213.197.136.218",
+            "isp": "Baxet Group Inc.",
+            "org": "Baxet Group Inc",
+            "as": "AS26383 Baxet Group Inc.",
+            "query": "194.87.106.81",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.72
+            "port": "9065",
+            "response_time": 15.48
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "185.193.26.120",
             "type": "socks4",
             "port": "9050",
-            "response_time": 15.88
+            "response_time": 15.76
         }
     ]
 }
