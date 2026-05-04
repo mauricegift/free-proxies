@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "77.238.79.111",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.91
+            "response_time": 0.88
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "01",
-            "regionName": "Blagoevgrad",
-            "city": "Razlog",
-            "zip": "2760",
-            "lat": 41.8913,
-            "lon": 23.4806,
+            "region": "15",
+            "regionName": "Pleven",
+            "city": "Pleven",
+            "zip": "5800",
+            "lat": 43.4126,
+            "lon": 24.6089,
             "timezone": "Europe/Sofia",
-            "isp": "VIM TV LTD",
-            "org": "VIM TV Ltd",
-            "as": "AS199702 VIM TV LTD",
-            "query": "213.149.156.87",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 0.99
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.7027,
-            "lon": 23.3063,
-            "timezone": "Europe/Sofia",
-            "isp": "Telehouse EAD",
-            "org": "Rokada",
-            "as": "AS57344 Telehouse EAD",
-            "query": "94.72.158.129",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.0
+            "isp": "5KOM",
+            "org": "",
+            "as": "AS197897 5KOM OOD",
+            "query": "31.211.142.115",
+            "type": "socks5",
+            "port": "8192",
+            "response_time": 5.77
         },
         {
             "status": "success",
@@ -77,7 +58,45 @@
             "query": "109.160.97.49",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.03
+            "response_time": 6.29
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "04",
+            "regionName": "Veliko Tarnovo",
+            "city": "Sistov",
+            "zip": "5250",
+            "lat": 43.6264,
+            "lon": 25.3544,
+            "timezone": "Europe/Sofia",
+            "isp": "ZONATA - INVEST sLLC",
+            "org": "Neterra Thezone",
+            "as": "AS34368 ZONATA - INVEST sLLC",
+            "query": "85.217.192.245",
+            "type": "http",
+            "port": "1414",
+            "response_time": 9.05
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.10",
+            "type": "http",
+            "port": "8001",
+            "response_time": 9.53
         }
     ]
 }
