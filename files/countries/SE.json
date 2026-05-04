@@ -1,8 +1,65 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 4,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "G",
+            "regionName": "Kronoberg County",
+            "city": "Vaxjo",
+            "zip": "352 37",
+            "lat": 56.8746,
+            "lon": 14.8124,
+            "timezone": "Europe/Stockholm",
+            "isp": "Patrik Lagerman",
+            "org": "Kronnet",
+            "as": "AS35100 Patrik Lagerman",
+            "query": "171.25.158.95",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.83
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.151.74",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 2.1
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "138.124.102.89",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.18
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +77,7 @@
             "query": "109.120.132.166",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.26
+            "response_time": 2.41
         },
         {
             "status": "success",
@@ -39,26 +96,45 @@
             "query": "62.60.149.161",
             "type": "http",
             "port": "3128",
-            "response_time": 3.56
+            "response_time": 4.85
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
-            "region": "G",
-            "regionName": "Kronoberg County",
-            "city": "Vaxjo",
-            "zip": "352 37",
-            "lat": 56.8746,
-            "lon": 14.8124,
+            "region": "O",
+            "regionName": "V\u00e4stra G\u00f6taland County",
+            "city": "Gothenburg",
+            "zip": "400 10",
+            "lat": 57.7089,
+            "lon": 11.9746,
             "timezone": "Europe/Stockholm",
-            "isp": "Patrik Lagerman",
-            "org": "Kronnet",
-            "as": "AS35100 Patrik Lagerman",
-            "query": "171.25.158.95",
-            "type": "socks5",
+            "isp": "Telia Company AB",
+            "org": "Telia Network Services",
+            "as": "AS3301 Telia Company AB",
+            "query": "81.228.44.187",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 6.67
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.149.161",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 4.37
+            "response_time": 7.33
         },
         {
             "status": "success",
@@ -77,7 +153,7 @@
             "query": "62.60.149.161",
             "type": "socks5",
             "port": "1080",
-            "response_time": 8.04
+            "response_time": 7.33
         }
     ]
 }
