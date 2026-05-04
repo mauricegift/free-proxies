@@ -1,26 +1,45 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "KHH",
-            "regionName": "Kaohsiung",
-            "city": "Kaohsiung",
+            "region": "TAO",
+            "regionName": "Taoyuan",
+            "city": "Daxi",
             "zip": "",
-            "lat": 22.6148,
-            "lon": 120.3139,
+            "lat": 24.8829,
+            "lon": 121.2827,
             "timezone": "Asia/Taipei",
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "122.117.203.252",
+            "query": "122.116.180.77",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.96
+            "port": "8080",
+            "response_time": 4.84
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TPE",
+            "regionName": "Taipei City",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.053,
+            "lon": 121.5259,
+            "timezone": "Asia/Taipei",
+            "isp": "Digital United Inc.",
+            "org": "Digital United Inc.",
+            "as": "AS4780 Digital United Inc.",
+            "query": "203.73.62.104",
+            "type": "http",
+            "port": "60808",
+            "response_time": 10.58
         }
     ]
 }
