@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 16.7964,
             "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Myanma Post & Telecommunication",
-            "org": "",
-            "as": "AS9988 Myanma Posts and Telecommunications",
-            "query": "136.228.163.150",
+            "isp": "AGB Communication Co., Ltd",
+            "org": "AGB Communication Co., Ltd",
+            "as": "AS134739 AGB Communication Co., Ltd",
+            "query": "103.200.135.226",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 4.54
+            "port": "4145",
+            "response_time": 1.29
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Global Technology Co",
+            "org": "",
+            "as": "AS133524 Global Technology Co., Ltd.",
+            "query": "185.133.214.90",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.22
         }
     ]
 }
