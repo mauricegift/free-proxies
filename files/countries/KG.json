@@ -1,7 +1,7 @@
 {
     "countryCode": "KG",
     "country": "Kyrgyzstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,28 @@
             "org": "AkNet network",
             "as": "AS12764 AKNET Ltd.",
             "query": "212.112.121.130",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.47
+        },
+        {
+            "status": "success",
+            "country": "Kyrgyzstan",
+            "countryCode": "KG",
+            "region": "GB",
+            "regionName": "Gorod Bishkek",
+            "city": "Bishkek",
+            "zip": "",
+            "lat": 42.8696,
+            "lon": 74.5932,
+            "timezone": "Asia/Bishkek",
+            "isp": "Mega-Line Ltd.",
+            "org": "Megaline",
+            "as": "AS41750 Mega-Line Ltd.",
+            "query": "77.235.31.24",
             "type": "http",
             "port": "8080",
-            "response_time": 1.73
+            "response_time": 4.75
         }
     ]
 }
