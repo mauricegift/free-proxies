@@ -1,8 +1,46 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H1E",
+            "lat": 45.632,
+            "lon": -73.5839,
+            "timezone": "America/Toronto",
+            "isp": "Videotron Telecom Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS22652 Videotron Ltee",
+            "query": "184.95.235.194",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.63
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M5A",
+            "lat": 43.6547,
+            "lon": -79.3623,
+            "timezone": "America/Toronto",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "68.183.197.81",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.52
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,7 +58,7 @@
             "query": "159.89.117.136",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.02
+            "response_time": 12.76
         }
     ]
 }
