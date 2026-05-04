@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.29
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H1E",
-            "lat": 45.632,
-            "lon": -73.5839,
-            "timezone": "America/Toronto",
-            "isp": "Videotron Telecom Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS22652 Videotron Ltee",
-            "query": "184.95.235.194",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.81
+            "response_time": 1.25
         },
         {
             "status": "success",
@@ -58,64 +39,26 @@
             "query": "184.95.220.42",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.78
+            "response_time": 2.02
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "M3C",
-            "lat": 43.7338,
-            "lon": -79.3325,
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H1E",
+            "lat": 45.632,
+            "lon": -73.5839,
             "timezone": "America/Toronto",
-            "isp": "BrainStorm Network, Inc",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "185.196.61.181",
+            "isp": "Videotron Telecom Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS22652 Videotron Ltee",
+            "query": "184.95.235.194",
             "type": "socks5",
             "port": "1080",
-            "response_time": 4.36
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "BC",
-            "regionName": "British Columbia",
-            "city": "Vancouver",
-            "zip": "V5Z",
-            "lat": 49.2827,
-            "lon": -123.121,
-            "timezone": "America/Vancouver",
-            "isp": "GLOBALTELEHOST Corp.",
-            "org": "Inetcloud",
-            "as": "AS62563 GLOBALTELEHOST Corp.",
-            "query": "193.108.58.29",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.85
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "M5A",
-            "lat": 43.6547,
-            "lon": -79.3623,
-            "timezone": "America/Toronto",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "159.89.117.136",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.84
+            "response_time": 2.93
         }
     ]
 }
