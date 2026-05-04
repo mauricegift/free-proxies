@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "14007",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "Telia Lietuva",
+            "org": "Telia Lietuva, AB",
+            "as": "AS8764 Telia Lietuva, AB",
+            "query": "78.63.115.20",
+            "type": "socks5",
+            "port": "8899",
+            "response_time": 4.54
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -20,7 +39,7 @@
             "query": "213.197.136.218",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.95
+            "response_time": 8.08
         }
     ]
 }
