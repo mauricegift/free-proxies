@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "04",
+            "regionName": "Melaka",
+            "city": "Malacca",
+            "zip": "75450",
+            "lat": 2.2046,
+            "lon": 102.2645,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.145.210.143",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.28
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +39,7 @@
             "query": "175.144.60.126",
             "type": "http",
             "port": "8080",
-            "response_time": 5.55
+            "response_time": 13.96
         }
     ]
 }
