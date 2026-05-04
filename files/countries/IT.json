@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.08
+            "response_time": 1.02
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.08
+            "response_time": 1.02
         },
         {
             "status": "success",
@@ -47,75 +47,18 @@
             "countryCode": "IT",
             "region": "52",
             "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6329,
-            "lon": 11.6726,
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
             "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "185.248.245.119",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 1.62
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
-            "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.0",
-            "type": "http",
-            "port": "8081",
-            "response_time": 5.21
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
-            "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.41",
-            "type": "http",
-            "port": "8081",
-            "response_time": 6.71
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6358,
-            "lon": 11.6746,
-            "timezone": "Europe/Rome",
-            "isp": "NGI",
-            "org": "NGI Spa",
-            "as": "AS35612 EOLO S.p.A.",
-            "query": "78.134.20.48",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.52
+            "isp": "Aruba S.p.A. Network",
+            "org": "Aruba S.p.A. - Cloud Services",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "80.211.131.230",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 13.85
         }
     ]
 }
