@@ -1,8 +1,27 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P4",
+            "regionName": "Gandaki Pradesh",
+            "city": "Pokhara",
+            "zip": "",
+            "lat": 28.2669,
+            "lon": 83.9685,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Pokhara Internet Pvt. Ltd",
+            "org": "",
+            "as": "AS138388 Pokhara Internet Pvt. Ltd.",
+            "query": "103.124.97.12",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.16
+        },
         {
             "status": "success",
             "country": "Nepal",
@@ -17,10 +36,48 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.196.105",
+            "query": "124.41.213.174",
             "type": "socks4",
-            "port": "48293",
-            "response_time": 2.69
+            "port": "5678",
+            "response_time": 3.52
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7108,
+            "lon": 85.3251,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Subisu Cablenet",
+            "org": "",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "110.34.13.4",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.04
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.6856,
+            "lon": 85.346,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+            "org": "Websurfer Nepal Communication System Pvt. Ltd",
+            "as": "AS24550 Websurfer Nepal Internet Service Provider",
+            "query": "118.91.175.146",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.67
         }
     ]
 }
