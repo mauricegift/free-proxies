@@ -1,26 +1,45 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "TAO",
-            "regionName": "Taoyuan",
-            "city": "Longtan District",
+            "region": "KHH",
+            "regionName": "Kaohsiung",
+            "city": "Kaohsiung",
             "zip": "",
-            "lat": 24.863,
-            "lon": 121.2102,
+            "lat": 22.6148,
+            "lon": 120.3139,
             "timezone": "Asia/Taipei",
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "220.132.41.160",
-            "type": "socks4",
-            "port": "1088",
-            "response_time": 1.52
+            "query": "122.117.203.252",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.17
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Taichung",
+            "zip": "",
+            "lat": 24.1182,
+            "lon": 120.679,
+            "timezone": "Asia/Taipei",
+            "isp": "TINP",
+            "org": "Digital United Inc.",
+            "as": "AS18049 Taiwan Infrastructure Network Technologie",
+            "query": "112.105.12.235",
+            "type": "socks5",
+            "port": "1111",
+            "response_time": 10.51
         }
     ]
 }
