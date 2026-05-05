@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "15.161.131.175",
             "type": "http",
-            "port": "7896",
-            "response_time": 2.52
+            "port": "27496",
+            "response_time": 1.11
         },
         {
             "status": "success",
@@ -30,16 +30,35 @@
             "regionName": "Lombardy",
             "city": "Milan",
             "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
+            "lat": 45.4642,
+            "lon": 9.18998,
             "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.131.175",
-            "type": "http",
-            "port": "50087",
-            "response_time": 4.46
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.36
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Furnari",
+            "zip": "98054",
+            "lat": 38.1031,
+            "lon": 15.1206,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "2.115.212.62",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 7.52
         }
     ]
 }
