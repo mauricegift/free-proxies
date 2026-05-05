@@ -1,8 +1,27 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 8,
+    "count": 10,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Yisu Cloud LTD",
+            "org": "Yisu Cloud Ltd",
+            "as": "AS138152 YISU CLOUD LTD",
+            "query": "156.232.11.115",
+            "type": "socks5",
+            "port": "9003",
+            "response_time": 3.51
+        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -20,26 +39,26 @@
             "query": "152.32.132.190",
             "type": "http",
             "port": "7890",
-            "response_time": 1.46
+            "response_time": 4.61
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western",
-            "city": "Hong Kong",
+            "region": "NSK",
+            "regionName": "Sai Kung District",
+            "city": "Tseung Kwan O",
             "zip": "",
-            "lat": 22.3964,
-            "lon": 114.109,
+            "lat": 22.3346,
+            "lon": 114.2536,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-east-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.198.209.12",
+            "isp": "Mejiro Network Limited",
+            "org": "Sakura Network LTD",
+            "as": "AS209642 Mejiro Network Limited",
+            "query": "45.146.243.133",
             "type": "http",
-            "port": "40628",
-            "response_time": 2.35
+            "port": "1080",
+            "response_time": 6.33
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "45.146.243.133",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.45
+            "response_time": 6.33
         },
         {
             "status": "success",
@@ -71,13 +90,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "cognetcloud INC",
-            "org": "High Family Technology Co",
-            "as": "AS401696 cognetcloud INC",
-            "query": "154.201.86.247",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.129.80.138",
             "type": "socks5",
-            "port": "1080",
-            "response_time": 9.22
+            "port": "18999",
+            "response_time": 6.85
         },
         {
             "status": "success",
@@ -90,13 +109,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.210.158.189",
-            "type": "socks4",
-            "port": "9063",
-            "response_time": 11.88
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology (hk) Limited",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "123.58.219.171",
+            "type": "socks5",
+            "port": "10808",
+            "response_time": 12.95
         },
         {
             "status": "success",
@@ -115,7 +134,45 @@
             "query": "47.243.201.253",
             "type": "socks5",
             "port": "1011",
-            "response_time": 14.01
+            "response_time": 15.54
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.210.158.189",
+            "type": "socks4",
+            "port": "9064",
+            "response_time": 20.4
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.210.158.189",
+            "type": "socks5",
+            "port": "9064",
+            "response_time": 20.4
         },
         {
             "status": "success",
@@ -132,28 +189,9 @@
             "org": "G NETWORK LLC",
             "as": "AS154321 CORENET CLOUD SDN. BHD.",
             "query": "162.211.180.216",
-            "type": "socks4",
-            "port": "10808",
-            "response_time": 18.9
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Akile LTD",
-            "org": "",
-            "as": "AS61112 AkileCloud Network",
-            "query": "151.242.125.125",
             "type": "socks5",
-            "port": "5555",
-            "response_time": 24.04
+            "port": "10808",
+            "response_time": 30.79
         }
     ]
 }
