@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "138.124.102.89",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.21
+            "response_time": 1.22
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.231.26",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.68
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "G",
+            "regionName": "Kronoberg County",
+            "city": "Vaxjo",
+            "zip": "352 37",
+            "lat": 56.8746,
+            "lon": 14.8124,
+            "timezone": "Europe/Stockholm",
+            "isp": "Patrik Lagerman",
+            "org": "Kronnet",
+            "as": "AS35100 Patrik Lagerman",
+            "query": "171.25.158.95",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 11.66
         }
     ]
 }
