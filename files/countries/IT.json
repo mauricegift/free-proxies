@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
+            "timezone": "Europe/Rome",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.09
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,45 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.69
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "82",
-            "regionName": "Sicily",
-            "city": "Furnari",
-            "zip": "98054",
-            "lat": 38.1031,
-            "lon": 15.1206,
-            "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "2.115.212.62",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 5.21
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "34",
-            "regionName": "Veneto",
-            "city": "Santa Margherita d'Adige",
-            "zip": "35040",
-            "lat": 45.2121,
-            "lon": 11.5576,
-            "timezone": "Europe/Rome",
-            "isp": "Sirius Technology SRL",
-            "org": "Sirius Technology SRL",
-            "as": "AS60501 Sirius Technology SRL",
-            "query": "149.86.203.217",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.27
+            "response_time": 1.09
         }
     ]
 }
