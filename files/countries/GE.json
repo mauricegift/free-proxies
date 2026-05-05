@@ -1,27 +1,8 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "KK",
-            "regionName": "Kvemo Kartli",
-            "city": "",
-            "zip": "",
-            "lat": 41.555,
-            "lon": 44.9805,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.104",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.51
-        },
         {
             "status": "success",
             "country": "Georgia",
@@ -39,7 +20,26 @@
             "query": "5.187.9.10",
             "type": "http",
             "port": "8080",
-            "response_time": 5.96
+            "response_time": 3.88
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online LLC",
+            "org": "",
+            "as": "AS16010 Magticom Ltd.",
+            "query": "188.129.255.58",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.25
         },
         {
             "status": "success",
@@ -52,13 +52,32 @@
             "lat": 42.2648,
             "lon": 42.7041,
             "timezone": "Asia/Tbilisi",
-            "isp": "Deltanet-net Network",
-            "org": "",
-            "as": "AS44327 DELTA COMM LLC",
-            "query": "92.51.122.174",
+            "isp": "JSC \"Silknet\"",
+            "org": "Silknet Gpon",
+            "as": "AS35805 JSC Silknet",
+            "query": "31.146.73.192",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 8.43
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "KK",
+            "regionName": "Kvemo Kartli",
+            "city": "",
+            "zip": "",
+            "lat": 41.555,
+            "lon": 44.9805,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.147",
             "type": "http",
             "port": "8080",
-            "response_time": 11.07
+            "response_time": 8.85
         }
     ]
 }
