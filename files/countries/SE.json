@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
             "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
+            "org": "Aeza International LTD",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.102.89",
+            "query": "109.120.132.166",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.22
+            "response_time": 4.64
         },
         {
             "status": "success",
@@ -36,10 +36,48 @@
             "isp": "Aeza International LTD",
             "org": "NetCrafters OU",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.231.26",
+            "query": "62.60.149.161",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.92
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.149.161",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.68
+            "response_time": 6.21
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.149.161",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.21
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "171.25.158.95",
             "type": "socks5",
             "port": "1080",
-            "response_time": 11.66
+            "response_time": 11.25
         }
     ]
 }
