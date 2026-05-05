@@ -1,27 +1,8 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "PV",
-            "regionName": "Basque Country",
-            "city": "Bilbao",
-            "zip": "48070",
-            "lat": 43.2626,
-            "lon": -2.9238,
-            "timezone": "Europe/Madrid",
-            "isp": "TATA Communications",
-            "org": "Nexis Tecnologias",
-            "as": "AS6453 TATA COMMUNICATIONS (AMERICA) INC",
-            "query": "195.219.98.27",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.08
-        },
         {
             "status": "success",
             "country": "Spain",
@@ -39,7 +20,7 @@
             "query": "141.105.107.152",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.98
+            "response_time": 1.11
         },
         {
             "status": "success",
@@ -47,37 +28,37 @@
             "countryCode": "ES",
             "region": "MD",
             "regionName": "Madrid",
-            "city": "San Fernando de Henares",
-            "zip": "28830",
-            "lat": 40.4239,
-            "lon": -3.53261,
+            "city": "Madrid",
+            "zip": "",
+            "lat": 40.4167,
+            "lon": -3.7037,
             "timezone": "Europe/Madrid",
-            "isp": "Telefonica de Espana SAU",
-            "org": "RIMA (Red IP Multi Acceso)",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "83.56.15.57",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.15
+            "isp": "BlueVPS OU",
+            "org": "BlueVPS OU",
+            "as": "AS62005 BlueVPS OU",
+            "query": "83.97.79.114",
+            "type": "socks5",
+            "port": "8443",
+            "response_time": 2.16
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "VC",
-            "regionName": "Valencia",
-            "city": "Aldaia",
-            "zip": "46960",
-            "lat": 39.4614,
-            "lon": -0.4623,
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28027",
+            "lat": 40.4382,
+            "lon": -3.6481,
             "timezone": "Europe/Madrid",
-            "isp": "Suballocated IT1",
+            "isp": "RIMA (Red IP Multi Acceso)",
             "org": "",
-            "as": "AS207906 VERITA NETWORKS SOCIEDAD LIMITADA",
-            "query": "195.189.190.245",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "2.139.62.85",
             "type": "http",
-            "port": "9090",
-            "response_time": 9.79
+            "port": "3128",
+            "response_time": 10.03
         }
     ]
 }
