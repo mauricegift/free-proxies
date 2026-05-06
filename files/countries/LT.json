@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "02021",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "Hostinger International Limited",
+            "org": "Hostinger International Limited",
+            "as": "AS47583 Hostinger International Limited",
+            "query": "194.31.52.201",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.19
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -20,7 +39,7 @@
             "query": "78.63.115.20",
             "type": "socks5",
             "port": "8899",
-            "response_time": 1.53
+            "response_time": 2.87
         },
         {
             "status": "success",
@@ -39,26 +58,45 @@
             "query": "213.197.136.218",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.99
+            "response_time": 4.92
         },
         {
             "status": "success",
             "country": "Lithuania",
             "countryCode": "LT",
-            "region": "KL",
-            "regionName": "Klaip\u0117da County",
-            "city": "Klaip\u0117da",
-            "zip": "91001",
-            "lat": 55.7158,
-            "lon": 21.111,
+            "region": "TE",
+            "regionName": "Telsiai",
+            "city": "Ma\u017eeikiai",
+            "zip": "89021",
+            "lat": 56.3176,
+            "lon": 22.3463,
             "timezone": "Europe/Vilnius",
-            "isp": "Telia Lietuva",
-            "org": "Telia Lietuva, AB",
-            "as": "AS8764 Telia Lietuva, AB",
-            "query": "88.119.139.237",
-            "type": "http",
-            "port": "53281",
-            "response_time": 4.32
+            "isp": "KLI",
+            "org": "",
+            "as": "AS43627 UAB Besmegeniai",
+            "query": "46.36.65.117",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.17
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "02021",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "Baxet Group Inc.",
+            "org": "Baxet Group Inc",
+            "as": "AS26383 Baxet Group Inc.",
+            "query": "194.87.106.81",
+            "type": "socks4",
+            "port": "9065",
+            "response_time": 9.53
         }
     ]
 }
