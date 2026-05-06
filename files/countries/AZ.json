@@ -1,8 +1,27 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "AzFiberNet LLC",
+            "org": "Datacenter",
+            "as": "AS203971 AzFiberNet LLC",
+            "query": "185.118.51.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.16
+        },
         {
             "status": "success",
             "country": "Azerbaijan",
@@ -20,45 +39,7 @@
             "query": "109.127.9.99",
             "type": "http",
             "port": "8080",
-            "response_time": 5.14
-        },
-        {
-            "status": "success",
-            "country": "Azerbaijan",
-            "countryCode": "AZ",
-            "region": "BA",
-            "regionName": "Baku City",
-            "city": "Baku",
-            "zip": "",
-            "lat": 40.3771,
-            "lon": 49.8875,
-            "timezone": "Asia/Baku",
-            "isp": "Uninet LLC",
-            "org": "",
-            "as": "AS39232 Uninet LLC",
-            "query": "217.25.24.7",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 8.42
-        },
-        {
-            "status": "success",
-            "country": "Azerbaijan",
-            "countryCode": "AZ",
-            "region": "BA",
-            "regionName": "Baku City",
-            "city": "Baku",
-            "zip": "",
-            "lat": 40.3771,
-            "lon": 49.8875,
-            "timezone": "Asia/Baku",
-            "isp": "AzFiberNet LLC",
-            "org": "Datacenter",
-            "as": "AS203971 AzFiberNet LLC",
-            "query": "185.118.51.133",
-            "type": "http",
-            "port": "3128",
-            "response_time": 9.4
+            "response_time": 11.47
         }
     ]
 }
