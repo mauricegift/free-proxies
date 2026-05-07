@@ -1,7 +1,7 @@
 {
     "countryCode": "BO",
     "country": "Bolivia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "200.105.192.6",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.12
+            "response_time": 2.37
+        },
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "L",
+            "regionName": "La Paz Department",
+            "city": "La Paz",
+            "zip": "",
+            "lat": -16.5002,
+            "lon": -68.1493,
+            "timezone": "America/La_Paz",
+            "isp": "AXS Bolivia S. A.",
+            "org": "AXS Bolivia S. A",
+            "as": "AS26210 AXS Bolivia S. A.",
+            "query": "186.121.214.210",
+            "type": "http",
+            "port": "32650",
+            "response_time": 15.27
         }
     ]
 }
