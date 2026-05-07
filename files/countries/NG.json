@@ -1,26 +1,45 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lagos",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 9.0567,
+            "lon": 7.4969,
             "timezone": "Africa/Lagos",
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.172.58",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.95
+            "query": "154.113.209.162",
+            "type": "http",
+            "port": "8082",
+            "response_time": 5.2
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
+            "zip": "",
+            "lat": 9.0567,
+            "lon": 7.4969,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.209.164",
+            "type": "http",
+            "port": "8082",
+            "response_time": 8.28
         }
     ]
 }
