@@ -1,8 +1,27 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3769,
+            "lon": 8.54169,
+            "timezone": "Europe/Zurich",
+            "isp": "Grupo Panaglobal 15 S.A",
+            "org": "SwissLayer LLC",
+            "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
+            "query": "185.191.236.162",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.29
+        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -20,7 +39,7 @@
             "query": "45.59.122.132",
             "type": "http",
             "port": "80",
-            "response_time": 3.99
+            "response_time": 2.83
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "74.242.169.16",
             "type": "http",
             "port": "3128",
-            "response_time": 10.51
+            "response_time": 11.86
         }
     ]
 }
