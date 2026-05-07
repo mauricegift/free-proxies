@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 5,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.22.238",
+            "query": "102.0.22.96",
             "type": "http",
             "port": "8080",
-            "response_time": 1.27
+            "response_time": 2.46
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "154.79.248.156",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.82
+            "query": "102.0.10.6",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.13
         },
         {
             "status": "success",
@@ -55,10 +55,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.25.184",
+            "query": "102.0.21.136",
             "type": "http",
             "port": "8080",
-            "response_time": 5.28
+            "response_time": 3.98
         },
         {
             "status": "success",
@@ -71,13 +71,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Jamii Telecommunications Limited",
-            "org": "FAIBA",
-            "as": "AS36866 Jamii Telecommunications Limited",
-            "query": "197.232.47.122",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 8.18
+            "isp": "Safaricom Limited",
+            "org": "Safaricom Limited",
+            "as": "AS37061 Safaricom Limited",
+            "query": "197.248.37.31",
+            "type": "http",
+            "port": "8104",
+            "response_time": 6.16
         },
         {
             "status": "success",
@@ -90,13 +90,51 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Unwired Communications Ltd",
+            "isp": "NEXT THING NETWORKS Limited",
+            "org": "NEXT THING NETWORKS Limited",
+            "as": "AS329261 NEXT THING NETWORKS Limited",
+            "query": "102.213.179.56",
+            "type": "http",
+            "port": "8081",
+            "response_time": 6.86
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
-            "as": "AS328490 Unwired Communications Limited",
-            "query": "102.211.145.37",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.23.186",
             "type": "http",
             "port": "8080",
-            "response_time": 10.77
+            "response_time": 7.92
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Safaricom Limited",
+            "org": "Safaricom Limited",
+            "as": "AS37061 Safaricom Limited",
+            "query": "197.248.75.221",
+            "type": "http",
+            "port": "8105",
+            "response_time": 8.33
         }
     ]
 }
