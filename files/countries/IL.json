@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "JM",
+            "regionName": "Jerusalem",
+            "city": "Jerusalem",
+            "zip": "",
+            "lat": 31.7683,
+            "lon": 35.2137,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Mada Al-Arab General Services Company",
+            "org": "Mada Network BB",
+            "as": "AS51407 Mada Al-Arab General Services Company",
+            "query": "84.242.58.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.1
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,7 +39,7 @@
             "query": "51.84.100.37",
             "type": "http",
             "port": "528",
-            "response_time": 1.58
+            "response_time": 1.28
         }
     ]
 }
