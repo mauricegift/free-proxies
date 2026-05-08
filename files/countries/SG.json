@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "43.156.132.113",
             "type": "http",
             "port": "3128",
-            "response_time": 1.76
+            "response_time": 1.4
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "206.206.126.177",
             "type": "http",
             "port": "2412",
-            "response_time": 2.33
+            "response_time": 2.67
         },
         {
             "status": "success",
@@ -52,32 +52,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Aceville Pte.ltd",
-            "org": "",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
             "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.133.44.89",
-            "type": "http",
-            "port": "8888",
-            "response_time": 3.21
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
-            "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
-            "timezone": "Asia/Singapore",
-            "isp": "The Constant Company",
-            "org": "Vultr Holdings, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "45.77.246.231",
-            "type": "http",
-            "port": "80",
-            "response_time": 6.02
+            "query": "43.134.53.69",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.46
         },
         {
             "status": "success",
@@ -93,10 +74,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "167.71.196.178",
-            "type": "http",
-            "port": "80",
-            "response_time": 7.57
+            "query": "128.199.104.190",
+            "type": "socks4",
+            "port": "41354",
+            "response_time": 8.55
         },
         {
             "status": "success",
@@ -109,13 +90,13 @@
             "lat": 1.32123,
             "lon": 103.695,
             "timezone": "Asia/Singapore",
-            "isp": "SGP VULTR",
-            "org": "",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "139.180.142.71",
-            "type": "socks5",
-            "port": "20053",
-            "response_time": 8.12
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "167.71.222.124",
+            "type": "http",
+            "port": "10001",
+            "response_time": 13.08
         }
     ]
 }
