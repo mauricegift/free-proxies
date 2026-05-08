@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "213.6.68.210",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.65
+            "response_time": 0.58
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "RBH",
+            "regionName": "Ramallah and al-Bireh Governorate",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9014,
+            "lon": 35.1999,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "DSL -PALTEL",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.249.37",
+            "type": "http",
+            "port": "18000",
+            "response_time": 4.18
         }
     ]
 }
