@@ -1,8 +1,46 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4681,
+            "lon": 9.2011,
+            "timezone": "Europe/Rome",
+            "isp": "Amazon Technologies Inc",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.160.132.166",
+            "type": "http",
+            "port": "443",
+            "response_time": 0.57
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Furnari",
+            "zip": "98054",
+            "lat": 38.1031,
+            "lon": 15.1206,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "2.115.212.62",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 2.88
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +58,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.07
+            "response_time": 3.53
         }
     ]
 }
