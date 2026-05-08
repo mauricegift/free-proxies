@@ -1,26 +1,45 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Switzerland",
             "countryCode": "CH",
-            "region": "BE",
-            "regionName": "Bern",
-            "city": "Bern",
-            "zip": "3001",
-            "lat": 46.9454,
-            "lon": 7.4531,
+            "region": "ZG",
+            "regionName": "Zug",
+            "city": "H\u00fcnenberg",
+            "zip": "6331",
+            "lat": 47.1619,
+            "lon": 8.43988,
             "timezone": "Europe/Zurich",
-            "isp": "RouterHosting LLC",
-            "org": "anyNode",
-            "as": "AS14956 RouterHosting LLC",
-            "query": "45.59.122.132",
+            "isp": "Datasource AG",
+            "org": "Datasource AG",
+            "as": "AS56803 Datasource AG",
+            "query": "185.195.71.218",
             "type": "http",
-            "port": "80",
-            "response_time": 4.57
+            "port": "18080",
+            "response_time": 0.39
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZG",
+            "regionName": "Zug",
+            "city": "H\u00fcnenberg",
+            "zip": "6331",
+            "lat": 47.1619,
+            "lon": 8.43988,
+            "timezone": "Europe/Zurich",
+            "isp": "Datasource AG",
+            "org": "Datasource AG",
+            "as": "AS56803 Datasource AG",
+            "query": "185.195.71.218",
+            "type": "socks5",
+            "port": "18080",
+            "response_time": 0.39
         }
     ]
 }
