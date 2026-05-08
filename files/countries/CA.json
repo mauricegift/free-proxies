@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "35.182.12.78",
             "type": "http",
             "port": "16245",
-            "response_time": 1.4
+            "response_time": 1.27
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Laval",
+            "zip": "H7W",
+            "lat": 45.5355,
+            "lon": -73.761,
+            "timezone": "America/Toronto",
+            "isp": "Le Groupe Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "24.37.245.42",
+            "type": "socks4",
+            "port": "51056",
+            "response_time": 2.67
         },
         {
             "status": "success",
@@ -39,26 +58,26 @@
             "query": "40.177.89.65",
             "type": "http",
             "port": "59285",
-            "response_time": 1.89
+            "response_time": 4.7
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "M5A",
-            "lat": 43.6532,
-            "lon": -79.3832,
-            "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "51.79.31.71",
+            "region": "NT",
+            "regionName": "Northwest Territories",
+            "city": "Yellowknife",
+            "zip": "X1A",
+            "lat": 62.456,
+            "lon": -114.3525,
+            "timezone": "America/Edmonton",
+            "isp": "Northwestel Inc.",
+            "org": "Northwestel Inc",
+            "as": "AS6058 Northwestel Inc.",
+            "query": "50.117.253.214",
             "type": "socks5",
-            "port": "19150",
-            "response_time": 6.68
+            "port": "9051",
+            "response_time": 9.37
         }
     ]
 }
