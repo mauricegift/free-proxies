@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,7 @@
             "query": "20.164.75.153",
             "type": "http",
             "port": "8080",
-            "response_time": 1.26
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "WC",
-            "regionName": "Western Cape",
-            "city": "Cape Town",
-            "zip": "7441",
-            "lat": -33.914,
-            "lon": 18.4129,
-            "timezone": "Africa/Johannesburg",
-            "isp": "SEACOM Limited",
-            "org": "Seacom Assignments",
-            "as": "AS37100 SEACOM Limited",
-            "query": "105.27.180.194",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.09
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "WC",
-            "regionName": "Western Cape",
-            "city": "Cape Town",
-            "zip": "7925",
-            "lat": -33.914,
-            "lon": 18.4129,
-            "timezone": "Africa/Johannesburg",
-            "isp": "RSAWEB (PTY) LTD",
-            "org": "Rsaweb",
-            "as": "AS37053 RSAWEB (PTY) LTD",
-            "query": "165.0.100.149",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 8.18
+            "response_time": 1.22
         },
         {
             "status": "success",
@@ -66,18 +28,37 @@
             "countryCode": "ZA",
             "region": "GP",
             "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2188",
-            "lat": -26.2309,
-            "lon": 28.0583,
+            "city": "Daveyton",
+            "zip": "1520",
+            "lat": -26.1427,
+            "lon": 28.4203,
             "timezone": "Africa/Johannesburg",
-            "isp": "OM-SN-44/24",
-            "org": "",
-            "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
-            "query": "102.212.44.151",
+            "isp": "Session Telecoms(PTY) Ltd",
+            "org": "SessionTelecoms",
+            "as": "AS327907 Session Telecoms(PTY) Ltd",
+            "query": "102.135.142.234",
             "type": "http",
             "port": "12354",
-            "response_time": 11.5
+            "response_time": 8.76
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "LP",
+            "regionName": "Limpopo",
+            "city": "Hoedspruit",
+            "zip": "1371",
+            "lat": -24.3512,
+            "lon": 30.9533,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Herotel",
+            "org": "",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "102.66.104.162",
+            "type": "http",
+            "port": "8865",
+            "response_time": 11.91
         }
     ]
 }
