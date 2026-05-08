@@ -1,26 +1,26 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 7,
+    "count": 9,
     "proxies": [
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western",
-            "city": "Hong Kong",
+            "region": "NNO",
+            "regionName": "North District",
+            "city": "Fanling",
             "zip": "",
-            "lat": 22.3964,
-            "lon": 114.109,
+            "lat": 22.4932,
+            "lon": 114.146,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-east-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.198.94.82",
+            "isp": "Tele Asia Limited",
+            "org": "Tele Asia Limited",
+            "as": "AS133398 Tele Asia Limited",
+            "query": "45.125.67.37",
             "type": "http",
-            "port": "40353",
-            "response_time": 2.31
+            "port": "8443",
+            "response_time": 1.96
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 22.3964,
             "lon": 114.109,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ap-east-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.198.22.151",
+            "query": "18.162.200.96",
             "type": "http",
-            "port": "9002",
-            "response_time": 2.68
+            "port": "20488",
+            "response_time": 2.87
         },
         {
             "status": "success",
@@ -52,13 +52,32 @@
             "lat": 22.3964,
             "lon": 114.109,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ap-east-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.198.22.151",
+            "query": "18.163.33.4",
             "type": "http",
-            "port": "34246",
-            "response_time": 2.82
+            "port": "59732",
+            "response_time": 3.67
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba.com LLC",
+            "org": "IPXO LLC, Zenlayer Inc, Delta Centric LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.83.168.191",
+            "type": "http",
+            "port": "4000",
+            "response_time": 6.94
         },
         {
             "status": "success",
@@ -77,26 +96,7 @@
             "query": "8.218.197.6",
             "type": "socks5",
             "port": "8099",
-            "response_time": 3.1
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "NNO",
-            "regionName": "North District",
-            "city": "Fanling",
-            "zip": "",
-            "lat": 22.4932,
-            "lon": 114.146,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Tele Asia Limited",
-            "org": "Tele Asia Limited",
-            "as": "AS133398 Tele Asia Limited",
-            "query": "45.125.67.37",
-            "type": "http",
-            "port": "8443",
-            "response_time": 4.93
+            "response_time": 7.07
         },
         {
             "status": "success",
@@ -115,7 +115,26 @@
             "query": "45.146.243.133",
             "type": "http",
             "port": "1080",
-            "response_time": 6.11
+            "response_time": 7.96
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HEA",
+            "regionName": "Eastern District",
+            "city": "North Point",
+            "zip": "96521",
+            "lat": 22.285,
+            "lon": 114.1953,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "PCCW IMSBiz",
+            "org": "Hong Kong Telecommunications (HKT) Limited",
+            "as": "AS4760 HKT Limited",
+            "query": "42.200.125.44",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.11
         },
         {
             "status": "success",
@@ -128,13 +147,32 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "NetLab Global",
-            "org": "NetLab Global",
-            "as": "AS979 NetLab Global",
-            "query": "154.37.213.90",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.129.80.138",
             "type": "socks4",
-            "port": "10808",
-            "response_time": 7.53
+            "port": "18999",
+            "response_time": 8.16
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "43.99.54.236",
+            "type": "http",
+            "port": "5555",
+            "response_time": 11.68
         }
     ]
 }
