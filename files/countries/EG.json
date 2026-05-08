@@ -1,26 +1,26 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Egypt",
             "countryCode": "EG",
-            "region": "ALX",
-            "regionName": "Alexandria",
-            "city": "Alexandria",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
             "zip": "",
-            "lat": 31.1882,
-            "lon": 29.9189,
+            "lat": 30.0046,
+            "lon": 31.2044,
             "timezone": "Africa/Cairo",
-            "isp": "Global-AWAYED",
+            "isp": "Link Egypt (Link.NET)",
             "org": "",
-            "as": "AS24835 Vodafone Data",
-            "query": "82.129.237.65",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.14",
             "type": "http",
-            "port": "1976",
-            "response_time": 7.13
+            "port": "1981",
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "197.164.101.11",
             "type": "http",
             "port": "1976",
-            "response_time": 8.98
+            "response_time": 8.52
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GH",
+            "regionName": "Gharbia",
+            "city": "Samann\u016bd",
+            "zip": "",
+            "lat": 30.9616,
+            "lon": 31.2407,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat",
+            "org": "EgyNet",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "84.36.228.154",
+            "type": "http",
+            "port": "1981",
+            "response_time": 20.06
         }
     ]
 }
