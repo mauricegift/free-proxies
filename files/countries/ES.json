@@ -1,27 +1,8 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 7,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "PV",
-            "regionName": "Basque Country",
-            "city": "Bilbao",
-            "zip": "48070",
-            "lat": 43.2626,
-            "lon": -2.9238,
-            "timezone": "Europe/Madrid",
-            "isp": "TATA Communications",
-            "org": "Nexis Tecnologias",
-            "as": "AS6453 TATA COMMUNICATIONS (AMERICA) INC",
-            "query": "195.219.98.27",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.4
-        },
         {
             "status": "success",
             "country": "Spain",
@@ -39,7 +20,7 @@
             "query": "83.97.79.114",
             "type": "http",
             "port": "8443",
-            "response_time": 1.62
+            "response_time": 8.17
         },
         {
             "status": "success",
@@ -58,26 +39,7 @@
             "query": "83.97.79.114",
             "type": "socks5",
             "port": "8443",
-            "response_time": 1.62
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28108",
-            "lat": 40.5395,
-            "lon": -3.6456,
-            "timezone": "Europe/Madrid",
-            "isp": "The Constant Company, LLC",
-            "org": "The Constant Company, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "65.20.105.241",
-            "type": "socks4",
-            "port": "10001",
-            "response_time": 3.25
+            "response_time": 8.17
         },
         {
             "status": "success",
@@ -85,18 +47,18 @@
             "countryCode": "ES",
             "region": "VC",
             "regionName": "Valencia",
-            "city": "Javea",
-            "zip": "03730",
-            "lat": 38.7764,
-            "lon": -0.0075,
+            "city": "Aldaia",
+            "zip": "46960",
+            "lat": 39.4614,
+            "lon": -0.4623,
             "timezone": "Europe/Madrid",
-            "isp": "customers4",
+            "isp": "Suballocated IT1",
             "org": "",
-            "as": "AS56697 SUIS BOGA TELECOM SL",
-            "query": "185.130.219.11",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 4.49
+            "as": "AS207906 VERITA NETWORKS SOCIEDAD LIMITADA",
+            "query": "195.189.190.245",
+            "type": "http",
+            "port": "9090",
+            "response_time": 8.58
         },
         {
             "status": "success",
@@ -115,26 +77,26 @@
             "query": "90.174.128.42",
             "type": "http",
             "port": "3128",
-            "response_time": 5.13
+            "response_time": 10.44
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28070",
-            "lat": 40.4168,
-            "lon": -3.70379,
-            "timezone": "Europe/Madrid",
-            "isp": "WorkTitans B.V.",
-            "org": "WorkTitans B.V",
-            "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.117.60",
-            "type": "socks4",
-            "port": "9100",
-            "response_time": 8.2
+            "region": "CN",
+            "regionName": "Canary Islands",
+            "city": "Puerto de Santiago",
+            "zip": "38683",
+            "lat": 28.2367,
+            "lon": -16.8433,
+            "timezone": "Atlantic/Canary",
+            "isp": "UNI2-ABI",
+            "org": "",
+            "as": "AS12479 Orange Espagne SA",
+            "query": "90.161.186.147",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.54
         }
     ]
 }
