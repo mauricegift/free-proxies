@@ -1,26 +1,45 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "SB",
-            "regionName": "Sibiu County",
-            "city": "C\u00e2r\u0163i\u015foara",
-            "zip": "557075",
-            "lat": 45.7167,
-            "lon": 24.5833,
+            "region": "SV",
+            "regionName": "Suceava",
+            "city": "Radauti",
+            "zip": "725400",
+            "lat": 47.8462,
+            "lon": 25.9154,
             "timezone": "Europe/Bucharest",
-            "isp": "Vodafone RO",
-            "org": "MobiFon S.A.",
-            "as": "AS12302 Vodafone Romania S.A.",
-            "query": "81.12.157.98",
+            "isp": "SC NextGen Communications SRL",
+            "org": "SC NextGen Communications SRL",
+            "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
+            "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.42
+            "response_time": 0.41
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "PH",
+            "regionName": "Prahova",
+            "city": "Sinaia",
+            "zip": "106100",
+            "lat": 45.3492,
+            "lon": 25.5554,
+            "timezone": "Europe/Bucharest",
+            "isp": "Romtelecom",
+            "org": "",
+            "as": "AS9050 Orange Romania S.A.",
+            "query": "92.86.92.126",
+            "type": "socks4",
+            "port": "42740",
+            "response_time": 0.48
         }
     ]
 }
