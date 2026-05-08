@@ -1,26 +1,45 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "ARE",
-            "regionName": "Arequipa",
-            "city": "Arequipa",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
             "zip": "",
-            "lat": -16.4014,
-            "lon": -71.5343,
+            "lat": -12.046,
+            "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "Fiberred SAC",
-            "org": "Cogent Communications",
-            "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.65",
+            "isp": "ON EMPRESAS S.A.C",
+            "org": "Miraflores De Turismo S.A.C",
+            "as": "AS27843 ON EMPRESAS S.A.C.",
+            "query": "190.12.95.170",
+            "type": "socks4",
+            "port": "37209",
+            "response_time": 4.46
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LMA",
+            "regionName": "Lima Province",
+            "city": "Lima",
+            "zip": "",
+            "lat": -12.046,
+            "lon": -77.0305,
+            "timezone": "America/Lima",
+            "isp": "TDP-GRS",
+            "org": "PE-TDP-GRS",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "190.237.238.26",
             "type": "http",
             "port": "999",
-            "response_time": 11.99
+            "response_time": 8.52
         }
     ]
 }
