@@ -1,27 +1,8 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 3,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "",
-            "lat": 43.6532,
-            "lon": -79.3832,
-            "timezone": "America/Toronto",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "3.99.158.157",
-            "type": "http",
-            "port": "54722",
-            "response_time": 1.35
-        },
         {
             "status": "success",
             "country": "Canada",
@@ -39,7 +20,26 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.59
+            "response_time": 3.6
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Laval",
+            "zip": "H7W",
+            "lat": 45.5355,
+            "lon": -73.761,
+            "timezone": "America/Toronto",
+            "isp": "Le Groupe Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "24.37.245.42",
+            "type": "socks4",
+            "port": "51056",
+            "response_time": 3.65
         },
         {
             "status": "success",
@@ -56,9 +56,47 @@
             "org": "Moula World Llc",
             "as": "AS26832 Rica Web Services",
             "query": "86.107.168.166",
-            "type": "socks5",
+            "type": "socks4",
             "port": "22",
-            "response_time": 4.59
+            "response_time": 6.15
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Ottawa",
+            "zip": "K1C",
+            "lat": 45.4677,
+            "lon": -75.5399,
+            "timezone": "America/Toronto",
+            "isp": "Rogers Communications Canada Inc.",
+            "org": "Rogers Communications Canada Inc",
+            "as": "AS812 Rogers Communications Canada Inc.",
+            "query": "174.114.24.95",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.09
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "BC",
+            "regionName": "British Columbia",
+            "city": "Vancouver",
+            "zip": "V5Z",
+            "lat": 49.2827,
+            "lon": -123.121,
+            "timezone": "America/Vancouver",
+            "isp": "GLOBALTELEHOST Corp.",
+            "org": "Inetcloud",
+            "as": "AS62563 GLOBALTELEHOST Corp.",
+            "query": "193.108.58.29",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.69
         }
     ]
 }
