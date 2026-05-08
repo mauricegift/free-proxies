@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "212.113.106.198",
             "type": "socks5",
             "port": "987",
-            "response_time": 0.14
+            "response_time": 0.24
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "7",
+            "regionName": "Tyrol",
+            "city": "L\u00e4ngenfeld",
+            "zip": "6444",
+            "lat": 47.0715,
+            "lon": 10.9651,
+            "timezone": "Europe/Vienna",
+            "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+            "org": "Planet Digital Lichtewllenleiternetz Errichtungs- und Betrieb GmbH & Co",
+            "as": "AS206091 Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+            "query": "185.196.178.40",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.18
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "7",
+            "regionName": "Tyrol",
+            "city": "S\u00f6ll",
+            "zip": "6306",
+            "lat": 47.5038,
+            "lon": 12.1922,
+            "timezone": "Europe/Vienna",
+            "isp": "myNet GmbH",
+            "org": "myNET Internet Solutions",
+            "as": "AS31543 myNet GmbH",
+            "query": "83.218.186.22",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.45
         }
     ]
 }
