@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "45.8.98.142",
             "type": "socks4",
             "port": "30010",
-            "response_time": 0.8
+            "response_time": 0.69
         },
         {
             "status": "success",
@@ -39,7 +39,64 @@
             "query": "31.130.152.120",
             "type": "socks5",
             "port": "443",
-            "response_time": 0.91
+            "response_time": 0.84
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.74.0",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.45
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.1941,
+            "lon": 76.8339,
+            "timezone": "Asia/Almaty",
+            "isp": "PS Internet Company LLP",
+            "org": "PS Internet Company LLP",
+            "as": "AS48716 PS Internet Company LLP",
+            "query": "194.110.55.211",
+            "type": "http",
+            "port": "3130",
+            "response_time": 8.47
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Kcell JSC",
+            "org": "\"KCell\" JSC",
+            "as": "AS29355 Kcell JSC",
+            "query": "2.78.60.10",
+            "type": "http",
+            "port": "3129",
+            "response_time": 9.61
         }
     ]
 }
