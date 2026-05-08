@@ -1,8 +1,46 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 6,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western District",
+            "city": "Hong Kong",
+            "zip": "",
+            "lat": 22.3193,
+            "lon": 114.1693,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.96.238.40",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.14
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Mong Kok",
+            "zip": "96521",
+            "lat": 22.3151,
+            "lon": 114.1743,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Cogent Communications",
+            "org": "FOJ IP TECHNOLOGY LIMITED",
+            "as": "AS8796 FASTNET DATA INC",
+            "query": "154.12.94.94",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.54
+        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -20,7 +58,26 @@
             "query": "152.32.132.190",
             "type": "http",
             "port": "7890",
-            "response_time": 1.23
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NNO",
+            "regionName": "North District",
+            "city": "Fanling",
+            "zip": "",
+            "lat": 22.4932,
+            "lon": 114.146,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Tele Asia Limited",
+            "org": "Tele Asia Limited",
+            "as": "AS133398 Tele Asia Limited",
+            "query": "45.125.67.37",
+            "type": "http",
+            "port": "8443",
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "8.218.197.6",
             "type": "socks5",
             "port": "8099",
-            "response_time": 3.07
+            "response_time": 1.84
         },
         {
             "status": "success",
@@ -58,26 +115,7 @@
             "query": "47.83.168.191",
             "type": "http",
             "port": "4000",
-            "response_time": 4.35
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com LLC",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.57.242.244",
-            "type": "socks4",
-            "port": "5080",
-            "response_time": 4.87
+            "response_time": 4.25
         },
         {
             "status": "success",
@@ -96,7 +134,7 @@
             "query": "43.129.80.138",
             "type": "socks4",
             "port": "18999",
-            "response_time": 5.83
+            "response_time": 9.03
         },
         {
             "status": "success",
@@ -113,9 +151,9 @@
             "org": "Sakura Network LTD",
             "as": "AS209642 Mejiro Network Limited",
             "query": "45.146.243.133",
-            "type": "socks4",
+            "type": "http",
             "port": "1080",
-            "response_time": 14.34
+            "response_time": 17.65
         }
     ]
 }
