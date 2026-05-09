@@ -1,8 +1,46 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "San Juan",
+            "city": "San Juan",
+            "zip": "00918",
+            "lat": 18.4243,
+            "lon": -66.0572,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Liberty Mobile Puerto Rico Inc.",
+            "org": "Liberty Mobile Puerto Rico Inc",
+            "as": "AS11992 Liberty Mobile Puerto Rico Inc.",
+            "query": "67.206.213.202",
+            "type": "socks4",
+            "port": "55555",
+            "response_time": 0.8
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "San Juan",
+            "city": "San Juan",
+            "zip": "00928",
+            "lat": 18.4,
+            "lon": -66.05,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Natural G.C. Inc.",
+            "org": "Natural G.C. Inc",
+            "as": "AS396899 Natural G.C. Inc.",
+            "query": "172.99.187.33",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.63
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -17,10 +55,29 @@
             "isp": "Boom NET",
             "org": "Boom NET",
             "as": "AS63393 BOOM NET",
-            "query": "192.203.0.250",
+            "query": "192.203.0.142",
             "type": "http",
             "port": "999",
-            "response_time": 4.82
+            "response_time": 6.86
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Cayey",
+            "city": "Cayey",
+            "zip": "",
+            "lat": 18.1119,
+            "lon": -66.166,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "OSNet Wireless",
+            "as": "AS21559 OSNET",
+            "query": "154.64.211.145",
+            "type": "http",
+            "port": "999",
+            "response_time": 7.45
         }
     ]
 }
