@@ -1,26 +1,45 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Myanmar",
             "countryCode": "MM",
-            "region": "17",
-            "regionName": "Shan State",
-            "city": "Tachilek",
-            "zip": "57130",
-            "lat": 20.4475,
-            "lon": 99.8808,
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.8409,
+            "lon": 96.1735,
             "timezone": "Asia/Yangon",
-            "isp": "Shwe Mahar MAE Khong Industrial Company Limited",
-            "org": "Shwe Mahar MAE Khong Industrial Company Limited",
-            "as": "AS140091 SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED",
-            "query": "103.153.202.0",
+            "isp": "Myanma Post & Telecommunication",
+            "org": "",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "203.81.69.126",
             "type": "http",
-            "port": "8181",
-            "response_time": 7.09
+            "port": "1248",
+            "response_time": 6.77
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Global Technology Co",
+            "org": "",
+            "as": "AS133524 Global Technology Co., Ltd.",
+            "query": "185.133.214.90",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.02
         }
     ]
 }
