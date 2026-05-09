@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.26
+            "response_time": 0.53
         },
         {
             "status": "success",
@@ -39,26 +39,64 @@
             "query": "185.248.245.119",
             "type": "socks4",
             "port": "80",
-            "response_time": 3.59
+            "response_time": 0.68
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "82",
-            "regionName": "Sicily",
-            "city": "Bronte",
-            "zip": "95034",
-            "lat": 37.7891,
-            "lon": 14.8293,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
             "timezone": "Europe/Rome",
-            "isp": "Wicomm SRLS",
-            "org": "Wicomm SRLS",
-            "as": "AS212696 Wicomm SRLS",
-            "query": "185.195.129.116",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 7.6
+            "port": "4145",
+            "response_time": 2.96
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
+            "timezone": "Europe/Rome",
+            "isp": "Aruba S.p.A.",
+            "org": "Aruba S.p.A.",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "77.81.230.90",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 4.12
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
+            "type": "http",
+            "port": "8081",
+            "response_time": 5.94
         }
     ]
 }
