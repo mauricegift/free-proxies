@@ -1,8 +1,27 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 14,
+    "count": 18,
     "proxies": [
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75001",
+            "lat": 48.8558,
+            "lon": 2.3494,
+            "timezone": "Europe/Paris",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "158.178.198.31",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.1
+        },
         {
             "status": "success",
             "country": "France",
@@ -20,7 +39,7 @@
             "query": "164.132.168.87",
             "type": "socks4",
             "port": "50161",
-            "response_time": 0.14
+            "response_time": 0.23
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "164.132.168.87",
             "type": "socks5",
             "port": "50161",
-            "response_time": 0.14
+            "response_time": 0.23
         },
         {
             "status": "success",
@@ -48,17 +67,17 @@
             "region": "IDF",
             "regionName": "\u00cele-de-France",
             "city": "Paris",
-            "zip": "75001",
-            "lat": 48.8558,
-            "lon": 2.3494,
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
             "timezone": "Europe/Paris",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "158.178.198.31",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.17
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-3)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.38.217.179",
+            "type": "http",
+            "port": "8082",
+            "response_time": 0.26
         },
         {
             "status": "success",
@@ -74,10 +93,10 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "86.104.74.110",
-            "type": "socks4",
+            "query": "94.131.118.39",
+            "type": "http",
             "port": "1081",
-            "response_time": 0.2
+            "response_time": 0.31
         },
         {
             "status": "success",
@@ -90,32 +109,13 @@
             "lat": 48.8566,
             "lon": 2.35222,
             "timezone": "Europe/Paris",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-3)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.44.97.6",
+            "query": "52.47.115.41",
             "type": "http",
-            "port": "8649",
-            "response_time": 0.45
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "GES",
-            "regionName": "Grand Est",
-            "city": "Lauterbourg",
-            "zip": "67630",
-            "lat": 48.9742,
-            "lon": 8.1851,
-            "timezone": "Europe/Paris",
-            "isp": "Contabo GmbH",
-            "org": "Contabo GmbH",
-            "as": "AS51167 Contabo GmbH",
-            "query": "38.242.212.16",
-            "type": "http",
-            "port": "3128",
-            "response_time": 3.16
+            "port": "30037",
+            "response_time": 0.46
         },
         {
             "status": "success",
@@ -133,8 +133,8 @@
             "as": "AS16276 OVH SAS",
             "query": "217.182.195.221",
             "type": "http",
-            "port": "30003",
-            "response_time": 3.34
+            "port": "30000",
+            "response_time": 1.1
         },
         {
             "status": "success",
@@ -153,7 +153,26 @@
             "query": "173.212.246.157",
             "type": "http",
             "port": "3128",
-            "response_time": 4.01
+            "response_time": 2.72
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "HDF",
+            "regionName": "Hauts-de-France",
+            "city": "Roubaix",
+            "zip": "59100",
+            "lat": 50.6924,
+            "lon": 3.20113,
+            "timezone": "Europe/Paris",
+            "isp": "OVH SAS",
+            "org": "VPS static ips",
+            "as": "AS16276 OVH SAS",
+            "query": "37.59.110.73",
+            "type": "http",
+            "port": "80",
+            "response_time": 5.31
         },
         {
             "status": "success",
@@ -169,29 +188,10 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "173.212.245.136",
+            "query": "38.242.212.16",
             "type": "http",
-            "port": "8888",
-            "response_time": 5.55
-        },
-        {
-            "status": "success",
-            "country": "France",
-            "countryCode": "FR",
-            "region": "GES",
-            "regionName": "Grand Est",
-            "city": "Lauterbourg",
-            "zip": "67630",
-            "lat": 48.9742,
-            "lon": 8.1851,
-            "timezone": "Europe/Paris",
-            "isp": "Contabo GmbH",
-            "org": "Contabo GmbH",
-            "as": "AS51167 Contabo GmbH",
-            "query": "37.60.237.110",
-            "type": "http",
-            "port": "30001",
-            "response_time": 6.52
+            "port": "3128",
+            "response_time": 5.89
         },
         {
             "status": "success",
@@ -210,7 +210,7 @@
             "query": "37.44.238.2",
             "type": "socks4",
             "port": "57167",
-            "response_time": 6.92
+            "response_time": 7.34
         },
         {
             "status": "success",
@@ -226,10 +226,48 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "173.212.248.42",
+            "query": "62.171.161.88",
             "type": "http",
-            "port": "3128",
-            "response_time": 7.66
+            "port": "2018",
+            "response_time": 7.48
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "37.60.237.110",
+            "type": "http",
+            "port": "30001",
+            "response_time": 7.76
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "ARA",
+            "regionName": "Rh\u00f4ne-Alpes",
+            "city": "Issoire",
+            "zip": "63500",
+            "lat": 45.5498,
+            "lon": 3.2491,
+            "timezone": "Europe/Paris",
+            "isp": "Abeille Sarl",
+            "org": "Beeip",
+            "as": "AS203500 ABEILLE SARL",
+            "query": "185.178.185.100",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.91
         },
         {
             "status": "success",
@@ -245,10 +283,10 @@
             "isp": "OVH SAS",
             "org": "OVH SAS",
             "as": "AS16276 OVH SAS",
-            "query": "151.80.33.14",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 7.96
+            "query": "37.187.109.70",
+            "type": "http",
+            "port": "10111",
+            "response_time": 9.59
         },
         {
             "status": "success",
@@ -264,10 +302,48 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "185.234.64.65",
+            "query": "185.234.64.63",
             "type": "http",
+            "port": "1081",
+            "response_time": 10.2
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.62",
+            "type": "socks4",
             "port": "1082",
-            "response_time": 13.22
+            "response_time": 11.89
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8575,
+            "lon": 2.35138,
+            "timezone": "Europe/Paris",
+            "isp": "FBW NETWORKS SAS",
+            "org": "FBW NETWORKS",
+            "as": "AS34534 FBW NETWORKS SAS",
+            "query": "37.44.238.2",
+            "type": "socks4",
+            "port": "60796",
+            "response_time": 13.15
         }
     ]
 }
