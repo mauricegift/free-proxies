@@ -1,27 +1,8 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lagos",
-            "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
-            "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.220.1",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.14
-        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -39,7 +20,45 @@
             "query": "154.113.170.1",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.82
+            "response_time": 1.71
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "Visual ICT",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.17.107",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.97
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
+            "zip": "",
+            "lat": 9.0567,
+            "lon": 7.4969,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.209.162",
+            "type": "http",
+            "port": "8082",
+            "response_time": 9.17
         }
     ]
 }
