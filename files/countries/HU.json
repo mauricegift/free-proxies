@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "91.147.235.162",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.78
+            "response_time": 2.75
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BK",
+            "regionName": "B\u00e1cs-Kiskun",
+            "city": "Kecskem\u00e9t",
+            "zip": "6000",
+            "lat": 46.905,
+            "lon": 19.6958,
+            "timezone": "Europe/Budapest",
+            "isp": "Deltakon Kft.",
+            "org": "Deltanet Internet",
+            "as": "AS209001 DELTAKON KFT.",
+            "query": "95.214.123.11",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.76
         }
     ]
 }
