@@ -1,8 +1,27 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P2",
+            "regionName": "Madhesh",
+            "city": "Mahottari",
+            "zip": "",
+            "lat": 26.6861,
+            "lon": 85.8218,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Subisu Cablenet",
+            "org": "SUBISU Retail Pool15",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "182.93.75.162",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.3
+        },
         {
             "status": "success",
             "country": "Nepal",
@@ -11,16 +30,16 @@
             "regionName": "Bagmati Province",
             "city": "Kathmandu",
             "zip": "",
-            "lat": 27.7017,
-            "lon": 85.3206,
+            "lat": 27.7108,
+            "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
-            "isp": "Classic Tech Pvt. Ltd",
-            "org": "ClassicTech",
-            "as": "AS55915 Classic Tech Pvt. Ltd.",
-            "query": "103.1.93.184",
-            "type": "http",
-            "port": "55443",
-            "response_time": 9.0
+            "isp": "WorldLink Communications",
+            "org": "",
+            "as": "AS17501 WorldLink Communications Pvt Ltd",
+            "query": "202.79.35.143",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 9.24
         }
     ]
 }
