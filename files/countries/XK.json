@@ -1,8 +1,27 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Prizren",
+            "city": "Malisheva",
+            "zip": "",
+            "lat": 42.4822,
+            "lon": 20.7458,
+            "timezone": "Europe/Belgrade",
+            "isp": "Artmotion Sh.P.K.",
+            "org": "Artmotion",
+            "as": "AS33983 ARTMOTION SH.P.K.",
+            "query": "84.22.48.150",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.69
+        },
         {
             "status": "success",
             "country": "Kosovo",
@@ -20,7 +39,7 @@
             "query": "188.93.112.240",
             "type": "http",
             "port": "8080",
-            "response_time": 2.38
+            "response_time": 4.75
         }
     ]
 }
