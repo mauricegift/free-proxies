@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,70 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Business Custommers",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Enterprise",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.74.8",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 1.22
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "07",
+            "regionName": "Kuk\u00ebs County",
+            "city": "Krum\u00eb",
+            "zip": "",
+            "lat": 42.1992,
+            "lon": 20.4105,
+            "timezone": "Europe/Tirane",
+            "isp": "shqiponjaisp.al LLC",
             "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "77.242.21.133",
+            "as": "AS206088 shqiponjaisp.al LLC",
+            "query": "185.196.182.22",
             "type": "http",
             "port": "8080",
-            "response_time": 8.11
+            "response_time": 4.34
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Abissnet ISP",
+            "org": "",
+            "as": "AS35047 Abissnet sh.a.",
+            "query": "80.91.116.129",
+            "type": "http",
+            "port": "8081",
+            "response_time": 5.1
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Durr\u00ebs",
+            "zip": "",
+            "lat": 41.3287,
+            "lon": 19.4494,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Sh.A",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "66.186.199.33",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.51
         }
     ]
 }
