@@ -1,7 +1,7 @@
 {
     "countryCode": "UG",
     "country": "Uganda",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "196.0.111.194",
             "type": "socks4",
             "port": "48009",
-            "response_time": 6.19
+            "response_time": 1.21
+        },
+        {
+            "status": "success",
+            "country": "Uganda",
+            "countryCode": "UG",
+            "region": "C",
+            "regionName": "Central Region",
+            "city": "Kampala",
+            "zip": "",
+            "lat": 0.321,
+            "lon": 32.5714,
+            "timezone": "Africa/Kampala",
+            "isp": "Uganda Telecom Ltd",
+            "org": "UTL",
+            "as": "AS21491 Uganda Telecom",
+            "query": "196.0.111.186",
+            "type": "socks4",
+            "port": "46048",
+            "response_time": 1.27
         }
     ]
 }
