@@ -1,7 +1,7 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.98.208.98",
             "type": "socks4",
             "port": "28000",
-            "response_time": 1.3
+            "response_time": 3.62
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "BL",
+            "regionName": "Bratislava Region",
+            "city": "Pezinok",
+            "zip": "902 01",
+            "lat": 48.2899,
+            "lon": 17.2666,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Radiolan",
+            "as": "AS43451 Slovanet a.s.",
+            "query": "188.121.168.60",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.7
         }
     ]
 }
