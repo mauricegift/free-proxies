@@ -1,7 +1,7 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "67.206.213.202",
             "type": "socks4",
             "port": "55555",
-            "response_time": 3.88
+            "response_time": 0.99
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Adjuntas",
+            "city": "Adjuntas",
+            "zip": "",
+            "lat": 18.1627,
+            "lon": -66.7221,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Alphanet Corp",
+            "org": "Alphanet Corp",
+            "as": "AS400354 ALPHANET CORP",
+            "query": "23.138.88.96",
+            "type": "http",
+            "port": "999",
+            "response_time": 3.15
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Humacao",
+            "city": "Candelero Arriba",
+            "zip": "",
+            "lat": 18.1019,
+            "lon": -65.8368,
+            "timezone": "America/Puerto_Rico",
+            "isp": "BNET",
+            "org": "OSNET Wireless",
+            "as": "AS401013 BNET",
+            "query": "198.52.243.21",
+            "type": "http",
+            "port": "9999",
+            "response_time": 9.29
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Humacao",
+            "city": "Candelero Arriba",
+            "zip": "",
+            "lat": 18.1019,
+            "lon": -65.8368,
+            "timezone": "America/Puerto_Rico",
+            "isp": "BNET",
+            "org": "OSNET Wireless",
+            "as": "AS401013 BNET",
+            "query": "198.52.243.3",
+            "type": "http",
+            "port": "9999",
+            "response_time": 11.0
         }
     ]
 }
