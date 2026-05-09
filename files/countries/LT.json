@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "KL",
+            "regionName": "Klaip\u0117da County",
+            "city": "Klaip\u0117da",
+            "zip": "91001",
+            "lat": 55.7158,
+            "lon": 21.111,
+            "timezone": "Europe/Vilnius",
+            "isp": "Balticum TV network",
+            "org": "",
+            "as": "AS39007 UAB Balticum TV",
+            "query": "86.100.63.246",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.29
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -10,17 +29,17 @@
             "region": "VL",
             "regionName": "Vilnius",
             "city": "Vilnius",
-            "zip": "14007",
+            "zip": "02021",
             "lat": 54.6876,
             "lon": 25.2806,
             "timezone": "Europe/Vilnius",
-            "isp": "BALTNET",
-            "org": "",
-            "as": "AS15440 UAB Baltnetos komunikacijos",
-            "query": "213.197.136.218",
+            "isp": "Hostinger International Limited",
+            "org": "Hostinger International Limited",
+            "as": "AS47583 Hostinger International Limited",
+            "query": "194.31.52.201",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 0.42
+            "port": "1080",
+            "response_time": 0.46
         }
     ]
 }
