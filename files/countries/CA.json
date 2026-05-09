@@ -1,27 +1,8 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 6,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "M3C",
-            "lat": 43.7338,
-            "lon": -79.3325,
-            "timezone": "America/Toronto",
-            "isp": "BrainStorm Network, Inc",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "185.196.61.181",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 3.57
-        },
         {
             "status": "success",
             "country": "Canada",
@@ -39,7 +20,7 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.75
+            "response_time": 1.66
         },
         {
             "status": "success",
@@ -58,64 +39,26 @@
             "query": "174.114.24.95",
             "type": "http",
             "port": "3128",
-            "response_time": 4.2
+            "response_time": 2.73
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5029,
-            "lon": -73.5723,
-            "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "192.99.44.178",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.82
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Mississauga",
-            "zip": "L5J",
-            "lat": 43.5119,
-            "lon": -79.6299,
-            "timezone": "America/Toronto",
-            "isp": "Ontario Inc.",
-            "org": "UNIXCHOSTING.COM",
-            "as": "AS40028 1651884 Ontario Inc.",
-            "query": "192.158.15.201",
+            "region": "BC",
+            "regionName": "British Columbia",
+            "city": "Vancouver",
+            "zip": "V5Z",
+            "lat": 49.2827,
+            "lon": -123.121,
+            "timezone": "America/Vancouver",
+            "isp": "GLOBALTELEHOST Corp.",
+            "org": "Inetcloud",
+            "as": "AS62563 GLOBALTELEHOST Corp.",
+            "query": "193.108.58.29",
             "type": "socks4",
-            "port": "50877",
-            "response_time": 7.66
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "NT",
-            "regionName": "Northwest Territories",
-            "city": "Yellowknife",
-            "zip": "X1A",
-            "lat": 62.456,
-            "lon": -114.3525,
-            "timezone": "America/Edmonton",
-            "isp": "Northwestel Inc.",
-            "org": "Northwestel Inc",
-            "as": "AS6058 Northwestel Inc.",
-            "query": "50.117.253.214",
-            "type": "socks4",
-            "port": "9051",
-            "response_time": 10.91
+            "port": "1080",
+            "response_time": 11.75
         }
     ]
 }
