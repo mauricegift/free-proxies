@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "213.6.68.210",
             "type": "socks4",
             "port": "4145",
-            "response_time": 8.08
+            "response_time": 1.6
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Dhann\u0101bah",
+            "zip": "",
+            "lat": 32.3134,
+            "lon": 35.0414,
+            "timezone": "Asia/Hebron",
+            "isp": "Gemzo information technology Private Joint-Stock company",
+            "org": "Gemzo information technology Private Joint-Stock company",
+            "as": "AS51336 Gemzo information technology Private Joint-Stock company",
+            "query": "178.214.80.27",
+            "type": "http",
+            "port": "1981",
+            "response_time": 7.03
         }
     ]
 }
