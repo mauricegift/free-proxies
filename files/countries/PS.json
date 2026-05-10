@@ -1,26 +1,26 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
-            "country": "Palestine",
+            "country": "Palestinian Territory",
             "countryCode": "PS",
-            "region": "RBH",
-            "regionName": "Ramallah and al-Bireh Governorate",
+            "region": "",
+            "regionName": "West Bank",
             "city": "Ramallah",
             "zip": "",
-            "lat": 31.9014,
-            "lon": 35.1999,
+            "lat": 31.9038,
+            "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "DSL -PALTEL",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.249.37",
-            "type": "http",
-            "port": "18000",
-            "response_time": 1.01
+            "isp": "BNET network",
+            "org": "",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.26",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.18
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "46.60.15.42",
             "type": "http",
             "port": "8082",
-            "response_time": 3.39
-        },
-        {
-            "status": "success",
-            "country": "Palestinian Territory",
-            "countryCode": "PS",
-            "region": "",
-            "regionName": "West Bank",
-            "city": "Nablus",
-            "zip": "",
-            "lat": 32.2227,
-            "lon": 35.2621,
-            "timezone": "Asia/Hebron",
-            "isp": "PALTEL",
-            "org": "",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "195.123.166.125",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 4.75
-        },
-        {
-            "status": "success",
-            "country": "Palestinian Territory",
-            "countryCode": "PS",
-            "region": "",
-            "regionName": "West Bank",
-            "city": "Ramallah",
-            "zip": "",
-            "lat": 31.9038,
-            "lon": 35.2034,
-            "timezone": "Asia/Hebron",
-            "isp": "BCI Telecommunication & Advanced Technology Company",
-            "org": "Bnet Network",
-            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.217",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.75
+            "response_time": 5.2
         }
     ]
 }
