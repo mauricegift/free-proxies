@@ -1,8 +1,27 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 7,
+    "count": 9,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "Angkor Data Communication",
+            "org": "Mekongnet SR",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "202.178.114.61",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.99
+        },
         {
             "status": "success",
             "country": "Cambodia",
@@ -17,10 +36,29 @@
             "isp": "VIETTEL (CAMBODIA) PTE., LTD",
             "org": "Viettel (cambodia) Pte., Ltd.",
             "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.189.64",
+            "query": "36.37.244.41",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.06
+            "response_time": 2.03
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "COGETEL Co., Ltd",
+            "org": "Cogetel Ltd",
+            "as": "AS23673 Cogetel Online, Cambodia, ISP",
+            "query": "124.248.164.36",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.15
         },
         {
             "status": "success",
@@ -36,48 +74,10 @@
             "isp": "EZECOM CO., LTD.",
             "org": "EZECOM limited",
             "as": "AS38901 EZECOM CO., LTD.",
-            "query": "110.74.195.152",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.31
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "12",
-            "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
-            "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "WiCAM Corporation Ltd",
-            "org": "WiCAM Corporation, LTD",
-            "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "119.15.84.74",
+            "query": "110.74.195.34",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.03
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "12",
-            "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
-            "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "MEKONGNET",
-            "org": "",
-            "as": "AS38235 ANGKOR DATA COMMUNICATION",
-            "query": "203.171.252.7",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.72
+            "port": "25",
+            "response_time": 4.02
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "49.156.44.115",
             "type": "http",
             "port": "8080",
-            "response_time": 5.17
+            "response_time": 5.65
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "EZECOM CO., LTD.",
+            "org": "EZECOM limited",
+            "as": "AS38901 EZECOM CO., LTD.",
+            "query": "110.74.206.40",
+            "type": "http",
+            "port": "8181",
+            "response_time": 6.35
         },
         {
             "status": "success",
@@ -115,7 +134,7 @@
             "query": "36.37.147.34",
             "type": "http",
             "port": "8080",
-            "response_time": 5.76
+            "response_time": 6.4
         },
         {
             "status": "success",
@@ -131,10 +150,29 @@
             "isp": "VIETTEL (CAMBODIA) PTE., LTD",
             "org": "Viettel (cambodia) Pte., Ltd.",
             "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.251.137",
+            "query": "175.100.35.103",
             "type": "http",
             "port": "8080",
-            "response_time": 6.57
+            "response_time": 12.08
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "WiCAM Corporation",
+            "org": "WiCAM Corporation Ltd.",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "49.156.44.10",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.12
         }
     ]
 }
