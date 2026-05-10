@@ -1,27 +1,8 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 8,
+    "count": 11,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western District",
-            "city": "Hong Kong",
-            "zip": "",
-            "lat": 22.3193,
-            "lon": 114.1693,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Google LLC",
-            "org": "Google Cloud (asia-east2)",
-            "as": "AS396982 Google LLC",
-            "query": "34.96.238.40",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.16
-        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -33,13 +14,32 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.129.80.138",
+            "isp": "Alibaba.com LLC",
+            "org": "IPXO LLC, Zenlayer Inc, Delta Centric LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.83.168.191",
+            "type": "http",
+            "port": "4000",
+            "response_time": 2.6
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
             "type": "socks4",
-            "port": "18999",
-            "response_time": 5.13
+            "port": "1080",
+            "response_time": 2.64
         },
         {
             "status": "success",
@@ -58,26 +58,26 @@
             "query": "91.103.123.248",
             "type": "socks4",
             "port": "444",
-            "response_time": 6.27
+            "response_time": 2.83
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
+            "region": "NNO",
+            "regionName": "North District",
+            "city": "Fanling",
+            "zip": "",
+            "lat": 22.4932,
+            "lon": 114.146,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.217.90.107",
+            "isp": "Tele Asia Limited",
+            "org": "Tele Asia Limited",
+            "as": "AS133398 Tele Asia Limited",
+            "query": "45.125.67.37",
             "type": "http",
-            "port": "22520",
-            "response_time": 7.93
+            "port": "8443",
+            "response_time": 4.41
         },
         {
             "status": "success",
@@ -96,7 +96,7 @@
             "query": "45.146.243.133",
             "type": "http",
             "port": "1080",
-            "response_time": 8.51
+            "response_time": 5.24
         },
         {
             "status": "success",
@@ -115,7 +115,7 @@
             "query": "45.146.243.133",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.51
+            "response_time": 5.24
         },
         {
             "status": "success",
@@ -134,7 +134,45 @@
             "query": "139.198.113.42",
             "type": "http",
             "port": "10023",
-            "response_time": 14.34
+            "response_time": 5.58
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.28
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Corenet Cloud Sdn. Bhd.",
+            "org": "G NETWORK LLC",
+            "as": "AS154321 CORENET CLOUD SDN. BHD.",
+            "query": "162.211.180.216",
+            "type": "socks4",
+            "port": "10808",
+            "response_time": 8.01
         },
         {
             "status": "success",
@@ -151,9 +189,28 @@
             "org": "NetLab Global",
             "as": "AS979 NetLab Global",
             "query": "154.37.213.90",
-            "type": "http",
-            "port": "3128",
-            "response_time": 15.35
+            "type": "socks4",
+            "port": "10808",
+            "response_time": 8.3
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Mong Kok",
+            "zip": "96521",
+            "lat": 22.3151,
+            "lon": 114.1743,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Cogent Communications",
+            "org": "FOJ IP TECHNOLOGY LIMITED",
+            "as": "AS8796 FASTNET DATA INC",
+            "query": "154.12.94.120",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 16.19
         }
     ]
 }
