@@ -1,8 +1,27 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Pristina",
+            "zip": "",
+            "lat": 42.6582,
+            "lon": 21.1555,
+            "timezone": "Europe/Belgrade",
+            "isp": "Kujtesa Network",
+            "org": "Kujtesa Net Sh.p.k.",
+            "as": "AS29170 Kujtesa Net Sh.p.k.",
+            "query": "82.114.92.222",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.58
+        },
         {
             "status": "success",
             "country": "Kosovo",
@@ -20,7 +39,7 @@
             "query": "46.99.178.155",
             "type": "http",
             "port": "1339",
-            "response_time": 6.5
+            "response_time": 6.53
         }
     ]
 }
