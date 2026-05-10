@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,83 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.42
+            "response_time": 0.19
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Desenzano del Garda",
+            "zip": "25015",
+            "lat": 45.4677,
+            "lon": 10.5383,
+            "timezone": "Europe/Rome",
+            "isp": "Mynet S.R.L.",
+            "org": "Mynet",
+            "as": "AS31263 MYNET S.R.L.",
+            "query": "84.247.236.86",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 0.25
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.33
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Furnari",
+            "zip": "98054",
+            "lat": 38.1031,
+            "lon": 15.1206,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "2.115.212.62",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 2.72
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
+            "timezone": "Europe/Rome",
+            "isp": "Aruba S.p.A. Network",
+            "org": "Aruba S.p.A. - Cloud Services",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "80.211.131.230",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 9.24
         },
         {
             "status": "success",
@@ -39,7 +115,7 @@
             "query": "5.253.43.103",
             "type": "http",
             "port": "3128",
-            "response_time": 4.71
+            "response_time": 10.29
         }
     ]
 }
