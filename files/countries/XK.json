@@ -1,7 +1,7 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "84.22.48.28",
             "type": "http",
             "port": "8080",
-            "response_time": 0.66
+            "response_time": 2.11
         },
         {
             "status": "success",
             "country": "Kosovo",
             "countryCode": "XK",
             "region": "",
-            "regionName": "Gjilan",
-            "city": "Gjilan",
+            "regionName": "Prizren",
+            "city": "Malisheva",
             "zip": "",
-            "lat": 42.4604,
-            "lon": 21.4699,
+            "lat": 42.4822,
+            "lon": 20.7458,
             "timezone": "Europe/Belgrade",
-            "isp": "Kamenicanet sh.p.k",
-            "org": "KamenicaNet",
-            "as": "AS210693 Kamenicanet sh.p.k",
-            "query": "188.93.112.240",
+            "isp": "Artmotion Sh.P.K.",
+            "org": "Artmotion",
+            "as": "AS33983 ARTMOTION SH.P.K.",
+            "query": "84.22.48.150",
             "type": "http",
             "port": "8080",
-            "response_time": 6.83
+            "response_time": 3.24
+        },
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Pristina",
+            "zip": "",
+            "lat": 42.6629,
+            "lon": 21.1655,
+            "timezone": "Europe/Belgrade",
+            "isp": "IPKO Telecommunications LLC",
+            "org": "",
+            "as": "AS21246 IPKO Telecommunications LLC",
+            "query": "46.99.178.155",
+            "type": "http",
+            "port": "1339",
+            "response_time": 9.88
         }
     ]
 }
