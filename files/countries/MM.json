@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "37.111.53.31",
             "type": "http",
             "port": "8080",
-            "response_time": 1.26
+            "response_time": 2.36
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7855,
+            "lon": 96.151,
+            "timezone": "Asia/Yangon",
+            "isp": "Telecom International Myanmar Company Limited",
+            "org": "",
+            "as": "AS136255 Telecom International Myanmar Co., Ltd",
+            "query": "202.165.92.206",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.21
         }
     ]
 }
