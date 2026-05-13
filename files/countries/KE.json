@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 5,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "EstNOC OU",
-            "org": "ESTNOC-GLOBAL",
-            "as": "AS206804 EstNOC OU",
-            "query": "45.138.86.52",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.16.226",
             "type": "http",
-            "port": "1433",
-            "response_time": 5.01
+            "port": "8080",
+            "response_time": 6.14
         },
         {
             "status": "success",
@@ -39,64 +39,7 @@
             "query": "102.0.11.176",
             "type": "http",
             "port": "8080",
-            "response_time": 7.05
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Airtel KE Mobile & Fixed Internet",
-            "org": "",
-            "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "154.159.247.119",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.68
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "12",
-            "regionName": "Kericho County",
-            "city": "Litein",
-            "zip": "",
-            "lat": -0.58249,
-            "lon": 35.1897,
-            "timezone": "Africa/Nairobi",
-            "isp": "Alwen Networks Co. Limited",
-            "org": "Alwen Networks Co. Limited",
-            "as": "AS329452 Alwen Networks Co. Limited",
-            "query": "102.208.166.30",
-            "type": "http",
-            "port": "8082",
-            "response_time": 12.59
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Unwired Communications Ltd",
-            "org": "",
-            "as": "AS328490 Unwired Communications Limited",
-            "query": "102.211.145.161",
-            "type": "http",
-            "port": "8081",
-            "response_time": 16.46
+            "response_time": 8.62
         }
     ]
 }
