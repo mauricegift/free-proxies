@@ -1,8 +1,46 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5074,
+            "lon": -0.127758,
+            "timezone": "Europe/London",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.56.167.111",
+            "type": "http",
+            "port": "1490",
+            "response_time": 1.37
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "City of London",
+            "zip": "WC2N",
+            "lat": 51.5209,
+            "lon": -0.0720854,
+            "timezone": "Europe/London",
+            "isp": "Limited Network LTD",
+            "org": "Secure Internet LLC",
+            "as": "AS213790 Limited Network LTD",
+            "query": "172.94.9.88",
+            "type": "http",
+            "port": "60000",
+            "response_time": 3.02
+        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -20,7 +58,7 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 3.05
+            "response_time": 3.48
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "52.56.167.111",
             "type": "http",
             "port": "29186",
-            "response_time": 7.86
+            "response_time": 3.5
         }
     ]
 }
