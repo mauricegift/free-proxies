@@ -1,8 +1,27 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AR",
+            "regionName": "Aragon",
+            "city": "Zaragoza",
+            "zip": "50001",
+            "lat": 41.6537,
+            "lon": -0.873924,
+            "timezone": "Europe/Madrid",
+            "isp": "YSZ TRADING CO., LIMITED",
+            "org": "Redestel Networks S.L",
+            "as": "AS211484 YSZ TRADING CO., LIMITED",
+            "query": "213.220.3.38",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.8
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,7 +39,7 @@
             "query": "88.1.150.79",
             "type": "http",
             "port": "3128",
-            "response_time": 4.54
+            "response_time": 6.95
         }
     ]
 }
