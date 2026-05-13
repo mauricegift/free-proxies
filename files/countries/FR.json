@@ -1,26 +1,26 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
             "country": "France",
             "countryCode": "FR",
-            "region": "HDF",
-            "regionName": "Hauts-de-France",
-            "city": "Valenciennes",
-            "zip": "59300",
-            "lat": 50.3571,
-            "lon": 3.51833,
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
             "timezone": "Europe/Paris",
-            "isp": "global",
-            "org": "",
-            "as": "AS197922 Techcrea Solutions SAS",
-            "query": "185.41.152.110",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "173.212.245.136",
             "type": "http",
-            "port": "3128",
-            "response_time": 3.49
+            "port": "8888",
+            "response_time": 2.68
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "38.242.212.16",
+            "query": "173.212.246.157",
             "type": "http",
             "port": "3128",
-            "response_time": 5.2
+            "response_time": 6.22
         },
         {
             "status": "success",
@@ -58,7 +58,45 @@
             "query": "91.121.63.51",
             "type": "http",
             "port": "1080",
-            "response_time": 7.48
+            "response_time": 9.78
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "38.242.212.16",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.32
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "BFC",
+            "regionName": "Bourgogne",
+            "city": "Mathay",
+            "zip": "25700",
+            "lat": 47.438,
+            "lon": 6.7881,
+            "timezone": "Europe/Paris",
+            "isp": "ABJP",
+            "org": "",
+            "as": "AS47484 ABJP SERVICES SAS",
+            "query": "45.13.116.215",
+            "type": "http",
+            "port": "21537",
+            "response_time": 13.41
         },
         {
             "status": "success",
@@ -67,17 +105,17 @@
             "region": "IDF",
             "regionName": "\u00cele-de-France",
             "city": "Paris",
-            "zip": "75001",
-            "lat": 48.8558,
-            "lon": 2.3494,
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
             "timezone": "Europe/Paris",
-            "isp": "SCALEWAY",
-            "org": "ONLINE",
-            "as": "AS12876 Scaleway SAS",
-            "query": "51.159.156.201",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "86.104.74.110",
             "type": "http",
-            "port": "3128",
-            "response_time": 9.94
+            "port": "1081",
+            "response_time": 17.94
         }
     ]
 }
