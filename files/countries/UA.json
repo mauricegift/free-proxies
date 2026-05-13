@@ -1,26 +1,45 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Ukraine",
             "countryCode": "UA",
-            "region": "53",
-            "regionName": "Poltava Oblast",
-            "city": "Dmitrovka",
-            "zip": "",
-            "lat": 49.3894,
-            "lon": 34.9613,
+            "region": "51",
+            "regionName": "Odesa",
+            "city": "Odesa",
+            "zip": "65020",
+            "lat": 46.4888,
+            "lon": 30.7474,
             "timezone": "Europe/Kyiv",
-            "isp": "RPC HomeNet Ltd.",
-            "org": "RPC HomeNet Ltd",
-            "as": "AS24812 RPC HomeNet Ltd.",
-            "query": "176.105.212.219",
+            "isp": "TOV TRK \"Briz\"",
+            "org": "Briz",
+            "as": "AS34661 BREEZE NETWORK",
+            "query": "213.231.7.10",
+            "type": "http",
+            "port": "8282",
+            "response_time": 8.82
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "61",
+            "regionName": "Ternopil Oblast",
+            "city": "Ternopil",
+            "zip": "46001",
+            "lat": 49.5535,
+            "lon": 25.5947,
+            "timezone": "Europe/Kiev",
+            "isp": "Columbus",
+            "org": "Lanet Network Ltd",
+            "as": "AS16223 MAXNET TELECOM, LTD",
+            "query": "5.58.97.89",
             "type": "http",
             "port": "8080",
-            "response_time": 6.59
+            "response_time": 9.42
         }
     ]
 }
