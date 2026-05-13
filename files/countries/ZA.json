@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "20.164.75.153",
             "type": "http",
             "port": "8080",
-            "response_time": 2.02
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -39,26 +39,45 @@
             "query": "102.212.44.151",
             "type": "http",
             "port": "12354",
-            "response_time": 4.29
+            "response_time": 2.06
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "George",
+            "zip": "6529",
+            "lat": -33.9638,
+            "lon": 22.4487,
             "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.223.29",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "169.255.78.190",
             "type": "http",
-            "port": "8104",
-            "response_time": 8.55
+            "port": "8865",
+            "response_time": 8.96
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "George",
+            "zip": "6560",
+            "lat": -33.9638,
+            "lon": 22.4487,
+            "timezone": "Africa/Johannesburg",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "169.255.77.150",
+            "type": "http",
+            "port": "8865",
+            "response_time": 11.62
         }
     ]
 }
