@@ -1,8 +1,27 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "01",
+            "regionName": "Central Singapore",
+            "city": "Singapore",
+            "zip": "048582",
+            "lat": 1.28009,
+            "lon": 103.851,
+            "timezone": "Asia/Singapore",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-southeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.142.120.165",
+            "type": "http",
+            "port": "37632",
+            "response_time": 3.18
+        },
         {
             "status": "success",
             "country": "Singapore",
@@ -14,13 +33,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Alibaba Cloud (Singapore) Private Limited",
-            "org": "Alibaba.com Singapore E-Commerce Private Limited",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.219.97.248",
+            "isp": "OVH SAS",
+            "org": "Ipxo LLC",
+            "as": "AS16276 OVH SAS",
+            "query": "206.206.126.177",
             "type": "http",
-            "port": "80",
-            "response_time": 2.98
+            "port": "2412",
+            "response_time": 6.4
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "167.71.222.124",
             "type": "http",
             "port": "10001",
-            "response_time": 10.89
+            "response_time": 8.45
         }
     ]
 }
