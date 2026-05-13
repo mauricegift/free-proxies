@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS16276 OVH SAS",
             "query": "57.128.188.167",
             "type": "http",
-            "port": "9059",
-            "response_time": 2.73
+            "port": "9002",
+            "response_time": 2.19
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Erith",
+            "zip": "DA8",
+            "lat": 51.4808,
+            "lon": 0.174675,
+            "timezone": "Europe/London",
+            "isp": "OVH SAS",
+            "org": "OVH Ltd",
+            "as": "AS16276 OVH SAS",
+            "query": "57.128.188.167",
+            "type": "http",
+            "port": "9028",
+            "response_time": 3.09
         },
         {
             "status": "success",
@@ -36,10 +55,29 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.122.129",
+            "query": "94.131.122.125",
             "type": "http",
-            "port": "1081",
-            "response_time": 15.97
+            "port": "1082",
+            "response_time": 15.29
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "City of London",
+            "zip": "WC2N",
+            "lat": 51.5209,
+            "lon": -0.0720854,
+            "timezone": "Europe/London",
+            "isp": "Limited Network LTD",
+            "org": "Secure Internet LLC",
+            "as": "AS213790 Limited Network LTD",
+            "query": "172.94.9.88",
+            "type": "http",
+            "port": "60000",
+            "response_time": 24.4
         }
     ]
 }
