@@ -1,7 +1,7 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 11,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "212.224.88.212",
             "type": "http",
             "port": "443",
-            "response_time": 0.84
+            "response_time": 0.4
         },
         {
             "status": "success",
@@ -30,16 +30,16 @@
             "regionName": "Hesse",
             "city": "Frankfurt am Main",
             "zip": "60313",
-            "lat": 50.1154,
-            "lon": 8.68058,
+            "lat": 50.1169,
+            "lon": 8.6837,
             "timezone": "Europe/Berlin",
-            "isp": "WAIcore Ltd",
-            "org": "WAIcore Ltd",
-            "as": "AS213887 WAIcore Ltd",
-            "query": "87.120.205.164",
+            "isp": "Fornex Hosting S.L.",
+            "org": "Fornex",
+            "as": "AS44051 Fornex Hosting S.L.",
+            "query": "162.248.166.17",
             "type": "http",
-            "port": "444",
-            "response_time": 0.88
+            "port": "1080",
+            "response_time": 1.27
         },
         {
             "status": "success",
@@ -49,35 +49,16 @@
             "regionName": "Hesse",
             "city": "Frankfurt am Main",
             "zip": "60313",
-            "lat": 50.1109,
-            "lon": 8.68213,
+            "lat": 50.1169,
+            "lon": 8.6837,
             "timezone": "Europe/Berlin",
-            "isp": "StormWall s.r.o.",
-            "org": "StormWall s.r.o",
-            "as": "AS59796 StormWall s.r.o.",
-            "query": "5.252.33.13",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "77.110.107.80",
             "type": "http",
-            "port": "2025",
-            "response_time": 2.29
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "BY",
-            "regionName": "Bavaria",
-            "city": "Nuremberg",
-            "zip": "90403",
-            "lat": 49.4527,
-            "lon": 11.0783,
-            "timezone": "Europe/Berlin",
-            "isp": "Hetzner Online GmbH",
-            "org": "Hetzner",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "116.203.139.209",
-            "type": "http",
-            "port": "5678",
-            "response_time": 2.99
+            "port": "8080",
+            "response_time": 1.66
         },
         {
             "status": "success",
@@ -96,7 +77,26 @@
             "query": "128.140.113.110",
             "type": "http",
             "port": "8081",
-            "response_time": 3.76
+            "response_time": 2.42
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1109,
+            "lon": 8.68213,
+            "timezone": "Europe/Berlin",
+            "isp": "StormWall s.r.o.",
+            "org": "StormWall s.r.o",
+            "as": "AS59796 StormWall s.r.o.",
+            "query": "5.252.33.13",
+            "type": "http",
+            "port": "2025",
+            "response_time": 2.51
         },
         {
             "status": "success",
@@ -115,64 +115,7 @@
             "query": "103.147.152.12",
             "type": "http",
             "port": "1095",
-            "response_time": 4.51
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1169,
-            "lon": 8.6837,
-            "timezone": "Europe/Berlin",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.230.28.51",
-            "type": "http",
-            "port": "1981",
-            "response_time": 8.4
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "SL",
-            "regionName": "Saarland",
-            "city": "Saarbr\u00fccken",
-            "zip": "66111",
-            "lat": 49.2405,
-            "lon": 6.98474,
-            "timezone": "Europe/Berlin",
-            "isp": "OVH SAS",
-            "org": "OVH GmbH",
-            "as": "AS16276 OVH SAS",
-            "query": "54.37.72.89",
-            "type": "http",
-            "port": "80",
-            "response_time": 9.43
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Limburg an der Lahn",
-            "zip": "65550",
-            "lat": 50.3986,
-            "lon": 8.07958,
-            "timezone": "Europe/Berlin",
-            "isp": "OVH SAS",
-            "org": "OVH GmbH",
-            "as": "AS16276 OVH SAS",
-            "query": "162.19.242.35",
-            "type": "http",
-            "port": "3128",
-            "response_time": 11.04
+            "response_time": 3.4
         },
         {
             "status": "success",
@@ -191,7 +134,45 @@
             "query": "103.147.152.12",
             "type": "http",
             "port": "1080",
-            "response_time": 12.87
+            "response_time": 7.79
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1169,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "U1 DIGITAL SERVICES LTD",
+            "org": "u1host ltd",
+            "as": "AS213877 U1 DIGITAL SERVICES LTD",
+            "query": "144.31.255.9",
+            "type": "http",
+            "port": "1080",
+            "response_time": 8.59
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "SN",
+            "regionName": "Saxony",
+            "city": "Falkenstein",
+            "zip": "08223",
+            "lat": 50.4777,
+            "lon": 12.3649,
+            "timezone": "Europe/Berlin",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "148.251.86.76",
+            "type": "http",
+            "port": "16379",
+            "response_time": 14.8
         },
         {
             "status": "success",
@@ -210,7 +191,7 @@
             "query": "45.134.39.140",
             "type": "http",
             "port": "3333",
-            "response_time": 13.48
+            "response_time": 15.61
         }
     ]
 }
