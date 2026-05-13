@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon Technologies Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.89.65",
+            "query": "40.177.99.164",
             "type": "http",
-            "port": "36743",
-            "response_time": 3.19
+            "port": "16640",
+            "response_time": 1.95
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "40.177.89.65",
             "type": "http",
             "port": "57488",
-            "response_time": 5.5
+            "response_time": 3.38
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Beauharnois",
+            "zip": "J6N",
+            "lat": 45.3161,
+            "lon": -73.8736,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc",
+            "as": "AS16276 OVH SAS",
+            "query": "54.39.154.107",
+            "type": "http",
+            "port": "8082",
+            "response_time": 15.9
         }
     ]
 }
