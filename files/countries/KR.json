@@ -1,27 +1,8 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 6,
+    "count": 7,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Seongnam-si",
-            "zip": "13606",
-            "lat": 37.3595,
-            "lon": 127.105,
-            "timezone": "Asia/Seoul",
-            "isp": "NAVER Cloud Corp",
-            "org": "NAVER Cloud Corp.",
-            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
-            "query": "106.10.55.212",
-            "type": "http",
-            "port": "1121",
-            "response_time": 1.75
-        },
         {
             "status": "success",
             "country": "South Korea",
@@ -39,26 +20,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 6.76
+            "response_time": 2.18
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Gwangmyeong",
-            "zip": "08520",
-            "lat": 37.4839,
-            "lon": 126.894,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "045",
+            "lat": 37.5656,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "HAIonNet",
+            "org": "Kornet",
             "as": "AS4766 Korea Telecom",
-            "query": "121.126.166.115",
+            "query": "210.223.44.230",
             "type": "http",
-            "port": "15648",
-            "response_time": 7.76
+            "port": "3128",
+            "response_time": 2.2
         },
         {
             "status": "success",
@@ -77,26 +58,45 @@
             "query": "121.126.166.118",
             "type": "http",
             "port": "15648",
-            "response_time": 10.69
+            "response_time": 8.53
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Gangseo-gu",
-            "zip": "076",
-            "lat": 37.5438,
-            "lon": 126.8538,
+            "region": "27",
+            "regionName": "Daegu",
+            "city": "Suseong-gu",
+            "zip": "422",
+            "lat": 35.8481,
+            "lon": 128.6968,
             "timezone": "Asia/Seoul",
-            "isp": "HAIonNet",
-            "org": "Uninex",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
             "as": "AS4766 Korea Telecom",
-            "query": "49.254.113.99",
+            "query": "220.81.123.23",
             "type": "http",
-            "port": "15648",
-            "response_time": 16.74
+            "port": "48678",
+            "response_time": 9.1
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "48",
+            "regionName": "Gyeongsangnam-do",
+            "city": "Jinju",
+            "zip": "526",
+            "lat": 35.1684,
+            "lon": 128.031,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "",
+            "as": "AS4766 Korea Telecom",
+            "query": "112.163.160.93",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.35
         },
         {
             "status": "success",
@@ -115,7 +115,26 @@
             "query": "49.254.245.66",
             "type": "http",
             "port": "15648",
-            "response_time": 18.68
+            "response_time": 12.82
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "146.56.164.121",
+            "type": "http",
+            "port": "3128",
+            "response_time": 13.12
         }
     ]
 }
