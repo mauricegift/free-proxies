@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,35 +11,16 @@
             "regionName": "Lombardy",
             "city": "Milan",
             "zip": "20121",
-            "lat": 45.4642,
-            "lon": 9.18998,
+            "lat": 45.4681,
+            "lon": 9.2011,
             "timezone": "Europe/Rome",
-            "isp": "Host SpA",
-            "org": "Host VDC",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.186.244",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.72
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "San Giovanni Valdarno",
-            "zip": "52027",
-            "lat": 43.5707,
-            "lon": 11.5331,
-            "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "91.192.25.158",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 2.42
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.161.59.54",
+            "type": "http",
+            "port": "7896",
+            "response_time": 2.7
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "185.191.106.41",
             "type": "http",
             "port": "8081",
-            "response_time": 2.65
+            "response_time": 4.15
         }
     ]
 }
