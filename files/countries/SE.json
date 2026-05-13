@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 59.3293,
             "lon": 18.0686,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon Technologies Inc.",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (eu-north-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.51.196.44",
+            "query": "13.60.181.61",
             "type": "http",
-            "port": "53339",
-            "response_time": 0.57
+            "port": "8090",
+            "response_time": 0.86
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "13.48.13.125",
             "type": "http",
             "port": "41078",
-            "response_time": 0.62
+            "response_time": 0.91
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.51.196.44",
+            "type": "http",
+            "port": "53339",
+            "response_time": 1.14
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.60.181.61",
+            "type": "http",
+            "port": "40274",
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -58,64 +96,7 @@
             "query": "13.60.163.108",
             "type": "http",
             "port": "36926",
-            "response_time": 0.66
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
-            "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.181.61",
-            "type": "http",
-            "port": "54790",
-            "response_time": 1.03
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
-            "timezone": "Europe/Stockholm",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.53.139.178",
-            "type": "http",
-            "port": "1668",
-            "response_time": 1.11
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
-            "timezone": "Europe/Stockholm",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.48.13.125",
-            "type": "http",
-            "port": "8540",
-            "response_time": 1.55
+            "response_time": 3.05
         }
     ]
 }
