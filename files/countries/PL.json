@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "18",
-            "regionName": "Subcarpathia",
-            "city": "Rzesz\u00f3w",
-            "zip": "35-213",
-            "lat": 50.0482,
-            "lon": 21.9329,
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "00-510",
+            "lat": 52.2297,
+            "lon": 21.0122,
             "timezone": "Europe/Warsaw",
-            "isp": "Skyware Sp. z o.o.",
-            "org": "Skyware Sp. z o.o",
-            "as": "AS42673 Skyware Sp. z o.o.",
-            "query": "91.150.189.122",
+            "isp": "Layer IT services",
+            "org": "Layer IT services",
+            "as": "AS208949 HBING LIMITED",
+            "query": "45.88.0.115",
             "type": "http",
-            "port": "30389",
-            "response_time": 1.67
+            "port": "3128",
+            "response_time": 0.69
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "32",
+            "regionName": "West Pomerania",
+            "city": "\u015awinouj\u015bcie",
+            "zip": "72-600",
+            "lat": 53.9105,
+            "lon": 14.2471,
+            "timezone": "Europe/Warsaw",
+            "isp": "Netia SA",
+            "org": "Netia",
+            "as": "AS12741 Netia SA",
+            "query": "78.9.232.205",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.05
         }
     ]
 }
