@@ -1,7 +1,7 @@
 {
     "countryCode": "AO",
     "country": "Angola",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Luanda Province",
             "city": "Luanda",
             "zip": "",
-            "lat": -8.8371,
-            "lon": 13.2333,
+            "lat": -8.81466,
+            "lon": 13.2302,
             "timezone": "Africa/Luanda",
-            "isp": "TV CABO ANGOLA LDA",
-            "org": "TVCabo Angola, Lda",
-            "as": "AS36907 TV CABO ANGOLA LDA",
-            "query": "154.127.219.242",
+            "isp": "MSBYTE-SOLUTION, LIMITADA",
+            "org": "MSBYTE-SOLUTION, LIMITADA",
+            "as": "AS329506 MSBYTE-SOLUTION,LIMITADA",
+            "query": "102.207.128.3",
             "type": "http",
-            "port": "999",
-            "response_time": 5.1
+            "port": "8080",
+            "response_time": 7.46
+        },
+        {
+            "status": "success",
+            "country": "Angola",
+            "countryCode": "AO",
+            "region": "LUA",
+            "regionName": "Luanda Province",
+            "city": "Luanda",
+            "zip": "",
+            "lat": -8.81466,
+            "lon": 13.2302,
+            "timezone": "Africa/Luanda",
+            "isp": "MSBYTE-SOLUTION, LIMITADA",
+            "org": "MSBYTE-SOLUTION, LIMITADA",
+            "as": "AS329506 MSBYTE-SOLUTION,LIMITADA",
+            "query": "102.207.128.2",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.3
         }
     ]
 }
