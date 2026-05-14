@@ -1,8 +1,27 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 8,
+    "count": 10,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
+            "timezone": "Europe/London",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.128",
+            "type": "http",
+            "port": "1081",
+            "response_time": 0.45
+        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -20,7 +39,7 @@
             "query": "57.129.144.178",
             "type": "http",
             "port": "40000",
-            "response_time": 0.73
+            "response_time": 0.49
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "52.56.167.111",
             "type": "http",
             "port": "41045",
-            "response_time": 0.74
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "City of London",
-            "zip": "EC2",
-            "lat": 51.5213,
-            "lon": -0.0815098,
-            "timezone": "Europe/London",
-            "isp": "Istqrar for Servers Services Ltd",
-            "org": "",
-            "as": "AS50053 VDSka hosting",
-            "query": "185.214.108.46",
-            "type": "http",
-            "port": "40000",
-            "response_time": 1.04
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Holborn",
-            "zip": "EC1",
-            "lat": 51.5175,
-            "lon": -0.12045,
-            "timezone": "Europe/London",
-            "isp": "WorkTitans B.V.",
-            "org": "WorkTitans B.V",
-            "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.122.125",
-            "type": "http",
-            "port": "1082",
-            "response_time": 1.26
+            "response_time": 0.59
         },
         {
             "status": "success",
@@ -95,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "52.56.167.111",
             "type": "http",
-            "port": "1490",
-            "response_time": 1.65
+            "port": "14161",
+            "response_time": 0.66
         },
         {
             "status": "success",
@@ -104,18 +85,37 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "City of London",
-            "zip": "WC2N",
-            "lat": 51.5209,
-            "lon": -0.0720854,
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5074,
+            "lon": -0.127758,
             "timezone": "Europe/London",
-            "isp": "Limited Network LTD",
-            "org": "Secure Internet LLC",
-            "as": "AS213790 Limited Network LTD",
-            "query": "172.94.9.88",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.41.196.179",
             "type": "http",
-            "port": "60000",
-            "response_time": 3.82
+            "port": "7693",
+            "response_time": 2.06
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5074,
+            "lon": -0.127758,
+            "timezone": "Europe/London",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.41.196.179",
+            "type": "http",
+            "port": "22077",
+            "response_time": 2.07
         },
         {
             "status": "success",
@@ -134,7 +134,45 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 3.93
+            "response_time": 2.39
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "City of London",
+            "zip": "EC2",
+            "lat": 51.5213,
+            "lon": -0.0815098,
+            "timezone": "Europe/London",
+            "isp": "Istqrar for Servers Services Ltd",
+            "org": "",
+            "as": "AS50053 VDSka hosting",
+            "query": "185.214.108.46",
+            "type": "http",
+            "port": "40000",
+            "response_time": 6.29
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Portsmouth",
+            "zip": "PO9",
+            "lat": 50.8514,
+            "lon": -0.9903,
+            "timezone": "Europe/London",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "94.72.109.196",
+            "type": "http",
+            "port": "3129",
+            "response_time": 7.88
         },
         {
             "status": "success",
@@ -150,10 +188,10 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.122.128",
+            "query": "94.131.122.125",
             "type": "http",
-            "port": "1082",
-            "response_time": 18.17
+            "port": "1081",
+            "response_time": 11.02
         }
     ]
 }
