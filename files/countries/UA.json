@@ -1,8 +1,27 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "63",
+            "regionName": "Kharkivs\u2019ka Oblast\u2019",
+            "city": "Kharkiv",
+            "zip": "61027",
+            "lat": 50.002,
+            "lon": 36.3074,
+            "timezone": "Europe/Kiev",
+            "isp": "Ukrtechstroy Ltd",
+            "org": "Ukrtechstroy Ltd",
+            "as": "AS31187 Ukrtechstroy Ltd",
+            "query": "193.24.30.50",
+            "type": "http",
+            "port": "37777",
+            "response_time": 2.31
+        },
         {
             "status": "success",
             "country": "Ukraine",
@@ -20,26 +39,45 @@
             "query": "46.185.34.136",
             "type": "http",
             "port": "8187",
-            "response_time": 2.87
+            "response_time": 5.12
         },
         {
             "status": "success",
             "country": "Ukraine",
             "countryCode": "UA",
-            "region": "30",
-            "regionName": "Kyiv City",
-            "city": "Kyiv",
-            "zip": "01000",
-            "lat": 50.4501,
-            "lon": 30.5234,
-            "timezone": "Europe/Kiev",
-            "isp": "Kyivstar UA",
-            "org": "Kyivstar LLC",
-            "as": "AS15895 \"Kyivstar\" PJSC",
-            "query": "134.249.86.47",
+            "region": "51",
+            "regionName": "Odesa",
+            "city": "Odesa",
+            "zip": "65020",
+            "lat": 46.4888,
+            "lon": 30.7474,
+            "timezone": "Europe/Kyiv",
+            "isp": "TOV TRK \"Briz\"",
+            "org": "Briz",
+            "as": "AS34661 BREEZE NETWORK",
+            "query": "213.231.7.10",
+            "type": "http",
+            "port": "8282",
+            "response_time": 8.34
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "68",
+            "regionName": "Khmelnytskyi Oblast",
+            "city": "Kamyanets-Podilskyi",
+            "zip": "32305",
+            "lat": 48.6813,
+            "lon": 26.5783,
+            "timezone": "Europe/Kyiv",
+            "isp": "Lanet Network",
+            "org": "Lanet Network Ltd",
+            "as": "AS49332 Lanet Network Ltd",
+            "query": "176.32.2.193",
             "type": "http",
             "port": "8080",
-            "response_time": 5.46
+            "response_time": 9.19
         },
         {
             "status": "success",
@@ -58,26 +96,7 @@
             "query": "91.228.217.195",
             "type": "http",
             "port": "8989",
-            "response_time": 6.79
-        },
-        {
-            "status": "success",
-            "country": "Ukraine",
-            "countryCode": "UA",
-            "region": "12",
-            "regionName": "Dnipropetrovsk Oblast",
-            "city": "Dnipro",
-            "zip": "49051",
-            "lat": 48.4604,
-            "lon": 35.033,
-            "timezone": "Europe/Kyiv",
-            "isp": "Traditional LLC",
-            "org": "Intellect Dnepr Telecom LLC",
-            "as": "AS15377 TRADITIONAL LLC",
-            "query": "91.243.192.17",
-            "type": "http",
-            "port": "3128",
-            "response_time": 15.1
+            "response_time": 9.27
         }
     ]
 }
