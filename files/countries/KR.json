@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,64 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 1.92
+            "response_time": 2.19
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "42",
-            "regionName": "Gangwon-do",
-            "city": "Chuncheon",
-            "zip": "24329",
-            "lat": 37.8897,
-            "lon": 127.736,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
             "timezone": "Asia/Seoul",
             "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "146.56.110.131",
+            "query": "152.70.91.193",
             "type": "http",
-            "port": "8118",
-            "response_time": 2.4
+            "port": "40000",
+            "response_time": 2.78
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Seongnam-si",
+            "zip": "13606",
+            "lat": 37.3595,
+            "lon": 127.105,
+            "timezone": "Asia/Seoul",
+            "isp": "NAVER Cloud Corp",
+            "org": "NAVER Cloud Corp.",
+            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+            "query": "106.10.55.212",
+            "type": "http",
+            "port": "1121",
+            "response_time": 4.23
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "48",
+            "regionName": "Gyeongsangnam-do",
+            "city": "Changwon",
+            "zip": "514",
+            "lat": 35.2317,
+            "lon": 128.6822,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "119.195.17.15",
+            "type": "http",
+            "port": "3176",
+            "response_time": 7.52
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 2.47
+            "response_time": 7.65
         },
         {
             "status": "success",
@@ -66,37 +104,18 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Mapo-gu",
-            "zip": "040",
-            "lat": 37.5479,
-            "lon": 126.9086,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Korea Telecom",
-            "as": "AS4766 Korea Telecom",
-            "query": "211.217.231.234",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.19
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "42",
-            "regionName": "Gangwon-do",
-            "city": "Chuncheon",
-            "zip": "24329",
-            "lat": 37.8897,
-            "lon": 127.736,
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
             "timezone": "Asia/Seoul",
             "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "152.69.229.220",
+            "query": "146.56.164.121",
             "type": "http",
             "port": "3128",
-            "response_time": 11.57
+            "response_time": 10.0
         }
     ]
 }
