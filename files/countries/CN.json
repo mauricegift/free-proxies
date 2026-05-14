@@ -1,7 +1,7 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 7,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,7 @@
             "query": "218.108.131.186",
             "type": "http",
             "port": "17890",
-            "response_time": 2.93
-        },
-        {
-            "status": "success",
-            "country": "China",
-            "countryCode": "CN",
-            "region": "JS",
-            "regionName": "Jiangsu",
-            "city": "Suzhou",
-            "zip": "215000",
-            "lat": 31.2983,
-            "lon": 120.583,
-            "timezone": "Asia/Shanghai",
-            "isp": "China Unicom Jiangsu Province Network",
-            "org": "",
-            "as": "AS4837 CHINA UNICOM China169 Backbone",
-            "query": "157.0.142.246",
-            "type": "http",
-            "port": "10057",
-            "response_time": 3.3
-        },
-        {
-            "status": "success",
-            "country": "China",
-            "countryCode": "CN",
-            "region": "BJ",
-            "regionName": "Beijing",
-            "city": "Beijing",
-            "zip": "",
-            "lat": 39.911,
-            "lon": 116.395,
-            "timezone": "Asia/Shanghai",
-            "isp": "China Unicom Beijing Province Network",
-            "org": "",
-            "as": "AS4808 China Unicom Beijing Province Network",
-            "query": "222.129.141.73",
-            "type": "http",
-            "port": "9000",
-            "response_time": 3.79
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -77,26 +39,7 @@
             "query": "115.231.181.40",
             "type": "http",
             "port": "8128",
-            "response_time": 4.17
-        },
-        {
-            "status": "success",
-            "country": "China",
-            "countryCode": "CN",
-            "region": "BJ",
-            "regionName": "Beijing",
-            "city": "Jinrongjie",
-            "zip": "",
-            "lat": 39.9072,
-            "lon": 116.357,
-            "timezone": "Asia/Shanghai",
-            "isp": "China Unicom CHINA169 Network",
-            "org": "China United Network Communications Corporation Limited",
-            "as": "AS4837 CHINA UNICOM China169 Backbone",
-            "query": "116.171.106.78",
-            "type": "http",
-            "port": "3443",
-            "response_time": 4.32
+            "response_time": 1.94
         },
         {
             "status": "success",
@@ -105,17 +48,36 @@
             "region": "BJ",
             "regionName": "Beijing",
             "city": "Beijing",
-            "zip": "100000",
-            "lat": 39.9042,
-            "lon": 116.407,
+            "zip": "",
+            "lat": 39.911,
+            "lon": 116.395,
             "timezone": "Asia/Shanghai",
-            "isp": "Beijing Kingsoft Cloud Internet Technology Co",
-            "org": "Beijing Kingsoft Cloud Internet Technology Co., Ltd.",
-            "as": "AS59019 Beijing Kingsoft Cloud Internet Technology Co., Ltd",
-            "query": "120.92.108.97",
+            "isp": "China Unicom Beijing Province Network",
+            "org": "",
+            "as": "AS4808 China Unicom Beijing Province Network",
+            "query": "111.199.234.50",
             "type": "http",
-            "port": "7890",
-            "response_time": 6.56
+            "port": "9000",
+            "response_time": 7.6
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "SH",
+            "regionName": "Shanghai",
+            "city": "Shanghai",
+            "zip": "",
+            "lat": 31.2222,
+            "lon": 121.4581,
+            "timezone": "Asia/Shanghai",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+            "as": "AS45090 Shenzhen Tencent Computer Systems Company Limited",
+            "query": "43.143.108.2",
+            "type": "http",
+            "port": "9701",
+            "response_time": 7.88
         },
         {
             "status": "success",
@@ -134,7 +96,26 @@
             "query": "223.84.151.86",
             "type": "http",
             "port": "30005",
-            "response_time": 7.35
+            "response_time": 9.38
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "BJ",
+            "regionName": "Beijing",
+            "city": "Jinrongjie",
+            "zip": "",
+            "lat": 39.9072,
+            "lon": 116.357,
+            "timezone": "Asia/Shanghai",
+            "isp": "China Unicom CHINA169 Network",
+            "org": "China United Network Communications Corporation Limited",
+            "as": "AS4837 CHINA UNICOM China169 Backbone",
+            "query": "116.171.106.15",
+            "type": "http",
+            "port": "3443",
+            "response_time": 14.42
         }
     ]
 }
