@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS24940 Hetzner Online GmbH",
             "query": "65.108.203.37",
             "type": "http",
-            "port": "28080",
-            "response_time": 1.4
+            "port": "18080",
+            "response_time": 1.87
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
+            "timezone": "Europe/Helsinki",
+            "isp": "DpkgSoft International Limited",
+            "org": "Xorek.Cloud Helsinki",
+            "as": "AS215590 DpkgSoft International Limited",
+            "query": "2.27.32.81",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.08
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "65.108.159.129",
             "type": "http",
             "port": "8081",
-            "response_time": 1.93
+            "response_time": 5.51
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "CGI GLOBAL LIMITED",
+            "org": "CGI GLOBAL LIMITED",
+            "as": "AS56971 AS56971 Cloud",
+            "query": "46.8.233.226",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.91
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "135.181.113.216",
             "type": "http",
             "port": "16379",
-            "response_time": 10.41
+            "response_time": 8.73
         }
     ]
 }
