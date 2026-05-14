@@ -1,26 +1,45 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2R",
+            "lat": 51.05,
+            "lon": -114.0879,
+            "timezone": "America/Edmonton",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "40.177.99.164",
+            "type": "http",
+            "port": "13285",
+            "response_time": 1.89
+        },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
             "region": "ON",
             "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "",
-            "lat": 43.6532,
-            "lon": -79.3832,
+            "city": "Ottawa",
+            "zip": "K1C",
+            "lat": 45.4677,
+            "lon": -75.5399,
             "timezone": "America/Toronto",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "99.79.58.74",
+            "isp": "Rogers Communications Canada Inc.",
+            "org": "Rogers Communications Canada Inc",
+            "as": "AS812 Rogers Communications Canada Inc.",
+            "query": "174.114.24.95",
             "type": "http",
-            "port": "8527",
-            "response_time": 5.1
+            "port": "3128",
+            "response_time": 5.71
         }
     ]
 }
