@@ -1,8 +1,27 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 4,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75000",
+            "lat": 48.8566,
+            "lon": 2.35222,
+            "timezone": "Europe/Paris",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "185.234.64.63",
+            "type": "http",
+            "port": "1082",
+            "response_time": 1.95
+        },
         {
             "status": "success",
             "country": "France",
@@ -17,10 +36,10 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "173.212.246.157",
+            "query": "173.212.245.136",
             "type": "http",
-            "port": "3128",
-            "response_time": 1.44
+            "port": "8888",
+            "response_time": 6.83
         },
         {
             "status": "success",
@@ -36,10 +55,48 @@
             "isp": "OVH SAS",
             "org": "OVH SAS",
             "as": "AS16276 OVH SAS",
-            "query": "91.121.63.51",
+            "query": "37.187.109.70",
             "type": "http",
-            "port": "1080",
-            "response_time": 6.75
+            "port": "10111",
+            "response_time": 7.37
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "91.230.110.6",
+            "type": "http",
+            "port": "443",
+            "response_time": 9.32
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Lauterbourg",
+            "zip": "67630",
+            "lat": 48.9742,
+            "lon": 8.1851,
+            "timezone": "Europe/Paris",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "173.249.50.95",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.99
         },
         {
             "status": "success",
@@ -55,10 +112,10 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "185.234.64.62",
+            "query": "185.234.64.66",
             "type": "http",
-            "port": "1081",
-            "response_time": 14.14
+            "port": "1082",
+            "response_time": 12.88
         },
         {
             "status": "success",
@@ -74,10 +131,10 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.118.39",
+            "query": "185.234.64.65",
             "type": "http",
-            "port": "1081",
-            "response_time": 19.65
+            "port": "1082",
+            "response_time": 14.27
         }
     ]
 }
