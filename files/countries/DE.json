@@ -1,46 +1,8 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 6,
+    "count": 8,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "BY",
-            "regionName": "Bavaria",
-            "city": "Nuremberg",
-            "zip": "90403",
-            "lat": 49.4527,
-            "lon": 11.0783,
-            "timezone": "Europe/Berlin",
-            "isp": "Hetzner Online GmbH",
-            "org": "Hetzner",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "116.203.139.209",
-            "type": "http",
-            "port": "1080",
-            "response_time": 1.84
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "BY",
-            "regionName": "Bavaria",
-            "city": "Nuremberg",
-            "zip": "90403",
-            "lat": 49.4527,
-            "lon": 11.0783,
-            "timezone": "Europe/Berlin",
-            "isp": "Hetzner Online GmbH",
-            "org": "Hetzner",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "116.203.139.209",
-            "type": "http",
-            "port": "5678",
-            "response_time": 2.28
-        },
         {
             "status": "success",
             "country": "Germany",
@@ -58,7 +20,64 @@
             "query": "212.224.88.212",
             "type": "http",
             "port": "443",
-            "response_time": 2.96
+            "response_time": 0.66
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60311",
+            "lat": 50.1084,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "Intezio Worldwide Limited",
+            "org": "node-hosting",
+            "as": "AS207567 Intezio Worldwide Limited",
+            "query": "168.222.254.136",
+            "type": "http",
+            "port": "8888",
+            "response_time": 0.79
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60326",
+            "lat": 50.1049,
+            "lon": 8.6295,
+            "timezone": "Europe/Berlin",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (eu-frankfurt-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "158.101.175.124",
+            "type": "http",
+            "port": "5566",
+            "response_time": 1.58
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "BY",
+            "regionName": "Bavaria",
+            "city": "Nuremberg",
+            "zip": "90403",
+            "lat": 49.4527,
+            "lon": 11.0783,
+            "timezone": "Europe/Berlin",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "116.203.139.209",
+            "type": "http",
+            "port": "1080",
+            "response_time": 2.18
         },
         {
             "status": "success",
@@ -74,10 +93,29 @@
             "isp": "Hetzner Online GmbH",
             "org": "Hetzner",
             "as": "AS24940 Hetzner Online GmbH",
-            "query": "144.76.42.215",
+            "query": "178.63.155.151",
             "type": "http",
-            "port": "8118",
-            "response_time": 5.51
+            "port": "8888",
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1109,
+            "lon": 8.68213,
+            "timezone": "Europe/Berlin",
+            "isp": "RedSwitches Pty LTD.",
+            "org": "RedSwitches Pty LTD",
+            "as": "AS50049 RedSwitches",
+            "query": "103.147.152.12",
+            "type": "http",
+            "port": "1080",
+            "response_time": 2.91
         },
         {
             "status": "success",
@@ -96,7 +134,7 @@
             "query": "45.134.39.140",
             "type": "http",
             "port": "3333",
-            "response_time": 11.31
+            "response_time": 4.53
         },
         {
             "status": "success",
@@ -112,10 +150,10 @@
             "isp": "Hetzner Online GmbH",
             "org": "Hetzner",
             "as": "AS24940 Hetzner Online GmbH",
-            "query": "148.251.86.68",
+            "query": "148.251.87.79",
             "type": "http",
             "port": "16379",
-            "response_time": 11.52
+            "response_time": 5.45
         }
     ]
 }
