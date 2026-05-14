@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "00-510",
+            "lat": 52.2297,
+            "lon": 21.0122,
+            "timezone": "Europe/Warsaw",
+            "isp": "Layer IT services",
+            "org": "Layer IT services",
+            "as": "AS208949 HBING LIMITED",
+            "query": "45.88.0.115",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.44
+        },
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
             "region": "32",
             "regionName": "West Pomerania",
-            "city": "I\u0144sko",
-            "zip": "73-140",
-            "lat": 53.4361,
-            "lon": 15.5502,
+            "city": "Szczecinek",
+            "zip": "78-400",
+            "lat": 53.7056,
+            "lon": 16.6868,
             "timezone": "Europe/Warsaw",
-            "isp": "AS Consulting Sp. z o. o.",
-            "org": "Korbank S. A",
-            "as": "AS60645 AS Consulting Sp. z o. o.",
-            "query": "185.32.6.131",
+            "isp": "Gawex Media Sp.zoo",
+            "org": "Gawex Media Sp. z o. o.",
+            "as": "AS31608 Gawex Media Sp. z o. o.",
+            "query": "84.205.28.220",
             "type": "http",
-            "port": "8070",
-            "response_time": 9.8
+            "port": "8080",
+            "response_time": 4.44
         }
     ]
 }
