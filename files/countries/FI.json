@@ -1,8 +1,27 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
+            "timezone": "Europe/Helsinki",
+            "isp": "DpkgSoft International Limited",
+            "org": "Xorek.Cloud Helsinki",
+            "as": "AS215590 DpkgSoft International Limited",
+            "query": "2.27.32.81",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.98
+        },
         {
             "status": "success",
             "country": "Finland",
@@ -14,13 +33,13 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Hetzner Online GmbH",
-            "org": "Hetzner",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "135.181.113.216",
+            "isp": "Livi Hosting LTD",
+            "org": "ZTV CORP LLC",
+            "as": "AS212706 LIVI HOSTING LTD",
+            "query": "185.230.190.195",
             "type": "http",
-            "port": "16379",
-            "response_time": 7.93
+            "port": "3128",
+            "response_time": 11.25
         }
     ]
 }
