@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "08",
+            "regionName": "Perak",
+            "city": "Chemor",
+            "zip": "31200",
+            "lat": 4.7211,
+            "lon": 101.119,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "ADSL Streamyx Telekom Malaysia",
+            "org": "",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "219.93.111.125",
+            "type": "http",
+            "port": "9412",
+            "response_time": 5.76
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +39,7 @@
             "query": "175.145.210.143",
             "type": "http",
             "port": "8080",
-            "response_time": 5.9
+            "response_time": 7.38
         }
     ]
 }
