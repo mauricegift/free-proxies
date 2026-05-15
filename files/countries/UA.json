@@ -1,8 +1,27 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "32",
+            "regionName": "Kyiv Oblast",
+            "city": "Chabany",
+            "zip": "08162",
+            "lat": 50.3418,
+            "lon": 30.421,
+            "timezone": "Europe/Kyiv",
+            "isp": "Modus-Global LLC",
+            "org": "Modus ISP",
+            "as": "AS25514 Modus-Global LLC",
+            "query": "195.34.91.67",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.1
+        },
         {
             "status": "success",
             "country": "Ukraine",
@@ -20,26 +39,45 @@
             "query": "176.32.2.193",
             "type": "http",
             "port": "8080",
-            "response_time": 8.75
+            "response_time": 6.46
         },
         {
             "status": "success",
             "country": "Ukraine",
             "countryCode": "UA",
-            "region": "12",
-            "regionName": "Dnipropetrovsk Oblast",
-            "city": "Dnipro",
-            "zip": "49051",
-            "lat": 48.4604,
-            "lon": 35.033,
+            "region": "51",
+            "regionName": "Odesa",
+            "city": "Odesa",
+            "zip": "65020",
+            "lat": 46.4888,
+            "lon": 30.7474,
             "timezone": "Europe/Kyiv",
-            "isp": "Traditional LLC",
-            "org": "Intellect Dnepr Telecom LLC",
-            "as": "AS15377 TRADITIONAL LLC",
-            "query": "91.243.192.17",
+            "isp": "TOV TRK \"Briz\"",
+            "org": "Briz",
+            "as": "AS34661 BREEZE NETWORK",
+            "query": "213.231.7.10",
             "type": "http",
-            "port": "3128",
-            "response_time": 10.89
+            "port": "8282",
+            "response_time": 9.95
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "68",
+            "regionName": "Khmelnytskyi Oblast",
+            "city": "Khmelnytskyi",
+            "zip": "29005",
+            "lat": 49.4195,
+            "lon": 26.9959,
+            "timezone": "Europe/Kyiv",
+            "isp": "Global Technology Ukraine Ltd",
+            "org": "MASTER",
+            "as": "AS28773 Global Technologies of Ukraine LLC",
+            "query": "188.190.177.47",
+            "type": "http",
+            "port": "8989",
+            "response_time": 11.14
         }
     ]
 }
