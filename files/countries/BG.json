@@ -1,26 +1,26 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "01",
-            "regionName": "Blagoevgrad",
-            "city": "Ablanitsa",
-            "zip": "2932",
-            "lat": 41.5309,
-            "lon": 23.9355,
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
             "timezone": "Europe/Sofia",
-            "isp": "Sarnica-Net LTD",
-            "org": "Sarnica-Net LTD",
-            "as": "AS48584 Sarnica-Net LTD",
-            "query": "193.68.115.14",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
             "type": "http",
             "port": "8080",
-            "response_time": 1.3
+            "response_time": 5.3
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "213.169.33.3",
             "type": "http",
             "port": "8001",
-            "response_time": 13.39
+            "response_time": 7.46
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "16",
+            "regionName": "Plovdiv",
+            "city": "Plovdiv",
+            "zip": "4000",
+            "lat": 42.1513,
+            "lon": 24.7518,
+            "timezone": "Europe/Sofia",
+            "isp": "\"Cooolbox\" AD",
+            "org": "ITD Network",
+            "as": "AS9070 Cooolbox AD",
+            "query": "78.130.246.65",
+            "type": "http",
+            "port": "1881",
+            "response_time": 7.67
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6826,
+            "lon": 23.3223,
+            "timezone": "Europe/Sofia",
+            "isp": "FIBER1",
+            "org": "",
+            "as": "AS39135 Fiber 1 Ltd.",
+            "query": "77.238.79.111",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.61
         }
     ]
 }
