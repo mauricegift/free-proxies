@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.91
+            "response_time": 2.09
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 4.45
+            "response_time": 3.08
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "27",
+            "regionName": "Daegu",
+            "city": "Suseong-gu",
+            "zip": "422",
+            "lat": 35.8481,
+            "lon": 128.6968,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
+            "as": "AS4766 Korea Telecom",
+            "query": "220.81.123.23",
+            "type": "http",
+            "port": "48678",
+            "response_time": 6.74
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "146.56.164.121",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.75
         }
     ]
 }
