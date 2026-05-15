@@ -1,8 +1,27 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "68",
+            "regionName": "Khmelnytskyi Oblast",
+            "city": "Kamyanets-Podilskyi",
+            "zip": "32305",
+            "lat": 48.6813,
+            "lon": 26.5783,
+            "timezone": "Europe/Kyiv",
+            "isp": "Lanet Network",
+            "org": "Lanet Network Ltd",
+            "as": "AS49332 Lanet Network Ltd",
+            "query": "176.32.2.193",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.75
+        },
         {
             "status": "success",
             "country": "Ukraine",
@@ -20,7 +39,7 @@
             "query": "91.243.192.17",
             "type": "http",
             "port": "3128",
-            "response_time": 5.01
+            "response_time": 10.89
         }
     ]
 }
