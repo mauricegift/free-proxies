@@ -1,8 +1,27 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Ablanitsa",
+            "zip": "2932",
+            "lat": 41.5309,
+            "lon": 23.9355,
+            "timezone": "Europe/Sofia",
+            "isp": "Sarnica-Net LTD",
+            "org": "Sarnica-Net LTD",
+            "as": "AS48584 Sarnica-Net LTD",
+            "query": "193.68.115.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.3
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -17,10 +36,10 @@
             "isp": "A1 Bulgaria EAD",
             "org": "ESRI BULGARIA Network",
             "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.10",
+            "query": "213.169.33.3",
             "type": "http",
             "port": "8001",
-            "response_time": 7.64
+            "response_time": 13.39
         }
     ]
 }
