@@ -1,8 +1,27 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5074,
+            "lon": -0.127758,
+            "timezone": "Europe/London",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.170.25.193",
+            "type": "http",
+            "port": "9002",
+            "response_time": 1.01
+        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -20,7 +39,26 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 1.48
+            "response_time": 2.24
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
+            "timezone": "Europe/London",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.128",
+            "type": "http",
+            "port": "1082",
+            "response_time": 9.55
         }
     ]
 }
