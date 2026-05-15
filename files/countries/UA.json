@@ -1,7 +1,7 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "176.105.212.219",
             "type": "http",
             "port": "8080",
-            "response_time": 6.32
+            "response_time": 4.94
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "12",
+            "regionName": "Dnipropetrovsk Oblast",
+            "city": "Dnipro",
+            "zip": "49051",
+            "lat": 48.4604,
+            "lon": 35.033,
+            "timezone": "Europe/Kyiv",
+            "isp": "Traditional LLC",
+            "org": "Intellect Dnepr Telecom LLC",
+            "as": "AS15377 TRADITIONAL LLC",
+            "query": "91.243.192.17",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.53
         }
     ]
 }
