@@ -1,26 +1,45 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "IS",
-            "regionName": "Islamabad",
-            "city": "Islamabad",
-            "zip": "44000",
-            "lat": 33.7233,
-            "lon": 73.0435,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
             "timezone": "Asia/Karachi",
-            "isp": "Transworld Enterprise Services",
-            "org": "",
-            "as": "AS150683 FASTTEL BROADBAND (PRIVATE) LIMITED",
-            "query": "103.255.66.109",
+            "isp": "Logitech Cable (Private) Limited",
+            "org": "Logitech Cable (Private) Limited",
+            "as": "AS141372 Logitech Cable (Private) Limited",
+            "query": "103.157.200.126",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.48
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "",
+            "lat": 24.827,
+            "lon": 67.0292,
+            "timezone": "Asia/Karachi",
+            "isp": "Supernet",
+            "org": "Telecard Limited",
+            "as": "AS24435 Supernet Limited Transit Autonomous System Number",
+            "query": "116.0.53.34",
             "type": "http",
             "port": "8080",
-            "response_time": 6.9
+            "response_time": 2.94
         }
     ]
 }
