@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "13",
             "regionName": "Tokyo",
             "city": "Tokyo",
-            "zip": "151-0053",
-            "lat": 35.6893,
-            "lon": 139.6899,
+            "zip": "270-1351",
+            "lat": 35.798,
+            "lon": 140.1803,
             "timezone": "Asia/Tokyo",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.167.192.85",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.110.52.228",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.78
+            "port": "3128",
+            "response_time": 3.22
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6906,
+            "lon": 139.77,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "140.227.61.201",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.64
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "116.80.49.134",
             "type": "http",
             "port": "3172",
-            "response_time": 3.0
+            "response_time": 3.8
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "116.80.50.99",
             "type": "http",
             "port": "3172",
-            "response_time": 3.74
+            "response_time": 7.3
         }
     ]
 }
