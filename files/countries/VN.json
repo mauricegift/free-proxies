@@ -1,7 +1,7 @@
 {
     "countryCode": "VN",
     "country": "Vietnam",
-    "count": 5,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "113.160.132.26",
             "type": "http",
             "port": "8080",
-            "response_time": 2.06
+            "response_time": 2.97
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "SG",
+            "regionName": "Ho Chi Minh",
+            "city": "Ho Chi Minh City",
+            "zip": "700000",
+            "lat": 10.822,
+            "lon": 106.6257,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "isp": "VNPT",
+            "org": "Vietnam Posts and Telecommunications Group",
+            "as": "AS45899 VNPT Corp",
+            "query": "14.241.231.13",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.55
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "",
+            "regionName": "Ho Chi Minh City (HCMC)",
+            "city": "D\u0129 An",
+            "zip": "",
+            "lat": 10.8965,
+            "lon": 106.753,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "isp": "VNPT",
+            "org": "",
+            "as": "AS45899 VNPT Corp",
+            "query": "113.182.151.78",
+            "type": "http",
+            "port": "5108",
+            "response_time": 4.73
         },
         {
             "status": "success",
@@ -39,26 +77,7 @@
             "query": "137.59.47.73",
             "type": "http",
             "port": "3128",
-            "response_time": 2.81
-        },
-        {
-            "status": "success",
-            "country": "Vietnam",
-            "countryCode": "VN",
-            "region": "",
-            "regionName": "Da Nang City",
-            "city": "Tra Que Vegetable Village",
-            "zip": "",
-            "lat": 15.9022,
-            "lon": 108.339,
-            "timezone": "Asia/Ho_Chi_Minh",
-            "isp": "VNPT",
-            "org": "Vietnam Posts and Telecommunications Group",
-            "as": "AS45899 VNPT Corp",
-            "query": "14.241.133.207",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.8
+            "response_time": 5.13
         },
         {
             "status": "success",
@@ -77,7 +96,26 @@
             "query": "42.114.172.179",
             "type": "http",
             "port": "2088",
-            "response_time": 10.55
+            "response_time": 7.55
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "HN",
+            "regionName": "Hanoi",
+            "city": "Hanoi",
+            "zip": "100000",
+            "lat": 21.0184,
+            "lon": 105.8461,
+            "timezone": "Asia/Bangkok",
+            "isp": "VietNam Post and Telecom Corporation",
+            "org": "Hanoi Post and Telecom Company",
+            "as": "AS45899 VNPT Corp",
+            "query": "222.252.97.26",
+            "type": "http",
+            "port": "8008",
+            "response_time": 8.47
         },
         {
             "status": "success",
@@ -96,7 +134,26 @@
             "query": "14.170.154.193",
             "type": "http",
             "port": "19132",
-            "response_time": 13.57
+            "response_time": 8.79
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "",
+            "regionName": "Da Nang City",
+            "city": "Tra Que Vegetable Village",
+            "zip": "",
+            "lat": 15.9022,
+            "lon": 108.339,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "isp": "VNPT",
+            "org": "Vietnam Posts and Telecommunications Group",
+            "as": "AS45899 VNPT Corp",
+            "query": "14.241.133.207",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.25
         }
     ]
 }
