@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 3,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "13",
             "regionName": "Tokyo",
             "city": "Tokyo",
-            "zip": "270-1351",
-            "lat": 35.798,
-            "lon": 140.1803,
+            "zip": "152-8503",
+            "lat": 35.68,
+            "lon": 139.77,
             "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "168.110.52.228",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (japaneast)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.78.118.91",
             "type": "http",
-            "port": "3128",
-            "response_time": 1.44
+            "port": "8561",
+            "response_time": 1.4
         },
         {
             "status": "success",
@@ -39,7 +39,64 @@
             "query": "43.167.192.85",
             "type": "http",
             "port": "8080",
-            "response_time": 2.74
+            "response_time": 2.13
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "152-8503",
+            "lat": 35.68,
+            "lon": 139.77,
+            "timezone": "Asia/Tokyo",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (japaneast)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.210.39.153",
+            "type": "http",
+            "port": "8561",
+            "response_time": 2.92
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "270-1351",
+            "lat": 35.798,
+            "lon": 140.1803,
+            "timezone": "Asia/Tokyo",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.110.52.228",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.81
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "152-8503",
+            "lat": 35.68,
+            "lon": 139.77,
+            "timezone": "Asia/Tokyo",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (japaneast)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.27.13.35",
+            "type": "http",
+            "port": "8561",
+            "response_time": 8.55
         },
         {
             "status": "success",
@@ -58,7 +115,26 @@
             "query": "116.80.49.134",
             "type": "http",
             "port": "3172",
-            "response_time": 3.01
+            "response_time": 10.04
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "270-1351",
+            "lat": 35.798,
+            "lon": 140.1803,
+            "timezone": "Asia/Tokyo",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.202.218",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.36
         }
     ]
 }
