@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "Goulburn",
-            "zip": "2580",
-            "lat": -34.7591,
-            "lon": 149.7225,
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
             "timezone": "Australia/Sydney",
-            "isp": "YLess4U Pty Ltd",
-            "org": "RemoteISP Pty Ltd",
-            "as": "AS45447 YLess4U Regional Broadband",
-            "query": "103.131.232.9",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "54.206.129.120",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.93
+            "port": "16006",
+            "response_time": 3.72
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.135.215.62",
+            "type": "http",
+            "port": "53626",
+            "response_time": 4.38
         }
     ]
 }
