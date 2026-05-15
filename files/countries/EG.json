@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "197.164.101.10",
             "type": "http",
             "port": "1981",
-            "response_time": 4.14
+            "response_time": 4.07
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "213.131.85.26",
             "type": "http",
             "port": "1981",
-            "response_time": 4.67
+            "response_time": 4.18
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "El Shorouk",
+            "zip": "",
+            "lat": 30.1381,
+            "lon": 31.6156,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat",
+            "org": "EgyNet",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "84.36.35.206",
+            "type": "http",
+            "port": "1981",
+            "response_time": 4.63
         },
         {
             "status": "success",
@@ -57,8 +76,46 @@
             "as": "AS24863 Link Egypt (Link.NET)",
             "query": "197.164.101.14",
             "type": "http",
+            "port": "1976",
+            "response_time": 6.87
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data - Egypt",
+            "org": "Vodafone Data",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.80.111",
+            "type": "http",
             "port": "1981",
-            "response_time": 9.67
+            "response_time": 7.12
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "BH",
+            "regionName": "Beheira",
+            "city": "Al Y\u0101s\u012bn\u012byah",
+            "zip": "",
+            "lat": 30.95,
+            "lon": 30.0667,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "213.131.85.26",
+            "type": "http",
+            "port": "1976",
+            "response_time": 7.3
         }
     ]
 }
