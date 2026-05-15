@@ -1,26 +1,45 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Ukraine",
             "countryCode": "UA",
-            "region": "68",
-            "regionName": "Khmelnytskyi Oblast",
-            "city": "Kamyanets-Podilskyi",
-            "zip": "32305",
-            "lat": 48.6813,
-            "lon": 26.5783,
+            "region": "12",
+            "regionName": "Dnipropetrovsk Oblast",
+            "city": "Shyroke",
+            "zip": "",
+            "lat": 47.6855,
+            "lon": 33.2615,
             "timezone": "Europe/Kyiv",
-            "isp": "Lanet Network",
-            "org": "Lanet Network Ltd",
-            "as": "AS49332 Lanet Network Ltd",
-            "query": "176.32.2.193",
+            "isp": "PrJSC \"VF UKRAINE\"",
+            "org": "UMC Turbaevskiy",
+            "as": "AS21497 PrJSC \"VF UKRAINE\"",
+            "query": "77.52.187.196",
             "type": "http",
-            "port": "8080",
-            "response_time": 9.63
+            "port": "18080",
+            "response_time": 6.19
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "53",
+            "regionName": "Poltava Oblast",
+            "city": "Kremenchug",
+            "zip": "39600",
+            "lat": 49.063,
+            "lon": 33.4125,
+            "timezone": "Europe/Kiev",
+            "isp": "RPC HomeNet Ltd.",
+            "org": "NPK Home-Net Ltd",
+            "as": "AS24812 RPC HomeNet Ltd.",
+            "query": "176.105.220.74",
+            "type": "http",
+            "port": "3129",
+            "response_time": 9.08
         }
     ]
 }
