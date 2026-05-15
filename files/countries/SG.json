@@ -1,27 +1,8 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 5,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "048582",
-            "lat": 1.28009,
-            "lon": 103.851,
-            "timezone": "Asia/Singapore",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-southeast-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.212.26.15",
-            "type": "http",
-            "port": "4145",
-            "response_time": 4.83
-        },
         {
             "status": "success",
             "country": "Singapore",
@@ -39,7 +20,26 @@
             "query": "43.156.90.221",
             "type": "http",
             "port": "10808",
-            "response_time": 5.93
+            "response_time": 2.38
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "01",
+            "regionName": "Central Singapore",
+            "city": "Singapore",
+            "zip": "048582",
+            "lat": 1.28009,
+            "lon": 103.851,
+            "timezone": "Asia/Singapore",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-southeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.142.120.165",
+            "type": "http",
+            "port": "8028",
+            "response_time": 4.15
         },
         {
             "status": "success",
@@ -55,29 +55,10 @@
             "isp": "Alibaba (US) Technology Co., Ltd.",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.222.175.80",
+            "query": "8.219.188.145",
             "type": "http",
-            "port": "6128",
-            "response_time": 7.47
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
-            "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.352,
-            "lon": 103.8198,
-            "timezone": "Asia/Singapore",
-            "isp": "Huawei International Pte. LTD",
-            "org": "",
-            "as": "AS136907 HUAWEI CLOUDS",
-            "query": "124.243.150.41",
-            "type": "http",
-            "port": "3128",
-            "response_time": 10.44
+            "port": "8118",
+            "response_time": 7.7
         },
         {
             "status": "success",
@@ -90,13 +71,13 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "OVH SAS",
-            "org": "Ipxo LLC",
-            "as": "AS16276 OVH SAS",
-            "query": "206.206.126.177",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.156.175.83",
             "type": "http",
-            "port": "2412",
-            "response_time": 13.17
+            "port": "10808",
+            "response_time": 9.04
         }
     ]
 }
