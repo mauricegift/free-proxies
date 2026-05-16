@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "213.220.3.38",
             "type": "http",
             "port": "3128",
-            "response_time": 9.93
+            "response_time": 5.74
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Dos Hermanas",
+            "zip": "41702",
+            "lat": 37.2866,
+            "lon": -5.9208,
+            "timezone": "Europe/Madrid",
+            "isp": "Pinkbear SLU",
+            "org": "PINKBEAR SL",
+            "as": "AS211141 PINKBEAR SLU",
+            "query": "185.226.195.249",
+            "type": "http",
+            "port": "2222",
+            "response_time": 11.68
         }
     ]
 }
