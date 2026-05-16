@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "161.97.131.23",
             "type": "http",
             "port": "8899",
-            "response_time": 2.41
+            "response_time": 5.71
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "173.249.50.95",
+            "query": "91.230.110.6",
             "type": "http",
-            "port": "3128",
-            "response_time": 10.42
+            "port": "443",
+            "response_time": 7.5
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "Contabo GmbH",
             "org": "Contabo GmbH",
             "as": "AS51167 Contabo GmbH",
-            "query": "194.163.183.242",
+            "query": "173.212.246.157",
             "type": "http",
             "port": "3128",
-            "response_time": 10.52
+            "response_time": 10.66
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "IDF",
+            "regionName": "\u00cele-de-France",
+            "city": "Paris",
+            "zip": "75001",
+            "lat": 48.8558,
+            "lon": 2.3494,
+            "timezone": "Europe/Paris",
+            "isp": "SCALEWAY",
+            "org": "ONLINE",
+            "as": "AS12876 Scaleway SAS",
+            "query": "51.159.66.158",
+            "type": "http",
+            "port": "3128",
+            "response_time": 16.08
         }
     ]
 }
