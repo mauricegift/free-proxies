@@ -1,7 +1,7 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -19,27 +19,8 @@
             "as": "AS50049 RedSwitches",
             "query": "103.147.152.12",
             "type": "http",
-            "port": "1095",
-            "response_time": 3.57
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1169,
-            "lon": 8.6837,
-            "timezone": "Europe/Berlin",
-            "isp": "DigitalOcean, LLC",
-            "org": "Digital Ocean",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "209.38.214.48",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.17
+            "port": "1080",
+            "response_time": 0.33
         },
         {
             "status": "success",
@@ -52,13 +33,13 @@
             "lat": 50.1109,
             "lon": 8.68213,
             "timezone": "Europe/Berlin",
-            "isp": "StormWall s.r.o.",
-            "org": "StormWall s.r.o",
-            "as": "AS59796 StormWall s.r.o.",
-            "query": "5.252.33.13",
+            "isp": "RedSwitches Pty LTD.",
+            "org": "RedSwitches Pty LTD",
+            "as": "AS50049 RedSwitches",
+            "query": "103.147.152.12",
             "type": "http",
-            "port": "2025",
-            "response_time": 5.37
+            "port": "1095",
+            "response_time": 9.52
         },
         {
             "status": "success",
@@ -67,17 +48,17 @@
             "region": "HE",
             "regionName": "Hesse",
             "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1169,
+            "zip": "60311",
+            "lat": 50.1084,
             "lon": 8.6837,
             "timezone": "Europe/Berlin",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Internet Solutions LLC",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "62.133.60.5",
+            "isp": "Intezio Worldwide Limited",
+            "org": "node-hosting",
+            "as": "AS207567 Intezio Worldwide Limited",
+            "query": "168.222.254.136",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.72
+            "port": "8888",
+            "response_time": 13.53
         },
         {
             "status": "success",
@@ -93,10 +74,10 @@
             "isp": "Hetzner Online GmbH",
             "org": "Hetzner",
             "as": "AS24940 Hetzner Online GmbH",
-            "query": "148.251.86.76",
+            "query": "148.251.87.79",
             "type": "http",
             "port": "16379",
-            "response_time": 14.52
+            "response_time": 14.12
         }
     ]
 }
