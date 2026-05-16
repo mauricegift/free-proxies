@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Gangseo-gu",
+            "zip": "076",
+            "lat": 37.5438,
+            "lon": 126.8538,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Haionnet",
+            "as": "AS4766 Korea Telecom",
+            "query": "49.254.179.141",
+            "type": "http",
+            "port": "15648",
+            "response_time": 4.61
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 3.64
+            "response_time": 5.29
         }
     ]
 }
