@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 1.51
+            "response_time": 1.16
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "City of London",
+            "zip": "EC4R",
+            "lat": 51.5164,
+            "lon": -0.093,
+            "timezone": "Europe/London",
+            "isp": "ZTV-CORP",
+            "org": "ZTV Corp",
+            "as": "AS212706 LIVI HOSTING LTD",
+            "query": "89.169.10.248",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.85
         }
     ]
 }
