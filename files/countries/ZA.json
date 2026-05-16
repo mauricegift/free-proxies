@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "ZA",
             "region": "GP",
             "regionName": "Gauteng",
-            "city": "Daveyton",
-            "zip": "1520",
-            "lat": -26.1427,
-            "lon": 28.4203,
+            "city": "Johannesburg",
+            "zip": "2001",
+            "lat": -26.20229,
+            "lon": 28.034195,
             "timezone": "Africa/Johannesburg",
-            "isp": "Session Telecoms(PTY) Ltd",
-            "org": "SessionTelecoms",
-            "as": "AS327907 Session Telecoms(PTY) Ltd",
-            "query": "102.135.142.234",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (southafricanorth)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.164.75.153",
             "type": "http",
-            "port": "12354",
-            "response_time": 2.35
+            "port": "8080",
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -36,29 +36,10 @@
             "isp": "JENNY INTERNET (PTY) LTD",
             "org": "Jenny Internet cc",
             "as": "AS327750 JENNY INTERNET (PTY) LTD",
-            "query": "102.23.237.121",
+            "query": "102.23.239.2",
             "type": "http",
             "port": "8080",
-            "response_time": 7.56
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2188",
-            "lat": -26.2309,
-            "lon": 28.0583,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Lucert Technologies Pty Ltd.",
-            "org": "Lucert Technologies Pty Ltd",
-            "as": "AS328714 Lucert Technologies Pty Ltd.",
-            "query": "102.221.118.74",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.79
+            "response_time": 7.11
         },
         {
             "status": "success",
@@ -77,7 +58,45 @@
             "query": "41.57.63.1",
             "type": "http",
             "port": "8104",
-            "response_time": 10.45
+            "response_time": 7.74
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2195",
+            "lat": -26.2309,
+            "lon": 28.0583,
+            "timezone": "Africa/Johannesburg",
+            "isp": "FTH SCR P9",
+            "org": "",
+            "as": "AS327688 Screamer Telecommunications",
+            "query": "41.57.63.1",
+            "type": "http",
+            "port": "6060",
+            "response_time": 9.18
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2188",
+            "lat": -26.2309,
+            "lon": 28.0583,
+            "timezone": "Africa/Johannesburg",
+            "isp": "OM-SN-46/24",
+            "org": "",
+            "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
+            "query": "102.212.46.48",
+            "type": "http",
+            "port": "12354",
+            "response_time": 11.08
         }
     ]
 }
