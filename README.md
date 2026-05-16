@@ -1,6 +1,6 @@
 # free-proxies
 
-> **983 working validated proxies** last updated on **Saturday 16-05-2026 04:36:26 EAT**
+> **983 working validated proxies** last updated on **Saturday 16-05-2026 05:53:45 EAT**
 
 Free, continuously validated **HTTP**, **SOCKS4** and **SOCKS5** proxies tested live and organised by protocol and country. Updated every **30 mins/1hr depending on my server's load balancing**.
 
