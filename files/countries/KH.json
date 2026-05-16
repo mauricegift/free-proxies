@@ -1,8 +1,27 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "MekongNet",
+            "org": "",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "116.212.149.218",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.53
+        },
         {
             "status": "success",
             "country": "Cambodia",
@@ -20,7 +39,7 @@
             "query": "49.156.44.166",
             "type": "http",
             "port": "8080",
-            "response_time": 2.77
+            "response_time": 10.0
         }
     ]
 }
