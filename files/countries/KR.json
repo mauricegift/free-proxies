@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.82
+            "response_time": 2.52
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "045",
-            "lat": 37.5656,
-            "lon": 126.978,
+            "region": "48",
+            "regionName": "Gyeongsangnam-do",
+            "city": "Jinju",
+            "zip": "526",
+            "lat": 35.1684,
+            "lon": 128.031,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "Kornet",
+            "org": "",
             "as": "AS4766 Korea Telecom",
-            "query": "210.223.44.230",
+            "query": "112.163.160.93",
             "type": "http",
             "port": "3128",
-            "response_time": 3.3
+            "response_time": 2.53
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "27",
+            "regionName": "Daegu",
+            "city": "Suseong-gu",
+            "zip": "422",
+            "lat": 35.8481,
+            "lon": 128.6968,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
+            "as": "AS4766 Korea Telecom",
+            "query": "220.81.123.23",
+            "type": "http",
+            "port": "48678",
+            "response_time": 4.01
         }
     ]
 }
