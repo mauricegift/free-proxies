@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "45.125.67.37",
             "type": "http",
             "port": "8443",
-            "response_time": 2.54
+            "response_time": 7.36
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KSS",
+            "regionName": "Sham Shui Po District",
+            "city": "Cullinan West",
+            "zip": "",
+            "lat": 22.327,
+            "lon": 114.154,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "PCCW IMSBiz",
+            "org": "Hong Kong Telecommunications (HKT) Limited",
+            "as": "AS4760 HKT Limited",
+            "query": "42.200.76.16",
+            "type": "http",
+            "port": "3888",
+            "response_time": 7.74
         },
         {
             "status": "success",
@@ -33,13 +52,32 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud Information Technology (hk) Limited",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "152.32.132.190",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.217.214.66",
             "type": "http",
-            "port": "7890",
-            "response_time": 2.99
+            "port": "50002",
+            "response_time": 8.78
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
+            "type": "http",
+            "port": "8080",
+            "response_time": 15.06
         }
     ]
 }
