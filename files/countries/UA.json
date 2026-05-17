@@ -1,8 +1,46 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "53",
+            "regionName": "Poltava Oblast",
+            "city": "Lokhvytsya",
+            "zip": "37200",
+            "lat": 50.3641,
+            "lon": 33.2606,
+            "timezone": "Europe/Kyiv",
+            "isp": "Limited Liability Company AVATOR ISP",
+            "org": "Limited Liability Company CENTRTELECOM",
+            "as": "AS205318 Limited Liability Company AVATOR ISP",
+            "query": "91.236.156.30",
+            "type": "http",
+            "port": "8282",
+            "response_time": 5.1
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "51",
+            "regionName": "Odesa",
+            "city": "Odesa",
+            "zip": "65020",
+            "lat": 46.4888,
+            "lon": 30.7474,
+            "timezone": "Europe/Kyiv",
+            "isp": "TOV TRK \"Briz\"",
+            "org": "Briz",
+            "as": "AS34661 BREEZE NETWORK",
+            "query": "213.231.7.10",
+            "type": "http",
+            "port": "8282",
+            "response_time": 8.11
+        },
         {
             "status": "success",
             "country": "Ukraine",
@@ -20,26 +58,7 @@
             "query": "91.243.192.17",
             "type": "http",
             "port": "3128",
-            "response_time": 2.82
-        },
-        {
-            "status": "success",
-            "country": "Ukraine",
-            "countryCode": "UA",
-            "region": "18",
-            "regionName": "Zhytomyr",
-            "city": "Korosten",
-            "zip": "11501",
-            "lat": 50.9588,
-            "lon": 28.6261,
-            "timezone": "Europe/Kyiv",
-            "isp": "Dataline LLC",
-            "org": "Shorkin RO",
-            "as": "AS35297 Dataline LLC",
-            "query": "178.251.111.21",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.45
+            "response_time": 9.43
         }
     ]
 }
