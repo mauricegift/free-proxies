@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "125.209.110.83",
             "type": "http",
             "port": "39617",
-            "response_time": 7.9
+            "response_time": 9.63
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Raiwind",
+            "zip": "55150",
+            "lat": 31.2489,
+            "lon": 74.2153,
+            "timezone": "Asia/Karachi",
+            "isp": "Gerrys Information Technology (PVT) Ltd",
+            "org": "Gerrys Information Technology (PVT) Ltd",
+            "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+            "query": "202.69.38.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.8
         }
     ]
 }
