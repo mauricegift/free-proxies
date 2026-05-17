@@ -1,8 +1,27 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "TB",
+            "regionName": "Tripoli",
+            "city": "Tripoli",
+            "zip": "",
+            "lat": 32.8874,
+            "lon": 13.1873,
+            "timezone": "Africa/Tripoli",
+            "isp": "Rawafed",
+            "org": "",
+            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
+            "query": "154.73.29.161",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.08
+        },
         {
             "status": "success",
             "country": "Libya",
@@ -20,45 +39,7 @@
             "query": "102.68.128.211",
             "type": "http",
             "port": "8080",
-            "response_time": 3.46
-        },
-        {
-            "status": "success",
-            "country": "Libya",
-            "countryCode": "LY",
-            "region": "TB",
-            "regionName": "Tripoli",
-            "city": "Tripoli",
-            "zip": "",
-            "lat": 32.8874,
-            "lon": 13.1873,
-            "timezone": "Africa/Tripoli",
-            "isp": "Rawafed",
-            "org": "",
-            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "154.73.29.217",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.59
-        },
-        {
-            "status": "success",
-            "country": "Libya",
-            "countryCode": "LY",
-            "region": "TB",
-            "regionName": "Tripoli",
-            "city": "Tripoli",
-            "zip": "",
-            "lat": 32.8908,
-            "lon": 13.1796,
-            "timezone": "Africa/Tripoli",
-            "isp": "Aljeel Aljadeed Technology",
-            "org": "Organisation: Libya International Company",
-            "as": "AS37284 Aljeel Aljadeed For Technology",
-            "query": "165.16.46.1",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.07
+            "response_time": 5.91
         }
     ]
 }
