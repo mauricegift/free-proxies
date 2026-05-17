@@ -1,8 +1,27 @@
 {
     "countryCode": "VN",
     "country": "Vietnam",
-    "count": 4,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "",
+            "regionName": "Ho Chi Minh City (HCMC)",
+            "city": "Qu\u1eadn M\u1ed9t",
+            "zip": "",
+            "lat": 10.7892,
+            "lon": 106.711,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "isp": "Long Van System Solution",
+            "org": "",
+            "as": "AS131423 Branch of Long Van System Solution JSC - Hanoi",
+            "query": "42.96.16.158",
+            "type": "http",
+            "port": "1311",
+            "response_time": 1.39
+        },
         {
             "status": "success",
             "country": "Vietnam",
@@ -20,26 +39,7 @@
             "query": "113.160.132.26",
             "type": "http",
             "port": "8080",
-            "response_time": 2.28
-        },
-        {
-            "status": "success",
-            "country": "Vietnam",
-            "countryCode": "VN",
-            "region": "",
-            "regionName": "Ho Chi Minh City (HCMC)",
-            "city": "Thu Dau Mot",
-            "zip": "",
-            "lat": 10.9804,
-            "lon": 106.652,
-            "timezone": "Asia/Ho_Chi_Minh",
-            "isp": "VNTT",
-            "org": "",
-            "as": "AS45557 Vietnam Technology and Telecommunication JSC",
-            "query": "103.17.88.215",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.29
+            "response_time": 1.8
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "137.59.47.73",
             "type": "http",
             "port": "3128",
-            "response_time": 7.46
+            "response_time": 6.56
         },
         {
             "status": "success",
@@ -77,7 +77,45 @@
             "query": "113.161.59.136",
             "type": "http",
             "port": "8080",
-            "response_time": 13.98
+            "response_time": 6.94
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "SG",
+            "regionName": "Ho Chi Minh",
+            "city": "Ho Chi Minh City",
+            "zip": "700000",
+            "lat": 10.822,
+            "lon": 106.6257,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "isp": "Vietnam Posts and Telecommunications Group",
+            "org": "WANGSU",
+            "as": "AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+            "query": "14.225.240.23",
+            "type": "http",
+            "port": "8562",
+            "response_time": 9.0
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "HN",
+            "regionName": "Hanoi",
+            "city": "Hanoi",
+            "zip": "",
+            "lat": 21.0278,
+            "lon": 105.834,
+            "timezone": "Asia/Bangkok",
+            "isp": "Zenlayer Inc",
+            "org": "ZENLA",
+            "as": "AS21859 Zenlayer Inc",
+            "query": "128.14.92.89",
+            "type": "http",
+            "port": "3128",
+            "response_time": 17.61
         }
     ]
 }
