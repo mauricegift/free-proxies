@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "",
+            "lat": 51.1876,
+            "lon": 71.4491,
+            "timezone": "Asia/Almaty",
+            "isp": "NLS ASTANA LLP",
+            "org": "Beget LLC",
+            "as": "AS205516 NLS ASTANA LLP",
+            "query": "45.94.23.145",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.96
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +39,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 14.67
+            "response_time": 12.14
         }
     ]
 }
