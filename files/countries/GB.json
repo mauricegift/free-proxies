@@ -1,8 +1,27 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Bexley",
+            "zip": "DA15",
+            "lat": 51.4409,
+            "lon": 0.0985,
+            "timezone": "Europe/London",
+            "isp": "OVH SAS",
+            "org": "OVH Ltd",
+            "as": "AS16276 OVH SAS",
+            "query": "57.129.144.178",
+            "type": "http",
+            "port": "40000",
+            "response_time": 0.32
+        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -20,7 +39,26 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 4.45
+            "response_time": 2.03
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "City of London",
+            "zip": "EC4R",
+            "lat": 51.5164,
+            "lon": -0.093,
+            "timezone": "Europe/London",
+            "isp": "ZTV-CORP",
+            "org": "ZTV Corp",
+            "as": "AS212706 LIVI HOSTING LTD",
+            "query": "89.169.10.248",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.8
         }
     ]
 }
