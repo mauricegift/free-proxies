@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,48 @@
             "isp": "Microsoft Corporation",
             "org": "Microsoft Azure Cloud (japaneast)",
             "as": "AS8075 Microsoft Corporation",
-            "query": "20.78.26.206",
+            "query": "20.210.39.153",
             "type": "http",
             "port": "8561",
-            "response_time": 1.41
+            "response_time": 1.26
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6916,
+            "lon": 139.768,
+            "timezone": "Asia/Tokyo",
+            "isp": "KAGOYA JAPAN Inc.",
+            "org": "",
+            "as": "AS24282 KAGOYA JAPAN Inc.",
+            "query": "133.18.123.225",
+            "type": "http",
+            "port": "26021",
+            "response_time": 1.57
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6906,
+            "lon": 139.77,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "140.227.61.201",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.65
         },
         {
             "status": "success",
@@ -36,29 +74,10 @@
             "isp": "Microsoft Corporation",
             "org": "Microsoft Azure Cloud (japaneast)",
             "as": "AS8075 Microsoft Corporation",
-            "query": "20.27.14.220",
+            "query": "20.210.76.104",
             "type": "http",
             "port": "8561",
-            "response_time": 2.08
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "152-8503",
-            "lat": 35.68,
-            "lon": 139.77,
-            "timezone": "Asia/Tokyo",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (japaneast)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "20.78.118.91",
-            "type": "http",
-            "port": "8561",
-            "response_time": 8.37
+            "response_time": 9.08
         }
     ]
 }
