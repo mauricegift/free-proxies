@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "88.1.150.79",
             "type": "http",
             "port": "3128",
-            "response_time": 5.19
+            "response_time": 3.19
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Legan\u00e9s",
+            "zip": "28911",
+            "lat": 40.3272,
+            "lon": -3.7635,
+            "timezone": "Europe/Madrid",
+            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+            "org": "Least Cost Telecom S.l. Unipersonal",
+            "as": "AS56882 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+            "query": "188.227.140.181",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.39
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Dos Hermanas",
+            "zip": "41702",
+            "lat": 37.2866,
+            "lon": -5.9208,
+            "timezone": "Europe/Madrid",
+            "isp": "Pinkbear SLU",
+            "org": "PINKBEAR SL",
+            "as": "AS211141 PINKBEAR SLU",
+            "query": "185.226.195.249",
+            "type": "http",
+            "port": "2222",
+            "response_time": 14.73
         }
     ]
 }
