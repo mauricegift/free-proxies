@@ -1,26 +1,45 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75950",
-            "lat": 24.8591,
-            "lon": 66.9983,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "Delta Networks",
+            "isp": "Pakistan Telecommuication company limited",
             "org": "",
-            "as": "AS138985 CITS PVT (LTD)",
-            "query": "103.255.151.169",
+            "as": "AS139820 HG TELECOMMUNICATION PRIVATE LIMITED",
+            "query": "59.103.34.162",
             "type": "http",
             "port": "8080",
-            "response_time": 5.65
+            "response_time": 7.65
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "Pakistan Telecommuication company limited",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.176.164.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.93
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "110.39.183.34",
             "type": "http",
             "port": "8080",
-            "response_time": 6.33
+            "response_time": 8.61
         }
     ]
 }
