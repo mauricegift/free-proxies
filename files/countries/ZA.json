@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "20.164.75.153",
             "type": "http",
             "port": "8080",
-            "response_time": 1.03
+            "response_time": 1.08
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "WC",
-            "regionName": "Western Cape",
-            "city": "George",
-            "zip": "6529",
-            "lat": -33.9638,
-            "lon": 22.4487,
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Daveyton",
+            "zip": "1520",
+            "lat": -26.1427,
+            "lon": 28.4203,
             "timezone": "Africa/Johannesburg",
-            "isp": "HERO TELECOMS (PTY) LTD",
-            "org": "Herotel",
-            "as": "AS328471 HERO TELECOMS (PTY) LTD",
-            "query": "169.255.78.190",
+            "isp": "Session Telecoms(PTY) Ltd",
+            "org": "SessionTelecoms",
+            "as": "AS327907 Session Telecoms(PTY) Ltd",
+            "query": "102.135.142.234",
             "type": "http",
-            "port": "8865",
-            "response_time": 6.65
+            "port": "12354",
+            "response_time": 8.5
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2188",
+            "lat": -26.2309,
+            "lon": 28.0583,
+            "timezone": "Africa/Johannesburg",
+            "isp": "OM-SN-46/24",
+            "org": "",
+            "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
+            "query": "102.212.46.48",
+            "type": "http",
+            "port": "12354",
+            "response_time": 19.88
         }
     ]
 }
