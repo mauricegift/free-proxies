@@ -1,8 +1,27 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "01",
+            "regionName": "Central Singapore",
+            "city": "Singapore",
+            "zip": "190464",
+            "lat": 1.3048,
+            "lon": 103.8622,
+            "timezone": "Asia/Singapore",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-southeast1)",
+            "as": "AS396982 Google LLC",
+            "query": "34.124.190.108",
+            "type": "http",
+            "port": "8090",
+            "response_time": 4.31
+        },
         {
             "status": "success",
             "country": "Singapore",
@@ -11,16 +30,16 @@
             "regionName": "North West",
             "city": "Singapore",
             "zip": "858877",
-            "lat": 1.352,
-            "lon": 103.8198,
+            "lat": 1.35208,
+            "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Huawei International Pte. LTD",
-            "org": "",
-            "as": "AS136907 HUAWEI CLOUDS",
-            "query": "124.243.150.41",
+            "isp": "OVH SAS",
+            "org": "Ipxo LLC",
+            "as": "AS16276 OVH SAS",
+            "query": "206.206.126.177",
             "type": "http",
-            "port": "3128",
-            "response_time": 13.0
+            "port": "2412",
+            "response_time": 11.21
         }
     ]
 }
