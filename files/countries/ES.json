@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "81.0.49.104",
             "type": "http",
             "port": "20500",
-            "response_time": 4.23
+            "response_time": 3.71
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CM",
+            "regionName": "Castille-La Mancha",
+            "city": "Alovera",
+            "zip": "19208",
+            "lat": 40.5903,
+            "lon": -3.2437,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "88.1.150.79",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.69
         }
     ]
 }
