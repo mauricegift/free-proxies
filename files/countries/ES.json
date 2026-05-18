@@ -1,8 +1,27 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Fuengirola",
+            "zip": "29640",
+            "lat": 36.54,
+            "lon": -4.62473,
+            "timezone": "Europe/Madrid",
+            "isp": "AVATEL TELECOM, SA",
+            "org": "AVATEL TELECOM, SA",
+            "as": "AS200845 AVATEL TELECOM, SA",
+            "query": "185.44.232.30",
+            "type": "http",
+            "port": "53281",
+            "response_time": 7.86
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,7 +39,7 @@
             "query": "185.202.165.1",
             "type": "http",
             "port": "53281",
-            "response_time": 6.01
+            "response_time": 9.7
         }
     ]
 }
