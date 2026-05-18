@@ -1,7 +1,7 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS50049 RedSwitches",
             "query": "103.147.152.12",
             "type": "http",
+            "port": "1095",
+            "response_time": 0.17
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1109,
+            "lon": 8.68213,
+            "timezone": "Europe/Berlin",
+            "isp": "RedSwitches Pty LTD.",
+            "org": "RedSwitches Pty LTD",
+            "as": "AS50049 RedSwitches",
+            "query": "103.147.152.12",
+            "type": "http",
             "port": "1080",
-            "response_time": 0.19
+            "response_time": 0.58
         },
         {
             "status": "success",
@@ -39,26 +58,26 @@
             "query": "5.252.33.13",
             "type": "http",
             "port": "2025",
-            "response_time": 2.05
+            "response_time": 3.43
         },
         {
             "status": "success",
             "country": "Germany",
             "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1169,
-            "lon": 8.6837,
+            "region": "SN",
+            "regionName": "Saxony",
+            "city": "Falkenstein",
+            "zip": "08223",
+            "lat": 50.4777,
+            "lon": 12.3649,
             "timezone": "Europe/Berlin",
-            "isp": "DigitalOcean, LLC",
-            "org": "Digital Ocean",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "209.38.214.48",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "148.251.86.68",
             "type": "http",
-            "port": "3128",
-            "response_time": 7.57
+            "port": "16379",
+            "response_time": 13.17
         }
     ]
 }
