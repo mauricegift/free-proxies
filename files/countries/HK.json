@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "8.217.214.66",
             "type": "http",
             "port": "50002",
-            "response_time": 3.86
+            "response_time": 5.21
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "HEA",
-            "regionName": "Eastern District",
-            "city": "North Point",
-            "zip": "96521",
-            "lat": 22.285,
-            "lon": 114.1953,
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "PCCW IMSBiz",
-            "org": "Hong Kong Telecommunications (HKT) Limited",
-            "as": "AS4760 HKT Limited",
-            "query": "42.200.125.44",
+            "isp": "ComsenzNet",
+            "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "119.28.51.157",
             "type": "http",
-            "port": "8080",
-            "response_time": 9.9
+            "port": "3128",
+            "response_time": 8.84
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KSS",
+            "regionName": "Sham Shui Po District",
+            "city": "So Uk Estate",
+            "zip": "",
+            "lat": 22.3415,
+            "lon": 114.157,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Hong Kong Broadband Network Ltd",
+            "org": "Hong Kong Broadband Network Ltd",
+            "as": "AS9269 Hong Kong Broadband Network Ltd.",
+            "query": "14.199.167.175",
+            "type": "http",
+            "port": "3128",
+            "response_time": 12.07
         }
     ]
 }
