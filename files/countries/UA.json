@@ -1,8 +1,27 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "05",
+            "regionName": "Vinnytsia",
+            "city": "Vinnytsia",
+            "zip": "21005",
+            "lat": 49.2335,
+            "lon": 28.4817,
+            "timezone": "Europe/Kyiv",
+            "isp": "NPK Home-Net Ltd",
+            "org": "NPK Home-Net Ltd",
+            "as": "AS24812 RPC HomeNet Ltd.",
+            "query": "176.105.199.153",
+            "type": "http",
+            "port": "8010",
+            "response_time": 4.46
+        },
         {
             "status": "success",
             "country": "Ukraine",
@@ -10,17 +29,36 @@
             "region": "68",
             "regionName": "Khmelnytskyi Oblast",
             "city": "Khmelnytskyi",
-            "zip": "29005",
+            "zip": "29000",
             "lat": 49.4195,
             "lon": 26.9959,
             "timezone": "Europe/Kyiv",
-            "isp": "Global Technology Ukraine Ltd",
-            "org": "MASTER",
-            "as": "AS28773 Global Technologies of Ukraine LLC",
-            "query": "188.190.177.47",
+            "isp": "\"X-City\" Ltd.",
+            "org": "X City",
+            "as": "AS51784 \"X-City\" Ltd.",
+            "query": "46.63.110.85",
             "type": "http",
-            "port": "8989",
-            "response_time": 3.88
+            "port": "8080",
+            "response_time": 4.46
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "30",
+            "regionName": "Kyiv City",
+            "city": "Kyiv",
+            "zip": "04215",
+            "lat": 50.458,
+            "lon": 30.5303,
+            "timezone": "Europe/Kyiv",
+            "isp": "TOV \"Telza\"",
+            "org": "purposes",
+            "as": "AS49327 TOV Telza",
+            "query": "91.214.31.234",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.33
         }
     ]
 }
