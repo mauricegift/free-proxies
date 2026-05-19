@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "A1 Bulgaria EAD",
             "org": "ESRI BULGARIA Network",
             "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.10",
+            "query": "213.169.33.3",
             "type": "http",
             "port": "8001",
-            "response_time": 8.65
+            "response_time": 5.16
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.7",
+            "type": "http",
+            "port": "8001",
+            "response_time": 9.61
         }
     ]
 }
