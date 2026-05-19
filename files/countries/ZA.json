@@ -1,8 +1,27 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Mahikeng",
+            "zip": "2745",
+            "lat": -25.8652,
+            "lon": 25.6442,
+            "timezone": "Africa/Johannesburg",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "196.216.134.71",
+            "type": "http",
+            "port": "8865",
+            "response_time": 6.83
+        },
         {
             "status": "success",
             "country": "South Africa",
@@ -20,7 +39,7 @@
             "query": "102.135.142.234",
             "type": "http",
             "port": "12354",
-            "response_time": 7.27
+            "response_time": 9.09
         },
         {
             "status": "success",
@@ -28,18 +47,37 @@
             "countryCode": "ZA",
             "region": "NW",
             "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
+            "city": "Potchefstroom",
+            "zip": "2531",
+            "lat": -26.7168,
+            "lon": 27.1054,
             "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.221.2",
+            "isp": "JENNY Network",
+            "org": "",
+            "as": "AS327750 JENNY INTERNET (PTY) LTD",
+            "query": "154.126.213.5",
             "type": "http",
-            "port": "8103",
-            "response_time": 11.2
+            "port": "8080",
+            "response_time": 10.13
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Germiston",
+            "zip": "1401",
+            "lat": -26.2135,
+            "lon": 28.1858,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Screamer Telecommunications",
+            "org": "Screamer Telecommunications",
+            "as": "AS327688 Screamer Telecommunications",
+            "query": "41.57.35.211",
+            "type": "http",
+            "port": "6060",
+            "response_time": 10.52
         }
     ]
 }
