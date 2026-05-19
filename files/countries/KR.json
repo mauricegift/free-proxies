@@ -1,26 +1,45 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "27",
-            "regionName": "Daegu",
-            "city": "Suseong-gu",
-            "zip": "422",
-            "lat": 35.8481,
-            "lon": 128.6968,
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Seongnam-si",
+            "zip": "13606",
+            "lat": 37.3595,
+            "lon": 127.105,
             "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Korea Telecom",
-            "as": "AS4766 Korea Telecom",
-            "query": "220.81.123.23",
+            "isp": "NAVER Cloud Corp",
+            "org": "NAVER Cloud Corp.",
+            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+            "query": "106.10.55.212",
             "type": "http",
-            "port": "48678",
-            "response_time": 9.87
+            "port": "1121",
+            "response_time": 1.7
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Jongno-gu",
+            "zip": "031",
+            "lat": 37.575,
+            "lon": 126.9778,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "1.231.81.166",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.85
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 15.16
+            "response_time": 10.13
         }
     ]
 }
