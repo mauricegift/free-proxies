@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Holborn",
-            "zip": "EC1",
-            "lat": 51.5175,
-            "lon": -0.12045,
+            "city": "Bexley",
+            "zip": "DA15",
+            "lat": 51.4409,
+            "lon": 0.0985,
             "timezone": "Europe/London",
-            "isp": "WorkTitans B.V.",
-            "org": "WorkTitans B.V",
-            "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.122.129",
+            "isp": "OVH SAS",
+            "org": "OVH Ltd",
+            "as": "AS16276 OVH SAS",
+            "query": "57.129.144.178",
             "type": "http",
-            "port": "1082",
-            "response_time": 8.64
+            "port": "40000",
+            "response_time": 4.08
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "WLS",
+            "regionName": "Wales",
+            "city": "Haverfordwest",
+            "zip": "SA61",
+            "lat": 51.7998,
+            "lon": -4.97159,
+            "timezone": "Europe/London",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.150.66.149",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.73
         }
     ]
 }
