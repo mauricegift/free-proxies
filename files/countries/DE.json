@@ -1,27 +1,8 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1109,
-            "lon": 8.68213,
-            "timezone": "Europe/Berlin",
-            "isp": "StormWall s.r.o.",
-            "org": "StormWall s.r.o",
-            "as": "AS59796 StormWall s.r.o.",
-            "query": "5.252.33.13",
-            "type": "http",
-            "port": "2025",
-            "response_time": 2.23
-        },
         {
             "status": "success",
             "country": "Germany",
@@ -39,7 +20,45 @@
             "query": "89.58.50.94",
             "type": "http",
             "port": "11140",
-            "response_time": 5.99
+            "response_time": 1.76
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1109,
+            "lon": 8.68213,
+            "timezone": "Europe/Berlin",
+            "isp": "StormWall s.r.o.",
+            "org": "StormWall s.r.o",
+            "as": "AS59796 StormWall s.r.o.",
+            "query": "5.252.33.13",
+            "type": "http",
+            "port": "2025",
+            "response_time": 2.27
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "SL",
+            "regionName": "Saarland",
+            "city": "Saarbr\u00fccken",
+            "zip": "66126",
+            "lat": 49.2293,
+            "lon": 6.9994,
+            "timezone": "Europe/Berlin",
+            "isp": "intersaar GmbH",
+            "org": "Intersaar",
+            "as": "AS12941 intersaar GmbH",
+            "query": "213.135.6.13",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.48
         }
     ]
 }
