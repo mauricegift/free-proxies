@@ -1,26 +1,45 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "WLS",
+            "regionName": "Wales",
+            "city": "Haverfordwest",
+            "zip": "SA61",
+            "lat": 51.7998,
+            "lon": -4.97159,
+            "timezone": "Europe/London",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.150.66.149",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.74
+        },
         {
             "status": "success",
             "country": "United Kingdom",
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5072,
-            "lon": -0.127586,
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
             "timezone": "Europe/London",
-            "isp": "NSFOCUS, Inc.",
-            "org": "NSFOCUS, Inc",
-            "as": "AS8757 NSFOCUS, Inc.",
-            "query": "212.58.132.5",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.125",
             "type": "http",
-            "port": "8888",
-            "response_time": 1.05
+            "port": "1082",
+            "response_time": 11.06
         }
     ]
 }
