@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "20.164.75.153",
             "type": "http",
             "port": "8080",
-            "response_time": 1.28
+            "response_time": 1.01
         },
         {
             "status": "success",
@@ -39,26 +39,64 @@
             "query": "13.246.6.135",
             "type": "http",
             "port": "10258",
-            "response_time": 2.87
+            "response_time": 2.0
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "GT",
-            "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2041",
-            "lat": -26.2041,
-            "lon": 28.0473,
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Brits",
+            "zip": "0250",
+            "lat": -25.6356,
+            "lon": 27.7849,
             "timezone": "Africa/Johannesburg",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (af-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.244.203.188",
+            "isp": "Info-Gro (PTY) Ltd",
+            "org": "Infogro DSL",
+            "as": "AS37403 Info-Gro (PTY) Ltd",
+            "query": "196.251.221.2",
             "type": "http",
-            "port": "45886",
-            "response_time": 3.54
+            "port": "8103",
+            "response_time": 12.74
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Randburg",
+            "zip": "2167",
+            "lat": -26.0993,
+            "lon": 27.9818,
+            "timezone": "Africa/Johannesburg",
+            "isp": "West Indian Ocean Cable Company",
+            "org": "Wiocc SA",
+            "as": "AS37662 West Indian Ocean Cable Company",
+            "query": "196.250.239.229",
+            "type": "http",
+            "port": "8787",
+            "response_time": 12.91
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Brits",
+            "zip": "0250",
+            "lat": -25.6356,
+            "lon": 27.7849,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Info-Gro (PTY) Ltd",
+            "org": "Infogro DSL",
+            "as": "AS37403 Info-Gro (PTY) Ltd",
+            "query": "196.251.221.2",
+            "type": "http",
+            "port": "8104",
+            "response_time": 15.72
         }
     ]
 }
