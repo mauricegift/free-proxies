@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Gimpo-si",
+            "zip": "100",
+            "lat": 37.7542,
+            "lon": 126.557,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "SK Broadband Co Ltd",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "218.52.159.161",
+            "type": "http",
+            "port": "7777",
+            "response_time": 5.33
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 4.33
+            "response_time": 11.2
         }
     ]
 }
