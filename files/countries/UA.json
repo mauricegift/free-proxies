@@ -1,27 +1,8 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 4,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Ukraine",
-            "countryCode": "UA",
-            "region": "09",
-            "regionName": "Luhansk",
-            "city": "Dobropol'ye",
-            "zip": "",
-            "lat": 47.8914,
-            "lon": 39.4183,
-            "timezone": "Europe/Kyiv",
-            "isp": "Cogento Backbone Limited",
-            "org": "Cogento Backbone Limited",
-            "as": "AS214743 Cogento Backbone Limited",
-            "query": "176.111.37.216",
-            "type": "http",
-            "port": "39811",
-            "response_time": 0.38
-        },
         {
             "status": "success",
             "country": "Ukraine",
@@ -39,7 +20,26 @@
             "query": "176.111.37.5",
             "type": "http",
             "port": "39811",
-            "response_time": 0.5
+            "response_time": 0.43
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "09",
+            "regionName": "Luhansk",
+            "city": "Dobropol'ye",
+            "zip": "",
+            "lat": 47.8914,
+            "lon": 39.4183,
+            "timezone": "Europe/Kyiv",
+            "isp": "Cogento Backbone Limited",
+            "org": "Cogento Backbone Limited",
+            "as": "AS214743 Cogento Backbone Limited",
+            "query": "176.111.37.216",
+            "type": "http",
+            "port": "39811",
+            "response_time": 0.46
         },
         {
             "status": "success",
@@ -58,26 +58,45 @@
             "query": "31.42.164.144",
             "type": "http",
             "port": "23255",
-            "response_time": 7.75
+            "response_time": 2.28
         },
         {
             "status": "success",
             "country": "Ukraine",
             "countryCode": "UA",
-            "region": "30",
-            "regionName": "Kyiv City",
-            "city": "Kyiv",
-            "zip": "01000",
-            "lat": 50.4501,
-            "lon": 30.5234,
-            "timezone": "Europe/Kiev",
-            "isp": "Kyivstar UA",
-            "org": "Kyivstar LLC",
-            "as": "AS15895 \"Kyivstar\" PJSC",
-            "query": "134.249.185.223",
+            "region": "51",
+            "regionName": "Odesa",
+            "city": "Odesa",
+            "zip": "65085",
+            "lat": 46.4752,
+            "lon": 30.7338,
+            "timezone": "Europe/Kyiv",
+            "isp": "LIMITED LIABILITY COMPANY \"INFOLINK\"",
+            "org": "ISP Telematika Ltd.",
+            "as": "AS8192 LIMITED LIABILITY COMPANY INFOLINK",
+            "query": "195.66.197.169",
             "type": "http",
-            "port": "41890",
-            "response_time": 12.19
+            "port": "39724",
+            "response_time": 2.7
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "53",
+            "regionName": "Poltava Oblast",
+            "city": "Kremenchug",
+            "zip": "39600",
+            "lat": 49.063,
+            "lon": 33.4125,
+            "timezone": "Europe/Kiev",
+            "isp": "RPC HomeNet Ltd.",
+            "org": "NPK Home-Net Ltd",
+            "as": "AS24812 RPC HomeNet Ltd.",
+            "query": "176.105.220.74",
+            "type": "http",
+            "port": "3129",
+            "response_time": 7.29
         }
     ]
 }
