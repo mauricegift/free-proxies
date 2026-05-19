@@ -1,7 +1,7 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "BY",
             "regionName": "Bavaria",
             "city": "Nuremberg",
-            "zip": "90431",
-            "lat": 49.4423,
-            "lon": 11.0191,
+            "zip": "90403",
+            "lat": 49.4527,
+            "lon": 11.0783,
             "timezone": "Europe/Berlin",
-            "isp": "netcup GmbH",
-            "org": "netcup GmbH",
-            "as": "AS197540 netcup GmbH",
-            "query": "89.58.50.94",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "116.203.139.209",
             "type": "http",
-            "port": "11140",
-            "response_time": 1.91
+            "port": "5678",
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -39,45 +39,26 @@
             "query": "5.252.33.13",
             "type": "http",
             "port": "2025",
-            "response_time": 2.17
+            "response_time": 4.41
         },
         {
             "status": "success",
             "country": "Germany",
             "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60326",
-            "lat": 50.097,
-            "lon": 8.63006,
+            "region": "SN",
+            "regionName": "Saxony",
+            "city": "Falkenstein",
+            "zip": "08223",
+            "lat": 50.4777,
+            "lon": 12.3649,
             "timezone": "Europe/Berlin",
-            "isp": "Leaseweb DE",
-            "org": "Leaseweb Deutschland GmbH",
-            "as": "AS28753 Leaseweb Deutschland GmbH",
-            "query": "212.95.32.85",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "148.251.86.68",
             "type": "http",
-            "port": "3128",
-            "response_time": 4.16
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "SL",
-            "regionName": "Saarland",
-            "city": "Saarbr\u00fccken",
-            "zip": "66126",
-            "lat": 49.2293,
-            "lon": 6.9994,
-            "timezone": "Europe/Berlin",
-            "isp": "intersaar GmbH",
-            "org": "Intersaar",
-            "as": "AS12941 intersaar GmbH",
-            "query": "213.135.6.13",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.99
+            "port": "16379",
+            "response_time": 18.17
         }
     ]
 }
