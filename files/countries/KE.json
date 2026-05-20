@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Maintainer Liquid Telecommunications Operations Limited",
-            "org": "",
-            "as": "AS30844 Liquid Telecommunications Ltd",
-            "query": "41.72.213.182",
+            "isp": "Express Data Networks Ltd",
+            "org": "Express Data Networks Ltd",
+            "as": "AS328858 Express Data Networks Limited",
+            "query": "102.220.13.208",
             "type": "http",
-            "port": "8090",
-            "response_time": 1.22
+            "port": "8080",
+            "response_time": 7.66
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "102.209.76.106",
             "type": "http",
             "port": "8080",
-            "response_time": 6.5
+            "response_time": 8.2
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Unwired Communications Ltd",
+            "org": "",
+            "as": "AS328490 Unwired Communications Limited",
+            "query": "102.68.77.3",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.51
         }
     ]
 }
