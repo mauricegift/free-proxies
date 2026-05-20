@@ -1,7 +1,7 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,45 @@
             "query": "190.93.224.32",
             "type": "http",
             "port": "999",
-            "response_time": 4.44
+            "response_time": 4.11
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima",
-            "city": "Lima",
-            "zip": "15001",
-            "lat": -12.0491,
-            "lon": -77.0305,
-            "timezone": "America/Lima",
-            "isp": "Loa Network",
-            "org": "Loa Network",
-            "as": "AS273067 LOA NETWORK JL S.A.C.",
-            "query": "38.210.3.40",
-            "type": "http",
-            "port": "999",
-            "response_time": 4.53
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "LAL",
-            "regionName": "La Libertad",
-            "city": "Guadalupe",
+            "region": "APU",
+            "regionName": "Apur\u00edmac Department",
+            "city": "San Jer\u00f3nimo",
             "zip": "",
-            "lat": -7.25,
-            "lon": -79.4833,
+            "lat": -13.6514,
+            "lon": -73.3639,
             "timezone": "America/Lima",
-            "isp": "TDP-GRS",
-            "org": "PE-TDP-GRS",
+            "isp": "Telefonica Del Peru",
+            "org": "PE-TDPERX12-LACNIC",
             "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
-            "query": "190.235.185.72",
+            "query": "201.230.121.86",
             "type": "http",
             "port": "999",
-            "response_time": 10.32
+            "response_time": 4.26
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "CAJ",
+            "regionName": "Cajamarca Department",
+            "city": "Enca\u00f1ada",
+            "zip": "",
+            "lat": -7.08498,
+            "lon": -78.3428,
+            "timezone": "America/Lima",
+            "isp": "Level 3 Peru S.A",
+            "org": "KUEHNE & NAGEL S.A",
+            "as": "AS3549 Level 3 Parent, LLC",
+            "query": "201.234.50.194",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.76
         },
         {
             "status": "success",
@@ -74,10 +74,29 @@
             "isp": "Fiberred SAC",
             "org": "Cogent Communications",
             "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.241",
+            "query": "38.158.83.161",
             "type": "http",
             "port": "999",
-            "response_time": 10.58
+            "response_time": 10.02
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "TAC",
+            "regionName": "Tacna",
+            "city": "Tacna",
+            "zip": "",
+            "lat": -18.0052,
+            "lon": -70.2489,
+            "timezone": "America/Lima",
+            "isp": "Telefonica del Peru",
+            "org": "PE-TDPERX6-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "200.106.124.223",
+            "type": "http",
+            "port": "999",
+            "response_time": 10.44
         }
     ]
 }
