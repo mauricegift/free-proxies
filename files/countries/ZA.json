@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "ZA",
             "region": "NW",
             "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
+            "city": "Rustenburg",
+            "zip": "0299",
+            "lat": -25.6608,
+            "lon": 27.2526,
             "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.222.50",
+            "isp": "Rust Scr",
+            "org": "",
+            "as": "AS327688 Screamer Telecommunications",
+            "query": "41.57.7.190",
             "type": "http",
-            "port": "8104",
-            "response_time": 1.38
+            "port": "6060",
+            "response_time": 1.87
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Potchefstroom",
+            "zip": "2531",
+            "lat": -26.7168,
+            "lon": 27.1054,
+            "timezone": "Africa/Johannesburg",
+            "isp": "JENNY Network",
+            "org": "",
+            "as": "AS327750 JENNY INTERNET (PTY) LTD",
+            "query": "154.126.213.5",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.16
         }
     ]
 }
