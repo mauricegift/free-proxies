@@ -1,8 +1,46 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "org": "Ucloud Information Technology (hk) Limited",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "152.32.132.190",
+            "type": "http",
+            "port": "7890",
+            "response_time": 1.34
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NNO",
+            "regionName": "North District",
+            "city": "Fanling",
+            "zip": "",
+            "lat": 22.4932,
+            "lon": 114.146,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Tele Asia Limited",
+            "org": "Tele Asia Limited",
+            "as": "AS133398 Tele Asia Limited",
+            "query": "45.125.67.37",
+            "type": "http",
+            "port": "8443",
+            "response_time": 3.24
+        },
         {
             "status": "success",
             "country": "Hong Kong",
@@ -17,10 +55,10 @@
             "isp": "Alibaba (US) Technology Co., Ltd.",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.217.214.66",
+            "query": "8.217.78.60",
             "type": "http",
-            "port": "50002",
-            "response_time": 3.74
+            "port": "8100",
+            "response_time": 3.67
         },
         {
             "status": "success",
@@ -36,10 +74,10 @@
             "isp": "Alibaba.com LLC",
             "org": "Hong Kong",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.242.163.146",
+            "query": "8.210.48.83",
             "type": "http",
             "port": "8100",
-            "response_time": 12.12
+            "response_time": 5.21
         },
         {
             "status": "success",
@@ -52,13 +90,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "ComsenzNet",
-            "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "119.28.51.157",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "8.210.161.8",
             "type": "http",
-            "port": "3128",
-            "response_time": 16.59
+            "port": "8100",
+            "response_time": 18.43
         }
     ]
 }
