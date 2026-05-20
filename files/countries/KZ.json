@@ -1,26 +1,45 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "35",
-            "regionName": "Karaganda",
-            "city": "Karaganda",
-            "zip": "",
-            "lat": 49.7989,
-            "lon": 73.0994,
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.2525,
+            "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "AstanaMegatel Ltd.",
-            "org": "AstanaMegatel Ltd",
-            "as": "AS203481 AstanaMegatel Ltd.",
-            "query": "46.8.252.11",
+            "isp": "Kcell JSC",
+            "org": "\"KCell\" JSC",
+            "as": "AS29355 Kcell JSC",
+            "query": "2.78.60.10",
             "type": "http",
-            "port": "8123",
-            "response_time": 0.87
+            "port": "3129",
+            "response_time": 6.69
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "JSC Transtelecom",
+            "org": "Big Data Host LLC",
+            "as": "AS41798 JSC Transtelecom",
+            "query": "194.58.42.182",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.51
         }
     ]
 }
