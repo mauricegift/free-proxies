@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS24863 Link Egypt (Link.NET)",
             "query": "197.164.101.14",
             "type": "http",
-            "port": "1981",
-            "response_time": 5.57
+            "port": "1976",
+            "response_time": 2.28
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat Misr Mobile BB",
+            "org": "",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "41.65.103.180",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.53
         },
         {
             "status": "success",
@@ -38,8 +57,8 @@
             "as": "AS24863 Link Egypt (Link.NET)",
             "query": "197.164.101.10",
             "type": "http",
-            "port": "1981",
-            "response_time": 6.24
+            "port": "1976",
+            "response_time": 5.61
         },
         {
             "status": "success",
@@ -52,13 +71,32 @@
             "lat": 30.0507,
             "lon": 31.2489,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat Misr Mobile BB",
+            "isp": "LINKdotNET AS number",
+            "org": "Link Egypt (Link.NET)",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "41.128.72.146",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.65
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "BH",
+            "regionName": "Beheira",
+            "city": "Al Y\u0101s\u012bn\u012byah",
+            "zip": "",
+            "lat": 30.95,
+            "lon": 30.0667,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
             "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.162.72",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "213.131.85.26",
             "type": "http",
             "port": "1976",
-            "response_time": 15.32
+            "response_time": 15.16
         }
     ]
 }
