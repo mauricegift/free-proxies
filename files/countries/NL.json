@@ -1,7 +1,7 @@
 {
     "countryCode": "NL",
     "country": "Netherlands",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "144.124.227.90",
             "type": "http",
             "port": "21074",
-            "response_time": 1.06
+            "response_time": 0.44
         },
         {
             "status": "success",
-            "country": "The Netherlands",
+            "country": "Netherlands",
             "countryCode": "NL",
             "region": "NH",
             "regionName": "North Holland",
             "city": "Amsterdam",
-            "zip": "1012",
-            "lat": 52.3676,
-            "lon": 4.90414,
+            "zip": "1101",
+            "lat": 52.3109,
+            "lon": 4.9453,
             "timezone": "Europe/Amsterdam",
-            "isp": "Timeweb, LLP",
-            "org": "TW Cloud",
-            "as": "AS210976 Timeweb, LLP",
-            "query": "194.135.38.144",
+            "isp": "OC NETWORKS LIMITED",
+            "org": "1Cent Host",
+            "as": "AS209693 OC NETWORKS LIMITED",
+            "query": "64.188.77.221",
             "type": "http",
             "port": "3128",
-            "response_time": 5.01
+            "response_time": 3.04
         },
         {
             "status": "success",
@@ -52,13 +52,51 @@
             "lat": 52.3759,
             "lon": 4.8975,
             "timezone": "Europe/Amsterdam",
-            "isp": "Timeweb, LLP",
-            "org": "Timeweb, LLP",
-            "as": "AS210976 Timeweb, LLP",
-            "query": "72.56.87.46",
+            "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
+            "org": "",
+            "as": "AS15830 Equinix (EMEA) Acquisition Enterprises B.V.",
+            "query": "147.75.34.105",
             "type": "http",
-            "port": "3128",
-            "response_time": 10.73
+            "port": "443",
+            "response_time": 9.05
+        },
+        {
+            "status": "success",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "LI",
+            "regionName": "Limburg",
+            "city": "Eygelshoven",
+            "zip": "6471",
+            "lat": 50.8933,
+            "lon": 6.05805,
+            "timezone": "Europe/Amsterdam",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "194.150.220.163",
+            "type": "http",
+            "port": "1082",
+            "response_time": 9.33
+        },
+        {
+            "status": "success",
+            "country": "Netherlands",
+            "countryCode": "NL",
+            "region": "FL",
+            "regionName": "Flevoland",
+            "city": "Dronten",
+            "zip": "8254",
+            "lat": 52.5281,
+            "lon": 5.7137,
+            "timezone": "Europe/Amsterdam",
+            "isp": "Mvps LTD",
+            "org": "Mvps LTD",
+            "as": "AS202448 MVPS LTD",
+            "query": "93.115.18.235",
+            "type": "http",
+            "port": "8118",
+            "response_time": 12.13
         }
     ]
 }
