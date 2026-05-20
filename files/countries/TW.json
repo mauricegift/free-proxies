@@ -1,8 +1,27 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.0501,
+            "lon": 121.565,
+            "timezone": "Asia/Taipei",
+            "isp": "Asia Pacific On-line Service Inc.",
+            "org": "Far EasTone Telecommunication Co., Ltd.",
+            "as": "AS7482 Asia Pacific On-line Service Inc.",
+            "query": "210.201.86.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.08
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -20,7 +39,7 @@
             "query": "59.124.62.9",
             "type": "http",
             "port": "3128",
-            "response_time": 13.27
+            "response_time": 12.33
         }
     ]
 }
