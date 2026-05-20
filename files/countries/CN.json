@@ -1,7 +1,7 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "218.108.131.186",
             "type": "http",
             "port": "17890",
-            "response_time": 1.4
+            "response_time": 4.29
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "BJ",
+            "regionName": "Beijing",
+            "city": "Beijing",
+            "zip": "100000",
+            "lat": 39.9042,
+            "lon": 116.407,
+            "timezone": "Asia/Shanghai",
+            "isp": "Beijing Kingsoft Cloud Internet Technology Co",
+            "org": "Beijing Kingsoft Cloud Internet Technology Co., Ltd.",
+            "as": "AS59019 Beijing Kingsoft Cloud Internet Technology Co., Ltd",
+            "query": "120.92.108.86",
+            "type": "http",
+            "port": "7890",
+            "response_time": 6.07
         }
     ]
 }
