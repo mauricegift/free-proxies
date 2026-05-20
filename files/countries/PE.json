@@ -1,8 +1,27 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "LAL",
+            "regionName": "La Libertad",
+            "city": "Chao",
+            "zip": "",
+            "lat": -8.54306,
+            "lon": -78.6792,
+            "timezone": "America/Lima",
+            "isp": "Internexa Peru S.A",
+            "org": "Morillo Global Company S.A.C",
+            "as": "AS18678 INTERNEXA S.A. E.S.P",
+            "query": "179.1.147.137",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.16
+        },
         {
             "status": "success",
             "country": "Peru",
@@ -17,29 +36,29 @@
             "isp": "Fiberred SAC",
             "org": "Cogent Communications",
             "as": "AS272838 FIBERRED SAC",
-            "query": "38.158.83.161",
+            "query": "38.158.83.65",
             "type": "http",
             "port": "999",
-            "response_time": 9.45
+            "response_time": 5.2
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "LIM",
-            "regionName": "Lima region",
-            "city": "Lur\u00edn",
-            "zip": "",
-            "lat": -12.2866,
-            "lon": -76.8707,
+            "region": "LMA",
+            "regionName": "Lima",
+            "city": "Lima",
+            "zip": "15001",
+            "lat": -12.0491,
+            "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "Nexsatel Sociedad Anonima Cerrada - .A.C.",
-            "org": "",
-            "as": "AS273026 NEXSATEL SOCIEDAD ANONIMA CERRADA - NEXSATEL S.A.C.",
-            "query": "38.52.182.55",
+            "isp": "Loa Network",
+            "org": "Loa Network",
+            "as": "AS273067 LOA NETWORK JL S.A.C.",
+            "query": "38.210.7.3",
             "type": "http",
             "port": "999",
-            "response_time": 9.48
+            "response_time": 8.26
         }
     ]
 }
