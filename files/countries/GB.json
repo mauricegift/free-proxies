@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS209847 WorkTitans B.V.",
             "query": "94.131.122.128",
             "type": "http",
-            "port": "1081",
-            "response_time": 13.25
+            "port": "1082",
+            "response_time": 1.62
         },
         {
             "status": "success",
@@ -36,10 +36,67 @@
             "isp": "WorkTitans B.V.",
             "org": "WorkTitans B.V",
             "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.122.125",
+            "query": "94.131.122.128",
+            "type": "http",
+            "port": "1081",
+            "response_time": 2.3
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Covent Garden",
+            "zip": "WC2H",
+            "lat": 51.5081,
+            "lon": -0.1278,
+            "timezone": "Europe/London",
+            "isp": "Fast Panda Limited",
+            "org": "Fast Panda Limited",
+            "as": "AS215089 Fast Panda Limited",
+            "query": "185.87.255.117",
+            "type": "http",
+            "port": "8888",
+            "response_time": 4.16
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5072,
+            "lon": -0.127586,
+            "timezone": "Europe/London",
+            "isp": "OVH SAS",
+            "org": "Sinitsky Moishe",
+            "as": "AS16276 OVH SAS",
+            "query": "51.195.236.200",
+            "type": "http",
+            "port": "21688",
+            "response_time": 7.34
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
+            "timezone": "Europe/London",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.129",
             "type": "http",
             "port": "1082",
-            "response_time": 21.37
+            "response_time": 16.75
         }
     ]
 }
