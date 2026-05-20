@@ -1,27 +1,8 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "04",
-            "regionName": "South East",
-            "city": "Singapore",
-            "zip": "",
-            "lat": 1.36945,
-            "lon": 103.969,
-            "timezone": "Asia/Singapore",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "138.2.78.251",
-            "type": "http",
-            "port": "8100",
-            "response_time": 1.04
-        },
         {
             "status": "success",
             "country": "Singapore",
@@ -39,26 +20,45 @@
             "query": "138.2.92.70",
             "type": "http",
             "port": "8100",
-            "response_time": 1.07
+            "response_time": 1.16
         },
         {
             "status": "success",
             "country": "Singapore",
             "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
+            "region": "04",
+            "regionName": "South East",
             "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.35208,
-            "lon": 103.82,
+            "zip": "",
+            "lat": 1.36945,
+            "lon": 103.969,
             "timezone": "Asia/Singapore",
-            "isp": "OVH SAS",
-            "org": "Ipxo LLC",
-            "as": "AS16276 OVH SAS",
-            "query": "206.206.126.177",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "138.2.78.251",
             "type": "http",
-            "port": "2412",
-            "response_time": 2.91
+            "port": "8100",
+            "response_time": 1.21
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "04",
+            "regionName": "South East",
+            "city": "Singapore",
+            "zip": "",
+            "lat": 1.36945,
+            "lon": 103.969,
+            "timezone": "Asia/Singapore",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Public Cloud",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.171.204",
+            "type": "http",
+            "port": "8100",
+            "response_time": 2.58
         },
         {
             "status": "success",
@@ -74,29 +74,10 @@
             "isp": "Alibaba Cloud LLC",
             "org": "Alibaba Cloud - SG",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.241.32.135",
+            "query": "47.241.16.163",
             "type": "http",
             "port": "8100",
-            "response_time": 4.23
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "038989",
-            "lat": 1.29556,
-            "lon": 103.859,
-            "timezone": "Asia/Singapore",
-            "isp": "PT Perwira Media Solusi",
-            "org": "PT Perwira Media Solusi",
-            "as": "AS211407 PT Perwira Media Solusi",
-            "query": "45.149.93.120",
-            "type": "http",
-            "port": "8015",
-            "response_time": 6.82
+            "response_time": 3.81
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "161.117.182.220",
             "type": "http",
             "port": "8100",
-            "response_time": 11.3
+            "response_time": 24.7
         }
     ]
 }
