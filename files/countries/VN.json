@@ -1,27 +1,8 @@
 {
     "countryCode": "VN",
     "country": "Vietnam",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Vietnam",
-            "countryCode": "VN",
-            "region": "HN",
-            "regionName": "Hanoi",
-            "city": "Li\u00ean Quan",
-            "zip": "",
-            "lat": 21.0078,
-            "lon": 105.531,
-            "timezone": "Asia/Bangkok",
-            "isp": "VTDC",
-            "org": "Viettel-CHT Company Ltd",
-            "as": "AS38731 Vietel - CHT Compamy Ltd",
-            "query": "45.117.163.134",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.56
-        },
         {
             "status": "success",
             "country": "Vietnam",
@@ -39,7 +20,45 @@
             "query": "113.160.132.26",
             "type": "http",
             "port": "8080",
-            "response_time": 1.64
+            "response_time": 1.61
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "HN",
+            "regionName": "Hanoi",
+            "city": "Li\u00ean Quan",
+            "zip": "",
+            "lat": 21.0078,
+            "lon": 105.531,
+            "timezone": "Asia/Bangkok",
+            "isp": "VTDC",
+            "org": "Viettel-CHT Company Ltd",
+            "as": "AS38731 Vietel - CHT Compamy Ltd",
+            "query": "45.117.163.134",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.74
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "HN",
+            "regionName": "Hanoi",
+            "city": "Hanoi",
+            "zip": "100000",
+            "lat": 21.0184,
+            "lon": 105.8461,
+            "timezone": "Asia/Bangkok",
+            "isp": "FPT Telecom Company",
+            "org": "Vietnam Internet Network Information Center",
+            "as": "AS18403 FPT Telecom Company",
+            "query": "42.112.214.119",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.81
         },
         {
             "status": "success",
@@ -58,26 +77,7 @@
             "query": "27.71.52.4",
             "type": "http",
             "port": "1455",
-            "response_time": 5.14
-        },
-        {
-            "status": "success",
-            "country": "Vietnam",
-            "countryCode": "VN",
-            "region": "SG",
-            "regionName": "Ho Chi Minh",
-            "city": "Ho Chi Minh City",
-            "zip": "700000",
-            "lat": 10.822,
-            "lon": 106.6257,
-            "timezone": "Asia/Ho_Chi_Minh",
-            "isp": "FPT Telecom Company",
-            "org": "FPT-STATICIP",
-            "as": "AS18403 FPT Telecom Company",
-            "query": "42.116.10.196",
-            "type": "http",
-            "port": "443",
-            "response_time": 5.66
+            "response_time": 11.52
         },
         {
             "status": "success",
@@ -90,13 +90,32 @@
             "lat": 21.0278,
             "lon": 105.834,
             "timezone": "Asia/Bangkok",
-            "isp": "HOALAC-VNNIC",
-            "org": "HoaLac Software City Development Company",
-            "as": "AS131423 Branch of Long Van System Solution JSC - Hanoi",
-            "query": "42.96.19.211",
+            "isp": "Viettel Group",
+            "org": "VIETTEL",
+            "as": "AS7552 Viettel Group",
+            "query": "27.66.196.233",
             "type": "http",
-            "port": "1314",
-            "response_time": 14.66
+            "port": "16000",
+            "response_time": 12.55
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "SG",
+            "regionName": "Ho Chi Minh",
+            "city": "Ho Chi Minh City",
+            "zip": "700000",
+            "lat": 10.822,
+            "lon": 106.6257,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "isp": "VietNam Post and Telecom Corporation",
+            "org": "Vietnam Posts and Telecommunications Group",
+            "as": "AS45899 VNPT Corp",
+            "query": "113.161.93.174",
+            "type": "http",
+            "port": "6008",
+            "response_time": 13.47
         }
     ]
 }
