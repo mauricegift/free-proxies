@@ -1,8 +1,27 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 4,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1169,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "209.38.183.26",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.19
+        },
         {
             "status": "success",
             "country": "Germany",
@@ -20,7 +39,7 @@
             "query": "89.58.50.94",
             "type": "http",
             "port": "11140",
-            "response_time": 0.15
+            "response_time": 0.25
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "5.252.33.13",
             "type": "http",
             "port": "2025",
-            "response_time": 1.92
+            "response_time": 1.84
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60314",
+            "lat": 50.1103,
+            "lon": 8.7147,
+            "timezone": "Europe/Berlin",
+            "isp": "EVANZO e-commerce GmbH",
+            "org": "1blu GmbH",
+            "as": "AS42730 EVANZO e-commerce GmbH",
+            "query": "195.90.215.186",
+            "type": "http",
+            "port": "3443",
+            "response_time": 4.2
         },
         {
             "status": "success",
@@ -49,16 +87,16 @@
             "regionName": "Hesse",
             "city": "Frankfurt am Main",
             "zip": "60313",
-            "lat": 50.1169,
-            "lon": 8.6837,
+            "lat": 50.1109,
+            "lon": 8.68213,
             "timezone": "Europe/Berlin",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "138.68.101.169",
+            "isp": "Inyc Holding Limited",
+            "org": "Inyc Holding Limited",
+            "as": "AS213905 ISPLABS LIMITED",
+            "query": "193.23.209.44",
             "type": "http",
             "port": "3128",
-            "response_time": 8.88
+            "response_time": 4.34
         },
         {
             "status": "success",
@@ -71,13 +109,13 @@
             "lat": 50.1169,
             "lon": 8.6837,
             "timezone": "Europe/Berlin",
-            "isp": "Big Data Host LLC",
-            "org": "GLB Bulut Teknolojisi Limited Sirketi",
-            "as": "AS215346 Big Data Host LLC",
-            "query": "45.135.165.102",
+            "isp": "First Server Limited",
+            "org": "Firstbyte Hosting",
+            "as": "AS200740 FIRST SERVER LIMITED",
+            "query": "185.103.252.20",
             "type": "http",
-            "port": "443",
-            "response_time": 10.25
+            "port": "3128",
+            "response_time": 7.02
         }
     ]
 }
