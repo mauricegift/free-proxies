@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "IF",
+            "regionName": "Ilfov",
+            "city": "Voluntari",
+            "zip": "077190",
+            "lat": 44.4865,
+            "lon": 26.1738,
+            "timezone": "Europe/Bucharest",
+            "isp": "Dotro Telecom SRL",
+            "org": "LifeinCloud LTD",
+            "as": "AS43376 DOTRO TELECOM SRL",
+            "query": "38.79.154.27",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.66
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -14,13 +33,13 @@
             "lat": 44.4268,
             "lon": 26.1025,
             "timezone": "Europe/Bucharest",
-            "isp": "Mondo-Byte SRL",
-            "org": "Mondo-Byte SRL",
-            "as": "AS39277 Mondo-Byte SRL",
-            "query": "194.117.230.230",
+            "isp": "M247 Europe SRL",
+            "org": "Urban Network Solutions SRL",
+            "as": "AS9009 M247 Europe SRL",
+            "query": "85.121.51.40",
             "type": "http",
-            "port": "3128",
-            "response_time": 9.06
+            "port": "9091",
+            "response_time": 2.33
         }
     ]
 }
