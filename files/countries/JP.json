@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 6,
+    "count": 9,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "124.40.56.10",
             "type": "http",
             "port": "3128",
-            "response_time": 1.84
+            "response_time": 2.01
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.76.253",
+            "query": "116.80.76.254",
             "type": "http",
             "port": "7779",
-            "response_time": 2.98
+            "response_time": 2.92
         },
         {
             "status": "success",
@@ -47,18 +47,37 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
+            "city": "Wakabayashi",
+            "zip": "154-0021",
+            "lat": 35.6491,
+            "lon": 139.6464,
             "timezone": "Asia/Tokyo",
-            "isp": "The Constant Company, LLC",
-            "org": "Choopa, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "167.179.101.174",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.76.252",
             "type": "http",
-            "port": "8890",
-            "response_time": 4.81
+            "port": "7779",
+            "response_time": 3.9
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6916,
+            "lon": 139.768,
+            "timezone": "Asia/Tokyo",
+            "isp": "interQ",
+            "org": "GMO Internet, Inc.",
+            "as": "AS7506 GMO Internet Group, Inc.",
+            "query": "133.130.90.75",
+            "type": "http",
+            "port": "4343",
+            "response_time": 4.28
         },
         {
             "status": "success",
@@ -77,26 +96,7 @@
             "query": "116.80.76.250",
             "type": "http",
             "port": "7779",
-            "response_time": 5.14
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "151-0053",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.167.10.240",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.44
+            "response_time": 5.47
         },
         {
             "status": "success",
@@ -115,7 +115,64 @@
             "query": "168.110.52.228",
             "type": "http",
             "port": "3128",
-            "response_time": 12.11
+            "response_time": 8.3
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Wakabayashi",
+            "zip": "154-0021",
+            "lat": 35.6491,
+            "lon": 139.6464,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.76.253",
+            "type": "http",
+            "port": "7779",
+            "response_time": 8.98
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "27",
+            "regionName": "Osaka",
+            "city": "Osaka",
+            "zip": "530-0041",
+            "lat": 34.6967,
+            "lon": 135.5154,
+            "timezone": "Asia/Tokyo",
+            "isp": "JCOM Co., Ltd.",
+            "org": "JCOM",
+            "as": "AS9617 JCOM Co., Ltd.",
+            "query": "49.251.173.201",
+            "type": "http",
+            "port": "5006",
+            "response_time": 11.58
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Minamishinagawa",
+            "zip": "140-0001",
+            "lat": 35.6164,
+            "lon": 139.7425,
+            "timezone": "Asia/Tokyo",
+            "isp": "The Constant Company, LLC",
+            "org": "Choopa, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "167.179.101.174",
+            "type": "http",
+            "port": "8890",
+            "response_time": 12.13
         }
     ]
 }
