@@ -1,7 +1,7 @@
 {
     "countryCode": "VN",
     "country": "Vietnam",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "45.117.163.134",
             "type": "http",
             "port": "3128",
-            "response_time": 1.2
+            "response_time": 1.28
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "113.160.132.26",
             "type": "http",
             "port": "8080",
-            "response_time": 1.85
+            "response_time": 1.71
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "HN",
+            "regionName": "Hanoi",
+            "city": "Hanoi",
+            "zip": "",
+            "lat": 21.0278,
+            "lon": 105.834,
+            "timezone": "Asia/Bangkok",
+            "isp": "Viettel Group",
+            "org": "VIETTEL",
+            "as": "AS7552 Viettel Group",
+            "query": "27.66.196.233",
+            "type": "http",
+            "port": "16000",
+            "response_time": 4.67
+        },
+        {
+            "status": "success",
+            "country": "Vietnam",
+            "countryCode": "VN",
+            "region": "SG",
+            "regionName": "Ho Chi Minh",
+            "city": "Ho Chi Minh City",
+            "zip": "700000",
+            "lat": 10.822,
+            "lon": 106.6257,
+            "timezone": "Asia/Ho_Chi_Minh",
+            "isp": "FPT Telecom Company",
+            "org": "Vietnam Internet Network Information Center",
+            "as": "AS18403 FPT Telecom Company",
+            "query": "42.115.171.247",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.9
         },
         {
             "status": "success",
@@ -58,64 +96,7 @@
             "query": "103.17.88.215",
             "type": "http",
             "port": "8080",
-            "response_time": 3.92
-        },
-        {
-            "status": "success",
-            "country": "Vietnam",
-            "countryCode": "VN",
-            "region": "HN",
-            "regionName": "Hanoi",
-            "city": "Hanoi",
-            "zip": "100000",
-            "lat": 21.0184,
-            "lon": 105.8461,
-            "timezone": "Asia/Bangkok",
-            "isp": "FPT Telecom Company",
-            "org": "Vietnam Internet Network Information Center",
-            "as": "AS18403 FPT Telecom Company",
-            "query": "42.112.214.119",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.93
-        },
-        {
-            "status": "success",
-            "country": "Vietnam",
-            "countryCode": "VN",
-            "region": "HN",
-            "regionName": "Hanoi",
-            "city": "Hanoi",
-            "zip": "",
-            "lat": 21.0278,
-            "lon": 105.834,
-            "timezone": "Asia/Bangkok",
-            "isp": "Zenlayer Inc",
-            "org": "ZENLA",
-            "as": "AS21859 Zenlayer Inc",
-            "query": "128.14.92.90",
-            "type": "http",
-            "port": "22892",
-            "response_time": 8.4
-        },
-        {
-            "status": "success",
-            "country": "Vietnam",
-            "countryCode": "VN",
-            "region": "HN",
-            "regionName": "Hanoi",
-            "city": "Hanoi",
-            "zip": "100000",
-            "lat": 21.0184,
-            "lon": 105.8461,
-            "timezone": "Asia/Bangkok",
-            "isp": "VietNam Post and Telecom Corporation",
-            "org": "Vietnam Posts and Telecommunications Group",
-            "as": "AS45899 VNPT Corp",
-            "query": "123.16.15.41",
-            "type": "http",
-            "port": "1452",
-            "response_time": 9.81
+            "response_time": 11.61
         }
     ]
 }
