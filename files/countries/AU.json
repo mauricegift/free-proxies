@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2148",
+            "lat": -33.8688,
+            "lon": 151.2092,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "2E TELEKOMUNIKASYON LTD STI",
+            "as": "AS16276 OVH SAS",
+            "query": "23.230.14.90",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.92
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,26 +39,26 @@
             "query": "180.181.215.232",
             "type": "http",
             "port": "3128",
-            "response_time": 4.39
+            "response_time": 4.19
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "1001",
-            "lat": -33.8688,
-            "lon": 151.209,
-            "timezone": "Australia/Sydney",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-sydney-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "168.138.109.191",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3806",
+            "lat": -38.0365,
+            "lon": 145.3502,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
             "type": "http",
-            "port": "3128",
-            "response_time": 4.83
+            "port": "8080",
+            "response_time": 7.46
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "61.29.96.146",
             "type": "http",
             "port": "80",
-            "response_time": 7.25
+            "response_time": 8.45
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4705,
+            "lon": 153.026,
+            "timezone": "Australia/Brisbane",
+            "isp": "ERX",
+            "org": "",
+            "as": "",
+            "query": "163.128.198.18",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.43
         }
     ]
 }
