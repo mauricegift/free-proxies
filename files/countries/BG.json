@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "213.169.33.3",
             "type": "http",
             "port": "8001",
-            "response_time": 4.76
+            "response_time": 3.23
         },
         {
             "status": "success",
@@ -39,7 +39,64 @@
             "query": "213.169.33.12",
             "type": "http",
             "port": "8001",
-            "response_time": 5.61
+            "response_time": 3.97
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "08",
+            "regionName": "Dobrich",
+            "city": "Dobrich",
+            "zip": "9300",
+            "lat": 43.5606,
+            "lon": 27.8299,
+            "timezone": "Europe/Sofia",
+            "isp": "DobrudjaCable Ltd.",
+            "org": "DobrudjaCable Ltd.",
+            "as": "AS57344 Telehouse EAD",
+            "query": "5.104.174.199",
+            "type": "http",
+            "port": "23500",
+            "response_time": 5.99
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "04",
+            "regionName": "Veliko Tarnovo",
+            "city": "Sistov",
+            "zip": "5250",
+            "lat": 43.6264,
+            "lon": 25.3544,
+            "timezone": "Europe/Sofia",
+            "isp": "ZONATA - INVEST sLLC",
+            "org": "Neterra Thezone",
+            "as": "AS34368 ZONATA - INVEST sLLC",
+            "query": "85.217.192.39",
+            "type": "http",
+            "port": "1414",
+            "response_time": 8.48
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "M247 Europe SRL",
+            "org": "3NT SOLUTIONS LLP",
+            "as": "AS9009 M247 Europe SRL",
+            "query": "38.180.2.107",
+            "type": "http",
+            "port": "3128",
+            "response_time": 27.47
         }
     ]
 }
