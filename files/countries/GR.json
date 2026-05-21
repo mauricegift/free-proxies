@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "Thessaloniki",
+            "zip": "",
+            "lat": 40.6439,
+            "lon": 22.9358,
+            "timezone": "Europe/Athens",
+            "isp": "Nova Telecommunications & Media Single Member S.A",
+            "org": "",
+            "as": "AS1241 Forthnet",
+            "query": "194.219.243.233",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.46
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,7 +39,7 @@
             "query": "5.55.156.85",
             "type": "http",
             "port": "8080",
-            "response_time": 5.78
+            "response_time": 8.78
         }
     ]
 }
