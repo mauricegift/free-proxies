@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "116.80.76.250",
             "type": "http",
             "port": "7779",
-            "response_time": 3.6
+            "response_time": 3.76
         },
         {
             "status": "success",
@@ -28,18 +28,37 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Chiyoda City",
-            "zip": "100-8111",
-            "lat": 35.6916,
-            "lon": 139.768,
+            "city": "Wakabayashi",
+            "zip": "154-0021",
+            "lat": 35.6491,
+            "lon": 139.6464,
             "timezone": "Asia/Tokyo",
-            "isp": "interQ",
-            "org": "GMO Internet, Inc.",
-            "as": "AS7506 GMO Internet Group, Inc.",
-            "query": "133.130.90.75",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.76.252",
             "type": "http",
-            "port": "4343",
-            "response_time": 3.74
+            "port": "7779",
+            "response_time": 4.41
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Wakabayashi",
+            "zip": "154-0021",
+            "lat": 35.6491,
+            "lon": 139.6464,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "116.80.76.253",
+            "type": "http",
+            "port": "7779",
+            "response_time": 8.51
         }
     ]
 }
