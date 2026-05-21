@@ -1,8 +1,46 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4705,
+            "lon": 153.026,
+            "timezone": "Australia/Brisbane",
+            "isp": "ERX",
+            "org": "",
+            "as": "",
+            "query": "163.128.198.18",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.96
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "1001",
+            "lat": -33.8688,
+            "lon": 151.209,
+            "timezone": "Australia/Sydney",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-sydney-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.109.191",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.07
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +58,7 @@
             "query": "23.230.14.90",
             "type": "http",
             "port": "8080",
-            "response_time": 3.63
+            "response_time": 17.27
         }
     ]
 }
