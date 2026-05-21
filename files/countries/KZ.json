@@ -1,8 +1,46 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "010000",
+            "lat": 51.1655,
+            "lon": 71.4272,
+            "timezone": "Asia/Almaty",
+            "isp": "TTC Network",
+            "org": "",
+            "as": "AS41798 JSC Transtelecom",
+            "query": "91.185.20.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.05
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "35",
+            "regionName": "Karaganda",
+            "city": "Karaganda",
+            "zip": "",
+            "lat": 49.7989,
+            "lon": 73.0994,
+            "timezone": "Asia/Almaty",
+            "isp": "AstanaMegatel Ltd.",
+            "org": "AstanaMegatel Ltd",
+            "as": "AS203481 AstanaMegatel Ltd.",
+            "query": "46.8.252.11",
+            "type": "http",
+            "port": "8123",
+            "response_time": 8.88
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +58,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 7.36
+            "response_time": 11.1
         }
     ]
 }
