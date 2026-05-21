@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.91.193",
+            "type": "http",
+            "port": "40000",
+            "response_time": 1.56
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,26 +39,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 2.28
+            "response_time": 1.58
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.5108,
-            "lon": 127.1048,
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Guri-si",
+            "zip": "119",
+            "lat": 37.5945,
+            "lon": 127.1321,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
+            "as": "AS4766 Korea Telecom",
+            "query": "221.155.210.184",
             "type": "http",
             "port": "3128",
-            "response_time": 2.92
+            "response_time": 5.45
         },
         {
             "status": "success",
@@ -48,17 +67,17 @@
             "region": "11",
             "regionName": "Seoul",
             "city": "Seoul",
-            "zip": "04524",
-            "lat": 37.5658,
+            "zip": "045",
+            "lat": 37.5656,
             "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.155.206.118",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "210.223.44.230",
             "type": "http",
             "port": "3128",
-            "response_time": 5.04
+            "response_time": 10.43
         }
     ]
 }
