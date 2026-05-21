@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Stockholm County",
             "city": "Stockholm",
             "zip": "100 04",
-            "lat": 59.3327,
-            "lon": 18.0656,
+            "lat": 59.3287,
+            "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Aeza International LTD",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "45.80.231.251",
+            "isp": "PVDataNet AB",
+            "org": "PVDataNet AB",
+            "as": "AS42201 PVDataNet AB",
+            "query": "193.181.35.213",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.92
+            "port": "8118",
+            "response_time": 2.25
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Kista",
+            "zip": "164 40",
+            "lat": 59.3996,
+            "lon": 17.9484,
+            "timezone": "Europe/Stockholm",
+            "isp": "SWIPNET",
+            "org": "Mobile Services",
+            "as": "",
+            "query": "85.232.190.85",
+            "type": "http",
+            "port": "3310",
+            "response_time": 10.36
         }
     ]
 }
