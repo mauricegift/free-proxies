@@ -1,8 +1,27 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "HDF",
+            "regionName": "Hauts-de-France",
+            "city": "Valenciennes",
+            "zip": "59300",
+            "lat": 50.3571,
+            "lon": 3.51833,
+            "timezone": "Europe/Paris",
+            "isp": "global",
+            "org": "",
+            "as": "AS197922 Techcrea Solutions SAS",
+            "query": "185.41.152.110",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.54
+        },
         {
             "status": "success",
             "country": "France",
@@ -20,7 +39,7 @@
             "query": "195.25.20.155",
             "type": "http",
             "port": "3128",
-            "response_time": 1.58
+            "response_time": 4.03
         }
     ]
 }
