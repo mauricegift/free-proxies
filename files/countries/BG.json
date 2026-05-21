@@ -1,26 +1,26 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
             "timezone": "Europe/Sofia",
-            "isp": "Green Floid LLC",
-            "org": "Hosting Provider EuroHoster Ltd.",
-            "as": "AS59729 GREEN FLOID LLC",
-            "query": "185.204.53.85",
+            "isp": "Netroniks EOOD",
+            "org": "Netronix Ltd.",
+            "as": "AS48233 Netroniks EOOD",
+            "query": "151.237.84.9",
             "type": "http",
-            "port": "3128",
-            "response_time": 4.2
+            "port": "8080",
+            "response_time": 2.39
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "A1 Bulgaria EAD",
             "org": "",
             "as": "AS8717 A1 Bulgaria EAD",
-            "query": "92.247.12.136",
+            "query": "92.247.12.130",
             "type": "http",
             "port": "9510",
-            "response_time": 10.39
+            "response_time": 2.55
         },
         {
             "status": "success",
@@ -58,7 +58,45 @@
             "query": "85.187.224.21",
             "type": "http",
             "port": "8080",
-            "response_time": 10.66
+            "response_time": 5.66
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1592",
+            "lat": 42.6951,
+            "lon": 23.325,
+            "timezone": "Europe/Sofia",
+            "isp": "DA International Group Ltd.",
+            "org": "DA International Group Ltd",
+            "as": "AS203380 DA International Group Ltd.",
+            "query": "104.152.48.236",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.82
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.7",
+            "type": "http",
+            "port": "8001",
+            "response_time": 11.99
         }
     ]
 }
