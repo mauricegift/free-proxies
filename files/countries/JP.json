@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "124.40.56.10",
             "type": "http",
             "port": "3128",
-            "response_time": 2.0
+            "response_time": 1.83
         },
         {
             "status": "success",
@@ -28,18 +28,18 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
+            "city": "Tokyo",
+            "zip": "152-8503",
+            "lat": 35.68,
+            "lon": 139.77,
             "timezone": "Asia/Tokyo",
-            "isp": "The Constant Company, LLC",
-            "org": "TYO Vultr",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "139.180.196.38",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (japaneast)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.78.118.91",
             "type": "http",
-            "port": "10808",
-            "response_time": 2.0
+            "port": "8561",
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -58,7 +58,45 @@
             "query": "116.80.76.252",
             "type": "http",
             "port": "7779",
-            "response_time": 4.94
+            "response_time": 3.95
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6906,
+            "lon": 139.77,
+            "timezone": "Asia/Tokyo",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "140.227.61.201",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.79
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "270-1351",
+            "lat": 35.798,
+            "lon": 140.1803,
+            "timezone": "Asia/Tokyo",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.110.52.228",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.47
         },
         {
             "status": "success",
@@ -77,7 +115,7 @@
             "query": "116.80.76.250",
             "type": "http",
             "port": "7779",
-            "response_time": 8.88
+            "response_time": 6.67
         }
     ]
 }
