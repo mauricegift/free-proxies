@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "ZA",
             "region": "GP",
             "regionName": "Gauteng",
-            "city": "Daveyton",
-            "zip": "1520",
-            "lat": -26.1427,
-            "lon": 28.4203,
+            "city": "Randburg",
+            "zip": "2167",
+            "lat": -26.0993,
+            "lon": 27.9818,
             "timezone": "Africa/Johannesburg",
-            "isp": "Session Telecoms(PTY) Ltd",
-            "org": "SessionTelecoms",
-            "as": "AS327907 Session Telecoms(PTY) Ltd",
-            "query": "102.135.142.234",
+            "isp": "West Indian Ocean Cable Company",
+            "org": "Wiocc SA",
+            "as": "AS37662 West Indian Ocean Cable Company",
+            "query": "196.250.239.229",
             "type": "http",
-            "port": "12354",
-            "response_time": 7.82
+            "port": "8787",
+            "response_time": 1.47
         },
         {
             "status": "success",
@@ -29,17 +29,36 @@
             "region": "WC",
             "regionName": "Western Cape",
             "city": "Cape Town",
-            "zip": "7784",
+            "zip": "7441",
             "lat": -33.914,
             "lon": 18.4129,
             "timezone": "Africa/Johannesburg",
-            "isp": "BitCo",
-            "org": "",
-            "as": "AS37358 BitCo",
-            "query": "154.117.154.194",
+            "isp": "Vox Telecommunications (Pty) Limited",
+            "org": "Vox Telecom (Pty) Ltd",
+            "as": "AS11845 Vox Telecom Ltd",
+            "query": "102.39.233.4",
             "type": "http",
             "port": "8080",
-            "response_time": 10.95
+            "response_time": 1.52
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2041",
+            "lat": -26.2309,
+            "lon": 28.0583,
+            "timezone": "Africa/Johannesburg",
+            "isp": "X-DSL Networking Solutions",
+            "org": "",
+            "as": "AS36916 X-DSL Networking Solutions",
+            "query": "41.180.70.2",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.85
         }
     ]
 }
