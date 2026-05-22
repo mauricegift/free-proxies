@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "80.78.128.94",
             "type": "http",
             "port": "8080",
-            "response_time": 4.33
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -39,7 +39,64 @@
             "query": "90.174.128.42",
             "type": "http",
             "port": "3128",
-            "response_time": 6.51
+            "response_time": 4.08
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "VC",
+            "regionName": "Valencia",
+            "city": "Valencia",
+            "zip": "46010",
+            "lat": 39.4739,
+            "lon": -0.37966,
+            "timezone": "Europe/Madrid",
+            "isp": "MasMovil Access Network",
+            "org": "Masmovil Ibercom, SA",
+            "as": "AS15704 XTRA TELECOM S.A.",
+            "query": "81.0.49.104",
+            "type": "http",
+            "port": "20500",
+            "response_time": 5.79
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Mijas",
+            "zip": "29650",
+            "lat": 36.5997,
+            "lon": -4.6384,
+            "timezone": "Europe/Madrid",
+            "isp": "AVATEL TELECOM, SA",
+            "org": "AVATEL TELECOM, SA",
+            "as": "AS200845 AVATEL TELECOM, SA",
+            "query": "185.202.165.1",
+            "type": "http",
+            "port": "53281",
+            "response_time": 10.85
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28022",
+            "lat": 40.4505,
+            "lon": -3.5926,
+            "timezone": "Europe/Madrid",
+            "isp": "Citelia s.a.",
+            "org": "Fibercli",
+            "as": "AS206276 Citelia s.a.",
+            "query": "193.38.224.169",
+            "type": "http",
+            "port": "8081",
+            "response_time": 12.41
         }
     ]
 }
