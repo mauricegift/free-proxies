@@ -1,8 +1,46 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 8,
+    "count": 11,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "BY",
+            "regionName": "Bavaria",
+            "city": "Nuremberg",
+            "zip": "90431",
+            "lat": 49.4423,
+            "lon": 11.0191,
+            "timezone": "Europe/Berlin",
+            "isp": "netcup GmbH",
+            "org": "netcup GmbH",
+            "as": "AS197540 netcup GmbH",
+            "query": "89.58.50.94",
+            "type": "http",
+            "port": "11140",
+            "response_time": 0.41
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "BY",
+            "regionName": "Bavaria",
+            "city": "Nuremberg",
+            "zip": "90475",
+            "lat": 49.405,
+            "lon": 11.1617,
+            "timezone": "Europe/Berlin",
+            "isp": "Contabo GmbH",
+            "org": "Contabo GmbH",
+            "as": "AS51167 Contabo GmbH",
+            "query": "167.86.95.198",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.42
+        },
         {
             "status": "success",
             "country": "Germany",
@@ -20,7 +58,7 @@
             "query": "144.31.73.173",
             "type": "http",
             "port": "3128",
-            "response_time": 0.37
+            "response_time": 0.71
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "47.91.95.168",
             "type": "http",
             "port": "3128",
-            "response_time": 1.63
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "BY",
+            "regionName": "Bavaria",
+            "city": "Estenfeld",
+            "zip": "97230",
+            "lat": 49.8587,
+            "lon": 10.008,
+            "timezone": "Europe/Berlin",
+            "isp": "Florian Kolb",
+            "org": "Datalix",
+            "as": "AS58087 Florian Kolb",
+            "query": "45.13.237.201",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.85
         },
         {
             "status": "success",
@@ -58,26 +115,7 @@
             "query": "5.252.33.13",
             "type": "http",
             "port": "2025",
-            "response_time": 1.91
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "BY",
-            "regionName": "Bavaria",
-            "city": "Nuremberg",
-            "zip": "90431",
-            "lat": 49.4423,
-            "lon": 11.0191,
-            "timezone": "Europe/Berlin",
-            "isp": "netcup GmbH",
-            "org": "netcup GmbH",
-            "as": "AS197540 netcup GmbH",
-            "query": "89.58.50.94",
-            "type": "http",
-            "port": "11140",
-            "response_time": 4.06
+            "response_time": 3.26
         },
         {
             "status": "success",
@@ -87,35 +125,16 @@
             "regionName": "Hesse",
             "city": "Frankfurt am Main",
             "zip": "60313",
-            "lat": 50.1169,
-            "lon": 8.6837,
+            "lat": 50.1109,
+            "lon": 8.68213,
             "timezone": "Europe/Berlin",
-            "isp": "Hostkey B.V.",
-            "org": "LLC Vektor Aiti Tekhnologii",
-            "as": "AS57043 HOSTKEY B.V.",
-            "query": "103.27.156.157",
+            "isp": "Timeweb, LLP",
+            "org": "Timeweb, LLP",
+            "as": "AS210976 Timeweb, LLP",
+            "query": "64.188.57.128",
             "type": "http",
             "port": "3128",
-            "response_time": 6.93
-        },
-        {
-            "status": "success",
-            "country": "Germany",
-            "countryCode": "DE",
-            "region": "HE",
-            "regionName": "Hesse",
-            "city": "Frankfurt am Main",
-            "zip": "60313",
-            "lat": 50.1169,
-            "lon": 8.6837,
-            "timezone": "Europe/Berlin",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.157.41.157",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.67
+            "response_time": 6.51
         },
         {
             "status": "success",
@@ -131,10 +150,10 @@
             "isp": "DigitalOcean, LLC",
             "org": "DigitalOcean, LLC",
             "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.230.28.51",
+            "query": "138.68.101.169",
             "type": "http",
-            "port": "1981",
-            "response_time": 9.54
+            "port": "3128",
+            "response_time": 7.13
         },
         {
             "status": "success",
@@ -153,7 +172,45 @@
             "query": "148.251.86.68",
             "type": "http",
             "port": "16379",
-            "response_time": 12.94
+            "response_time": 12.07
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1169,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "157.230.28.51",
+            "type": "http",
+            "port": "1981",
+            "response_time": 12.9
+        },
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60388",
+            "lat": 50.1517,
+            "lon": 8.7523,
+            "timezone": "Europe/Berlin",
+            "isp": "Massivegrid LTD",
+            "org": "",
+            "as": "AS49683 MASSIVEGRID LTD",
+            "query": "185.116.238.3",
+            "type": "http",
+            "port": "8888",
+            "response_time": 14.49
         }
     ]
 }
