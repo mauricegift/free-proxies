@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
+            "isp": "Abissnet ISP",
             "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.33.26",
+            "as": "AS35047 Abissnet sh.a.",
+            "query": "80.91.116.129",
             "type": "http",
-            "port": "8079",
-            "response_time": 11.3
+            "port": "8081",
+            "response_time": 2.95
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Durr\u00ebs",
+            "zip": "",
+            "lat": 41.3287,
+            "lon": 19.4494,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Sh.A",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "66.186.199.33",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.83
         }
     ]
 }
