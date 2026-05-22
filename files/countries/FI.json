@@ -1,27 +1,8 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00201",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Hetzner Online GmbH",
-            "org": "HETZNER-DC",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "204.168.203.63",
-            "type": "http",
-            "port": "9091",
-            "response_time": 0.92
-        },
         {
             "status": "success",
             "country": "Finland",
@@ -39,7 +20,26 @@
             "query": "65.109.178.5",
             "type": "http",
             "port": "8080",
-            "response_time": 1.43
+            "response_time": 0.88
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "First Server Limited",
+            "org": "First Server Limited",
+            "as": "AS204339 FIRST SERVER LIMITED",
+            "query": "185.102.136.76",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.23
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "185.230.190.195",
             "type": "http",
             "port": "3128",
-            "response_time": 4.94
+            "response_time": 6.45
         },
         {
             "status": "success",
@@ -67,17 +67,17 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00121",
-            "lat": 60.1699,
-            "lon": 24.9384,
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "SERV.HOST GROUP LTD",
-            "org": "SERV.HOST GROUP LTD",
-            "as": "AS207957 SERV.HOST GROUP LTD",
-            "query": "144.31.249.57",
+            "isp": "Inios Oy",
+            "org": "LLC Vektor Aiti Tekhnologii",
+            "as": "AS209378 Inios Oy",
+            "query": "195.226.92.95",
             "type": "http",
             "port": "8080",
-            "response_time": 8.49
+            "response_time": 10.69
         },
         {
             "status": "success",
@@ -86,36 +86,17 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00380",
-            "lat": 60.2188,
-            "lon": 24.8708,
+            "zip": "00201",
+            "lat": 60.1719,
+            "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Anton Levin",
-            "org": "Individual Entrepreneur Anton Levin",
-            "as": "AS50053 VDSka hosting",
-            "query": "185.236.24.140",
+            "isp": "I-servers LTD",
+            "org": "POWER-SERVERS-ROLE-ORG",
+            "as": "AS207569 I-SERVERS LTD",
+            "query": "194.53.54.97",
             "type": "http",
-            "port": "3128",
-            "response_time": 10.64
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00380",
-            "lat": 60.2199,
-            "lon": 24.8737,
-            "timezone": "Europe/Helsinki",
-            "isp": "Oy Crea Nova Hosting Solution Ltd",
-            "org": "Oy Crea Nova Hosting Solution Ltd",
-            "as": "",
-            "query": "83.171.227.44",
-            "type": "http",
-            "port": "3128",
-            "response_time": 15.86
+            "port": "8080",
+            "response_time": 14.11
         }
     ]
 }
