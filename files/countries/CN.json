@@ -1,7 +1,7 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "123.112.212.33",
             "type": "http",
             "port": "9000",
-            "response_time": 7.04
+            "response_time": 3.59
+        },
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "GD",
+            "regionName": "Guangdong",
+            "city": "Foshan",
+            "zip": "",
+            "lat": 23.0242,
+            "lon": 113.1334,
+            "timezone": "Asia/Shanghai",
+            "isp": "China Mobile communications corporation",
+            "org": "China Mobile",
+            "as": "AS9808 China Mobile Communications Group Co., Ltd.",
+            "query": "120.238.66.126",
+            "type": "http",
+            "port": "7890",
+            "response_time": 5.13
         }
     ]
 }
