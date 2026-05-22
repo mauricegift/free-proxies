@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,31 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "ONE ALBANIA SH.A.",
-            "org": "Test13",
+            "org": "",
             "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "217.24.245.58",
+            "query": "79.106.165.246",
             "type": "http",
-            "port": "8079",
-            "response_time": 2.81
+            "port": "8989",
+            "response_time": 6.12
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
+            "zip": "",
+            "lat": 41.1122,
+            "lon": 20.0818,
+            "timezone": "Europe/Tirane",
+            "isp": "ATU",
+            "org": "",
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "37.26.86.206",
+            "type": "http",
+            "port": "47464",
+            "response_time": 6.13
         }
     ]
 }
