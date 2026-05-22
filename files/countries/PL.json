@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "02",
-            "regionName": "Lower Silesia",
-            "city": "Wroclaw",
-            "zip": "50-029",
-            "lat": 51.1093,
-            "lon": 17.0386,
+            "region": "06",
+            "regionName": "Lublin",
+            "city": "Lublin",
+            "zip": "20-153",
+            "lat": 51.2713,
+            "lon": 22.5761,
             "timezone": "Europe/Warsaw",
-            "isp": "Netia SA",
-            "org": "Black Point S.A.",
-            "as": "AS12741 Netia SA",
-            "query": "83.238.125.220",
+            "isp": "non-academic part of Lublin MAN",
+            "org": "Avir Sp. z o.o.",
+            "as": "AS12346 Maria Curie-Sklodowska University",
+            "query": "212.182.119.149",
             "type": "http",
-            "port": "8000",
-            "response_time": 5.38
+            "port": "8080",
+            "response_time": 6.17
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "04-180",
+            "lat": 52.2317,
+            "lon": 21.1039,
+            "timezone": "Europe/Warsaw",
+            "isp": "Exatel S.A.",
+            "org": "Exatel S.A",
+            "as": "AS20804 Exatel S.A.",
+            "query": "82.177.252.24",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.12
         }
     ]
 }
