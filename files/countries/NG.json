@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Globacom Limited",
+            "org": "Globacom",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.83.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.11
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,45 +39,7 @@
             "query": "41.203.76.166",
             "type": "http",
             "port": "8080",
-            "response_time": 6.52
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Ojota",
-            "zip": "",
-            "lat": 6.57806,
-            "lon": 3.38686,
-            "timezone": "Africa/Lagos",
-            "isp": "Vodacom Business Nigeria",
-            "org": "Inq. Digital Nigeria",
-            "as": "AS16284 Inq. Digital Nigeria",
-            "query": "155.93.96.210",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.7
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "RI",
-            "regionName": "Rivers State",
-            "city": "Port Harcourt",
-            "zip": "",
-            "lat": 4.7731,
-            "lon": 7.0085,
-            "timezone": "Africa/Lagos",
-            "isp": "MTN NIGERIA Communication limited",
-            "org": "MTN Nigeria",
-            "as": "AS29465 MTN NIGERIA Communication limited",
-            "query": "102.88.13.62",
-            "type": "http",
-            "port": "8080",
-            "response_time": 19.92
+            "response_time": 11.77
         }
     ]
 }
