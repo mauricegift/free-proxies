@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "D01",
+            "lat": 53.3478,
+            "lon": -6.2597,
+            "timezone": "Europe/Dublin",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (northeurope)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "40.115.112.75",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.6
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -17,10 +36,10 @@
             "isp": "EURONA-BRISKNET",
             "org": "",
             "as": "AS57791 Arden Broadband Ltd",
-            "query": "5.83.248.1",
+            "query": "5.83.244.250",
             "type": "http",
             "port": "8080",
-            "response_time": 11.71
+            "response_time": 3.16
         }
     ]
 }
