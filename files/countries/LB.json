@@ -1,8 +1,27 @@
 {
     "countryCode": "LB",
     "country": "Lebanon",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lebanon",
+            "countryCode": "LB",
+            "region": "BA",
+            "regionName": "Beyrouth",
+            "city": "Beirut",
+            "zip": "",
+            "lat": 33.8938,
+            "lon": 35.5018,
+            "timezone": "Asia/Beirut",
+            "isp": "Data Plus SARL",
+            "org": "Datplus3",
+            "as": "AS210292 Data Plus SARL",
+            "query": "160.238.122.200",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.46
+        },
         {
             "status": "success",
             "country": "Lebanon",
@@ -20,7 +39,7 @@
             "query": "185.82.99.190",
             "type": "http",
             "port": "8724",
-            "response_time": 4.64
+            "response_time": 11.02
         }
     ]
 }
