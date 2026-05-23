@@ -1,8 +1,27 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Lesznowola",
+            "zip": "05-506",
+            "lat": 52.0875,
+            "lon": 20.9403,
+            "timezone": "Europe/Warsaw",
+            "isp": "Skynet sp. z o.o.",
+            "org": "Skynet Sp. J. Krzysztof Skorupski, Filip Bacciarelli",
+            "as": "AS41966 Skynet sp. z o.o.",
+            "query": "109.206.223.64",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.58
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,26 +39,26 @@
             "query": "78.9.232.205",
             "type": "http",
             "port": "8080",
-            "response_time": 8.94
+            "response_time": 8.13
         },
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "00-001",
-            "lat": 52.2299,
-            "lon": 21.0093,
+            "region": "32",
+            "regionName": "West Pomerania",
+            "city": "Szczecin",
+            "zip": "70-552",
+            "lat": 53.4289,
+            "lon": 14.553,
             "timezone": "Europe/Warsaw",
-            "isp": "Intezio Worldwide Limited",
-            "org": "Intezio Networks Warsaw",
-            "as": "AS207567 Intezio Worldwide Limited",
-            "query": "77.239.114.179",
+            "isp": "Netia SA",
+            "org": "Netia",
+            "as": "AS12741 Netia SA",
+            "query": "78.9.234.55",
             "type": "http",
-            "port": "3128",
-            "response_time": 9.04
+            "port": "8080",
+            "response_time": 12.44
         }
     ]
 }
