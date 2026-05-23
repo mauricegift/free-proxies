@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "93.147.55.25",
             "type": "http",
             "port": "8080",
-            "response_time": 4.57
+            "response_time": 6.96
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "78",
+            "regionName": "Calabria",
+            "city": "Corigliano Calabro",
+            "zip": "87064",
+            "lat": 39.5981,
+            "lon": 16.5135,
+            "timezone": "Europe/Rome",
+            "isp": "Europsys S.r.l.",
+            "org": "Europsys S.r.l",
+            "as": "AS202347 Europsys S.p.A.",
+            "query": "194.146.164.66",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.06
         }
     ]
 }
