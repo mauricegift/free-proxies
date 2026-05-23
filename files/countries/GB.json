@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.175.118.186",
+            "query": "18.171.151.137",
             "type": "http",
             "port": "1080",
-            "response_time": 1.05
+            "response_time": 0.42
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5074,
+            "lon": -0.127758,
+            "timezone": "Europe/London",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.60.106.29",
+            "type": "http",
+            "port": "1080",
+            "response_time": 0.54
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "57.129.144.178",
             "type": "http",
             "port": "40000",
-            "response_time": 1.1
+            "response_time": 0.57
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5074,
-            "lon": -0.127758,
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
             "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "52.56.64.108",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.129",
             "type": "http",
-            "port": "1080",
-            "response_time": 1.32
+            "port": "1081",
+            "response_time": 8.54
         },
         {
             "status": "success",
@@ -66,18 +85,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Maidenhead",
-            "zip": "SL6",
-            "lat": 51.5226,
-            "lon": -0.724308,
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
             "timezone": "Europe/London",
-            "isp": "Iomart Cloud Services Limited",
-            "org": "Iomart Cloud Services Limited",
-            "as": "AS20860 IOMART CLOUD SERVICES LIMITED",
-            "query": "81.168.119.85",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.129",
             "type": "http",
-            "port": "443",
-            "response_time": 9.92
+            "port": "1082",
+            "response_time": 11.8
         }
     ]
 }
