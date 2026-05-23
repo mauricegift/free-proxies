@@ -1,46 +1,8 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "24",
-            "regionName": "Stara Zagora",
-            "city": "Stara Zagora",
-            "zip": "6000",
-            "lat": 42.4361,
-            "lon": 25.6394,
-            "timezone": "Europe/Sofia",
-            "isp": "Vivacom Bulgaria EAD",
-            "org": "Bulgarian Telecommunications Company Plc",
-            "as": "AS8866 Vivacom Bulgaria EAD",
-            "query": "87.126.65.11",
-            "type": "http",
-            "port": "1388",
-            "response_time": 5.35
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
-            "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "ESRI BULGARIA Network",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.10",
-            "type": "http",
-            "port": "8001",
-            "response_time": 7.95
-        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -58,7 +20,26 @@
             "query": "194.8.53.6",
             "type": "http",
             "port": "8080",
-            "response_time": 8.02
+            "response_time": 1.8
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
+            "timezone": "Europe/Sofia",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.19
         }
     ]
 }
