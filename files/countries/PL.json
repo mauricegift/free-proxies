@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "24",
-            "regionName": "Silesia",
-            "city": "Bytom",
-            "zip": "41-902",
-            "lat": 50.3541,
-            "lon": 18.9192,
+            "region": "06",
+            "regionName": "Lublin",
+            "city": "Lublin",
+            "zip": "20-153",
+            "lat": 51.2713,
+            "lon": 22.5761,
             "timezone": "Europe/Warsaw",
-            "isp": "Sileman Sp. z o.o.",
-            "org": "Star Diesel Sp. z o.o.",
-            "as": "AS30851 Sileman Sp. z o.o.",
-            "query": "85.198.229.194",
+            "isp": "non-academic part of Lublin MAN",
+            "org": "Avir Sp. z o.o.",
+            "as": "AS12346 Maria Curie-Sklodowska University",
+            "query": "212.182.119.149",
             "type": "http",
-            "port": "80",
-            "response_time": 1.86
+            "port": "8080",
+            "response_time": 5.97
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "02",
+            "regionName": "Lower Silesia",
+            "city": "Wroclaw",
+            "zip": "50-029",
+            "lat": 51.1093,
+            "lon": 17.0386,
+            "timezone": "Europe/Warsaw",
+            "isp": "Netia SA",
+            "org": "Black Point S.A.",
+            "as": "AS12741 Netia SA",
+            "query": "83.238.125.220",
+            "type": "http",
+            "port": "8000",
+            "response_time": 6.81
         }
     ]
 }
