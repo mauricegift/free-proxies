@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Mamaev",
+            "org": "",
+            "as": "AS9123 JSC TIMEWEB",
+            "query": "80.90.183.221",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.75
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,26 +39,45 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 2.47
+            "response_time": 2.37
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "010000",
-            "lat": 51.1655,
-            "lon": 71.4272,
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.1941,
+            "lon": 76.8339,
             "timezone": "Asia/Almaty",
-            "isp": "TTC Network",
-            "org": "",
-            "as": "AS41798 JSC Transtelecom",
-            "query": "91.185.20.162",
+            "isp": "PS Internet Company LLP",
+            "org": "PS Internet Company LLP",
+            "as": "AS48716 PS Internet Company LLP",
+            "query": "194.110.55.211",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.82
+            "port": "3130",
+            "response_time": 4.5
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "ITGLOBAL",
+            "org": "",
+            "as": "AS57008 ITGLOBAL.COM KZ LLP",
+            "query": "85.198.89.85",
+            "type": "http",
+            "port": "1439",
+            "response_time": 12.67
         }
     ]
 }
