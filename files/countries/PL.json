@@ -1,8 +1,46 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "03-195",
+            "lat": 52.3029,
+            "lon": 20.9834,
+            "timezone": "Europe/Warsaw",
+            "isp": "WAWPOLIP",
+            "org": "",
+            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+            "query": "148.81.121.5",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.04
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "32",
+            "regionName": "West Pomerania",
+            "city": "Szczecinek",
+            "zip": "78-400",
+            "lat": 53.7056,
+            "lon": 16.6868,
+            "timezone": "Europe/Warsaw",
+            "isp": "Gawex Media Sp.zoo",
+            "org": "Gawex Media Sp. z o. o.",
+            "as": "AS31608 Gawex Media Sp. z o. o.",
+            "query": "84.205.28.220",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.62
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,7 +58,26 @@
             "query": "83.238.125.220",
             "type": "http",
             "port": "8000",
-            "response_time": 6.5
+            "response_time": 4.66
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "06",
+            "regionName": "Lublin",
+            "city": "Lublin",
+            "zip": "20-153",
+            "lat": 51.2713,
+            "lon": 22.5761,
+            "timezone": "Europe/Warsaw",
+            "isp": "non-academic part of Lublin MAN",
+            "org": "Avir Sp. z o.o.",
+            "as": "AS12346 Maria Curie-Sklodowska University",
+            "query": "212.182.119.149",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.0
         },
         {
             "status": "success",
@@ -28,18 +85,18 @@
             "countryCode": "PL",
             "region": "32",
             "regionName": "West Pomerania",
-            "city": "Szczecin",
-            "zip": "70-552",
-            "lat": 53.4289,
-            "lon": 14.553,
+            "city": "\u015awinouj\u015bcie",
+            "zip": "72-600",
+            "lat": 53.9105,
+            "lon": 14.2471,
             "timezone": "Europe/Warsaw",
             "isp": "Netia SA",
             "org": "Netia",
             "as": "AS12741 Netia SA",
-            "query": "78.9.234.55",
+            "query": "78.9.232.205",
             "type": "http",
             "port": "8080",
-            "response_time": 6.65
+            "response_time": 9.55
         }
     ]
 }
