@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "24",
-            "regionName": "Silesia",
-            "city": "Bytom",
-            "zip": "41-902",
-            "lat": 50.3541,
-            "lon": 18.9192,
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "03-195",
+            "lat": 52.3029,
+            "lon": 20.9834,
             "timezone": "Europe/Warsaw",
-            "isp": "Sileman Sp. z o.o.",
-            "org": "Star Diesel Sp. z o.o.",
-            "as": "AS30851 Sileman Sp. z o.o.",
-            "query": "85.198.229.194",
+            "isp": "WAWPOLIP",
+            "org": "",
+            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+            "query": "148.81.121.5",
             "type": "http",
-            "port": "80",
-            "response_time": 3.45
+            "port": "8080",
+            "response_time": 7.39
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Lesznowola",
+            "zip": "05-506",
+            "lat": 52.0875,
+            "lon": 20.9403,
+            "timezone": "Europe/Warsaw",
+            "isp": "Skynet sp. z o.o.",
+            "org": "Skynet Sp. J. Krzysztof Skorupski, Filip Bacciarelli",
+            "as": "AS41966 Skynet sp. z o.o.",
+            "query": "109.206.223.64",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.58
         }
     ]
 }
