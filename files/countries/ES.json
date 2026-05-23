@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "79.117.134.12",
             "type": "http",
             "port": "3128",
-            "response_time": 0.45
+            "response_time": 0.79
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Dos Hermanas",
-            "zip": "41702",
-            "lat": 37.2866,
-            "lon": -5.9208,
+            "region": "CT",
+            "regionName": "Catalonia",
+            "city": "Badalona",
+            "zip": "08912",
+            "lat": 41.4473,
+            "lon": 2.2521,
             "timezone": "Europe/Madrid",
-            "isp": "Pinkbear SLU",
-            "org": "PINKBEAR SL",
-            "as": "AS211141 PINKBEAR SLU",
-            "query": "185.226.195.249",
+            "isp": "Telefonica De Espana",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "88.28.222.20",
             "type": "http",
-            "port": "2222",
-            "response_time": 4.61
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28022",
-            "lat": 40.4505,
-            "lon": -3.5926,
-            "timezone": "Europe/Madrid",
-            "isp": "Citelia s.a.",
-            "org": "Fibercli",
-            "as": "AS206276 Citelia s.a.",
-            "query": "193.38.224.169",
-            "type": "http",
-            "port": "8081",
-            "response_time": 10.75
+            "port": "44380",
+            "response_time": 12.16
         }
     ]
 }
