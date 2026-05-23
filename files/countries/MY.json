@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "01",
+            "regionName": "Johor",
+            "city": "Batu Pahat",
+            "zip": "83300",
+            "lat": 1.8197,
+            "lon": 103.2399,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "60.53.176.79",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.97
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +39,7 @@
             "query": "58.84.16.214",
             "type": "http",
             "port": "1231",
-            "response_time": 9.85
+            "response_time": 9.67
         }
     ]
 }
