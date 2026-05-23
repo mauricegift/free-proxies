@@ -1,26 +1,45 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "02",
-            "regionName": "Lower Silesia",
-            "city": "Wroclaw",
-            "zip": "50-029",
-            "lat": 51.1093,
-            "lon": 17.0386,
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "03-195",
+            "lat": 52.3029,
+            "lon": 20.9834,
             "timezone": "Europe/Warsaw",
-            "isp": "Netia SA",
-            "org": "Black Point S.A.",
-            "as": "AS12741 Netia SA",
-            "query": "83.238.125.220",
+            "isp": "WAWPOLIP",
+            "org": "",
+            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
+            "query": "148.81.121.5",
             "type": "http",
-            "port": "8000",
-            "response_time": 6.26
+            "port": "8080",
+            "response_time": 0.71
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "24",
+            "regionName": "Silesia",
+            "city": "Bytom",
+            "zip": "41-902",
+            "lat": 50.3541,
+            "lon": 18.9192,
+            "timezone": "Europe/Warsaw",
+            "isp": "Sileman Sp. z o.o.",
+            "org": "Star Diesel Sp. z o.o.",
+            "as": "AS30851 Sileman Sp. z o.o.",
+            "query": "85.198.229.194",
+            "type": "http",
+            "port": "80",
+            "response_time": 4.59
         }
     ]
 }
