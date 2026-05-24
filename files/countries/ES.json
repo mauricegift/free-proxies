@@ -1,8 +1,46 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "",
+            "lat": 40.4167,
+            "lon": -3.7037,
+            "timezone": "Europe/Madrid",
+            "isp": "BlueVPS OU",
+            "org": "BlueVPS OU",
+            "as": "AS62005 BlueVPS OU",
+            "query": "83.97.79.114",
+            "type": "http",
+            "port": "8443",
+            "response_time": 4.86
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Dos Hermanas",
+            "zip": "41702",
+            "lat": 37.2866,
+            "lon": -5.9208,
+            "timezone": "Europe/Madrid",
+            "isp": "Pinkbear SLU",
+            "org": "PINKBEAR SL",
+            "as": "AS211141 PINKBEAR SLU",
+            "query": "185.226.195.249",
+            "type": "http",
+            "port": "2222",
+            "response_time": 8.38
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,26 +58,7 @@
             "query": "2.139.38.192",
             "type": "http",
             "port": "3128",
-            "response_time": 2.55
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "VC",
-            "regionName": "Valencia",
-            "city": "la Nucia",
-            "zip": "03530",
-            "lat": 38.6141,
-            "lon": -0.1239,
-            "timezone": "Europe/Madrid",
-            "isp": "CLOUDWIFI, SL",
-            "org": "CLOUDWIFI, SL",
-            "as": "AS202913 CLOUDWIFI, SL",
-            "query": "80.78.128.94",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.93
+            "response_time": 9.44
         }
     ]
 }
