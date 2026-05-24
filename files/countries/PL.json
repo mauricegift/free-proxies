@@ -1,26 +1,26 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "03-195",
-            "lat": 52.3029,
-            "lon": 20.9834,
+            "region": "22",
+            "regionName": "Pomerania",
+            "city": "Chojnice",
+            "zip": "89-600",
+            "lat": 53.6972,
+            "lon": 17.5629,
             "timezone": "Europe/Warsaw",
-            "isp": "WAWPOLIP",
+            "isp": "Ckpartnet Network",
             "org": "",
-            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-            "query": "148.81.121.5",
+            "as": "AS199250 CENTRUM KOMPUTEROWE PARTNET MIROSLAW WOLSZLEGIER",
+            "query": "185.21.36.249",
             "type": "http",
             "port": "8080",
-            "response_time": 7.39
+            "response_time": 2.84
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "109.206.223.64",
             "type": "http",
             "port": "8080",
-            "response_time": 7.58
+            "response_time": 7.15
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "12",
+            "regionName": "Lesser Poland",
+            "city": "Jerzmanowice",
+            "zip": "32-048",
+            "lat": 50.2051,
+            "lon": 19.7453,
+            "timezone": "Europe/Warsaw",
+            "isp": "BESTCONNECT",
+            "org": "",
+            "as": "AS206910 Janusz Ciurus trading as Bestconnect",
+            "query": "185.28.250.90",
+            "type": "http",
+            "port": "8090",
+            "response_time": 10.41
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "32",
+            "regionName": "West Pomerania",
+            "city": "I\u0144sko",
+            "zip": "73-140",
+            "lat": 53.4361,
+            "lon": 15.5502,
+            "timezone": "Europe/Warsaw",
+            "isp": "AS Consulting Sp. z o. o.",
+            "org": "Korbank S. A",
+            "as": "AS60645 AS Consulting Sp. z o. o.",
+            "query": "185.32.6.131",
+            "type": "http",
+            "port": "8070",
+            "response_time": 12.09
         }
     ]
 }
