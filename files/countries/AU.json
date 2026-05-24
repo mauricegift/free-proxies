@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.55.6.89",
+            "type": "http",
+            "port": "1080",
+            "response_time": 1.6
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,7 @@
             "query": "3.107.102.186",
             "type": "http",
             "port": "1080",
-            "response_time": 2.01
+            "response_time": 2.64
         },
         {
             "status": "success",
@@ -33,13 +52,51 @@
             "lat": -33.8591,
             "lon": 151.2002,
             "timezone": "Australia/Sydney",
-            "isp": "Amazon Technologies Inc.",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "3.106.127.201",
+            "query": "15.134.129.192",
             "type": "http",
             "port": "1080",
-            "response_time": 2.18
+            "response_time": 2.82
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.176.159.122",
+            "type": "http",
+            "port": "1080",
+            "response_time": 3.89
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4705,
+            "lon": 153.026,
+            "timezone": "Australia/Brisbane",
+            "isp": "ERX",
+            "org": "",
+            "as": "",
+            "query": "163.128.198.18",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.36
         }
     ]
 }
