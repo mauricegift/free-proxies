@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "timezone": "America/Toronto",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.223.200.22",
+            "type": "http",
+            "port": "1080",
+            "response_time": 0.73
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,26 +39,26 @@
             "query": "192.99.8.15",
             "type": "http",
             "port": "8850",
-            "response_time": 0.69
+            "response_time": 0.86
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5003,
-            "lon": -73.5621,
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
             "timezone": "America/Toronto",
-            "isp": "eStruxture Data Centers Inc.",
-            "org": "eStruxture Data Centers Inc",
-            "as": "AS10929 eStruxture Data Centers Inc.",
-            "query": "205.204.73.60",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "35.183.93.234",
             "type": "http",
-            "port": "8080",
-            "response_time": 2.75
+            "port": "1080",
+            "response_time": 1.26
         }
     ]
 }
