@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6358,
+            "lon": 11.6746,
+            "timezone": "Europe/Rome",
+            "isp": "NGI",
+            "org": "NGI Spa",
+            "as": "AS35612 EOLO S.p.A.",
+            "query": "78.134.20.48",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.24
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "93.147.55.25",
             "type": "http",
             "port": "8080",
-            "response_time": 2.6
+            "response_time": 2.7
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "185.191.106.41",
             "type": "http",
             "port": "8081",
-            "response_time": 9.29
+            "response_time": 4.48
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "78",
+            "regionName": "Calabria",
+            "city": "Corigliano Calabro",
+            "zip": "87064",
+            "lat": 39.5981,
+            "lon": 16.5135,
+            "timezone": "Europe/Rome",
+            "isp": "Europsys S.r.l.",
+            "org": "Europsys S.r.l",
+            "as": "AS202347 Europsys S.p.A.",
+            "query": "194.146.164.66",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.92
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "185.191.106.0",
             "type": "http",
             "port": "8081",
-            "response_time": 10.12
+            "response_time": 9.02
         }
     ]
 }
