@@ -1,7 +1,7 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 37.9842,
             "lon": 23.7353,
             "timezone": "Europe/Athens",
+            "isp": "Nova Telecommunications & Media Single Member S.A",
+            "org": "LLU Pool HER",
+            "as": "AS1241 Forthnet",
+            "query": "130.43.94.121",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.16
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Athens",
+            "zip": "",
+            "lat": 37.987,
+            "lon": 23.7658,
+            "timezone": "Europe/Athens",
+            "isp": "OKEANOS Hosted VM's",
+            "org": "Greek Research and Technology Network (GRNET) S.A.",
+            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
+            "query": "83.212.72.114",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.03
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "Thessaloniki",
+            "zip": "",
+            "lat": 40.6439,
+            "lon": 22.9358,
+            "timezone": "Europe/Athens",
             "isp": "OTEnet",
             "org": "OTEnet S.A.",
             "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "62.103.66.18",
+            "query": "94.68.245.147",
             "type": "http",
-            "port": "3128",
-            "response_time": 12.4
+            "port": "8080",
+            "response_time": 10.62
         }
     ]
 }
