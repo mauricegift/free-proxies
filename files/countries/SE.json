@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -18,6 +18,25 @@
             "org": "DataCom Group Nordic AB",
             "as": "AS60662 DataCom Group Nordic AB",
             "query": "185.106.183.85",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.27
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Aeza International LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "147.45.75.124",
             "type": "http",
             "port": "8080",
             "response_time": 0.39
@@ -39,26 +58,26 @@
             "query": "62.60.230.214",
             "type": "http",
             "port": "8080",
-            "response_time": 0.75
+            "response_time": 0.52
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
             "region": "AB",
-            "regionName": "Stockholm",
+            "regionName": "Stockholm County",
             "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
+            "zip": "100 04",
+            "lat": 59.3327,
+            "lon": 18.0656,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.21.3.255",
+            "isp": "Aeza International LTD",
+            "org": "Aeza International LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "45.80.231.251",
             "type": "http",
-            "port": "1080",
-            "response_time": 2.9
+            "port": "3128",
+            "response_time": 0.52
         },
         {
             "status": "success",
@@ -72,12 +91,12 @@
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
             "isp": "Aeza International LTD",
-            "org": "Aeza International LTD",
+            "org": "NetCrafters OU",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "147.45.75.124",
+            "query": "62.60.149.161",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.49
+            "port": "3128",
+            "response_time": 8.95
         }
     ]
 }
