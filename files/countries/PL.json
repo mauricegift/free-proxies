@@ -1,7 +1,7 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "212.182.119.149",
             "type": "http",
             "port": "8080",
-            "response_time": 7.49
+            "response_time": 3.68
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Lesznowola",
+            "zip": "05-506",
+            "lat": 52.0875,
+            "lon": 20.9403,
+            "timezone": "Europe/Warsaw",
+            "isp": "Skynet sp. z o.o.",
+            "org": "Skynet Sp. J. Krzysztof Skorupski, Filip Bacciarelli",
+            "as": "AS41966 Skynet sp. z o.o.",
+            "query": "109.206.223.64",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.62
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "22",
+            "regionName": "Pomerania",
+            "city": "Chojnice",
+            "zip": "89-600",
+            "lat": 53.6972,
+            "lon": 17.5629,
+            "timezone": "Europe/Warsaw",
+            "isp": "Ckpartnet Network",
+            "org": "",
+            "as": "AS199250 CENTRUM KOMPUTEROWE PARTNET MIROSLAW WOLSZLEGIER",
+            "query": "185.21.36.249",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.88
         },
         {
             "status": "success",
@@ -28,18 +66,37 @@
             "countryCode": "PL",
             "region": "32",
             "regionName": "West Pomerania",
-            "city": "Szczecinek",
-            "zip": "78-400",
-            "lat": 53.7056,
-            "lon": 16.6868,
+            "city": "\u015awinouj\u015bcie",
+            "zip": "72-600",
+            "lat": 53.9105,
+            "lon": 14.2471,
             "timezone": "Europe/Warsaw",
-            "isp": "Gawex Media Sp.zoo",
-            "org": "Gawex Media Sp. z o. o.",
-            "as": "AS31608 Gawex Media Sp. z o. o.",
-            "query": "84.205.28.220",
+            "isp": "Netia SA",
+            "org": "Netia",
+            "as": "AS12741 Netia SA",
+            "query": "78.9.232.205",
             "type": "http",
             "port": "8080",
-            "response_time": 9.12
+            "response_time": 10.15
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "12",
+            "regionName": "Lesser Poland",
+            "city": "Jerzmanowice",
+            "zip": "32-048",
+            "lat": 50.2051,
+            "lon": 19.7453,
+            "timezone": "Europe/Warsaw",
+            "isp": "BESTCONNECT",
+            "org": "",
+            "as": "AS206910 Janusz Ciurus trading as Bestconnect",
+            "query": "185.28.250.90",
+            "type": "http",
+            "port": "8090",
+            "response_time": 10.33
         }
     ]
 }
