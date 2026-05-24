@@ -1,26 +1,26 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Switzerland",
             "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "R\u00fcmlang",
-            "zip": "8153",
-            "lat": 47.4505,
-            "lon": 8.5255,
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
             "timezone": "Europe/Zurich",
-            "isp": "Private Layer INC",
-            "org": "Private Layer Inc",
-            "as": "AS51852 Private Layer INC",
-            "query": "179.43.180.232",
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.132",
             "type": "http",
-            "port": "3128",
-            "response_time": 6.63
+            "port": "80",
+            "response_time": 1.21
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 7.71
+            "response_time": 3.46
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "R\u00fcmlang",
+            "zip": "8153",
+            "lat": 47.4505,
+            "lon": 8.5255,
+            "timezone": "Europe/Zurich",
+            "isp": "Private Layer INC",
+            "org": "Private Layer Inc",
+            "as": "AS51852 Private Layer INC",
+            "query": "179.43.180.232",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.55
         }
     ]
 }
