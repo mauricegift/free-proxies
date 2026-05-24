@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "F\u00f6ldes",
+            "zip": "4177",
+            "lat": 47.2987,
+            "lon": 21.3613,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "84.0.152.223",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.47
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,7 @@
             "query": "84.236.16.142",
             "type": "http",
             "port": "8080",
-            "response_time": 6.09
+            "response_time": 10.37
         }
     ]
 }
