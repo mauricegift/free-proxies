@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 6,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "timezone": "America/Toronto",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "99.79.62.185",
+            "type": "http",
+            "port": "1080",
+            "response_time": 0.73
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,7 +39,7 @@
             "query": "192.99.8.15",
             "type": "http",
             "port": "8850",
-            "response_time": 0.67
+            "response_time": 0.89
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "15.223.200.22",
             "type": "http",
             "port": "1080",
-            "response_time": 0.71
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "",
-            "lat": 43.6532,
-            "lon": -79.3832,
-            "timezone": "America/Toronto",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.183.64.119",
-            "type": "http",
-            "port": "1080",
-            "response_time": 1.08
+            "response_time": 1.04
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "35.183.100.172",
             "type": "http",
             "port": "1080",
-            "response_time": 1.2
+            "response_time": 1.17
         },
         {
             "status": "success",
@@ -93,10 +93,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ca-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.182.94.69",
+            "query": "35.183.99.149",
             "type": "http",
             "port": "1080",
-            "response_time": 1.47
+            "response_time": 1.94
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2X",
+            "lat": 50.8833,
+            "lon": -114.0334,
+            "timezone": "America/Edmonton",
+            "isp": "Shaw Communications",
+            "org": "Shaw Communications",
+            "as": "AS6327 Shaw Communications",
+            "query": "184.70.118.150",
+            "type": "http",
+            "port": "9443",
+            "response_time": 6.13
         },
         {
             "status": "success",
@@ -105,17 +124,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5029,
-            "lon": -73.5723,
+            "zip": "H3H",
+            "lat": 45.5075,
+            "lon": -73.5887,
             "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc",
-            "as": "AS16276 OVH SAS",
-            "query": "15.235.58.227",
+            "isp": "VEXXHOST, Inc.",
+            "org": "VexxHost Web Hosting",
+            "as": "AS33028 VEXXHOST, Inc.",
+            "query": "38.108.68.181",
             "type": "http",
             "port": "3128",
-            "response_time": 6.68
+            "response_time": 10.44
         }
     ]
 }
