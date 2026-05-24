@@ -1,7 +1,7 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "185.28.250.90",
             "type": "http",
             "port": "8090",
-            "response_time": 5.65
+            "response_time": 3.62
         },
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "22",
-            "regionName": "Pomerania",
-            "city": "Chojnice",
-            "zip": "89-600",
-            "lat": 53.6972,
-            "lon": 17.5629,
+            "region": "32",
+            "regionName": "West Pomerania",
+            "city": "Szczecin",
+            "zip": "70-552",
+            "lat": 53.4289,
+            "lon": 14.553,
             "timezone": "Europe/Warsaw",
-            "isp": "Ckpartnet Network",
-            "org": "",
-            "as": "AS199250 CENTRUM KOMPUTEROWE PARTNET MIROSLAW WOLSZLEGIER",
-            "query": "185.21.36.249",
+            "isp": "Netia SA",
+            "org": "Netia",
+            "as": "AS12741 Netia SA",
+            "query": "78.9.234.55",
             "type": "http",
             "port": "8080",
-            "response_time": 11.53
+            "response_time": 3.86
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "32",
+            "regionName": "West Pomerania",
+            "city": "\u015awinouj\u015bcie",
+            "zip": "72-600",
+            "lat": 53.9105,
+            "lon": 14.2471,
+            "timezone": "Europe/Warsaw",
+            "isp": "Netia SA",
+            "org": "Netia",
+            "as": "AS12741 Netia SA",
+            "query": "78.9.232.205",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.63
         }
     ]
 }
