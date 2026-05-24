@@ -1,8 +1,46 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7017,
+            "lon": 85.3206,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Classic Tech Pvt. Ltd",
+            "org": "ClassicTech",
+            "as": "AS55915 Classic Tech Pvt. Ltd.",
+            "query": "49.236.212.134",
+            "type": "http",
+            "port": "8888",
+            "response_time": 6.3
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P2",
+            "regionName": "Madhesh",
+            "city": "Mahottari",
+            "zip": "",
+            "lat": 26.6861,
+            "lon": 85.8218,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Subisu D85",
+            "org": "",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "182.93.85.225",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.82
+        },
         {
             "status": "success",
             "country": "Nepal",
@@ -20,7 +58,7 @@
             "query": "182.93.75.162",
             "type": "http",
             "port": "8080",
-            "response_time": 6.62
+            "response_time": 10.63
         }
     ]
 }
