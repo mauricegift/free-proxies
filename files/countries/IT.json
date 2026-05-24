@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Pitigliano",
-            "zip": "58017",
-            "lat": 42.6358,
-            "lon": 11.6746,
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
             "timezone": "Europe/Rome",
-            "isp": "NGI",
-            "org": "NGI Spa",
-            "as": "AS35612 EOLO S.p.A.",
-            "query": "78.134.20.48",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
             "type": "http",
-            "port": "8080",
-            "response_time": 3.71
+            "port": "8443",
+            "response_time": 5.48
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
+            "type": "http",
+            "port": "8081",
+            "response_time": 7.94
         }
     ]
 }
