@@ -1,8 +1,46 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "Dob\u0159\u00ed\u0161",
+            "zip": "263 01",
+            "lat": 49.782,
+            "lon": 14.1877,
+            "timezone": "Europe/Prague",
+            "isp": "DOBRISNET",
+            "org": "Dobris Network s.r.o",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.97.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.44
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "41",
+            "regionName": "Karlovarsk\u00fd kraj",
+            "city": "Kraslice",
+            "zip": "358 01",
+            "lat": 50.3294,
+            "lon": 12.5169,
+            "timezone": "Europe/Prague",
+            "isp": "CETIN a.s.",
+            "org": "CETIN",
+            "as": "AS28725 CETIN a.s.",
+            "query": "85.163.46.76",
+            "type": "http",
+            "port": "32000",
+            "response_time": 7.3
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +58,7 @@
             "query": "45.139.91.62",
             "type": "http",
             "port": "8080",
-            "response_time": 5.42
+            "response_time": 9.23
         }
     ]
 }
