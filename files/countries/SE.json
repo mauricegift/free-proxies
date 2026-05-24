@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "147.45.75.124",
             "type": "http",
             "port": "8080",
-            "response_time": 0.38
+            "response_time": 0.37
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "V\u00e4rmd\u00f6 Municipality",
+            "zip": "130 38",
+            "lat": 59.3196,
+            "lon": 18.7213,
+            "timezone": "Europe/Stockholm",
+            "isp": "Data Communication & Software i Grondal Aktiebolag",
+            "org": "DataCom Group Nordic AB",
+            "as": "AS60662 DataCom Group Nordic AB",
+            "query": "185.106.183.85",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.61
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "62.60.230.214",
             "type": "http",
             "port": "8080",
-            "response_time": 0.42
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "M",
-            "regionName": "Sk\u00e5ne County",
-            "city": "Malmo",
-            "zip": "200 01",
-            "lat": 55.605,
-            "lon": 13.0038,
-            "timezone": "Europe/Stockholm",
-            "isp": "ab stract",
-            "org": "ab stract",
-            "as": "AS39287 Materialism s.r.l.",
-            "query": "80.78.18.234",
-            "type": "http",
-            "port": "1080",
-            "response_time": 1.09
+            "response_time": 0.75
         },
         {
             "status": "success",
@@ -77,7 +77,26 @@
             "query": "62.60.149.161",
             "type": "http",
             "port": "3128",
-            "response_time": 2.85
+            "response_time": 0.77
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0685,
+            "timezone": "Europe/Stockholm",
+            "isp": "xorek.cloud International LTD",
+            "org": "Servers Tech Fzco",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "89.22.225.204",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.98
         },
         {
             "status": "success",
@@ -96,7 +115,7 @@
             "query": "89.22.230.26",
             "type": "http",
             "port": "1080",
-            "response_time": 4.66
+            "response_time": 4.51
         },
         {
             "status": "success",
@@ -107,15 +126,15 @@
             "city": "Stockholm",
             "zip": "100 05",
             "lat": 59.3293,
-            "lon": 18.0685,
+            "lon": 18.0686,
             "timezone": "Europe/Stockholm",
-            "isp": "xorek.cloud International LTD",
-            "org": "xorek.cloud International LTD",
-            "as": "AS210644 AEZA INTERNATIONAL LTD",
-            "query": "150.241.75.235",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.53.72.0",
             "type": "http",
-            "port": "3128",
-            "response_time": 7.38
+            "port": "1080",
+            "response_time": 6.9
         }
     ]
 }
