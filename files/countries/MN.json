@@ -1,8 +1,27 @@
 {
     "countryCode": "MN",
     "country": "Mongolia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Mongolia",
+            "countryCode": "MN",
+            "region": "1",
+            "regionName": "Ulaanbaatar",
+            "city": "Ulan Bator",
+            "zip": "",
+            "lat": 47.9094,
+            "lon": 106.8819,
+            "timezone": "Asia/Ulaanbaatar",
+            "isp": "MCS Com Co Ltd",
+            "org": "OrbitNet LLC",
+            "as": "AS17882 Univision LLC",
+            "query": "43.242.241.47",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.03
+        },
         {
             "status": "success",
             "country": "Mongolia",
@@ -20,7 +39,7 @@
             "query": "202.179.2.250",
             "type": "http",
             "port": "8080",
-            "response_time": 8.24
+            "response_time": 9.95
         }
     ]
 }
