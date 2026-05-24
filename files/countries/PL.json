@@ -1,8 +1,27 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "12",
+            "regionName": "Lesser Poland",
+            "city": "Jerzmanowice",
+            "zip": "32-048",
+            "lat": 50.2051,
+            "lon": 19.7453,
+            "timezone": "Europe/Warsaw",
+            "isp": "BESTCONNECT",
+            "org": "",
+            "as": "AS206910 Janusz Ciurus trading as Bestconnect",
+            "query": "185.28.250.90",
+            "type": "http",
+            "port": "8090",
+            "response_time": 5.65
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,7 +39,7 @@
             "query": "185.21.36.249",
             "type": "http",
             "port": "8080",
-            "response_time": 7.73
+            "response_time": 11.53
         }
     ]
 }
