@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "timezone": "America/Toronto",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "35.183.26.208",
+            "type": "http",
+            "port": "1080",
+            "response_time": 0.7
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -36,10 +55,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ca-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.183.100.172",
+            "query": "3.96.136.135",
             "type": "http",
             "port": "1080",
-            "response_time": 5.04
+            "response_time": 7.5
         }
     ]
 }
