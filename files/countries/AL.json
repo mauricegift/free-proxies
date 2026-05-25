@@ -1,8 +1,27 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "Test13",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "217.24.245.58",
+            "type": "http",
+            "port": "8079",
+            "response_time": 7.18
+        },
         {
             "status": "success",
             "country": "Albania",
@@ -20,7 +39,7 @@
             "query": "79.106.231.17",
             "type": "http",
             "port": "8080",
-            "response_time": 10.43
+            "response_time": 8.69
         }
     ]
 }
