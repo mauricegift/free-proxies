@@ -1,27 +1,8 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 5,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Holborn",
-            "zip": "EC1",
-            "lat": 51.5175,
-            "lon": -0.12045,
-            "timezone": "Europe/London",
-            "isp": "WorkTitans B.V.",
-            "org": "WorkTitans B.V",
-            "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.122.125",
-            "type": "http",
-            "port": "1081",
-            "response_time": 0.41
-        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -39,7 +20,26 @@
             "query": "217.174.244.117",
             "type": "http",
             "port": "3129",
-            "response_time": 0.5
+            "response_time": 0.35
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
+            "timezone": "Europe/London",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.129",
+            "type": "http",
+            "port": "1082",
+            "response_time": 5.11
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "81.168.119.85",
             "type": "http",
             "port": "443",
-            "response_time": 2.3
+            "response_time": 8.1
         },
         {
             "status": "success",
@@ -66,37 +66,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Loughborough",
-            "zip": "LE12",
-            "lat": 52.7133,
-            "lon": -1.147,
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5072,
+            "lon": -0.127586,
             "timezone": "Europe/London",
-            "isp": "Sky UK Limited",
-            "org": "Sky Broadband",
-            "as": "AS5607 Sky UK Limited",
-            "query": "90.207.125.92",
+            "isp": "OVH SAS",
+            "org": "Sinitsky Moishe",
+            "as": "AS16276 OVH SAS",
+            "query": "51.195.236.200",
             "type": "http",
-            "port": "8080",
-            "response_time": 3.0
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Holborn",
-            "zip": "EC1",
-            "lat": 51.5175,
-            "lon": -0.12045,
-            "timezone": "Europe/London",
-            "isp": "WorkTitans B.V.",
-            "org": "WorkTitans B.V",
-            "as": "AS209847 WorkTitans B.V.",
-            "query": "94.131.122.128",
-            "type": "http",
-            "port": "1082",
-            "response_time": 3.97
+            "port": "21688",
+            "response_time": 15.1
         }
     ]
 }
