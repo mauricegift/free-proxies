@@ -1,8 +1,27 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "GE",
+            "regionName": "Geneva",
+            "city": "Geneva",
+            "zip": "1211",
+            "lat": 46.1887,
+            "lon": 6.12913,
+            "timezone": "Europe/Zurich",
+            "isp": "Darest Informatic SA",
+            "org": "Darest Informatic S.A",
+            "as": "",
+            "query": "212.43.144.128",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.27
+        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -20,7 +39,7 @@
             "query": "45.59.122.132",
             "type": "http",
             "port": "80",
-            "response_time": 0.44
+            "response_time": 2.89
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 7.11
+            "response_time": 5.11
         }
     ]
 }
