@@ -1,46 +1,8 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "02",
-            "regionName": "Lower Silesia",
-            "city": "Wroclaw",
-            "zip": "50-029",
-            "lat": 51.1093,
-            "lon": 17.0386,
-            "timezone": "Europe/Warsaw",
-            "isp": "Netia SA",
-            "org": "Black Point S.A.",
-            "as": "AS12741 Netia SA",
-            "query": "83.238.125.219",
-            "type": "http",
-            "port": "8000",
-            "response_time": 1.16
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "06",
-            "regionName": "Lublin",
-            "city": "Lublin",
-            "zip": "20-153",
-            "lat": 51.2713,
-            "lon": 22.5761,
-            "timezone": "Europe/Warsaw",
-            "isp": "non-academic part of Lublin MAN",
-            "org": "Avir Sp. z o.o.",
-            "as": "AS12346 Maria Curie-Sklodowska University",
-            "query": "212.182.119.149",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.85
-        },
         {
             "status": "success",
             "country": "Poland",
@@ -58,7 +20,26 @@
             "query": "185.28.250.90",
             "type": "http",
             "port": "8090",
-            "response_time": 3.92
+            "response_time": 5.11
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "22",
+            "regionName": "Pomerania",
+            "city": "Chojnice",
+            "zip": "89-600",
+            "lat": 53.6972,
+            "lon": 17.5629,
+            "timezone": "Europe/Warsaw",
+            "isp": "Ckpartnet Network",
+            "org": "",
+            "as": "AS199250 CENTRUM KOMPUTEROWE PARTNET MIROSLAW WOLSZLEGIER",
+            "query": "185.21.36.249",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.14
         }
     ]
 }
