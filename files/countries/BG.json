@@ -1,26 +1,45 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "09",
-            "regionName": "Kardzhali",
-            "city": "Kardzhali",
-            "zip": "6600",
-            "lat": 41.6439,
-            "lon": 25.3594,
+            "region": "04",
+            "regionName": "Veliko Tarnovo",
+            "city": "Sistov",
+            "zip": "5250",
+            "lat": 43.6264,
+            "lon": 25.3544,
             "timezone": "Europe/Sofia",
-            "isp": "Technolux Ltd",
-            "org": "Technolux Ltd.",
-            "as": "AS199173 TechnoLux Ltd.",
-            "query": "85.187.224.21",
+            "isp": "ZONATA - INVEST sLLC",
+            "org": "Neterra Thezone",
+            "as": "AS34368 ZONATA - INVEST sLLC",
+            "query": "85.217.192.39",
+            "type": "http",
+            "port": "1414",
+            "response_time": 3.58
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Ablanitsa",
+            "zip": "2932",
+            "lat": 41.5309,
+            "lon": 23.9355,
+            "timezone": "Europe/Sofia",
+            "isp": "Sarnica-Net LTD",
+            "org": "Sarnica-Net LTD",
+            "as": "AS48584 Sarnica-Net LTD",
+            "query": "193.68.115.14",
             "type": "http",
             "port": "8080",
-            "response_time": 8.25
+            "response_time": 3.62
         }
     ]
 }
