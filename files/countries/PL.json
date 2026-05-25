@@ -1,8 +1,27 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "02",
+            "regionName": "Lower Silesia",
+            "city": "Wroclaw",
+            "zip": "50-029",
+            "lat": 51.1093,
+            "lon": 17.0386,
+            "timezone": "Europe/Warsaw",
+            "isp": "Netia SA",
+            "org": "Black Point S.A.",
+            "as": "AS12741 Netia SA",
+            "query": "83.238.125.220",
+            "type": "http",
+            "port": "8000",
+            "response_time": 4.37
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,45 +39,7 @@
             "query": "185.28.250.90",
             "type": "http",
             "port": "8090",
-            "response_time": 2.17
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "03-195",
-            "lat": 52.3029,
-            "lon": 20.9834,
-            "timezone": "Europe/Warsaw",
-            "isp": "WAWPOLIP",
-            "org": "",
-            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-            "query": "148.81.121.5",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.93
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "02",
-            "regionName": "Lower Silesia",
-            "city": "Wroclaw",
-            "zip": "50-029",
-            "lat": 51.1093,
-            "lon": 17.0386,
-            "timezone": "Europe/Warsaw",
-            "isp": "Netia SA",
-            "org": "Black Point S.A.",
-            "as": "AS12741 Netia SA",
-            "query": "83.238.125.219",
-            "type": "http",
-            "port": "8000",
-            "response_time": 5.01
+            "response_time": 5.75
         }
     ]
 }
