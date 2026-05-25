@@ -1,8 +1,27 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "06",
+            "regionName": "Lublin",
+            "city": "Lublin",
+            "zip": "20-153",
+            "lat": 51.2713,
+            "lon": 22.5761,
+            "timezone": "Europe/Warsaw",
+            "isp": "non-academic part of Lublin MAN",
+            "org": "Avir Sp. z o.o.",
+            "as": "AS12346 Maria Curie-Sklodowska University",
+            "query": "212.182.119.149",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.26
+        },
         {
             "status": "success",
             "country": "Poland",
@@ -20,26 +39,45 @@
             "query": "148.81.121.5",
             "type": "http",
             "port": "8080",
-            "response_time": 4.44
+            "response_time": 4.3
         },
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "04-180",
-            "lat": 52.2317,
-            "lon": 21.1039,
+            "region": "18",
+            "regionName": "Subcarpathia",
+            "city": "Rzesz\u00f3w",
+            "zip": "35-213",
+            "lat": 50.0482,
+            "lon": 21.9329,
             "timezone": "Europe/Warsaw",
-            "isp": "Exatel S.A.",
-            "org": "Exatel S.A",
-            "as": "AS20804 Exatel S.A.",
-            "query": "82.177.252.24",
+            "isp": "Skyware Sp. z o.o.",
+            "org": "Skyware Sp. z o.o",
+            "as": "AS42673 Skyware Sp. z o.o.",
+            "query": "91.150.189.122",
+            "type": "http",
+            "port": "30389",
+            "response_time": 5.7
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "22",
+            "regionName": "Pomerania",
+            "city": "Chojnice",
+            "zip": "89-600",
+            "lat": 53.6972,
+            "lon": 17.5629,
+            "timezone": "Europe/Warsaw",
+            "isp": "Ckpartnet Network",
+            "org": "",
+            "as": "AS199250 CENTRUM KOMPUTEROWE PARTNET MIROSLAW WOLSZLEGIER",
+            "query": "185.21.36.249",
             "type": "http",
             "port": "8080",
-            "response_time": 5.48
+            "response_time": 5.81
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "84.205.28.220",
             "type": "http",
             "port": "8080",
-            "response_time": 6.0
+            "response_time": 8.1
         }
     ]
 }
