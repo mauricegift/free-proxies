@@ -1,46 +1,8 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Lesznowola",
-            "zip": "05-506",
-            "lat": 52.0875,
-            "lon": 20.9403,
-            "timezone": "Europe/Warsaw",
-            "isp": "Skynet sp. z o.o.",
-            "org": "Skynet Sp. J. Krzysztof Skorupski, Filip Bacciarelli",
-            "as": "AS41966 Skynet sp. z o.o.",
-            "query": "109.206.223.64",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.41
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "02",
-            "regionName": "Lower Silesia",
-            "city": "Wroclaw",
-            "zip": "50-029",
-            "lat": 51.1093,
-            "lon": 17.0386,
-            "timezone": "Europe/Warsaw",
-            "isp": "Netia SA",
-            "org": "Black Point S.A.",
-            "as": "AS12741 Netia SA",
-            "query": "83.238.125.219",
-            "type": "http",
-            "port": "8000",
-            "response_time": 6.07
-        },
         {
             "status": "success",
             "country": "Poland",
@@ -58,7 +20,7 @@
             "query": "185.28.250.90",
             "type": "http",
             "port": "8090",
-            "response_time": 6.82
+            "response_time": 2.17
         },
         {
             "status": "success",
@@ -77,7 +39,26 @@
             "query": "148.81.121.5",
             "type": "http",
             "port": "8080",
-            "response_time": 10.18
+            "response_time": 3.93
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "02",
+            "regionName": "Lower Silesia",
+            "city": "Wroclaw",
+            "zip": "50-029",
+            "lat": 51.1093,
+            "lon": 17.0386,
+            "timezone": "Europe/Warsaw",
+            "isp": "Netia SA",
+            "org": "Black Point S.A.",
+            "as": "AS12741 Netia SA",
+            "query": "83.238.125.219",
+            "type": "http",
+            "port": "8000",
+            "response_time": 5.01
         }
     ]
 }
