@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "75",
-            "regionName": "Apulia",
-            "city": "Bisceglie",
-            "zip": "76011",
-            "lat": 41.2398,
-            "lon": 16.5009,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Lucca",
+            "zip": "55100",
+            "lat": 43.847,
+            "lon": 10.5018,
             "timezone": "Europe/Rome",
-            "isp": "VODAFONE",
-            "org": "",
-            "as": "AS30722 Fastweb SpA",
-            "query": "93.147.55.25",
+            "isp": "INTERBUSINESS",
+            "org": "NAS DHCP Pool Padova",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "79.43.195.202",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.99
+            "port": "3128",
+            "response_time": 0.6
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
+            "type": "http",
+            "port": "8081",
+            "response_time": 1.84
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "185.191.106.41",
             "type": "http",
             "port": "8081",
-            "response_time": 9.78
+            "response_time": 6.62
         }
     ]
 }
