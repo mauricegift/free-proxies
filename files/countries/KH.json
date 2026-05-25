@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "203.217.169.26",
             "type": "http",
             "port": "8080",
-            "response_time": 4.32
+            "response_time": 8.1
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "WiCAM Corporation",
             "org": "WiCAM Corporation Ltd.",
             "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "49.156.44.116",
+            "query": "49.156.44.166",
             "type": "http",
             "port": "8080",
-            "response_time": 10.92
+            "response_time": 9.09
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "VIETTEL (CAMBODIA) PTE",
+            "org": "Viettel (cambodia) Pte, Ltd.",
+            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+            "query": "36.37.155.160",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.05
         }
     ]
 }
