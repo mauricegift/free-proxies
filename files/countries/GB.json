@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 12,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -17,48 +17,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.175.118.186",
+            "query": "18.134.241.105",
+            "type": "http",
+            "port": "1080",
+            "response_time": 0.23
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5074,
+            "lon": -0.127758,
+            "timezone": "Europe/London",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.133.238.111",
             "type": "http",
             "port": "1080",
             "response_time": 0.24
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5074,
-            "lon": -0.127758,
-            "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.177.29.234",
-            "type": "http",
-            "port": "1080",
-            "response_time": 0.26
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5074,
-            "lon": -0.127758,
-            "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.170.54.62",
-            "type": "http",
-            "port": "1080",
-            "response_time": 0.3
         },
         {
             "status": "success",
@@ -77,7 +58,7 @@
             "query": "217.174.244.117",
             "type": "http",
             "port": "3129",
-            "response_time": 0.39
+            "response_time": 0.31
         },
         {
             "status": "success",
@@ -93,29 +74,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.134.241.105",
+            "query": "52.56.64.108",
             "type": "http",
             "port": "1080",
-            "response_time": 0.53
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Gosport",
-            "zip": "PO13 0GW",
-            "lat": 50.8251,
-            "lon": -1.1629,
-            "timezone": "Europe/London",
-            "isp": "IOMART",
-            "org": "Redstation Limited",
-            "as": "AS20860 IOMART CLOUD SERVICES LIMITED",
-            "query": "5.152.223.22",
-            "type": "http",
-            "port": "8080",
-            "response_time": 0.86
+            "response_time": 0.56
         },
         {
             "status": "success",
@@ -131,10 +93,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.178.73.149",
+            "query": "18.170.54.62",
             "type": "http",
             "port": "1080",
-            "response_time": 2.73
+            "response_time": 0.95
         },
         {
             "status": "success",
@@ -150,10 +112,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.134.240.176",
+            "query": "18.171.243.207",
             "type": "http",
             "port": "1080",
-            "response_time": 3.01
+            "response_time": 1.44
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Holborn",
+            "zip": "EC1",
+            "lat": 51.5175,
+            "lon": -0.12045,
+            "timezone": "Europe/London",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "94.131.122.128",
+            "type": "http",
+            "port": "1082",
+            "response_time": 1.98
         },
         {
             "status": "success",
@@ -169,10 +150,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "52.56.246.215",
+            "query": "35.176.49.37",
             "type": "http",
             "port": "1080",
-            "response_time": 5.9
+            "response_time": 3.04
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "SW1E",
+            "lat": 51.5081,
+            "lon": -0.1278,
+            "timezone": "Europe/London",
+            "isp": "OVH SAS",
+            "org": "OVH Ltd",
+            "as": "AS16276 OVH SAS",
+            "query": "198.244.254.77",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.04
         },
         {
             "status": "success",
@@ -191,7 +191,7 @@
             "query": "51.195.236.200",
             "type": "http",
             "port": "21688",
-            "response_time": 6.34
+            "response_time": 6.77
         },
         {
             "status": "success",
@@ -199,37 +199,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5074,
-            "lon": -0.127758,
+            "city": "Maidenhead",
+            "zip": "SL6",
+            "lat": 51.5226,
+            "lon": -0.724308,
             "timezone": "Europe/London",
-            "isp": "Amazon.com",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.135.161.170",
+            "isp": "Iomart Cloud Services Limited",
+            "org": "Iomart Cloud Services Limited",
+            "as": "AS20860 IOMART CLOUD SERVICES LIMITED",
+            "query": "81.168.119.85",
             "type": "http",
-            "port": "1080",
-            "response_time": 7.49
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5072,
-            "lon": -0.127586,
-            "timezone": "Europe/London",
-            "isp": "NSFOCUS, Inc.",
-            "org": "NSFOCUS, Inc",
-            "as": "AS8757 NSFOCUS, Inc.",
-            "query": "212.58.132.5",
-            "type": "http",
-            "port": "8888",
-            "response_time": 8.31
+            "port": "443",
+            "response_time": 9.72
         }
     ]
 }
