@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "23.176.40.194",
             "type": "http",
             "port": "1080",
-            "response_time": 1.49
+            "response_time": 1.63
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "",
+            "lat": 35.6761,
+            "lon": 139.6503,
+            "timezone": "Asia/Tokyo",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-northeast1)",
+            "as": "AS396982 Google LLC",
+            "query": "34.84.162.206",
+            "type": "http",
+            "port": "38080",
+            "response_time": 1.64
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "43.165.172.131",
             "type": "http",
             "port": "1080",
-            "response_time": 7.64
+            "response_time": 2.24
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "270-1351",
-            "lat": 35.798,
-            "lon": 140.1803,
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6906,
+            "lon": 139.77,
             "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "168.110.52.228",
+            "isp": "GMO Internet Group, Inc.",
+            "org": "GMO Internet, Inc.",
+            "as": "AS7506 GMO Internet Group, Inc.",
+            "query": "203.189.96.232",
             "type": "http",
-            "port": "3128",
-            "response_time": 9.03
+            "port": "80",
+            "response_time": 5.86
         }
     ]
 }
