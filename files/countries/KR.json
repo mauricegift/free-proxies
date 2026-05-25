@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.83
+            "response_time": 1.56
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "26",
+            "regionName": "Busan",
+            "city": "Gangseo-gu",
+            "zip": "467",
+            "lat": 35.1628,
+            "lon": 128.9353,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
+            "as": "AS4766 Korea Telecom",
+            "query": "121.174.186.199",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.4
         },
         {
             "status": "success",
@@ -39,7 +58,45 @@
             "query": "43.128.145.26",
             "type": "http",
             "port": "1080",
-            "response_time": 3.26
+            "response_time": 9.74
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "27",
+            "regionName": "Daegu",
+            "city": "Buk-gu",
+            "zip": "415",
+            "lat": 35.8828,
+            "lon": 128.6017,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "39.112.232.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.96
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.155.206.118",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.25
         }
     ]
 }
