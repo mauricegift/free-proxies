@@ -1,7 +1,7 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "176.111.37.5",
             "type": "http",
             "port": "39811",
-            "response_time": 0.5
+            "response_time": 0.49
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "176.111.37.216",
             "type": "http",
             "port": "39811",
-            "response_time": 0.54
+            "response_time": 0.49
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "51",
+            "regionName": "Odesa",
+            "city": "Odesa",
+            "zip": "65000",
+            "lat": 46.4752,
+            "lon": 30.7338,
+            "timezone": "Europe/Kyiv",
+            "isp": "TeNeT Networking Centre",
+            "org": "TeNeT Telecommunication Company",
+            "as": "AS6876 TENET Scientific Production Enterprise LLC",
+            "query": "85.238.106.201",
+            "type": "http",
+            "port": "28089",
+            "response_time": 0.53
         },
         {
             "status": "success",
@@ -52,32 +71,32 @@
             "lat": 49.4195,
             "lon": 26.9959,
             "timezone": "Europe/Kyiv",
-            "isp": "PP \"Podilsky Intelectualni sistemy\"",
-            "org": "FLP Pirozhok Elena Anatolevna",
-            "as": "AS49461 PP \"Podilsky Intelectualni sistemy\"",
-            "query": "31.42.164.144",
+            "isp": "\"X-City\" Ltd.",
+            "org": "X City",
+            "as": "AS51784 \"X-City\" Ltd.",
+            "query": "46.63.110.85",
             "type": "http",
-            "port": "23255",
-            "response_time": 1.88
+            "port": "8080",
+            "response_time": 3.26
         },
         {
             "status": "success",
             "country": "Ukraine",
             "countryCode": "UA",
-            "region": "30",
-            "regionName": "Kyiv City",
-            "city": "Kyiv",
-            "zip": "01000",
-            "lat": 50.4501,
-            "lon": 30.5234,
-            "timezone": "Europe/Kiev",
-            "isp": "Kyivstar UA",
-            "org": "Kyivstar LLC",
-            "as": "AS15895 \"Kyivstar\" PJSC",
-            "query": "134.249.185.223",
+            "region": "26",
+            "regionName": "Ivano-Frankivsk Oblast",
+            "city": "Verkhovyna",
+            "zip": "78701",
+            "lat": 48.155,
+            "lon": 24.795,
+            "timezone": "Europe/Kyiv",
+            "isp": "FOP Saiv Igor Stepanovich",
+            "org": "FOP Saiv Igor Stepanovich",
+            "as": "AS209907 FOP Saiv Igor Stepanovich",
+            "query": "91.228.217.195",
             "type": "http",
-            "port": "41890",
-            "response_time": 4.67
+            "port": "8989",
+            "response_time": 4.7
         },
         {
             "status": "success",
@@ -96,26 +115,45 @@
             "query": "77.52.187.196",
             "type": "http",
             "port": "18080",
-            "response_time": 6.52
+            "response_time": 5.85
         },
         {
             "status": "success",
             "country": "Ukraine",
             "countryCode": "UA",
-            "region": "32",
-            "regionName": "Kyiv Oblast",
-            "city": "Vasylkiv",
-            "zip": "08601",
-            "lat": 50.1899,
-            "lon": 30.3141,
-            "timezone": "Europe/Kyiv",
-            "isp": "Crystal Telecom Ltd",
-            "org": "Crystal Telecom Ltd",
-            "as": "AS49889 Crystal Telecom Ltd",
-            "query": "176.98.22.137",
+            "region": "53",
+            "regionName": "Poltava Oblast",
+            "city": "Poltava",
+            "zip": "36000",
+            "lat": 49.5882,
+            "lon": 34.5514,
+            "timezone": "Europe/Kiev",
+            "isp": "Kyivstar UA",
+            "org": "Kyivstar LLC",
+            "as": "AS15895 \"Kyivstar\" PJSC",
+            "query": "46.185.34.136",
             "type": "http",
-            "port": "38989",
-            "response_time": 7.49
+            "port": "8187",
+            "response_time": 6.14
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "61",
+            "regionName": "Ternopil Oblast",
+            "city": "Ternopil",
+            "zip": "46001",
+            "lat": 49.5535,
+            "lon": 25.5947,
+            "timezone": "Europe/Kiev",
+            "isp": "Columbus",
+            "org": "Lanet Network Ltd",
+            "as": "AS16223 MAXNET TELECOM, LTD",
+            "query": "5.58.97.89",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.51
         }
     ]
 }
