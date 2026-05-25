@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "221.120.218.66",
             "type": "http",
             "port": "8080",
-            "response_time": 3.58
+            "response_time": 1.24
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 31.5826,
             "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "PLAY BROADBAND (PRIVATE) LIMITED",
-            "org": "PLAY BROADBAND (PRIVATE) LIMITED",
-            "as": "AS151330 PLAY BROADBAND (PRIVATE) LIMITED",
-            "query": "103.198.154.196",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "PTCL Triple Play Project",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "39.49.164.180",
             "type": "http",
             "port": "8080",
-            "response_time": 3.95
+            "response_time": 3.94
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Optix Pakistan (Pvt.) Limited",
+            "org": "Optix Pakistan (Pvt.) Limited",
+            "as": "AS136384 Optix Pakistan (Pvt.) Limited",
+            "query": "202.165.232.238",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.14
         }
     ]
 }
