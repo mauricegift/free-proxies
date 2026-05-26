@@ -1,46 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Marino",
-            "zip": "00047",
-            "lat": 41.7666,
-            "lon": 12.656,
-            "timezone": "Europe/Rome",
-            "isp": "Telecom Italia Mobile",
-            "org": "",
-            "as": "AS16232 Telecom Italia S.p.A.",
-            "query": "2.194.96.185",
-            "type": "http",
-            "port": "8080",
-            "response_time": 0.65
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
-            "timezone": "Europe/Rome",
-            "isp": "HAL Service SpA",
-            "org": "Wiset srl",
-            "as": "AS44092 HAL Service SpA",
-            "query": "85.208.200.185",
-            "type": "http",
-            "port": "8081",
-            "response_time": 10.74
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -58,7 +20,26 @@
             "query": "93.147.55.25",
             "type": "http",
             "port": "8080",
-            "response_time": 13.8
+            "response_time": 8.07
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
+            "type": "http",
+            "port": "8443",
+            "response_time": 8.45
         }
     ]
 }
