@@ -1,8 +1,27 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "24",
+            "regionName": "Stara Zagora",
+            "city": "Stara Zagora",
+            "zip": "6000",
+            "lat": 42.4361,
+            "lon": 25.6394,
+            "timezone": "Europe/Sofia",
+            "isp": "Trakia of BG-TRAKIACABLE",
+            "org": "TrakiaCable Ltd.",
+            "as": "AS38924 Trakia Kabel OOD",
+            "query": "95.87.5.155",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.29
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,7 +39,45 @@
             "query": "194.8.53.6",
             "type": "http",
             "port": "8080",
-            "response_time": 10.79
+            "response_time": 8.42
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.12",
+            "type": "http",
+            "port": "8001",
+            "response_time": 10.63
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.3",
+            "type": "http",
+            "port": "8001",
+            "response_time": 14.86
         }
     ]
 }
