@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "192.99.8.15",
             "type": "http",
             "port": "8850",
-            "response_time": 1.17
+            "response_time": 1.1
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H4X",
+            "lat": 45.5003,
+            "lon": -73.5621,
+            "timezone": "America/Toronto",
+            "isp": "eStruxture Data Centers Inc.",
+            "org": "eStruxture Data Centers Inc",
+            "as": "AS10929 eStruxture Data Centers Inc.",
+            "query": "205.204.73.60",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.51
         }
     ]
 }
