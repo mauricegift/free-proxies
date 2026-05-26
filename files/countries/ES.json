@@ -1,26 +1,45 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "CT",
-            "regionName": "Catalonia",
-            "city": "Badalona",
-            "zip": "08912",
-            "lat": 41.4473,
-            "lon": 2.2521,
+            "region": "CM",
+            "regionName": "Castille-La Mancha",
+            "city": "Alovera",
+            "zip": "19208",
+            "lat": 40.5903,
+            "lon": -3.2437,
             "timezone": "Europe/Madrid",
-            "isp": "Telefonica De Espana",
+            "isp": "Telefonica de Espana SAU",
             "org": "RIMA (Red IP Multi Acceso)",
             "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "88.28.222.20",
+            "query": "88.1.150.79",
             "type": "http",
-            "port": "44380",
-            "response_time": 10.19
+            "port": "3128",
+            "response_time": 2.92
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28017",
+            "lat": 40.4235,
+            "lon": -3.6463,
+            "timezone": "Europe/Madrid",
+            "isp": "RIMA (Red IP Multi Acceso)",
+            "org": "",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "2.139.38.192",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.12
         }
     ]
 }
