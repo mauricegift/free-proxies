@@ -1,8 +1,27 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "China",
+            "countryCode": "CN",
+            "region": "GD",
+            "regionName": "Guangdong",
+            "city": "Guangzhou",
+            "zip": "",
+            "lat": 23.1181,
+            "lon": 113.2539,
+            "timezone": "Asia/Shanghai",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+            "as": "AS45090 Shenzhen Tencent Computer Systems Company Limited",
+            "query": "106.52.215.138",
+            "type": "http",
+            "port": "7890",
+            "response_time": 6.51
+        },
         {
             "status": "success",
             "country": "China",
@@ -20,7 +39,7 @@
             "query": "122.224.198.218",
             "type": "http",
             "port": "808",
-            "response_time": 13.77
+            "response_time": 15.81
         }
     ]
 }
