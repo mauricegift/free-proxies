@@ -1,8 +1,27 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "02",
+            "regionName": "Burgas",
+            "city": "Nesebar",
+            "zip": "8230",
+            "lat": 42.65,
+            "lon": 27.7333,
+            "timezone": "Europe/Sofia",
+            "isp": "VISION 2008 Ltd.",
+            "org": "Global Communication Net Plc",
+            "as": "AS59463 VISION 2008 Ltd.",
+            "query": "109.160.23.239",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.48
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,26 +39,26 @@
             "query": "213.169.33.8",
             "type": "http",
             "port": "8001",
-            "response_time": 5.95
+            "response_time": 2.9
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "01",
-            "regionName": "Blagoevgrad",
-            "city": "Ablanitsa",
-            "zip": "2932",
-            "lat": 41.5309,
-            "lon": 23.9355,
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
             "timezone": "Europe/Sofia",
-            "isp": "Sarnica-Net LTD",
-            "org": "Sarnica-Net LTD",
-            "as": "AS48584 Sarnica-Net LTD",
-            "query": "193.68.115.14",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.7",
             "type": "http",
-            "port": "8080",
-            "response_time": 9.83
+            "port": "8001",
+            "response_time": 6.34
         }
     ]
 }
