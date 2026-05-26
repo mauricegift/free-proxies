@@ -1,27 +1,8 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 5,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Jongno-gu",
-            "zip": "031",
-            "lat": 37.575,
-            "lon": 126.9778,
-            "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "1.231.81.166",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.87
-        },
         {
             "status": "success",
             "country": "South Korea",
@@ -39,7 +20,26 @@
             "query": "43.128.145.26",
             "type": "http",
             "port": "1080",
-            "response_time": 2.05
+            "response_time": 2.64
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Jongno-gu",
+            "zip": "031",
+            "lat": 37.575,
+            "lon": 126.9778,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "1.231.81.166",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.29
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "43.155.208.105",
             "type": "http",
             "port": "80",
-            "response_time": 4.06
+            "response_time": 5.54
         },
         {
             "status": "success",
@@ -66,37 +66,18 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Mapo-gu",
-            "zip": "040",
-            "lat": 37.5479,
-            "lon": 126.9086,
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Korea Telecom",
-            "as": "AS4766 Korea Telecom",
-            "query": "211.217.231.234",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.155.206.118",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.6
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Pyeongtaek-si",
-            "zip": "177",
-            "lat": 37.0847,
-            "lon": 127.0525,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Kornet",
-            "as": "AS4766 Korea Telecom",
-            "query": "14.34.180.21",
-            "type": "http",
-            "port": "38157",
-            "response_time": 13.84
+            "port": "3128",
+            "response_time": 6.54
         }
     ]
 }
