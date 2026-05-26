@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
+            "type": "http",
+            "port": "8443",
+            "response_time": 4.42
+        },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
             "region": "25",
             "regionName": "Lombardy",
-            "city": "Gorgonzola",
-            "zip": "20064",
-            "lat": 45.5265,
-            "lon": 9.39564,
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "NTT IS SRL",
+            "isp": "Mywic Costumers",
             "org": "",
-            "as": "AS199785 Cloud Hosting Solutions, Limited.",
-            "query": "92.42.96.84",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
             "type": "http",
-            "port": "3128",
-            "response_time": 9.55
+            "port": "8081",
+            "response_time": 5.8
         }
     ]
 }
