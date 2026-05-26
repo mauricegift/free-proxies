@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Albury",
-            "zip": "2641",
-            "lat": -36.0426,
-            "lon": 146.9407,
-            "timezone": "Australia/Sydney",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
-            "type": "http",
-            "port": "8000",
-            "response_time": 6.23
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,45 @@
             "query": "103.131.232.9",
             "type": "http",
             "port": "8080",
-            "response_time": 6.43
+            "response_time": 6.15
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "139.99.171.39",
+            "type": "http",
+            "port": "80",
+            "response_time": 6.95
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4705,
+            "lon": 153.026,
+            "timezone": "Australia/Brisbane",
+            "isp": "ERX",
+            "org": "",
+            "as": "",
+            "query": "163.128.198.18",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.6
         }
     ]
 }
