@@ -1,45 +1,26 @@
 {
     "countryCode": "CN",
     "country": "China",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "China",
             "countryCode": "CN",
-            "region": "BJ",
-            "regionName": "Beijing",
-            "city": "Beijing",
-            "zip": "",
-            "lat": 39.911,
-            "lon": 116.395,
+            "region": "JS",
+            "regionName": "Jiangsu",
+            "city": "Nanjing",
+            "zip": "210000",
+            "lat": 32.0607,
+            "lon": 118.763,
             "timezone": "Asia/Shanghai",
-            "isp": "China Unicom Beijing Province Network",
-            "org": "",
-            "as": "AS4808 China Unicom Beijing Province Network",
-            "query": "222.129.139.179",
+            "isp": "Chinanet",
+            "org": "Chinanet JS",
+            "as": "AS4134 CHINANET-BACKBONE",
+            "query": "180.125.216.109",
             "type": "http",
-            "port": "9000",
-            "response_time": 3.47
-        },
-        {
-            "status": "success",
-            "country": "China",
-            "countryCode": "CN",
-            "region": "BJ",
-            "regionName": "Beijing",
-            "city": "Beijing",
-            "zip": "",
-            "lat": 39.911,
-            "lon": 116.395,
-            "timezone": "Asia/Shanghai",
-            "isp": "China Unicom Beijing Province Network",
-            "org": "",
-            "as": "AS4808 China Unicom Beijing Province Network",
-            "query": "123.112.212.33",
-            "type": "http",
-            "port": "9000",
-            "response_time": 7.59
+            "port": "8118",
+            "response_time": 2.01
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "115.231.181.40",
             "type": "http",
             "port": "8128",
-            "response_time": 10.46
+            "response_time": 10.49
         }
     ]
 }
