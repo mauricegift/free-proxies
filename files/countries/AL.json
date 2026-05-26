@@ -1,8 +1,27 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "01",
+            "regionName": "Berat County",
+            "city": "Berat",
+            "zip": "",
+            "lat": 40.7025,
+            "lon": 19.9521,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.231.17",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.55
+        },
         {
             "status": "success",
             "country": "Albania",
@@ -20,7 +39,7 @@
             "query": "188.164.218.209",
             "type": "http",
             "port": "8080",
-            "response_time": 10.87
+            "response_time": 10.59
         }
     ]
 }
