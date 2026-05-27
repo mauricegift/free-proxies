@@ -1,7 +1,7 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 4,
+    "count": 9,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "176.111.37.216",
             "type": "http",
             "port": "39811",
-            "response_time": 0.29
+            "response_time": 0.33
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "176.111.37.5",
             "type": "http",
             "port": "39811",
-            "response_time": 0.32
+            "response_time": 0.35
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "53",
+            "regionName": "Poltava Oblast",
+            "city": "Poltava",
+            "zip": "36000",
+            "lat": 49.5882,
+            "lon": 34.5514,
+            "timezone": "Europe/Kiev",
+            "isp": "Kyivstar UA",
+            "org": "Kyivstar LLC",
+            "as": "AS15895 \"Kyivstar\" PJSC",
+            "query": "46.185.34.136",
+            "type": "http",
+            "port": "8187",
+            "response_time": 1.07
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "68",
+            "regionName": "Khmelnytskyi Oblast",
+            "city": "Khmelnytskyi",
+            "zip": "29005",
+            "lat": 49.4195,
+            "lon": 26.9959,
+            "timezone": "Europe/Kyiv",
+            "isp": "Global Technology Ukraine Ltd",
+            "org": "MASTER",
+            "as": "AS28773 Global Technologies of Ukraine LLC",
+            "query": "188.190.177.47",
+            "type": "http",
+            "port": "8989",
+            "response_time": 3.8
         },
         {
             "status": "success",
@@ -58,7 +96,26 @@
             "query": "193.111.189.138",
             "type": "http",
             "port": "8080",
-            "response_time": 5.19
+            "response_time": 5.26
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "51",
+            "regionName": "Odesa",
+            "city": "Odesa",
+            "zip": "65000",
+            "lat": 46.4752,
+            "lon": 30.7338,
+            "timezone": "Europe/Kyiv",
+            "isp": "TeNeT Networking Centre",
+            "org": "TeNeT Telecommunication Company",
+            "as": "AS6876 TENET Scientific Production Enterprise LLC",
+            "query": "85.238.106.201",
+            "type": "http",
+            "port": "28089",
+            "response_time": 5.73
         },
         {
             "status": "success",
@@ -66,18 +123,56 @@
             "countryCode": "UA",
             "region": "68",
             "regionName": "Khmelnytskyi Oblast",
-            "city": "Kamyanets-Podilskyi",
-            "zip": "32305",
-            "lat": 48.6813,
-            "lon": 26.5783,
+            "city": "Khmelnytskyi",
+            "zip": "29000",
+            "lat": 49.4195,
+            "lon": 26.9959,
             "timezone": "Europe/Kyiv",
-            "isp": "Lanet Network",
-            "org": "Lanet Network Ltd",
-            "as": "AS49332 Lanet Network Ltd",
-            "query": "176.32.2.193",
+            "isp": "\"X-City\" Ltd.",
+            "org": "X City",
+            "as": "AS51784 \"X-City\" Ltd.",
+            "query": "46.63.110.85",
             "type": "http",
             "port": "8080",
-            "response_time": 10.45
+            "response_time": 6.13
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "61",
+            "regionName": "Ternopil Oblast",
+            "city": "Ternopil",
+            "zip": "46001",
+            "lat": 49.5535,
+            "lon": 25.5947,
+            "timezone": "Europe/Kiev",
+            "isp": "Columbus",
+            "org": "Lanet Network Ltd",
+            "as": "AS16223 MAXNET TELECOM, LTD",
+            "query": "5.58.97.89",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.28
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "30",
+            "regionName": "Kyiv City",
+            "city": "Kyiv",
+            "zip": "01001",
+            "lat": 50.458,
+            "lon": 30.5303,
+            "timezone": "Europe/Kyiv",
+            "isp": "\"SCIENTIFIC-INDUSTRIAL FIRM \"VOLZ\" LIMITED LIABILITY COMPANY",
+            "org": "VUC",
+            "as": "AS12963 SCIENTIFIC-INDUSTRIAL FIRM VOLZ LIMITED LIABILITY COMPANY",
+            "query": "94.247.231.172",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.47
         }
     ]
 }
