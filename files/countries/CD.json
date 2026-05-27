@@ -1,8 +1,27 @@
 {
     "countryCode": "CD",
     "country": "Congo (DRC)",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Congo (DRC)",
+            "countryCode": "CD",
+            "region": "KN",
+            "regionName": "Kinshasa City",
+            "city": "Kinshasa",
+            "zip": "",
+            "lat": -4.33,
+            "lon": 15.3104,
+            "timezone": "Africa/Kinshasa",
+            "isp": "Liquid Telecommunications Ltd",
+            "org": "LIT DRC",
+            "as": "AS30844 Liquid Telecommunications Ltd",
+            "query": "41.174.132.82",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.21
+        },
         {
             "status": "success",
             "country": "Congo (DRC)",
@@ -20,7 +39,7 @@
             "query": "41.79.233.182",
             "type": "http",
             "port": "8080",
-            "response_time": 4.86
+            "response_time": 8.33
         }
     ]
 }
