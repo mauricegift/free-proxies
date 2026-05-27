@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 53.901,
             "lon": 27.5707,
             "timezone": "Europe/Minsk",
-            "isp": "Unitary enterprise A1",
-            "org": "Unitary enterprise A1",
-            "as": "AS42772 Unitary enterprise A1",
-            "query": "93.125.3.22",
+            "isp": "H2nexus LTD",
+            "org": "H2nexus",
+            "as": "AS215730 H2NEXUS LTD",
+            "query": "144.31.129.3",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.53
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220051",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "IPoE USERS GRODNO",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "82.209.219.244",
             "type": "http",
             "port": "8080",
-            "response_time": 10.95
+            "response_time": 2.34
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220004",
+            "lat": 53.9006,
+            "lon": 27.559,
+            "timezone": "Europe/Minsk",
+            "isp": "Business network jv",
+            "org": "Business network LTD",
+            "as": "AS12406 Business Network Ltd",
+            "query": "80.249.81.179",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 7.69
         }
     ]
 }
