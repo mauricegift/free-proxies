@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "46.39.105.157",
             "type": "http",
             "port": "8080",
-            "response_time": 0.23
+            "response_time": 0.25
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "V\u00e4rmd\u00f6 Municipality",
+            "zip": "130 38",
+            "lat": 59.3196,
+            "lon": 18.7213,
+            "timezone": "Europe/Stockholm",
+            "isp": "Data Communication & Software i Grondal Aktiebolag",
+            "org": "DataCom Group Nordic AB",
+            "as": "AS60662 DataCom Group Nordic AB",
+            "query": "185.106.183.85",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.31
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "111 20",
+            "lat": 59.3326,
+            "lon": 18.0651,
+            "timezone": "Europe/Stockholm",
+            "isp": "Ace Data Centers II",
+            "org": "Ace Data Centers II, LLC",
+            "as": "AS207567 Intezio Worldwide Limited",
+            "query": "2.26.124.123",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.15
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3327,
+            "lon": 18.0656,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Aeza International LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "45.80.231.251",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.62
         }
     ]
 }
