@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Dalmine",
+            "zip": "24044",
+            "lat": 45.6548,
+            "lon": 9.608,
+            "timezone": "Europe/Rome",
+            "isp": "Planetel srl",
+            "org": "",
+            "as": "AS47217 Planetel SPA",
+            "query": "46.21.186.252",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.37
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.74
+            "response_time": 0.47
         },
         {
             "status": "success",
@@ -36,29 +55,29 @@
             "isp": "Mywic Costumers",
             "org": "",
             "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.41",
+            "query": "185.191.106.0",
             "type": "http",
             "port": "8081",
-            "response_time": 1.9
+            "response_time": 3.49
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "San Giovanni Valdarno",
-            "zip": "52027",
-            "lat": 43.5707,
-            "lon": 11.5331,
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Furnari",
+            "zip": "98054",
+            "lat": 38.1031,
+            "lon": 15.1206,
             "timezone": "Europe/Rome",
-            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
-            "org": "T&T Tecnologie e Telecomunicazioni Srl",
-            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "91.192.25.158",
+            "isp": "Telecom Italia S.p.A",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "2.115.212.62",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 5.19
+            "port": "48293",
+            "response_time": 6.02
         },
         {
             "status": "success",
@@ -66,18 +85,18 @@
             "countryCode": "IT",
             "region": "34",
             "regionName": "Veneto",
-            "city": "Crispi Cavour",
-            "zip": "36030",
-            "lat": 45.5819,
-            "lon": 11.5011,
+            "city": "Santa Margherita d'Adige",
+            "zip": "35040",
+            "lat": 45.2121,
+            "lon": 11.5576,
             "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "188.11.179.26",
+            "isp": "Sirius Technology SRL",
+            "org": "Sirius Technology SRL",
+            "as": "AS60501 Sirius Technology SRL",
+            "query": "149.86.203.217",
             "type": "http",
-            "port": "8443",
-            "response_time": 11.94
+            "port": "8080",
+            "response_time": 7.75
         }
     ]
 }
