@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 5,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Mississauga",
+            "zip": "L5J",
+            "lat": 43.5119,
+            "lon": -79.6299,
+            "timezone": "America/Toronto",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
+            "type": "socks4",
+            "port": "50877",
+            "response_time": 0.55
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,26 +39,7 @@
             "query": "192.99.8.15",
             "type": "http",
             "port": "8850",
-            "response_time": 0.99
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H2A",
-            "lat": 45.562,
-            "lon": -73.6002,
-            "timezone": "America/Toronto",
-            "isp": "Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "45.73.0.118",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.71
+            "response_time": 1.18
         },
         {
             "status": "success",
@@ -58,45 +58,7 @@
             "query": "54.39.154.107",
             "type": "http",
             "port": "8082",
-            "response_time": 6.86
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5019,
-            "lon": -73.5674,
-            "timezone": "America/Toronto",
-            "isp": "Rica Web Services",
-            "org": "Moula World Llc",
-            "as": "AS26832 Rica Web Services",
-            "query": "86.107.168.166",
-            "type": "socks4",
-            "port": "22",
-            "response_time": 8.16
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Laval",
-            "zip": "H7W",
-            "lat": 45.5355,
-            "lon": -73.761,
-            "timezone": "America/Toronto",
-            "isp": "Le Groupe Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "24.37.245.42",
-            "type": "socks4",
-            "port": "51056",
-            "response_time": 16.9
+            "response_time": 19.41
         }
     ]
 }
