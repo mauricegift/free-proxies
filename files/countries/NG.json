@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "ED",
+            "regionName": "Edo State",
+            "city": "Benin City",
+            "zip": "",
+            "lat": 6.3332,
+            "lon": 5.6238,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.170.1",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.23
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -17,10 +36,29 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.198.17",
+            "query": "154.113.196.17",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.07
+            "response_time": 2.95
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Ojota",
+            "zip": "",
+            "lat": 6.57806,
+            "lon": 3.38686,
+            "timezone": "Africa/Lagos",
+            "isp": "Vodacom Business Nigeria",
+            "org": "Inq. Digital Nigeria",
+            "as": "AS16284 Inq. Digital Nigeria",
+            "query": "155.93.96.210",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.79
         }
     ]
 }
