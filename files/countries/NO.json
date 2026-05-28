@@ -1,7 +1,7 @@
 {
     "countryCode": "NO",
     "country": "Norway",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "178.255.148.223",
             "type": "http",
             "port": "808",
-            "response_time": 4.38
+            "response_time": 3.12
+        },
+        {
+            "status": "success",
+            "country": "Norway",
+            "countryCode": "NO",
+            "region": "02",
+            "regionName": "Akershus",
+            "city": "L\u00f8renskog",
+            "zip": "1473",
+            "lat": 59.9251,
+            "lon": 10.9483,
+            "timezone": "Europe/Oslo",
+            "isp": "Blix Solutions",
+            "org": "Blixcust10233",
+            "as": "AS50304 Blix Solutions AS",
+            "query": "178.255.148.205",
+            "type": "http",
+            "port": "8118",
+            "response_time": 5.9
         }
     ]
 }
