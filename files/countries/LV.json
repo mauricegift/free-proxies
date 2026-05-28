@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,9 @@
             "org": "SIA VEESP",
             "as": "AS42532 SIA VEESP",
             "query": "169.40.6.114",
-            "type": "socks5",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 0.49
+            "response_time": 0.41
         },
         {
             "status": "success",
@@ -29,36 +29,17 @@
             "region": "RIX",
             "regionName": "R\u012bga",
             "city": "Riga",
-            "zip": "LV-1063",
-            "lat": 56.9473,
-            "lon": 24.0979,
+            "zip": "LV-1005",
+            "lat": 56.9891,
+            "lon": 24.1195,
             "timezone": "Europe/Riga",
-            "isp": "RETN Limited",
-            "org": "",
-            "as": "AS9002 RETN Limited",
-            "query": "45.130.212.97",
-            "type": "http",
-            "port": "8119",
-            "response_time": 4.33
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "R\u012bga",
-            "city": "Riga",
-            "zip": "LV-1063",
-            "lat": 56.9473,
-            "lon": 24.0979,
-            "timezone": "Europe/Riga",
-            "isp": "CGI GLOBAL LIMITED",
-            "org": "CGI GLOBAL LIMITED",
-            "as": "AS56971 AS56971 Cloud",
-            "query": "31.57.29.58",
-            "type": "http",
-            "port": "3128",
-            "response_time": 10.07
+            "isp": "SIA \"BITE Latvija\"",
+            "org": "SIA Latnet",
+            "as": "AS2588 SIA BITE Latvija",
+            "query": "159.148.146.65",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.4
         }
     ]
 }
