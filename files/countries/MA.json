@@ -1,8 +1,27 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "07",
+            "regionName": "Marrakesh-Safi",
+            "city": "Marrakesh",
+            "zip": "",
+            "lat": 31.6348,
+            "lon": -8.0025,
+            "timezone": "Africa/Casablanca",
+            "isp": "MEDITELECOM",
+            "org": "Fixed",
+            "as": "AS36925 MEDITELECOM",
+            "query": "197.230.117.57",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.94
+        },
         {
             "status": "success",
             "country": "Morocco",
@@ -20,7 +39,7 @@
             "query": "41.141.10.60",
             "type": "http",
             "port": "8080",
-            "response_time": 4.07
+            "response_time": 4.04
         }
     ]
 }
