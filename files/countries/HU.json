@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "BU",
             "regionName": "Budapest",
             "city": "Budapest",
-            "zip": "1007",
-            "lat": 47.4979,
-            "lon": 19.0402,
+            "zip": "1048",
+            "lat": 47.5,
+            "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "M247 Europe SRL",
-            "org": "3NT SOLUTIONS LLP",
-            "as": "AS9009 M247 Europe SRL",
-            "query": "38.180.109.24",
+            "isp": "One Hungary Ltd.",
+            "org": "Vodafone Hungary Ltd",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "89.134.125.5",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.48
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "INVITEL Zrt.",
+            "org": "",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "82.131.187.203",
             "type": "http",
-            "port": "3128",
-            "response_time": 2.35
+            "port": "8080",
+            "response_time": 4.86
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "84.0.139.125",
             "type": "http",
             "port": "8080",
-            "response_time": 12.76
+            "response_time": 6.58
         }
     ]
 }
