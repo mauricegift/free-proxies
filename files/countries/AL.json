@@ -1,8 +1,46 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 6,
+    "count": 11,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Enterprise",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.74.8",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 0.67
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Rrashbull",
+            "zip": "",
+            "lat": 41.3228,
+            "lon": 19.5103,
+            "timezone": "Europe/Tirane",
+            "isp": "Lightnet Sh.p.k.",
+            "org": "Lightnet Sh.p.k",
+            "as": "AS212637 Lightnet Sh.p.k.",
+            "query": "185.190.90.2",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.85
+        },
         {
             "status": "success",
             "country": "Albania",
@@ -20,7 +58,45 @@
             "query": "80.78.73.120",
             "type": "socks4",
             "port": "65530",
-            "response_time": 2.38
+            "response_time": 1.66
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone RESIDENTIAL NAT",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.78.106",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 2.69
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "MC NETWORKING Sh.p.k.",
+            "org": "Ftth Network",
+            "as": "AS56468 MC NETWORKING Sh.p.k.",
+            "query": "46.183.123.233",
+            "type": "socks4",
+            "port": "53551",
+            "response_time": 3.01
         },
         {
             "status": "success",
@@ -39,26 +115,45 @@
             "query": "37.26.86.206",
             "type": "socks4",
             "port": "4145",
-            "response_time": 2.44
+            "response_time": 4.62
         },
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "07",
-            "regionName": "Kuk\u00ebs County",
-            "city": "Krum\u00eb",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
             "zip": "",
-            "lat": 42.1992,
-            "lon": 20.4105,
+            "lat": 41.3253,
+            "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "shqiponjaisp.al LLC",
+            "isp": "MC NETWORKING Sh.p.k.",
+            "org": "Ftth Network",
+            "as": "AS56468 MC NETWORKING Sh.p.k.",
+            "query": "46.183.123.241",
+            "type": "socks4",
+            "port": "53551",
+            "response_time": 5.64
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Business Custommers",
             "org": "",
-            "as": "AS206088 shqiponjaisp.al LLC",
-            "query": "185.196.182.22",
+            "as": "AS35047 Abissnet sh.a.",
+            "query": "77.242.21.133",
             "type": "http",
             "port": "8080",
-            "response_time": 3.06
+            "response_time": 8.38
         },
         {
             "status": "success",
@@ -72,12 +167,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone Albania Public",
+            "org": "Vodafone",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.73.142",
-            "type": "socks4",
-            "port": "65530",
-            "response_time": 3.83
+            "query": "188.164.218.209",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.53
         },
         {
             "status": "success",
@@ -90,13 +185,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Vodafone Albania Sh.A.",
-            "org": "Enterprise",
-            "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.74.66",
-            "type": "socks4",
-            "port": "65530",
-            "response_time": 4.48
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.165.246",
+            "type": "http",
+            "port": "8989",
+            "response_time": 8.6
         },
         {
             "status": "success",
@@ -115,7 +210,7 @@
             "query": "217.24.245.58",
             "type": "http",
             "port": "8079",
-            "response_time": 6.03
+            "response_time": 9.42
         }
     ]
 }
