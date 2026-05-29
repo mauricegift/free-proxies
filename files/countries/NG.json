@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "ED",
+            "regionName": "Edo State",
+            "city": "Benin City",
+            "zip": "",
+            "lat": 6.3332,
+            "lon": 5.6238,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.170.1",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.0
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,7 @@
             "query": "169.239.236.201",
             "type": "socks4",
             "port": "10801",
-            "response_time": 5.3
+            "response_time": 4.62
         }
     ]
 }
