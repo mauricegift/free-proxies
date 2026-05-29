@@ -1,7 +1,7 @@
 {
     "countryCode": "HR",
     "country": "Croatia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "21",
             "regionName": "City of Zagreb",
             "city": "Zagreb",
-            "zip": "10020",
-            "lat": 45.722,
-            "lon": 15.9951,
+            "zip": "10000",
+            "lat": 45.8293,
+            "lon": 15.9793,
             "timezone": "Europe/Zagreb",
-            "isp": "Croatian Academic and Research Network",
-            "org": "Carnet Osljgaj",
-            "as": "AS2108 Croatian Academic and Research Network",
-            "query": "82.132.19.108",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 0.36
+            "isp": "A1 Hrvatska d.o.o",
+            "org": "METRONET",
+            "as": "AS35549 A1 Hrvatska d.o.o.",
+            "query": "212.92.204.54",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.74
+        },
+        {
+            "status": "success",
+            "country": "Croatia",
+            "countryCode": "HR",
+            "region": "12",
+            "regionName": "Brod-Posavina County",
+            "city": "Slavonski Brod",
+            "zip": "35000",
+            "lat": 45.1577,
+            "lon": 18.0092,
+            "timezone": "Europe/Zagreb",
+            "isp": "Hrvatski Telekom d.d",
+            "org": "",
+            "as": "AS5391 Hrvatski Telekom d.d.",
+            "query": "93.141.165.2",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.24
         }
     ]
 }
