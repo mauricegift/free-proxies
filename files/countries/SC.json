@@ -1,8 +1,27 @@
 {
     "countryCode": "SC",
     "country": "Seychelles",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Seychelles",
+            "countryCode": "SC",
+            "region": "16",
+            "regionName": "La Rivi\u00e8re Anglaise",
+            "city": "Victoria",
+            "zip": "",
+            "lat": -4.616,
+            "lon": 55.4461,
+            "timezone": "Indian/Mahe",
+            "isp": "Intelvision",
+            "org": "Intelvision Ltd",
+            "as": "AS36902 Intelvision Ltd",
+            "query": "197.234.14.39",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.33
+        },
         {
             "status": "success",
             "country": "Seychelles",
@@ -20,7 +39,7 @@
             "query": "197.234.13.20",
             "type": "socks4",
             "port": "4145",
-            "response_time": 6.39
+            "response_time": 3.49
         }
     ]
 }
