@@ -1,26 +1,45 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "HB",
-            "regionName": "Hajd\u00fa-Bihar",
-            "city": "Beretty\u00f3\u00fajfalu",
-            "zip": "4100",
-            "lat": 47.2164,
-            "lon": 21.556,
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1048",
+            "lat": 47.5,
+            "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom",
+            "isp": "One Hungary Ltd.",
+            "org": "Vodafone Hungary Ltd",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "89.134.125.5",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.31
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "INVITEL Zrt.",
             "org": "",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "84.0.139.125",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "82.131.187.203",
             "type": "http",
             "port": "8080",
-            "response_time": 2.1
+            "response_time": 6.08
         }
     ]
 }
