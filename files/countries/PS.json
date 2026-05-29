@@ -1,26 +1,26 @@
 {
     "countryCode": "PS",
-    "country": "Palestinian Territory",
-    "count": 2,
+    "country": "Palestine",
+    "count": 3,
     "proxies": [
         {
             "status": "success",
-            "country": "Palestinian Territory",
+            "country": "Palestine",
             "countryCode": "PS",
-            "region": "",
-            "regionName": "West Bank",
-            "city": "Salf\u012bt",
+            "region": "NBS",
+            "regionName": "Nablus Governorate",
+            "city": "Nablus",
             "zip": "",
-            "lat": 32.0837,
-            "lon": 35.1808,
+            "lat": 32.2207,
+            "lon": 35.2542,
             "timezone": "Asia/Hebron",
-            "isp": "AL Zaytona Company For Communication Ltd.",
-            "org": "Zaytona Network",
-            "as": "AS197350 AL Zaytona Company For Communication Ltd.",
-            "query": "46.60.15.42",
-            "type": "http",
-            "port": "8082",
-            "response_time": 3.96
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.71
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 31.9038,
             "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "BCI Telecommunication & Advanced Technology Company",
-            "org": "Bnet Network",
+            "isp": "BNET network",
+            "org": "",
             "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.9.9",
+            "query": "93.184.7.26",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.07
+            "response_time": 3.75
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.244.95.175",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.73
         }
     ]
 }
