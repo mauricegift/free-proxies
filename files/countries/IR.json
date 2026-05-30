@@ -1,7 +1,7 @@
 {
     "countryCode": "IR",
     "country": "Iran",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "151.232.18.66",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.29
+            "response_time": 1.84
+        },
+        {
+            "status": "success",
+            "country": "Iran",
+            "countryCode": "IR",
+            "region": "10",
+            "regionName": "Isfahan",
+            "city": "Isfahan",
+            "zip": "",
+            "lat": 32.6546,
+            "lon": 51.668,
+            "timezone": "Asia/Tehran",
+            "isp": "AsmanFaraz- IUT",
+            "org": "Asmanfaraz Sepahan Isdp",
+            "as": "AS44375 Asmanfaraz Sepahan Company (P.J.S)",
+            "query": "93.126.6.70",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.83
         }
     ]
 }
