@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 31.9038,
             "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "BNET network",
-            "org": "",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
             "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.26",
+            "query": "93.184.9.9",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.92
+            "response_time": 1.26
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "178.214.80.45",
             "type": "http",
             "port": "8080",
-            "response_time": 5.95
+            "response_time": 6.64
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Dhann\u0101bah",
+            "zip": "",
+            "lat": 32.3134,
+            "lon": 35.0414,
+            "timezone": "Asia/Hebron",
+            "isp": "Gemzo information technology Private Joint-Stock company",
+            "org": "Gemzo information technology Private Joint-Stock company",
+            "as": "AS51336 Gemzo information technology Private Joint-Stock company",
+            "query": "178.214.80.27",
+            "type": "http",
+            "port": "1981",
+            "response_time": 10.67
         }
     ]
 }
