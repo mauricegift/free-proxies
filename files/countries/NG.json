@@ -1,8 +1,46 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Ilupeju",
+            "zip": "",
+            "lat": 6.5662,
+            "lon": 3.3553,
+            "timezone": "Africa/Lagos",
+            "isp": "Syscodes Communications",
+            "org": "",
+            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
+            "query": "102.36.133.62",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.74
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "BO",
+            "regionName": "Borno State",
+            "city": "Maiduguri",
+            "zip": "",
+            "lat": 11.8311,
+            "lon": 13.151,
+            "timezone": "Africa/Lagos",
+            "isp": "Gutti Global Networks",
+            "org": "Gutti Global Networks",
+            "as": "AS327986 GUTTI GLOBAL NETWORKS",
+            "query": "169.239.236.201",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 4.74
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +58,7 @@
             "query": "154.113.179.218",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.12
+            "response_time": 5.49
         },
         {
             "status": "success",
@@ -36,10 +74,29 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.198.17",
+            "query": "154.113.167.70",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.28
+            "response_time": 5.89
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.172.58",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.98
         }
     ]
 }
