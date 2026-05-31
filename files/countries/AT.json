@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "212.113.106.198",
             "type": "socks5",
             "port": "987",
-            "response_time": 0.33
+            "response_time": 0.39
         },
         {
             "status": "success",
@@ -29,17 +29,74 @@
             "region": "9",
             "regionName": "Vienna",
             "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
+            "zip": "1060",
+            "lat": 48.1951,
+            "lon": 16.3483,
             "timezone": "Europe/Vienna",
-            "isp": "OOO FREEnet Group",
-            "org": "OOO FREEnet Group",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "193.233.129.235",
+            "isp": "netcup GmbH",
+            "org": "Netcup",
+            "as": "AS197540 netcup GmbH",
+            "query": "89.58.17.90",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 8.67
+            "port": "9050",
+            "response_time": 0.64
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1060",
+            "lat": 48.1951,
+            "lon": 16.3483,
+            "timezone": "Europe/Vienna",
+            "isp": "netcup GmbH",
+            "org": "Netcup",
+            "as": "AS197540 netcup GmbH",
+            "query": "89.58.17.90",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 0.64
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1210",
+            "lat": 48.2765,
+            "lon": 16.4087,
+            "timezone": "Europe/Vienna",
+            "isp": "customers with static IP",
+            "org": "",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.255.177",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.98
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "5",
+            "regionName": "Salzburg",
+            "city": "Zell am See",
+            "zip": "5700",
+            "lat": 47.3286,
+            "lon": 12.798,
+            "timezone": "Europe/Vienna",
+            "isp": "SALZBURG-AG",
+            "org": "Salzburg AG",
+            "as": "AS8445 SALZBURG AG fur Energie, Verkehr und Telekommunikation",
+            "query": "83.215.25.66",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 8.43
         }
     ]
 }
