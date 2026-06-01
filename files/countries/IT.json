@@ -1,8 +1,46 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.96
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Lioni",
+            "zip": "83047",
+            "lat": 40.8808,
+            "lon": 15.1833,
+            "timezone": "Europe/Rome",
+            "isp": "Sirius Technology SRL",
+            "org": "Sirius Technology SRL",
+            "as": "AS60501 Sirius Technology SRL",
+            "query": "149.86.206.27",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.84
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +58,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.9
+            "response_time": 9.42
         },
         {
             "status": "success",
@@ -28,18 +66,18 @@
             "countryCode": "IT",
             "region": "25",
             "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
+            "city": "Desenzano del Garda",
+            "zip": "25015",
+            "lat": 45.4677,
+            "lon": 10.5383,
             "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.41",
-            "type": "http",
-            "port": "8081",
-            "response_time": 15.18
+            "isp": "Mynet S.R.L.",
+            "org": "Mynet",
+            "as": "AS31263 MYNET S.R.L.",
+            "query": "84.247.236.86",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 15.97
         }
     ]
 }
