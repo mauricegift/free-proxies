@@ -1,27 +1,8 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 8,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "102-0082",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "BrainStorm Network",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "103.75.118.84",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.75
-        },
         {
             "status": "success",
             "country": "Japan",
@@ -39,64 +20,7 @@
             "query": "23.176.40.194",
             "type": "http",
             "port": "1080",
-            "response_time": 5.15
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "102-0082",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - JP",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.245.30.253",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.74
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
-            "timezone": "Asia/Tokyo",
-            "isp": "The Constant Company",
-            "org": "Vultr Holdings, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "45.76.104.16",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 7.27
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
-            "timezone": "Asia/Tokyo",
-            "isp": "The Constant Company, LLC",
-            "org": "TYO Vultr",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "139.180.196.38",
-            "type": "http",
-            "port": "10808",
-            "response_time": 7.48
+            "response_time": 4.87
         },
         {
             "status": "success",
@@ -112,10 +36,29 @@
             "isp": "InfoSphere",
             "org": "NTTPC Communications, Inc",
             "as": "AS2514 NTT PC Communications, Inc.",
-            "query": "116.80.64.13",
+            "query": "116.80.48.146",
             "type": "http",
             "port": "3172",
-            "response_time": 8.53
+            "response_time": 8.9
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "102-0082",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "BrainStorm Network",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "103.75.118.84",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.87
         },
         {
             "status": "success",
@@ -134,7 +77,7 @@
             "query": "116.80.48.144",
             "type": "http",
             "port": "3172",
-            "response_time": 9.89
+            "response_time": 11.46
         },
         {
             "status": "success",
@@ -150,10 +93,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "140.238.43.53",
-            "type": "socks4",
-            "port": "54322",
-            "response_time": 16.81
+            "query": "168.110.52.228",
+            "type": "http",
+            "port": "3128",
+            "response_time": 16.05
         }
     ]
 }
