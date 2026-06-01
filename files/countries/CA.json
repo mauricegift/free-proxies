@@ -1,27 +1,8 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 5,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "M5A",
-            "lat": 43.6547,
-            "lon": -79.3623,
-            "timezone": "America/Toronto",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "68.183.204.195",
-            "type": "http",
-            "port": "3128",
-            "response_time": 3.24
-        },
         {
             "status": "success",
             "country": "Canada",
@@ -29,17 +10,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H2A",
-            "lat": 45.562,
-            "lon": -73.6002,
+            "zip": "H4X",
+            "lat": 45.5029,
+            "lon": -73.5723,
             "timezone": "America/Toronto",
-            "isp": "Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "45.73.0.118",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.98
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "192.99.8.15",
+            "type": "http",
+            "port": "8850",
+            "response_time": 1.27
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "192.158.15.201",
             "type": "socks4",
             "port": "50877",
-            "response_time": 8.02
+            "response_time": 2.28
         },
         {
             "status": "success",
@@ -67,36 +48,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5019,
-            "lon": -73.5674,
+            "zip": "H2A",
+            "lat": 45.562,
+            "lon": -73.6002,
             "timezone": "America/Toronto",
-            "isp": "Rica Web Services",
-            "org": "Moula World Llc",
-            "as": "AS26832 Rica Web Services",
-            "query": "86.107.168.166",
+            "isp": "Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "45.73.0.118",
             "type": "socks4",
-            "port": "22",
-            "response_time": 10.1
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5029,
-            "lon": -73.5723,
-            "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "192.99.8.15",
-            "type": "http",
-            "port": "8850",
-            "response_time": 13.96
+            "port": "5678",
+            "response_time": 5.17
         }
     ]
 }
