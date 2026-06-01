@@ -1,7 +1,7 @@
 {
     "countryCode": "IR",
     "country": "Iran",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Tehran",
             "city": "Tehran",
             "zip": "",
-            "lat": 35.7355,
-            "lon": 51.4023,
+            "lat": 35.7219,
+            "lon": 51.3347,
             "timezone": "Asia/Tehran",
-            "isp": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
-            "org": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
-            "as": "AS49100 Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
-            "query": "5.202.120.123",
+            "isp": "Iran Telecommunication Company PJS",
+            "org": "",
+            "as": "AS58224 Iran Telecommunication Company PJS",
+            "query": "151.232.18.66",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.3
+        },
+        {
+            "status": "success",
+            "country": "Iran",
+            "countryCode": "IR",
+            "region": "10",
+            "regionName": "Isfahan",
+            "city": "Isfahan",
+            "zip": "",
+            "lat": 32.7568,
+            "lon": 51.5556,
+            "timezone": "Asia/Tehran",
+            "isp": "AsmanFaraz ISDP",
+            "org": "Asmanfaraz Sepahan Company (P.J.S)",
+            "as": "AS44375 Asmanfaraz Sepahan Company (P.J.S)",
+            "query": "193.178.203.140",
             "type": "http",
-            "port": "3128",
-            "response_time": 3.99
+            "port": "8080",
+            "response_time": 14.16
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "185.100.45.93",
             "type": "http",
             "port": "8080",
-            "response_time": 5.3
+            "response_time": 14.8
         }
     ]
 }
