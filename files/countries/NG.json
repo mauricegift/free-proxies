@@ -1,26 +1,45 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Eti-Osa",
+            "region": "BO",
+            "regionName": "Borno State",
+            "city": "Maiduguri",
             "zip": "",
-            "lat": 6.53094,
-            "lon": 3.32648,
+            "lat": 11.8311,
+            "lon": 13.151,
             "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
-            "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.201.234",
+            "isp": "Gutti Global Networks",
+            "org": "Gutti Global Networks",
+            "as": "AS327986 GUTTI GLOBAL NETWORKS",
+            "query": "169.239.236.201",
             "type": "socks4",
-            "port": "32639",
-            "response_time": 5.59
+            "port": "10801",
+            "response_time": 2.14
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "RI",
+            "regionName": "Rivers State",
+            "city": "Port Harcourt",
+            "zip": "",
+            "lat": 4.7731,
+            "lon": 7.0085,
+            "timezone": "Africa/Lagos",
+            "isp": "MTN NIGERIA Communication limited",
+            "org": "MTN Nigeria",
+            "as": "AS29465 MTN NIGERIA Communication limited",
+            "query": "102.88.13.62",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.23
         }
     ]
 }
