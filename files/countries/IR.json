@@ -1,7 +1,7 @@
 {
     "countryCode": "IR",
     "country": "Iran",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "185.120.201.27",
             "type": "http",
             "port": "8080",
-            "response_time": 1.92
+            "response_time": 4.45
         },
         {
             "status": "success",
@@ -30,16 +30,35 @@
             "regionName": "Tehran",
             "city": "Tehran",
             "zip": "",
-            "lat": 35.6824,
-            "lon": 51.4158,
+            "lat": 35.7219,
+            "lon": 51.3347,
+            "timezone": "Asia/Tehran",
+            "isp": "Asiatech Data Transmission company",
+            "org": "Asiatech Data Transmission Co.",
+            "as": "AS43754 Asiatech Data Transmission company",
+            "query": "185.109.244.69",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.74
+        },
+        {
+            "status": "success",
+            "country": "Iran",
+            "countryCode": "IR",
+            "region": "05",
+            "regionName": "Kermanshah Province",
+            "city": "Kermanshah",
+            "zip": "",
+            "lat": 34.3277,
+            "lon": 47.0778,
             "timezone": "Asia/Tehran",
             "isp": "Iran Telecommunication Company PJS",
-            "org": "Telecommunication Company of Tehran",
+            "org": "Telecommunication Company of Kermanshah",
             "as": "AS58224 Iran Telecommunication Company PJS",
-            "query": "93.118.135.176",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.97
+            "query": "78.39.253.49",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.28
         }
     ]
 }
