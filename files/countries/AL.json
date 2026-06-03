@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.170.126",
+            "isp": "MC Networking",
+            "org": "MCNETWORKING-AS56468",
+            "as": "AS56468 MC NETWORKING Sh.p.k.",
+            "query": "46.183.124.162",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 0.41
+            "port": "53551",
+            "response_time": 2.53
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "80.78.73.120",
             "type": "socks4",
             "port": "65530",
-            "response_time": 6.43
+            "response_time": 3.02
         },
         {
             "status": "success",
@@ -52,13 +52,51 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "MC Networking",
-            "org": "MCNETWORKING-AS56468",
-            "as": "AS56468 MC NETWORKING Sh.p.k.",
-            "query": "46.183.124.162",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.170.126",
             "type": "socks4",
-            "port": "53551",
-            "response_time": 8.12
+            "port": "4145",
+            "response_time": 3.97
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "188.164.218.209",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.59
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Business Custommers",
+            "org": "",
+            "as": "AS35047 Abissnet sh.a.",
+            "query": "77.242.21.133",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.95
         }
     ]
 }
