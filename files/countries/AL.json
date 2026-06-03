@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "MC NETWORKING Sh.p.k.",
-            "org": "Adsl",
-            "as": "AS56468 MC NETWORKING Sh.p.k.",
-            "query": "46.183.122.49",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.170.126",
             "type": "socks4",
-            "port": "53551",
-            "response_time": 2.46
+            "port": "4145",
+            "response_time": 0.47
         },
         {
             "status": "success",
@@ -33,32 +33,51 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "MC Networking",
-            "org": "MCNETWORKING-AS56468",
-            "as": "AS56468 MC NETWORKING Sh.p.k.",
-            "query": "46.183.124.162",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Public",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.73.142",
             "type": "socks4",
-            "port": "53551",
-            "response_time": 3.03
+            "port": "65530",
+            "response_time": 2.12
         },
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "02",
-            "regionName": "Durr\u00ebs County",
-            "city": "Rrashbull",
+            "region": "01",
+            "regionName": "Berat County",
+            "city": "Berat",
             "zip": "",
-            "lat": 41.3228,
-            "lon": 19.5103,
+            "lat": 40.7025,
+            "lon": 19.9521,
             "timezone": "Europe/Tirane",
-            "isp": "Lightnet Sh.p.k.",
-            "org": "Lightnet Sh.p.k",
-            "as": "AS212637 Lightnet Sh.p.k.",
-            "query": "185.190.90.2",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.231.17",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.81
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Enterprise",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.74.8",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 4.42
+            "port": "65530",
+            "response_time": 7.64
         }
     ]
 }
