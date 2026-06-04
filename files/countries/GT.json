@@ -1,7 +1,7 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "190.14.5.164",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.43
+            "response_time": 5.13
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01001",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.119.105.155",
+            "type": "http",
+            "port": "999",
+            "response_time": 7.19
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "22",
+            "regionName": "Departamento de Jutiapa",
+            "city": "San Jos\u00e9 Acatempa",
+            "zip": "",
+            "lat": 14.2653,
+            "lon": -90.1269,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.119.103.237",
+            "type": "http",
+            "port": "999",
+            "response_time": 10.62
         },
         {
             "status": "success",
@@ -39,26 +77,7 @@
             "query": "190.61.101.72",
             "type": "http",
             "port": "8080",
-            "response_time": 8.66
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "01",
-            "regionName": "Guatemala",
-            "city": "Guatemala City",
-            "zip": "01014",
-            "lat": 14.6343,
-            "lon": -90.5155,
-            "timezone": "America/Guatemala",
-            "isp": "Telgua",
-            "org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "as": "AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "query": "200.119.141.114",
-            "type": "http",
-            "port": "999",
-            "response_time": 11.74
+            "response_time": 11.71
         }
     ]
 }
