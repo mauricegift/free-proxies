@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "130.193.123.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.71
+            "response_time": 5.45
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "92.223.2.95",
             "type": "http",
             "port": "8888",
-            "response_time": 11.75
+            "response_time": 6.43
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1872,
+            "lon": 44.5152,
+            "timezone": "Asia/Yerevan",
+            "isp": "Data Campus Limited",
+            "org": "Data Campus Limited",
+            "as": "AS215929 Data Campus Limited",
+            "query": "45.142.195.110",
+            "type": "socks5",
+            "port": "995",
+            "response_time": 14.32
         }
     ]
 }
