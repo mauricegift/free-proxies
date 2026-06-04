@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 5,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,37 +9,18 @@
             "countryCode": "CH",
             "region": "ZH",
             "regionName": "Zurich",
-            "city": "R\u00fcmlang",
-            "zip": "8153",
-            "lat": 47.4505,
-            "lon": 8.5255,
-            "timezone": "Europe/Zurich",
-            "isp": "Private Layer INC",
-            "org": "Private Layer Inc",
-            "as": "AS51852 Private Layer INC",
-            "query": "179.43.180.232",
-            "type": "socks4",
-            "port": "1081",
-            "response_time": 3.56
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
             "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
+            "zip": "8001",
+            "lat": 47.37204,
+            "lon": 8.54094,
             "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (switzerlandnorth)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "74.242.169.16",
             "type": "http",
             "port": "3128",
-            "response_time": 4.88
+            "response_time": 3.01
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.27
+            "response_time": 7.46
         },
         {
             "status": "success",
@@ -77,26 +58,7 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 6.27
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "GE",
-            "regionName": "Geneva",
-            "city": "Geneva",
-            "zip": "1200",
-            "lat": 46.2052,
-            "lon": 6.142,
-            "timezone": "Europe/Zurich",
-            "isp": "Serva ONE LTD",
-            "org": "Serva ONE LTD",
-            "as": "AS199058 SERVA ONE LTD",
-            "query": "45.85.93.15",
-            "type": "socks5",
-            "port": "4567",
-            "response_time": 7.72
+            "response_time": 7.46
         }
     ]
 }
