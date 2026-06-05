@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.110",
+            "query": "85.117.61.74",
             "type": "http",
             "port": "8080",
-            "response_time": 5.48
+            "response_time": 3.91
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Airmax LLC",
-            "org": "",
-            "as": "AS208320 AIRMAX LLC",
-            "query": "45.143.108.10",
+            "isp": "Multisoft LLC",
+            "org": "Multisoft",
+            "as": "AS209012 MULTISOFT LLC",
+            "query": "2.57.218.132",
             "type": "http",
             "port": "8080",
-            "response_time": 7.03
+            "response_time": 5.23
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online LLC",
+            "org": "",
+            "as": "AS16010 Magticom Ltd.",
+            "query": "188.129.255.58",
+            "type": "http",
+            "port": "80",
+            "response_time": 15.19
         }
     ]
 }
