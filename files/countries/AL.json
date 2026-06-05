@@ -14,13 +14,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.170.126",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Public",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.73.120",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 2.39
+            "port": "65530",
+            "response_time": 1.76
         },
         {
             "status": "success",
@@ -34,12 +34,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone RESIDENTIAL NAT",
+            "org": "Enterprise",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.78.106",
+            "query": "80.78.74.8",
             "type": "socks4",
             "port": "65530",
-            "response_time": 6.72
+            "response_time": 2.4
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "77.242.21.133",
             "type": "http",
             "port": "8080",
-            "response_time": 7.14
+            "response_time": 4.12
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Rrashbull",
+            "zip": "",
+            "lat": 41.3228,
+            "lon": 19.5103,
+            "timezone": "Europe/Tirane",
+            "isp": "Lightnet Sh.p.k.",
+            "org": "Lightnet Sh.p.k",
+            "as": "AS212637 Lightnet Sh.p.k.",
+            "query": "185.190.90.2",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.44
         },
         {
             "status": "success",
@@ -71,32 +90,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "MC Networking",
-            "org": "MCNETWORKING-AS56468",
-            "as": "AS56468 MC NETWORKING Sh.p.k.",
-            "query": "46.183.124.162",
-            "type": "socks4",
-            "port": "53551",
-            "response_time": 7.53
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "07",
-            "regionName": "Kuk\u00ebs County",
-            "city": "Krum\u00eb",
-            "zip": "",
-            "lat": 42.1992,
-            "lon": 20.4105,
-            "timezone": "Europe/Tirane",
-            "isp": "shqiponjaisp.al LLC",
-            "org": "",
-            "as": "AS206088 shqiponjaisp.al LLC",
-            "query": "185.196.182.22",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "188.164.218.209",
             "type": "http",
             "port": "8080",
-            "response_time": 8.82
+            "response_time": 5.08
         },
         {
             "status": "success",
@@ -112,10 +112,10 @@
             "isp": "ATU",
             "org": "",
             "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
-            "query": "37.26.86.206",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 9.46
+            "query": "185.89.156.2",
+            "type": "http",
+            "port": "44224",
+            "response_time": 12.67
         }
     ]
 }
