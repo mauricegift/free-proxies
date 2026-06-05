@@ -1,26 +1,45 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Tanzania",
             "countryCode": "TZ",
-            "region": "01",
-            "regionName": "Arusha",
-            "city": "Arusha",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
             "zip": "",
-            "lat": -3.36667,
-            "lon": 36.6833,
+            "lat": -6.69162,
+            "lon": 39.1751,
             "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Habari Node Public Limited",
-            "org": "Habari Node Public Limited",
-            "as": "AS36909 Habari Node Public Limited",
-            "query": "41.78.168.118",
+            "isp": "Tanzania Education And Research Network",
+            "org": "Tanzania Education And Research Network",
+            "as": "AS37182 Tanzania Education And Research Network",
+            "query": "41.93.63.66",
             "type": "http",
             "port": "8080",
-            "response_time": 6.39
+            "response_time": 9.06
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "18",
+            "regionName": "Mwanza",
+            "city": "Mwanza",
+            "zip": "",
+            "lat": -2.51667,
+            "lon": 32.9,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node Public Limited",
+            "org": "Habari RockCable",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "154.0.153.10",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.47
         }
     ]
 }
