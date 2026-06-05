@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "PH",
+            "regionName": "Prahova",
+            "city": "Sinaia",
+            "zip": "106100",
+            "lat": 45.3492,
+            "lon": 25.5554,
+            "timezone": "Europe/Bucharest",
+            "isp": "Romtelecom",
+            "org": "",
+            "as": "AS9050 Orange Romania S.A.",
+            "query": "92.86.92.126",
+            "type": "socks4",
+            "port": "42740",
+            "response_time": 0.61
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +39,7 @@
             "query": "45.142.140.63",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.32
+            "response_time": 0.82
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "185.141.26.131",
             "type": "http",
             "port": "3128",
-            "response_time": 4.0
-        },
-        {
-            "status": "success",
-            "country": "Romania",
-            "countryCode": "RO",
-            "region": "IF",
-            "regionName": "Ilfov",
-            "city": "Pantelimon",
-            "zip": "077145",
-            "lat": 44.4474,
-            "lon": 26.2044,
-            "timezone": "Europe/Bucharest",
-            "isp": "Orange Romania Network",
-            "org": "Orange Romania S.A",
-            "as": "AS8953 Orange Romania S.A.",
-            "query": "109.166.207.162",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 5.0
+            "response_time": 3.23
         },
         {
             "status": "success",
@@ -77,7 +77,26 @@
             "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.94
+            "response_time": 4.36
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "SB",
+            "regionName": "Sibiu County",
+            "city": "C\u00e2r\u0163i\u015foara",
+            "zip": "557075",
+            "lat": 45.7167,
+            "lon": 24.5833,
+            "timezone": "Europe/Bucharest",
+            "isp": "Vodafone RO",
+            "org": "MobiFon S.A.",
+            "as": "AS12302 Vodafone Romania S.A.",
+            "query": "81.12.157.98",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.4
         }
     ]
 }
