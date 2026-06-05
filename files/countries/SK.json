@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "NI",
+            "regionName": "Nitra Region",
+            "city": "Kol\u00e1rovo",
+            "zip": "946 03",
+            "lat": 47.9261,
+            "lon": 17.9882,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Gutanet",
+            "as": "AS12426 Slovanet a.s.",
+            "query": "217.145.199.47",
+            "type": "socks4",
+            "port": "56746",
+            "response_time": 10.04
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +39,7 @@
             "query": "91.217.33.161",
             "type": "http",
             "port": "8080",
-            "response_time": 14.99
+            "response_time": 11.6
         }
     ]
 }
