@@ -1,7 +1,7 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "LTT Autonomous System, Tripoli Libya",
             "org": "Rawafed",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "102.68.128.211",
+            "query": "102.68.128.212",
             "type": "http",
             "port": "8080",
-            "response_time": 6.93
+            "response_time": 3.19
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "GZA",
             "org": "Giga Telecommunication and Technology Limited",
             "as": "AS328539 Giga for Telecommunication and Technology Limited",
-            "query": "102.38.30.24",
+            "query": "102.38.29.195",
             "type": "http",
             "port": "8080",
-            "response_time": 7.91
+            "response_time": 6.22
+        },
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "TB",
+            "regionName": "Tripoli",
+            "city": "Tripoli",
+            "zip": "",
+            "lat": 32.8908,
+            "lon": 13.1796,
+            "timezone": "Africa/Tripoli",
+            "isp": "LTT Autonomous System, Tripoli Libya",
+            "org": "WeShop Company",
+            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
+            "query": "102.68.129.54",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.22
         }
     ]
 }
