@@ -1,8 +1,46 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.84.101.19",
+            "type": "http",
+            "port": "8028",
+            "response_time": 4.15
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "A100 ROW Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.17.154.141",
+            "type": "http",
+            "port": "8007",
+            "response_time": 5.21
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,26 +58,7 @@
             "query": "51.17.154.141",
             "type": "http",
             "port": "40016",
-            "response_time": 2.45
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "JM",
-            "regionName": "Jerusalem",
-            "city": "Jerusalem",
-            "zip": "",
-            "lat": 31.7683,
-            "lon": 35.2137,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Mada Al-Arab General Services Company",
-            "org": "Mada Network BB",
-            "as": "AS51407 Mada Al-Arab General Services Company",
-            "query": "84.242.58.9",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.48
+            "response_time": 13.48
         }
     ]
 }
