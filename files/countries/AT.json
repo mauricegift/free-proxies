@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 11.36
+            "response_time": 8.95
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1170",
+            "lat": 48.2343,
+            "lon": 16.293,
+            "timezone": "Europe/Vienna",
+            "isp": "NETPLANET GmbH",
+            "org": "carrier66.net NetWork VIENNA",
+            "as": "AS24953 NETPLANET GmbH",
+            "query": "80.64.140.251",
+            "type": "http",
+            "port": "8080",
+            "response_time": 20.01
         }
     ]
 }
