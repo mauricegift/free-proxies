@@ -1,8 +1,27 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 3,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "KK",
+            "regionName": "Kvemo Kartli",
+            "city": "",
+            "zip": "",
+            "lat": 41.555,
+            "lon": 44.9805,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.43",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.42
+        },
         {
             "status": "success",
             "country": "Georgia",
@@ -17,10 +36,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.74",
+            "query": "85.117.62.70",
             "type": "http",
             "port": "8080",
-            "response_time": 3.91
+            "response_time": 5.27
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Multisoft LLC",
-            "org": "Multisoft",
-            "as": "AS209012 MULTISOFT LLC",
-            "query": "2.57.218.132",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.61.110",
             "type": "http",
             "port": "8080",
-            "response_time": 5.23
+            "response_time": 6.66
         },
         {
             "status": "success",
@@ -58,7 +77,64 @@
             "query": "188.129.255.58",
             "type": "http",
             "port": "80",
-            "response_time": 15.19
+            "response_time": 7.4
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "AJ",
+            "regionName": "Adjara",
+            "city": "Batumi",
+            "zip": "",
+            "lat": 41.6473,
+            "lon": 41.6258,
+            "timezone": "Asia/Tbilisi",
+            "isp": "JSC \"Silknet\"",
+            "org": "UTG MPLS DSL",
+            "as": "AS35805 JSC Silknet",
+            "query": "94.43.164.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.52
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "KK",
+            "regionName": "Kvemo Kartli",
+            "city": "",
+            "zip": "",
+            "lat": 41.555,
+            "lon": 44.9805,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.85",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.74
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Airmax LLC",
+            "org": "",
+            "as": "AS208320 AIRMAX LLC",
+            "query": "45.143.108.115",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.53
         }
     ]
 }
