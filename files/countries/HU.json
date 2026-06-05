@@ -1,26 +1,45 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "PE",
-            "regionName": "Pest County",
-            "city": "\u00c9rd",
-            "zip": "2030",
-            "lat": 47.3949,
-            "lon": 18.9136,
+            "region": "SO",
+            "regionName": "Somogy County",
+            "city": "Si\u00f3fok",
+            "zip": "8600",
+            "lat": 46.8982,
+            "lon": 18.0573,
             "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
-            "org": "INVITEL / DIGI",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "176.241.20.70",
+            "isp": "Pro-M Zrt.",
+            "org": "Techno-Tel Kft",
+            "as": "AS47169 Pro-M Zrt.",
+            "query": "45.130.240.238",
             "type": "http",
             "port": "8080",
-            "response_time": 11.65
+            "response_time": 1.71
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "Debrecen",
+            "zip": "4002",
+            "lat": 47.5232,
+            "lon": 21.6334,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom plc.",
+            "org": "Portal",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "91.147.235.162",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.55
         }
     ]
 }
