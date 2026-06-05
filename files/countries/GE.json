@@ -1,8 +1,27 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "T-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.97.3",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.5
+        },
         {
             "status": "success",
             "country": "Georgia",
@@ -17,10 +36,10 @@
             "isp": "Airmax LLC",
             "org": "",
             "as": "AS208320 AIRMAX LLC",
-            "query": "45.143.108.13",
+            "query": "45.143.108.11",
             "type": "http",
             "port": "8080",
-            "response_time": 6.08
+            "response_time": 7.81
         }
     ]
 }
