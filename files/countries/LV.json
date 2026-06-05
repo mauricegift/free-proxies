@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "DNET ITRisinajumi Ltd.",
             "org": "Sia Nano IT",
             "as": "AS42099 SIA NETVISION",
-            "query": "31.170.19.1",
+            "query": "31.170.19.5",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.38
+            "response_time": 2.73
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "R\u012bga",
+            "city": "Riga",
+            "zip": "LV-1063",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "RETN Limited",
+            "org": "",
+            "as": "AS9002 RETN Limited",
+            "query": "45.130.212.97",
+            "type": "http",
+            "port": "8119",
+            "response_time": 4.95
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "159.148.146.65",
             "type": "socks4",
             "port": "5678",
-            "response_time": 10.91
+            "response_time": 6.3
         }
     ]
 }
