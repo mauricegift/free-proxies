@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 1,
     "proxies": [
         {
             "status": "success",
@@ -10,36 +10,17 @@
             "region": "9",
             "regionName": "Vienna",
             "city": "Vienna",
-            "zip": "1210",
-            "lat": 48.2765,
-            "lon": 16.4087,
+            "zip": "1170",
+            "lat": 48.2343,
+            "lon": 16.293,
             "timezone": "Europe/Vienna",
-            "isp": "customers with static IP",
-            "org": "",
-            "as": "AS25255 ==> TELE2 AUSTRIA <==",
-            "query": "178.115.255.177",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.42
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "7",
-            "regionName": "Tyrol",
-            "city": "S\u00f6ll",
-            "zip": "6306",
-            "lat": 47.5038,
-            "lon": 12.1922,
-            "timezone": "Europe/Vienna",
-            "isp": "myNet GmbH",
-            "org": "myNET Internet Solutions",
-            "as": "AS31543 myNet GmbH",
-            "query": "83.218.186.22",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 7.95
+            "isp": "NETPLANET GmbH",
+            "org": "carrier66.net NetWork VIENNA",
+            "as": "AS24953 NETPLANET GmbH",
+            "query": "80.64.140.251",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.78
         }
     ]
 }
