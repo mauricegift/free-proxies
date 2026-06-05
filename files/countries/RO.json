@@ -1,8 +1,46 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucure\u0219ti",
+            "city": "Bucharest",
+            "zip": "052829",
+            "lat": 44.4268,
+            "lon": 26.1025,
+            "timezone": "Europe/Bucharest",
+            "isp": "ab stract",
+            "org": "Materialism s.r.l",
+            "as": "AS39287 Materialism s.r.l.",
+            "query": "45.142.140.63",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.31
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "PH",
+            "regionName": "Prahova",
+            "city": "Sinaia",
+            "zip": "106100",
+            "lat": 45.3492,
+            "lon": 25.5554,
+            "timezone": "Europe/Bucharest",
+            "isp": "Romtelecom",
+            "org": "",
+            "as": "AS9050 Orange Romania S.A.",
+            "query": "92.86.92.126",
+            "type": "socks4",
+            "port": "42740",
+            "response_time": 0.61
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +58,26 @@
             "query": "185.141.26.131",
             "type": "http",
             "port": "3128",
-            "response_time": 0.89
+            "response_time": 1.27
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "SB",
+            "regionName": "Sibiu County",
+            "city": "C\u00e2r\u0163i\u015foara",
+            "zip": "557075",
+            "lat": 45.7167,
+            "lon": 24.5833,
+            "timezone": "Europe/Bucharest",
+            "isp": "Vodafone RO",
+            "org": "MobiFon S.A.",
+            "as": "AS12302 Vodafone Romania S.A.",
+            "query": "81.12.157.98",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.43
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.95
+            "response_time": 3.34
         }
     ]
 }
