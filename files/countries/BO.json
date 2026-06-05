@@ -1,8 +1,27 @@
 {
     "countryCode": "BO",
     "country": "Bolivia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "L",
+            "regionName": "La Paz Department",
+            "city": "La Paz",
+            "zip": "",
+            "lat": -16.5002,
+            "lon": -68.1493,
+            "timezone": "America/La_Paz",
+            "isp": "Telef\u00f3nica Celular de Bolivia S.A.",
+            "org": "Telef\u00f3nica Celular de Bolivia S.A",
+            "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
+            "query": "190.104.26.227",
+            "type": "socks4",
+            "port": "33638",
+            "response_time": 3.57
+        },
         {
             "status": "success",
             "country": "Bolivia",
@@ -20,7 +39,7 @@
             "query": "190.104.8.142",
             "type": "socks4",
             "port": "14888",
-            "response_time": 1.62
+            "response_time": 5.55
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "Entel S.A. - EntelNet",
             "org": "Empresa Nacional De Telecomunicaciones Sociedad Anonima",
             "as": "AS6568 EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
-            "query": "181.115.207.115",
+            "query": "181.115.207.114",
             "type": "socks4",
             "port": "1080",
-            "response_time": 13.1
+            "response_time": 6.1
         }
     ]
 }
