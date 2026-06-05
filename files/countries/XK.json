@@ -1,8 +1,46 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Pristina",
+            "zip": "",
+            "lat": 42.6582,
+            "lon": 21.1555,
+            "timezone": "Europe/Belgrade",
+            "isp": "Kujtesa Network",
+            "org": "Kujtesa Net Sh.p.k.",
+            "as": "AS29170 Kujtesa Net Sh.p.k.",
+            "query": "82.114.92.222",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.8
+        },
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Pristina",
+            "zip": "",
+            "lat": 42.6629,
+            "lon": 21.1655,
+            "timezone": "Europe/Belgrade",
+            "isp": "Telekomi i Kosoves SH.A.",
+            "org": "Telekomi i Kosov\u00ebs",
+            "as": "AS8661 Telekomi i Kosoves SH.A.",
+            "query": "213.163.115.194",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.16
+        },
         {
             "status": "success",
             "country": "Kosovo",
@@ -20,7 +58,7 @@
             "query": "185.188.217.166",
             "type": "http",
             "port": "8080",
-            "response_time": 6.85
+            "response_time": 11.62
         }
     ]
 }
