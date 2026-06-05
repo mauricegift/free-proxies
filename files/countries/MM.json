@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Yangon",
             "city": "Yangon",
             "zip": "",
-            "lat": 16.7855,
-            "lon": 96.151,
+            "lat": 16.7964,
+            "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Telecom International Myanmar Company Limited",
+            "isp": "Myanma Post & Telecommunication",
             "org": "",
-            "as": "AS136255 Telecom International Myanmar Co., Ltd",
-            "query": "202.165.92.206",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.163.150",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.41
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7773,
+            "lon": 96.1588,
+            "timezone": "Asia/Yangon",
+            "isp": "Atom Myanmar Limited",
+            "org": "Atom Myanmar Limited",
+            "as": "AS133385 Atom Myanmar Limited",
+            "query": "37.111.53.31",
             "type": "http",
             "port": "8080",
-            "response_time": 6.93
+            "response_time": 3.89
         }
     ]
 }
