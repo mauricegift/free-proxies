@@ -1,7 +1,7 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,31 @@
             "lon": -90.5155,
             "timezone": "America/Guatemala",
             "isp": "Ufinet Panama S.A.",
-            "org": "Infinitum S.A",
+            "org": "UFINET Guatemala S. A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "45.228.233.78",
+            "query": "181.119.105.155",
             "type": "http",
             "port": "999",
-            "response_time": 1.9
+            "response_time": 3.65
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01051",
+            "lat": 14.5649,
+            "lon": -90.5258,
+            "timezone": "America/Guatemala",
+            "isp": "Comunicaciones Metropolitanas Cablecolor",
+            "org": "International Services Company S.A",
+            "as": "AS22869 CABLECOLOR S.A.",
+            "query": "143.208.57.59",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.8
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "186.33.5.13",
             "type": "http",
             "port": "8080",
-            "response_time": 3.27
+            "response_time": 4.53
         },
         {
             "status": "success",
@@ -58,64 +77,7 @@
             "query": "181.119.103.237",
             "type": "http",
             "port": "999",
-            "response_time": 6.76
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "01",
-            "regionName": "Guatemala",
-            "city": "Santa Catarina Pinula",
-            "zip": "01051",
-            "lat": 14.5705,
-            "lon": -90.4993,
-            "timezone": "America/Guatemala",
-            "isp": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
-            "org": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
-            "as": "AS263781 ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
-            "query": "138.118.106.237",
-            "type": "http",
-            "port": "999",
-            "response_time": 9.87
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "01",
-            "regionName": "Guatemala",
-            "city": "Guatemala City",
-            "zip": "01014",
-            "lat": 14.6343,
-            "lon": -90.5155,
-            "timezone": "America/Guatemala",
-            "isp": "Telgua",
-            "org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "as": "AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "query": "200.119.141.114",
-            "type": "http",
-            "port": "999",
-            "response_time": 10.68
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "13",
-            "regionName": "Departamento de Huehuetenango",
-            "city": "Huehuetenango",
-            "zip": "13001",
-            "lat": 15.3212,
-            "lon": -91.4703,
-            "timezone": "America/Guatemala",
-            "isp": "Fibernet S.A",
-            "org": "Fibernet S.A",
-            "as": "AS269989 FIBERNET S.A",
-            "query": "138.117.231.133",
-            "type": "http",
-            "port": "999",
-            "response_time": 10.99
+            "response_time": 6.91
         }
     ]
 }
