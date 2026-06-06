@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Lahore",
-            "zip": "54000",
-            "lat": 31.5826,
-            "lon": 74.3276,
+            "city": "Model Town",
+            "zip": "54700",
+            "lat": 31.481,
+            "lon": 74.3256,
             "timezone": "Asia/Karachi",
-            "isp": "PLAY BROADBAND (PRIVATE) LIMITED",
-            "org": "PLAY BROADBAND (PRIVATE) LIMITED",
-            "as": "AS151330 PLAY BROADBAND (PRIVATE) LIMITED",
-            "query": "103.198.154.196",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.76
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60700",
+            "lat": 30.1977,
+            "lon": 71.474,
+            "timezone": "Asia/Karachi",
+            "isp": "Prime Networks",
+            "org": "Prime Networks",
+            "as": "AS138590 Prime Networks",
+            "query": "103.134.1.14",
             "type": "http",
             "port": "8080",
-            "response_time": 5.34
+            "response_time": 4.25
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "221.120.218.66",
             "type": "http",
             "port": "8080",
-            "response_time": 6.12
+            "response_time": 6.44
         },
         {
             "status": "success",
@@ -58,26 +77,26 @@
             "query": "103.86.135.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 9.18
+            "response_time": 8.75
         },
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "74900",
-            "lat": 24.8591,
-            "lon": 66.9983,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "Dynamic PPPoE Hub",
-            "org": "",
-            "as": "AS132165 Connect Communications",
-            "query": "43.245.131.90",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "Pakistan Telecommuication company limited",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.176.164.41",
             "type": "http",
             "port": "8080",
-            "response_time": 9.46
+            "response_time": 12.79
         }
     ]
 }
