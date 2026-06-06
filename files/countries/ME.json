@@ -1,26 +1,45 @@
 {
     "countryCode": "ME",
     "country": "Montenegro",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Montenegro",
             "countryCode": "ME",
-            "region": "16",
-            "regionName": "Podgorica",
-            "city": "Podgorica",
+            "region": "05",
+            "regionName": "Budva",
+            "city": "Budva",
             "zip": "",
-            "lat": 42.4411,
-            "lon": 19.2632,
+            "lat": 42.2817,
+            "lon": 18.845,
             "timezone": "Europe/Podgorica",
-            "isp": "Crnogorski Telekom A.D. Podgorica",
-            "org": "",
-            "as": "AS8585 Crnogorski Telekom a.d.Podgorica",
-            "query": "109.228.65.178",
-            "type": "http",
-            "port": "81",
-            "response_time": 2.09
+            "isp": "Drustvo za telekomunikacije \"MTEL\" DOO",
+            "org": "CableUsers",
+            "as": "AS43940 Drustvo za telekomunikacije MTEL DOO",
+            "query": "109.72.107.227",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 0.43
+        },
+        {
+            "status": "success",
+            "country": "Montenegro",
+            "countryCode": "ME",
+            "region": "05",
+            "regionName": "Budva",
+            "city": "Budva",
+            "zip": "",
+            "lat": 42.2817,
+            "lon": 18.845,
+            "timezone": "Europe/Podgorica",
+            "isp": "Drustvo za telekomunikacije \"MTEL\" DOO",
+            "org": "FTTH Users Podgorica AZ",
+            "as": "AS43940 Drustvo za telekomunikacije MTEL DOO",
+            "query": "109.72.100.113",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 7.58
         }
     ]
 }
