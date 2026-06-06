@@ -1,7 +1,7 @@
 {
     "countryCode": "BA",
     "country": "Bosnia and Herzegovina",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Federation of Bosnia and Herzegovina",
             "city": "Sarajevo",
             "zip": "",
-            "lat": 43.8453,
-            "lon": 18.3592,
+            "lat": 43.8563,
+            "lon": 18.4131,
             "timezone": "Europe/Sarajevo",
-            "isp": "BH Telecom d.d. Sarajevo",
-            "org": "BH Telecom d.d. Sarajevo",
-            "as": "AS9146 BIHNET Autonomus System",
-            "query": "80.65.80.230",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "45.15.178.39",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 2.76
+            "port": "1080",
+            "response_time": 0.55
+        },
+        {
+            "status": "success",
+            "country": "Bosnia and Herzegovina",
+            "countryCode": "BA",
+            "region": "BIH",
+            "regionName": "Federation of Bosnia and Herzegovina",
+            "city": "Sarajevo",
+            "zip": "",
+            "lat": 43.8563,
+            "lon": 18.4131,
+            "timezone": "Europe/Sarajevo",
+            "isp": "WorkTitans B.V.",
+            "org": "WorkTitans B.V",
+            "as": "AS209847 WorkTitans B.V.",
+            "query": "45.15.178.39",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.55
         }
     ]
 }
