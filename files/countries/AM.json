@@ -1,8 +1,46 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC",
+            "org": "Hamynqneri_Miutyun_Sisian",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "130.193.123.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.95
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "K-Telecom GPRS/3G",
+            "org": "",
+            "as": "AS43733 Viva Armenia CJSC",
+            "query": "46.130.117.84",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.88
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -20,7 +58,7 @@
             "query": "195.250.92.58",
             "type": "http",
             "port": "8080",
-            "response_time": 14.97
+            "response_time": 15.12
         }
     ]
 }
