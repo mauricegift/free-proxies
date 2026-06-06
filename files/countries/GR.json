@@ -1,26 +1,45 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Greece",
             "countryCode": "GR",
-            "region": "L",
-            "regionName": "South Aegean",
-            "city": "Rhodes",
+            "region": "K",
+            "regionName": "North Aegean",
+            "city": "Mytilene",
             "zip": "",
-            "lat": 36.4356,
-            "lon": 28.222,
+            "lat": 39.1136,
+            "lon": 26.5558,
             "timezone": "Europe/Athens",
             "isp": "OTEnet",
             "org": "OTEnet S.A.",
             "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "62.103.186.66",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 2.85
+            "query": "85.75.179.66",
+            "type": "http",
+            "port": "8888",
+            "response_time": 3.91
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Marousi",
+            "zip": "",
+            "lat": 38.045,
+            "lon": 23.8043,
+            "timezone": "Europe/Athens",
+            "isp": "Ote SA (Hellenic Telecommunications Organisation)",
+            "org": "OTEnet",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.70.148.177",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.55
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "185.4.132.222",
             "type": "http",
             "port": "3128",
-            "response_time": 8.96
+            "response_time": 8.54
         }
     ]
 }
