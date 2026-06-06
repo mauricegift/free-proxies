@@ -1,26 +1,45 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "C",
+            "regionName": "Connacht",
+            "city": "Roscommon",
+            "zip": "F42",
+            "lat": 53.634,
+            "lon": -8.1819,
+            "timezone": "Europe/Dublin",
+            "isp": "EURONA-BRISKNET",
+            "org": "",
+            "as": "AS57791 Arden Broadband Ltd",
+            "query": "5.83.244.250",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.49
+        },
         {
             "status": "success",
             "country": "Ireland",
             "countryCode": "IE",
             "region": "L",
             "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "D16",
-            "lat": 53.2782,
-            "lon": -6.23132,
+            "city": "Taghmon",
+            "zip": "Y35",
+            "lat": 52.3217,
+            "lon": -6.6475,
             "timezone": "Europe/Dublin",
-            "isp": "IBIS",
-            "org": "Imagine Communications Group Limited",
-            "as": "",
-            "query": "89.127.196.71",
+            "isp": "Regional Broadband Ireland Ltd",
+            "org": "Regional Broadband Ireland Ltd.",
+            "as": "AS47942 Regional Telecom Ltd",
+            "query": "94.102.193.91",
             "type": "http",
-            "port": "3128",
-            "response_time": 1.54
+            "port": "8080",
+            "response_time": 5.93
         }
     ]
 }
