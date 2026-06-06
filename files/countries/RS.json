@@ -1,26 +1,45 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "VO",
-            "regionName": "Vojvodina",
-            "city": "Ba\u010dki Petrovac",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
             "zip": "",
-            "lat": 45.359,
-            "lon": 19.593,
+            "lat": 44.8046,
+            "lon": 20.4637,
             "timezone": "Europe/Belgrade",
             "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Smederevo",
+            "org": "Zbet",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "195.178.56.37",
+            "query": "178.220.148.82",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "24",
+            "regionName": "P\u010dinja",
+            "city": "Pre\u0161evo",
+            "zip": "",
+            "lat": 42.3069,
+            "lon": 21.6401,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "77.46.138.49",
             "type": "http",
             "port": "8080",
-            "response_time": 16.9
+            "response_time": 14.23
         }
     ]
 }
