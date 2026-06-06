@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 5,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "CZ",
             "region": "64",
             "regionName": "South Moravian",
-            "city": "Str\u00e1\u017enice",
-            "zip": "696 62",
-            "lat": 48.9035,
-            "lon": 17.3124,
+            "city": "Znojmo",
+            "zip": "669 02",
+            "lat": 48.8519,
+            "lon": 16.0465,
             "timezone": "Europe/Prague",
             "isp": "O2 Czech Republic, a.s.",
             "org": "O2 Czech Republic",
-            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
-            "query": "188.119.98.126",
-            "type": "http",
-            "port": "9999",
-            "response_time": 3.78
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.58
         },
         {
             "status": "success",
@@ -39,64 +39,7 @@
             "query": "217.197.151.182",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.88
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "31",
-            "regionName": "Jiho\u010desk\u00fd kraj",
-            "city": "Vesel\u00ed nad Lu\u017enic\u00ed",
-            "zip": "391 81",
-            "lat": 49.1919,
-            "lon": 14.6825,
-            "timezone": "Europe/Prague",
-            "isp": "SmartApe OU",
-            "org": "SmartApe OU",
-            "as": "AS62212 SmartApe OU",
-            "query": "193.124.57.14",
-            "type": "http",
-            "port": "443",
-            "response_time": 6.01
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Klatovy",
-            "zip": "339 01",
-            "lat": 49.3791,
-            "lon": 13.3059,
-            "timezone": "Europe/Prague",
-            "isp": "Airweb",
-            "org": "",
-            "as": "AS210712 ISP Alliance a.s.",
-            "query": "185.40.80.143",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 7.76
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Pilsen",
-            "zip": "326 00",
-            "lat": 49.7307,
-            "lon": 13.4206,
-            "timezone": "Europe/Prague",
-            "isp": "United Networks SE",
-            "org": "United Networks SE",
-            "as": "AS197296 United Networks SE",
-            "query": "45.139.91.62",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.47
+            "response_time": 0.58
         }
     ]
 }
