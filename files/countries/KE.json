@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,48 +17,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.25.184",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.07
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Jamii Telecommunications Limited",
-            "org": "FAIBA",
-            "as": "AS36866 Jamii Telecommunications Limited",
-            "query": "197.232.43.224",
+            "query": "154.79.248.156",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 7.66
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "28",
-            "regionName": "Mombasa County",
-            "city": "Mombasa",
-            "zip": "80100",
-            "lat": -4.04676,
-            "lon": 39.6849,
-            "timezone": "Africa/Nairobi",
-            "isp": "Gawia Ltd",
-            "org": "Gawia Ltd",
-            "as": "AS329621 Gawia Ltd",
-            "query": "102.204.153.206",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.51
+            "port": "5678",
+            "response_time": 5.38
         },
         {
             "status": "success",
@@ -71,13 +33,32 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Express Data Networks Ltd",
-            "org": "Express Data Networks Ltd",
-            "as": "AS328858 Express Data Networks Limited",
-            "query": "102.220.13.208",
+            "isp": "JTL-FAIBA",
+            "org": "",
+            "as": "AS36866 Jamii Telecommunications Limited",
+            "query": "41.57.106.228",
             "type": "http",
             "port": "8080",
-            "response_time": 18.05
+            "response_time": 7.1
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.30.88",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.96
         }
     ]
 }
