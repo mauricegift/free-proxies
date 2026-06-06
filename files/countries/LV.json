@@ -1,8 +1,27 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "R\u012bga",
+            "city": "Riga",
+            "zip": "LV-1005",
+            "lat": 56.9891,
+            "lon": 24.1195,
+            "timezone": "Europe/Riga",
+            "isp": "SIA \"BITE Latvija\"",
+            "org": "SIA Latnet",
+            "as": "AS2588 SIA BITE Latvija",
+            "query": "159.148.146.65",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.03
+        },
         {
             "status": "success",
             "country": "Latvia",
@@ -18,9 +37,9 @@
             "org": "BGT Ripe",
             "as": "AS9002 RETN Limited",
             "query": "155.212.226.251",
-            "type": "http",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 3.44
+            "response_time": 6.16
         }
     ]
 }
