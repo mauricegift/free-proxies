@@ -1,8 +1,27 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "SM",
+            "regionName": "Sumqayit City",
+            "city": "Sumqayit",
+            "zip": "",
+            "lat": 40.5841,
+            "lon": 49.6651,
+            "timezone": "Asia/Baku",
+            "isp": "Alfanet LLC",
+            "org": "Alfanet LLC",
+            "as": "AS50274 Alfanet LLC",
+            "query": "109.127.9.99",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.84
+        },
         {
             "status": "success",
             "country": "Azerbaijan",
@@ -11,16 +30,16 @@
             "regionName": "Baku City",
             "city": "Baku",
             "zip": "",
-            "lat": 40.381,
-            "lon": 49.8551,
+            "lat": 40.3771,
+            "lon": 49.8875,
             "timezone": "Asia/Baku",
-            "isp": "Caspian Telecom CGN",
-            "org": "Caspian Telecom LLC",
-            "as": "AS201167 Caspian Telecom LLC",
-            "query": "185.43.189.253",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 6.2
+            "isp": "SUPERONLAYN",
+            "org": "Superonlayn LTD",
+            "as": "AS39232 Uninet LLC",
+            "query": "5.134.48.59",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.22
         }
     ]
 }
