@@ -1,27 +1,8 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 3,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "R\u012bga",
-            "city": "Riga",
-            "zip": "LV-1011",
-            "lat": 56.9728,
-            "lon": 24.1657,
-            "timezone": "Europe/Riga",
-            "isp": "SIA VEESP",
-            "org": "SIA VEESP",
-            "as": "AS42532 SIA VEESP",
-            "query": "169.40.6.114",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.64
-        },
         {
             "status": "success",
             "country": "Latvia",
@@ -37,28 +18,9 @@
             "org": "BGT Ripe",
             "as": "AS9002 RETN Limited",
             "query": "155.212.226.251",
-            "type": "socks4",
+            "type": "http",
             "port": "1080",
-            "response_time": 5.82
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "088",
-            "regionName": "Saldus novads",
-            "city": "S\u0101ti\u0146i",
-            "zip": "LV-3801",
-            "lat": 56.6335,
-            "lon": 22.4471,
-            "timezone": "Europe/Riga",
-            "isp": "DNET ITRisinajumi Ltd.",
-            "org": "Sia Nano IT",
-            "as": "AS42099 SIA NETVISION",
-            "query": "31.170.17.141",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 6.25
+            "response_time": 3.44
         }
     ]
 }
