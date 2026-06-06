@@ -1,46 +1,8 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon.com, Inc.",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.62.123.236",
-            "type": "http",
-            "port": "51782",
-            "response_time": 1.37
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.34
-        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -58,7 +20,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.22
+            "response_time": 3.57
         },
         {
             "status": "success",
@@ -77,7 +39,26 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 6.22
+            "response_time": 3.57
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "R\u00fcmlang",
+            "zip": "8153",
+            "lat": 47.4505,
+            "lon": 8.5255,
+            "timezone": "Europe/Zurich",
+            "isp": "Private Layer INC",
+            "org": "Private Layer Inc",
+            "as": "AS51852 Private Layer INC",
+            "query": "179.43.180.232",
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 10.58
         }
     ]
 }
