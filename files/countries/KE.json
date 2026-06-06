@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "JTL-FAIBA",
-            "org": "",
-            "as": "AS36866 Jamii Telecommunications Limited",
-            "query": "41.57.106.228",
+            "isp": "Converged services Eastern",
+            "org": "For Converged services",
+            "as": "AS37061 Safaricom Limited",
+            "query": "41.139.167.17",
             "type": "http",
             "port": "8080",
-            "response_time": 3.86
+            "response_time": 2.99
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "102.211.145.31",
             "type": "http",
             "port": "8080",
-            "response_time": 5.78
+            "response_time": 3.25
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.18.198",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.2
         },
         {
             "status": "success",
@@ -52,13 +71,32 @@
             "lat": -1.32323,
             "lon": 36.8802,
             "timezone": "Africa/Nairobi",
-            "isp": "Frontier Optical Networks Ltd",
-            "org": "",
-            "as": "AS37305 Frontier Optical Networks Ltd",
-            "query": "41.79.9.229",
+            "isp": "Optinode Group LLP",
+            "org": "Optinode Group LLP",
+            "as": "AS329192 Optinode Group LLP",
+            "query": "102.213.248.72",
             "type": "http",
             "port": "8080",
-            "response_time": 7.26
+            "response_time": 7.69
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "154.79.248.156",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.74
         }
     ]
 }
