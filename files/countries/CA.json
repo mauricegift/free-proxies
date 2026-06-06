@@ -1,27 +1,8 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.4995,
-            "lon": -73.5848,
-            "timezone": "America/Toronto",
-            "isp": "BrainStorm Network Inc.",
-            "org": "HostPapa",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "23.95.76.201",
-            "type": "http",
-            "port": "8443",
-            "response_time": 3.61
-        },
         {
             "status": "success",
             "country": "Canada",
@@ -39,26 +20,26 @@
             "query": "192.99.8.15",
             "type": "http",
             "port": "8850",
-            "response_time": 3.68
+            "response_time": 2.42
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5029,
-            "lon": -73.5723,
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
             "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "192.99.44.178",
-            "type": "http",
-            "port": "3128",
-            "response_time": 11.41
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.251",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.44
         }
     ]
 }
