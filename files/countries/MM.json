@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7773,
+            "lon": 96.1588,
+            "timezone": "Asia/Yangon",
+            "isp": "Atom Myanmar Limited",
+            "org": "Atom Myanmar Limited",
+            "as": "AS133385 Atom Myanmar Limited",
+            "query": "37.111.53.31",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.71
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -20,7 +39,7 @@
             "query": "103.25.79.150",
             "type": "http",
             "port": "8054",
-            "response_time": 1.41
+            "response_time": 4.44
         }
     ]
 }
