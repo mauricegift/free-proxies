@@ -1,26 +1,45 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "35",
-            "regionName": "Karaganda",
-            "city": "Karaganda",
+            "region": "23",
+            "regionName": "Atyrau Oblisi",
+            "city": "Atyrau",
             "zip": "",
-            "lat": 49.7989,
-            "lon": 73.0994,
+            "lat": 47.1169,
+            "lon": 51.8853,
+            "timezone": "Asia/Atyrau",
+            "isp": "JSC \"KazTransCom\"",
+            "org": "Kozhan LLP",
+            "as": "AS35104 Jusan Mobile JSC",
+            "query": "93.185.68.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.25
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.2525,
+            "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "PE Fedinyak Sergey Vyacheslavovich",
-            "org": "PE Fedinyak Sergey Vyacheslavovich",
-            "as": "AS203087 Fedinyak Sergey Vyacheslavovich",
-            "query": "46.8.31.104",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.44
+            "isp": "Kcell JSC",
+            "org": "\"KCell\" JSC",
+            "as": "AS29355 Kcell JSC",
+            "query": "2.78.60.10",
+            "type": "http",
+            "port": "3129",
+            "response_time": 5.64
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "176.12.74.0",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.9
+            "response_time": 6.79
         },
         {
             "status": "success",
@@ -52,13 +71,32 @@
             "lat": 43.2525,
             "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "Mamaev",
+            "isp": "Netfire TEC",
             "org": "",
-            "as": "AS9123 JSC TIMEWEB",
-            "query": "80.90.183.221",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.76.169",
             "type": "http",
             "port": "3128",
-            "response_time": 12.11
+            "response_time": 9.43
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.1941,
+            "lon": 76.8339,
+            "timezone": "Asia/Almaty",
+            "isp": "PS Internet Company LLP",
+            "org": "PS Internet Company LLP",
+            "as": "AS48716 PS Internet Company LLP",
+            "query": "194.110.55.211",
+            "type": "http",
+            "port": "3130",
+            "response_time": 9.98
         }
     ]
 }
