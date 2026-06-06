@@ -1,26 +1,45 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Slovakia",
             "countryCode": "SK",
-            "region": "PV",
-            "regionName": "Pre\u0161ov Region",
-            "city": "Giraltovce",
-            "zip": "087 01",
-            "lat": 49.1147,
-            "lon": 21.5131,
+            "region": "BL",
+            "regionName": "Bratislava Region",
+            "city": "Bratislava",
+            "zip": "821 01",
+            "lat": 48.1577,
+            "lon": 17.1474,
             "timezone": "Europe/Bratislava",
-            "isp": "DELTA ONLINE spol. s r.o.",
-            "org": "Probasec-Net s.r.o",
-            "as": "AS34820 DELTA ONLINE spol. s r.o.",
-            "query": "185.225.204.5",
+            "isp": "eServer s.r.o.",
+            "org": "Digital City FZE",
+            "as": "AS61424 eServer s.r.o.",
+            "query": "89.46.42.11",
             "type": "http",
-            "port": "3128",
-            "response_time": 6.04
+            "port": "8080",
+            "response_time": 4.39
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TC",
+            "regionName": "Tren\u010d\u00edn Region",
+            "city": "B\u00e1novce nad Bebravou",
+            "zip": "957 01",
+            "lat": 48.7177,
+            "lon": 18.2603,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Slovanet",
+            "as": "AS31679 Slovanet a.s.",
+            "query": "185.165.36.136",
+            "type": "socks4",
+            "port": "8889",
+            "response_time": 5.86
         }
     ]
 }
