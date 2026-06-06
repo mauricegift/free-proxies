@@ -1,8 +1,27 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "SU",
+            "regionName": "Sulaymaniyah Governorate",
+            "city": "Sulaymaniyah",
+            "zip": "",
+            "lat": 35.5583,
+            "lon": 45.4404,
+            "timezone": "Asia/Baghdad",
+            "isp": "Online Company Ltd",
+            "org": "",
+            "as": "AS207097 Online Company for Technological Information, Supply of Electronic Equipment and Internet Services Through Wifi Ltd.",
+            "query": "185.166.24.191",
+            "type": "http",
+            "port": "1976",
+            "response_time": 6.46
+        },
         {
             "status": "success",
             "country": "Iraq",
@@ -20,45 +39,7 @@
             "query": "109.224.22.34",
             "type": "socks4",
             "port": "51372",
-            "response_time": 1.52
-        },
-        {
-            "status": "success",
-            "country": "Iraq",
-            "countryCode": "IQ",
-            "region": "SU",
-            "regionName": "Sulaymaniyah Governorate",
-            "city": "Sulaymaniyah",
-            "zip": "",
-            "lat": 35.5558,
-            "lon": 45.4351,
-            "timezone": "Asia/Baghdad",
-            "isp": "NETWORKS-SULY1",
-            "org": "",
-            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
-            "query": "62.201.212.198",
-            "type": "socks4",
-            "port": "4673",
-            "response_time": 4.51
-        },
-        {
-            "status": "success",
-            "country": "Iraq",
-            "countryCode": "IQ",
-            "region": "BG",
-            "regionName": "Baghdad",
-            "city": "Baghdad",
-            "zip": "",
-            "lat": 33.3364,
-            "lon": 44.4004,
-            "timezone": "Asia/Baghdad",
-            "isp": "EarthLink Ltd.",
-            "org": "Hulum",
-            "as": "AS199739 Earthlink Telecommunications Equipment Trading & Services DMCC",
-            "query": "37.237.229.203",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.87
+            "response_time": 11.3
         }
     ]
 }
