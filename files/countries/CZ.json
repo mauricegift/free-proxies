@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Pilsen",
-            "zip": "326 00",
-            "lat": 49.7307,
-            "lon": 13.4206,
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "140 00",
+            "lat": 50.0471,
+            "lon": 14.4523,
             "timezone": "Europe/Prague",
-            "isp": "United Networks SE",
-            "org": "United Networks SE",
-            "as": "AS197296 United Networks SE",
-            "query": "45.139.91.62",
+            "isp": "Neutral Free eXchange members - FreeTel alternate",
+            "org": "Praha12.Net",
+            "as": "AS8251 FreeTel, s.r.o.",
+            "query": "78.108.103.87",
             "type": "http",
             "port": "8080",
-            "response_time": 1.04
+            "response_time": 5.25
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "31",
+            "regionName": "Jiho\u010desk\u00fd kraj",
+            "city": "Vesel\u00ed nad Lu\u017enic\u00ed",
+            "zip": "391 81",
+            "lat": 49.1919,
+            "lon": 14.6825,
+            "timezone": "Europe/Prague",
+            "isp": "SmartApe OU",
+            "org": "SmartApe OU",
+            "as": "AS62212 SmartApe OU",
+            "query": "193.124.57.14",
+            "type": "http",
+            "port": "443",
+            "response_time": 14.05
         }
     ]
 }
