@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "NBS",
+            "regionName": "Nablus Governorate",
+            "city": "Nablus",
+            "zip": "",
+            "lat": 32.2207,
+            "lon": 35.2542,
+            "timezone": "Asia/Hebron",
+            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.244.103.239",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.88
+        },
         {
             "status": "success",
             "country": "Palestine",
@@ -20,7 +39,26 @@
             "query": "213.6.68.210",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.79
+            "response_time": 6.04
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.244.95.175",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.79
         }
     ]
 }
