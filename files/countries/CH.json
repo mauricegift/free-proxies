@@ -1,8 +1,27 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.17
+        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -20,26 +39,26 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 4.18
+            "response_time": 7.17
         },
         {
             "status": "success",
             "country": "Switzerland",
             "countryCode": "CH",
-            "region": "GE",
-            "regionName": "Geneva",
-            "city": "Geneva",
-            "zip": "1200",
-            "lat": 46.2052,
-            "lon": 6.142,
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "Serva ONE LTD",
-            "org": "Serva ONE LTD",
-            "as": "AS199058 SERVA ONE LTD",
-            "query": "45.85.93.15",
-            "type": "socks4",
-            "port": "4567",
-            "response_time": 9.29
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "http",
+            "port": "3128",
+            "response_time": 12.69
         }
     ]
 }
