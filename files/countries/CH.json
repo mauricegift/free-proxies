@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "45.59.122.132",
             "type": "http",
             "port": "80",
-            "response_time": 1.03
+            "response_time": 1.83
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.06
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.82
+            "response_time": 4.6
         },
         {
             "status": "success",
@@ -58,26 +77,7 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.82
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.92
+            "response_time": 4.6
         },
         {
             "status": "success",
@@ -94,28 +94,9 @@
             "org": "Private Layer Inc",
             "as": "AS51852 Private Layer INC",
             "query": "179.43.180.232",
-            "type": "http",
-            "port": "3128",
-            "response_time": 6.96
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Wetzikon",
-            "zip": "8620",
-            "lat": 47.3223,
-            "lon": 8.80102,
-            "timezone": "Europe/Zurich",
-            "isp": "Geronimo Ramirez Computer Network",
-            "org": "Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network",
-            "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
-            "query": "185.191.239.248",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.1
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 5.15
         }
     ]
 }
