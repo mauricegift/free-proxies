@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.89
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.82
+            "response_time": 2.24
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "21",
+            "regionName": "Piedmont",
+            "city": "Turin",
+            "zip": "10121",
+            "lat": 45.0913,
+            "lon": 7.66158,
+            "timezone": "Europe/Rome",
+            "isp": "HOST-VDC",
+            "org": "",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.191.202",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.81
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 6.8
+            "response_time": 11.03
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Ragusa",
+            "zip": "97100",
+            "lat": 36.9242,
+            "lon": 14.7233,
+            "timezone": "Europe/Rome",
+            "isp": "NOVAQUADRI-PRT",
+            "org": "",
+            "as": "AS198380 BLUNOVA S.R.L.",
+            "query": "185.211.82.34",
+            "type": "http",
+            "port": "8080",
+            "response_time": 17.01
         },
         {
             "status": "success",
@@ -58,7 +115,7 @@
             "query": "185.191.106.0",
             "type": "http",
             "port": "8081",
-            "response_time": 8.78
+            "response_time": 20.59
         }
     ]
 }
