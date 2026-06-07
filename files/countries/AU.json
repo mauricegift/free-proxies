@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "139.99.238.95",
             "type": "http",
             "port": "8080",
-            "response_time": 1.83
+            "response_time": 3.01
         },
         {
             "status": "success",
@@ -39,7 +39,102 @@
             "query": "103.106.231.75",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.88
+            "response_time": 3.74
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4006",
+            "lat": -27.4417,
+            "lon": 153.0197,
+            "timezone": "Australia/Brisbane",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "180.181.215.232",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.91
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 7.18
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Goulburn",
+            "zip": "2580",
+            "lat": -34.7591,
+            "lon": 149.7225,
+            "timezone": "Australia/Sydney",
+            "isp": "YLess4U Pty Ltd",
+            "org": "RemoteISP Pty Ltd",
+            "as": "AS45447 YLess4U Regional Broadband",
+            "query": "103.131.232.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.72
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 10.11
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4500",
+            "lat": -27.319,
+            "lon": 152.9887,
+            "timezone": "Australia/Brisbane",
+            "isp": "Southern Phone Company Ltd",
+            "org": "Southern Phone Company Ltd",
+            "as": "AS136994 Southern Phone Company Ltd",
+            "query": "203.30.9.8",
+            "type": "http",
+            "port": "8443",
+            "response_time": 10.78
         }
     ]
 }
