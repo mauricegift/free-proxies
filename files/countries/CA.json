@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "192.99.8.15",
             "type": "http",
             "port": "8850",
-            "response_time": 2.8
+            "response_time": 1.82
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H2A",
+            "lat": 45.562,
+            "lon": -73.6002,
+            "timezone": "America/Toronto",
+            "isp": "Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "45.73.0.118",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.18
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H4X",
+            "lat": 45.5029,
+            "lon": -73.5723,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "192.99.44.178",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.32
         }
     ]
 }
