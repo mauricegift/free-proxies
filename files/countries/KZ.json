@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 2.12
+            "response_time": 3.16
         },
         {
             "status": "success",
@@ -37,9 +37,9 @@
             "org": "",
             "as": "AS9123 JSC TIMEWEB",
             "query": "80.90.183.221",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.02
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.2
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "176.12.72.62",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.51
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "",
-            "lat": 51.1876,
-            "lon": 71.4491,
-            "timezone": "Asia/Almaty",
-            "isp": "NLS ASTANA LLP",
-            "org": "Beget",
-            "as": "AS205516 NLS ASTANA LLP",
-            "query": "89.169.37.254",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 12.88
+            "response_time": 9.67
         }
     ]
 }
