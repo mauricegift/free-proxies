@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "203.30.9.8",
             "type": "http",
             "port": "8443",
-            "response_time": 2.36
+            "response_time": 2.31
         },
         {
             "status": "success",
@@ -39,26 +39,64 @@
             "query": "103.106.231.75",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.84
+            "response_time": 2.99
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Albury",
-            "zip": "2641",
-            "lat": -36.0426,
-            "lon": 146.9407,
-            "timezone": "Australia/Sydney",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4006",
+            "lat": -27.4417,
+            "lon": 153.0197,
+            "timezone": "Australia/Brisbane",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "180.181.215.232",
             "type": "http",
-            "port": "8000",
-            "response_time": 6.63
+            "port": "3128",
+            "response_time": 4.31
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
+            "timezone": "Australia/Melbourne",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.35
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3806",
+            "lat": -38.0365,
+            "lon": 145.3502,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.82
         }
     ]
 }
