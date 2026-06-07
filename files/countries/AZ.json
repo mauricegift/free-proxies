@@ -1,8 +1,27 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "SM",
+            "regionName": "Sumqayit City",
+            "city": "Sumqayit",
+            "zip": "",
+            "lat": 40.5841,
+            "lon": 49.6651,
+            "timezone": "Asia/Baku",
+            "isp": "Alfanet LLC",
+            "org": "Alfanet LLC",
+            "as": "AS50274 Alfanet LLC",
+            "query": "109.127.9.99",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.52
+        },
         {
             "status": "success",
             "country": "Azerbaijan",
@@ -20,7 +39,7 @@
             "query": "5.134.48.59",
             "type": "http",
             "port": "8080",
-            "response_time": 4.85
+            "response_time": 7.66
         }
     ]
 }
