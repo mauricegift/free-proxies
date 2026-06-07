@@ -1,7 +1,7 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "154.0.153.10",
             "type": "http",
             "port": "8080",
-            "response_time": 12.72
+            "response_time": 5.19
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
+            "zip": "",
+            "lat": -3.36667,
+            "lon": 36.6833,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node Public Limited",
+            "org": "Habari Node Public Limited",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "41.78.168.118",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.53
         }
     ]
 }
