@@ -1,8 +1,27 @@
 {
     "countryCode": "PT",
     "country": "Portugal",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Portugal",
+            "countryCode": "PT",
+            "region": "08",
+            "regionName": "Faro",
+            "city": "Loul\u00e9",
+            "zip": "8100-000",
+            "lat": 37.1415,
+            "lon": -8.02,
+            "timezone": "Europe/Lisbon",
+            "isp": "Lazer Telecomunicacoes S.A.",
+            "org": "Almancil",
+            "as": "AS47202 Lazer Telecomunicacoes S.A.",
+            "query": "193.218.157.137",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.5
+        },
         {
             "status": "success",
             "country": "Portugal",
@@ -20,7 +39,7 @@
             "query": "2.83.243.148",
             "type": "http",
             "port": "7777",
-            "response_time": 8.47
+            "response_time": 3.69
         }
     ]
 }
