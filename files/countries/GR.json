@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Athens",
+            "zip": "",
+            "lat": 37.9842,
+            "lon": 23.7353,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "62.103.66.18",
+            "type": "http",
+            "port": "3128",
+            "response_time": 12.43
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,7 +39,7 @@
             "query": "85.75.179.66",
             "type": "http",
             "port": "8888",
-            "response_time": 8.46
+            "response_time": 16.37
         }
     ]
 }
