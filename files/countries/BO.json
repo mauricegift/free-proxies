@@ -1,7 +1,7 @@
 {
     "countryCode": "BO",
     "country": "Bolivia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "190.104.8.142",
             "type": "socks4",
             "port": "14888",
-            "response_time": 1.07
+            "response_time": 3.39
+        },
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "S",
+            "regionName": "Santa Cruz Department",
+            "city": "Santa Cruz de la Sierra",
+            "zip": "",
+            "lat": -17.7834,
+            "lon": -63.1822,
+            "timezone": "America/La_Paz",
+            "isp": "Entel S.A. - EntelNet",
+            "org": "Empresa Nacional De Telecomunicaciones Sociedad Anonima",
+            "as": "AS6568 EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+            "query": "181.115.207.114",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.19
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "158.172.153.36",
             "type": "http",
             "port": "999",
-            "response_time": 8.8
+            "response_time": 7.21
         }
     ]
 }
