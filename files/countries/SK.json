@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TC",
+            "regionName": "Tren\u010d\u00edn Region",
+            "city": "B\u00e1novce nad Bebravou",
+            "zip": "957 01",
+            "lat": 48.7177,
+            "lon": 18.2603,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Slovanet",
+            "as": "AS31679 Slovanet a.s.",
+            "query": "185.165.37.168",
+            "type": "socks4",
+            "port": "8889",
+            "response_time": 1.35
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +39,7 @@
             "query": "45.129.141.143",
             "type": "http",
             "port": "3128",
-            "response_time": 4.34
+            "response_time": 1.41
         }
     ]
 }
