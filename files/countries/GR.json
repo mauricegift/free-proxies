@@ -1,26 +1,45 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Greece",
             "countryCode": "GR",
-            "region": "K",
-            "regionName": "North Aegean",
-            "city": "Mytilene",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Korop\u00ed",
             "zip": "",
-            "lat": 39.1136,
-            "lon": 26.5558,
+            "lat": 37.9011,
+            "lon": 23.8727,
             "timezone": "Europe/Athens",
-            "isp": "OTEnet",
-            "org": "OTEnet S.A.",
-            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "85.75.179.66",
+            "isp": "TOPHOST-VPS",
+            "org": "",
+            "as": "AS20857 Signet B.V.",
+            "query": "185.4.132.222",
             "type": "http",
-            "port": "8888",
-            "response_time": 7.47
+            "port": "3128",
+            "response_time": 3.21
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Marousi",
+            "zip": "",
+            "lat": 38.045,
+            "lon": 23.8043,
+            "timezone": "Europe/Athens",
+            "isp": "Ote SA (Hellenic Telecommunications Organisation)",
+            "org": "OTEnet",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.70.148.177",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.15
         }
     ]
 }
