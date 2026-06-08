@@ -1,8 +1,46 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 3,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28025",
+            "lat": 40.3851,
+            "lon": -3.7397,
+            "timezone": "Europe/Madrid",
+            "isp": "Digi Spain Telecom S.L.U.",
+            "org": "Digi Spain Telecom S.A",
+            "as": "AS57269 DIGI SPAIN TELECOM S.A",
+            "query": "79.117.37.49",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 1.7
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28025",
+            "lat": 40.3851,
+            "lon": -3.7397,
+            "timezone": "Europe/Madrid",
+            "isp": "Digi Spain Telecom S.L.U.",
+            "org": "Digi Spain Telecom S.A",
+            "as": "AS57269 DIGI SPAIN TELECOM S.A",
+            "query": "79.117.37.49",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 1.7
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,7 +58,26 @@
             "query": "83.56.15.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.43
+            "response_time": 2.09
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "VC",
+            "regionName": "Valencia",
+            "city": "Javea",
+            "zip": "03730",
+            "lat": 38.7764,
+            "lon": -0.0075,
+            "timezone": "Europe/Madrid",
+            "isp": "customers4",
+            "org": "",
+            "as": "AS56697 SUIS BOGA TELECOM SL",
+            "query": "185.130.219.10",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.49
         },
         {
             "status": "success",
@@ -39,7 +96,45 @@
             "query": "195.219.98.27",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.65
+            "response_time": 4.97
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CM",
+            "regionName": "Castille-La Mancha",
+            "city": "Alovera",
+            "zip": "19208",
+            "lat": 40.5903,
+            "lon": -3.2437,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "88.1.150.79",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.09
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Legan\u00e9s",
+            "zip": "28911",
+            "lat": 40.3272,
+            "lon": -3.7635,
+            "timezone": "Europe/Madrid",
+            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+            "org": "Least Cost Telecom S.l. Unipersonal",
+            "as": "AS56882 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+            "query": "188.227.140.181",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.68
         },
         {
             "status": "success",
@@ -56,9 +151,9 @@
             "org": "BlueVPS OU",
             "as": "AS62005 BlueVPS OU",
             "query": "83.97.79.114",
-            "type": "http",
+            "type": "socks5",
             "port": "8443",
-            "response_time": 8.72
+            "response_time": 11.52
         }
     ]
 }
