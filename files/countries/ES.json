@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "65.20.105.241",
             "type": "socks4",
             "port": "10001",
-            "response_time": 0.27
+            "response_time": 2.07
         },
         {
             "status": "success",
@@ -28,56 +28,37 @@
             "countryCode": "ES",
             "region": "IB",
             "regionName": "Balearic Islands",
-            "city": "Sineu",
-            "zip": "07510",
-            "lat": 39.6409,
-            "lon": 3.0146,
+            "city": "Magaluf",
+            "zip": "07181",
+            "lat": 39.5111,
+            "lon": 2.5353,
             "timezone": "Europe/Madrid",
-            "isp": "Red digital de telecomunicaciones de las Islas Baleares S.L",
-            "org": "Ibred",
-            "as": "AS200064 Red digital de telecomunicaciones de las Islas Baleares S.L",
-            "query": "141.105.107.152",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 0.47
+            "isp": "RIMA (Red IP Multi Acceso)",
+            "org": "",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "2.139.232.101",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.57
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28022",
-            "lat": 40.4505,
-            "lon": -3.5926,
+            "region": "VC",
+            "regionName": "Valencia",
+            "city": "Valencia",
+            "zip": "46010",
+            "lat": 39.4739,
+            "lon": -0.37966,
             "timezone": "Europe/Madrid",
-            "isp": "Citelia s.a.",
-            "org": "Fibercli",
-            "as": "AS206276 Citelia s.a.",
-            "query": "193.38.224.169",
+            "isp": "MasMovil Access Network",
+            "org": "Masmovil Ibercom, SA",
+            "as": "AS15704 XTRA TELECOM S.A.",
+            "query": "81.0.49.104",
             "type": "http",
-            "port": "8081",
-            "response_time": 3.7
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Dos Hermanas",
-            "zip": "41702",
-            "lat": 37.2866,
-            "lon": -5.9208,
-            "timezone": "Europe/Madrid",
-            "isp": "Pinkbear SLU",
-            "org": "PINKBEAR SL",
-            "as": "AS211141 PINKBEAR SLU",
-            "query": "185.226.195.249",
-            "type": "http",
-            "port": "2222",
-            "response_time": 5.69
+            "port": "19775",
+            "response_time": 10.28
         },
         {
             "status": "success",
@@ -94,28 +75,9 @@
             "org": "BlueVPS OU",
             "as": "AS62005 BlueVPS OU",
             "query": "83.97.79.114",
-            "type": "http",
+            "type": "socks5",
             "port": "8443",
-            "response_time": 10.77
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Legan\u00e9s",
-            "zip": "28911",
-            "lat": 40.3272,
-            "lon": -3.7635,
-            "timezone": "Europe/Madrid",
-            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
-            "org": "Least Cost Telecom S.l. Unipersonal",
-            "as": "AS56882 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
-            "query": "188.227.140.181",
-            "type": "http",
-            "port": "8080",
-            "response_time": 12.05
+            "response_time": 17.25
         }
     ]
 }
