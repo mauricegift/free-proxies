@@ -1,7 +1,7 @@
 {
     "countryCode": "UZ",
     "country": "Uzbekistan",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "130.49.171.75",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.07
+            "response_time": 1.05
+        },
+        {
+            "status": "success",
+            "country": "Uzbekistan",
+            "countryCode": "UZ",
+            "region": "SA",
+            "regionName": "Samarqand Region",
+            "city": "Samarkand",
+            "zip": "",
+            "lat": 39.6546,
+            "lon": 66.9644,
+            "timezone": "Asia/Samarkand",
+            "isp": "\"Uzbektelekom\" Joint Stock Company",
+            "org": "Uztelecom",
+            "as": "AS8193 Uzbektelekom Joint Stock Company",
+            "query": "83.222.7.205",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -33,13 +52,32 @@
             "lat": 41.2615,
             "lon": 69.2177,
             "timezone": "Asia/Tashkent",
-            "isp": "Inform-Service TV Ltd",
-            "org": "ISTV First Network",
-            "as": "AS57016 Inform-Service TV Ltd.",
-            "query": "31.135.214.17",
+            "isp": "\"Uzbektelekom\" Joint Stock Company",
+            "org": "Uztelecom",
+            "as": "AS8193 Uzbektelekom Joint Stock Company",
+            "query": "195.158.10.99",
             "type": "http",
-            "port": "8026",
-            "response_time": 10.17
+            "port": "8080",
+            "response_time": 5.19
+        },
+        {
+            "status": "success",
+            "country": "Uzbekistan",
+            "countryCode": "UZ",
+            "region": "SI",
+            "regionName": "Sirdaryo Region",
+            "city": "Guliston",
+            "zip": "",
+            "lat": 40.4906,
+            "lon": 68.791,
+            "timezone": "Asia/Tashkent",
+            "isp": "Iplus LLC",
+            "org": "COMNET IPoE STATIC",
+            "as": "AS43060 IPLUS LLC",
+            "query": "94.158.49.82",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.47
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "195.158.8.123",
             "type": "http",
             "port": "3128",
-            "response_time": 14.79
+            "response_time": 6.61
         }
     ]
 }
