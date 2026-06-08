@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "45.59.122.132",
             "type": "http",
             "port": "80",
-            "response_time": 1.19
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8001",
-            "lat": 47.37204,
-            "lon": 8.54094,
-            "timezone": "Europe/Zurich",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (switzerlandnorth)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "74.242.169.16",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.86
+            "response_time": 1.7
         },
         {
             "status": "success",
@@ -56,9 +37,9 @@
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
             "query": "45.95.232.35",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.94
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.63
         }
     ]
 }
