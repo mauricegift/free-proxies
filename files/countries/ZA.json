@@ -7,25 +7,6 @@
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2001",
-            "lat": -26.20229,
-            "lon": 28.034195,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (southafricanorth)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "4.221.164.109",
-            "type": "http",
-            "port": "80",
-            "response_time": 5.49
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
             "region": "WC",
             "regionName": "Western Cape",
             "city": "Cape Town",
@@ -39,7 +20,26 @@
             "query": "105.27.180.194",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.39
+            "response_time": 1.83
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "KZN",
+            "regionName": "KwaZulu-Natal",
+            "city": "Durban",
+            "zip": "4001",
+            "lat": -29.8553,
+            "lon": 31.0428,
+            "timezone": "Africa/Johannesburg",
+            "isp": "ispot-core",
+            "org": "",
+            "as": "AS327922 Perlcom CC T/A iSPOT",
+            "query": "169.239.45.51",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.93
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "4.221.164.109",
             "type": "http",
             "port": "443",
-            "response_time": 11.62
+            "response_time": 3.98
         },
         {
             "status": "success",
@@ -76,8 +76,8 @@
             "as": "AS8075 Microsoft Corporation",
             "query": "4.221.164.109",
             "type": "http",
-            "port": "9443",
-            "response_time": 21.74
+            "port": "80",
+            "response_time": 8.72
         }
     ]
 }
