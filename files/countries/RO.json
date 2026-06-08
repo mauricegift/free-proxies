@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 4,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "IF",
+            "regionName": "Ilfov",
+            "city": "Pantelimon",
+            "zip": "077145",
+            "lat": 44.4474,
+            "lon": 26.2044,
+            "timezone": "Europe/Bucharest",
+            "isp": "Orange Romania Network",
+            "org": "Orange Romania S.A",
+            "as": "AS8953 Orange Romania S.A.",
+            "query": "109.166.207.162",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 0.39
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +39,64 @@
             "query": "185.141.26.131",
             "type": "http",
             "port": "3128",
-            "response_time": 0.66
+            "response_time": 1.07
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "PH",
+            "regionName": "Prahova",
+            "city": "Sinaia",
+            "zip": "106100",
+            "lat": 45.3492,
+            "lon": 25.5554,
+            "timezone": "Europe/Bucharest",
+            "isp": "Romtelecom",
+            "org": "",
+            "as": "AS9050 Orange Romania S.A.",
+            "query": "92.86.92.126",
+            "type": "socks4",
+            "port": "42740",
+            "response_time": 2.06
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucure\u0219ti",
+            "city": "Bucharest",
+            "zip": "052829",
+            "lat": 44.4268,
+            "lon": 26.1025,
+            "timezone": "Europe/Bucharest",
+            "isp": "M247 Europe SRL",
+            "org": "Urban Network Solutions SRL",
+            "as": "AS9009 M247 Europe SRL",
+            "query": "85.121.51.40",
+            "type": "socks4",
+            "port": "9091",
+            "response_time": 2.5
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "PH",
+            "regionName": "Prahova",
+            "city": "Ploie\u015fti",
+            "zip": "100017",
+            "lat": 44.9467,
+            "lon": 26.0135,
+            "timezone": "Europe/Bucharest",
+            "isp": "RCS & RDS",
+            "org": "RCS & RDS Business",
+            "as": "AS8708 RCS & RDS",
+            "query": "81.18.90.43",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.63
         },
         {
             "status": "success",
@@ -39,7 +115,7 @@
             "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.8
+            "response_time": 4.75
         },
         {
             "status": "success",
@@ -58,7 +134,7 @@
             "query": "92.86.207.198",
             "type": "http",
             "port": "8080",
-            "response_time": 3.24
+            "response_time": 7.65
         },
         {
             "status": "success",
@@ -71,13 +147,13 @@
             "lat": 44.4268,
             "lon": 26.1025,
             "timezone": "Europe/Bucharest",
-            "isp": "ab stract",
-            "org": "Materialism s.r.l",
-            "as": "AS39287 Materialism s.r.l.",
-            "query": "45.142.140.63",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 10.15
+            "isp": "Mondo-Byte SRL",
+            "org": "Mondo-Byte SRL",
+            "as": "AS39277 Mondo-Byte SRL",
+            "query": "194.117.230.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.12
         }
     ]
 }
