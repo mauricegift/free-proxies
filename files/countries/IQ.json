@@ -1,27 +1,8 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Iraq",
-            "countryCode": "IQ",
-            "region": "SU",
-            "regionName": "Sulaymaniyah Governorate",
-            "city": "Sulaymaniyah",
-            "zip": "",
-            "lat": 35.5558,
-            "lon": 45.4351,
-            "timezone": "Asia/Baghdad",
-            "isp": "NETWORKS-FTTH1",
-            "org": "",
-            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
-            "query": "62.201.233.59",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 2.9
-        },
         {
             "status": "success",
             "country": "Iraq",
@@ -36,10 +17,48 @@
             "isp": "Hulum",
             "org": "EarthLink Ltd. Communications&",
             "as": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
-            "query": "109.224.22.34",
+            "query": "109.224.22.35",
             "type": "socks4",
             "port": "51372",
-            "response_time": 7.87
+            "response_time": 1.04
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "BG",
+            "regionName": "Baghdad",
+            "city": "Baghdad",
+            "zip": "",
+            "lat": 33.3152,
+            "lon": 44.3661,
+            "timezone": "Asia/Baghdad",
+            "isp": "Hulum",
+            "org": "EarthLink Ltd. Communications&",
+            "as": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+            "query": "109.224.12.170",
+            "type": "socks4",
+            "port": "52015",
+            "response_time": 1.79
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "AR",
+            "regionName": "Erbil Governorate",
+            "city": "Erbil",
+            "zip": "",
+            "lat": 36.1898,
+            "lon": 44.0157,
+            "timezone": "Asia/Baghdad",
+            "isp": "Allay Nawroz Telecom Company for Communication/Ltd.",
+            "org": "Allai NEwroz Telecom",
+            "as": "AS21277 Allay Nawroz Telecom Company for Communication/Ltd.",
+            "query": "109.127.82.4",
+            "type": "http",
+            "port": "8085",
+            "response_time": 9.91
         }
     ]
 }
