@@ -1,7 +1,7 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,28 @@
             "org": "Oracle Corporation",
             "as": "AS31898 Oracle Corporation",
             "query": "129.151.130.247",
-            "type": "socks4",
+            "type": "http",
             "port": "1111",
-            "response_time": 3.44
+            "response_time": 8.87
+        },
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "DU",
+            "regionName": "Dubai",
+            "city": "Dubai",
+            "zip": "",
+            "lat": 25.0734,
+            "lon": 55.2979,
+            "timezone": "Asia/Dubai",
+            "isp": "Zenlayer Inc",
+            "org": "",
+            "as": "AS21859 Zenlayer Inc",
+            "query": "37.202.222.37",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.17
         }
     ]
 }
