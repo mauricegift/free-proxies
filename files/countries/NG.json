@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,51 +14,32 @@
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "GLO",
+            "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
-            "as": "AS37148 Globacom Limited",
-            "query": "41.203.76.166",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.56
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Ilupeju",
-            "zip": "",
-            "lat": 6.5662,
-            "lon": 3.3553,
-            "timezone": "Africa/Lagos",
-            "isp": "Syscodes Communications",
-            "org": "",
-            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
-            "query": "102.36.133.62",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.89
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lekki",
-            "zip": "",
-            "lat": 6.43457,
-            "lon": 3.49209,
-            "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
-            "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.193.46",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.198.17",
             "type": "socks4",
             "port": "5678",
-            "response_time": 10.12
+            "response_time": 2.9
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.5243,
+            "lon": 3.3792,
+            "timezone": "Africa/Lagos",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Services, Inc",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "129.222.204.27",
+            "type": "http",
+            "port": "10000",
+            "response_time": 14.36
         }
     ]
 }
