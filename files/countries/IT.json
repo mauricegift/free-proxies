@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 8,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "67",
-            "regionName": "Molise",
-            "city": "Isernia",
-            "zip": "86170",
-            "lat": 41.601,
-            "lon": 14.2303,
-            "timezone": "Europe/Rome",
-            "isp": "Elektronica Networks",
-            "org": "",
-            "as": "AS201847 Elektronica Sistemi Di Muro Mauro E Turcinovic Walter S.n.c.",
-            "query": "185.62.48.141",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.75
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -39,7 +20,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.93
+            "response_time": 3.85
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "78",
+            "regionName": "Calabria",
+            "city": "Corigliano Calabro",
+            "zip": "87064",
+            "lat": 39.5981,
+            "lon": 16.5135,
+            "timezone": "Europe/Rome",
+            "isp": "Europsys S.r.l.",
+            "org": "Europsys S.r.l",
+            "as": "AS202347 Europsys S.p.A.",
+            "query": "194.146.164.66",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.49
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 3.84
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "75",
-            "regionName": "Apulia",
-            "city": "Bisceglie",
-            "zip": "76011",
-            "lat": 41.2398,
-            "lon": 16.5009,
-            "timezone": "Europe/Rome",
-            "isp": "VODAFONE",
-            "org": "",
-            "as": "AS30722 Fastweb SpA",
-            "query": "93.147.55.25",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.14
+            "response_time": 5.64
         },
         {
             "status": "success",
@@ -93,10 +74,29 @@
             "isp": "Mywic Costumers",
             "org": "",
             "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.0",
+            "query": "185.191.106.41",
             "type": "http",
             "port": "8081",
-            "response_time": 4.94
+            "response_time": 6.54
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Ragusa",
+            "zip": "97100",
+            "lat": 36.9242,
+            "lon": 14.7233,
+            "timezone": "Europe/Rome",
+            "isp": "NOVAQUADRI-PRT",
+            "org": "",
+            "as": "AS198380 BLUNOVA S.R.L.",
+            "query": "185.211.82.34",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.94
         },
         {
             "status": "success",
@@ -114,45 +114,7 @@
             "as": "AS3269 Telecom Italia S.p.A.",
             "query": "95.244.215.67",
             "type": "http",
-            "port": "8081",
-            "response_time": 5.55
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "72",
-            "regionName": "Campania",
-            "city": "Naples",
-            "zip": "80126",
-            "lat": 40.8449,
-            "lon": 14.2716,
-            "timezone": "Europe/Rome",
-            "isp": "Vodafone",
-            "org": "",
-            "as": "AS30722 Fastweb SpA",
-            "query": "5.95.121.180",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 5.86
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
-            "timezone": "Europe/Rome",
-            "isp": "HAL Service SpA",
-            "org": "Wiset srl",
-            "as": "AS44092 HAL Service SpA",
-            "query": "85.208.200.185",
-            "type": "http",
-            "port": "8081",
+            "port": "8080",
             "response_time": 7.91
         }
     ]
