@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "BrainStorm Network",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "103.106.231.75",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.68
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,26 @@
             "query": "168.138.9.147",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.53
+            "response_time": 5.64
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Goulburn",
+            "zip": "2580",
+            "lat": -34.7591,
+            "lon": 149.7225,
+            "timezone": "Australia/Sydney",
+            "isp": "YLess4U Pty Ltd",
+            "org": "RemoteISP Pty Ltd",
+            "as": "AS45447 YLess4U Regional Broadband",
+            "query": "103.131.232.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.91
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "13.210.139.44",
             "type": "http",
             "port": "3128",
-            "response_time": 11.3
+            "response_time": 10.21
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 14.6
         }
     ]
 }
