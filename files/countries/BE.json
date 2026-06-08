@@ -1,7 +1,7 @@
 {
     "countryCode": "BE",
     "country": "Belgium",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "BE",
             "region": "BRU",
             "regionName": "Brussels Capital",
-            "city": "Anderlecht",
-            "zip": "1070",
-            "lat": 50.8351,
-            "lon": 4.3179,
+            "city": "Brussels",
+            "zip": "1930",
+            "lat": 50.8847,
+            "lon": 4.5049,
             "timezone": "Europe/Brussels",
-            "isp": "Proximus NV",
-            "org": "PRO",
-            "as": "AS5432 Proximus NV",
-            "query": "109.135.16.145",
-            "type": "http",
-            "port": "8789",
-            "response_time": 1.73
+            "isp": "EDIS GmbH",
+            "org": "EDIS GmbH",
+            "as": "AS57169 EDIS GmbH",
+            "query": "188.190.26.67",
+            "type": "socks4",
+            "port": "8885",
+            "response_time": 1.16
+        },
+        {
+            "status": "success",
+            "country": "Belgium",
+            "countryCode": "BE",
+            "region": "BRU",
+            "regionName": "Brussels Capital",
+            "city": "Brussels",
+            "zip": "1930",
+            "lat": 50.8847,
+            "lon": 4.5049,
+            "timezone": "Europe/Brussels",
+            "isp": "EDIS GmbH",
+            "org": "EDIS GmbH",
+            "as": "AS57169 EDIS GmbH",
+            "query": "188.190.26.67",
+            "type": "socks5",
+            "port": "8885",
+            "response_time": 1.16
         }
     ]
 }
