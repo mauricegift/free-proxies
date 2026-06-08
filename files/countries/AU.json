@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "103.106.231.75",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.19
+            "response_time": 2.04
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Albury",
-            "zip": "2641",
-            "lat": -36.0426,
-            "lon": 146.9407,
-            "timezone": "Australia/Sydney",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4500",
+            "lat": -27.319,
+            "lon": 152.9887,
+            "timezone": "Australia/Brisbane",
+            "isp": "Southern Phone Company Ltd",
+            "org": "Southern Phone Company Ltd",
+            "as": "AS136994 Southern Phone Company Ltd",
+            "query": "203.30.9.8",
             "type": "http",
-            "port": "80",
-            "response_time": 5.46
+            "port": "8443",
+            "response_time": 3.42
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3806",
+            "lat": -38.0365,
+            "lon": 145.3502,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.09
         }
     ]
 }
