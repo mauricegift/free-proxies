@@ -1,27 +1,8 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 6,
+    "count": 8,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "FS",
-            "regionName": "Free State",
-            "city": "Bloemfontein",
-            "zip": "9301",
-            "lat": -29.1252,
-            "lon": 26.163,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Neotel GAU",
-            "org": "",
-            "as": "AS36937 Liquid Telecommunications South Africa (Pty) Ltd",
-            "query": "41.162.162.142",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 4.08
-        },
         {
             "status": "success",
             "country": "South Africa",
@@ -38,8 +19,8 @@
             "as": "AS8075 Microsoft Corporation",
             "query": "4.221.164.109",
             "type": "http",
-            "port": "443",
-            "response_time": 6.67
+            "port": "9443",
+            "response_time": 2.49
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "4.221.164.109",
             "type": "http",
             "port": "80",
-            "response_time": 7.0
+            "response_time": 5.73
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7441",
+            "lat": -33.914,
+            "lon": 18.4129,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Level-7 Internet - CPT",
+            "org": "",
+            "as": "AS327901 Level 7 Wireless (Pty) Ltd",
+            "query": "102.221.120.11",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.95
         },
         {
             "status": "success",
@@ -76,27 +76,8 @@
             "as": "AS8075 Microsoft Corporation",
             "query": "4.221.164.109",
             "type": "http",
-            "port": "9443",
-            "response_time": 8.39
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Brits",
-            "zip": "0250",
-            "lat": -25.6356,
-            "lon": 27.7849,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Info-Gro (PTY) Ltd",
-            "org": "Infogro DSL",
-            "as": "AS37403 Info-Gro (PTY) Ltd",
-            "query": "196.251.222.242",
-            "type": "http",
-            "port": "8104",
-            "response_time": 10.59
+            "port": "443",
+            "response_time": 7.43
         },
         {
             "status": "success",
@@ -115,7 +96,64 @@
             "query": "156.155.50.93",
             "type": "http",
             "port": "8080",
-            "response_time": 10.98
+            "response_time": 9.58
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Mahikeng",
+            "zip": "2745",
+            "lat": -25.8652,
+            "lon": 25.6442,
+            "timezone": "Africa/Johannesburg",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "196.216.134.71",
+            "type": "http",
+            "port": "8865",
+            "response_time": 10.8
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Brits",
+            "zip": "0250",
+            "lat": -25.6356,
+            "lon": 27.7849,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Info-Gro (PTY) Ltd",
+            "org": "Infogro DSL",
+            "as": "AS37403 Info-Gro (PTY) Ltd",
+            "query": "196.251.193.252",
+            "type": "http",
+            "port": "8083",
+            "response_time": 12.01
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Germiston",
+            "zip": "1401",
+            "lat": -26.2135,
+            "lon": 28.1858,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Screamer Telecommunications",
+            "org": "Screamer Telecommunications",
+            "as": "AS327688 Screamer Telecommunications",
+            "query": "41.57.35.211",
+            "type": "http",
+            "port": "6060",
+            "response_time": 14.41
         }
     ]
 }
