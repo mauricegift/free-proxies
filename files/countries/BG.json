@@ -1,8 +1,27 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "Neterra Ltd.",
+            "org": "Neterra Princess Svilengrad",
+            "as": "AS34224 Neterra Ltd.",
+            "query": "31.13.239.4",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.55
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,26 +39,7 @@
             "query": "149.62.230.50",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.4
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "09",
-            "regionName": "Kardzhali",
-            "city": "Kardzhali",
-            "zip": "6600",
-            "lat": 41.6439,
-            "lon": 25.3594,
-            "timezone": "Europe/Sofia",
-            "isp": "Technolux Ltd",
-            "org": "Technolux Ltd.",
-            "as": "AS199173 TechnoLux Ltd.",
-            "query": "85.187.224.21",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.96
+            "response_time": 5.09
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "185.78.37.238",
             "type": "http",
             "port": "8080",
-            "response_time": 7.23
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "09",
-            "regionName": "Kardzhali",
-            "city": "Kardzhali",
-            "zip": "6600",
-            "lat": 41.6439,
-            "lon": 25.3594,
-            "timezone": "Europe/Sofia",
-            "isp": "Netroniks EOOD",
-            "org": "Netronix Ltd.",
-            "as": "AS48233 Netroniks EOOD",
-            "query": "151.237.84.9",
-            "type": "http",
-            "port": "8080",
-            "response_time": 14.34
+            "response_time": 10.19
         }
     ]
 }
