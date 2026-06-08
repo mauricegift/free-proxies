@@ -1,8 +1,27 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "18",
+            "regionName": "Ruse",
+            "city": "Rousse",
+            "zip": "7000",
+            "lat": 43.8487,
+            "lon": 25.9534,
+            "timezone": "Europe/Sofia",
+            "isp": "Kabelnet LTD",
+            "org": "Global Communication Net Plc",
+            "as": "AS205352 KABELNET LTD",
+            "query": "109.160.97.49",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.51
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -11,16 +30,35 @@
             "regionName": "Sofia-Capital",
             "city": "Sofia",
             "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
+            "lat": 42.6826,
+            "lon": 23.3223,
             "timezone": "Europe/Sofia",
-            "isp": "Neterra Ltd.",
-            "org": "Neterra Princess Svilengrad",
-            "as": "AS34224 Neterra Ltd.",
-            "query": "31.13.239.4",
+            "isp": "A1 Bulgaria EAD",
+            "org": "Mobiltel EAD",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.222.34.200",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 3.55
+            "port": "4145",
+            "response_time": 1.86
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "24",
+            "regionName": "Stara Zagora",
+            "city": "Stara Zagora",
+            "zip": "6000",
+            "lat": 42.4361,
+            "lon": 25.6394,
+            "timezone": "Europe/Sofia",
+            "isp": "Vivacom Bulgaria EAD",
+            "org": "Bulgarian Telecommunications Company Plc",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "87.126.65.14",
+            "type": "http",
+            "port": "8088",
+            "response_time": 7.33
         },
         {
             "status": "success",
@@ -37,28 +75,9 @@
             "org": "YettelBG",
             "as": "AS29244 CETIN Bulgaria EAD",
             "query": "149.62.230.50",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.09
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "02",
-            "regionName": "Burgas",
-            "city": "Burgas",
-            "zip": "8000",
-            "lat": 42.4963,
-            "lon": 27.4646,
-            "timezone": "Europe/Sofia",
-            "isp": "Comnet Bulgaria Holding Ltd.",
-            "org": "Comnet Bulgaria Holding Ltd.",
-            "as": "AS29084 ComNet Bulgaria",
-            "query": "185.78.37.238",
             "type": "http",
             "port": "8080",
-            "response_time": 10.19
+            "response_time": 9.77
         }
     ]
 }
