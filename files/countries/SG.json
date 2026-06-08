@@ -1,7 +1,7 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 1.35208,
             "lon": 103.82,
             "timezone": "Asia/Singapore",
-            "isp": "Atlantic.net, Inc.",
-            "org": "Atlantic.Net, Inc",
-            "as": "AS6364 Atlantic.net, Inc.",
-            "query": "43.228.215.32",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.46
+            "isp": "Anton Levin",
+            "org": "Anton Levin",
+            "as": "AS50053 VDSka hosting",
+            "query": "194.76.172.30",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.7
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Anton Levin",
+            "org": "Anton Levin",
+            "as": "AS50053 VDSka hosting",
+            "query": "194.76.172.30",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 1.87
         },
         {
             "status": "success",
@@ -39,7 +58,45 @@
             "query": "168.144.41.8",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.62
+            "response_time": 3.18
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "168.144.41.8",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.18
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Atlantic.net, Inc.",
+            "org": "Atlantic.Net, Inc",
+            "as": "AS6364 Atlantic.net, Inc.",
+            "query": "43.228.215.32",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.78
         },
         {
             "status": "success",
@@ -57,46 +114,27 @@
             "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
             "query": "43.160.236.170",
             "type": "http",
-            "port": "8888",
-            "response_time": 2.7
+            "port": "8118",
+            "response_time": 4.01
         },
         {
             "status": "success",
             "country": "Singapore",
             "countryCode": "SG",
-            "region": "05",
-            "regionName": "South West",
+            "region": "01",
+            "regionName": "Central Singapore",
             "city": "Singapore",
-            "zip": "627753",
-            "lat": 1.32123,
-            "lon": 103.695,
+            "zip": "069536",
+            "lat": 1.27994,
+            "lon": 103.849,
             "timezone": "Asia/Singapore",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "167.71.204.247",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 2.99
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
-            "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.35208,
-            "lon": 103.82,
-            "timezone": "Asia/Singapore",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.156.208.80",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.96
+            "isp": "OVH SAS",
+            "org": "OVH Singapore PTE. LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "15.235.193.159",
+            "type": "http",
+            "port": "10000",
+            "response_time": 7.07
         },
         {
             "status": "success",
@@ -113,9 +151,9 @@
             "org": "Google Cloud (asia-southeast1)",
             "as": "AS396982 Google LLC",
             "query": "34.124.190.108",
-            "type": "socks5",
+            "type": "socks4",
             "port": "8080",
-            "response_time": 9.41
+            "response_time": 11.79
         }
     ]
 }
