@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "175.139.201.193",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.51
+            "response_time": 1.44
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Ampang",
+            "zip": "68000",
+            "lat": 3.15,
+            "lon": 101.767,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.144.60.126",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.83
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "08",
+            "regionName": "Perak",
+            "city": "Chemor",
+            "zip": "31200",
+            "lat": 4.7211,
+            "lon": 101.119,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "ADSL Streamyx Telekom Malaysia",
+            "org": "",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "219.93.111.125",
+            "type": "http",
+            "port": "9412",
+            "response_time": 10.53
         },
         {
             "status": "success",
@@ -39,26 +77,7 @@
             "query": "58.84.16.214",
             "type": "http",
             "port": "1231",
-            "response_time": 5.99
-        },
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "14",
-            "regionName": "Kuala Lumpur",
-            "city": "Kuala Lumpur",
-            "zip": "59100",
-            "lat": 3.11613,
-            "lon": 101.666,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Unifi BIZ",
-            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "1.32.57.85",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 8.43
+            "response_time": 16.32
         }
     ]
 }
