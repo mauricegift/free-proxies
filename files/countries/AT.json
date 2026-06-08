@@ -1,26 +1,45 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "5",
-            "regionName": "Salzburg",
-            "city": "Salzburg",
-            "zip": "5020",
-            "lat": 47.7994,
-            "lon": 13.044,
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "OOO FREEnet Group",
+            "org": "OOO FREEnet Group",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "193.233.128.134",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.3
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1210",
+            "lat": 48.2765,
+            "lon": 16.4087,
             "timezone": "Europe/Vienna",
             "isp": "customers with static IP",
             "org": "",
             "as": "AS25255 ==> TELE2 AUSTRIA <==",
-            "query": "178.115.230.100",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.15
+            "query": "178.115.255.177",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.44
         }
     ]
 }
