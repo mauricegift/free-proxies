@@ -1,27 +1,8 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Elbasan",
-            "zip": "",
-            "lat": 41.1122,
-            "lon": 20.0818,
-            "timezone": "Europe/Tirane",
-            "isp": "ATU",
-            "org": "",
-            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
-            "query": "37.26.86.206",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 1.56
-        },
         {
             "status": "success",
             "country": "Albania",
@@ -34,12 +15,50 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone",
+            "org": "Vodafone RESIDENTIAL NAT",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "188.164.218.209",
+            "query": "80.78.78.106",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 5.0
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "12",
+            "regionName": "Vlor\u00eb County",
+            "city": "Himar\u00eb",
+            "zip": "",
+            "lat": 40.1017,
+            "lon": 19.7447,
+            "timezone": "Europe/Tirane",
+            "isp": "Roland Delia trading as NEWAVE",
+            "org": "neWave",
+            "as": "AS207876 Roland Delia trading as NEWAVE",
+            "query": "192.109.219.34",
             "type": "http",
-            "port": "8080",
-            "response_time": 11.59
+            "port": "8081",
+            "response_time": 9.55
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "05",
+            "regionName": "Gjirokast\u00ebr County",
+            "city": "Tepelen\u00eb",
+            "zip": "",
+            "lat": 40.2959,
+            "lon": 20.024,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.108.156",
+            "type": "http",
+            "port": "8079",
+            "response_time": 10.7
         }
     ]
 }
