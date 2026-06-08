@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Ucom Mobile Network",
-            "org": "",
-            "as": "AS44395 Ucom CJSC",
-            "query": "5.77.252.204",
+            "isp": "BioNet LLC",
+            "org": "Hnet LLC",
+            "as": "AS42991 BioNet LLC",
+            "query": "91.204.190.140",
             "type": "http",
-            "port": "8080",
-            "response_time": 2.86
+            "port": "81",
+            "response_time": 5.66
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "K-Telecom GPRS/3G",
-            "org": "",
-            "as": "AS43733 Viva Armenia CJSC",
-            "query": "46.130.117.84",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
+            "as": "AS44395 Ucom CJSC",
+            "query": "81.16.9.222",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 8.25
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC-Alfa CJSC",
+            "org": "GNC-Alfa CJSC",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "195.250.92.58",
             "type": "http",
             "port": "8080",
-            "response_time": 10.39
+            "response_time": 11.5
         }
     ]
 }
