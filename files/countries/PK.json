@@ -1,26 +1,26 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Multan",
-            "zip": "60000",
-            "lat": 30.1659,
-            "lon": 71.4415,
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
             "timezone": "Asia/Karachi",
-            "isp": "Mian Internet Services (Pvt) Ltd",
-            "org": "MISPL  (Pvt) Ltd",
-            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
-            "query": "103.86.135.34",
+            "isp": "Nayatel (Pvt) Ltd",
+            "org": "Nayatel",
+            "as": "AS23674 Nayatel (Pvt) Ltd",
+            "query": "124.109.44.126",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.25
+            "port": "4145",
+            "response_time": 1.16
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "103.174.97.95",
             "type": "http",
             "port": "9999",
-            "response_time": 3.24
+            "response_time": 6.53
         },
         {
             "status": "success",
@@ -47,18 +47,18 @@
             "countryCode": "PK",
             "region": "PB",
             "regionName": "Punjab",
-            "city": "Model Town",
-            "zip": "54700",
-            "lat": 31.481,
-            "lon": 74.3256,
+            "city": "Multan",
+            "zip": "60700",
+            "lat": 30.1977,
+            "lon": 71.474,
             "timezone": "Asia/Karachi",
-            "isp": "ConnecTel Internet Services",
-            "org": "",
-            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
-            "query": "103.225.221.18",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.02
+            "isp": "Prime Networks",
+            "org": "Prime Networks",
+            "as": "AS138590 Prime Networks",
+            "query": "103.134.1.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.74
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "43.251.253.40",
             "type": "http",
             "port": "8080",
-            "response_time": 5.98
+            "response_time": 8.51
         },
         {
             "status": "success",
@@ -86,17 +86,36 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "75500",
-            "lat": 24.8309,
-            "lon": 67.0665,
+            "zip": "75950",
+            "lat": 24.8591,
+            "lon": 66.9983,
             "timezone": "Asia/Karachi",
-            "isp": "Multinet 125-110/24",
-            "org": "Multinet Pakistan Pvt. Ltd.",
-            "as": "AS9260 Multinet Pakistan Pvt. Ltd.",
-            "query": "125.209.110.83",
+            "isp": "Delta Networks",
+            "org": "",
+            "as": "AS138985 CITS PVT (LTD)",
+            "query": "103.255.151.169",
             "type": "http",
-            "port": "39617",
-            "response_time": 9.08
+            "port": "8080",
+            "response_time": 8.62
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Raiwind",
+            "zip": "55150",
+            "lat": 31.2489,
+            "lon": 74.2153,
+            "timezone": "Asia/Karachi",
+            "isp": "Gerrys Information Technology (PVT) Ltd",
+            "org": "Gerrys Information Technology (PVT) Ltd",
+            "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+            "query": "202.69.38.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.98
         }
     ]
 }
