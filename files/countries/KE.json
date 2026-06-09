@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Safhome Fibre Limited",
-            "org": "SAFHOME-SP",
-            "as": "AS329422 SAFHOME FIBRE LIMITED",
-            "query": "102.209.76.106",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.17
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "154.79.248.156",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.11
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "102.211.145.161",
             "type": "http",
             "port": "8081",
-            "response_time": 3.58
+            "response_time": 4.98
         },
         {
             "status": "success",
@@ -55,29 +55,67 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "154.79.248.156",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 6.39
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Airtel KE Mobile & Fixed Internet",
-            "org": "",
-            "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.18.198",
+            "query": "102.0.18.120",
             "type": "http",
             "port": "8080",
-            "response_time": 13.61
+            "response_time": 5.55
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Safhome Fibre Limited",
+            "org": "SAFHOME-SP",
+            "as": "AS329422 SAFHOME FIBRE LIMITED",
+            "query": "102.209.76.106",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.24
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Vennet Solutions Limited",
+            "org": "Vennet Solutions Limited",
+            "as": "AS329437 VENNET SOLUTIONS LIMITED",
+            "query": "102.209.18.68",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.28
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Imara Daima Estate",
+            "zip": "",
+            "lat": -1.32323,
+            "lon": 36.8802,
+            "timezone": "Africa/Nairobi",
+            "isp": "Optinode Group LLP",
+            "org": "Optinode Group LLP",
+            "as": "AS329192 Optinode Group LLP",
+            "query": "102.213.248.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.71
         }
     ]
 }
