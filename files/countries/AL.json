@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone Albania Public",
+            "org": "Vodafone RESIDENTIAL NAT",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.73.120",
+            "query": "80.78.78.106",
             "type": "socks4",
             "port": "65530",
-            "response_time": 1.32
+            "response_time": 1.68
         },
         {
             "status": "success",
@@ -33,51 +33,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Business Custommers",
-            "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "77.242.21.133",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.8
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
-            "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
-            "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.170.126",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Enterprise",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.74.56",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 3.01
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "12",
-            "regionName": "Vlor\u00eb County",
-            "city": "Himar\u00eb",
-            "zip": "",
-            "lat": 40.1017,
-            "lon": 19.7447,
-            "timezone": "Europe/Tirane",
-            "isp": "Roland Delia trading as NEWAVE",
-            "org": "neWave",
-            "as": "AS207876 Roland Delia trading as NEWAVE",
-            "query": "192.109.219.34",
-            "type": "http",
-            "port": "8081",
-            "response_time": 3.6
+            "port": "65530",
+            "response_time": 7.59
         }
     ]
 }
