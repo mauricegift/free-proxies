@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,83 @@
             "query": "217.197.151.182",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.52
+            "response_time": 1.03
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "42",
+            "regionName": "\u00dasteck\u00fd kraj",
+            "city": "Kryry",
+            "zip": "439 81",
+            "lat": 50.1769,
+            "lon": 13.4222,
+            "timezone": "Europe/Prague",
+            "isp": "ISP Alliance a.s.",
+            "org": "GRAPE SC",
+            "as": "AS47232 ISP Alliance a.s.",
+            "query": "78.111.112.118",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.01
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "Dob\u0159\u00ed\u0161",
+            "zip": "263 01",
+            "lat": 49.782,
+            "lon": 14.1877,
+            "timezone": "Europe/Prague",
+            "isp": "DOBRISNET",
+            "org": "Dobris Network s.r.o",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.97.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.43
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "42",
+            "regionName": "\u00dasteck\u00fd kraj",
+            "city": "Varnsdorf",
+            "zip": "407 47",
+            "lat": 50.9164,
+            "lon": 14.615,
+            "timezone": "Europe/Prague",
+            "isp": "Vybezek.NET s.r.o.",
+            "org": "VybezekNET",
+            "as": "AS201116 Vybezek.NET s.r.o.",
+            "query": "193.34.237.124",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.9
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Pilsen",
+            "zip": "301 00",
+            "lat": 49.7016,
+            "lon": 13.3507,
+            "timezone": "Europe/Prague",
+            "isp": "T-Mobile Czech Republic a.s.",
+            "org": "T-Mobile Czech Republic",
+            "as": "AS13036 T-Mobile Czech Republic a.s.",
+            "query": "91.139.78.174",
+            "type": "http",
+            "port": "3128",
+            "response_time": 21.06
         }
     ]
 }
