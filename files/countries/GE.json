@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,32 +14,51 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Airmax LLC",
-            "org": "",
-            "as": "AS208320 AIRMAX LLC",
-            "query": "45.143.108.10",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.61.112",
             "type": "http",
             "port": "8080",
-            "response_time": 3.88
+            "response_time": 3.75
         },
         {
             "status": "success",
             "country": "Georgia",
             "countryCode": "GE",
-            "region": "KK",
-            "regionName": "Kvemo Kartli",
-            "city": "",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
             "zip": "",
-            "lat": 41.555,
-            "lon": 44.9805,
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Multisoft LLC",
+            "org": "Multisoft",
+            "as": "AS209012 MULTISOFT LLC",
+            "query": "2.57.218.131",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.9
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
             "timezone": "Asia/Tbilisi",
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.82",
+            "query": "85.117.61.110",
             "type": "http",
             "port": "8080",
-            "response_time": 9.33
+            "response_time": 10.73
         }
     ]
 }
