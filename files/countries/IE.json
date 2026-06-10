@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "D16",
+            "lat": 53.2782,
+            "lon": -6.23132,
+            "timezone": "Europe/Dublin",
+            "isp": "IBIS",
+            "org": "Imagine Communications Group Limited",
+            "as": "",
+            "query": "89.127.207.174",
+            "type": "http",
+            "port": "18080",
+            "response_time": 2.06
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -20,7 +39,7 @@
             "query": "185.138.114.111",
             "type": "http",
             "port": "8080",
-            "response_time": 14.09
+            "response_time": 8.32
         }
     ]
 }
