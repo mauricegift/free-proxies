@@ -1,8 +1,46 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60000",
+            "lat": 30.1659,
+            "lon": 71.4415,
+            "timezone": "Asia/Karachi",
+            "isp": "Mian Internet Services (Pvt) Ltd",
+            "org": "MISPL  (Pvt) Ltd",
+            "as": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
+            "query": "103.86.135.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.93
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
+            "timezone": "Asia/Karachi",
+            "isp": "Nayatel (Pvt) Ltd",
+            "org": "Micronet",
+            "as": "AS23674 Nayatel (Pvt) Ltd",
+            "query": "58.65.167.165",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.12
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -10,17 +48,17 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "74000",
-            "lat": 24.8591,
-            "lon": 66.9983,
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
             "timezone": "Asia/Karachi",
-            "isp": "Connect Communication",
-            "org": "Connect Communication",
-            "as": "AS132165 Connect Communications",
-            "query": "115.42.67.186",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
             "type": "socks4",
-            "port": "56534",
-            "response_time": 1.15
+            "port": "5678",
+            "response_time": 4.13
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "124.109.44.126",
             "type": "socks4",
             "port": "4145",
-            "response_time": 10.6
+            "response_time": 4.84
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Optix Pakistan (Pvt.) Limited",
+            "org": "Optix Pakistan (Pvt.) Limited",
+            "as": "AS136384 Optix Pakistan (Pvt.) Limited",
+            "query": "43.251.253.40",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.08
         }
     ]
 }
