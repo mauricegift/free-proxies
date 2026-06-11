@@ -1,18 +1,18 @@
 {
     "countryCode": "MT",
     "country": "Malta",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Malta",
             "countryCode": "MT",
-            "region": "56",
-            "regionName": "Tas-Sliema",
-            "city": "Sliema",
-            "zip": "SLM",
-            "lat": 35.9159,
-            "lon": 14.5049,
+            "region": "12",
+            "regionName": "Il-G\u017cira",
+            "city": "Gzira",
+            "zip": "GZR",
+            "lat": 35.9029,
+            "lon": 14.4963,
             "timezone": "Europe/Malta",
             "isp": "Melita Cable plc",
             "org": "Melita plc",
@@ -20,7 +20,26 @@
             "query": "213.165.185.211",
             "type": "socks4",
             "port": "4153",
-            "response_time": 9.35
+            "response_time": 2.65
+        },
+        {
+            "status": "success",
+            "country": "Malta",
+            "countryCode": "MT",
+            "region": "60",
+            "regionName": "Valletta",
+            "city": "Valletta",
+            "zip": "VLT",
+            "lat": 35.8992,
+            "lon": 14.5141,
+            "timezone": "Europe/Malta",
+            "isp": "Skoed Limited",
+            "org": "Skoed",
+            "as": "AS200295 Skoed Limited",
+            "query": "80.64.208.147",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 12.87
         }
     ]
 }
