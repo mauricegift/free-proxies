@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.79.35.143",
+            "query": "202.166.219.80",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.48
+            "response_time": 1.85
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P5",
+            "regionName": "Lumbini Province",
+            "city": "Butwal",
+            "zip": "",
+            "lat": 27.7006,
+            "lon": 83.4484,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Web Networks Pvt. Ltd.",
+            "org": "Web Networks Pvt. Ltd",
+            "as": "AS136380 Web Networks Pvt. Ltd.",
+            "query": "103.86.57.9",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.45
         },
         {
             "status": "success",
@@ -30,16 +49,16 @@
             "regionName": "Bagmati Province",
             "city": "Kathmandu",
             "zip": "",
-            "lat": 27.7108,
-            "lon": 85.3251,
+            "lat": 27.7017,
+            "lon": 85.3206,
             "timezone": "Asia/Kathmandu",
-            "isp": "WorldLink Communications",
-            "org": "",
-            "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.79.35.12",
+            "isp": "Subisu Cablenet",
+            "org": "SUBISU Retail Pool15",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "182.93.75.162",
             "type": "socks4",
             "port": "1080",
-            "response_time": 12.45
+            "response_time": 4.5
         }
     ]
 }
