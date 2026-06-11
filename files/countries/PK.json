@@ -1,8 +1,27 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
+            "timezone": "Asia/Karachi",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.76
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -20,7 +39,7 @@
             "query": "103.225.221.18",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.31
+            "response_time": 7.34
         }
     ]
 }
