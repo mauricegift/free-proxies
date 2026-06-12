@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 16.7964,
             "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Telecom International Myanmar Company Limited",
+            "isp": "Myanma Post & Telecommunication",
             "org": "",
-            "as": "AS136255 Telecom International Myanmar Co., Ltd",
-            "query": "202.165.94.170",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.160.250",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.54
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Myanma Post & Telecommunication",
+            "org": "",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.163.150",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 9.54
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "03",
+            "regionName": "Magway",
+            "city": "Chauk",
+            "zip": "",
+            "lat": 20.8992,
+            "lon": 94.8178,
+            "timezone": "Asia/Yangon",
+            "isp": "Atom Myanmar Limited",
+            "org": "Atom Myanmar Limited",
+            "as": "AS133385 Atom Myanmar Limited",
+            "query": "37.111.53.31",
             "type": "http",
-            "port": "8082",
-            "response_time": 1.86
+            "port": "8080",
+            "response_time": 9.8
         }
     ]
 }
