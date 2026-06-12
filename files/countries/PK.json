@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,55 @@
             "region": "SD",
             "regionName": "Sindh",
             "city": "Karachi",
-            "zip": "74000",
-            "lat": 24.8591,
-            "lon": 66.9983,
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
             "timezone": "Asia/Karachi",
-            "isp": "Connect Communication",
-            "org": "Connect Communication",
-            "as": "AS132165 Connect Communications",
-            "query": "115.42.67.186",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
             "type": "socks4",
-            "port": "56534",
-            "response_time": 1.35
+            "port": "5678",
+            "response_time": 3.09
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7281,
+            "lon": 73.075,
+            "timezone": "Asia/Karachi",
+            "isp": "LINKdotNET Telecom Limited",
+            "org": "Ldnpk As23966",
+            "as": "AS23966 LINKdotNET Telecom Limited",
+            "query": "202.154.241.199",
+            "type": "http",
+            "port": "808",
+            "response_time": 7.12
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Raiwind",
+            "zip": "55150",
+            "lat": 31.2489,
+            "lon": 74.2153,
+            "timezone": "Asia/Karachi",
+            "isp": "Gerrys Information Technology (PVT) Ltd",
+            "org": "Gerrys Information Technology (PVT) Ltd",
+            "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
+            "query": "202.69.38.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.22
         }
     ]
 }
