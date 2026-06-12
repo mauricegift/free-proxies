@@ -1,8 +1,27 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 5,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC",
+            "org": "Hamynqneri_Miutyun_Sisian",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "130.193.123.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.59
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -20,26 +39,7 @@
             "query": "185.215.53.193",
             "type": "socks4",
             "port": "3629",
-            "response_time": 1.87
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
-            "timezone": "Asia/Yerevan",
-            "isp": "Fnet LLC",
-            "org": "",
-            "as": "AS205368 Fnet LLC",
-            "query": "185.215.53.205",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 2.25
+            "response_time": 5.12
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "185.215.53.201",
             "type": "socks4",
             "port": "3629",
-            "response_time": 4.3
+            "response_time": 9.11
         },
         {
             "status": "success",
@@ -71,32 +71,13 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "GNC",
-            "org": "Hamynqneri_Miutyun_Sisian",
-            "as": "AS49800 GNC-Alfa CJSC",
-            "query": "130.193.123.34",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.217",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 4.55
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1872,
-            "lon": 44.5152,
-            "timezone": "Asia/Yerevan",
-            "isp": "Data Campus Limited",
-            "org": "Data Campus Limited",
-            "as": "AS215929 Data Campus Limited",
-            "query": "45.142.195.110",
-            "type": "socks4",
-            "port": "995",
-            "response_time": 5.59
+            "port": "3629",
+            "response_time": 14.03
         }
     ]
 }
