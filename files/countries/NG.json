@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "Visual ICT",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.17.107",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.36
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,7 @@
             "query": "169.239.236.201",
             "type": "socks4",
             "port": "10801",
-            "response_time": 4.17
+            "response_time": 7.47
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Lagos",
+            "city": "Ebute-Metta",
             "zip": "",
-            "lat": 6.5243,
-            "lon": 3.3792,
+            "lat": 6.48799,
+            "lon": 3.38166,
             "timezone": "Africa/Lagos",
-            "isp": "Space Exploration Technologies Corporation",
-            "org": "SpaceX Starlink",
-            "as": "AS14593 Space Exploration Technologies Corporation",
-            "query": "143.105.102.145",
+            "isp": "Syscodes Communications",
+            "org": "",
+            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
+            "query": "102.36.133.62",
             "type": "http",
             "port": "8080",
-            "response_time": 14.29
+            "response_time": 7.87
         }
     ]
 }
