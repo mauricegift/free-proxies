@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "185.215.53.193",
             "type": "socks4",
             "port": "3629",
-            "response_time": 0.73
+            "response_time": 3.79
         },
         {
             "status": "success",
@@ -36,10 +36,48 @@
             "isp": "Fnet LLC",
             "org": "",
             "as": "AS205368 Fnet LLC",
-            "query": "185.215.53.241",
+            "query": "185.215.53.201",
             "type": "socks4",
             "port": "3629",
-            "response_time": 1.56
+            "response_time": 3.8
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC",
+            "org": "Hamynqneri_Miutyun_Sisian",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "130.193.123.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.62
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC-Alfa CJSC",
+            "org": "GNC Customers29",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "195.250.92.58",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.37
         }
     ]
 }
