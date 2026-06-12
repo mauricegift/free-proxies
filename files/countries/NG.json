@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Lagos",
+            "city": "Satellite Town",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.4427,
+            "lon": 3.2482,
             "timezone": "Africa/Lagos",
-            "isp": "GLO",
+            "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
-            "as": "AS37148 Globacom Limited",
-            "query": "41.203.76.166",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.179.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.09
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
+            "zip": "",
+            "lat": 9.05785,
+            "lon": 7.49508,
+            "timezone": "Africa/Lagos",
+            "isp": "Vodacom Business Nigeria",
+            "org": "Inq. Digital Nigeria",
+            "as": "AS16284 Inq. Digital Nigeria",
+            "query": "155.93.96.210",
             "type": "http",
             "port": "8080",
-            "response_time": 9.45
+            "response_time": 9.51
         }
     ]
 }
