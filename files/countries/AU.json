@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
+            "timezone": "Australia/Melbourne",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.36
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -10,17 +29,17 @@
             "region": "NSW",
             "regionName": "New South Wales",
             "city": "Sydney",
-            "zip": "1001",
-            "lat": -33.8688,
-            "lon": 151.209,
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
             "timezone": "Australia/Sydney",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-sydney-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "192.9.182.6",
+            "isp": "BrainStorm Network",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "103.106.231.75",
             "type": "http",
-            "port": "20172",
-            "response_time": 3.34
+            "port": "8081",
+            "response_time": 4.71
         }
     ]
 }
