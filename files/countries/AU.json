@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "192.9.182.6",
             "type": "http",
             "port": "20172",
-            "response_time": 2.98
+            "response_time": 1.94
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Woodhill",
+            "zip": "4285",
+            "lat": -27.9,
+            "lon": 152.967,
+            "timezone": "Australia/Brisbane",
+            "isp": "Southern Phone Company Ltd",
+            "org": "Southern Phone Company Ltd",
+            "as": "AS136994 Southern Phone Company Ltd",
+            "query": "203.30.9.8",
+            "type": "http",
+            "port": "8443",
+            "response_time": 3.84
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
             "timezone": "Australia/Sydney",
-            "isp": "BrainStorm Network",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "103.106.231.75",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 8.9
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 7.64
         }
     ]
 }
