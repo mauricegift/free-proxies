@@ -1,8 +1,46 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "BA",
+            "regionName": "Banghazi",
+            "city": "Benghazi",
+            "zip": "",
+            "lat": 32.1159,
+            "lon": 20.0654,
+            "timezone": "Africa/Tripoli",
+            "isp": "Aljuman Aljadeed Limited Liability company",
+            "org": "Aljuman Aljadeed Limited Liability company",
+            "as": "AS329435 Aljuman Aljadeed Limited Liability company",
+            "query": "102.209.0.138",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.53
+        },
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "TB",
+            "regionName": "Tripoli",
+            "city": "Tripoli",
+            "zip": "21821",
+            "lat": 32.8908,
+            "lon": 13.1796,
+            "timezone": "Africa/Tripoli",
+            "isp": "LTT Autonomous System, Tripoli Libya",
+            "org": "WeShop Company",
+            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
+            "query": "102.68.129.54",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.77
+        },
         {
             "status": "success",
             "country": "Libya",
@@ -20,7 +58,7 @@
             "query": "41.254.48.190",
             "type": "http",
             "port": "1976",
-            "response_time": 9.87
+            "response_time": 12.68
         }
     ]
 }
