@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "06",
             "regionName": "Yangon",
             "city": "Yangon",
-            "zip": "",
+            "zip": "11051",
             "lat": 16.7964,
             "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Global Technology Co",
-            "org": "",
+            "isp": "Cogent Communications",
+            "org": "Global Technology Co., Ltd",
             "as": "AS133524 Global Technology Co., Ltd.",
-            "query": "103.25.79.150",
+            "query": "204.157.168.74",
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 1.93
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "03",
+            "regionName": "Magway",
+            "city": "Chauk",
+            "zip": "",
+            "lat": 20.8992,
+            "lon": 94.8178,
+            "timezone": "Asia/Yangon",
+            "isp": "Atom Myanmar Limited",
+            "org": "Atom Myanmar Limited",
+            "as": "AS133385 Atom Myanmar Limited",
+            "query": "37.111.53.31",
             "type": "http",
-            "port": "8054",
-            "response_time": 12.06
+            "port": "8080",
+            "response_time": 4.31
         }
     ]
 }
