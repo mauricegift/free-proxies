@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 7,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,64 +20,7 @@
             "query": "3.99.158.157",
             "type": "http",
             "port": "8506",
-            "response_time": 1.32
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5019,
-            "lon": -73.5674,
-            "timezone": "America/Toronto",
-            "isp": "Rica Web Services",
-            "org": "Moula World Llc",
-            "as": "AS26832 Rica Web Services",
-            "query": "86.107.168.166",
-            "type": "socks4",
-            "port": "22",
-            "response_time": 1.77
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "",
-            "lat": 43.6532,
-            "lon": -79.3832,
-            "timezone": "America/Toronto",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.183.127.162",
-            "type": "http",
-            "port": "58234",
-            "response_time": 3.41
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H2A",
-            "lat": 45.562,
-            "lon": -73.6002,
-            "timezone": "America/Toronto",
-            "isp": "Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "45.73.0.118",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.68
+            "response_time": 2.91
         },
         {
             "status": "success",
@@ -96,26 +39,7 @@
             "query": "24.37.245.42",
             "type": "socks4",
             "port": "51056",
-            "response_time": 9.39
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "L4L",
-            "lat": 43.8072,
-            "lon": -79.5946,
-            "timezone": "America/Toronto",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "140.238.156.12",
-            "type": "http",
-            "port": "1080",
-            "response_time": 9.61
+            "response_time": 3.86
         },
         {
             "status": "success",
@@ -132,9 +56,47 @@
             "org": "Moula World Llc",
             "as": "AS26832 Rica Web Services",
             "query": "86.107.168.166",
-            "type": "socks4",
+            "type": "socks5",
             "port": "5432",
-            "response_time": 12.86
+            "response_time": 6.62
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "St. Catharines",
+            "zip": "L2R",
+            "lat": 43.1373,
+            "lon": -79.2928,
+            "timezone": "America/Toronto",
+            "isp": "Niagara Regional Broadband Networks Limited",
+            "org": "Niagara Regional Broadband Networks Limited",
+            "as": "AS53486 Niagara Regional Broadband Networks Limited",
+            "query": "209.35.33.208",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 7.11
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "St. Catharines",
+            "zip": "L2R",
+            "lat": 43.1373,
+            "lon": -79.2928,
+            "timezone": "America/Toronto",
+            "isp": "Niagara Regional Broadband Networks Limited",
+            "org": "Niagara Regional Broadband Networks Limited",
+            "as": "AS53486 Niagara Regional Broadband Networks Limited",
+            "query": "209.35.33.208",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 7.11
         }
     ]
 }
