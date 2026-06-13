@@ -14,13 +14,13 @@
             "lat": 43.6532,
             "lon": -79.3832,
             "timezone": "America/Toronto",
-            "isp": "Amazon.com",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ca-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.52.81.236",
+            "query": "15.156.94.152",
             "type": "http",
-            "port": "28190",
-            "response_time": 1.25
+            "port": "18744",
+            "response_time": 1.64
         },
         {
             "status": "success",
@@ -28,18 +28,37 @@
             "countryCode": "CA",
             "region": "ON",
             "regionName": "Ontario",
-            "city": "St. Catharines",
-            "zip": "L2R",
-            "lat": 43.1373,
-            "lon": -79.2928,
+            "city": "Brampton",
+            "zip": "L6R",
+            "lat": 43.7627,
+            "lon": -79.7606,
             "timezone": "America/Toronto",
-            "isp": "Niagara Regional Broadband Networks Limited",
-            "org": "Niagara Regional Broadband Networks Limited",
-            "as": "AS53486 Niagara Regional Broadband Networks Limited",
-            "query": "209.35.33.208",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
+            "type": "socks4",
+            "port": "50877",
+            "response_time": 1.68
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
+            "timezone": "America/Toronto",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.251",
             "type": "socks5",
-            "port": "9050",
-            "response_time": 3.18
+            "port": "1080",
+            "response_time": 2.31
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "24.37.245.42",
             "type": "socks4",
             "port": "51056",
-            "response_time": 3.52
+            "response_time": 3.63
         },
         {
             "status": "success",
@@ -66,18 +85,18 @@
             "countryCode": "CA",
             "region": "ON",
             "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "",
-            "lat": 43.6532,
-            "lon": -79.3832,
+            "city": "St. Catharines",
+            "zip": "L2R",
+            "lat": 43.1373,
+            "lon": -79.2928,
             "timezone": "America/Toronto",
-            "isp": "Amazon.com",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.52.81.236",
-            "type": "http",
-            "port": "21506",
-            "response_time": 4.17
+            "isp": "Niagara Regional Broadband Networks Limited",
+            "org": "Niagara Regional Broadband Networks Limited",
+            "as": "AS53486 Niagara Regional Broadband Networks Limited",
+            "query": "209.35.33.208",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 6.56
         },
         {
             "status": "success",
@@ -96,26 +115,7 @@
             "query": "86.107.168.166",
             "type": "socks4",
             "port": "22",
-            "response_time": 8.61
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5019,
-            "lon": -73.5674,
-            "timezone": "America/Toronto",
-            "isp": "Rica Web Services",
-            "org": "Moula World Llc",
-            "as": "AS26832 Rica Web Services",
-            "query": "86.107.168.166",
-            "type": "socks5",
-            "port": "5432",
-            "response_time": 15.83
+            "response_time": 6.63
         }
     ]
 }
