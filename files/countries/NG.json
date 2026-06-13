@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.5243,
+            "lon": 3.3792,
+            "timezone": "Africa/Lagos",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Services, Inc",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "129.222.204.27",
+            "type": "http",
+            "port": "10000",
+            "response_time": 5.71
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,7 @@
             "query": "169.239.236.201",
             "type": "socks4",
             "port": "10801",
-            "response_time": 2.16
+            "response_time": 7.87
         },
         {
             "status": "success",
@@ -30,16 +49,16 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.5243,
+            "lon": 3.3792,
             "timezone": "Africa/Lagos",
-            "isp": "Globacom Limited",
-            "org": "Globacom",
-            "as": "AS37148 Globacom Limited",
-            "query": "41.203.83.242",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Starlink",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "143.105.102.145",
             "type": "http",
             "port": "8080",
-            "response_time": 13.69
+            "response_time": 9.43
         }
     ]
 }
