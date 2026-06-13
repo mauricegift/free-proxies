@@ -1,26 +1,45 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Syria",
             "countryCode": "SY",
-            "region": "RD",
-            "regionName": "Rif-dimashq",
-            "city": "Al Mulay\u1e29ah",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Aleppo",
             "zip": "",
-            "lat": 33.487,
-            "lon": 36.3688,
+            "lat": 36.2012,
+            "lon": 37.1612,
             "timezone": "Asia/Damascus",
-            "isp": "Syrian Telecom",
-            "org": "MTS DSL",
-            "as": "AS29256 STE PDN Internal AS",
-            "query": "193.43.159.166",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "Telecom SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "139.28.49.23",
             "type": "http",
             "port": "8080",
-            "response_time": 11.91
+            "response_time": 3.38
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Aleppo",
+            "zip": "",
+            "lat": 36.2012,
+            "lon": 37.1612,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "Telecom SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "139.28.49.233",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.79
         }
     ]
 }
