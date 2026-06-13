@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 9,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.52
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.131.175",
-            "type": "http",
-            "port": "8200",
-            "response_time": 0.92
+            "response_time": 1.36
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "172.232.203.89",
             "type": "http",
             "port": "1080",
-            "response_time": 1.15
+            "response_time": 3.41
         },
         {
             "status": "success",
@@ -77,7 +58,7 @@
             "query": "172.232.203.89",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.15
+            "response_time": 3.41
         },
         {
             "status": "success",
@@ -96,7 +77,7 @@
             "query": "172.232.203.89",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.15
+            "response_time": 3.41
         },
         {
             "status": "success",
@@ -105,36 +86,55 @@
             "region": "25",
             "regionName": "Lombardy",
             "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.59.54",
-            "type": "http",
-            "port": "12680",
-            "response_time": 1.34
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20143",
+            "zip": "20100",
             "lat": 45.4722,
             "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "La Wireless",
+            "isp": "Mywic Costumers",
             "org": "",
-            "as": "AS49979 LA Wireless Srl",
-            "query": "94.198.213.252",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.61
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
+            "type": "http",
+            "port": "8081",
+            "response_time": 4.58
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
+            "type": "http",
+            "port": "8081",
+            "response_time": 7.46
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Pomezia",
+            "zip": "00071",
+            "lat": 41.6693,
+            "lon": 12.5012,
+            "timezone": "Europe/Rome",
+            "isp": "Cinzia Tocci trading as Lumanex Srl",
+            "org": "C1V ISP",
+            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
+            "query": "5.59.248.134",
+            "type": "socks5",
+            "port": "8081",
+            "response_time": 10.51
         },
         {
             "status": "success",
@@ -153,26 +153,7 @@
             "query": "91.192.25.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.17
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Pomezia",
-            "zip": "00071",
-            "lat": 41.6693,
-            "lon": 12.5012,
-            "timezone": "Europe/Rome",
-            "isp": "Cinzia Tocci trading as Lumanex Srl",
-            "org": "C1V ISP",
-            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
-            "query": "5.59.248.134",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.73
+            "response_time": 17.68
         }
     ]
 }
