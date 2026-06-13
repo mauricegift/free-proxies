@@ -1,26 +1,26 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "QLD",
-            "regionName": "Queensland",
-            "city": "Woodhill",
-            "zip": "4285",
-            "lat": -27.9,
-            "lon": 152.967,
-            "timezone": "Australia/Brisbane",
-            "isp": "Southern Phone Company Ltd",
-            "org": "Southern Phone Company Ltd",
-            "as": "AS136994 Southern Phone Company Ltd",
-            "query": "203.30.9.8",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "54.206.129.120",
             "type": "http",
-            "port": "8443",
-            "response_time": 3.23
+            "port": "1234",
+            "response_time": 5.24
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "54.206.129.120",
             "type": "http",
             "port": "6843",
-            "response_time": 3.62
+            "response_time": 5.31
         },
         {
             "status": "success",
@@ -55,10 +55,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.206.129.120",
+            "query": "54.253.183.151",
             "type": "http",
-            "port": "1234",
-            "response_time": 3.76
+            "port": "28349",
+            "response_time": 5.75
         },
         {
             "status": "success",
@@ -68,16 +68,16 @@
             "regionName": "New South Wales",
             "city": "Sydney",
             "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
+            "lat": -33.8591,
+            "lon": 151.2002,
             "timezone": "Australia/Sydney",
-            "isp": "BrainStorm Network",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "103.106.231.75",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 6.37
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.135.215.62",
+            "type": "http",
+            "port": "14975",
+            "response_time": 7.57
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "159.196.182.72",
             "type": "http",
             "port": "8080",
-            "response_time": 11.63
+            "response_time": 12.29
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Woodhill",
+            "zip": "4285",
+            "lat": -27.9,
+            "lon": 152.967,
+            "timezone": "Australia/Brisbane",
+            "isp": "Southern Phone Company Ltd",
+            "org": "Southern Phone Company Ltd",
+            "as": "AS136994 Southern Phone Company Ltd",
+            "query": "203.30.9.8",
+            "type": "http",
+            "port": "8443",
+            "response_time": 12.98
         }
     ]
 }
