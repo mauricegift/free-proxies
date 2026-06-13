@@ -1,8 +1,46 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "31",
+            "regionName": "South Bohemian Region",
+            "city": "Vimperk",
+            "zip": "385 01",
+            "lat": 49.0531,
+            "lon": 13.7733,
+            "timezone": "Europe/Prague",
+            "isp": "IT PROFI s.r.o",
+            "org": "IP Profi",
+            "as": "AS3161 IT PROFI s.r.o.",
+            "query": "194.1.188.8",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 1.31
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "71",
+            "regionName": "Olomouc Region",
+            "city": "P\u0159erov",
+            "zip": "750 02",
+            "lat": 49.4137,
+            "lon": 17.5032,
+            "timezone": "Europe/Prague",
+            "isp": "PREROV",
+            "org": "",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "217.197.151.182",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.5
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,26 +58,26 @@
             "query": "85.163.43.208",
             "type": "socks4",
             "port": "48293",
-            "response_time": 2.01
+            "response_time": 4.74
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Klatovy",
-            "zip": "339 01",
-            "lat": 49.398,
-            "lon": 13.2893,
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Str\u00e1\u017enice",
+            "zip": "696 62",
+            "lat": 48.9035,
+            "lon": 17.3124,
             "timezone": "Europe/Prague",
-            "isp": "Airweb",
-            "org": "",
-            "as": "AS210712 ISP Alliance a.s.",
-            "query": "185.40.80.143",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 2.88
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "188.119.98.126",
+            "type": "http",
+            "port": "9999",
+            "response_time": 6.61
         }
     ]
 }
