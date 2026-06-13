@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 5,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.243.197.73",
+            "isp": "Kaopu Cloud HK Limited",
+            "org": "Kaopu Cloud HK Limited",
+            "as": "AS138915 Kaopu Cloud HK Limited",
+            "query": "154.206.67.83",
             "type": "socks4",
-            "port": "9050",
-            "response_time": 4.36
+            "port": "9000",
+            "response_time": 3.24
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "18.163.33.4",
             "type": "http",
             "port": "4513",
-            "response_time": 4.81
+            "response_time": 5.97
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "43.129.80.138",
             "type": "socks4",
             "port": "18999",
-            "response_time": 5.0
+            "response_time": 6.91
         },
         {
             "status": "success",
@@ -71,32 +71,70 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba.com LLC",
-            "org": "IPXO LLC, Zenlayer Inc, Delta Centric LLC",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.83.243.232",
-            "type": "socks5",
-            "port": "1111",
-            "response_time": 7.29
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Kaopu Cloud HK Limited",
-            "org": "Kaopu Cloud HK Limited",
-            "as": "AS138915 Kaopu Cloud HK Limited",
-            "query": "154.223.77.54",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.155.20.204",
             "type": "http",
-            "port": "10001",
-            "response_time": 9.82
+            "port": "3128",
+            "response_time": 7.9
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "KYT",
+            "regionName": "Yau Tsim Mong District",
+            "city": "Tai Kok Tsui",
+            "zip": "999077",
+            "lat": 22.3242,
+            "lon": 114.163,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "LucidaCloud Limited",
+            "org": "PacketExchange",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "68.64.179.186",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.5
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "Alibaba (US) Technology Co., Ltd.",
+            "org": "Alibaba.com LLC",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.57.242.244",
+            "type": "socks4",
+            "port": "5080",
+            "response_time": 13.8
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "",
+            "regionName": "Kowloon",
+            "city": "Hong Kong",
+            "zip": "999077",
+            "lat": 22.3193,
+            "lon": 114.169,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "NetLab Global",
+            "org": "NetLab Global",
+            "as": "AS979 NetLab Global",
+            "query": "38.95.74.145",
+            "type": "http",
+            "port": "8080",
+            "response_time": 18.58
         }
     ]
 }
