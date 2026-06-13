@@ -1,27 +1,8 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Myanmar",
-            "countryCode": "MM",
-            "region": "06",
-            "regionName": "Yangon",
-            "city": "Yangon",
-            "zip": "",
-            "lat": 16.7964,
-            "lon": 96.1667,
-            "timezone": "Asia/Yangon",
-            "isp": "Myanma Post & Telecommunication",
-            "org": "",
-            "as": "AS9988 Myanma Posts and Telecommunications",
-            "query": "136.228.163.150",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.18
-        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -39,7 +20,45 @@
             "query": "202.165.94.170",
             "type": "http",
             "port": "8082",
-            "response_time": 11.24
+            "response_time": 3.25
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Global Technology Co",
+            "org": "",
+            "as": "AS133524 Global Technology Co., Ltd.",
+            "query": "103.25.79.150",
+            "type": "http",
+            "port": "8054",
+            "response_time": 5.75
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Telecom International Myanmar Company Limited",
+            "org": "",
+            "as": "AS136255 Telecom International Myanmar Co., Ltd",
+            "query": "202.165.92.206",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.53
         }
     ]
 }
