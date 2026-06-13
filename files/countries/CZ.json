@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Klatovy",
+            "zip": "339 01",
+            "lat": 49.398,
+            "lon": 13.2893,
+            "timezone": "Europe/Prague",
+            "isp": "Airweb",
+            "org": "",
+            "as": "AS210712 ISP Alliance a.s.",
+            "query": "185.40.80.143",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.26
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +39,26 @@
             "query": "188.119.98.126",
             "type": "http",
             "port": "9999",
-            "response_time": 9.91
+            "response_time": 3.96
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "140 00",
+            "lat": 50.0471,
+            "lon": 14.4523,
+            "timezone": "Europe/Prague",
+            "isp": "Neutral Free eXchange members - FreeTel alternate",
+            "org": "Praha12.Net",
+            "as": "AS8251 FreeTel, s.r.o.",
+            "query": "78.108.103.87",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.17
         }
     ]
 }
