@@ -1,8 +1,27 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220002",
+            "lat": 53.9006,
+            "lon": 27.559,
+            "timezone": "Europe/Minsk",
+            "isp": "Reliable Software, Ltd.",
+            "org": "Sprinthost LLP",
+            "as": "AS35594 Reliable Software, Ltd.",
+            "query": "138.249.246.158",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.39
+        },
         {
             "status": "success",
             "country": "Belarus",
@@ -18,9 +37,28 @@
             "org": "Business network LTD",
             "as": "AS12406 Business Network Ltd",
             "query": "80.249.81.179",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 13.96
+            "response_time": 8.42
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220092",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "IPoE USERS GRODNO",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "82.209.219.244",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.38
         }
     ]
 }
