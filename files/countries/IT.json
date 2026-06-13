@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 9,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,16 @@
             "regionName": "Lombardy",
             "city": "Milan",
             "zip": "20121",
-            "lat": 45.4642,
-            "lon": 9.18998,
+            "lat": 45.4681,
+            "lon": 9.2011,
             "timezone": "Europe/Rome",
-            "isp": "Host SpA",
-            "org": "Host VDC",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.186.244",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.69
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.161.131.175",
+            "type": "http",
+            "port": "11566",
+            "response_time": 2.89
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "15.161.131.175",
             "type": "http",
             "port": "8200",
-            "response_time": 1.15
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Figline Valdarno",
-            "zip": "50063",
-            "lat": 43.6199,
-            "lon": 11.4719,
-            "timezone": "Europe/Rome",
-            "isp": "Sirius Technology SRL",
-            "org": "Sirius Technology SRL",
-            "as": "AS60501 Sirius Technology SRL",
-            "query": "149.86.206.27",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.94
+            "response_time": 3.21
         },
         {
             "status": "success",
@@ -77,7 +58,7 @@
             "query": "172.232.203.89",
             "type": "http",
             "port": "1080",
-            "response_time": 3.43
+            "response_time": 4.75
         },
         {
             "status": "success",
@@ -96,7 +77,7 @@
             "query": "172.232.203.89",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.43
+            "response_time": 4.75
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "172.232.203.89",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.43
+            "response_time": 4.75
         },
         {
             "status": "success",
@@ -128,51 +109,51 @@
             "lat": 45.4681,
             "lon": 9.2011,
             "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc",
             "org": "AWS EC2 (eu-south-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.59.54",
+            "query": "15.160.116.45",
             "type": "http",
-            "port": "12680",
-            "response_time": 3.8
+            "port": "17648",
+            "response_time": 4.84
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Rome",
-            "zip": "00191",
-            "lat": 41.8905,
-            "lon": 12.5127,
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
             "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A.",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
             "org": "INTERBUSINESS",
             "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "95.244.215.67",
+            "query": "188.11.179.26",
             "type": "http",
-            "port": "8080",
-            "response_time": 9.82
+            "port": "8443",
+            "response_time": 8.19
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Pomezia",
-            "zip": "00071",
-            "lat": 41.6693,
-            "lon": 12.5012,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
             "timezone": "Europe/Rome",
-            "isp": "Cinzia Tocci trading as Lumanex Srl",
-            "org": "C1V ISP",
-            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
-            "query": "5.59.248.134",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.98
+            "isp": "Aruba S.p.A. Network",
+            "org": "Aruba S.p.A. - Cloud Services",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "80.211.131.230",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 9.51
         }
     ]
 }
