@@ -1,7 +1,7 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 7,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "190.14.5.164",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.09
+            "response_time": 1.53
         },
         {
             "status": "success",
@@ -29,17 +29,55 @@
             "region": "01",
             "regionName": "Guatemala",
             "city": "Guatemala City",
-            "zip": "01001",
+            "zip": "01014",
             "lat": 14.6343,
             "lon": -90.5155,
             "timezone": "America/Guatemala",
             "isp": "Ufinet Panama S.A.",
-            "org": "UFINET Guatemala S. A",
+            "org": "Infinitum S.A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "181.119.111.239",
+            "query": "45.228.233.78",
             "type": "http",
             "port": "999",
-            "response_time": 3.97
+            "response_time": 3.54
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01010",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "Infinitum S.A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "45.5.119.17",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.54
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "15",
+            "regionName": "Baja Verapaz",
+            "city": "Salam\u00e1",
+            "zip": "",
+            "lat": 15.1021,
+            "lon": -90.3191,
+            "timezone": "America/Guatemala",
+            "isp": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "org": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "as": "AS263781 ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "query": "138.118.104.122",
+            "type": "http",
+            "port": "999",
+            "response_time": 8.76
         },
         {
             "status": "success",
@@ -58,45 +96,7 @@
             "query": "143.208.57.59",
             "type": "http",
             "port": "8080",
-            "response_time": 4.0
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "01",
-            "regionName": "Guatemala",
-            "city": "Guatemala City",
-            "zip": "01001",
-            "lat": 14.6343,
-            "lon": -90.5155,
-            "timezone": "America/Guatemala",
-            "isp": "Conectividad Y Tecnologia S.A.",
-            "org": "Conectividad Y Tecnologia S.A",
-            "as": "AS266755 CONECTIVIDAD Y TECNOLOGIA S.A.",
-            "query": "45.233.67.226",
-            "type": "http",
-            "port": "999",
-            "response_time": 4.01
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "01",
-            "regionName": "Guatemala",
-            "city": "Guatemala City",
-            "zip": "01001",
-            "lat": 14.6343,
-            "lon": -90.5155,
-            "timezone": "America/Guatemala",
-            "isp": "INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD AN\u00d3NIMA",
-            "org": "",
-            "as": "AS274038 INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD AN\u00d3NIMA",
-            "query": "38.199.88.1",
-            "type": "http",
-            "port": "999",
-            "response_time": 4.15
+            "response_time": 12.65
         },
         {
             "status": "success",
@@ -112,29 +112,10 @@
             "isp": "Ufinet Panama S.A.",
             "org": "UFINET Guatemala S. A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "181.119.111.59",
+            "query": "181.119.111.239",
             "type": "http",
             "port": "999",
-            "response_time": 9.12
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "15",
-            "regionName": "Baja Verapaz",
-            "city": "Salam\u00e1",
-            "zip": "15001",
-            "lat": 15.0992,
-            "lon": -90.2634,
-            "timezone": "America/Guatemala",
-            "isp": "Central De Redes Y Comunicaciones De Guatemala S.A",
-            "org": "Central De Redes Y Comunicaciones De Guatemala S.A",
-            "as": "AS272818 CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "query": "38.52.209.229",
-            "type": "http",
-            "port": "999",
-            "response_time": 10.16
+            "response_time": 14.5
         }
     ]
 }
