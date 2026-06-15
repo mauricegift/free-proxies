@@ -1,8 +1,27 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "193.233.128.128",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.27
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -20,7 +39,7 @@
             "query": "77.110.116.93",
             "type": "http",
             "port": "7443",
-            "response_time": 4.72
+            "response_time": 10.84
         }
     ]
 }
