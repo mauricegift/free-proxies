@@ -1,8 +1,27 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "AJ",
+            "regionName": "Adjara",
+            "city": "Batumi",
+            "zip": "",
+            "lat": 41.6473,
+            "lon": 41.6258,
+            "timezone": "Asia/Tbilisi",
+            "isp": "JSC \"Silknet\"",
+            "org": "UTG MPLS DSL",
+            "as": "AS35805 JSC Silknet",
+            "query": "94.43.164.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.9
+        },
         {
             "status": "success",
             "country": "Georgia",
@@ -14,13 +33,13 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online LLC",
-            "org": "",
-            "as": "AS16010 Magticom Ltd.",
-            "query": "188.129.255.58",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.115",
             "type": "http",
-            "port": "80",
-            "response_time": 9.36
+            "port": "8080",
+            "response_time": 8.08
         }
     ]
 }
