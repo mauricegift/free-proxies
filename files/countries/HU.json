@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "PE",
-            "regionName": "Pest County",
-            "city": "\u00c9rd",
-            "zip": "2030",
-            "lat": 47.3949,
-            "lon": 18.9136,
-            "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-            "org": "HDSNET",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "94.21.248.27",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.23
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,7 +20,45 @@
             "query": "84.2.239.42",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.54
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+            "org": "HDSNET",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "94.21.248.27",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.42
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1011",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "Pro-M Zrt.",
+            "org": "Techno-Tel Kft",
+            "as": "AS47169 Pro-M Zrt.",
+            "query": "45.130.240.238",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.13
         }
     ]
 }
