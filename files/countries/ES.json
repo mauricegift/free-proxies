@@ -1,8 +1,27 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AR",
+            "regionName": "Aragon",
+            "city": "Zaragoza",
+            "zip": "50090",
+            "lat": 41.6579,
+            "lon": -0.8777,
+            "timezone": "Europe/Madrid",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.92.173.133",
+            "type": "http",
+            "port": "10822",
+            "response_time": 1.33
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,26 +39,26 @@
             "query": "141.227.128.55",
             "type": "http",
             "port": "3128",
-            "response_time": 2.85
+            "response_time": 7.54
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28022",
-            "lat": 40.442,
-            "lon": -3.58633,
-            "timezone": "Europe/Madrid",
-            "isp": "ZhouyiSat Communications",
-            "org": "Huize Holdings LLC",
-            "as": "AS400992 ZhouyiSat Communications",
-            "query": "185.223.82.217",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 6.68
+            "region": "CN",
+            "regionName": "Canary Islands",
+            "city": "M\u00e1cher",
+            "zip": "35571",
+            "lat": 28.9506,
+            "lon": -13.6877,
+            "timezone": "Atlantic/Canary",
+            "isp": "Suballocated IT1",
+            "org": "",
+            "as": "AS207906 VERITA NETWORKS SOCIEDAD LIMITADA",
+            "query": "195.189.190.245",
+            "type": "http",
+            "port": "9090",
+            "response_time": 13.4
         }
     ]
 }
