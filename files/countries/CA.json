@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 6,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Laval",
+            "zip": "H7W",
+            "lat": 45.5355,
+            "lon": -73.761,
+            "timezone": "America/Toronto",
+            "isp": "Le Groupe Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "24.37.245.42",
+            "type": "socks4",
+            "port": "51056",
+            "response_time": 1.71
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,7 +39,7 @@
             "query": "192.158.15.201",
             "type": "socks4",
             "port": "50877",
-            "response_time": 1.61
+            "response_time": 2.66
         },
         {
             "status": "success",
@@ -36,29 +55,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ca-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "99.79.58.74",
+            "query": "15.156.94.152",
             "type": "http",
-            "port": "39921",
-            "response_time": 2.62
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4X",
-            "lat": 45.5019,
-            "lon": -73.5674,
-            "timezone": "America/Toronto",
-            "isp": "Rica Web Services",
-            "org": "Moula World Llc",
-            "as": "AS26832 Rica Web Services",
-            "query": "86.107.168.166",
-            "type": "socks5",
-            "port": "5432",
-            "response_time": 4.15
+            "port": "3208",
+            "response_time": 3.86
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "16.52.81.236",
             "type": "http",
             "port": "25327",
-            "response_time": 4.37
+            "response_time": 5.31
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 11.19
+            "response_time": 6.16
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Mississauga",
+            "zip": "L5B",
+            "lat": 43.5752,
+            "lon": -79.6296,
+            "timezone": "America/Toronto",
+            "isp": "TekSavvy Solutions, Inc.",
+            "org": "TekSavvy Solutions Inc., Private Customer",
+            "as": "AS5645 TekSavvy Solutions, Inc.",
+            "query": "24.246.69.7",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 10.96
         },
         {
             "status": "success",
@@ -105,17 +124,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.5075,
-            "lon": -73.5887,
+            "zip": "H4X",
+            "lat": 45.5019,
+            "lon": -73.5674,
             "timezone": "America/Toronto",
-            "isp": "BrainStorm Network Inc.",
-            "org": "HostPapa",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "23.95.76.201",
-            "type": "http",
-            "port": "8443",
-            "response_time": 14.51
+            "isp": "Rica Web Services",
+            "org": "Moula World Llc",
+            "as": "AS26832 Rica Web Services",
+            "query": "86.107.168.166",
+            "type": "socks5",
+            "port": "22",
+            "response_time": 12.4
         }
     ]
 }
