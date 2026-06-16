@@ -1,27 +1,8 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "45",
-            "regionName": "Ida-Virumaa",
-            "city": "J\u00f5hvi",
-            "zip": "",
-            "lat": 59.3577,
-            "lon": 27.4222,
-            "timezone": "Europe/Tallinn",
-            "isp": "PAGM network",
-            "org": "Hosting Services",
-            "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.118.209",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.26
-        },
         {
             "status": "success",
             "country": "Estonia",
@@ -39,7 +20,26 @@
             "query": "5.101.120.25",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.37
+            "response_time": 1.86
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.45.118.209",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.34
         },
         {
             "status": "success",
@@ -56,28 +56,9 @@
             "org": "Hosting Services",
             "as": "AS198068 P.A.G.M. OU",
             "query": "5.45.125.201",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 7.55
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "37",
-            "regionName": "Harjumaa",
-            "city": "Tallinn",
-            "zip": "10001",
-            "lat": 59.4381,
-            "lon": 24.7369,
-            "timezone": "Europe/Tallinn",
-            "isp": "EternityCloud",
-            "org": "Eternity International Limited",
-            "as": "AS212743 ETERNITY INTERNATIONAL LIMITED",
-            "query": "94.183.170.198",
             "type": "socks5",
-            "port": "30000",
-            "response_time": 9.67
+            "port": "1080",
+            "response_time": 8.53
         }
     ]
 }
