@@ -1,46 +1,8 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8098",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
-            "type": "http",
-            "port": "25886",
-            "response_time": 1.87
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8001",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "GTHost",
-            "org": "Cust88530 Network",
-            "as": "AS63023 GTHost",
-            "query": "5.101.85.133",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 2.59
-        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -58,7 +20,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.32
+            "response_time": 1.76
         },
         {
             "status": "success",
@@ -77,6 +39,25 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
+            "response_time": 1.76
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
+            "timezone": "Europe/Zurich",
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.132",
+            "type": "http",
+            "port": "80",
             "response_time": 3.32
         },
         {
@@ -96,26 +77,26 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 5.14
+            "response_time": 3.67
         },
         {
             "status": "success",
             "country": "Switzerland",
             "countryCode": "CH",
-            "region": "BE",
-            "regionName": "Bern",
-            "city": "Bern",
-            "zip": "3001",
-            "lat": 46.9454,
-            "lon": 7.4531,
+            "region": "GE",
+            "regionName": "Geneva",
+            "city": "Geneva",
+            "zip": "1240",
+            "lat": 46.2052,
+            "lon": 6.142,
             "timezone": "Europe/Zurich",
-            "isp": "RouterHosting LLC",
-            "org": "anyNode",
-            "as": "AS14956 RouterHosting LLC",
-            "query": "45.59.122.132",
-            "type": "http",
-            "port": "80",
-            "response_time": 8.51
+            "isp": "Serva ONE LTD",
+            "org": "Serva ONE LTD",
+            "as": "AS199058 SERVA ONE LTD",
+            "query": "45.85.93.15",
+            "type": "socks5",
+            "port": "4567",
+            "response_time": 3.96
         }
     ]
 }
