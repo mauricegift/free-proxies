@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.5243,
+            "lon": 3.3792,
+            "timezone": "Africa/Lagos",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Services, Inc",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "129.222.204.27",
+            "type": "http",
+            "port": "10000",
+            "response_time": 10.69
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -14,13 +33,13 @@
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "MainOne",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.97.62",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.18
+            "isp": "Globacom Limited",
+            "org": "Globacom",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.83.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.7
         }
     ]
 }
