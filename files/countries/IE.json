@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "34.246.183.20",
             "type": "http",
-            "port": "42457",
-            "response_time": 2.21
+            "port": "501",
+            "response_time": 1.97
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "D02",
+            "lat": 53.3498,
+            "lon": -6.26031,
+            "timezone": "Europe/Dublin",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.16.215.4",
+            "type": "http",
+            "port": "9471",
+            "response_time": 3.85
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "108.131.109.106",
             "type": "http",
             "port": "6475",
-            "response_time": 3.72
+            "response_time": 4.63
         },
         {
             "status": "success",
@@ -49,16 +68,16 @@
             "regionName": "Leinster",
             "city": "Dublin",
             "zip": "D02",
-            "lat": 53.3354,
-            "lon": -6.252,
+            "lat": 53.3498,
+            "lon": -6.26031,
             "timezone": "Europe/Dublin",
-            "isp": "MacStadium, Inc.",
-            "org": "MacStadium, Inc.",
-            "as": "AS30377 MacStadium, Inc.",
-            "query": "207.254.71.62",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "34.246.183.20",
             "type": "http",
-            "port": "8088",
-            "response_time": 5.51
+            "port": "42457",
+            "response_time": 6.0
         }
     ]
 }
