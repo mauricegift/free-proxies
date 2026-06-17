@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "BCI Telecommunication & Advanced Technology Company",
             "org": "Bnet Network",
             "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.9.9",
+            "query": "93.184.7.217",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.04
+            "response_time": 4.83
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "TBS",
+            "regionName": "Tubas Governorate",
+            "city": "\u0162\u016bb\u0101s",
+            "zip": "",
+            "lat": 32.3241,
+            "lon": 35.3706,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "paltel",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "83.244.79.197",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.19
         }
     ]
 }
