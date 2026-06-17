@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "PAGM network",
             "org": "Hosting Services",
             "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.118.209",
-            "type": "socks5",
+            "query": "5.45.125.201",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 0.92
+            "response_time": 2.58
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "5.101.120.25",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.08
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "45",
-            "regionName": "Ida-Virumaa",
-            "city": "J\u00f5hvi",
-            "zip": "",
-            "lat": 59.3577,
-            "lon": 27.4222,
-            "timezone": "Europe/Tallinn",
-            "isp": "PAGM network",
-            "org": "Hosting Services",
-            "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.125.201",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.41
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "37",
-            "regionName": "Harjumaa",
-            "city": "Tallinn",
-            "zip": "",
-            "lat": 59.4369,
-            "lon": 24.7535,
-            "timezone": "Europe/Tallinn",
-            "isp": "HZ Hosting Ltd",
-            "org": "HZ Hosting Ltd",
-            "as": "AS59711 HZ Hosting Ltd",
-            "query": "89.150.40.241",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.05
+            "response_time": 6.82
         }
     ]
 }
