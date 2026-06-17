@@ -1,8 +1,46 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "MB",
+            "regionName": "Manitoba",
+            "city": "Winnipeg",
+            "zip": "R3N1R8",
+            "lat": 49.8728,
+            "lon": -97.2018,
+            "timezone": "America/Winnipeg",
+            "isp": "Fastnet Communications",
+            "org": "Fastnet Communications",
+            "as": "AS394352 FlexNetworks",
+            "query": "45.95.38.57",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 0.59
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "timezone": "America/Toronto",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "35.183.127.162",
+            "type": "http",
+            "port": "58011",
+            "response_time": 2.32
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,26 +58,26 @@
             "query": "45.73.0.118",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.63
+            "response_time": 4.06
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "MB",
-            "regionName": "Manitoba",
-            "city": "Winnipeg",
-            "zip": "R3N1R8",
-            "lat": 49.8728,
-            "lon": -97.2018,
-            "timezone": "America/Winnipeg",
-            "isp": "Fastnet Communications",
-            "org": "Fastnet Communications",
-            "as": "AS394352 FlexNetworks",
-            "query": "45.95.38.57",
-            "type": "socks5",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Mississauga",
+            "zip": "L5B",
+            "lat": 43.5752,
+            "lon": -79.6296,
+            "timezone": "America/Toronto",
+            "isp": "TekSavvy Solutions, Inc.",
+            "org": "TekSavvy Solutions Inc., Private Customer",
+            "as": "AS5645 TekSavvy Solutions, Inc.",
+            "query": "24.246.69.7",
+            "type": "socks4",
             "port": "9050",
-            "response_time": 17.17
+            "response_time": 11.43
         }
     ]
 }
