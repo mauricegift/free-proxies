@@ -1,26 +1,26 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Ventersdorp",
-            "zip": "2710",
-            "lat": -26.314,
-            "lon": 26.8222,
+            "region": "KZN",
+            "regionName": "KwaZulu-Natal",
+            "city": "Durban",
+            "zip": "4001",
+            "lat": -29.8553,
+            "lon": 31.0428,
             "timezone": "Africa/Johannesburg",
-            "isp": "HERO TELECOMS (PTY) LTD",
-            "org": "Herotel",
-            "as": "AS328471 HERO TELECOMS (PTY) LTD",
-            "query": "196.216.133.18",
+            "isp": "ispot-core",
+            "org": "",
+            "as": "AS327922 Perlcom CC T/A iSPOT",
+            "query": "169.239.45.51",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 2.95
+            "port": "4153",
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "102.206.118.204",
             "type": "http",
             "port": "8088",
-            "response_time": 4.99
+            "response_time": 3.08
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "4.221.164.109",
             "type": "http",
             "port": "443",
-            "response_time": 5.8
+            "response_time": 3.96
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "4.221.164.109",
             "type": "http",
             "port": "80",
-            "response_time": 5.81
+            "response_time": 5.08
         },
         {
             "status": "success",
@@ -90,32 +90,70 @@
             "lat": -26.2309,
             "lon": 28.0583,
             "timezone": "Africa/Johannesburg",
-            "isp": "OM-SN-46/24",
+            "isp": "OM-SN-44/24",
             "org": "",
             "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
-            "query": "102.212.46.48",
+            "query": "102.212.44.158",
             "type": "http",
             "port": "12354",
-            "response_time": 7.38
+            "response_time": 6.53
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2001",
-            "lat": -26.20229,
-            "lon": 28.034195,
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Ventersdorp",
+            "zip": "2710",
+            "lat": -26.314,
+            "lon": 26.8222,
             "timezone": "Africa/Johannesburg",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (southafricanorth)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "4.221.164.109",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "196.216.133.18",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.37
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "WC",
+            "regionName": "Western Cape",
+            "city": "Cape Town",
+            "zip": "7945",
+            "lat": -33.9258,
+            "lon": 18.4259,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Bluedog Technology",
+            "org": "Bluedog Technology",
+            "as": "AS329181 Bluedog Technology",
+            "query": "102.217.139.31",
             "type": "http",
-            "port": "9443",
-            "response_time": 9.92
+            "port": "8180",
+            "response_time": 9.76
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Potchefstroom",
+            "zip": "2531",
+            "lat": -26.7168,
+            "lon": 27.1054,
+            "timezone": "Africa/Johannesburg",
+            "isp": "JENNY Network",
+            "org": "",
+            "as": "AS327750 JENNY INTERNET (PTY) LTD",
+            "query": "154.126.213.5",
+            "type": "http",
+            "port": "8080",
+            "response_time": 17.83
         }
     ]
 }
