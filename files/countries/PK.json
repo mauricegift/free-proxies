@@ -1,27 +1,8 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75600",
-            "lat": 24.7929,
-            "lon": 66.9719,
-            "timezone": "Asia/Karachi",
-            "isp": "Multinet 125-110/24",
-            "org": "Multinet Pakistan Pvt. Ltd.",
-            "as": "AS9260 Multinet Pakistan Pvt. Ltd.",
-            "query": "125.209.110.83",
-            "type": "socks4",
-            "port": "1981",
-            "response_time": 2.26
-        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -30,16 +11,35 @@
             "regionName": "Islamabad",
             "city": "Islamabad",
             "zip": "44000",
-            "lat": 33.7185,
-            "lon": 73.0534,
+            "lat": 33.7281,
+            "lon": 73.075,
             "timezone": "Asia/Karachi",
-            "isp": "LDNPK",
-            "org": "Linkdotnet Telecom Limited",
-            "as": "AS138655 Trans World Enterprise Services (Private) Limited",
-            "query": "119.73.125.55",
+            "isp": "LINKdotNET Telecom Limited",
+            "org": "Ldnpk As23966",
+            "as": "AS23966 LINKdotNET Telecom Limited",
+            "query": "202.154.241.199",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.1
+            "port": "808",
+            "response_time": 5.41
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75660",
+            "lat": 24.8021,
+            "lon": 67.0298,
+            "timezone": "Asia/Karachi",
+            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
+            "org": "TW RO",
+            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
+            "query": "110.93.206.62",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.5
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "43.251.253.40",
             "type": "http",
             "port": "8080",
-            "response_time": 6.0
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75600",
-            "lat": 24.7929,
-            "lon": 66.9719,
-            "timezone": "Asia/Karachi",
-            "isp": "Multinet 125-110/24",
-            "org": "Multinet Pakistan Pvt. Ltd.",
-            "as": "AS9260 Multinet Pakistan Pvt. Ltd.",
-            "query": "125.209.110.83",
-            "type": "http",
-            "port": "39617",
-            "response_time": 6.57
+            "response_time": 10.71
         }
     ]
 }
