@@ -1,7 +1,7 @@
 {
     "countryCode": "NO",
     "country": "Norway",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.101.35.55",
             "type": "socks4",
             "port": "9050",
-            "response_time": 3.27
+            "response_time": 7.16
+        },
+        {
+            "status": "success",
+            "country": "Norway",
+            "countryCode": "NO",
+            "region": "03",
+            "regionName": "Oslo",
+            "city": "Oslo",
+            "zip": "0001",
+            "lat": 59.9122,
+            "lon": 10.7313,
+            "timezone": "Europe/Oslo",
+            "isp": "ServeTheWorld",
+            "org": "Servetheworld VPS",
+            "as": "AS34989 ServeTheWorld AS",
+            "query": "185.101.35.55",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 7.16
         }
     ]
 }
