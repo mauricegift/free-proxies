@@ -1,27 +1,8 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "NWT",
-            "regionName": "New Taipei City",
-            "city": "New Taipei City",
-            "zip": "",
-            "lat": 25.0693,
-            "lon": 121.4626,
-            "timezone": "Asia/Taipei",
-            "isp": "Sony Network Taiwan Limited",
-            "org": "SONET",
-            "as": "AS18182 Sony Network Taiwan Limited",
-            "query": "219.84.152.119",
-            "type": "http",
-            "port": "3128",
-            "response_time": 3.14
-        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -39,7 +20,45 @@
             "query": "219.84.152.65",
             "type": "http",
             "port": "3128",
-            "response_time": 4.31
+            "response_time": 2.15
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "Xindian District",
+            "zip": "",
+            "lat": 24.9547,
+            "lon": 121.5354,
+            "timezone": "Asia/Taipei",
+            "isp": "Extra-Lan Technologies Co., LTD",
+            "org": "cgnet",
+            "as": "AS18429 Extra-Lan Technologies Co., LTD",
+            "query": "27.147.28.73",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.52
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "New Taipei City",
+            "zip": "",
+            "lat": 25.0693,
+            "lon": 121.4626,
+            "timezone": "Asia/Taipei",
+            "isp": "Sony Network Taiwan Limited",
+            "org": "SONET",
+            "as": "AS18182 Sony Network Taiwan Limited",
+            "query": "219.84.152.119",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.29
         }
     ]
 }
