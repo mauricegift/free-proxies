@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.73
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "78",
-            "regionName": "Calabria",
-            "city": "Corigliano-Rossano",
-            "zip": "87064",
-            "lat": 39.6244,
-            "lon": 16.5225,
-            "timezone": "Europe/Rome",
-            "isp": "Europsys S.r.l.",
-            "org": "Europsys S.r.l",
-            "as": "AS202347 Europsys S.p.A.",
-            "query": "194.146.164.66",
-            "type": "socks4",
-            "port": "37846",
-            "response_time": 3.27
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Rome",
-            "zip": "00191",
-            "lat": 41.8905,
-            "lon": 12.5127,
-            "timezone": "Europe/Rome",
-            "isp": "Telecom Italia S.p.A.",
-            "org": "INTERBUSINESS",
-            "as": "AS3269 Telecom Italia S.p.A.",
-            "query": "95.244.215.67",
-            "type": "http",
-            "port": "8081",
-            "response_time": 5.92
+            "response_time": 2.87
         },
         {
             "status": "success",
@@ -66,18 +28,37 @@
             "countryCode": "IT",
             "region": "52",
             "regionName": "Tuscany",
-            "city": "Arezzo",
-            "zip": "52100",
-            "lat": 43.4631,
-            "lon": 11.8783,
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
             "timezone": "Europe/Rome",
-            "isp": "Aruba S.p.A.",
-            "org": "Aruba S.p.A.",
-            "as": "AS31034 Aruba S.p.A.",
-            "query": "77.81.230.90",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
             "type": "socks4",
-            "port": "9050",
-            "response_time": 15.59
+            "port": "4145",
+            "response_time": 8.01
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
+            "type": "http",
+            "port": "8081",
+            "response_time": 8.12
         }
     ]
 }
