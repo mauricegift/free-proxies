@@ -1,7 +1,7 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "190.14.5.164",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.53
+            "response_time": 3.45
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01014",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "Infinitum S.A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "45.228.233.78",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.46
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 14.6343,
             "lon": -90.5155,
             "timezone": "America/Guatemala",
-            "isp": "Ufinet Panama S.A.",
-            "org": "UFINET Guatemala S. A",
-            "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "186.33.5.13",
+            "isp": "Comcel Guatemala S.A.",
+            "org": "Navega.com S.A",
+            "as": "AS23243 COMCEL GUATEMALA S.A.",
+            "query": "148.230.27.77",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.26
+            "port": "999",
+            "response_time": 10.66
         },
         {
             "status": "success",
@@ -48,17 +67,17 @@
             "region": "01",
             "regionName": "Guatemala",
             "city": "Guatemala City",
-            "zip": "01001",
+            "zip": "01014",
             "lat": 14.6343,
             "lon": -90.5155,
             "timezone": "America/Guatemala",
-            "isp": "INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD AN\u00d3NIMA",
-            "org": "",
-            "as": "AS274038 INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD AN\u00d3NIMA",
-            "query": "38.199.88.104",
+            "isp": "Ufinet Panama S.A.",
+            "org": "Infinitum S.A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "45.228.233.91",
             "type": "http",
             "port": "999",
-            "response_time": 13.81
+            "response_time": 12.09
         }
     ]
 }
