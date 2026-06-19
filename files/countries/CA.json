@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H2A",
+            "lat": 45.562,
+            "lon": -73.6002,
+            "timezone": "America/Toronto",
+            "isp": "Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "45.73.0.118",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.66
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,45 +39,7 @@
             "query": "24.37.245.42",
             "type": "socks4",
             "port": "51056",
-            "response_time": 2.61
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "ON",
-            "regionName": "Ontario",
-            "city": "Toronto",
-            "zip": "L4L",
-            "lat": 43.8072,
-            "lon": -79.5946,
-            "timezone": "America/Toronto",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "140.238.156.12",
-            "type": "http",
-            "port": "1080",
-            "response_time": 5.2
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "MB",
-            "regionName": "Manitoba",
-            "city": "Winnipeg",
-            "zip": "R3N1R8",
-            "lat": 49.8728,
-            "lon": -97.2018,
-            "timezone": "America/Winnipeg",
-            "isp": "Fastnet Communications",
-            "org": "Fastnet Communications",
-            "as": "AS394352 FlexNetworks",
-            "query": "45.95.38.57",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 6.87
+            "response_time": 3.98
         },
         {
             "status": "success",
@@ -77,7 +58,45 @@
             "query": "24.246.69.7",
             "type": "socks4",
             "port": "9050",
-            "response_time": 18.5
+            "response_time": 5.47
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H3H",
+            "lat": 45.5075,
+            "lon": -73.5887,
+            "timezone": "America/Toronto",
+            "isp": "Rica Web Services",
+            "org": "Rica Web Services",
+            "as": "AS26832 Rica Web Services",
+            "query": "38.49.210.79",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 7.58
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "L4L",
+            "lat": 43.8072,
+            "lon": -79.5946,
+            "timezone": "America/Toronto",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "140.238.156.12",
+            "type": "http",
+            "port": "1080",
+            "response_time": 12.45
         }
     ]
 }
