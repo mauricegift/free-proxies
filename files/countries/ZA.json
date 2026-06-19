@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 8,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS8075 Microsoft Corporation",
             "query": "4.221.164.109",
             "type": "http",
-            "port": "9443",
-            "response_time": 1.77
+            "port": "80",
+            "response_time": 1.74
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Brits",
+            "zip": "0250",
+            "lat": -25.6356,
+            "lon": 27.7849,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Info-Gro (PTY) Ltd",
+            "org": "Infogro DSL",
+            "as": "AS37403 Info-Gro (PTY) Ltd",
+            "query": "196.251.223.54",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.71
         },
         {
             "status": "success",
@@ -38,46 +57,8 @@
             "as": "AS8075 Microsoft Corporation",
             "query": "4.221.164.109",
             "type": "http",
-            "port": "80",
-            "response_time": 2.07
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "KZN",
-            "regionName": "KwaZulu-Natal",
-            "city": "Durban",
-            "zip": "4001",
-            "lat": -29.863,
-            "lon": 31.0266,
-            "timezone": "Africa/Johannesburg",
-            "isp": "AxxessNetworks",
-            "org": "",
-            "as": "AS37611 AFRIHOST SP (PTY) LTD",
-            "query": "156.155.50.93",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.03
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "NW",
-            "regionName": "North West",
-            "city": "Ventersdorp",
-            "zip": "2710",
-            "lat": -26.314,
-            "lon": 26.8222,
-            "timezone": "Africa/Johannesburg",
-            "isp": "HERO TELECOMS (PTY) LTD",
-            "org": "Herotel",
-            "as": "AS328471 HERO TELECOMS (PTY) LTD",
-            "query": "196.216.133.18",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.47
+            "port": "9443",
+            "response_time": 4.12
         },
         {
             "status": "success",
@@ -96,45 +77,7 @@
             "query": "4.221.164.109",
             "type": "http",
             "port": "443",
-            "response_time": 7.17
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Germiston",
-            "zip": "1401",
-            "lat": -26.2135,
-            "lon": 28.1858,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Screamer Telecommunications",
-            "org": "Screamer Telecommunications",
-            "as": "AS327688 Screamer Telecommunications",
-            "query": "41.57.35.211",
-            "type": "http",
-            "port": "6060",
-            "response_time": 9.52
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Johannesburg",
-            "zip": "2193",
-            "lat": -26.2023,
-            "lon": 28.0436,
-            "timezone": "Africa/Johannesburg",
-            "isp": "FTH SCR P9",
-            "org": "",
-            "as": "AS327688 Screamer Telecommunications",
-            "query": "41.57.63.1",
-            "type": "http",
-            "port": "8103",
-            "response_time": 9.97
+            "response_time": 5.63
         },
         {
             "status": "success",
@@ -153,7 +96,7 @@
             "query": "196.250.239.229",
             "type": "http",
             "port": "8787",
-            "response_time": 11.55
+            "response_time": 9.2
         }
     ]
 }
