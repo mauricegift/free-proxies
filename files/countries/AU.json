@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "The Rocks",
-            "zip": "2000",
-            "lat": -33.86,
-            "lon": 151.2094,
-            "timezone": "Australia/Sydney",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (australiaeast)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "13.73.194.134",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.73
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -39,7 +20,45 @@
             "query": "203.30.9.8",
             "type": "http",
             "port": "8443",
-            "response_time": 9.99
+            "response_time": 2.12
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "Contabo Asia Private Limited",
+            "org": "Yorkshire Tech Limited",
+            "as": "AS141995 Contabo Asia Private Limited",
+            "query": "46.250.241.190",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.21
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "Contabo Asia Private Limited",
+            "org": "Yorkshire Tech Limited",
+            "as": "AS141995 Contabo Asia Private Limited",
+            "query": "46.250.241.229",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.8
         }
     ]
 }
