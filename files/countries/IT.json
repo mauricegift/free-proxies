@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "46.21.186.252",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.25
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "78",
-            "regionName": "Calabria",
-            "city": "Corigliano-Rossano",
-            "zip": "87064",
-            "lat": 39.6244,
-            "lon": 16.5225,
-            "timezone": "Europe/Rome",
-            "isp": "Europsys S.r.l.",
-            "org": "Europsys S.r.l",
-            "as": "AS202347 Europsys S.p.A.",
-            "query": "194.146.164.66",
-            "type": "socks4",
-            "port": "37846",
-            "response_time": 2.16
+            "response_time": 0.61
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.24
+            "response_time": 0.63
         },
         {
             "status": "success",
@@ -75,9 +56,47 @@
             "org": "Europsys S.r.l",
             "as": "AS202347 Europsys S.p.A.",
             "query": "194.146.164.66",
+            "type": "socks4",
+            "port": "37846",
+            "response_time": 3.66
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
             "type": "http",
-            "port": "8080",
-            "response_time": 14.81
+            "port": "8443",
+            "response_time": 4.95
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "72",
+            "regionName": "Campania",
+            "city": "Naples",
+            "zip": "80126",
+            "lat": 40.8449,
+            "lon": 14.2716,
+            "timezone": "Europe/Rome",
+            "isp": "Vodafone",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "5.95.121.180",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.56
         }
     ]
 }
