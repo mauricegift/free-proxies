@@ -1,26 +1,45 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Cambodia",
             "countryCode": "KH",
-            "region": "17",
-            "regionName": "Siem Reap",
-            "city": "Siem Reap",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
             "zip": "",
-            "lat": 13.3618,
-            "lon": 103.861,
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "WiCAM Corporation Ltd",
+            "org": "WiCAM Corporation, LTD",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "119.15.89.87",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.39
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
             "isp": "COGETEL Co., Ltd",
             "org": "Cogetel Ltd",
             "as": "AS23673 Cogetel Online, Cambodia, ISP",
-            "query": "103.197.242.106",
+            "query": "124.248.164.36",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.41
+            "response_time": 2.27
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "36.37.203.215",
             "type": "socks4",
             "port": "4153",
-            "response_time": 4.56
+            "response_time": 6.7
         },
         {
             "status": "success",
@@ -52,13 +71,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "ONLINE",
-            "org": "",
+            "isp": "COGETEL Co",
+            "org": "Cogetel Ltd",
             "as": "AS23673 Cogetel Online, Cambodia, ISP",
-            "query": "203.189.159.241",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.85
+            "query": "110.235.250.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.29
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "49.156.44.166",
             "type": "http",
             "port": "8080",
-            "response_time": 6.67
+            "response_time": 11.74
         }
     ]
 }
