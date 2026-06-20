@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "187.77.156.136",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.06
+            "response_time": 2.15
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "175.143.19.216",
             "type": "http",
             "port": "8081",
-            "response_time": 6.26
+            "response_time": 4.36
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "55000",
+            "lat": 3.1502,
+            "lon": 101.7254,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.139.200.17",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 8.3
         }
     ]
 }
