@@ -1,26 +1,45 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Goulburn",
-            "zip": "2580",
-            "lat": -34.7591,
-            "lon": 149.7225,
-            "timezone": "Australia/Sydney",
-            "isp": "YLess4U Pty Ltd",
-            "org": "RemoteISP Pty Ltd",
-            "as": "AS45447 YLess4U Regional Broadband",
-            "query": "103.131.232.9",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
+            "timezone": "Australia/Melbourne",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
             "type": "http",
             "port": "8080",
-            "response_time": 9.82
+            "response_time": 6.69
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3150",
+            "lat": -37.8766,
+            "lon": 145.1623,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.12
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "46.250.241.190",
             "type": "http",
             "port": "8080",
-            "response_time": 14.99
+            "response_time": 9.78
         }
     ]
 }
