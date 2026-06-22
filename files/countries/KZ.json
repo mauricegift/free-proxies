@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "63",
+            "regionName": "East Kazakhstan",
+            "city": "\u00d6skemen Qalalyq \u00c4kimshiligi",
+            "zip": "",
+            "lat": 49.9749,
+            "lon": 82.6017,
+            "timezone": "Asia/Almaty",
+            "isp": "Kazakhtelecom Data Network Administration",
+            "org": "AO Ust-Kamenogorskiy Armaturniy Zavod",
+            "as": "AS9198 JSC Kazakhtelecom",
+            "query": "82.200.236.130",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.15
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -10,17 +29,17 @@
             "region": "75",
             "regionName": "Almaty",
             "city": "Almaty",
-            "zip": "",
+            "zip": "050000",
             "lat": 43.2525,
             "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "Netfire TEC",
-            "org": "",
-            "as": "AS205431 HostLab LLC",
-            "query": "176.12.72.62",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.06
+            "isp": "Kcell JSC",
+            "org": "\"KCell\" JSC",
+            "as": "AS29355 Kcell JSC",
+            "query": "2.78.60.10",
+            "type": "http",
+            "port": "3129",
+            "response_time": 2.85
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "176.12.72.62",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.06
+            "response_time": 6.29
         }
     ]
 }
