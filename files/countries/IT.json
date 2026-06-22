@@ -1,8 +1,46 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Empoli",
+            "zip": "50053",
+            "lat": 43.7179,
+            "lon": 10.9478,
+            "timezone": "Europe/Rome",
+            "isp": "Leonet srl Empoli",
+            "org": "Leonet SRL",
+            "as": "AS15691 UAN COMPANY S.R.L.",
+            "query": "212.77.75.25",
+            "type": "http",
+            "port": "3129",
+            "response_time": 1.0
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Bergamo",
+            "zip": "24129",
+            "lat": 45.7049,
+            "lon": 9.6698,
+            "timezone": "Europe/Rome",
+            "isp": "Planetel srl",
+            "org": "",
+            "as": "AS47217 Planetel SPA",
+            "query": "46.21.186.252",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.36
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +58,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.37
+            "response_time": 5.57
         }
     ]
 }
