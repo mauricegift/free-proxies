@@ -1,26 +1,26 @@
 {
     "countryCode": "DO",
     "country": "Dominican Republic",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Dominican Republic",
             "countryCode": "DO",
-            "region": "01",
-            "regionName": "Nacional",
-            "city": "Santo Domingo",
-            "zip": "10203",
-            "lat": 18.4615,
-            "lon": -69.8965,
+            "region": "32",
+            "regionName": "Santo Domingo Province",
+            "city": "Los Alcarrizos",
+            "zip": "10801",
+            "lat": 18.5189,
+            "lon": -70.0174,
             "timezone": "America/Santo_Domingo",
-            "isp": "Cogent Communications",
-            "org": "Alcome Tech SRL",
-            "as": "AS273217 ACOLME TECH, SRL",
-            "query": "38.75.82.218",
+            "isp": "Aaronka Dominicana SRL",
+            "org": "Aaronka Dominicana, SRL",
+            "as": "AS273864 AARONKA DOMINICANA SRL",
+            "query": "38.224.150.83",
             "type": "http",
             "port": "999",
-            "response_time": 6.34
+            "response_time": 1.15
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "Cogent Communications",
             "org": "Alcome Tech SRL",
             "as": "AS273217 ACOLME TECH, SRL",
-            "query": "38.75.81.10",
+            "query": "38.75.82.216",
             "type": "http",
             "port": "999",
-            "response_time": 9.39
+            "response_time": 6.77
+        },
+        {
+            "status": "success",
+            "country": "Dominican Republic",
+            "countryCode": "DO",
+            "region": "01",
+            "regionName": "Nacional",
+            "city": "Santo Domingo",
+            "zip": "10203",
+            "lat": 18.4615,
+            "lon": -69.8965,
+            "timezone": "America/Santo_Domingo",
+            "isp": "Cogent Communications",
+            "org": "Alcome Tech SRL",
+            "as": "AS273217 ACOLME TECH, SRL",
+            "query": "38.75.82.215",
+            "type": "http",
+            "port": "999",
+            "response_time": 7.18
         }
     ]
 }
