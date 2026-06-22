@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "Goulburn",
-            "zip": "2580",
-            "lat": -34.7591,
-            "lon": 149.7225,
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
             "timezone": "Australia/Sydney",
-            "isp": "YLess4U Pty Ltd",
-            "org": "RemoteISP Pty Ltd",
-            "as": "AS45447 YLess4U Regional Broadband",
-            "query": "103.131.232.9",
+            "isp": "BrainStorm Network",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "103.106.231.75",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.52
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4006",
+            "lat": -27.4417,
+            "lon": 153.0197,
+            "timezone": "Australia/Brisbane",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "180.181.215.232",
             "type": "http",
-            "port": "8080",
-            "response_time": 12.22
+            "port": "3128",
+            "response_time": 3.78
         }
     ]
 }
