@@ -1,27 +1,8 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "HSQ",
-            "regionName": "Hsinchu City",
-            "city": "Hsinchu",
-            "zip": "",
-            "lat": 24.8065,
-            "lon": 120.9706,
-            "timezone": "Asia/Taipei",
-            "isp": "Chunghwa Telecom Co., Ltd.",
-            "org": "Chunghwa Telecom Co. Ltd.",
-            "as": "AS3462 Data Communication Business Group",
-            "query": "61.230.49.80",
-            "type": "http",
-            "port": "80",
-            "response_time": 5.06
-        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -37,9 +18,9 @@
             "org": "Ipxo Limited",
             "as": "AS401443 WAP.AC LLC",
             "query": "85.237.207.223",
-            "type": "socks5",
+            "type": "socks4",
             "port": "50161",
-            "response_time": 16.39
+            "response_time": 7.06
         }
     ]
 }
