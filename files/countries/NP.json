@@ -1,8 +1,27 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Patan",
+            "zip": "",
+            "lat": 27.6744,
+            "lon": 85.3123,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Nepal Telecommunications Corporation",
+            "org": "Nepal Telecommunications Corporation",
+            "as": "AS23752 Nepal Telecommunications Corporation, Internet Services,",
+            "query": "202.70.80.153",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.61
+        },
         {
             "status": "success",
             "country": "Nepal",
@@ -20,7 +39,7 @@
             "query": "124.41.213.174",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.42
+            "response_time": 1.89
         },
         {
             "status": "success",
@@ -30,16 +49,16 @@
             "regionName": "Bagmati Province",
             "city": "Kathmandu",
             "zip": "",
-            "lat": 27.7017,
-            "lon": 85.3206,
+            "lat": 27.6856,
+            "lon": 85.346,
             "timezone": "Asia/Kathmandu",
-            "isp": "Classic Tech Pvt. Ltd",
-            "org": "ClassicTech",
-            "as": "AS55915 Classic Tech Pvt. Ltd.",
-            "query": "103.1.93.184",
+            "isp": "Websurfer Nepal Communication System Pvt. Ltd",
+            "org": "Websurfer Nepal Communication System Pvt. Ltd",
+            "as": "AS24550 Websurfer Nepal Internet Service Provider",
+            "query": "116.90.224.50",
             "type": "http",
-            "port": "55443",
-            "response_time": 20.52
+            "port": "8080",
+            "response_time": 9.71
         }
     ]
 }
