@@ -1,8 +1,27 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2081,
+            "lon": 16.3713,
+            "timezone": "Europe/Vienna",
+            "isp": "M247 Europe SRL",
+            "org": "Urban Network Solutions SRL",
+            "as": "AS9009 M247 Europe SRL",
+            "query": "85.121.51.40",
+            "type": "http",
+            "port": "9091",
+            "response_time": 2.81
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -20,7 +39,7 @@
             "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.55
+            "response_time": 4.12
         }
     ]
 }
