@@ -1,8 +1,27 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1872,
+            "lon": 44.5152,
+            "timezone": "Asia/Yerevan",
+            "isp": "Data Campus Limited",
+            "org": "Data Campus Limited",
+            "as": "AS215929 Data Campus Limited",
+            "query": "45.142.195.110",
+            "type": "socks4",
+            "port": "995",
+            "response_time": 2.06
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -20,45 +39,7 @@
             "query": "130.193.123.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.86
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
-            "timezone": "Asia/Yerevan",
-            "isp": "Ucom CJSC",
-            "org": "Ucom",
-            "as": "AS44395 Ucom CJSC",
-            "query": "81.16.9.222",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 2.52
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
-            "timezone": "Asia/Yerevan",
-            "isp": "Fnet LLC",
-            "org": "",
-            "as": "AS205368 Fnet LLC",
-            "query": "185.215.53.217",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 2.78
+            "response_time": 8.22
         }
     ]
 }
