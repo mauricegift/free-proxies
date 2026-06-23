@@ -1,8 +1,46 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "",
+            "lat": 51.1876,
+            "lon": 71.4491,
+            "timezone": "Asia/Almaty",
+            "isp": "NLS ASTANA LLP",
+            "org": "Beget",
+            "as": "AS205516 NLS ASTANA LLP",
+            "query": "89.169.37.254",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.31
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "JSC \"TIMEWEB\"",
+            "org": "TW Cloud",
+            "as": "AS9123 JSC TIMEWEB",
+            "query": "45.10.40.218",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.27
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,26 +58,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 2.83
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "",
-            "lat": 51.1876,
-            "lon": 71.4491,
-            "timezone": "Asia/Almaty",
-            "isp": "Kar-Tel LLC",
-            "org": "2DAY Telecom LLP",
-            "as": "AS21299 Kar-Tel LLC",
-            "query": "91.244.106.26",
-            "type": "socks4",
-            "port": "1090",
-            "response_time": 5.87
+            "response_time": 3.66
         },
         {
             "status": "success",
@@ -58,26 +77,26 @@
             "query": "176.12.74.0",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.33
+            "response_time": 3.66
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
             "zip": "",
-            "lat": 51.1876,
-            "lon": 71.4491,
+            "lat": 43.2525,
+            "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "NLS ASTANA LLP",
-            "org": "Beget",
-            "as": "AS205516 NLS ASTANA LLP",
-            "query": "89.169.37.254",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 9.7
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.72.62",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.93
         }
     ]
 }
