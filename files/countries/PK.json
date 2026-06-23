@@ -1,8 +1,46 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Manhala",
+            "zip": "",
+            "lat": 31.5333,
+            "lon": 74.55,
+            "timezone": "Asia/Karachi",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.63
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60700",
+            "lat": 30.2216,
+            "lon": 71.4702,
+            "timezone": "Asia/Karachi",
+            "isp": "Prime Networks",
+            "org": "Prime Networks",
+            "as": "AS138590 Prime Networks",
+            "query": "103.134.1.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.44
+        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -11,16 +49,16 @@
             "regionName": "Punjab",
             "city": "Lahore",
             "zip": "54000",
-            "lat": 31.5826,
-            "lon": 74.3276,
+            "lat": 31.5204,
+            "lon": 74.3587,
             "timezone": "Asia/Karachi",
-            "isp": "Optix Pakistan (Pvt.) Limited",
-            "org": "Optix Pakistan (Pvt.) Limited",
-            "as": "AS136384 Optix Pakistan (Pvt.) Limited",
-            "query": "43.251.253.40",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "",
+            "as": "AS9557 Paknet Limited Merged into PTCL",
+            "query": "221.120.208.25",
             "type": "http",
             "port": "8080",
-            "response_time": 9.31
+            "response_time": 13.44
         }
     ]
 }
