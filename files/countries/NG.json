@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.5243,
-            "lon": 3.3792,
+            "lat": 6.52438,
+            "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "Space Exploration Technologies Corporation",
-            "org": "SpaceX Services, Inc",
-            "as": "AS14593 Space Exploration Technologies Corporation",
-            "query": "129.222.204.27",
+            "isp": "VDT COMMUNICATIONS LIMITED",
+            "org": "Customer Emerald Schools Gbagada",
+            "as": "AS37088 VDT COMMUNICATIONS LIMITED",
+            "query": "41.216.169.82",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.66
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "RI",
+            "regionName": "Rivers State",
+            "city": "Port Harcourt",
+            "zip": "",
+            "lat": 4.7731,
+            "lon": 7.0085,
+            "timezone": "Africa/Lagos",
+            "isp": "MTN NIGERIA Communication limited",
+            "org": "MTN Nigeria",
+            "as": "AS29465 MTN NIGERIA Communication limited",
+            "query": "102.88.13.62",
             "type": "http",
-            "port": "10000",
-            "response_time": 2.13
+            "port": "8080",
+            "response_time": 12.01
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Eti-Osa",
+            "city": "Lekki",
             "zip": "",
-            "lat": 6.53094,
-            "lon": 3.32648,
+            "lat": 6.43457,
+            "lon": 3.49209,
             "timezone": "Africa/Lagos",
             "isp": "Information Connectivity Solutions Limited",
             "org": "",
             "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.201.234",
+            "query": "105.235.193.46",
             "type": "socks4",
-            "port": "32639",
-            "response_time": 2.76
+            "port": "5678",
+            "response_time": 16.49
         }
     ]
 }
