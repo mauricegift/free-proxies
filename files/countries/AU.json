@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "203.30.9.8",
             "type": "http",
             "port": "8443",
-            "response_time": 2.9
+            "response_time": 3.55
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.135.215.62",
+            "query": "16.51.148.102",
             "type": "http",
-            "port": "56363",
-            "response_time": 6.21
+            "port": "4002",
+            "response_time": 5.25
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "111.235.128.218",
             "type": "socks4",
             "port": "60606",
-            "response_time": 9.1
+            "response_time": 6.75
         },
         {
             "status": "success",
@@ -66,37 +66,18 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "The Rocks",
+            "city": "Sydney",
             "zip": "2000",
-            "lat": -33.86,
-            "lon": 151.2094,
+            "lat": -33.8672,
+            "lon": 151.1997,
             "timezone": "Australia/Sydney",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (australiaeast)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "4.237.213.197",
+            "isp": "Contabo Asia Private Limited",
+            "org": "Yorkshire Tech Limited",
+            "as": "AS141995 Contabo Asia Private Limited",
+            "query": "46.250.241.229",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.66
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3150",
-            "lat": -37.8766,
-            "lon": 145.1623,
-            "timezone": "Australia/Melbourne",
-            "isp": "Wideband Networks Pty Ltd",
-            "org": "Aussie Broadband Ltd",
-            "as": "AS4764 Aussie Broadband",
-            "query": "159.196.182.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 13.37
+            "port": "3128",
+            "response_time": 14.67
         }
     ]
 }
