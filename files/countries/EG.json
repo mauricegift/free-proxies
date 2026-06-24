@@ -1,8 +1,27 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "El Shorouk",
+            "zip": "",
+            "lat": 30.1381,
+            "lon": 31.6156,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat",
+            "org": "EgyNet",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "84.36.35.206",
+            "type": "http",
+            "port": "1981",
+            "response_time": 4.52
+        },
         {
             "status": "success",
             "country": "Egypt",
@@ -17,10 +36,29 @@
             "isp": "LINKdotNET AS number",
             "org": "Link Egypt (Link.NET)",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "41.128.72.138",
+            "query": "41.128.90.52",
             "type": "http",
             "port": "1981",
-            "response_time": 11.19
+            "response_time": 5.86
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data",
+            "org": "",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.83.229",
+            "type": "http",
+            "port": "1981",
+            "response_time": 9.81
         },
         {
             "status": "success",
@@ -38,8 +76,8 @@
             "as": "AS24863 Link Egypt (Link.NET)",
             "query": "197.164.101.10",
             "type": "http",
-            "port": "1981",
-            "response_time": 13.88
+            "port": "1976",
+            "response_time": 12.73
         }
     ]
 }
