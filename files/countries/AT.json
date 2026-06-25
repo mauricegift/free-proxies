@@ -1,8 +1,46 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2082,
+            "lon": 16.3739,
+            "timezone": "Europe/Vienna",
+            "isp": "xorek.cloud International LTD",
+            "org": "xorek.cloud International LTD",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "212.113.106.198",
+            "type": "socks5",
+            "port": "987",
+            "response_time": 4.31
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "95.163.176.131",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.24
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -20,7 +58,7 @@
             "query": "178.115.255.177",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.62
+            "response_time": 5.75
         }
     ]
 }
