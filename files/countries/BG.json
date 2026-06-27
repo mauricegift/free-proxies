@@ -1,26 +1,45 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
             "timezone": "Europe/Sofia",
-            "isp": "M247 Europe SRL",
-            "org": "3NT SOLUTIONS LLP",
-            "as": "AS9009 M247 Europe SRL",
-            "query": "38.180.2.107",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
             "type": "http",
-            "port": "3128",
-            "response_time": 0.45
+            "port": "8080",
+            "response_time": 1.91
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "23",
+            "regionName": "Sofia",
+            "city": "Pirdop",
+            "zip": "2070",
+            "lat": 42.7029,
+            "lon": 24.1869,
+            "timezone": "Europe/Sofia",
+            "isp": "Retel JSC",
+            "org": "",
+            "as": "AS44851 BG Retel AS",
+            "query": "93.123.121.3",
+            "type": "socks4",
+            "port": "8080",
+            "response_time": 1.96
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "87.126.65.14",
             "type": "http",
             "port": "8088",
-            "response_time": 2.45
+            "response_time": 5.35
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.12",
+            "type": "http",
+            "port": "8001",
+            "response_time": 11.43
         }
     ]
 }
