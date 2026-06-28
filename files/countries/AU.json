@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 7.98
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -14,13 +33,13 @@
             "lat": -33.8672,
             "lon": 151.1997,
             "timezone": "Australia/Sydney",
-            "isp": "Contabo Asia Private Limited",
-            "org": "Yorkshire Tech Limited",
-            "as": "AS141995 Contabo Asia Private Limited",
-            "query": "46.250.241.190",
+            "isp": "Mammoth Media Pty Ltd",
+            "org": "Mammoth Media Pty Ltd",
+            "as": "AS133159 Mammoth Media Pty Ltd",
+            "query": "103.249.237.158",
             "type": "http",
-            "port": "8080",
-            "response_time": 7.39
+            "port": "8888",
+            "response_time": 10.45
         }
     ]
 }
