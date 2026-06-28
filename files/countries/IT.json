@@ -1,26 +1,45 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.51
+        },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
             "region": "25",
             "regionName": "Lombardy",
-            "city": "Lonato",
-            "zip": "25017",
-            "lat": 45.4659,
-            "lon": 10.4732,
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Mynet S.R.L.",
-            "org": "Mynet",
-            "as": "AS31263 MYNET S.R.L.",
-            "query": "84.247.236.86",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 2.88
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
+            "type": "http",
+            "port": "8081",
+            "response_time": 9.28
         }
     ]
 }
