@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 1.11
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "050000",
-            "lat": 43.238,
-            "lon": 76.8829,
-            "timezone": "Asia/Almaty",
-            "isp": "Netfire TEC",
-            "org": "HostLab LLC",
-            "as": "AS205431 HostLab LLC",
-            "query": "199.189.249.175",
-            "type": "socks4",
-            "port": "8080",
-            "response_time": 4.9
+            "response_time": 1.12
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "89.169.37.254",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.9
+            "response_time": 1.98
         },
         {
             "status": "success",
@@ -74,10 +55,48 @@
             "isp": "Netfire TEC",
             "org": "",
             "as": "AS205431 HostLab LLC",
-            "query": "176.12.74.0",
-            "type": "socks4",
+            "query": "176.12.72.62",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 8.03
+            "response_time": 2.43
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "39",
+            "regionName": "Kostanay",
+            "city": "Kostanay",
+            "zip": "110000",
+            "lat": 53.2123,
+            "lon": 63.6281,
+            "timezone": "Asia/Qostanay",
+            "isp": "Uplink LLC",
+            "org": "Uplink LLC",
+            "as": "AS8200 Uplink LLC",
+            "query": "109.248.236.150",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 5.78
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "79",
+            "regionName": "Shymkent",
+            "city": "Shymkent",
+            "zip": "",
+            "lat": 42.3069,
+            "lon": 69.6031,
+            "timezone": "Asia/Almaty",
+            "isp": "D-Cloud LLC",
+            "org": "D-Cloud LLC",
+            "as": "AS202293 D-Cloud LLC",
+            "query": "91.229.151.118",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.92
         }
     ]
 }
