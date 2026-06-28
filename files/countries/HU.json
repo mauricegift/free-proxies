@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1044",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI",
+            "org": "",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "77.234.86.45",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.34
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,7 @@
             "query": "45.130.240.238",
             "type": "http",
             "port": "8080",
-            "response_time": 8.91
+            "response_time": 5.24
         }
     ]
 }
