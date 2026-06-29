@@ -14,32 +14,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.170.126",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Enterprise",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.74.56",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 5.5
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Elbasan",
-            "zip": "",
-            "lat": 41.1122,
-            "lon": 20.0818,
-            "timezone": "Europe/Tirane",
-            "isp": "ATU",
-            "org": "",
-            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
-            "query": "37.26.86.206",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 7.53
+            "port": "65530",
+            "response_time": 1.55
         },
         {
             "status": "success",
@@ -53,12 +34,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone",
+            "org": "Enterprise",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "188.164.218.209",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.94
+            "query": "80.78.74.8",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 4.34
         },
         {
             "status": "success",
@@ -72,12 +53,31 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "ONE ALBANIA SH.A.",
-            "org": "Test13",
+            "org": "",
             "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "217.24.245.58",
+            "query": "79.106.165.246",
+            "type": "http",
+            "port": "8989",
+            "response_time": 4.85
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "05",
+            "regionName": "Gjirokast\u00ebr County",
+            "city": "Tepelen\u00eb",
+            "zip": "",
+            "lat": 40.2959,
+            "lon": 20.024,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.108.156",
             "type": "http",
             "port": "8079",
-            "response_time": 9.54
+            "response_time": 5.89
         }
     ]
 }
