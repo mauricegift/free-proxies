@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "72.56.3.17",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.98
+            "response_time": 0.9
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 1.18
+            "response_time": 1.51
         },
         {
             "status": "success",
@@ -55,10 +55,67 @@
             "isp": "Netfire TEC",
             "org": "HostLab LLC",
             "as": "AS205431 HostLab LLC",
-            "query": "199.189.249.175",
-            "type": "socks4",
+            "query": "199.189.255.230",
+            "type": "http",
             "port": "8080",
-            "response_time": 1.85
+            "response_time": 3.07
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "",
+            "lat": 51.1876,
+            "lon": 71.4491,
+            "timezone": "Asia/Almaty",
+            "isp": "Kar-Tel LLC",
+            "org": "2DAY Telecom LLP",
+            "as": "AS21299 Kar-Tel LLC",
+            "query": "91.244.106.26",
+            "type": "socks4",
+            "port": "1090",
+            "response_time": 3.99
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.65
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "23",
+            "regionName": "Atyrau Oblisi",
+            "city": "Atyrau",
+            "zip": "060011",
+            "lat": 47.1169,
+            "lon": 51.8853,
+            "timezone": "Asia/Atyrau",
+            "isp": "JSC \"KazTransCom\"",
+            "org": "Kozhan LLP",
+            "as": "AS35104 Jusan Mobile JSC",
+            "query": "93.185.68.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.2
         },
         {
             "status": "success",
@@ -77,45 +134,7 @@
             "query": "176.12.72.62",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.8
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "050000",
-            "lat": 43.238,
-            "lon": 76.8829,
-            "timezone": "Asia/Almaty",
-            "isp": "Netfire TEC",
-            "org": "HostLab LLC",
-            "as": "AS205431 HostLab LLC",
-            "query": "199.189.255.230",
-            "type": "http",
-            "port": "1080",
-            "response_time": 5.09
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "050000",
-            "lat": 43.238,
-            "lon": 76.8829,
-            "timezone": "Asia/Almaty",
-            "isp": "Netfire TEC",
-            "org": "HostLab LLC",
-            "as": "AS205431 HostLab LLC",
-            "query": "199.189.255.230",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.09
+            "response_time": 15.69
         }
     ]
 }
