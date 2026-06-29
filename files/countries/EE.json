@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "5.45.118.209",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.48
+            "response_time": 0.42
         },
         {
             "status": "success",
@@ -36,29 +36,10 @@
             "isp": "PAGM network",
             "org": "Hosting Services",
             "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.125.201",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.3
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "37",
-            "regionName": "Harjumaa",
-            "city": "Tallinn",
-            "zip": "",
-            "lat": 59.4294,
-            "lon": 24.7299,
-            "timezone": "Europe/Tallinn",
-            "isp": "WorkTitans B.V",
-            "org": "WorkTitans B.V",
-            "as": "",
-            "query": "5.181.23.213",
-            "type": "socks4",
-            "port": "8443",
-            "response_time": 3.41
+            "query": "5.45.126.165",
+            "type": "http",
+            "port": "13215",
+            "response_time": 5.46
         }
     ]
 }
