@@ -1,26 +1,26 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "TAO",
-            "regionName": "Taoyuan",
-            "city": "Longtan District",
+            "region": "",
+            "regionName": "Taipei",
+            "city": "Banqiao",
             "zip": "",
-            "lat": 24.863,
-            "lon": 121.2102,
+            "lat": 24.9961,
+            "lon": 121.456,
             "timezone": "Asia/Taipei",
-            "isp": "Chunghwa Telecom Co., Ltd.",
-            "org": "Chunghwa Telecom Co. Ltd.",
-            "as": "AS3462 Data Communication Business Group",
-            "query": "220.132.41.160",
-            "type": "socks4",
-            "port": "1088",
-            "response_time": 3.8
+            "isp": "Asia Pacific On-line Service Inc.",
+            "org": "Far EasTone Telecommunication Co., Ltd.",
+            "as": "AS7482 Asia Pacific On-line Service Inc.",
+            "query": "210.201.86.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.77
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "103.227.224.96",
             "type": "socks4",
             "port": "50161",
-            "response_time": 4.36
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "",
-            "regionName": "Taipei",
-            "city": "Banqiao",
-            "zip": "",
-            "lat": 24.9961,
-            "lon": 121.456,
-            "timezone": "Asia/Taipei",
-            "isp": "Asia Pacific On-line Service Inc.",
-            "org": "Far EasTone Telecommunication Co., Ltd.",
-            "as": "AS7482 Asia Pacific On-line Service Inc.",
-            "query": "210.201.86.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.31
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TAO",
-            "regionName": "Taoyuan",
-            "city": "Taoyuan",
-            "zip": "",
-            "lat": 24.9977,
-            "lon": 121.2965,
-            "timezone": "Asia/Taipei",
-            "isp": "Chunghwa Telecom Co., Ltd.",
-            "org": "Chunghwa Telecom Co. Ltd.",
-            "as": "AS3462 Data Communication Business Group",
-            "query": "211.22.151.163",
-            "type": "http",
-            "port": "60808",
-            "response_time": 8.49
+            "response_time": 6.37
         },
         {
             "status": "success",
@@ -96,7 +58,26 @@
             "query": "85.237.207.223",
             "type": "socks5",
             "port": "50161",
-            "response_time": 10.55
+            "response_time": 16.03
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TPE",
+            "regionName": "Taiwan",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.0329,
+            "lon": 121.5654,
+            "timezone": "Asia/Taipei",
+            "isp": "Akari Networks",
+            "org": "Akari Networks",
+            "as": "AS38136 Akari Networks",
+            "query": "141.11.42.160",
+            "type": "socks4",
+            "port": "50161",
+            "response_time": 19.33
         }
     ]
 }
