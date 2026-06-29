@@ -1,46 +1,8 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Manhala",
-            "zip": "",
-            "lat": 31.5333,
-            "lon": 74.55,
-            "timezone": "Asia/Karachi",
-            "isp": "ConnecTel Internet Services",
-            "org": "",
-            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
-            "query": "103.225.221.18",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.16
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "IS",
-            "regionName": "Islamabad",
-            "city": "Islamabad",
-            "zip": "44000",
-            "lat": 33.7233,
-            "lon": 73.0435,
-            "timezone": "Asia/Karachi",
-            "isp": "Nayatel (Pvt) Ltd",
-            "org": "Nayatel",
-            "as": "AS23674 Nayatel (Pvt) Ltd",
-            "query": "124.109.44.126",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 4.3
-        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -58,7 +20,26 @@
             "query": "119.73.125.55",
             "type": "http",
             "port": "8080",
-            "response_time": 5.01
+            "response_time": 7.74
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Pakistan Telecommuication company limited",
+            "org": "Pakistan Telecommuication company limited",
+            "as": "AS17557 Pakistan Telecommunication Company Limited",
+            "query": "182.176.164.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.65
         }
     ]
 }
