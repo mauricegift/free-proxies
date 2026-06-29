@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "45.130.240.238",
             "type": "http",
             "port": "8080",
-            "response_time": 5.97
+            "response_time": 4.32
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "Pusztavacs",
+            "zip": "2378",
+            "lat": 47.1668,
+            "lon": 19.4939,
+            "timezone": "Europe/Budapest",
+            "isp": "One Hungary Ltd.",
+            "org": "Vodafone Hungary Ltd",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "89.135.59.77",
+            "type": "http",
+            "port": "8090",
+            "response_time": 7.68
         }
     ]
 }
