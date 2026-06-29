@@ -1,26 +1,26 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75660",
-            "lat": 24.8021,
-            "lon": 67.0298,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
             "timezone": "Asia/Karachi",
-            "isp": "TRANSWORLD ASSOCIATES (PVT) LIMITED",
-            "org": "TW RO",
-            "as": "AS38193 Transworld Associates (Pvt.) Ltd.",
-            "query": "110.93.206.62",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.42
+            "isp": "AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED",
+            "org": "",
+            "as": "AS152605 Z COM NETWORKS",
+            "query": "103.115.196.98",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.04
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "103.134.1.14",
             "type": "http",
             "port": "8080",
-            "response_time": 2.77
+            "response_time": 5.01
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "103.225.221.18",
             "type": "socks4",
             "port": "5678",
-            "response_time": 8.61
+            "response_time": 7.17
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Daultala",
+            "zip": "",
+            "lat": 33.1928,
+            "lon": 73.141,
+            "timezone": "Asia/Karachi",
+            "isp": "CMPak Limited",
+            "org": "",
+            "as": "AS138423 CMPak Limited",
+            "query": "121.91.60.68",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.93
         }
     ]
 }
