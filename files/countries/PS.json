@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
-    "country": "Palestine",
-    "count": 1,
+    "country": "Palestinian Territory",
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.9.9",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.76
+        },
         {
             "status": "success",
             "country": "Palestine",
@@ -20,7 +39,7 @@
             "query": "84.242.58.9",
             "type": "http",
             "port": "8080",
-            "response_time": 12.46
+            "response_time": 8.52
         }
     ]
 }
