@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 30.0507,
             "lon": 31.2489,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat Misr Mobile BB",
+            "isp": "TE Data",
             "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.55.27",
+            "as": "AS8452 TE-AS",
+            "query": "41.33.219.140",
             "type": "http",
             "port": "1981",
-            "response_time": 8.78
+            "response_time": 7.79
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "LINKdotNET AS number",
+            "org": "Link Egypt (Link.NET)",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "41.128.72.136",
+            "type": "http",
+            "port": "1981",
+            "response_time": 9.58
         }
     ]
 }
