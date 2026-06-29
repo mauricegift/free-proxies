@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Pomezia",
+            "zip": "00071",
+            "lat": 41.6693,
+            "lon": 12.5012,
+            "timezone": "Europe/Rome",
+            "isp": "Cinzia Tocci trading as Lumanex Srl",
+            "org": "C1V ISP",
+            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
+            "query": "5.59.248.134",
+            "type": "socks4",
+            "port": "8081",
+            "response_time": 4.47
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -10,17 +29,17 @@
             "region": "25",
             "regionName": "Lombardy",
             "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4642,
-            "lon": 9.18998,
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Host SpA",
-            "org": "Host VDC",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.186.244",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.56
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
+            "type": "http",
+            "port": "8081",
+            "response_time": 9.02
         }
     ]
 }
