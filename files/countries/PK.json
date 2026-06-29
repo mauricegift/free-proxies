@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "103.225.221.18",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.05
+            "response_time": 4.21
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54020",
+            "lat": 31.558,
+            "lon": 74.3587,
+            "timezone": "Asia/Karachi",
+            "isp": "IN CABLE INTERNET PRIVATE LIMITED",
+            "org": "In Cable Internet Private Limited",
+            "as": "AS150750 IN CABLE INTERNET (PRIVATE) LIMITED",
+            "query": "154.208.58.89",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.81
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60700",
+            "lat": 30.2216,
+            "lon": 71.4702,
+            "timezone": "Asia/Karachi",
+            "isp": "Prime Networks",
+            "org": "Prime Networks",
+            "as": "AS138590 Prime Networks",
+            "query": "103.134.1.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.06
         }
     ]
 }
