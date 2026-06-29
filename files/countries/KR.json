@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 6,
+    "count": 9,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "152.70.237.238",
             "type": "socks4",
             "port": "3128",
-            "response_time": 1.54
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "152.70.237.238",
-            "type": "socks5",
-            "port": "3128",
-            "response_time": 1.54
+            "response_time": 1.18
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.69
+            "response_time": 1.49
         },
         {
             "status": "success",
@@ -77,7 +58,64 @@
             "query": "152.70.241.59",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.48
+            "response_time": 1.79
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "42",
+            "regionName": "Gangwon-do",
+            "city": "Chuncheon",
+            "zip": "24329",
+            "lat": 37.8897,
+            "lon": 127.736,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "146.56.110.131",
+            "type": "http",
+            "port": "8118",
+            "response_time": 2.39
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Songpa-gu",
+            "zip": "055",
+            "lat": 37.5108,
+            "lon": 127.1048,
+            "timezone": "Asia/Seoul",
+            "isp": "LG POWERCOMM",
+            "org": "Xpeed",
+            "as": "AS17858 LG POWERCOMM",
+            "query": "115.136.121.54",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 2.56
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.154.217.238",
+            "type": "socks5",
+            "port": "8082",
+            "response_time": 4.13
         },
         {
             "status": "success",
@@ -85,18 +123,37 @@
             "countryCode": "KR",
             "region": "41",
             "regionName": "Gyeonggi-do",
-            "city": "Gimpo-si",
-            "zip": "10108",
-            "lat": 37.626,
-            "lon": 126.7152,
+            "city": "Seongnam-si",
+            "zip": "13215",
+            "lat": 37.4309,
+            "lon": 127.152,
             "timezone": "Asia/Seoul",
-            "isp": "LG DACOM Corporation",
-            "org": "LG Uplus",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "112.221.46.117",
+            "isp": "Korea Telecom",
+            "org": "Netropy",
+            "as": "AS4766 Korea Telecom",
+            "query": "211.174.99.161",
             "type": "socks4",
             "port": "4153",
-            "response_time": 8.69
+            "response_time": 8.62
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
+            "timezone": "Asia/Seoul",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
+            "type": "socks4",
+            "port": "60984",
+            "response_time": 8.64
         },
         {
             "status": "success",
@@ -115,7 +172,7 @@
             "query": "146.56.191.98",
             "type": "socks4",
             "port": "14785",
-            "response_time": 11.8
+            "response_time": 9.83
         }
     ]
 }
