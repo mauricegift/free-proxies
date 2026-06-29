@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
+            "timezone": "Europe/Rome",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.36
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -18,9 +37,47 @@
             "org": "C1V ISP",
             "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
             "query": "5.59.248.134",
-            "type": "socks4",
+            "type": "socks5",
             "port": "8081",
-            "response_time": 4.47
+            "response_time": 2.6
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "Comune Colle",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.26.218",
+            "type": "http",
+            "port": "58080",
+            "response_time": 4.56
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "34",
+            "regionName": "Veneto",
+            "city": "Crispi Cavour",
+            "zip": "36030",
+            "lat": 45.5819,
+            "lon": 11.5011,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
+            "type": "http",
+            "port": "8443",
+            "response_time": 4.72
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "185.191.106.0",
             "type": "http",
             "port": "8081",
-            "response_time": 9.02
+            "response_time": 5.42
         }
     ]
 }
