@@ -1,26 +1,45 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Ebute-Metta",
+            "region": "OS",
+            "regionName": "Osun State",
+            "city": "Osogbo",
             "zip": "",
-            "lat": 6.48799,
-            "lon": 3.38166,
+            "lat": 7.78267,
+            "lon": 4.54181,
             "timezone": "Africa/Lagos",
-            "isp": "Syscodes Communications",
-            "org": "",
-            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
-            "query": "102.36.133.62",
+            "isp": "ABINTERNET-V Ltd.",
+            "org": "FlashWISP",
+            "as": "AS197769 VPS Dedicated LLC",
+            "query": "102.220.160.148",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.5
+            "port": "3128",
+            "response_time": 0.51
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
+            "zip": "",
+            "lat": 9.0567,
+            "lon": 7.4969,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.209.162",
+            "type": "http",
+            "port": "8082",
+            "response_time": 10.59
         }
     ]
 }
