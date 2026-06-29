@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TC",
+            "regionName": "Tren\u010d\u00edn Region",
+            "city": "Tren\u010dianske Bohuslavice",
+            "zip": "913 07",
+            "lat": 48.8046,
+            "lon": 17.8642,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Slovanet",
+            "as": "AS31679 Slovanet a.s.",
+            "query": "185.165.36.136",
+            "type": "socks4",
+            "port": "8889",
+            "response_time": 4.4
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +39,7 @@
             "query": "185.225.204.5",
             "type": "http",
             "port": "3128",
-            "response_time": 9.05
+            "response_time": 6.92
         }
     ]
 }
