@@ -1,7 +1,7 @@
 {
     "countryCode": "LB",
     "country": "Lebanon",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "160.238.122.200",
             "type": "http",
             "port": "8080",
-            "response_time": 15.57
+            "response_time": 6.71
+        },
+        {
+            "status": "success",
+            "country": "Lebanon",
+            "countryCode": "LB",
+            "region": "BH",
+            "regionName": "Baalbek-Hermel Governorate",
+            "city": "Baalbek",
+            "zip": "",
+            "lat": 34.0046,
+            "lon": 36.2154,
+            "timezone": "Asia/Beirut",
+            "isp": "NET 360 S.A.R.L",
+            "org": "",
+            "as": "AS42183 NET 360 S.A.R.L",
+            "query": "185.82.99.101",
+            "type": "http",
+            "port": "92",
+            "response_time": 11.95
         }
     ]
 }
