@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "91.147.235.162",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.29
+            "response_time": 1.22
         },
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "BU",
-            "regionName": "Budapest",
-            "city": "Budapest",
-            "zip": "1044",
-            "lat": 47.5,
-            "lon": 19.0412,
+            "region": "SZ",
+            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
+            "city": "Z\u00e1hony",
+            "zip": "4625",
+            "lat": 48.4137,
+            "lon": 22.1753,
             "timezone": "Europe/Budapest",
-            "isp": "DIGI",
+            "isp": "Szatmarnet",
             "org": "",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "77.234.86.45",
+            "as": "AS58098 Szatmarnet Bt.",
+            "query": "46.107.230.122",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.37
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "JN",
+            "regionName": "J\u00e1sz-Nagykun-Szolnok",
+            "city": "Tiszaf\u00fcred",
+            "zip": "5350",
+            "lat": 47.6167,
+            "lon": 20.7667,
+            "timezone": "Europe/Budapest",
+            "isp": "htc",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "31.46.33.59",
             "type": "http",
-            "port": "8080",
-            "response_time": 7.84
+            "port": "53281",
+            "response_time": 10.16
         }
     ]
 }
