@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Link Egypt (Link.NET)",
             "org": "",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "197.164.101.14",
+            "query": "197.164.101.10",
             "type": "http",
-            "port": "1976",
-            "response_time": 1.07
+            "port": "1981",
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "154.236.179.229",
             "type": "http",
             "port": "1976",
-            "response_time": 11.08
+            "response_time": 2.65
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "BA",
+            "regionName": "Red Sea",
+            "city": "Makadi Bay",
+            "zip": "",
+            "lat": 26.9912,
+            "lon": 33.8995,
+            "timezone": "Africa/Cairo",
+            "isp": "Enterprise",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "154.236.179.229",
+            "type": "http",
+            "port": "1981",
+            "response_time": 2.82
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data",
+            "org": "",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.83.229",
+            "type": "http",
+            "port": "1976",
+            "response_time": 3.14
         },
         {
             "status": "success",
@@ -52,13 +90,13 @@
             "lat": 30.0507,
             "lon": 31.2489,
             "timezone": "Africa/Cairo",
-            "isp": "LINKdotNET AS number",
-            "org": "Link Egypt (Link.NET)",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "45.240.232.62",
+            "query": "197.164.101.14",
             "type": "http",
-            "port": "8080",
-            "response_time": 12.46
+            "port": "1976",
+            "response_time": 3.49
         },
         {
             "status": "success",
@@ -66,18 +104,37 @@
             "countryCode": "EG",
             "region": "C",
             "regionName": "Cairo Governorate",
-            "city": "El Shorouk",
+            "city": "Cairo",
             "zip": "",
-            "lat": 30.1381,
-            "lon": 31.6156,
+            "lat": 30.0507,
+            "lon": 31.2489,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat",
-            "org": "EgyNet",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "84.36.35.199",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "41.196.72.198",
             "type": "http",
-            "port": "1981",
-            "response_time": 13.96
+            "port": "8080",
+            "response_time": 3.71
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "Cairo",
+            "zip": "",
+            "lat": 30.0507,
+            "lon": 31.2489,
+            "timezone": "Africa/Cairo",
+            "isp": "Link Egypt (Link.NET)",
+            "org": "",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.10",
+            "type": "http",
+            "port": "1976",
+            "response_time": 6.1
         }
     ]
 }
