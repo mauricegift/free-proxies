@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "IL",
             "region": "TA",
             "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
+            "city": "Ramat Gan",
             "zip": "",
-            "lat": 32.0804,
-            "lon": 34.7807,
+            "lat": 32.0821,
+            "lon": 34.8122,
             "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.84.101.19",
+            "isp": "013 Netvision Network",
+            "org": "",
+            "as": "AS1680 Cellcom Fixed Line Communication L.P",
+            "query": "62.90.70.144",
             "type": "http",
-            "port": "29733",
-            "response_time": 1.1
+            "port": "7443",
+            "response_time": 0.55
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "51.84.101.19",
             "type": "http",
             "port": "10477",
-            "response_time": 4.6
+            "response_time": 2.39
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.84.101.19",
+            "type": "http",
+            "port": "29733",
+            "response_time": 2.5
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "HA",
+            "regionName": "Haifa",
+            "city": "Haifa",
+            "zip": "35085",
+            "lat": 32.794,
+            "lon": 34.9895,
+            "timezone": "Asia/Jerusalem",
+            "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+            "org": "Cloudwebmanage IL HA",
+            "as": "AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+            "query": "83.229.73.113",
+            "type": "http",
+            "port": "13554",
+            "response_time": 17.05
         }
     ]
 }
