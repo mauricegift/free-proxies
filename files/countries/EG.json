@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Link Egypt (Link.NET)",
             "org": "",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "62.241.133.227",
+            "query": "197.164.101.11",
             "type": "http",
-            "port": "1975",
-            "response_time": 7.87
+            "port": "1981",
+            "response_time": 1.27
         },
         {
             "status": "success",
@@ -33,13 +33,51 @@
             "lat": 30.0507,
             "lon": 31.2489,
             "timezone": "Africa/Cairo",
-            "isp": "TE Data",
+            "isp": "Link Egypt (Link.NET)",
             "org": "",
-            "as": "AS8452 TE-AS",
-            "query": "41.33.219.140",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "197.164.101.11",
+            "type": "http",
+            "port": "1976",
+            "response_time": 5.27
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data",
+            "org": "",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.83.229",
+            "type": "http",
+            "port": "1976",
+            "response_time": 6.16
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "BA",
+            "regionName": "Red Sea",
+            "city": "Makadi Bay",
+            "zip": "",
+            "lat": 26.9912,
+            "lon": 33.8995,
+            "timezone": "Africa/Cairo",
+            "isp": "Enterprise",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "154.236.179.229",
             "type": "http",
             "port": "1981",
-            "response_time": 8.54
+            "response_time": 7.09
         }
     ]
 }
