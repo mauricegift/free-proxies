@@ -1,7 +1,7 @@
 {
     "countryCode": "BA",
     "country": "Bosnia and Herzegovina",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.99.3.100",
             "type": "socks4",
             "port": "995",
-            "response_time": 2.23
+            "response_time": 8.77
+        },
+        {
+            "status": "success",
+            "country": "Bosnia and Herzegovina",
+            "countryCode": "BA",
+            "region": "BIH",
+            "regionName": "Federation of Bosnia and Herzegovina",
+            "city": "Novi Travnik",
+            "zip": "72290",
+            "lat": 44.1678,
+            "lon": 17.6563,
+            "timezone": "Europe/Sarajevo",
+            "isp": "Globalhost d.o.o. - Web Hosting Solutions",
+            "org": "",
+            "as": "AS200698 Globalhost d.o.o.",
+            "query": "185.99.3.100",
+            "type": "socks5",
+            "port": "995",
+            "response_time": 8.77
         }
     ]
 }
