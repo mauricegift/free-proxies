@@ -1,26 +1,26 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Syria",
             "countryCode": "SY",
-            "region": "DI",
-            "regionName": "Damascus Governorate",
-            "city": "Damascus",
+            "region": "RD",
+            "regionName": "Rif-dimashq",
+            "city": "D\u0101rayy\u0101",
             "zip": "",
-            "lat": 33.5194,
-            "lon": 36.2888,
+            "lat": 33.4584,
+            "lon": 36.2326,
             "timezone": "Asia/Damascus",
-            "isp": "High Speed For Internet Services L.L.C",
-            "org": "Telecom SY",
-            "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "131.222.210.40",
+            "isp": "Syrian Telecom",
+            "org": "Wafa Telecom J.S.C",
+            "as": "AS29256 STE PDN Internal AS",
+            "query": "193.43.140.85",
             "type": "http",
             "port": "8080",
-            "response_time": 0.75
+            "response_time": 6.06
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "193.43.140.240",
             "type": "http",
             "port": "8080",
-            "response_time": 3.83
+            "response_time": 8.08
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "Syrian Telecom",
             "org": "Wafa Telecom J.S.C",
             "as": "AS29256 STE PDN Internal AS",
-            "query": "193.43.140.101",
+            "query": "193.43.140.222",
+            "type": "http",
+            "port": "7890",
+            "response_time": 8.53
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "DI",
+            "regionName": "Damascus Governorate",
+            "city": "Damascus",
+            "zip": "",
+            "lat": 33.5194,
+            "lon": 36.2888,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "Telecom SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "131.222.210.39",
             "type": "http",
             "port": "8080",
-            "response_time": 4.93
+            "response_time": 8.73
         }
     ]
 }
