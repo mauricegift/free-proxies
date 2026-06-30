@@ -1,7 +1,7 @@
 {
     "countryCode": "UZ",
     "country": "Uzbekistan",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "195.158.8.123",
             "type": "http",
             "port": "3128",
-            "response_time": 1.48
+            "response_time": 3.16
+        },
+        {
+            "status": "success",
+            "country": "Uzbekistan",
+            "countryCode": "UZ",
+            "region": "TK",
+            "regionName": "Tashkent",
+            "city": "Tashkent",
+            "zip": "",
+            "lat": 41.2615,
+            "lon": 69.2177,
+            "timezone": "Asia/Tashkent",
+            "isp": "\"Uzbektelekom\" Joint Stock Company",
+            "org": "Uztelecom",
+            "as": "AS8193 \"Uzbektelekom\" Joint Stock Company",
+            "query": "195.158.10.99",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.42
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "130.49.171.75",
             "type": "http",
             "port": "1080",
-            "response_time": 11.62
+            "response_time": 5.74
+        },
+        {
+            "status": "success",
+            "country": "Uzbekistan",
+            "countryCode": "UZ",
+            "region": "TK",
+            "regionName": "Tashkent",
+            "city": "Tashkent",
+            "zip": "",
+            "lat": 41.2615,
+            "lon": 69.2177,
+            "timezone": "Asia/Tashkent",
+            "isp": "Servercore UZ",
+            "org": "\"SERVERCORE CIS\" FE LLC",
+            "as": "AS43647 SERVERCORE CIS LLC",
+            "query": "130.49.171.75",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.74
         }
     ]
 }
