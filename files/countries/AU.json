@@ -1,26 +1,26 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.51.62.173",
+            "query": "54.253.183.151",
             "type": "http",
-            "port": "30663",
-            "response_time": 3.74
+            "port": "16955",
+            "response_time": 3.35
         },
         {
             "status": "success",
@@ -38,27 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.26.99.200",
             "type": "http",
-            "port": "36468",
-            "response_time": 4.58
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.143.154",
-            "type": "http",
-            "port": "35650",
-            "response_time": 4.68
+            "port": "4148",
+            "response_time": 3.75
         },
         {
             "status": "success",
@@ -77,26 +58,7 @@
             "query": "16.26.154.68",
             "type": "http",
             "port": "31719",
-            "response_time": 5.52
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3150",
-            "lat": -37.8766,
-            "lon": 145.1623,
-            "timezone": "Australia/Melbourne",
-            "isp": "Wideband Networks Pty Ltd",
-            "org": "Aussie Broadband Ltd",
-            "as": "AS4764 Aussie Broadband",
-            "query": "159.196.182.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.76
+            "response_time": 9.05
         },
         {
             "status": "success",
@@ -115,7 +77,7 @@
             "query": "168.138.9.147",
             "type": "socks4",
             "port": "1080",
-            "response_time": 11.69
+            "response_time": 23.78
         }
     ]
 }
