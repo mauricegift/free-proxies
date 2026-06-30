@@ -1,8 +1,27 @@
 {
     "countryCode": "CR",
     "country": "Costa Rica",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Costa Rica",
+            "countryCode": "CR",
+            "region": "SJ",
+            "regionName": "Provincia de San Jos\u00e9",
+            "city": "San Jos\u00e9",
+            "zip": "11002",
+            "lat": 9.92807,
+            "lon": -84.0907,
+            "timezone": "America/Costa_Rica",
+            "isp": "GCI SERVICE PROVIDER S.A.",
+            "org": "GCI SERVICE PROVIDER S.A",
+            "as": "AS263248 GCI SERVICE PROVIDER S.A.",
+            "query": "200.192.236.242",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.05
+        },
         {
             "status": "success",
             "country": "Costa Rica",
@@ -20,7 +39,7 @@
             "query": "190.113.249.14",
             "type": "http",
             "port": "88",
-            "response_time": 14.68
+            "response_time": 11.02
         }
     ]
 }
