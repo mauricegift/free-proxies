@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "5.45.118.209",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.56
+            "response_time": 0.34
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "37",
+            "regionName": "Harjumaa",
+            "city": "Tallinn",
+            "zip": "",
+            "lat": 59.4294,
+            "lon": 24.7299,
+            "timezone": "Europe/Tallinn",
+            "isp": "WorkTitans B.V",
+            "org": "WorkTitans B.V",
+            "as": "",
+            "query": "5.181.23.213",
+            "type": "socks4",
+            "port": "8443",
+            "response_time": 1.39
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "5.45.125.201",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.31
+            "response_time": 3.53
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.45.125.201",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.53
         }
     ]
 }
