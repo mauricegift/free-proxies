@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "CH",
             "region": "ZH",
             "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8098",
-            "lat": 47.3643,
-            "lon": 8.5437,
+            "city": "Wetzikon",
+            "zip": "8620",
+            "lat": 47.3223,
+            "lon": 8.80102,
             "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
+            "isp": "Geronimo Ramirez Computer Network",
+            "org": "Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network",
+            "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
+            "query": "185.191.239.248",
             "type": "http",
-            "port": "42039",
-            "response_time": 0.68
+            "port": "3128",
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 47.3643,
             "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon.com, Inc.",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.62.229.137",
-            "type": "http",
-            "port": "9067",
-            "response_time": 1.52
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.64
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.62
+            "response_time": 4.64
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
+            "timezone": "Europe/Zurich",
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.132",
+            "type": "http",
+            "port": "80",
+            "response_time": 6.06
         },
         {
             "status": "success",
@@ -77,45 +96,7 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 4.09
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Wetzikon",
-            "zip": "8620",
-            "lat": 47.3223,
-            "lon": 8.80102,
-            "timezone": "Europe/Zurich",
-            "isp": "Geronimo Ramirez Computer Network",
-            "org": "Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network",
-            "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
-            "query": "185.191.239.248",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.22
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8001",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "GTHost",
-            "org": "Cust88530 Network",
-            "as": "AS63023 GTHost",
-            "query": "5.101.85.133",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 13.0
+            "response_time": 7.09
         }
     ]
 }
