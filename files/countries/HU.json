@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "HU",
             "region": "HB",
             "regionName": "Hajd\u00fa-Bihar",
-            "city": "Debrecen",
-            "zip": "4032",
-            "lat": 47.5232,
-            "lon": 21.6334,
+            "city": "Hajd\u00fan\u00e1n\u00e1s",
+            "zip": "4080",
+            "lat": 47.8541,
+            "lon": 21.4404,
             "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Portal",
+            "isp": "Magyar Telekom",
+            "org": "",
             "as": "AS5483 Magyar Telekom Plc.",
-            "query": "91.147.235.162",
+            "query": "84.2.239.42",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.18
+            "response_time": 0.71
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1011",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "Pro-M Zrt.",
+            "org": "Techno-Tel Kft",
+            "as": "AS47169 Pro-M Zrt.",
+            "query": "45.130.240.238",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.88
         }
     ]
 }
