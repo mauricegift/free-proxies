@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 6,
+    "count": 7,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Siena",
-            "zip": "53100",
-            "lat": 43.3218,
-            "lon": 11.3262,
-            "timezone": "Europe/Rome",
-            "isp": "Consorzio Terrecablate",
-            "org": "Provincia Siena",
-            "as": "AS43960 Consorzio Terrecablate",
-            "query": "93.187.25.12",
-            "type": "http",
-            "port": "58080",
-            "response_time": 0.38
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -33,13 +14,13 @@
             "lat": 45.4681,
             "lon": 9.2011,
             "timezone": "Europe/Rome",
-            "isp": "Amazon Technologies Inc",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (eu-south-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.160.132.166",
+            "query": "15.161.228.22",
             "type": "http",
-            "port": "41590",
-            "response_time": 0.7
+            "port": "443",
+            "response_time": 0.85
         },
         {
             "status": "success",
@@ -48,17 +29,17 @@
             "region": "25",
             "regionName": "Lombardy",
             "city": "Milan",
-            "zip": "20143",
-            "lat": 45.4722,
-            "lon": 9.1922,
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
             "timezone": "Europe/Rome",
-            "isp": "La Wireless",
-            "org": "",
-            "as": "AS49979 LA Wireless Srl",
-            "query": "94.198.213.252",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.23
+            "port": "1080",
+            "response_time": 1.81
         },
         {
             "status": "success",
@@ -77,7 +58,7 @@
             "query": "15.160.116.45",
             "type": "http",
             "port": "5777",
-            "response_time": 5.96
+            "response_time": 1.82
         },
         {
             "status": "success",
@@ -96,7 +77,26 @@
             "query": "85.208.200.185",
             "type": "http",
             "port": "8081",
-            "response_time": 6.09
+            "response_time": 4.68
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.26.134",
+            "type": "http",
+            "port": "58080",
+            "response_time": 5.66
         },
         {
             "status": "success",
@@ -112,10 +112,29 @@
             "isp": "Mywic Costumers",
             "org": "",
             "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.41",
+            "query": "185.191.106.0",
             "type": "http",
             "port": "8081",
-            "response_time": 10.84
+            "response_time": 7.17
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
+            "timezone": "Europe/Rome",
+            "isp": "Aruba S.p.A. Network",
+            "org": "Aruba S.p.A. - Cloud Services",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "80.211.131.230",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 9.0
         }
     ]
 }
