@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "34.246.183.20",
             "type": "http",
             "port": "51429",
-            "response_time": 0.52
+            "response_time": 0.76
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "C",
+            "regionName": "Connacht",
+            "city": "Roscommon",
+            "zip": "F42",
+            "lat": 53.634,
+            "lon": -8.1819,
+            "timezone": "Europe/Dublin",
+            "isp": "EURONA-BRISKNET",
+            "org": "",
+            "as": "AS57791 Arden Broadband Ltd",
+            "query": "5.83.244.1",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.93
         }
     ]
 }
