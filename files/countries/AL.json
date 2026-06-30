@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "80.78.78.106",
             "type": "socks4",
             "port": "65530",
-            "response_time": 2.33
+            "response_time": 0.32
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Rrashbull",
+            "zip": "",
+            "lat": 41.3228,
+            "lon": 19.5103,
+            "timezone": "Europe/Tirane",
+            "isp": "Lightnet Sh.p.k.",
+            "org": "Lightnet Sh.p.k",
+            "as": "AS212637 LightNet Sh.p.k.",
+            "query": "185.190.90.2",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.38
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "07",
+            "regionName": "Kuk\u00ebs County",
+            "city": "Krume",
+            "zip": "8602",
+            "lat": 42.1992,
+            "lon": 20.4105,
+            "timezone": "Europe/Tirane",
+            "isp": "shqiponjaisp.al LLC",
+            "org": "",
+            "as": "AS206088 shqiponjaisp.al LLC",
+            "query": "185.196.182.22",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.07
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Sh.A",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "66.186.199.33",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.38
         },
         {
             "status": "success",
@@ -36,10 +93,10 @@
             "isp": "ONE ALBANIA SH.A.",
             "org": "",
             "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.33.26",
-            "type": "http",
-            "port": "8079",
-            "response_time": 4.07
+            "query": "79.106.170.126",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.93
         },
         {
             "status": "success",
@@ -52,13 +109,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "Test13",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "217.24.245.58",
+            "isp": "Abissnet ISP",
+            "org": "",
+            "as": "AS35047 Abissnet sh.a.",
+            "query": "80.91.116.129",
             "type": "http",
-            "port": "8079",
-            "response_time": 10.79
+            "port": "8081",
+            "response_time": 5.04
         }
     ]
 }
