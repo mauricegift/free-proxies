@@ -1,7 +1,7 @@
 {
     "countryCode": "PA",
     "country": "Panama",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "190.5.234.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.19
+            "response_time": 3.09
+        },
+        {
+            "status": "success",
+            "country": "Panama",
+            "countryCode": "PA",
+            "region": "8",
+            "regionName": "Provincia de Panam\u00e1",
+            "city": "Panama City",
+            "zip": "0832",
+            "lat": 8.9948,
+            "lon": -79.523,
+            "timezone": "America/Panama",
+            "isp": "Ufinet Panama S.A",
+            "org": "Ufinet Panama S.A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "190.61.126.253",
+            "type": "http",
+            "port": "999",
+            "response_time": 13.52
         }
     ]
 }
