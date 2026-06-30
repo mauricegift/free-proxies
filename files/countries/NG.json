@@ -1,26 +1,64 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "BO",
+            "regionName": "Borno State",
+            "city": "Maiduguri",
+            "zip": "",
+            "lat": 11.8311,
+            "lon": 13.151,
+            "timezone": "Africa/Lagos",
+            "isp": "Gutti Global Networks",
+            "org": "Gutti Global Networks",
+            "as": "AS327986 GUTTI GLOBAL NETWORKS",
+            "query": "169.239.236.201",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 4.39
+        },
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Lagos",
+            "city": "Satellite Town",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.4427,
+            "lon": 3.2482,
             "timezone": "Africa/Lagos",
             "isp": "Main one Cable Company Nigeria Limited",
-            "org": "Mainone Cable Company",
+            "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "197.253.23.4",
+            "query": "154.113.179.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.89
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
+            "zip": "",
+            "lat": 9.05785,
+            "lon": 7.49508,
+            "timezone": "Africa/Lagos",
+            "isp": "Vodacom Business Nigeria",
+            "org": "Inq. Digital Nigeria",
+            "as": "AS16284 Inq. Digital Nigeria",
+            "query": "155.93.96.210",
             "type": "http",
             "port": "8080",
-            "response_time": 6.49
+            "response_time": 7.29
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "41.203.76.166",
             "type": "http",
             "port": "8080",
-            "response_time": 6.54
+            "response_time": 8.42
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "41.203.83.242",
             "type": "http",
             "port": "8080",
-            "response_time": 8.49
+            "response_time": 8.99
         }
     ]
 }
