@@ -1,8 +1,27 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220002",
+            "lat": 53.9002,
+            "lon": 27.5665,
+            "timezone": "Europe/Minsk",
+            "isp": "Business network jv",
+            "org": "Business network LTD",
+            "as": "AS12406 Business Network Ltd",
+            "query": "80.249.81.179",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 6.97
+        },
         {
             "status": "success",
             "country": "Belarus",
@@ -20,7 +39,7 @@
             "query": "80.249.81.179",
             "type": "socks5",
             "port": "9050",
-            "response_time": 6.39
+            "response_time": 6.97
         }
     ]
 }
