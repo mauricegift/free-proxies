@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com, Inc.",
+            "org": "Hewlett Packard Enterprise Company",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.26.143.154",
+            "type": "http",
+            "port": "38158",
+            "response_time": 3.43
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -19,8 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.51.148.102",
             "type": "http",
-            "port": "4759",
-            "response_time": 4.11
+            "port": "35478",
+            "response_time": 3.44
         },
         {
             "status": "success",
@@ -29,17 +48,55 @@
             "region": "VIC",
             "regionName": "Victoria",
             "city": "Melbourne",
-            "zip": "3150",
-            "lat": -37.8766,
-            "lon": 145.1623,
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Wideband Networks Pty Ltd",
-            "org": "Aussie Broadband Ltd",
-            "as": "AS4764 Aussie Broadband",
-            "query": "159.196.182.72",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.148.102",
+            "type": "http",
+            "port": "8092",
+            "response_time": 5.22
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com, Inc.",
+            "org": "Hewlett Packard Enterprise Company",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.26.143.154",
+            "type": "http",
+            "port": "25470",
+            "response_time": 7.69
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3070",
+            "lat": -37.7673,
+            "lon": 145.0043,
+            "timezone": "Australia/Melbourne",
+            "isp": "Vocus PTY LTD",
+            "org": "",
+            "as": "AS9443 Vocus Retail",
+            "query": "122.148.196.246",
             "type": "http",
             "port": "8080",
-            "response_time": 12.77
+            "response_time": 12.52
         }
     ]
 }
