@@ -1,7 +1,7 @@
 {
     "countryCode": "CR",
     "country": "Costa Rica",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "SJ",
             "regionName": "Provincia de San Jos\u00e9",
             "city": "San Jos\u00e9",
-            "zip": "10101",
-            "lat": 9.9346,
-            "lon": -84.0706,
+            "zip": "11002",
+            "lat": 9.92807,
+            "lon": -84.0907,
             "timezone": "America/Costa_Rica",
-            "isp": "Ufinet Costa Rica",
-            "org": "Ufinet Costa Rica, S. A",
-            "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "190.61.106.97",
+            "isp": "GCI SERVICE PROVIDER S.A.",
+            "org": "GCI SERVICE PROVIDER S.A",
+            "as": "AS263248 GCI SERVICE PROVIDER S.A.",
+            "query": "200.192.236.242",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.15
+        },
+        {
+            "status": "success",
+            "country": "Costa Rica",
+            "countryCode": "CR",
+            "region": "A",
+            "regionName": "Alajuela Province",
+            "city": "Zarcero",
+            "zip": "21101",
+            "lat": 10.1863,
+            "lon": -84.382,
+            "timezone": "America/Costa_Rica",
+            "isp": "Cooperativa De Electrificacion Rural De Alfaro Ruiz R.L.",
+            "org": "Cooperativa De Electrificacion Rural De Alfaro Ruiz R.L",
+            "as": "AS262241 COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.",
+            "query": "190.113.249.14",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.84
+            "port": "88",
+            "response_time": 7.83
         }
     ]
 }
