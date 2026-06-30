@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Tatu Telecom #PM94-AFRINIC",
-            "org": "Tatu Telecom Company SEZ Limited",
-            "as": "AS329341 Tatu Telecom Company SEZ Limited",
-            "query": "102.208.235.51",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.21.148",
             "type": "http",
             "port": "8080",
-            "response_time": 4.61
+            "response_time": 7.77
         },
         {
             "status": "success",
@@ -36,29 +36,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.30.88",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.54
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Airtel KE Mobile & Fixed Internet",
-            "org": "",
-            "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.16.226",
-            "type": "http",
-            "port": "8080",
-            "response_time": 13.09
+            "query": "154.79.248.156",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.64
         }
     ]
 }
