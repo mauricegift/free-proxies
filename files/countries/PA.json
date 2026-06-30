@@ -1,7 +1,7 @@
 {
     "countryCode": "PA",
     "country": "Panama",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "8",
             "regionName": "Provincia de Panam\u00e1",
             "city": "Panama City",
-            "zip": "34002",
+            "zip": "0832",
             "lat": 8.9948,
             "lon": -79.523,
             "timezone": "America/Panama",
-            "isp": "Cable Onda",
-            "org": "Interface Technologies, Inc",
-            "as": "AS18809 Cable Onda",
-            "query": "190.5.234.34",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 5.84
+            "isp": "Ufinet Panama S.A.",
+            "org": "Ufinet Panama S.A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "190.61.85.225",
+            "type": "http",
+            "port": "999",
+            "response_time": 7.61
+        },
+        {
+            "status": "success",
+            "country": "Panama",
+            "countryCode": "PA",
+            "region": "4",
+            "regionName": "Chiriqu\u00ed Province",
+            "city": "David",
+            "zip": "",
+            "lat": 8.4273,
+            "lon": -82.4309,
+            "timezone": "America/Panama",
+            "isp": "Internet Activo S.A.",
+            "org": "Internet Activo S.A",
+            "as": "AS265698 Internet Activo S.A.",
+            "query": "170.247.155.96",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.98
         },
         {
             "status": "success",
@@ -34,12 +53,12 @@
             "lon": -79.523,
             "timezone": "America/Panama",
             "isp": "Cable Onda",
-            "org": "PARSA, S.A",
-            "as": "AS18809 Cable Onda",
-            "query": "190.140.31.195",
+            "org": "Cable Onda",
+            "as": "AS14709 Cable Onda",
+            "query": "200.108.50.254",
             "type": "socks4",
-            "port": "9900",
-            "response_time": 8.34
+            "port": "4145",
+            "response_time": 8.71
         }
     ]
 }
