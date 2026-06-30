@@ -1,8 +1,27 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 4,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2188",
+            "lat": -26.2309,
+            "lon": 28.0583,
+            "timezone": "Africa/Johannesburg",
+            "isp": "OM-SN-46/24",
+            "org": "",
+            "as": "AS329243 One Mile Telecoms (Pty) Ltd.",
+            "query": "102.212.46.48",
+            "type": "http",
+            "port": "12354",
+            "response_time": 2.93
+        },
         {
             "status": "success",
             "country": "South Africa",
@@ -20,7 +39,83 @@
             "query": "41.162.162.142",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.2
+            "response_time": 3.1
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GT",
+            "regionName": "Gauteng",
+            "city": "Johannesburg",
+            "zip": "2041",
+            "lat": -26.2041,
+            "lon": 28.0473,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Amazon Technologies Inc",
+            "org": "AWS EC2 (af-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.246.6.135",
+            "type": "http",
+            "port": "23726",
+            "response_time": 3.22
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "FS",
+            "regionName": "Free State",
+            "city": "Bloemfontein",
+            "zip": "9301",
+            "lat": -29.1252,
+            "lon": 26.163,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Dimension Data",
+            "org": "Dimension Data",
+            "as": "AS3741 Dimension Data",
+            "query": "197.100.98.169",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.13
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "KZN",
+            "regionName": "KwaZulu-Natal",
+            "city": "Durban",
+            "zip": "4001",
+            "lat": -29.8553,
+            "lon": 31.0428,
+            "timezone": "Africa/Johannesburg",
+            "isp": "ispot-core",
+            "org": "",
+            "as": "AS327922 Perlcom CC T/A iSPOT",
+            "query": "169.239.45.51",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 6.45
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Potchefstroom",
+            "zip": "2531",
+            "lat": -26.7168,
+            "lon": 27.1054,
+            "timezone": "Africa/Johannesburg",
+            "isp": "JENNY Network",
+            "org": "",
+            "as": "AS327750 JENNY INTERNET (PTY) LTD",
+            "query": "154.126.213.152",
+            "type": "http",
+            "port": "8070",
+            "response_time": 6.53
         },
         {
             "status": "success",
@@ -39,7 +134,7 @@
             "query": "196.251.223.54",
             "type": "http",
             "port": "8080",
-            "response_time": 9.03
+            "response_time": 6.88
         },
         {
             "status": "success",
@@ -58,26 +153,7 @@
             "query": "102.206.118.204",
             "type": "http",
             "port": "8088",
-            "response_time": 10.47
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "GP",
-            "regionName": "Gauteng",
-            "city": "Randburg",
-            "zip": "2032",
-            "lat": -26.0964,
-            "lon": 27.991,
-            "timezone": "Africa/Johannesburg",
-            "isp": "West Indian Ocean Cable Company",
-            "org": "Wiocc SA",
-            "as": "AS37662 West Indian Ocean Cable Company",
-            "query": "196.250.239.229",
-            "type": "http",
-            "port": "8787",
-            "response_time": 12.11
+            "response_time": 10.75
         }
     ]
 }
