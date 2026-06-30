@@ -1,7 +1,7 @@
 {
     "countryCode": "GH",
     "country": "Ghana",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "143.105.208.94",
             "type": "http",
             "port": "8080",
-            "response_time": 7.95
+            "response_time": 4.26
+        },
+        {
+            "status": "success",
+            "country": "Ghana",
+            "countryCode": "GH",
+            "region": "AA",
+            "regionName": "Greater Accra Region",
+            "city": "Accra",
+            "zip": "",
+            "lat": 5.55602,
+            "lon": -0.1969,
+            "timezone": "Africa/Accra",
+            "isp": "K-Net",
+            "org": "",
+            "as": "AS33786 K-Net",
+            "query": "196.29.231.1",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.12
         }
     ]
 }
