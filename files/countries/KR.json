@@ -20,26 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 2.06
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "47",
-            "regionName": "Gyeongsangbuk-do",
-            "city": "Chilgok-gun",
-            "zip": "398",
-            "lat": 36.0734,
-            "lon": 128.3934,
-            "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "58.235.170.51",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.41
+            "response_time": 1.73
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "43.128.150.150",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.43
+            "response_time": 1.93
         },
         {
             "status": "success",
@@ -74,10 +55,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "152.70.241.59",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.53
+            "query": "152.70.237.238",
+            "type": "socks4",
+            "port": "3128",
+            "response_time": 4.54
         },
         {
             "status": "success",
@@ -96,7 +77,7 @@
             "query": "43.128.140.213",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.1
+            "response_time": 4.97
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "43.128.140.213",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.1
+            "response_time": 4.97
         },
         {
             "status": "success",
@@ -124,17 +105,36 @@
             "region": "11",
             "regionName": "Seoul",
             "city": "Seoul",
-            "zip": "",
-            "lat": 37.5665,
-            "lon": 126.978,
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
             "timezone": "Asia/Seoul",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-northeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.203.140.58",
-            "type": "http",
-            "port": "41786",
-            "response_time": 3.31
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.241.59",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 5.52
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
+            "timezone": "Asia/Seoul",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
+            "type": "socks4",
+            "port": "60984",
+            "response_time": 6.81
         }
     ]
 }
