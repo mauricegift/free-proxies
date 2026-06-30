@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 13,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "121.139.218.165",
             "type": "socks4",
             "port": "43295",
-            "response_time": 1.44
+            "response_time": 1.31
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.48
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "152.70.241.59",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.52
+            "response_time": 1.53
         },
         {
             "status": "success",
@@ -77,26 +58,7 @@
             "query": "43.128.150.150",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.79
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Goyang-si",
-            "zip": "103",
-            "lat": 37.6752,
-            "lon": 126.7648,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Kornet",
-            "as": "AS4766 Korea Telecom",
-            "query": "175.194.173.105",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.49
+            "response_time": 1.61
         },
         {
             "status": "success",
@@ -104,18 +66,37 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.5108,
-            "lon": 127.1048,
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 2.8
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.241.59",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.61
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Seongnam-si",
+            "zip": "13606",
+            "lat": 37.3595,
+            "lon": 127.105,
+            "timezone": "Asia/Seoul",
+            "isp": "Naver Business Platform Asia Pacific Pte. Ltd.",
+            "org": "NAVER Cloud Corp.",
+            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+            "query": "106.10.55.212",
+            "type": "http",
+            "port": "1121",
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -133,8 +114,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "54.180.117.151",
             "type": "http",
-            "port": "2000",
-            "response_time": 3.39
+            "port": "55216",
+            "response_time": 2.97
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Gangnam-gu",
+            "zip": "061",
+            "lat": 37.5093,
+            "lon": 127.0465,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "220.85.90.100",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.12
         },
         {
             "status": "success",
@@ -153,7 +153,7 @@
             "query": "43.203.140.58",
             "type": "http",
             "port": "28715",
-            "response_time": 3.53
+            "response_time": 3.65
         },
         {
             "status": "success",
@@ -161,18 +161,18 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "",
-            "lat": 37.5665,
-            "lon": 126.978,
+            "city": "Songpa-gu",
+            "zip": "055",
+            "lat": 37.5108,
+            "lon": 127.1048,
             "timezone": "Asia/Seoul",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-northeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "43.200.179.23",
-            "type": "http",
+            "isp": "LG POWERCOMM",
+            "org": "Xpeed",
+            "as": "AS17858 LG POWERCOMM",
+            "query": "115.136.121.54",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 5.26
+            "response_time": 3.91
         },
         {
             "status": "success",
@@ -180,56 +180,18 @@
             "countryCode": "KR",
             "region": "41",
             "regionName": "Gyeonggi-do",
-            "city": "Gwangmyeong",
-            "zip": "08620",
-            "lat": 37.465,
-            "lon": 126.891,
+            "city": "Uijeongbu-si",
+            "zip": "116",
+            "lat": 37.7413,
+            "lon": 127.0361,
             "timezone": "Asia/Seoul",
-            "isp": "Netropy CO.",
-            "org": "NURILINK",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
             "as": "AS4766 Korea Telecom",
-            "query": "118.67.170.121",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 5.86
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "30",
-            "regionName": "Daejeon",
-            "city": "Daejeon",
-            "zip": "34178",
-            "lat": 36.3461,
-            "lon": 127.375,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "plannix",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "114.108.177.104",
-            "type": "socks4",
-            "port": "60984",
-            "response_time": 6.6
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "193.122.96.242",
+            "query": "14.53.55.217",
             "type": "http",
             "port": "3128",
-            "response_time": 11.89
+            "response_time": 8.77
         },
         {
             "status": "success",
@@ -245,10 +207,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "146.56.191.98",
+            "query": "130.162.141.185",
             "type": "socks4",
-            "port": "14785",
-            "response_time": 17.34
+            "port": "52916",
+            "response_time": 12.39
         }
     ]
 }
