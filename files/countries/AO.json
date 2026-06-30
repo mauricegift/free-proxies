@@ -1,7 +1,7 @@
 {
     "countryCode": "AO",
     "country": "Angola",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "105.174.43.194",
             "type": "http",
             "port": "8080",
-            "response_time": 7.73
+            "response_time": 9.12
+        },
+        {
+            "status": "success",
+            "country": "Angola",
+            "countryCode": "AO",
+            "region": "LUA",
+            "regionName": "Luanda Province",
+            "city": "Luanda",
+            "zip": "",
+            "lat": -8.81466,
+            "lon": 13.2302,
+            "timezone": "Africa/Luanda",
+            "isp": "MSBYTE-SOLUTION, LIMITADA",
+            "org": "MSBYTE-SOLUTION, LIMITADA",
+            "as": "AS329506 MSBYTE-SOLUTION,LIMITADA",
+            "query": "102.207.128.2",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.33
         }
     ]
 }
