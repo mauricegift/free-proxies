@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "31.170.19.4",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.36
+            "response_time": 2.49
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "DNET ITRisinajumi Ltd.",
             "org": "Sia Nano IT",
             "as": "AS42099 SIA NETVISION",
-            "query": "31.170.17.141",
+            "query": "31.170.19.5",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.41
+            "response_time": 3.39
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1002",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "RETN Limited",
+            "org": "",
+            "as": "AS9002 RETN Limited",
+            "query": "45.130.212.97",
+            "type": "http",
+            "port": "8119",
+            "response_time": 5.32
         },
         {
             "status": "success",
@@ -48,17 +67,17 @@
             "region": "RIX",
             "regionName": "R\u012bga",
             "city": "Riga",
-            "zip": "",
+            "zip": "LV-1011",
             "lat": 56.9728,
             "lon": 24.1657,
             "timezone": "Europe/Riga",
-            "isp": "Baykov Ilya Sergeevich",
-            "org": "Baykov Ilya Sergeevich",
-            "as": "AS41745 Baykov Ilya Sergeevich",
-            "query": "185.236.22.192",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 10.18
+            "isp": "SIA VEESP",
+            "org": "SIA VEESP",
+            "as": "AS42532 SIA VEESP",
+            "query": "13.140.17.206",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.41
         }
     ]
 }
