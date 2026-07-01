@@ -1,8 +1,27 @@
 {
     "countryCode": "UY",
     "country": "Uruguay",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Uruguay",
+            "countryCode": "UY",
+            "region": "MO",
+            "regionName": "Montevideo Department",
+            "city": "Montevideo",
+            "zip": "11600",
+            "lat": -34.9007,
+            "lon": -56.1291,
+            "timezone": "America/Montevideo",
+            "isp": "Administracion Nacional de Telecomunicaciones",
+            "org": "Cliente Antel Uruguay",
+            "as": "AS6057 Administracion Nacional de Telecomunicaciones",
+            "query": "179.27.86.36",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.38
+        },
         {
             "status": "success",
             "country": "Uruguay",
@@ -20,7 +39,7 @@
             "query": "200.125.40.38",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.41
+            "response_time": 4.44
         }
     ]
 }
