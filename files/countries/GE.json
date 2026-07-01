@@ -1,8 +1,27 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Kutaisi",
+            "zip": "",
+            "lat": 42.2648,
+            "lon": 42.7041,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Deltanet-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.122.174",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.45
+        },
         {
             "status": "success",
             "country": "Georgia",
@@ -17,48 +36,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.43",
+            "query": "85.117.56.82",
             "type": "http",
             "port": "8080",
-            "response_time": 6.85
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "AJ",
-            "regionName": "Adjara",
-            "city": "Batumi",
-            "zip": "",
-            "lat": 41.6473,
-            "lon": 41.6258,
-            "timezone": "Asia/Tbilisi",
-            "isp": "JSC \"Silknet\"",
-            "org": "UTG MPLS DSL",
-            "as": "AS35805 JSC Silknet",
-            "query": "94.43.164.242",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.05
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "T-net Network",
-            "org": "",
-            "as": "AS44327 DELTA COMM LLC",
-            "query": "92.51.97.3",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.4
+            "response_time": 9.46
         }
     ]
 }
