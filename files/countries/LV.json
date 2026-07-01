@@ -1,8 +1,27 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "088",
+            "regionName": "Saldus novads",
+            "city": "Saldus",
+            "zip": "LV-3801",
+            "lat": 56.6335,
+            "lon": 22.4471,
+            "timezone": "Europe/Riga",
+            "isp": "DNET ITRisinajumi Ltd.",
+            "org": "Sia Nano IT",
+            "as": "AS42099 SIA NETVISION",
+            "query": "31.170.19.1",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.4
+        },
         {
             "status": "success",
             "country": "Latvia",
@@ -20,45 +39,7 @@
             "query": "159.148.146.65",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.42
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "088",
-            "regionName": "Saldus novads",
-            "city": "Saldus",
-            "zip": "LV-3801",
-            "lat": 56.6335,
-            "lon": 22.4471,
-            "timezone": "Europe/Riga",
-            "isp": "DNET ITRisinajumi Ltd.",
-            "org": "Sia Nano IT",
-            "as": "AS42099 SIA NETVISION",
-            "query": "31.170.19.4",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.5
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "Riga",
-            "city": "Riga",
-            "zip": "LV-1002",
-            "lat": 56.9473,
-            "lon": 24.0979,
-            "timezone": "Europe/Riga",
-            "isp": "RETN Limited",
-            "org": "",
-            "as": "AS9002 RETN Limited",
-            "query": "45.130.212.97",
-            "type": "http",
-            "port": "8119",
-            "response_time": 7.13
+            "response_time": 5.52
         }
     ]
 }
