@@ -1,8 +1,27 @@
 {
     "countryCode": "MV",
     "country": "Maldives",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Maldives",
+            "countryCode": "MV",
+            "region": "26",
+            "regionName": "Kaafu Atoll",
+            "city": "Mal\u00e9",
+            "zip": "",
+            "lat": 4.1772,
+            "lon": 73.5107,
+            "timezone": "Indian/Maldives",
+            "isp": "SatLink Pvt Ltd",
+            "org": "",
+            "as": "AS136238 SatLink Pvt Ltd",
+            "query": "103.110.109.53",
+            "type": "http",
+            "port": "3125",
+            "response_time": 5.95
+        },
         {
             "status": "success",
             "country": "Maldives",
@@ -20,7 +39,7 @@
             "query": "103.110.109.11",
             "type": "http",
             "port": "3125",
-            "response_time": 9.75
+            "response_time": 10.11
         }
     ]
 }
