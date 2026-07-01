@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "D02",
+            "lat": 53.3498,
+            "lon": -6.26031,
+            "timezone": "Europe/Dublin",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "34.246.183.20",
+            "type": "http",
+            "port": "44665",
+            "response_time": 0.93
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -19,8 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.109.106",
             "type": "http",
-            "port": "30942",
-            "response_time": 0.87
+            "port": "36322",
+            "response_time": 1.54
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "34.246.183.20",
             "type": "http",
             "port": "47794",
-            "response_time": 0.94
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "L",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "D02",
-            "lat": 53.3498,
-            "lon": -6.26031,
-            "timezone": "Europe/Dublin",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "34.246.183.20",
-            "type": "http",
-            "port": "44665",
-            "response_time": 1.69
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "L",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "D02",
-            "lat": 53.3498,
-            "lon": -6.26031,
-            "timezone": "Europe/Dublin",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.170.110.107",
-            "type": "http",
-            "port": "3128",
-            "response_time": 6.61
+            "response_time": 1.8
         }
     ]
 }
