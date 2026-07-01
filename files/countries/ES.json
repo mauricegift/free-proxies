@@ -20,7 +20,7 @@
             "query": "82.223.151.29",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.32
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -38,8 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.49.153.183",
             "type": "http",
-            "port": "35382",
-            "response_time": 3.86
+            "port": "8080",
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -53,12 +53,31 @@
             "lon": -0.8777,
             "timezone": "Europe/Madrid",
             "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
+            "org": "Amazon ZAZ",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.92.173.133",
+            "query": "51.49.153.183",
             "type": "http",
-            "port": "31270",
-            "response_time": 3.98
+            "port": "109",
+            "response_time": 3.53
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "San Fernando de Henares",
+            "zip": "28830",
+            "lat": 40.4239,
+            "lon": -3.53261,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "83.56.15.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.45
         },
         {
             "status": "success",
@@ -66,37 +85,18 @@
             "countryCode": "ES",
             "region": "VC",
             "regionName": "Valencia",
-            "city": "la Nucia",
-            "zip": "03530",
-            "lat": 38.6141,
-            "lon": -0.1239,
+            "city": "Valencia",
+            "zip": "46010",
+            "lat": 39.4739,
+            "lon": -0.37966,
             "timezone": "Europe/Madrid",
-            "isp": "CLOUDWIFI, SL",
-            "org": "CLOUDWIFI, SL",
-            "as": "AS202913 CLOUDWIFI, SL",
-            "query": "80.78.128.94",
+            "isp": "MasMovil Access Network",
+            "org": "Masmovil Ibercom, SA",
+            "as": "AS15704 XTRA TELECOM S.A.",
+            "query": "81.0.49.104",
             "type": "http",
-            "port": "8080",
-            "response_time": 7.15
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "CT",
-            "regionName": "Catalonia",
-            "city": "Barcelona",
-            "zip": "08017",
-            "lat": 41.4042,
-            "lon": 2.0966,
-            "timezone": "Europe/Madrid",
-            "isp": "Cloudi Nextgen SL",
-            "org": "Clouding VM",
-            "as": "AS49635 CLOUDI NEXTGEN SL",
-            "query": "187.33.151.110",
-            "type": "http",
-            "port": "3128",
-            "response_time": 10.07
+            "port": "20500",
+            "response_time": 6.84
         }
     ]
 }
