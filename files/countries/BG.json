@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 7,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "213.149.154.213",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.28
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "02",
-            "regionName": "Burgas",
-            "city": "Saint Vlas",
-            "zip": "8256",
-            "lat": 42.7167,
-            "lon": 27.7667,
-            "timezone": "Europe/Sofia",
-            "isp": "Vivacom Bulgaria EAD",
-            "org": "Vivacom Bulgaria EAD",
-            "as": "AS8866 Vivacom Bulgaria EAD",
-            "query": "77.85.168.253",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 1.34
+            "response_time": 0.3
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "93.183.175.6",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.43
+            "response_time": 0.33
         },
         {
             "status": "success",
@@ -77,26 +58,45 @@
             "query": "213.149.156.87",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.41
+            "response_time": 4.45
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "18",
-            "regionName": "Ruse",
-            "city": "Rousse",
-            "zip": "7000",
-            "lat": 43.8487,
-            "lon": 25.9534,
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6826,
+            "lon": 23.3223,
             "timezone": "Europe/Sofia",
-            "isp": "Kabelnet LTD",
-            "org": "Global Communication Net Plc",
-            "as": "AS205352 KABELNET LTD",
-            "query": "109.160.97.49",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 5.54
+            "isp": "A1 Bulgaria EAD",
+            "org": "",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "92.247.12.136",
+            "type": "http",
+            "port": "9510",
+            "response_time": 7.24
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "23",
+            "regionName": "Sofia",
+            "city": "Svoge",
+            "zip": "2260",
+            "lat": 42.9692,
+            "lon": 23.3531,
+            "timezone": "Europe/Sofia",
+            "isp": "Wi-Max Network Ltd.",
+            "org": "WI-MAX NET Ltd",
+            "as": "AS205331 Wi-Max Network Ltd.",
+            "query": "5.104.183.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.24
         },
         {
             "status": "success",
@@ -109,32 +109,13 @@
             "lat": 41.6439,
             "lon": 25.3594,
             "timezone": "Europe/Sofia",
-            "isp": "Netroniks EOOD",
-            "org": "Netronix Ltd.",
-            "as": "AS48233 Netroniks EOOD",
-            "query": "151.237.84.9",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
             "type": "http",
             "port": "8080",
-            "response_time": 10.64
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "24",
-            "regionName": "Stara Zagora",
-            "city": "Stara Zagora",
-            "zip": "6000",
-            "lat": 42.4361,
-            "lon": 25.6394,
-            "timezone": "Europe/Sofia",
-            "isp": "Vivacom Bulgaria EAD",
-            "org": "Bulgarian Telecommunications Company Plc",
-            "as": "AS8866 Vivacom Bulgaria EAD",
-            "query": "87.126.65.11",
-            "type": "http",
-            "port": "1388",
-            "response_time": 13.33
+            "response_time": 9.53
         }
     ]
 }
