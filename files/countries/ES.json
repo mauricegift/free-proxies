@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "82.223.151.29",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.42
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AR",
-            "regionName": "Aragon",
-            "city": "Zaragoza",
-            "zip": "50090",
-            "lat": 41.6579,
-            "lon": -0.8777,
-            "timezone": "Europe/Madrid",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon ZAZ",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.49.153.183",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.69
+            "response_time": 0.95
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "51.49.153.183",
             "type": "http",
             "port": "109",
-            "response_time": 3.53
+            "response_time": 2.39
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Marbella",
+            "zip": "29600",
+            "lat": 36.5149,
+            "lon": -4.8838,
+            "timezone": "Europe/Madrid",
+            "isp": "AVATEL TELECOM, SA",
+            "org": "AVATEL TELECOM, SA",
+            "as": "AS200845 AVATEL TELECOM, SA",
+            "query": "185.202.165.1",
+            "type": "http",
+            "port": "53281",
+            "response_time": 11.04
         },
         {
             "status": "success",
@@ -66,37 +66,18 @@
             "countryCode": "ES",
             "region": "MD",
             "regionName": "Madrid",
-            "city": "San Fernando de Henares",
-            "zip": "28830",
-            "lat": 40.4239,
-            "lon": -3.53261,
+            "city": "Madrid",
+            "zip": "28021",
+            "lat": 40.3482,
+            "lon": -3.6989,
             "timezone": "Europe/Madrid",
-            "isp": "Telefonica de Espana SAU",
-            "org": "RIMA (Red IP Multi Acceso)",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "83.56.15.57",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 5.45
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "VC",
-            "regionName": "Valencia",
-            "city": "Valencia",
-            "zip": "46010",
-            "lat": 39.4739,
-            "lon": -0.37966,
-            "timezone": "Europe/Madrid",
-            "isp": "MasMovil Access Network",
-            "org": "Masmovil Ibercom, SA",
-            "as": "AS15704 XTRA TELECOM S.A.",
-            "query": "81.0.49.104",
+            "isp": "Uni2",
+            "org": "",
+            "as": "AS12479 Orange Espagne SA",
+            "query": "90.174.128.42",
             "type": "http",
-            "port": "20500",
-            "response_time": 6.84
+            "port": "3128",
+            "response_time": 12.83
         }
     ]
 }
