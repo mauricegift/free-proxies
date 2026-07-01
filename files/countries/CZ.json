@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "53",
-            "regionName": "Pardubice Region",
-            "city": "Choce\u0148",
-            "zip": "565 01",
-            "lat": 50.0047,
-            "lon": 16.2268,
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Pilsen",
+            "zip": "318 00",
+            "lat": 49.7379,
+            "lon": 13.3194,
             "timezone": "Europe/Prague",
-            "isp": "CETIN a.s.",
-            "org": "CETIN",
-            "as": "AS28725 CETIN a.s.",
-            "query": "85.163.43.208",
+            "isp": "T-Mobile Czech Republic a.s.",
+            "org": "T-Mobile Czech Republic",
+            "as": "AS13036 T-Mobile Czech Republic a.s.",
+            "query": "91.139.78.174",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.63
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "He\u0159manova Hu\u0165",
+            "zip": "330 24",
+            "lat": 49.7076,
+            "lon": 13.0955,
+            "timezone": "Europe/Prague",
+            "isp": "NoskaNet",
+            "org": "ForWiFi, s.r.o",
+            "as": "AS16019 Vodafone Czech Republic a.s.",
+            "query": "46.174.23.200",
             "type": "socks4",
-            "port": "48293",
-            "response_time": 0.62
+            "port": "5678",
+            "response_time": 10.68
         }
     ]
 }
