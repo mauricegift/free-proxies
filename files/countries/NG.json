@@ -1,27 +1,8 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lagos",
-            "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
-            "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "Visual ICT",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.17.106",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.9
-        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -39,7 +20,7 @@
             "query": "154.113.170.1",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.11
+            "response_time": 4.99
         },
         {
             "status": "success",
@@ -47,18 +28,56 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Ebute-Metta",
+            "city": "Lagos",
             "zip": "",
-            "lat": 6.48799,
-            "lon": 3.38166,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Syscodes Communications",
-            "org": "",
-            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
-            "query": "102.36.133.62",
+            "isp": "Globacom Limited",
+            "org": "Globacom",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.83.242",
             "type": "http",
             "port": "8080",
-            "response_time": 6.71
+            "response_time": 6.26
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
+            "zip": "",
+            "lat": 9.0567,
+            "lon": 7.4969,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.209.162",
+            "type": "http",
+            "port": "8082",
+            "response_time": 7.9
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.5243,
+            "lon": 3.3792,
+            "timezone": "Africa/Lagos",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Starlink",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "143.105.102.145",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.11
         }
     ]
 }
