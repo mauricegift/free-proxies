@@ -1,12 +1,50 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 10,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
+            "region": "TPE",
+            "regionName": "Taipei City",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.053,
+            "lon": 121.5259,
+            "timezone": "Asia/Taipei",
+            "isp": "WAP.AC LLC",
+            "org": "Ipxo Limited",
+            "as": "AS401443 WAP.AC LLC",
+            "query": "85.237.207.49",
+            "type": "socks4",
+            "port": "50161",
+            "response_time": 1.29
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TPE",
+            "regionName": "Taipei City",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.053,
+            "lon": 121.5259,
+            "timezone": "Asia/Taipei",
+            "isp": "WAP.AC LLC",
+            "org": "Ipxo Limited",
+            "as": "AS401443 WAP.AC LLC",
+            "query": "85.237.207.49",
+            "type": "socks5",
+            "port": "50161",
+            "response_time": 1.29
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
             "region": "",
             "regionName": "Taiwan",
             "city": "Taipei",
@@ -20,7 +58,7 @@
             "query": "140.235.38.36",
             "type": "socks4",
             "port": "50161",
-            "response_time": 1.54
+            "response_time": 3.72
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "140.235.38.36",
             "type": "socks5",
             "port": "50161",
-            "response_time": 1.54
+            "response_time": 3.72
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "85.237.207.223",
             "type": "socks4",
             "port": "50161",
-            "response_time": 1.74
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -77,26 +115,7 @@
             "query": "85.237.207.223",
             "type": "socks5",
             "port": "50161",
-            "response_time": 1.74
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.033,
-            "lon": 121.565,
-            "timezone": "Asia/Taipei",
-            "isp": "Sunoaki Network LLC",
-            "org": "Sunaoki Network Customer",
-            "as": "AS212336 ByteVirt LLC",
-            "query": "140.235.38.56",
-            "type": "socks4",
-            "port": "50161",
-            "response_time": 2.42
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -115,83 +134,26 @@
             "query": "220.132.41.160",
             "type": "socks4",
             "port": "1088",
-            "response_time": 2.71
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.053,
-            "lon": 121.5259,
-            "timezone": "Asia/Taipei",
-            "isp": "WAP.AC LLC",
-            "org": "Ipxo Limited",
-            "as": "AS401443 WAP.AC LLC",
-            "query": "85.237.207.49",
-            "type": "socks4",
-            "port": "50161",
-            "response_time": 2.84
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.053,
-            "lon": 121.5259,
-            "timezone": "Asia/Taipei",
-            "isp": "WAP.AC LLC",
-            "org": "Ipxo Limited",
-            "as": "AS401443 WAP.AC LLC",
-            "query": "85.237.207.49",
-            "type": "socks5",
-            "port": "50161",
-            "response_time": 2.84
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taiwan",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.0329,
-            "lon": 121.5654,
-            "timezone": "Asia/Taipei",
-            "isp": "Global Communication Network Limited",
-            "org": "Imcrs",
-            "as": "AS148996 GLOBAL COMMUNICATION NETWORK LIMITED",
-            "query": "103.227.224.96",
-            "type": "socks4",
-            "port": "50161",
-            "response_time": 4.87
+            "response_time": 5.78
         },
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
             "region": "",
-            "regionName": "Taipei",
-            "city": "Banqiao",
+            "regionName": "Taiwan",
+            "city": "Taipei",
             "zip": "",
-            "lat": 24.9961,
-            "lon": 121.456,
+            "lat": 25.033,
+            "lon": 121.565,
             "timezone": "Asia/Taipei",
-            "isp": "Asia Pacific On-line Service Inc.",
-            "org": "Far EasTone Telecommunication Co., Ltd.",
-            "as": "AS7482 Asia Pacific On-line Service Inc.",
-            "query": "210.201.86.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 13.21
+            "isp": "Sunoaki Network LLC",
+            "org": "Sunaoki Network Customer",
+            "as": "AS212336 ByteVirt LLC",
+            "query": "140.235.38.56",
+            "type": "socks5",
+            "port": "50161",
+            "response_time": 6.13
         }
     ]
 }
