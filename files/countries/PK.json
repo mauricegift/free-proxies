@@ -1,26 +1,45 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Pakistan",
             "countryCode": "PK",
-            "region": "IS",
-            "regionName": "Islamabad",
-            "city": "Islamabad",
-            "zip": "44000",
-            "lat": 33.7233,
-            "lon": 73.0435,
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Manhala",
+            "zip": "",
+            "lat": 31.5333,
+            "lon": 74.55,
             "timezone": "Asia/Karachi",
-            "isp": "Nayatel (Pvt) Ltd",
-            "org": "Nayatel",
-            "as": "AS23674 Nayatel (Pvt) Ltd",
-            "query": "124.109.44.126",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 2.05
+            "port": "5678",
+            "response_time": 1.37
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54020",
+            "lat": 31.558,
+            "lon": 74.3587,
+            "timezone": "Asia/Karachi",
+            "isp": "IN CABLE INTERNET PRIVATE LIMITED",
+            "org": "In Cable Internet Private Limited",
+            "as": "AS150750 IN CABLE INTERNET (PRIVATE) LIMITED",
+            "query": "154.208.58.89",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.12
         }
     ]
 }
