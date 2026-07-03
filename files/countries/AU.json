@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -10,36 +10,36 @@
             "region": "VIC",
             "regionName": "Victoria",
             "city": "Melbourne",
-            "zip": "3150",
-            "lat": -37.8766,
-            "lon": 145.1623,
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
             "timezone": "Australia/Melbourne",
-            "isp": "Wideband Networks Pty Ltd",
-            "org": "Aussie Broadband Ltd",
-            "as": "AS4764 Aussie Broadband",
-            "query": "159.196.182.72",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
             "type": "http",
             "port": "8080",
-            "response_time": 11.43
+            "response_time": 4.01
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "North Sydney",
-            "zip": "2060",
-            "lat": -33.8401,
-            "lon": 151.209,
-            "timezone": "Australia/Sydney",
-            "isp": "OVH SAS",
-            "org": "OVH Australia PTY LTD",
-            "as": "AS16276 OVH SAS",
-            "query": "51.161.142.97",
-            "type": "http",
-            "port": "8080",
-            "response_time": 12.45
+            "region": "TAS",
+            "regionName": "Tasmania",
+            "city": "Burnie",
+            "zip": "7320",
+            "lat": -41.0531,
+            "lon": 145.906,
+            "timezone": "Australia/Hobart",
+            "isp": "Burnie City Council",
+            "org": "Burnie City Council",
+            "as": "AS134181 Burnie City Council",
+            "query": "111.235.128.218",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 4.8
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "61.29.96.146",
             "type": "http",
             "port": "8000",
-            "response_time": 14.75
+            "response_time": 5.72
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3150",
+            "lat": -37.8766,
+            "lon": 145.1623,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.95
         }
     ]
 }
