@@ -1,27 +1,8 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "IS",
-            "regionName": "Islamabad",
-            "city": "Islamabad",
-            "zip": "44000",
-            "lat": 33.7233,
-            "lon": 73.0435,
-            "timezone": "Asia/Karachi",
-            "isp": "Nayatel (Pvt) Ltd",
-            "org": "Nayatel",
-            "as": "AS23674 Nayatel (Pvt) Ltd",
-            "query": "124.109.44.126",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 3.06
-        },
         {
             "status": "success",
             "country": "Pakistan",
@@ -39,7 +20,7 @@
             "query": "154.208.58.89",
             "type": "http",
             "port": "8080",
-            "response_time": 6.65
+            "response_time": 3.79
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "103.225.221.18",
             "type": "socks4",
             "port": "5678",
-            "response_time": 10.46
+            "response_time": 8.7
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Optix Pakistan (Pvt.) Limited",
+            "org": "Optix Pakistan (Pvt.) Limited",
+            "as": "AS136384 Optix Pakistan (Pvt.) Limited",
+            "query": "202.165.232.238",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.53
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED",
+            "org": "",
+            "as": "AS152605 Z COM NETWORKS",
+            "query": "103.115.196.98",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.3
         }
     ]
 }
