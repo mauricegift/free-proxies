@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.244.95.175",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.66
+        },
         {
             "status": "success",
             "country": "Palestinian Territory",
@@ -20,7 +39,26 @@
             "query": "93.184.7.217",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.64
+            "response_time": 2.8
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Br\u016bq\u012bn",
+            "zip": "",
+            "lat": 32.0722,
+            "lon": 35.0994,
+            "timezone": "Asia/Hebron",
+            "isp": "AL Zaytona Company For Communication Ltd.",
+            "org": "Zaytona Network",
+            "as": "AS197350 AL Zaytona Company For Communication Ltd.",
+            "query": "46.60.15.72",
+            "type": "http",
+            "port": "8082",
+            "response_time": 7.38
         }
     ]
 }
