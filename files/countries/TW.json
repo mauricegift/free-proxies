@@ -1,26 +1,26 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Neihu District",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "New Taipei City",
             "zip": "",
-            "lat": 25.0649,
-            "lon": 121.579,
+            "lat": 25.0693,
+            "lon": 121.4626,
             "timezone": "Asia/Taipei",
-            "isp": "SILKERA",
-            "org": "New Silkera Network Corp.",
-            "as": "AS148996 GLOBAL COMMUNICATION NETWORK LIMITED",
-            "query": "202.160.76.237",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.01
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "61.216.156.222",
+            "type": "http",
+            "port": "60808",
+            "response_time": 6.44
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "103.227.224.96",
             "type": "socks4",
             "port": "50161",
-            "response_time": 7.17
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.033,
-            "lon": 121.565,
-            "timezone": "Asia/Taipei",
-            "isp": "Sunoaki Network LLC",
-            "org": "Sunaoki Network Customer",
-            "as": "AS212336 ByteVirt LLC",
-            "query": "140.235.38.56",
-            "type": "socks4",
-            "port": "50161",
-            "response_time": 9.66
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.053,
-            "lon": 121.5259,
-            "timezone": "Asia/Taipei",
-            "isp": "WAP.AC LLC",
-            "org": "Ipxo Limited",
-            "as": "AS401443 WAP.AC LLC",
-            "query": "85.237.207.223",
-            "type": "socks5",
-            "port": "50161",
-            "response_time": 22.25
+            "response_time": 6.76
         }
     ]
 }
