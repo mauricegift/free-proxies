@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -10,55 +10,36 @@
             "region": "75",
             "regionName": "Almaty",
             "city": "Almaty",
-            "zip": "050000",
+            "zip": "050010",
             "lat": 43.2525,
             "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "Kcell JSC",
-            "org": "\"KCell\" JSC",
-            "as": "AS29355 Kcell JSC",
-            "query": "2.78.60.10",
+            "isp": "EQU Technologies LLP",
+            "org": "EQU Technologies LLP",
+            "as": "AS42447 EQU Technologies LLP",
+            "query": "93.170.73.0",
             "type": "http",
-            "port": "3129",
-            "response_time": 1.13
+            "port": "8081",
+            "response_time": 2.06
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "79",
-            "regionName": "Shymkent",
-            "city": "Shymkent",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
             "zip": "",
-            "lat": 42.3069,
-            "lon": 69.6031,
+            "lat": 43.2525,
+            "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "D-Cloud LLC",
-            "org": "D-Cloud LLC",
-            "as": "AS202293 D-Cloud LLC",
-            "query": "91.229.151.118",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.78
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "",
-            "lat": 51.1876,
-            "lon": 71.4491,
-            "timezone": "Asia/Almaty",
-            "isp": "Kar-Tel LLC",
-            "org": "2DAY Telecom LLP",
-            "as": "AS21299 Kar-Tel LLC",
-            "query": "91.244.106.26",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.74.0",
             "type": "socks4",
-            "port": "1090",
-            "response_time": 3.18
+            "port": "1080",
+            "response_time": 2.58
         },
         {
             "status": "success",
@@ -77,26 +58,7 @@
             "query": "95.182.107.210",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.47
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "23",
-            "regionName": "Atyrau Oblisi",
-            "city": "Atyrau",
-            "zip": "060011",
-            "lat": 47.1169,
-            "lon": 51.8853,
-            "timezone": "Asia/Atyrau",
-            "isp": "JSC \"KazTransCom\"",
-            "org": "Kozhan LLP",
-            "as": "AS35104 Jusan Mobile JSC",
-            "query": "93.185.68.82",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.13
+            "response_time": 5.18
         },
         {
             "status": "success",
@@ -113,9 +75,9 @@
             "org": "HostLab LLC",
             "as": "AS205431 HostLab LLC",
             "query": "199.189.249.175",
-            "type": "http",
-            "port": "80",
-            "response_time": 11.7
+            "type": "socks4",
+            "port": "8080",
+            "response_time": 10.51
         }
     ]
 }
