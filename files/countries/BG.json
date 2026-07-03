@@ -1,26 +1,64 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "26",
-            "regionName": "Haskovo",
-            "city": "Svilengrad",
-            "zip": "6500",
-            "lat": 41.7662,
-            "lon": 26.1946,
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6951,
+            "lon": 23.325,
             "timezone": "Europe/Sofia",
-            "isp": "ESCOM Ltd",
-            "org": "ESCOMBG",
-            "as": "AS25374 ESCOM Ltd. - Haskovo",
-            "query": "93.183.175.6",
+            "isp": "Spectrum NET",
+            "org": "",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "212.50.19.150",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.39
+            "port": "4153",
+            "response_time": 3.28
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "19",
+            "regionName": "Silistra",
+            "city": "Sratsimir",
+            "zip": "7544",
+            "lat": 44.0358,
+            "lon": 27.3308,
+            "timezone": "Europe/Sofia",
+            "isp": "Netbox LTD",
+            "org": "NETBOX Mododex",
+            "as": "AS61071 NETBOX LTD",
+            "query": "88.213.214.254",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.43
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Ablanitsa",
+            "zip": "2932",
+            "lat": 41.5309,
+            "lon": 23.9355,
+            "timezone": "Europe/Sofia",
+            "isp": "Sarnica-Net LTD",
+            "org": "Sarnica-Net LTD",
+            "as": "AS48584 Sarnica-Net LTD",
+            "query": "193.68.115.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.57
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "5.104.183.41",
             "type": "http",
             "port": "8080",
-            "response_time": 4.11
+            "response_time": 8.43
         }
     ]
 }
