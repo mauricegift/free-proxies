@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "110.93.206.62",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.05
+            "response_time": 3.43
         },
         {
             "status": "success",
@@ -39,7 +39,83 @@
             "query": "221.120.218.66",
             "type": "http",
             "port": "8080",
-            "response_time": 13.36
+            "response_time": 5.11
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED",
+            "org": "",
+            "as": "AS152605 Z COM NETWORKS",
+            "query": "103.115.196.98",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.31
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Manhala",
+            "zip": "",
+            "lat": 31.5333,
+            "lon": 74.55,
+            "timezone": "Asia/Karachi",
+            "isp": "ConnecTel Internet Services",
+            "org": "",
+            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
+            "query": "103.225.221.18",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.42
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "IS",
+            "regionName": "Islamabad",
+            "city": "Islamabad",
+            "zip": "44000",
+            "lat": 33.7233,
+            "lon": 73.0435,
+            "timezone": "Asia/Karachi",
+            "isp": "Nayatel (Pvt) Ltd",
+            "org": "Micronet",
+            "as": "AS23674 Nayatel (Pvt) Ltd",
+            "query": "58.65.167.165",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 8.44
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Multan",
+            "zip": "60700",
+            "lat": 30.2216,
+            "lon": 71.4702,
+            "timezone": "Asia/Karachi",
+            "isp": "Prime Networks",
+            "org": "Prime Networks",
+            "as": "AS138590 Prime Networks",
+            "query": "103.134.1.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.81
         }
     ]
 }
