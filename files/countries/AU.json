@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 4.18
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,26 +39,45 @@
             "query": "54.253.183.151",
             "type": "http",
             "port": "33387",
-            "response_time": 3.51
+            "response_time": 4.28
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "QLD",
-            "regionName": "Queensland",
-            "city": "Brisbane",
-            "zip": "4006",
-            "lat": -27.4417,
-            "lon": 153.0197,
-            "timezone": "Australia/Brisbane",
-            "isp": "Wideband Networks Pty Ltd",
-            "org": "Wideband Networks Pty Ltd",
-            "as": "AS4764 Aussie Broadband",
-            "query": "180.181.215.232",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
+            "timezone": "Australia/Melbourne",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.19
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
+            "timezone": "Australia/Melbourne",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
             "type": "http",
-            "port": "3128",
-            "response_time": 5.06
+            "port": "8080",
+            "response_time": 11.78
         }
     ]
 }
