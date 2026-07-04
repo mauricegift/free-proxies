@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "185.196.61.251",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.55
+            "response_time": 0.57
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
+            "timezone": "America/Toronto",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.251",
+            "type": "http",
+            "port": "8081",
+            "response_time": 0.58
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H3H",
+            "lat": 45.5075,
+            "lon": -73.5887,
+            "timezone": "America/Toronto",
+            "isp": "Rica Web Services",
+            "org": "Rica Web Services",
+            "as": "AS26832 Rica Web Services",
+            "query": "38.49.210.79",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 1.59
         },
         {
             "status": "success",
@@ -39,7 +77,64 @@
             "query": "24.37.245.42",
             "type": "socks4",
             "port": "51056",
-            "response_time": 1.87
+            "response_time": 2.88
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H2A",
+            "lat": 45.562,
+            "lon": -73.6002,
+            "timezone": "America/Toronto",
+            "isp": "Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "45.73.0.118",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.75
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M5A",
+            "lat": 43.653,
+            "lon": -79.383,
+            "timezone": "America/Toronto",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (canadacentral)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.151.20.143",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.35
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H4X",
+            "lat": 45.5029,
+            "lon": -73.5723,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "192.99.44.178",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.8
         }
     ]
 }
