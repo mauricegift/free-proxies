@@ -1,8 +1,27 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1793,
+            "lon": 44.5159,
+            "timezone": "Asia/Yerevan",
+            "isp": "BioNet LLC",
+            "org": "Hnet LLC",
+            "as": "AS42991 BioNet LLC",
+            "query": "91.204.190.140",
+            "type": "http",
+            "port": "81",
+            "response_time": 1.52
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -14,13 +33,32 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Ucom Mobile Network",
-            "org": "",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
             "as": "AS44395 Ucom CJSC",
-            "query": "5.77.252.202",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.4
+            "query": "81.16.9.222",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 3.46
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.217",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 3.63
         }
     ]
 }
