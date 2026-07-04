@@ -1,8 +1,27 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "GA",
+            "regionName": "Ganja City",
+            "city": "Ganja",
+            "zip": "",
+            "lat": 40.6811,
+            "lon": 46.3605,
+            "timezone": "Asia/Baku",
+            "isp": "Caspian Telecom CGN",
+            "org": "Caspian Telecom LLC",
+            "as": "AS201167 Caspian Telecom LLC",
+            "query": "185.43.189.253",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 3.18
+        },
         {
             "status": "success",
             "country": "Azerbaijan",
@@ -14,13 +33,13 @@
             "lat": 40.3771,
             "lon": 49.8875,
             "timezone": "Asia/Baku",
-            "isp": "Izone LLC",
-            "org": "Izone LLC",
-            "as": "AS200154 IZONE LLC",
-            "query": "185.32.45.61",
+            "isp": "SUPERONLAYN",
+            "org": "Superonlayn LTD",
+            "as": "AS39232 Uninet LLC",
+            "query": "5.134.48.59",
             "type": "http",
-            "port": "8090",
-            "response_time": 7.55
+            "port": "8080",
+            "response_time": 7.0
         }
     ]
 }
