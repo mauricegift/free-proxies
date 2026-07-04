@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Altawk Hosting",
-            "org": "YeezyHost Hosting",
-            "as": "AS198178 365.partners INC",
-            "query": "77.91.68.17",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
+            "as": "AS44395 Ucom CJSC",
+            "query": "81.16.9.222",
             "type": "socks4",
-            "port": "445",
-            "response_time": 3.46
+            "port": "3629",
+            "response_time": 3.55
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC-Alfa CJSC",
+            "org": "GNC Customers29",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "195.250.92.58",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.48
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1872,
+            "lon": 44.5152,
+            "timezone": "Asia/Yerevan",
+            "isp": "Data Campus Limited",
+            "org": "Data Campus Limited",
+            "as": "AS215929 Data Campus Limited",
+            "query": "45.142.195.110",
+            "type": "socks5",
+            "port": "995",
+            "response_time": 14.15
         }
     ]
 }
