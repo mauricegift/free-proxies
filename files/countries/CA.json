@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,9 @@
             "org": "Oneprovider.com",
             "as": "AS136258 BrainStorm Network, Inc",
             "query": "185.196.61.251",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.2
+            "type": "http",
+            "port": "8081",
+            "response_time": 0.58
         },
         {
             "status": "success",
@@ -29,17 +29,36 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H3A",
-            "lat": 45.5063,
-            "lon": -73.5794,
+            "zip": "H3H",
+            "lat": 45.5075,
+            "lon": -73.5887,
             "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "167.114.172.208",
-            "type": "http",
-            "port": "3129",
-            "response_time": 10.08
+            "isp": "Rica Web Services",
+            "org": "Rica Web Services",
+            "as": "AS26832 Rica Web Services",
+            "query": "38.49.210.79",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 0.74
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Brampton",
+            "zip": "L6R",
+            "lat": 43.7627,
+            "lon": -79.7606,
+            "timezone": "America/Toronto",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
+            "type": "socks4",
+            "port": "50877",
+            "response_time": 3.63
         }
     ]
 }
