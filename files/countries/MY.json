@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "08",
+            "regionName": "Perak",
+            "city": "Lumut",
+            "zip": "32300",
+            "lat": 4.2323,
+            "lon": 100.63,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Unifi BIZ",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "1.32.57.85",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.8
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +39,7 @@
             "query": "175.139.200.17",
             "type": "socks4",
             "port": "4153",
-            "response_time": 8.54
+            "response_time": 6.97
         }
     ]
 }
