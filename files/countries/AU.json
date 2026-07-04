@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4006",
+            "lat": -27.4417,
+            "lon": 153.0197,
+            "timezone": "Australia/Brisbane",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "180.181.215.232",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.9
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,26 @@
             "query": "61.29.96.146",
             "type": "http",
             "port": "8000",
-            "response_time": 12.41
+            "response_time": 8.07
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
+            "timezone": "Australia/Melbourne",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 11.65
         }
     ]
 }
