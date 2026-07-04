@@ -1,7 +1,7 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "217.60.33.157",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.86
+            "response_time": 0.37
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "74.162.65.56",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.31
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "AZ",
+            "regionName": "Abu Dhabi",
+            "city": "Masdar City",
+            "zip": "",
+            "lat": 24.4321,
+            "lon": 54.6158,
+            "timezone": "Asia/Dubai",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.151.130.247",
+            "type": "http",
+            "port": "1111",
+            "response_time": 6.05
         }
     ]
 }
