@@ -1,8 +1,27 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 2,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "15",
+            "regionName": "Baja Verapaz",
+            "city": "El Chol",
+            "zip": "",
+            "lat": 14.9606,
+            "lon": -90.488,
+            "timezone": "America/Guatemala",
+            "isp": "Navega.com S.A.",
+            "org": "",
+            "as": "AS26617 Navega.com S.A.",
+            "query": "190.14.5.164",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.13
+        },
         {
             "status": "success",
             "country": "Guatemala",
@@ -20,7 +39,7 @@
             "query": "190.61.101.72",
             "type": "http",
             "port": "8080",
-            "response_time": 7.67
+            "response_time": 4.2
         },
         {
             "status": "success",
@@ -39,7 +58,64 @@
             "query": "181.119.105.157",
             "type": "http",
             "port": "999",
-            "response_time": 9.11
+            "response_time": 4.71
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "15",
+            "regionName": "Baja Verapaz",
+            "city": "Salam\u00e1",
+            "zip": "",
+            "lat": 15.1021,
+            "lon": -90.3191,
+            "timezone": "America/Guatemala",
+            "isp": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "org": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "as": "AS263781 ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "query": "138.118.104.122",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.46
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01009",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "186.33.0.11",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.8
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01014",
+            "lat": 14.6419,
+            "lon": -90.5133,
+            "timezone": "America/Guatemala",
+            "isp": "Telgua",
+            "org": "Telgua",
+            "as": "AS14754 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+            "query": "201.216.147.253",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.36
         }
     ]
 }
