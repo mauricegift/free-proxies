@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "SZ",
-            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
-            "city": "Z\u00e1hony",
-            "zip": "4625",
-            "lat": 48.4137,
-            "lon": 22.1753,
-            "timezone": "Europe/Budapest",
-            "isp": "Szatmarnet",
-            "org": "",
-            "as": "AS58098 Szatmarnet Bt.",
-            "query": "46.107.230.122",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.44
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,7 +20,45 @@
             "query": "91.82.115.159",
             "type": "http",
             "port": "8080",
-            "response_time": 11.85
+            "response_time": 0.61
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BK",
+            "regionName": "B\u00e1cs-Kiskun",
+            "city": "Kecskem\u00e9t",
+            "zip": "6000",
+            "lat": 46.905,
+            "lon": 19.6958,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
+            "org": "INVITEL / DIGI",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "85.66.19.69",
+            "type": "http",
+            "port": "18080",
+            "response_time": 4.6
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "JN",
+            "regionName": "J\u00e1sz-Nagykun-Szolnok",
+            "city": "Tiszaf\u00fcred",
+            "zip": "5350",
+            "lat": 47.6167,
+            "lon": 20.7667,
+            "timezone": "Europe/Budapest",
+            "isp": "htc",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "31.46.33.59",
+            "type": "http",
+            "port": "53281",
+            "response_time": 18.76
         }
     ]
 }
