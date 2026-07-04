@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "M",
+            "regionName": "Munster",
+            "city": "Limerick",
+            "zip": "V94",
+            "lat": 52.6669,
+            "lon": -8.6274,
+            "timezone": "Europe/Dublin",
+            "isp": "Enet Telecommunications Networks Limited",
+            "org": "Nuwave",
+            "as": "AS207044 Enet Telecommunications Networks Limited",
+            "query": "185.138.114.111",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.43
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -20,7 +39,7 @@
             "query": "172.205.123.178",
             "type": "http",
             "port": "3128",
-            "response_time": 0.43
+            "response_time": 9.46
         }
     ]
 }
