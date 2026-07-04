@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "TAS",
+            "regionName": "Tasmania",
+            "city": "Burnie",
+            "zip": "7320",
+            "lat": -41.0531,
+            "lon": 145.906,
+            "timezone": "Australia/Hobart",
+            "isp": "Burnie City Council",
+            "org": "Burnie City Council",
+            "as": "AS134181 Burnie City Council",
+            "query": "111.235.128.218",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 3.45
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,7 @@
             "query": "159.196.182.72",
             "type": "http",
             "port": "8080",
-            "response_time": 6.08
+            "response_time": 4.78
         },
         {
             "status": "success",
@@ -38,8 +57,27 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "80",
-            "response_time": 8.85
+            "port": "8000",
+            "response_time": 5.48
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
+            "timezone": "Australia/Melbourne",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.32
         }
     ]
 }
