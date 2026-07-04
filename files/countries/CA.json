@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
+            "timezone": "America/Toronto",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.251",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.2
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -10,17 +29,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.5075,
-            "lon": -73.5887,
+            "zip": "H3A",
+            "lat": 45.5063,
+            "lon": -73.5794,
             "timezone": "America/Toronto",
             "isp": "OVH SAS",
             "org": "OVH Hosting, Inc.",
             "as": "AS16276 OVH SAS",
-            "query": "158.69.49.178",
+            "query": "167.114.172.208",
             "type": "http",
-            "port": "8080",
-            "response_time": 8.82
+            "port": "3129",
+            "response_time": 10.08
         }
     ]
 }
