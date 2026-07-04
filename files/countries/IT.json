@@ -1,8 +1,46 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Bronte",
+            "zip": "95034",
+            "lat": 37.7891,
+            "lon": 14.8293,
+            "timezone": "Europe/Rome",
+            "isp": "Wicomm SRLS",
+            "org": "Wicomm SRLS",
+            "as": "AS212696 Wicomm SRLS",
+            "query": "185.195.129.116",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.55
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Pomezia",
+            "zip": "00071",
+            "lat": 41.6693,
+            "lon": 12.5012,
+            "timezone": "Europe/Rome",
+            "isp": "Cinzia Tocci trading as Lumanex Srl",
+            "org": "C1V ISP",
+            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
+            "query": "5.59.248.134",
+            "type": "socks4",
+            "port": "8081",
+            "response_time": 3.29
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +58,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.31
+            "response_time": 4.17
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "93.187.25.12",
             "type": "http",
             "port": "58080",
-            "response_time": 6.34
+            "response_time": 4.55
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
+            "type": "http",
+            "port": "8081",
+            "response_time": 6.16
         }
     ]
 }
