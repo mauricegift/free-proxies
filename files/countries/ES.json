@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "82.223.151.29",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.33
+            "response_time": 0.43
         },
         {
             "status": "success",
@@ -29,17 +29,55 @@
             "region": "MD",
             "regionName": "Madrid",
             "city": "Madrid",
-            "zip": "28022",
-            "lat": 40.4505,
-            "lon": -3.5926,
+            "zip": "",
+            "lat": 40.4167,
+            "lon": -3.7037,
             "timezone": "Europe/Madrid",
-            "isp": "Citelia s.a.",
-            "org": "Fibercli",
-            "as": "AS206276 Citelia s.a.",
-            "query": "193.38.224.169",
+            "isp": "BlueVPS OU",
+            "org": "BlueVPS OU",
+            "as": "AS62005 BlueVPS OU",
+            "query": "83.97.79.114",
             "type": "http",
-            "port": "8081",
-            "response_time": 3.16
+            "port": "8443",
+            "response_time": 1.48
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "",
+            "lat": 40.4167,
+            "lon": -3.7037,
+            "timezone": "Europe/Madrid",
+            "isp": "BlueVPS OU",
+            "org": "BlueVPS OU",
+            "as": "AS62005 BlueVPS OU",
+            "query": "83.97.79.114",
+            "type": "socks5",
+            "port": "8443",
+            "response_time": 1.48
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CT",
+            "regionName": "Catalonia",
+            "city": "Aiguam\u00farcia",
+            "zip": "43815",
+            "lat": 41.3366,
+            "lon": 1.3639,
+            "timezone": "Europe/Madrid",
+            "isp": "Xtra Telecom S.A.",
+            "org": "Euskaltel CM",
+            "as": "AS15704 XTRA TELECOM S.A.",
+            "query": "85.87.182.223",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.47
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "195.189.190.245",
             "type": "http",
             "port": "9090",
-            "response_time": 9.66
+            "response_time": 7.9
         },
         {
             "status": "success",
@@ -76,8 +114,8 @@
             "as": "AS15704 XTRA TELECOM S.A.",
             "query": "81.0.49.104",
             "type": "http",
-            "port": "19775",
-            "response_time": 13.23
+            "port": "20500",
+            "response_time": 8.13
         }
     ]
 }
