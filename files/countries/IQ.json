@@ -1,7 +1,7 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,48 @@
             "isp": "Hulum",
             "org": "EarthLink Ltd. Communications&",
             "as": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
-            "query": "109.224.22.36",
+            "query": "109.224.22.34",
             "type": "socks4",
             "port": "51372",
-            "response_time": 0.62
+            "response_time": 1.73
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "SU",
+            "regionName": "Sulaymaniyah Governorate",
+            "city": "Sulaymaniyah",
+            "zip": "",
+            "lat": 35.5558,
+            "lon": 45.4351,
+            "timezone": "Asia/Baghdad",
+            "isp": "Next Net for Internet and IT Services LTD",
+            "org": "Next Net Internet and IT Services LTD",
+            "as": "AS34515 Next Net for Internet and IT Services LTD",
+            "query": "185.95.186.165",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 1.73
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "AR",
+            "regionName": "Erbil Governorate",
+            "city": "Erbil",
+            "zip": "",
+            "lat": 36.1901,
+            "lon": 43.993,
+            "timezone": "Asia/Baghdad",
+            "isp": "Rey Telecom Company",
+            "org": "Rey Telecom Company",
+            "as": "AS21277 Allay Nawroz Telecom Company for Communication/Ltd.",
+            "query": "185.34.17.72",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 1.86
         },
         {
             "status": "success",
@@ -39,45 +77,7 @@
             "query": "109.224.12.170",
             "type": "socks4",
             "port": "52015",
-            "response_time": 1.96
-        },
-        {
-            "status": "success",
-            "country": "Iraq",
-            "countryCode": "IQ",
-            "region": "SU",
-            "regionName": "Sulaymaniyah Governorate",
-            "city": "Kelar",
-            "zip": "",
-            "lat": 34.6308,
-            "lon": 45.3276,
-            "timezone": "Asia/Baghdad",
-            "isp": "BAG",
-            "org": "",
-            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
-            "query": "62.201.217.194",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.19
-        },
-        {
-            "status": "success",
-            "country": "Iraq",
-            "countryCode": "IQ",
-            "region": "SU",
-            "regionName": "Sulaymaniyah Governorate",
-            "city": "Sulaymaniyah",
-            "zip": "",
-            "lat": 35.5558,
-            "lon": 45.4351,
-            "timezone": "Asia/Baghdad",
-            "isp": "NETWORKS-SULY1",
-            "org": "",
-            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
-            "query": "62.201.212.198",
-            "type": "socks4",
-            "port": "4673",
-            "response_time": 2.77
+            "response_time": 3.75
         },
         {
             "status": "success",
@@ -93,10 +93,29 @@
             "isp": "Allay Nawroz Telecom Company for Communication/Ltd.",
             "org": "Allai NEwroz Telecom",
             "as": "AS21277 Allay Nawroz Telecom Company for Communication/Ltd.",
-            "query": "109.127.82.4",
+            "query": "109.127.82.86",
             "type": "http",
-            "port": "8085",
-            "response_time": 8.74
+            "port": "8080",
+            "response_time": 5.12
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "SU",
+            "regionName": "Sulaymaniyah Governorate",
+            "city": "Sulaymaniyah",
+            "zip": "",
+            "lat": 35.5558,
+            "lon": 45.4351,
+            "timezone": "Asia/Baghdad",
+            "isp": "NETWORKS-FTTH1",
+            "org": "",
+            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
+            "query": "62.201.233.59",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.8
         },
         {
             "status": "success",
@@ -115,7 +134,7 @@
             "query": "5.175.151.66",
             "type": "http",
             "port": "8080",
-            "response_time": 12.25
+            "response_time": 6.79
         }
     ]
 }
