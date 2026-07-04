@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
+            "timezone": "Australia/Melbourne",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.64
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -19,8 +38,8 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "8000",
-            "response_time": 6.73
+            "port": "80",
+            "response_time": 11.4
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "103.131.232.9",
             "type": "http",
             "port": "8080",
-            "response_time": 10.67
+            "response_time": 14.23
         }
     ]
 }
