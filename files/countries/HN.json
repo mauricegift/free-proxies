@@ -1,26 +1,45 @@
 {
     "countryCode": "HN",
     "country": "Honduras",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Honduras",
             "countryCode": "HN",
-            "region": "CR",
-            "regionName": "Cort\u00e9s Department",
-            "city": "San Pedro Sula",
+            "region": "LE",
+            "regionName": "Lempira Department",
+            "city": "Taragual",
             "zip": "",
-            "lat": 15.4967,
-            "lon": -88.0338,
+            "lat": 14.75,
+            "lon": -88.4833,
             "timezone": "America/Tegucigalpa",
-            "isp": "Telgua",
-            "org": "SERCOM de Honduras",
-            "as": "AS14754 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "query": "181.115.74.172",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.15
+            "isp": "Ufinet Panama S.A.",
+            "org": "Ufinet Honduras, S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.78.44.245",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.28
+        },
+        {
+            "status": "success",
+            "country": "Honduras",
+            "countryCode": "HN",
+            "region": "CM",
+            "regionName": "Comayagua Department",
+            "city": "Rancho Grande",
+            "zip": "",
+            "lat": 14.6885,
+            "lon": -87.4952,
+            "timezone": "America/Tegucigalpa",
+            "isp": "Asociacion De Servicio De Internet S. De RL",
+            "org": "CIBERNET S. de RL de CV",
+            "as": "AS262234 ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+            "query": "45.4.85.210",
+            "type": "http",
+            "port": "999",
+            "response_time": 8.09
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "179.49.113.230",
             "type": "http",
             "port": "999",
-            "response_time": 13.25
+            "response_time": 9.9
         }
     ]
 }
