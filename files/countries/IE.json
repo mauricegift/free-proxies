@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "40.127.188.42",
             "type": "http",
             "port": "8089",
-            "response_time": 0.3
+            "response_time": 0.39
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "D01",
+            "lat": 53.3478,
+            "lon": -6.2597,
+            "timezone": "Europe/Dublin",
+            "isp": "Microsoft",
+            "org": "Microsoft Azure Cloud (northeurope)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "172.205.123.178",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.46
         }
     ]
 }
