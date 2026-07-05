@@ -1,7 +1,7 @@
 {
     "countryCode": "PE",
     "country": "Peru",
-    "count": 7,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "45.177.20.187",
             "type": "http",
             "port": "999",
-            "response_time": 1.24
+            "response_time": 1.43
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "190.12.95.170",
             "type": "socks4",
             "port": "37209",
-            "response_time": 1.68
+            "response_time": 3.51
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "CUS",
+            "regionName": "Cuzco Department",
+            "city": "Challabamba",
+            "zip": "",
+            "lat": -13.2116,
+            "lon": -71.6532,
+            "timezone": "America/Lima",
+            "isp": "Internexa S.a. E.S.P",
+            "org": "Internexa Peru S.A",
+            "as": "AS18678 INTERNEXA S.A. E.S.P",
+            "query": "190.108.82.247",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.7
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "177.91.255.35",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.08
+            "response_time": 6.1
         },
         {
             "status": "success",
@@ -71,70 +90,70 @@
             "lat": -12.046,
             "lon": -77.0305,
             "timezone": "America/Lima",
-            "isp": "INTEL COMUNICACIONES PER\u00da SAC",
-            "org": "INTEL COMUNICACIONES PER\u00da SAC",
-            "as": "AS270006 INTEL COMUNICACIONES PER\u00da SAC",
-            "query": "187.102.210.138",
+            "isp": "Telefonica del Peru",
+            "org": "PE-TDPERX6-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "200.121.48.195",
             "type": "http",
             "port": "999",
-            "response_time": 4.37
+            "response_time": 9.45
         },
         {
             "status": "success",
             "country": "Peru",
             "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima",
-            "city": "Lima",
-            "zip": "01",
-            "lat": -12.0466,
-            "lon": -77.043,
-            "timezone": "America/Lima",
-            "isp": "FICOM TELECOMUNICACIONES",
-            "org": "FICOM TELECOMUNICACIONES",
-            "as": "AS266771 MAKRONET CONSULTING TECNOLOGIA E INFORMATICA LIMITADA",
-            "query": "190.93.224.32",
-            "type": "http",
-            "port": "999",
-            "response_time": 4.41
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima",
-            "city": "Lima",
-            "zip": "15001",
-            "lat": -12.0491,
-            "lon": -77.0305,
-            "timezone": "America/Lima",
-            "isp": "Loa Network",
-            "org": "Loa Network",
-            "as": "AS273067 LOA NETWORK JL S.A.C.",
-            "query": "38.199.6.82",
-            "type": "http",
-            "port": "999",
-            "response_time": 5.61
-        },
-        {
-            "status": "success",
-            "country": "Peru",
-            "countryCode": "PE",
-            "region": "LMA",
-            "regionName": "Lima Province",
-            "city": "Lima",
+            "region": "LIM",
+            "regionName": "Lima region",
+            "city": "San Borja",
             "zip": "",
-            "lat": -12.046,
-            "lon": -77.0305,
+            "lat": -12.1092,
+            "lon": -77.0163,
             "timezone": "America/Lima",
-            "isp": "America Movil Peru S.A.C.",
-            "org": "America Movil Peru S.A.C",
-            "as": "AS12252 America Movil Peru S.A.C.",
-            "query": "190.223.41.250",
+            "isp": "Telefonica Del Peru",
+            "org": "PE-TDPERX12-LACNIC",
+            "as": "AS6147 INTEGRATEL PER\u00da S.A.A.",
+            "query": "201.230.121.244",
             "type": "http",
             "port": "999",
-            "response_time": 10.57
+            "response_time": 11.37
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "PUN",
+            "regionName": "Puno",
+            "city": "Puno",
+            "zip": "",
+            "lat": -15.84,
+            "lon": -70.022,
+            "timezone": "America/Lima",
+            "isp": "Level 3 Peru S.A",
+            "org": "Conecto Company Telecom S.A.C",
+            "as": "AS3549 Level 3 Parent, LLC",
+            "query": "190.216.163.195",
+            "type": "http",
+            "port": "999",
+            "response_time": 12.77
+        },
+        {
+            "status": "success",
+            "country": "Peru",
+            "countryCode": "PE",
+            "region": "SAM",
+            "regionName": "San Mart\u00edn Department",
+            "city": "Tarapoto",
+            "zip": "",
+            "lat": -6.5045,
+            "lon": -76.3629,
+            "timezone": "America/Lima",
+            "isp": "Tecno Proyectos Globales S.a.c. - Tecnoglo S.A.C.",
+            "org": "Tecno Proyectos Globales S.a.c. - Tecnoglo S.A.C",
+            "as": "AS270069 TECNO PROYECTOS GLOBALES S.A.C. - TECNOGLO S.A.C.",
+            "query": "177.67.250.222",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.68
         }
     ]
 }
