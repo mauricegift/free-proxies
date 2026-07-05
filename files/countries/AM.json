@@ -1,27 +1,8 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 5,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "KT",
-            "regionName": "Kotayk",
-            "city": "Arinj",
-            "zip": "",
-            "lat": 40.2337,
-            "lon": 44.5821,
-            "timezone": "Asia/Yerevan",
-            "isp": "Proitlab LLC",
-            "org": "Proitlab LLC",
-            "as": "AS216058 Proitlab LLC",
-            "query": "2.56.204.180",
-            "type": "http",
-            "port": "1080",
-            "response_time": 2.37
-        },
         {
             "status": "success",
             "country": "Armenia",
@@ -33,13 +14,13 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Ucom CJSC",
-            "org": "Ucom",
-            "as": "AS44395 Ucom CJSC",
-            "query": "81.16.9.222",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.193",
             "type": "socks4",
             "port": "3629",
-            "response_time": 4.74
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "130.193.123.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.61
+            "response_time": 5.59
         },
         {
             "status": "success",
@@ -71,32 +52,13 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Ucom Mobile Network",
-            "org": "",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
             "as": "AS44395 Ucom CJSC",
-            "query": "5.77.252.202",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.48
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
-            "timezone": "Asia/Yerevan",
-            "isp": "ISP SUPPORT LLC",
-            "org": "ISP SUPPORT LLC",
-            "as": "AS201884 ISP SUPPORT LLC",
-            "query": "91.103.248.58",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.74
+            "query": "81.16.9.222",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 6.01
         }
     ]
 }
