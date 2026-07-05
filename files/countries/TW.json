@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "220.132.41.160",
             "type": "socks4",
             "port": "1088",
-            "response_time": 1.71
+            "response_time": 1.69
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "Xindian District",
+            "zip": "",
+            "lat": 24.9547,
+            "lon": 121.5354,
+            "timezone": "Asia/Taipei",
+            "isp": "Extra-Lan Technologies Co., LTD",
+            "org": "cgnet",
+            "as": "AS18429 Extra-Lan Technologies Co., LTD",
+            "query": "27.147.28.73",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.06
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TAO",
+            "regionName": "Taoyuan",
+            "city": "Daxi",
+            "zip": "",
+            "lat": 24.8829,
+            "lon": 121.2827,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "122.116.180.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.7
         },
         {
             "status": "success",
@@ -39,45 +77,45 @@
             "query": "85.237.207.223",
             "type": "socks4",
             "port": "50161",
-            "response_time": 4.37
+            "response_time": 10.65
         },
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "",
-            "regionName": "Taipei",
-            "city": "Banqiao",
+            "region": "TPE",
+            "regionName": "Taipei City",
+            "city": "Taipei",
             "zip": "",
-            "lat": 24.9961,
-            "lon": 121.456,
+            "lat": 25.053,
+            "lon": 121.5259,
             "timezone": "Asia/Taipei",
-            "isp": "Asia Pacific On-line Service Inc.",
-            "org": "Far EasTone Telecommunication Co., Ltd.",
-            "as": "AS7482 Asia Pacific On-line Service Inc.",
-            "query": "210.201.86.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.53
+            "isp": "WAP.AC LLC",
+            "org": "Ipxo Limited",
+            "as": "AS401443 WAP.AC LLC",
+            "query": "85.237.207.223",
+            "type": "socks5",
+            "port": "50161",
+            "response_time": 10.65
         },
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "",
+            "region": "TPE",
             "regionName": "Taiwan",
             "city": "Taipei",
             "zip": "",
-            "lat": 25.033,
-            "lon": 121.565,
+            "lat": 25.0329,
+            "lon": 121.5654,
             "timezone": "Asia/Taipei",
-            "isp": "Sunoaki Network LLC",
-            "org": "Sunaoki Network Customer",
-            "as": "AS212336 ByteVirt LLC",
-            "query": "140.235.38.56",
+            "isp": "Akari Networks",
+            "org": "Akari Networks",
+            "as": "AS38136 Akari Networks",
+            "query": "141.11.42.160",
             "type": "socks4",
             "port": "50161",
-            "response_time": 15.38
+            "response_time": 19.29
         }
     ]
 }
