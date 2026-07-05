@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
             "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
+            "org": "Caucasus Online Ltd",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.62.78",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.97
+            "query": "85.117.32.166",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.63
         },
         {
             "status": "success",
@@ -39,26 +39,45 @@
             "query": "94.43.164.242",
             "type": "http",
             "port": "8080",
-            "response_time": 6.53
+            "response_time": 5.77
         },
         {
             "status": "success",
             "country": "Georgia",
             "countryCode": "GE",
-            "region": "IM",
-            "regionName": "Imereti",
-            "city": "Kutaisi",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
             "zip": "",
-            "lat": 42.2648,
-            "lon": 42.7041,
+            "lat": 41.6959,
+            "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Deltanet-net Network",
-            "org": "",
-            "as": "AS44327 DELTA COMM LLC",
-            "query": "92.51.122.174",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.62.70",
             "type": "http",
             "port": "8080",
-            "response_time": 7.07
+            "response_time": 6.11
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.61.108",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.14
         }
     ]
 }
