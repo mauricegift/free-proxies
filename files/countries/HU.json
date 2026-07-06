@@ -1,26 +1,26 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "BU",
-            "regionName": "Budapest",
-            "city": "Budapest",
-            "zip": "1011",
-            "lat": 47.5,
-            "lon": 19.0412,
+            "region": "ZA",
+            "regionName": "Zala County",
+            "city": "Nagykanizsa",
+            "zip": "8800",
+            "lat": 46.4535,
+            "lon": 16.991,
             "timezone": "Europe/Budapest",
-            "isp": "Pro-M Zrt.",
-            "org": "Techno-Tel Kft",
-            "as": "AS47169 Pro-M Zrt.",
-            "query": "45.130.240.238",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.91
+            "isp": "One Hungary Ltd.",
+            "org": "One Hungary Ltd",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "89.132.170.211",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "46.107.230.122",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.67
+            "response_time": 3.41
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "KE",
+            "regionName": "Kom\u00e1rom-Esztergom",
+            "city": "Esztergom",
+            "zip": "2500",
+            "lat": 47.7928,
+            "lon": 18.7415,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom plc.",
+            "org": "Juropnet",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "79.121.102.227",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.95
         }
     ]
 }
