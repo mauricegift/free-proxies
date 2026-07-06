@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "GNC",
-            "org": "Hamynqneri_Miutyun_Sisian",
-            "as": "AS49800 GNC-Alfa CJSC",
-            "query": "130.193.123.34",
+            "isp": "Ucom LLC",
+            "org": "Ucom Llc.",
+            "as": "AS44395 Ucom CJSC",
+            "query": "212.34.230.102",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.48
+            "port": "4153",
+            "response_time": 0.47
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
+            "as": "AS44395 Ucom CJSC",
+            "query": "81.16.9.222",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 3.97
         },
         {
             "status": "success",
@@ -37,9 +56,9 @@
             "org": "Proitlab LLC",
             "as": "AS216058 Proitlab LLC",
             "query": "2.56.204.180",
-            "type": "socks4",
+            "type": "http",
             "port": "1080",
-            "response_time": 12.9
+            "response_time": 6.49
         }
     ]
 }
