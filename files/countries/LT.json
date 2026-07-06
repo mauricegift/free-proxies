@@ -1,27 +1,8 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Lithuania",
-            "countryCode": "LT",
-            "region": "VL",
-            "regionName": "Vilnius",
-            "city": "Vilnius",
-            "zip": "25001",
-            "lat": 54.6876,
-            "lon": 25.2806,
-            "timezone": "Europe/Vilnius",
-            "isp": "AB \"Ogmios Centras\"",
-            "org": "Intesta",
-            "as": "AS44613 Ogmios centras AS number",
-            "query": "93.93.61.153",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.47
-        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -39,7 +20,26 @@
             "query": "86.100.63.246",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.38
+            "response_time": 0.37
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "25001",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "AB \"Ogmios Centras\"",
+            "org": "Intesta",
+            "as": "AS44613 Ogmios centras AS number",
+            "query": "93.93.61.153",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.57
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "80.209.239.219",
             "type": "socks4",
             "port": "9055",
-            "response_time": 1.41
+            "response_time": 8.69
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "02007",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "UAB \"Interneto vizija\"",
+            "org": "RACKRAY",
+            "as": "AS212531 Interneto vizija",
+            "query": "80.209.239.219",
+            "type": "socks5",
+            "port": "9055",
+            "response_time": 8.69
         }
     ]
 }
