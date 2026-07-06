@@ -1,8 +1,46 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 4,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3150",
+            "lat": -37.8766,
+            "lon": 145.1623,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.67
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 4.81
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +58,26 @@
             "query": "103.131.232.9",
             "type": "http",
             "port": "8080",
-            "response_time": 1.82
+            "response_time": 9.56
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Albury",
+            "zip": "2641",
+            "lat": -36.0426,
+            "lon": 146.9407,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 9.61
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "103.18.205.162",
             "type": "http",
             "port": "8080",
-            "response_time": 1.91
+            "response_time": 11.52
         },
         {
             "status": "success",
@@ -58,7 +115,7 @@
             "query": "180.181.215.232",
             "type": "http",
             "port": "3128",
-            "response_time": 6.01
+            "response_time": 16.96
         },
         {
             "status": "success",
@@ -67,17 +124,17 @@
             "region": "VIC",
             "regionName": "Victoria",
             "city": "Melbourne",
-            "zip": "3150",
-            "lat": -37.8766,
-            "lon": 145.1623,
+            "zip": "3023",
+            "lat": -37.7512,
+            "lon": 144.7508,
             "timezone": "Australia/Melbourne",
-            "isp": "Wideband Networks Pty Ltd",
-            "org": "Aussie Broadband Ltd",
-            "as": "AS4764 Aussie Broadband",
-            "query": "159.196.182.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.49
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 19.95
         }
     ]
 }
