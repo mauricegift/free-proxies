@@ -20,7 +20,7 @@
             "query": "5.45.118.209",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.42
+            "response_time": 0.68
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "45.67.131.229",
             "type": "http",
             "port": "1080",
-            "response_time": 1.15
+            "response_time": 1.79
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "45.67.131.229",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.79
         },
         {
             "status": "success",
@@ -48,36 +67,17 @@
             "region": "37",
             "regionName": "Harjumaa",
             "city": "Tallinn",
-            "zip": "13415",
-            "lat": 59.4381,
-            "lon": 24.7369,
-            "timezone": "Europe/Tallinn",
-            "isp": "OC NETWORKS LIMITED",
-            "org": "1Cent Host",
-            "as": "AS209693 OC NETWORKS LIMITED",
-            "query": "95.85.242.7",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 1.89
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "87",
-            "regionName": "V\u00f5rumaa",
-            "city": "Parksepa",
             "zip": "",
-            "lat": 57.9097,
-            "lon": 26.9831,
+            "lat": 59.4369,
+            "lon": 24.7535,
             "timezone": "Europe/Tallinn",
-            "isp": "SkyLive Telecom ldt",
-            "org": "Elevi",
-            "as": "AS202652 Elevi AS",
-            "query": "185.157.111.3",
+            "isp": "BlueVPS OU",
+            "org": "BlueVPS OU",
+            "as": "AS62005 BlueVPS OU",
+            "query": "91.235.234.226",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 3.89
+            "port": "1080",
+            "response_time": 9.04
         }
     ]
 }
