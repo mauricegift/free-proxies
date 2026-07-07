@@ -1,8 +1,27 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "04",
+            "regionName": "Chimaltenango",
+            "city": "Santa Cruz Balany\u00e1",
+            "zip": "",
+            "lat": 14.6852,
+            "lon": -90.9191,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.78.51.157",
+            "type": "http",
+            "port": "999",
+            "response_time": 1.17
+        },
         {
             "status": "success",
             "country": "Guatemala",
@@ -17,29 +36,48 @@
             "isp": "Ufinet Panama S.A.",
             "org": "UFINET Guatemala S. A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "186.33.5.13",
+            "query": "186.33.3.209",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.09
+            "port": "999",
+            "response_time": 8.78
         },
         {
             "status": "success",
             "country": "Guatemala",
             "countryCode": "GT",
-            "region": "13",
-            "regionName": "Departamento de Huehuetenango",
-            "city": "San Rafael Petzal",
+            "region": "02",
+            "regionName": "El Progreso",
+            "city": "Moraz\u00e1n",
             "zip": "",
-            "lat": 15.4049,
-            "lon": -91.6645,
+            "lat": 14.9328,
+            "lon": -90.1431,
             "timezone": "America/Guatemala",
             "isp": "IFX Networks Argentina S.R.L",
             "org": "UFINET Guatemala S. A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "186.33.7.117",
+            "query": "186.33.7.227",
             "type": "http",
             "port": "999",
-            "response_time": 4.99
+            "response_time": 9.08
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01010",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Navega.com S.A.",
+            "org": "Navega.com S.A",
+            "as": "AS26617 Navega.com S.A.",
+            "query": "148.230.17.250",
+            "type": "http",
+            "port": "999",
+            "response_time": 15.35
         }
     ]
 }
