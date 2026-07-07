@@ -1,8 +1,27 @@
 {
     "countryCode": "NO",
     "country": "Norway",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Norway",
+            "countryCode": "NO",
+            "region": "50",
+            "regionName": "Tr\u00f8ndelag",
+            "city": "Trondheim",
+            "zip": "7027",
+            "lat": 63.4306,
+            "lon": 10.4037,
+            "timezone": "Europe/Oslo",
+            "isp": "NTE Bredband",
+            "org": "",
+            "as": "AS34087 NTE TELEKOM AS",
+            "query": "84.52.227.36",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 10.67
+        },
         {
             "status": "success",
             "country": "Norway",
@@ -20,7 +39,7 @@
             "query": "84.52.227.36",
             "type": "socks5",
             "port": "9050",
-            "response_time": 11.45
+            "response_time": 10.67
         }
     ]
 }
