@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,31 @@
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
             "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
+            "org": "Caucasus Online Ltd",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.82",
+            "query": "85.117.32.166",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.46
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Kutaisi",
+            "zip": "",
+            "lat": 42.2648,
+            "lon": 42.7041,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Deltanet-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.122.174",
             "type": "http",
             "port": "8080",
-            "response_time": 3.0
+            "response_time": 5.78
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.115",
+            "query": "85.117.56.85",
             "type": "http",
             "port": "8080",
-            "response_time": 4.56
+            "response_time": 6.86
         }
     ]
 }
