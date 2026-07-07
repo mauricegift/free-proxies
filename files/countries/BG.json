@@ -1,8 +1,27 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "23",
+            "regionName": "Sofia",
+            "city": "Samokov",
+            "zip": "2000",
+            "lat": 42.3348,
+            "lon": 23.5541,
+            "timezone": "Europe/Sofia",
+            "isp": "Sarnica-Net LTD",
+            "org": "Sarnica-Net LTD",
+            "as": "AS48584 Sarnica-Net LTD",
+            "query": "78.128.124.108",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.7
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,26 +39,26 @@
             "query": "94.72.158.129",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.27
+            "response_time": 2.27
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "19",
-            "regionName": "Silistra",
-            "city": "Sratsimir",
-            "zip": "7544",
-            "lat": 44.0358,
-            "lon": 27.3308,
+            "region": "23",
+            "regionName": "Sofia",
+            "city": "Svoge",
+            "zip": "2260",
+            "lat": 42.9692,
+            "lon": 23.3531,
             "timezone": "Europe/Sofia",
-            "isp": "Netbox LTD",
-            "org": "NETBOX Mododex",
-            "as": "AS61071 NETBOX LTD",
-            "query": "88.213.214.254",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 1.35
+            "isp": "Wi-Max Network Ltd.",
+            "org": "WI-MAX NET Ltd",
+            "as": "AS205331 Wi-Max Network Ltd.",
+            "query": "5.104.183.25",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.11
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "46.10.209.230",
             "type": "http",
             "port": "8080",
-            "response_time": 13.27
+            "response_time": 5.97
         }
     ]
 }
