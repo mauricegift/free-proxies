@@ -1,7 +1,7 @@
 {
     "countryCode": "UA",
     "country": "Ukraine",
-    "count": 9,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "176.111.37.216",
             "type": "http",
             "port": "39811",
-            "response_time": 0.29
+            "response_time": 0.27
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "176.111.37.5",
             "type": "http",
             "port": "39811",
-            "response_time": 0.33
+            "response_time": 0.3
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "12",
+            "regionName": "Dnipropetrovsk Oblast",
+            "city": "Dnipro",
+            "zip": "49000",
+            "lat": 48.4604,
+            "lon": 35.033,
+            "timezone": "Europe/Kyiv",
+            "isp": "Traditional LLC",
+            "org": "Telemost LLC",
+            "as": "AS15377 TRADITIONAL LLC",
+            "query": "178.215.163.218",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.42
         },
         {
             "status": "success",
@@ -55,10 +74,10 @@
             "isp": "Ukrtranstelecom tc, ltd",
             "org": "UTT",
             "as": "AS50772 Ukrtranstelecom tc, ltd",
-            "query": "195.78.100.186",
+            "query": "195.78.100.162",
             "type": "socks4",
             "port": "3629",
-            "response_time": 0.37
+            "response_time": 0.58
         },
         {
             "status": "success",
@@ -67,36 +86,17 @@
             "region": "30",
             "regionName": "Kyiv City",
             "city": "Kyiv",
-            "zip": "01010",
-            "lat": 50.4443,
-            "lon": 30.5108,
-            "timezone": "Europe/Kiev",
-            "isp": "UKRTELECOM",
-            "org": "JSC Ukrtelecom",
-            "as": "AS6849 JSC \"Ukrtelecom\"",
-            "query": "94.179.153.218",
-            "type": "http",
-            "port": "8081",
-            "response_time": 1.1
-        },
-        {
-            "status": "success",
-            "country": "Ukraine",
-            "countryCode": "UA",
-            "region": "32",
-            "regionName": "Kyiv Oblast",
-            "city": "Kaharlyk",
-            "zip": "09201",
-            "lat": 49.859,
-            "lon": 30.8233,
+            "zip": "02063",
+            "lat": 50.458,
+            "lon": 30.5303,
             "timezone": "Europe/Kyiv",
-            "isp": "Ukrainian Telecommunication Group LLC",
-            "org": "Ukraine telecommunication group Ltd",
-            "as": "AS50581 Ukrainian Telecommunication Group LLC",
-            "query": "31.43.33.55",
+            "isp": "WNET TELECOM USA Corp.",
+            "org": "LoadMe",
+            "as": "AS1820 WNET TELECOM USA Corp.",
+            "query": "80.92.227.185",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 1.48
+            "port": "5678",
+            "response_time": 0.81
         },
         {
             "status": "success",
@@ -105,17 +105,36 @@
             "region": "63",
             "regionName": "Kharkivs\u2019ka Oblast\u2019",
             "city": "Kharkiv",
-            "zip": "61000",
+            "zip": "61016",
             "lat": 49.982,
             "lon": 36.2566,
             "timezone": "Europe/Kyiv",
-            "isp": "Therecom Ltd",
-            "org": "Therecom Ltd",
-            "as": "AS56465 Therecom Ltd",
-            "query": "195.140.226.32",
+            "isp": "Privately owned enterprise Alexsandrov Yuriy Viktorovich",
+            "org": "Privately owned enterprise Alexsandrov Yuriy Viktorovich",
+            "as": "AS49389 Privately owned enterprise Alexsandrov Yuriy Viktorovich",
+            "query": "91.247.92.63",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.5
+            "response_time": 1.57
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "05",
+            "regionName": "Vinnytsia",
+            "city": "Vinnytsia",
+            "zip": "21008",
+            "lat": 49.2335,
+            "lon": 28.4817,
+            "timezone": "Europe/Kyiv",
+            "isp": "TVIN-INET, LLC",
+            "org": "PE Intechservice-B",
+            "as": "AS197035 TVIN-INET, LLC",
+            "query": "193.19.185.158",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.47
         },
         {
             "status": "success",
@@ -134,7 +153,45 @@
             "query": "31.43.63.70",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.68
+            "response_time": 3.55
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "63",
+            "regionName": "Kharkivs\u2019ka Oblast\u2019",
+            "city": "Kharkiv",
+            "zip": "61000",
+            "lat": 49.982,
+            "lon": 36.2566,
+            "timezone": "Europe/Kyiv",
+            "isp": "Therecom Ltd",
+            "org": "Therecom Ltd",
+            "as": "AS56465 Therecom Ltd",
+            "query": "195.140.226.32",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.65
+        },
+        {
+            "status": "success",
+            "country": "Ukraine",
+            "countryCode": "UA",
+            "region": "63",
+            "regionName": "Kharkivs\u2019ka Oblast\u2019",
+            "city": "Kharkiv",
+            "zip": "61000",
+            "lat": 49.982,
+            "lon": 36.2566,
+            "timezone": "Europe/Kyiv",
+            "isp": "Maxnet LLC",
+            "org": "Maxnet LLC",
+            "as": "AS34700 MAXNET TELECOM, LTD",
+            "query": "31.202.49.61",
+            "type": "http",
+            "port": "33761",
+            "response_time": 6.72
         },
         {
             "status": "success",
@@ -153,26 +210,7 @@
             "query": "91.236.156.30",
             "type": "http",
             "port": "8282",
-            "response_time": 6.91
-        },
-        {
-            "status": "success",
-            "country": "Ukraine",
-            "countryCode": "UA",
-            "region": "30",
-            "regionName": "Kyiv City",
-            "city": "Kyiv",
-            "zip": "01000",
-            "lat": 50.4501,
-            "lon": 30.5234,
-            "timezone": "Europe/Kiev",
-            "isp": "Kyivstar UA",
-            "org": "Kyivstar LLC",
-            "as": "AS15895 \"Kyivstar\" PJSC",
-            "query": "134.249.86.47",
-            "type": "http",
-            "port": "8080",
-            "response_time": 15.47
+            "response_time": 8.15
         }
     ]
 }
