@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "41.215.86.226",
             "type": "http",
             "port": "18080",
-            "response_time": 1.13
+            "response_time": 1.2
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Unwired Communications Limited",
+            "org": "Unwired Communications",
+            "as": "AS328490 Unwired Communications Limited",
+            "query": "102.211.146.31",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -39,64 +58,7 @@
             "query": "197.248.16.109",
             "type": "http",
             "port": "8080",
-            "response_time": 7.03
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "00100",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "NEXT THING NETWORKS Limited",
-            "org": "Mlg1",
-            "as": "AS329261 NEXT THING NETWORKS Limited",
-            "query": "102.213.179.210",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.96
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Vennet Solutions Limited",
-            "org": "Vennet Solutions Limited",
-            "as": "AS329437 VENNET SOLUTIONS LIMITED",
-            "query": "102.209.18.96",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.95
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Imara Daima Estate",
-            "zip": "",
-            "lat": -1.32323,
-            "lon": 36.8802,
-            "timezone": "Africa/Nairobi",
-            "isp": "Frontier Optical Networks Ltd",
-            "org": "",
-            "as": "AS37305 Frontier Optical Networks Ltd",
-            "query": "41.79.9.229",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.81
+            "response_time": 3.21
         },
         {
             "status": "success",
@@ -115,7 +77,26 @@
             "query": "197.248.59.159",
             "type": "http",
             "port": "8082",
-            "response_time": 11.57
+            "response_time": 11.15
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Imara Daima Estate",
+            "zip": "",
+            "lat": -1.32323,
+            "lon": 36.8802,
+            "timezone": "Africa/Nairobi",
+            "isp": "Optinode Group LLP",
+            "org": "Optinode Group LLP",
+            "as": "AS329192 Optinode Group LLP",
+            "query": "102.213.248.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.89
         }
     ]
 }
