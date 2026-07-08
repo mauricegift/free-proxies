@@ -1,26 +1,26 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "20",
-            "regionName": "Central Bohemia",
-            "city": "Dob\u0159\u00ed\u0161",
-            "zip": "263 01",
-            "lat": 49.782,
-            "lon": 14.1877,
+            "region": "53",
+            "regionName": "Pardubice Region",
+            "city": "Lan\u0161kroun",
+            "zip": "563 01",
+            "lat": 49.9163,
+            "lon": 16.7551,
             "timezone": "Europe/Prague",
-            "isp": "DOBRISNET",
-            "org": "Dobris Network s.r.o",
-            "as": "AS42189 Druzstvo EUROSIGNAL",
-            "query": "77.240.97.77",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.25
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "Nordictelecomregional",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "109.108.126.166",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.46
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "90.181.120.18",
             "type": "http",
             "port": "8082",
-            "response_time": 4.54
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "72",
-            "regionName": "Zl\u00edn",
-            "city": "Vala\u0161sk\u00e9 Klobouky",
-            "zip": "766 01",
-            "lat": 49.1472,
-            "lon": 18.0145,
-            "timezone": "Europe/Prague",
-            "isp": "Martin Vicenik",
-            "org": "VicenikRoute",
-            "as": "AS34955 Martin Vicenik",
-            "query": "81.162.195.35",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 5.38
+            "response_time": 6.77
         }
     ]
 }
