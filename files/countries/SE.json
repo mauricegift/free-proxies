@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 5,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0685,
+            "timezone": "Europe/Stockholm",
+            "isp": "xorek.cloud International LTD",
+            "org": "xorek.cloud International LTD",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "185.197.74.126",
+            "type": "socks4",
+            "port": "2080",
+            "response_time": 2.05
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -15,12 +34,12 @@
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
             "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
+            "org": "Aeza International LTD",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.26.19",
+            "query": "147.45.72.212",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 4.97
+            "port": "44816",
+            "response_time": 3.54
         },
         {
             "status": "success",
@@ -39,26 +58,45 @@
             "query": "176.126.70.111",
             "type": "socks4",
             "port": "16379",
-            "response_time": 5.04
+            "response_time": 7.28
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
             "region": "AB",
-            "regionName": "Stockholm",
+            "regionName": "Stockholm County",
             "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0685,
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "xorek.cloud International LTD",
-            "org": "xorek.cloud International LTD",
-            "as": "AS210644 AEZA INTERNATIONAL LTD",
-            "query": "185.197.74.126",
+            "isp": "HostHatch",
+            "org": "HostHatch LLC",
+            "as": "AS63473 HostHatch, LLC",
+            "query": "176.126.70.111",
             "type": "socks5",
-            "port": "2080",
-            "response_time": 6.62
+            "port": "16379",
+            "response_time": 7.28
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3447,
+            "lon": 18.0676,
+            "timezone": "Europe/Stockholm",
+            "isp": "OVPN",
+            "org": "",
+            "as": "AS42675 Obehosting AB",
+            "query": "217.64.149.146",
+            "type": "http",
+            "port": "8118",
+            "response_time": 8.72
         },
         {
             "status": "success",
@@ -75,28 +113,9 @@
             "org": "Akamai Technologies, Inc.",
             "as": "AS63949 Akamai Connected Cloud",
             "query": "172.232.152.127",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 14.88
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Akamai Technologies, Inc.",
-            "org": "Akamai Technologies, Inc.",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "172.232.152.127",
             "type": "socks5",
             "port": "9050",
-            "response_time": 14.88
+            "response_time": 16.51
         }
     ]
 }
