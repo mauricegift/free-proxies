@@ -1,13 +1,13 @@
 # free-proxies
 
-> **1,551 working validated proxies** last updated on **Thursday 09-07-2026 00:39:34 EAT**
+> **1,549 working validated proxies** last updated on **Thursday 09-07-2026 00:09:16 EAT**
 
 Free, continuously validated **HTTP**, **SOCKS4** and **SOCKS5** proxies tested live and organised by protocol and country. Updated every **30 mins/1hr depending on my server's load balancing**.
 
-![HTTP](https://img.shields.io/badge/HTTP-1,055-blue?style=flat-square)
-![SOCKS4](https://img.shields.io/badge/SOCKS4-302-green?style=flat-square)
-![SOCKS5](https://img.shields.io/badge/SOCKS5-194-purple?style=flat-square)
-![Countries](https://img.shields.io/badge/Countries-96-orange?style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-1,052-blue?style=flat-square)
+![SOCKS4](https://img.shields.io/badge/SOCKS4-320-green?style=flat-square)
+![SOCKS5](https://img.shields.io/badge/SOCKS5-177-purple?style=flat-square)
+![Countries](https://img.shields.io/badge/Countries-88-orange?style=flat-square)
 
 🌐 Access Proxies [Here](https://proxies.gifted.co.ke)
 
