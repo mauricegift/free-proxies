@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "109.108.126.166",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.35
+            "response_time": 1.36
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "186 00",
+            "lat": 50.0985,
+            "lon": 14.4524,
+            "timezone": "Europe/Prague",
+            "isp": "Telefonica O2 Czech Republic, a.s.",
+            "org": "CZ.CZNET",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.178.216.215",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.46
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Znojmo",
+            "zip": "669 02",
+            "lat": 48.8519,
+            "lon": 16.0465,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.31
         },
         {
             "status": "success",
@@ -39,7 +77,45 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.33
+            "response_time": 5.49
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "150 00",
+            "lat": 50.0687,
+            "lon": 14.3947,
+            "timezone": "Europe/Prague",
+            "isp": "T-Mobile Czech Republic a.s.",
+            "org": "Tmcz Gpon",
+            "as": "AS13036 T-Mobile Czech Republic a.s.",
+            "query": "193.179.52.197",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.25
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Pilsen",
+            "zip": "301 00",
+            "lat": 49.7016,
+            "lon": 13.3507,
+            "timezone": "Europe/Prague",
+            "isp": "United Networks SE",
+            "org": "United Networks SE",
+            "as": "AS197296 United Networks SE",
+            "query": "45.139.91.62",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.36
         }
     ]
 }
