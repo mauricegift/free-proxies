@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 5,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "42",
+            "regionName": "\u00dast\u00ed nad Labem Region",
+            "city": "Kryry",
+            "zip": "439 81",
+            "lat": 50.1769,
+            "lon": 13.4222,
+            "timezone": "Europe/Prague",
+            "isp": "ISP Alliance a.s.",
+            "org": "GRAPE SC",
+            "as": "AS47232 ISP Alliance a.s.",
+            "query": "78.111.112.118",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.23
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,26 +39,26 @@
             "query": "90.178.216.215",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.25
+            "response_time": 1.42
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "64",
-            "regionName": "South Moravian",
-            "city": "Str\u00e1\u017enice",
-            "zip": "696 62",
-            "lat": 48.9035,
-            "lon": 17.3124,
+            "region": "53",
+            "regionName": "Pardubice Region",
+            "city": "Lan\u0161kroun",
+            "zip": "563 01",
+            "lat": 49.9163,
+            "lon": 16.7551,
             "timezone": "Europe/Prague",
             "isp": "O2 Czech Republic, a.s.",
-            "org": "O2 Czech Republic",
+            "org": "Nordictelecomregional",
             "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
-            "query": "188.119.98.126",
-            "type": "http",
-            "port": "9999",
-            "response_time": 1.78
+            "query": "109.108.126.166",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.5
         },
         {
             "status": "success",
@@ -58,45 +77,7 @@
             "query": "217.197.151.182",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.48
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "41",
-            "regionName": "Carlsbad Region",
-            "city": "Karlovy Vary",
-            "zip": "360 05",
-            "lat": 50.2398,
-            "lon": 12.8603,
-            "timezone": "Europe/Prague",
-            "isp": "ISP Alliance a.s.",
-            "org": "Netline",
-            "as": "AS201476 ISP Alliance a.s.",
-            "query": "185.73.103.23",
-            "type": "http",
-            "port": "3128",
-            "response_time": 7.02
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "31",
-            "regionName": "South Bohemian Region",
-            "city": "Vimperk",
-            "zip": "385 01",
-            "lat": 49.0531,
-            "lon": 13.7733,
-            "timezone": "Europe/Prague",
-            "isp": "IT PROFI s.r.o",
-            "org": "IP Profi",
-            "as": "AS3161 IT PROFI s.r.o.",
-            "query": "194.1.188.8",
-            "type": "socks4",
-            "port": "60606",
-            "response_time": 7.54
+            "response_time": 7.51
         }
     ]
 }
