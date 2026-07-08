@@ -1,27 +1,8 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "088",
-            "regionName": "Saldus novads",
-            "city": "Saldus",
-            "zip": "LV-3801",
-            "lat": 56.6335,
-            "lon": 22.4471,
-            "timezone": "Europe/Riga",
-            "isp": "DNET ITRisinajumi Ltd.",
-            "org": "Sia Nano IT",
-            "as": "AS42099 SIA NETVISION",
-            "query": "31.170.19.1",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 4.36
-        },
         {
             "status": "success",
             "country": "Latvia",
@@ -39,7 +20,45 @@
             "query": "81.198.87.36",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.49
+            "response_time": 2.45
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1063",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "Sia Nano IT",
+            "org": "",
+            "as": "AS43513 Sia Nano IT",
+            "query": "85.31.96.14",
+            "type": "socks4",
+            "port": "9150",
+            "response_time": 10.13
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1057",
+            "lat": 56.9082,
+            "lon": 24.1962,
+            "timezone": "Europe/Riga",
+            "isp": "2 Cloud Ltd",
+            "org": "2CLOUD",
+            "as": "AS39845 2 Cloud Ltd.",
+            "query": "185.176.220.23",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 12.42
         }
     ]
 }
