@@ -1,26 +1,26 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3121",
-            "lat": -37.8335,
-            "lon": 145.0012,
-            "timezone": "Australia/Melbourne",
-            "isp": "Circle Network",
-            "org": "",
-            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
-            "query": "103.18.205.162",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "54.253.183.151",
             "type": "http",
-            "port": "8080",
-            "response_time": 2.92
+            "port": "4443",
+            "response_time": 3.91
         },
         {
             "status": "success",
@@ -38,27 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.51.148.102",
             "type": "http",
-            "port": "32902",
-            "response_time": 3.15
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.135.215.62",
-            "type": "http",
-            "port": "41588",
-            "response_time": 3.27
+            "port": "19313",
+            "response_time": 4.38
         },
         {
             "status": "success",
@@ -76,27 +57,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "54.253.183.151",
             "type": "http",
-            "port": "12429",
-            "response_time": 3.5
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.253.183.151",
-            "type": "http",
-            "port": "9046",
-            "response_time": 4.77
+            "port": "55131",
+            "response_time": 4.57
         },
         {
             "status": "success",
@@ -109,13 +71,32 @@
             "lat": -37.8159,
             "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.143.154",
+            "query": "16.51.148.102",
             "type": "http",
-            "port": "38241",
-            "response_time": 6.72
+            "port": "44744",
+            "response_time": 6.62
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Goulburn",
+            "zip": "2580",
+            "lat": -34.7591,
+            "lon": 149.7225,
+            "timezone": "Australia/Sydney",
+            "isp": "YLess4U Pty Ltd",
+            "org": "RemoteISP Pty Ltd",
+            "as": "AS45447 YLess4U Regional Broadband",
+            "query": "103.131.232.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.36
         }
     ]
 }
