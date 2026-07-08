@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "188.164.218.209",
             "type": "http",
             "port": "8080",
-            "response_time": 1.63
+            "response_time": 1.94
         },
         {
             "status": "success",
@@ -34,12 +34,50 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone RESIDENTIAL NAT",
+            "org": "Vodafone Albania Public",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.78.106",
+            "query": "80.78.73.120",
             "type": "socks4",
             "port": "65530",
-            "response_time": 3.38
+            "response_time": 2.3
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
+            "zip": "",
+            "lat": 41.1122,
+            "lon": 20.0818,
+            "timezone": "Europe/Tirane",
+            "isp": "ATU",
+            "org": "",
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "37.26.86.206",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.45
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "1010",
+            "lat": 41.3275,
+            "lon": 19.8187,
+            "timezone": "Europe/Tirane",
+            "isp": "Artmotion Sh.P.K.",
+            "org": "Artmotion",
+            "as": "AS33983 ARTMOTION SH.P.K.",
+            "query": "84.22.42.41",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.58
         },
         {
             "status": "success",
@@ -52,13 +90,32 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone Albania Sh.A",
-            "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "66.186.199.33",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "Test13",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "217.24.245.58",
+            "type": "http",
+            "port": "8079",
+            "response_time": 3.88
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "07",
+            "regionName": "Kuk\u00ebs County",
+            "city": "Krume",
+            "zip": "8602",
+            "lat": 42.1992,
+            "lon": 20.4105,
+            "timezone": "Europe/Tirane",
+            "isp": "shqiponjaisp.al LLC",
+            "org": "",
+            "as": "AS206088 shqiponjaisp.al LLC",
+            "query": "185.196.182.22",
             "type": "http",
             "port": "8080",
-            "response_time": 6.5
+            "response_time": 4.54
         }
     ]
 }
