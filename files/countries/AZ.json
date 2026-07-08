@@ -1,8 +1,27 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "Bakinternet ISP",
+            "org": "",
+            "as": "AS28787 Aztelekom LLC",
+            "query": "217.64.30.216",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.06
+        },
         {
             "status": "success",
             "country": "Azerbaijan",
@@ -20,7 +39,26 @@
             "query": "109.127.9.99",
             "type": "http",
             "port": "8080",
-            "response_time": 4.9
+            "response_time": 3.08
+        },
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "Izone LLC",
+            "org": "Izone LLC",
+            "as": "AS200154 IZONE LLC",
+            "query": "185.32.45.61",
+            "type": "http",
+            "port": "8090",
+            "response_time": 3.76
         }
     ]
 }
