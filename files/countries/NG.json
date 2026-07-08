@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "BO",
+            "regionName": "Borno State",
+            "city": "Maiduguri",
+            "zip": "",
+            "lat": 11.8311,
+            "lon": 13.151,
+            "timezone": "Africa/Lagos",
+            "isp": "Gutti Global Networks",
+            "org": "Gutti Global Networks",
+            "as": "AS327986 GUTTI GLOBAL NETWORKS",
+            "query": "169.239.236.201",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 1.23
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,26 @@
             "query": "102.36.231.77",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.6
+            "response_time": 2.14
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "FC",
+            "regionName": "FCT",
+            "city": "Abuja",
+            "zip": "",
+            "lat": 9.0567,
+            "lon": 7.4969,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.208.190",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.72
         },
         {
             "status": "success",
@@ -30,16 +68,35 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.52438,
-            "lon": 3.37921,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "MTN NIGERIA Communication limited",
-            "org": "Mtnn Asaba Region",
-            "as": "AS29465 MTN NIGERIA Communication limited",
-            "query": "102.90.0.146",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "41.75.84.86",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.14
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.5243,
+            "lon": 3.3792,
+            "timezone": "Africa/Lagos",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Services, Inc",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "129.222.204.27",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.6
+            "port": "10000",
+            "response_time": 9.9
         }
     ]
 }
