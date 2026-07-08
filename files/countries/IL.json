@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "51.85.44.149",
             "type": "http",
             "port": "55374",
-            "response_time": 1.2
+            "response_time": 1.79
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "M",
+            "regionName": "Central District",
+            "city": "Rehovot",
+            "zip": "",
+            "lat": 31.8943,
+            "lon": 34.8192,
+            "timezone": "Asia/Jerusalem",
+            "isp": "BEZEQ-INTERNATIONAL",
+            "org": "",
+            "as": "AS8551 Bezeq International Ltd.",
+            "query": "31.168.143.90",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.7
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "51.84.101.19",
             "type": "http",
             "port": "23232",
-            "response_time": 1.35
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "TA",
-            "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
-            "zip": "",
-            "lat": 32.0804,
-            "lon": 34.7807,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.84.101.19",
-            "type": "http",
-            "port": "40016",
-            "response_time": 4.06
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "HA",
-            "regionName": "Haifa",
-            "city": "Haifa",
-            "zip": "35085",
-            "lat": 32.794,
-            "lon": 34.9895,
-            "timezone": "Asia/Jerusalem",
-            "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-            "org": "Cloudwebmanage IL HA",
-            "as": "AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-            "query": "83.229.73.113",
-            "type": "http",
-            "port": "13554",
-            "response_time": 9.07
+            "response_time": 4.32
         }
     ]
 }
