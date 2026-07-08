@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "010000",
+            "lat": 51.1876,
+            "lon": 71.4491,
+            "timezone": "Asia/Almaty",
+            "isp": "JSC Transtelecom",
+            "org": "JSC Transtelecom",
+            "as": "AS41798 JSC Transtelecom",
+            "query": "91.246.81.230",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.91
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,26 +39,26 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 1.3
+            "response_time": 1.57
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "010000",
-            "lat": 51.1655,
-            "lon": 71.4272,
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050010",
+            "lat": 43.2525,
+            "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "PS Internet Company LLP",
-            "org": "Pskz Hosting VPS",
-            "as": "AS48716 PS Internet Company LLP",
-            "query": "194.32.141.156",
-            "type": "http",
-            "port": "8443",
-            "response_time": 7.4
+            "isp": "EQU Technologies LLP",
+            "org": "EQU Technologies LLP",
+            "as": "AS42447 EQU Technologies LLP",
+            "query": "93.170.73.0",
+            "type": "socks4",
+            "port": "8080",
+            "response_time": 3.03
         },
         {
             "status": "success",
@@ -52,13 +71,13 @@
             "lat": 43.2525,
             "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "ITGLOBAL",
+            "isp": "Netfire TEC",
             "org": "",
-            "as": "AS57008 ITGLOBAL.COM KZ LLP",
-            "query": "85.198.91.145",
-            "type": "socks4",
-            "port": "1081",
-            "response_time": 11.39
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.72.62",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 7.31
         }
     ]
 }
