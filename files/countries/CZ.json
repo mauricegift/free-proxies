@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "Dob\u0159\u00ed\u0161",
+            "zip": "263 01",
+            "lat": 49.782,
+            "lon": 14.1877,
+            "timezone": "Europe/Prague",
+            "isp": "DOBRISNET",
+            "org": "Dobris Network s.r.o",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.97.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.25
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -10,17 +29,36 @@
             "region": "10",
             "regionName": "Prague",
             "city": "Prague",
-            "zip": "186 00",
-            "lat": 50.0985,
-            "lon": 14.4524,
+            "zip": "140 00",
+            "lat": 50.0471,
+            "lon": 14.4523,
             "timezone": "Europe/Prague",
             "isp": "Telefonica O2 Czech Republic, a.s.",
             "org": "CZ.CZNET",
             "as": "AS5610 O2 Czech Republic, a.s.",
-            "query": "90.178.216.215",
+            "query": "90.181.120.18",
+            "type": "http",
+            "port": "8082",
+            "response_time": 4.54
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "72",
+            "regionName": "Zl\u00edn",
+            "city": "Vala\u0161sk\u00e9 Klobouky",
+            "zip": "766 01",
+            "lat": 49.1472,
+            "lon": 18.0145,
+            "timezone": "Europe/Prague",
+            "isp": "Martin Vicenik",
+            "org": "VicenikRoute",
+            "as": "AS34955 Martin Vicenik",
+            "query": "81.162.195.35",
             "type": "socks4",
             "port": "4153",
-            "response_time": 6.79
+            "response_time": 5.38
         }
     ]
 }
