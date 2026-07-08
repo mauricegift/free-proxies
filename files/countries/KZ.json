@@ -1,26 +1,26 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "010000",
-            "lat": 51.1876,
-            "lon": 71.4491,
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "JSC Transtelecom",
-            "org": "JSC Transtelecom",
-            "as": "AS41798 JSC Transtelecom",
-            "query": "91.246.81.230",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.48
+            "isp": "ITGLOBAL",
+            "org": "",
+            "as": "AS57008 ITGLOBAL.COM KZ LLP",
+            "query": "85.198.90.68",
+            "type": "http",
+            "port": "8118",
+            "response_time": 1.35
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 4.64
+            "response_time": 2.12
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.72.62",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.92
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "199.189.255.230",
             "type": "http",
             "port": "1080",
-            "response_time": 5.47
+            "response_time": 4.74
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "199.189.255.230",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.47
+            "response_time": 4.74
         },
         {
             "status": "success",
@@ -86,17 +105,17 @@
             "region": "75",
             "regionName": "Almaty",
             "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
             "timezone": "Asia/Almaty",
-            "isp": "ALM",
-            "org": "OOO IT-Grad",
-            "as": "AS48096 Enterprise Cloud Ltd.",
-            "query": "178.170.221.75",
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
             "type": "http",
-            "port": "8443",
-            "response_time": 8.35
+            "port": "8080",
+            "response_time": 11.03
         }
     ]
 }
