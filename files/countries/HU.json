@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "HB",
-            "regionName": "Hajd\u00fa-Bihar",
-            "city": "Hajd\u00fan\u00e1n\u00e1s",
-            "zip": "4080",
-            "lat": 47.8541,
-            "lon": 21.4404,
-            "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom",
-            "org": "",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "84.2.239.42",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 0.46
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,26 +20,26 @@
             "query": "91.147.235.162",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.85
+            "response_time": 2.1
         },
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "BZ",
-            "regionName": "Borsod-Aba\u00faj-Zempl\u00e9n",
-            "city": "Miskolc",
-            "zip": "3533",
-            "lat": 48.0978,
-            "lon": 20.7884,
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1155",
+            "lat": 47.5,
+            "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-            "org": "Digi",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "84.236.28.215",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.8
+            "isp": "Magyar Telekom",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "81.183.231.55",
+            "type": "socks4",
+            "port": "80",
+            "response_time": 3.31
         }
     ]
 }
