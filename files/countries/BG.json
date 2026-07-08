@@ -1,8 +1,27 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6951,
+            "lon": 23.325,
+            "timezone": "Europe/Sofia",
+            "isp": "Spectrum NET",
+            "org": "",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "212.50.19.150",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.22
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,26 +39,7 @@
             "query": "46.47.82.16",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.25
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "18",
-            "regionName": "Ruse",
-            "city": "Rousse",
-            "zip": "7000",
-            "lat": 43.8487,
-            "lon": 25.9534,
-            "timezone": "Europe/Sofia",
-            "isp": "Kabelnet LTD",
-            "org": "Global Communication Net Plc",
-            "as": "AS205352 KABELNET LTD",
-            "query": "109.160.97.49",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 1.06
+            "response_time": 1.23
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "77.85.168.253",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.44
+            "response_time": 1.43
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "18",
+            "regionName": "Ruse",
+            "city": "Rousse",
+            "zip": "7000",
+            "lat": 43.8487,
+            "lon": 25.9534,
+            "timezone": "Europe/Sofia",
+            "isp": "Kabelnet LTD",
+            "org": "Global Communication Net Plc",
+            "as": "AS205352 KABELNET LTD",
+            "query": "109.160.97.49",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.49
         }
     ]
 }
