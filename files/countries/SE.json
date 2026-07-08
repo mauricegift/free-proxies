@@ -1,27 +1,8 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 6,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
-            "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.163.108",
-            "type": "http",
-            "port": "30896",
-            "response_time": 2.13
-        },
         {
             "status": "success",
             "country": "Sweden",
@@ -39,7 +20,7 @@
             "query": "13.53.139.178",
             "type": "http",
             "port": "40274",
-            "response_time": 3.91
+            "response_time": 1.19
         },
         {
             "status": "success",
@@ -50,34 +31,15 @@
             "city": "Stockholm",
             "zip": "100 05",
             "lat": 59.3293,
-            "lon": 18.0686,
+            "lon": 18.0685,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.60.181.61",
-            "type": "http",
-            "port": "536",
-            "response_time": 4.5
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3293,
-            "lon": 18.0686,
-            "timezone": "Europe/Stockholm",
-            "isp": "NetCrafters OU",
-            "org": "NetCrafters OU",
-            "as": "AS203273 NetCrafters OU",
-            "query": "91.186.217.195",
-            "type": "http",
-            "port": "8000",
-            "response_time": 4.99
+            "isp": "xorek.cloud International LTD",
+            "org": "xorek.cloud International LTD",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "185.197.74.126",
+            "type": "socks5",
+            "port": "2080",
+            "response_time": 2.65
         },
         {
             "status": "success",
@@ -94,28 +56,9 @@
             "org": "HostHatch LLC",
             "as": "AS63473 HostHatch, LLC",
             "query": "176.126.70.111",
-            "type": "socks4",
+            "type": "socks5",
             "port": "16379",
-            "response_time": 9.34
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Play2go International Limited",
-            "org": "Play2go International Limited",
-            "as": "AS215439 PLAY2GO INTERNATIONAL LIMITED",
-            "query": "144.31.230.199",
-            "type": "http",
-            "port": "3000",
-            "response_time": 9.92
+            "response_time": 10.85
         }
     ]
 }
