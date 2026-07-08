@@ -1,8 +1,27 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 3,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "12010",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "S.I Group",
+            "org": "",
+            "as": "AS131207 SINET, Cambodia's specialist Internet and Telecom Service Provider.",
+            "query": "96.9.88.130",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.44
+        },
         {
             "status": "success",
             "country": "Cambodia",
@@ -20,7 +39,45 @@
             "query": "122.252.183.22",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.15
+            "response_time": 3.2
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+            "org": "Viettel (cambodia) Pte., Ltd.",
+            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+            "query": "175.100.37.171",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.45
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+            "org": "Viettel (cambodia) Pte., Ltd.",
+            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+            "query": "36.37.203.215",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.49
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "103.197.242.106",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.42
+            "response_time": 6.35
         },
         {
             "status": "success",
@@ -52,13 +109,32 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-            "org": "Viettel (cambodia) Pte., Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.244.41",
+            "isp": "Angkor Data Communication",
+            "org": "Mekongnet SR",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "202.178.114.61",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 5.29
+            "port": "4145",
+            "response_time": 6.44
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "WiCAM Corporation",
+            "org": "WiCAM Corporation Ltd.",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "49.156.44.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.34
         }
     ]
 }
