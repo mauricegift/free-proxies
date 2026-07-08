@@ -1,8 +1,27 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 8,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "15",
+            "regionName": "Baja Verapaz",
+            "city": "Salam\u00e1",
+            "zip": "",
+            "lat": 15.1021,
+            "lon": -90.3191,
+            "timezone": "America/Guatemala",
+            "isp": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "org": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "as": "AS263781 ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
+            "query": "138.118.104.122",
+            "type": "http",
+            "port": "999",
+            "response_time": 3.83
+        },
         {
             "status": "success",
             "country": "Guatemala",
@@ -17,10 +36,10 @@
             "isp": "Ufinet Panama S.A.",
             "org": "UFINET Guatemala S. A",
             "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "186.33.5.13",
+            "query": "186.33.3.37",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.14
+            "port": "999",
+            "response_time": 5.29
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "186.33.7.117",
             "type": "http",
             "port": "999",
-            "response_time": 2.13
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "13",
-            "regionName": "Departamento de Huehuetenango",
-            "city": "Huehuetenango",
-            "zip": "13001",
-            "lat": 15.3212,
-            "lon": -91.4703,
-            "timezone": "America/Guatemala",
-            "isp": "Fibernet S.A",
-            "org": "Fibernet S.A",
-            "as": "AS269989 FIBERNET S.A",
-            "query": "138.117.231.133",
-            "type": "http",
-            "port": "999",
-            "response_time": 3.5
+            "response_time": 5.97
         },
         {
             "status": "success",
@@ -77,26 +77,45 @@
             "query": "181.119.214.250",
             "type": "http",
             "port": "999",
-            "response_time": 3.76
+            "response_time": 7.86
         },
         {
             "status": "success",
             "country": "Guatemala",
             "countryCode": "GT",
-            "region": "03",
-            "regionName": "Sacatep\u00e9quez",
-            "city": "Antigua Guatemala",
-            "zip": "03001",
-            "lat": 14.5564,
-            "lon": -90.7332,
+            "region": "13",
+            "regionName": "Departamento de Huehuetenango",
+            "city": "Huehuetenango",
+            "zip": "13001",
+            "lat": 15.3212,
+            "lon": -91.4703,
             "timezone": "America/Guatemala",
-            "isp": "Innova Outsourcing S.A",
-            "org": "Innova Outsourcing S.A",
-            "as": "AS264764 Innova Outsourcing S.A",
-            "query": "38.41.225.174",
-            "type": "socks4",
-            "port": "8888",
-            "response_time": 5.04
+            "isp": "Fibernet S.A",
+            "org": "Fibernet S.A",
+            "as": "AS269989 FIBERNET S.A",
+            "query": "138.117.231.133",
+            "type": "http",
+            "port": "999",
+            "response_time": 8.89
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01009",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "186.33.5.13",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.52
         },
         {
             "status": "success",
@@ -115,45 +134,7 @@
             "query": "190.61.101.72",
             "type": "http",
             "port": "8080",
-            "response_time": 5.23
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "01",
-            "regionName": "Guatemala",
-            "city": "Guatemala City",
-            "zip": "01014",
-            "lat": 14.6419,
-            "lon": -90.5133,
-            "timezone": "America/Guatemala",
-            "isp": "Telgua",
-            "org": "Telgua",
-            "as": "AS14754 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "query": "201.216.147.244",
-            "type": "http",
-            "port": "999",
-            "response_time": 5.99
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "01",
-            "regionName": "Guatemala",
-            "city": "Guatemala City",
-            "zip": "01009",
-            "lat": 14.6343,
-            "lon": -90.5155,
-            "timezone": "America/Guatemala",
-            "isp": "Ufinet Panama S.A.",
-            "org": "UFINET Guatemala S. A",
-            "as": "AS52468 UFINET PANAMA S.A.",
-            "query": "186.33.3.209",
-            "type": "http",
-            "port": "999",
-            "response_time": 6.25
+            "response_time": 12.51
         }
     ]
 }
