@@ -1,8 +1,27 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 4,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8098",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.34.28.236",
+            "type": "http",
+            "port": "443",
+            "response_time": 0.58
+        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -20,7 +39,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 0.28
+            "response_time": 1.03
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "CH",
             "region": "ZH",
             "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
+            "city": "Zurich",
+            "zip": "8098",
+            "lat": 47.3643,
+            "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.14",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 4.34
+            "port": "1080",
+            "response_time": 1.52
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 7.51
+            "response_time": 1.52
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8098",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.04
         },
         {
             "status": "success",
@@ -75,9 +113,9 @@
             "org": "Cust88530 Network",
             "as": "AS63023 GTHost",
             "query": "5.101.85.133",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 8.28
+            "response_time": 6.98
         }
     ]
 }
