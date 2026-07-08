@@ -1,27 +1,8 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 6,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "146.56.185.39",
-            "type": "http",
-            "port": "10900",
-            "response_time": 1.37
-        },
         {
             "status": "success",
             "country": "South Korea",
@@ -39,7 +20,7 @@
             "query": "106.249.44.10",
             "type": "http",
             "port": "3128",
-            "response_time": 1.81
+            "response_time": 1.68
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 2.28
+            "response_time": 1.85
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks4",
+            "port": "3128",
+            "response_time": 5.7
         },
         {
             "status": "success",
@@ -66,56 +66,18 @@
             "countryCode": "KR",
             "region": "41",
             "regionName": "Gyeonggi-do",
-            "city": "Ansan-si",
-            "zip": "155",
-            "lat": 37.2852,
-            "lon": 126.8251,
+            "city": "Pyeongtaek-si",
+            "zip": "177",
+            "lat": 37.0847,
+            "lon": 127.0525,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "",
+            "org": "Kornet",
             "as": "AS4766 Korea Telecom",
-            "query": "121.139.218.165",
-            "type": "socks4",
-            "port": "43295",
-            "response_time": 2.52
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Seongnam-si",
-            "zip": "13215",
-            "lat": 37.4309,
-            "lon": 127.152,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Netropy",
-            "as": "AS4766 Korea Telecom",
-            "query": "211.174.99.161",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 6.62
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Gwangmyeong",
-            "zip": "08620",
-            "lat": 37.465,
-            "lon": 126.891,
-            "timezone": "Asia/Seoul",
-            "isp": "Netropy CO.",
-            "org": "NURILINK",
-            "as": "AS4766 Korea Telecom",
-            "query": "118.67.170.121",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 6.76
+            "query": "14.34.180.21",
+            "type": "http",
+            "port": "38157",
+            "response_time": 9.6
         }
     ]
 }
