@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 7,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "EG",
             "region": "C",
             "regionName": "Cairo Governorate",
-            "city": "Cairo",
+            "city": "Maadi",
             "zip": "",
-            "lat": 30.0507,
-            "lon": 31.2489,
+            "lat": 29.9535,
+            "lon": 31.2502,
             "timezone": "Africa/Cairo",
-            "isp": "Link Egypt (Link.NET)",
-            "org": "",
+            "isp": "LINKdotNET AS number",
+            "org": "Link Egypt (Link.NET)",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "197.164.101.10",
+            "query": "45.245.208.182",
             "type": "http",
-            "port": "1976",
-            "response_time": 1.29
+            "port": "8080",
+            "response_time": 2.73
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 30.0507,
             "lon": 31.2489,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat Misr Mobile BB",
-            "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.55.10",
+            "isp": "Vodafone Data - Egypt",
+            "org": "vodafone Data",
+            "as": "AS24835 Vodafone Data",
+            "query": "197.132.111.89",
             "type": "http",
-            "port": "1976",
-            "response_time": 4.02
+            "port": "8080",
+            "response_time": 4.0
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "LINKdotNET AS number",
             "org": "Link Egypt (Link.NET)",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "41.128.72.136",
+            "query": "45.240.232.62",
             "type": "http",
-            "port": "1981",
-            "response_time": 5.43
+            "port": "8080",
+            "response_time": 5.96
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "C",
+            "regionName": "Cairo Governorate",
+            "city": "El Shorouk",
+            "zip": "",
+            "lat": 30.1381,
+            "lon": 31.6156,
+            "timezone": "Africa/Cairo",
+            "isp": "Etisalat",
+            "org": "EgyNet",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "84.36.35.206",
+            "type": "http",
+            "port": "1975",
+            "response_time": 7.56
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "41.128.72.142",
             "type": "http",
             "port": "1981",
-            "response_time": 6.07
+            "response_time": 7.99
         },
         {
             "status": "success",
@@ -96,45 +115,7 @@
             "query": "197.164.101.11",
             "type": "http",
             "port": "1976",
-            "response_time": 6.46
-        },
-        {
-            "status": "success",
-            "country": "Egypt",
-            "countryCode": "EG",
-            "region": "GZ",
-            "regionName": "Giza",
-            "city": "Giza",
-            "zip": "",
-            "lat": 30.0046,
-            "lon": 31.2044,
-            "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data",
-            "org": "",
-            "as": "AS24835 Vodafone Data",
-            "query": "196.204.83.229",
-            "type": "http",
-            "port": "1976",
-            "response_time": 12.15
-        },
-        {
-            "status": "success",
-            "country": "Egypt",
-            "countryCode": "EG",
-            "region": "C",
-            "regionName": "Cairo Governorate",
-            "city": "Cairo",
-            "zip": "",
-            "lat": 30.0507,
-            "lon": 31.2489,
-            "timezone": "Africa/Cairo",
-            "isp": "Etisalat Misr Mobile BB",
-            "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.162.72",
-            "type": "http",
-            "port": "1981",
-            "response_time": 17.41
+            "response_time": 12.79
         }
     ]
 }
