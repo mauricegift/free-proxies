@@ -1,26 +1,26 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Israel",
             "countryCode": "IL",
-            "region": "M",
-            "regionName": "Central District",
-            "city": "Rehovot",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
             "zip": "",
-            "lat": 31.8943,
-            "lon": 34.8192,
+            "lat": 32.0804,
+            "lon": 34.7807,
             "timezone": "Asia/Jerusalem",
-            "isp": "BEZEQ-INTERNATIONAL",
-            "org": "",
-            "as": "AS8551 Bezeq International Ltd.",
-            "query": "31.168.143.90",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.71
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.84.101.19",
+            "type": "http",
+            "port": "1001",
+            "response_time": 0.98
         },
         {
             "status": "success",
@@ -34,31 +34,12 @@
             "lon": 34.7807,
             "timezone": "Asia/Jerusalem",
             "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
+            "org": "A100 ROW Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.84.101.19",
+            "query": "51.17.154.141",
             "type": "http",
-            "port": "25417",
-            "response_time": 1.22
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "TA",
-            "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
-            "zip": "",
-            "lat": 32.0804,
-            "lon": 34.7807,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.84.101.19",
-            "type": "http",
-            "port": "8202",
-            "response_time": 1.98
+            "port": "7777",
+            "response_time": 1.54
         }
     ]
 }
