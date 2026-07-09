@@ -1,26 +1,26 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Palestine",
             "countryCode": "PS",
-            "region": "GZA",
-            "regionName": "Gaza Governorate",
-            "city": "Gaza",
+            "region": "HBN",
+            "regionName": "Hebron",
+            "city": "Hebron",
             "zip": "",
-            "lat": 31.5019,
-            "lon": 34.4666,
-            "timezone": "Asia/Gaza",
-            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "lat": 31.5313,
+            "lon": 35.0872,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
             "org": "Palestine Telecommunications Company",
             "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.244.95.175",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.64
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.59
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "103.231.105.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 5.81
+            "response_time": 4.66
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.244.95.175",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.69
         }
     ]
 }
