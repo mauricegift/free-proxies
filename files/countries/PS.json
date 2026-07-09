@@ -1,46 +1,8 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Palestinian Territory",
-            "countryCode": "PS",
-            "region": "",
-            "regionName": "West Bank",
-            "city": "\u1e28izm\u0101",
-            "zip": "",
-            "lat": 31.8334,
-            "lon": 35.2631,
-            "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "PALTEL-FTTH",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "103.231.105.158",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 4.7
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "HBN",
-            "regionName": "Hebron",
-            "city": "Hebron",
-            "zip": "",
-            "lat": 31.5313,
-            "lon": 35.0872,
-            "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.68.210",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 5.63
-        },
         {
             "status": "success",
             "country": "Palestine",
@@ -58,7 +20,26 @@
             "query": "213.244.95.175",
             "type": "http",
             "port": "8080",
-            "response_time": 5.67
+            "response_time": 5.64
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "\u1e28izm\u0101",
+            "zip": "",
+            "lat": 31.8334,
+            "lon": 35.2631,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "PALTEL-FTTH",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "103.231.105.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.81
         }
     ]
 }
