@@ -1,8 +1,46 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "A100 ROW Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.17.154.141",
+            "type": "http",
+            "port": "47687",
+            "response_time": 2.51
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "",
+            "regionName": "Judea and Samaria Area",
+            "city": "Dolev",
+            "zip": "",
+            "lat": 31.9147,
+            "lon": 35.2068,
+            "timezone": "Asia/Hebron",
+            "isp": "BNET network",
+            "org": "BCI Telecommunication & Advanced Technology Company",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.73",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.65
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,7 +58,7 @@
             "query": "31.168.143.90",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.96
+            "response_time": 3.9
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "83.229.73.113",
             "type": "http",
             "port": "13554",
-            "response_time": 11.52
+            "response_time": 3.99
         }
     ]
 }
