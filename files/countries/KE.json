@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 11,
+    "count": 12,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Airtel KE Mobile & Fixed Internet",
-            "org": "",
-            "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "154.79.248.156",
+            "isp": "Liquid Telecommunications Ltd",
+            "org": "Tribe",
+            "as": "AS30844 Liquid Telecommunications Ltd",
+            "query": "197.155.73.230",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.25
+            "port": "1080",
+            "response_time": 1.06
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "MTN Business Kenya",
+            "org": "MTN Business Kenya",
+            "as": "AS9129 MTN SA",
+            "query": "41.209.14.123",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.59
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "41.215.86.226",
             "type": "http",
             "port": "18080",
-            "response_time": 2.14
+            "response_time": 2.25
         },
         {
             "status": "success",
@@ -52,51 +71,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Airtel KE Mobile & Fixed Internet",
+            "isp": "Unwired Communications Ltd",
             "org": "",
-            "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "154.79.251.168",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.22
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "22",
-            "regionName": "Machakos County",
-            "city": "Githunguri",
-            "zip": "",
-            "lat": -1.29996,
-            "lon": 36.9905,
-            "timezone": "Africa/Nairobi",
-            "isp": "Icon Fiber Solutions ltd v4",
-            "org": "",
-            "as": "AS329101 Icon Fiber Solutions ltd",
-            "query": "102.215.79.121",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.38
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Unwired Communications Limited",
-            "org": "Unwired Communications",
             "as": "AS328490 Unwired Communications Limited",
-            "query": "102.211.146.31",
+            "query": "102.211.145.161",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.39
+            "port": "8081",
+            "response_time": 3.46
         },
         {
             "status": "success",
@@ -109,13 +90,13 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Liquid Telecommunications Ltd",
-            "org": "Tribe",
-            "as": "AS30844 Liquid Telecommunications Ltd",
-            "query": "197.155.73.230",
+            "isp": "SEACOM Limited",
+            "org": "Seacom Assignments",
+            "as": "AS37100 SEACOM Limited",
+            "query": "105.27.127.70",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.16
+            "response_time": 4.02
         },
         {
             "status": "success",
@@ -134,26 +115,7 @@
             "query": "102.213.179.210",
             "type": "http",
             "port": "8080",
-            "response_time": 6.72
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Tatu Telecom #PM94-AFRINIC",
-            "org": "Tatu Telecom Company SEZ Limited",
-            "as": "AS329341 Tatu Telecom Company SEZ Limited",
-            "query": "102.208.235.51",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.11
+            "response_time": 4.19
         },
         {
             "status": "success",
@@ -172,7 +134,45 @@
             "query": "102.211.145.31",
             "type": "http",
             "port": "8080",
-            "response_time": 9.01
+            "response_time": 5.52
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Safaricom Limited",
+            "org": "Safaricom Limited",
+            "as": "AS37061 Safaricom Limited",
+            "query": "197.248.59.159",
+            "type": "http",
+            "port": "8082",
+            "response_time": 6.94
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "01100",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Skysurf Limited",
+            "org": "Skysurf Limited",
+            "as": "AS329656 Skysurf Limited",
+            "query": "102.204.14.2",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.17
         },
         {
             "status": "success",
@@ -188,10 +188,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.18.198",
+            "query": "102.0.21.148",
             "type": "http",
             "port": "8080",
-            "response_time": 10.4
+            "response_time": 8.91
         },
         {
             "status": "success",
@@ -204,13 +204,32 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Vennet Solutions Limited",
-            "org": "Vennet Solutions Limited",
-            "as": "AS329437 VENNET SOLUTIONS LIMITED",
-            "query": "102.209.18.96",
+            "isp": "Jamii Telecommunications Limited",
+            "org": "Faiba Business",
+            "as": "AS36866 Jamii Telecommunications Limited",
+            "query": "197.232.158.189",
+            "type": "http",
+            "port": "41890",
+            "response_time": 9.49
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Airtel KE Mobile & Fixed Internet",
+            "org": "",
+            "as": "AS36926 Airtel Networks Kenya Limited",
+            "query": "102.0.30.88",
             "type": "http",
             "port": "8080",
-            "response_time": 12.75
+            "response_time": 9.55
         }
     ]
 }
