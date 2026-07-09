@@ -1,8 +1,46 @@
 {
     "countryCode": "HN",
     "country": "Honduras",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Honduras",
+            "countryCode": "HN",
+            "region": "SB",
+            "regionName": "Santa B\u00e1rbara Department",
+            "city": "La Uni\u00f3n",
+            "zip": "",
+            "lat": 15.1333,
+            "lon": -88.55,
+            "timezone": "America/Tegucigalpa",
+            "isp": "Ufinet Panama S.A.",
+            "org": "Ufinet Honduras, S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.78.44.63",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.72
+        },
+        {
+            "status": "success",
+            "country": "Honduras",
+            "countryCode": "HN",
+            "region": "CR",
+            "regionName": "Cort\u00e9s Department",
+            "city": "San Pedro Sula",
+            "zip": "21102",
+            "lat": 15.4967,
+            "lon": -88.0338,
+            "timezone": "America/Tegucigalpa",
+            "isp": "Ufinet Panama S.A.",
+            "org": "Ufinet Honduras, S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "186.33.20.48",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.18
+        },
         {
             "status": "success",
             "country": "Honduras",
@@ -17,10 +55,10 @@
             "isp": "Telgua",
             "org": "SERCOM de Honduras",
             "as": "AS14754 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-            "query": "181.115.74.172",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.09
+            "query": "181.115.67.3",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.3
         }
     ]
 }
