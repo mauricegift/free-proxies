@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "91.199.160.81",
             "type": "http",
             "port": "8443",
-            "response_time": 1.56
+            "response_time": 2.56
         },
         {
             "status": "success",
@@ -37,47 +37,9 @@
             "org": "ESA",
             "as": "AS62212 SmartApe OU",
             "query": "91.199.160.81",
-            "type": "socks4",
+            "type": "socks5",
             "port": "8443",
-            "response_time": 1.56
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "64",
-            "regionName": "South Moravian",
-            "city": "Slavkov u Brna",
-            "zip": "684 01",
-            "lat": 49.1474,
-            "lon": 16.8831,
-            "timezone": "Europe/Prague",
-            "isp": "GIN's network",
-            "org": "",
-            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
-            "query": "85.132.139.45",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 2.29
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "10",
-            "regionName": "Prague",
-            "city": "Prague",
-            "zip": "140 00",
-            "lat": 50.0471,
-            "lon": 14.4523,
-            "timezone": "Europe/Prague",
-            "isp": "Telefonica O2 Czech Republic, a.s.",
-            "org": "CZ.CZNET",
-            "as": "AS5610 O2 Czech Republic, a.s.",
-            "query": "90.181.120.18",
-            "type": "http",
-            "port": "8082",
-            "response_time": 6.26
+            "response_time": 2.56
         }
     ]
 }
