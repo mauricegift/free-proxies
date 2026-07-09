@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.26.134",
+            "type": "http",
+            "port": "58080",
+            "response_time": 5.49
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "5.59.248.134",
             "type": "socks5",
             "port": "8081",
-            "response_time": 6.76
+            "response_time": 6.84
         }
     ]
 }
