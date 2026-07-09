@@ -1,27 +1,8 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.131.175",
-            "type": "http",
-            "port": "34163",
-            "response_time": 0.67
-        },
         {
             "status": "success",
             "country": "Italy",
@@ -39,7 +20,7 @@
             "query": "176.126.83.123",
             "type": "http",
             "port": "9443",
-            "response_time": 0.73
+            "response_time": 0.64
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "15.160.132.166",
             "type": "http",
             "port": "43779",
-            "response_time": 3.61
+            "response_time": 0.7
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
+            "timezone": "Europe/Rome",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.04
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
+            "type": "http",
+            "port": "8081",
+            "response_time": 8.12
         },
         {
             "status": "success",
@@ -77,26 +96,26 @@
             "query": "15.161.131.175",
             "type": "http",
             "port": "7298",
-            "response_time": 4.45
+            "response_time": 11.31
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "34",
-            "regionName": "Veneto",
-            "city": "Santa Margherita d'Adige",
-            "zip": "35040",
-            "lat": 45.2121,
-            "lon": 11.5576,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Pitigliano",
+            "zip": "58017",
+            "lat": 42.6358,
+            "lon": 11.6746,
             "timezone": "Europe/Rome",
-            "isp": "Sirius Technology SRL",
-            "org": "Sirius Technology SRL",
-            "as": "AS60501 Sirius Technology SRL",
-            "query": "149.86.203.217",
+            "isp": "NGI",
+            "org": "NGI Spa",
+            "as": "AS35612 EOLO S.p.A.",
+            "query": "78.134.20.48",
             "type": "http",
             "port": "8080",
-            "response_time": 10.19
+            "response_time": 11.95
         }
     ]
 }
