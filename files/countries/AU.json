@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 3.53
+            "response_time": 2.91
         },
         {
             "status": "success",
@@ -29,36 +29,55 @@
             "region": "VIC",
             "regionName": "Victoria",
             "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
+            "zip": "3150",
+            "lat": -37.8766,
+            "lon": 145.1623,
             "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.51.148.102",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
             "type": "http",
-            "port": "16444",
-            "response_time": 3.98
+            "port": "8080",
+            "response_time": 3.99
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3000",
-            "lat": -37.8159,
-            "lon": 144.9669,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.51.148.102",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "North Sydney",
+            "zip": "2060",
+            "lat": -33.8401,
+            "lon": 151.209,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.137.166",
             "type": "http",
-            "port": "53818",
-            "response_time": 4.2
+            "port": "8080",
+            "response_time": 8.61
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "North Sydney",
+            "zip": "2060",
+            "lat": -33.8401,
+            "lon": 151.209,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.142.97",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.03
         }
     ]
 }
