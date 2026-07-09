@@ -1,8 +1,27 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Neihu District",
+            "zip": "",
+            "lat": 25.0689,
+            "lon": 121.591,
+            "timezone": "Asia/Taipei",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "Ucul",
+            "as": "AS63199 CDS Global Cloud Co., Ltd",
+            "query": "164.52.11.194",
+            "type": "http",
+            "port": "18080",
+            "response_time": 2.8
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -20,7 +39,7 @@
             "query": "140.235.38.56",
             "type": "socks4",
             "port": "50161",
-            "response_time": 12.01
+            "response_time": 7.62
         }
     ]
 }
