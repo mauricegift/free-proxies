@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "15.161.59.54",
             "type": "http",
             "port": "443",
-            "response_time": 0.93
+            "response_time": 0.58
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "15.161.131.175",
             "type": "http",
             "port": "35772",
-            "response_time": 2.56
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20143",
-            "lat": 45.4722,
-            "lon": 9.1922,
-            "timezone": "Europe/Rome",
-            "isp": "La Wireless",
-            "org": "",
-            "as": "AS49979 LA Wireless Srl",
-            "query": "94.198.213.252",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.04
+            "response_time": 1.05
         },
         {
             "status": "success",
@@ -68,35 +49,35 @@
             "regionName": "Lombardy",
             "city": "Milan",
             "zip": "20121",
-            "lat": 45.4642,
-            "lon": 9.18998,
+            "lat": 45.4681,
+            "lon": 9.2011,
             "timezone": "Europe/Rome",
-            "isp": "Host SpA",
-            "org": "Host VDC",
-            "as": "AS47242 Host SpA",
-            "query": "149.62.186.244",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.19
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.161.131.175",
+            "type": "http",
+            "port": "7298",
+            "response_time": 1.56
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Empoli",
+            "zip": "50053",
+            "lat": 43.7179,
+            "lon": 10.9478,
             "timezone": "Europe/Rome",
-            "isp": "HAL Service SpA",
-            "org": "Wiset srl",
-            "as": "AS44092 HAL Service SpA",
-            "query": "85.208.200.185",
+            "isp": "Leonet srl Empoli",
+            "org": "Leonet SRL",
+            "as": "AS15691 UAN COMPANY S.R.L.",
+            "query": "212.77.75.25",
             "type": "http",
-            "port": "8081",
-            "response_time": 6.72
+            "port": "3129",
+            "response_time": 2.07
         },
         {
             "status": "success",
@@ -115,7 +96,64 @@
             "query": "185.191.106.41",
             "type": "http",
             "port": "8081",
-            "response_time": 9.36
+            "response_time": 2.4
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4642,
+            "lon": 9.18998,
+            "timezone": "Europe/Rome",
+            "isp": "Host SpA",
+            "org": "Host VDC",
+            "as": "AS47242 Host SpA",
+            "query": "149.62.186.244",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.7
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.26.134",
+            "type": "http",
+            "port": "58080",
+            "response_time": 3.48
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "Comune Colle",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.26.218",
+            "type": "http",
+            "port": "58080",
+            "response_time": 5.71
         }
     ]
 }
