@@ -1,8 +1,27 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1005",
+            "lat": 56.9891,
+            "lon": 24.1195,
+            "timezone": "Europe/Riga",
+            "isp": "SIA \"BITE Latvija\"",
+            "org": "SIA Latnet",
+            "as": "AS2588 SIA BITE Latvija",
+            "query": "159.148.146.65",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.47
+        },
         {
             "status": "success",
             "country": "Latvia",
@@ -20,45 +39,7 @@
             "query": "81.198.87.36",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.43
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "Riga",
-            "city": "Riga",
-            "zip": "LV-1063",
-            "lat": 56.9473,
-            "lon": 24.0979,
-            "timezone": "Europe/Riga",
-            "isp": "Sia Nano IT",
-            "org": "",
-            "as": "AS43513 Sia Nano IT",
-            "query": "85.31.96.14",
-            "type": "socks4",
-            "port": "9150",
-            "response_time": 14.57
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "Riga",
-            "city": "Riga",
-            "zip": "LV-1063",
-            "lat": 56.9473,
-            "lon": 24.0979,
-            "timezone": "Europe/Riga",
-            "isp": "Sia Nano IT",
-            "org": "",
-            "as": "AS43513 Sia Nano IT",
-            "query": "85.31.96.14",
-            "type": "socks5",
-            "port": "9150",
-            "response_time": 14.57
+            "response_time": 7.67
         }
     ]
 }
