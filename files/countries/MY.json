@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "52200",
+            "lat": 3.1572,
+            "lon": 101.6695,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "103.1.105.10",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.55
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -19,8 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "56.68.116.64",
             "type": "http",
-            "port": "9799",
-            "response_time": 4.9
+            "port": "46662",
+            "response_time": 3.12
         }
     ]
 }
