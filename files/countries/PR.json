@@ -1,8 +1,27 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Adjuntas",
+            "city": "Adjuntas",
+            "zip": "",
+            "lat": 18.1627,
+            "lon": -66.7221,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Alphanet Corp",
+            "org": "Alphanet Corp",
+            "as": "AS400354 ALPHANET CORP",
+            "query": "23.138.88.96",
+            "type": "http",
+            "port": "999",
+            "response_time": 2.48
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -20,26 +39,45 @@
             "query": "172.99.187.33",
             "type": "socks4",
             "port": "4145",
-            "response_time": 8.08
+            "response_time": 3.99
         },
         {
             "status": "success",
             "country": "Puerto Rico",
             "countryCode": "PR",
             "region": "",
-            "regionName": "Adjuntas",
-            "city": "Adjuntas",
-            "zip": "",
-            "lat": 18.1627,
-            "lon": -66.7221,
+            "regionName": "San Juan",
+            "city": "San Juan",
+            "zip": "00918",
+            "lat": 18.4243,
+            "lon": -66.0572,
             "timezone": "America/Puerto_Rico",
-            "isp": "Alphanet Corp",
-            "org": "Alphanet Corp",
-            "as": "AS400354 ALPHANET CORP",
-            "query": "23.138.88.1",
+            "isp": "Liberty Mobile Puerto Rico Inc.",
+            "org": "Liberty Mobile Puerto Rico Inc",
+            "as": "AS11992 Liberty Mobile Puerto Rico Inc.",
+            "query": "67.206.213.202",
+            "type": "http",
+            "port": "3120",
+            "response_time": 4.97
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Cayey",
+            "city": "Cayey",
+            "zip": "",
+            "lat": 18.1119,
+            "lon": -66.166,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "OSNet Wireless",
+            "as": "AS21559 OSNET",
+            "query": "154.64.211.145",
             "type": "http",
             "port": "999",
-            "response_time": 11.95
+            "response_time": 6.94
         }
     ]
 }
