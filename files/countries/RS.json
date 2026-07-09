@@ -1,26 +1,45 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "24",
-            "regionName": "P\u010dinja",
-            "city": "Oraovica",
+            "region": "VO",
+            "regionName": "Vojvodina",
+            "city": "Novi Sad",
             "zip": "",
-            "lat": 42.3289,
-            "lon": 21.6585,
+            "lat": 45.25,
+            "lon": 19.8362,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "77.46.138.233",
+            "isp": "Serbia BroadBand",
+            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "query": "82.117.211.42",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.88
+            "port": "8085",
+            "response_time": 2.94
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "CETIN Ltd. Belgrade",
+            "org": "CETIN Ltd. Belgrade",
+            "as": "AS15958 CETINdoo-NET",
+            "query": "109.245.110.145",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.45
         }
     ]
 }
