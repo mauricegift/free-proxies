@@ -1,8 +1,27 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "11000",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "Orion Telekom Client Network",
+            "org": "",
+            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+            "query": "217.169.223.18",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.23
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -14,13 +33,32 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Zbet",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "185.190.154.121",
+            "query": "178.220.148.82",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 2.8
+            "port": "10801",
+            "response_time": 1.41
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Skupstina stanara solitera Y",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "91.150.77.58",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 2.48
         },
         {
             "status": "success",
@@ -39,26 +77,26 @@
             "query": "109.245.110.145",
             "type": "socks4",
             "port": "4145",
-            "response_time": 4.39
+            "response_time": 3.35
         },
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "VO",
-            "regionName": "Vojvodina",
-            "city": "\u0160imanovci",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
             "zip": "",
-            "lat": 44.8755,
-            "lon": 20.0917,
+            "lat": 44.8046,
+            "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Smederevo",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "195.178.56.37",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.98
+            "query": "79.101.45.94",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 7.56
         }
     ]
 }
