@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "31",
+            "regionName": "South Bohemian Region",
+            "city": "Vesel\u00ed nad Lu\u017enic\u00ed",
+            "zip": "391 81",
+            "lat": 49.1919,
+            "lon": 14.6825,
+            "timezone": "Europe/Prague",
+            "isp": "SmartApe OU",
+            "org": "ESA",
+            "as": "AS62212 SmartApe OU",
+            "query": "91.184.250.2",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 2.96
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +39,7 @@
             "query": "91.199.160.81",
             "type": "http",
             "port": "8443",
-            "response_time": 2.56
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -37,9 +56,9 @@
             "org": "ESA",
             "as": "AS62212 SmartApe OU",
             "query": "91.199.160.81",
-            "type": "socks5",
+            "type": "socks4",
             "port": "8443",
-            "response_time": 2.56
+            "response_time": 5.56
         }
     ]
 }
