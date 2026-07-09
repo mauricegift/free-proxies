@@ -1,26 +1,26 @@
 {
     "countryCode": "CL",
     "country": "Chile",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Chile",
             "countryCode": "CL",
-            "region": "LL",
-            "regionName": "Los Lagos Region",
-            "city": "Osorno",
+            "region": "ML",
+            "regionName": "Maule Region",
+            "city": "Curic\u00f3",
             "zip": "",
-            "lat": -40.5756,
-            "lon": -73.1439,
+            "lat": -34.9826,
+            "lon": -71.2344,
             "timezone": "America/Santiago",
-            "isp": "Telefonica del Sur S.A",
-            "org": "SERV. AGRICOLA Y GANADERO",
+            "isp": "Telefonica del Sur S.A.",
+            "org": "Telefonica del Sur S.A",
             "as": "AS14117 Telefonica del Sur S.A.",
-            "query": "190.13.147.241",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.64
+            "query": "179.57.172.172",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.58
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Grupo ZGH SpA",
             "org": "Grupo ZGH SpA",
             "as": "AS263702 GRUPO ZGH SPA",
-            "query": "38.7.195.51",
+            "query": "38.7.195.52",
             "type": "http",
             "port": "999",
-            "response_time": 4.11
+            "response_time": 5.8
         },
         {
             "status": "success",
@@ -58,64 +58,7 @@
             "query": "38.7.195.53",
             "type": "http",
             "port": "999",
-            "response_time": 5.41
-        },
-        {
-            "status": "success",
-            "country": "Chile",
-            "countryCode": "CL",
-            "region": "CO",
-            "regionName": "Coquimbo Region",
-            "city": "Ovalle",
-            "zip": "",
-            "lat": -30.6013,
-            "lon": -71.198,
-            "timezone": "America/Santiago",
-            "isp": "Roberto Mena Oyarzun Comunicaciones Eirl",
-            "org": "Roberto Mena Oyarzun Comunicaciones Eirl",
-            "as": "AS267926 ROBERTO MENA OYARZUN COMUNICACIONES EIRL",
-            "query": "45.180.26.1",
-            "type": "http",
-            "port": "999",
-            "response_time": 6.81
-        },
-        {
-            "status": "success",
-            "country": "Chile",
-            "countryCode": "CL",
-            "region": "NB",
-            "regionName": "\u00d1uble",
-            "city": "Bulnes",
-            "zip": "",
-            "lat": -36.7342,
-            "lon": -72.2955,
-            "timezone": "America/Santiago",
-            "isp": "Telefonica del Sur S.A.",
-            "org": "Telefonica del Sur S.A",
-            "as": "AS14117 Telefonica del Sur S.A.",
-            "query": "201.220.112.98",
-            "type": "http",
-            "port": "999",
-            "response_time": 8.73
-        },
-        {
-            "status": "success",
-            "country": "Chile",
-            "countryCode": "CL",
-            "region": "LI",
-            "regionName": "O'Higgins Region",
-            "city": "Las Cabras",
-            "zip": "",
-            "lat": -34.2623,
-            "lon": -70.7982,
-            "timezone": "America/Santiago",
-            "isp": "Netdelsur Telecomunicaciones SPA",
-            "org": "Netdelsur Telecomunicaciones SPA",
-            "as": "AS265858 NETDELSUR TELECOMUNICACIONES SPA",
-            "query": "45.225.204.53",
-            "type": "http",
-            "port": "999",
-            "response_time": 10.76
+            "response_time": 6.59
         }
     ]
 }
