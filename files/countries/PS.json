@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
-    "country": "Palestinian Territory",
-    "count": 1,
+    "country": "Palestine",
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "HBN",
+            "regionName": "Hebron",
+            "city": "Hebron",
+            "zip": "",
+            "lat": 31.5313,
+            "lon": 35.0872,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.83
+        },
         {
             "status": "success",
             "country": "Palestinian Territory",
@@ -20,7 +39,7 @@
             "query": "46.60.15.72",
             "type": "http",
             "port": "8082",
-            "response_time": 8.75
+            "response_time": 6.5
         }
     ]
 }
