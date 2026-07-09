@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 8,
+    "count": 9,
     "proxies": [
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "3.99.158.157",
             "type": "http",
             "port": "41805",
-            "response_time": 1.16
+            "response_time": 1.44
         },
         {
             "status": "success",
@@ -58,26 +58,45 @@
             "query": "35.182.12.78",
             "type": "http",
             "port": "40736",
-            "response_time": 1.95
+            "response_time": 1.44
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.5075,
-            "lon": -73.5887,
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
             "timezone": "America/Toronto",
-            "isp": "Rica Web Services",
-            "org": "Rica Web Services",
-            "as": "AS26832 Rica Web Services",
-            "query": "38.49.210.79",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "35.182.12.78",
+            "type": "http",
+            "port": "23960",
+            "response_time": 1.81
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
+            "timezone": "America/Toronto",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.251",
             "type": "socks5",
-            "port": "40000",
-            "response_time": 1.99
+            "port": "1080",
+            "response_time": 2.3
         },
         {
             "status": "success",
@@ -96,45 +115,7 @@
             "query": "16.52.81.236",
             "type": "http",
             "port": "53969",
-            "response_time": 2.64
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Laval",
-            "zip": "H7W",
-            "lat": 45.5355,
-            "lon": -73.761,
-            "timezone": "America/Toronto",
-            "isp": "Le Groupe Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "24.37.245.42",
-            "type": "socks4",
-            "port": "51056",
-            "response_time": 4.83
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H2A",
-            "lat": 45.562,
-            "lon": -73.6002,
-            "timezone": "America/Toronto",
-            "isp": "Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "45.73.0.118",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 5.18
+            "response_time": 2.67
         },
         {
             "status": "success",
@@ -151,9 +132,47 @@
             "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
             "as": "AS31898 Oracle Corporation",
             "query": "140.238.156.12",
-            "type": "socks4",
+            "type": "http",
             "port": "1080",
-            "response_time": 11.56
+            "response_time": 2.93
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H2V",
+            "lat": 45.518,
+            "lon": -73.6048,
+            "timezone": "America/Toronto",
+            "isp": "Bell Canada",
+            "org": "Bell Canada",
+            "as": "AS577 Bell Canada",
+            "query": "142.112.52.229",
+            "type": "socks4",
+            "port": "8443",
+            "response_time": 3.99
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "timezone": "America/Toronto",
+            "isp": "Amazon.com",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.52.81.236",
+            "type": "http",
+            "port": "23812",
+            "response_time": 5.06
         }
     ]
 }
