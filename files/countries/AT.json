@@ -1,8 +1,27 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Mitterberg-Sankt Martin",
+            "zip": "8954",
+            "lat": 47.49,
+            "lon": 14.0803,
+            "timezone": "Europe/Vienna",
+            "isp": "A1 Telekom Austria AG",
+            "org": "A1 Telekom Austria AG",
+            "as": "AS8447 A1 Telekom Austria AG",
+            "query": "178.189.56.158",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.32
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -20,7 +39,7 @@
             "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.65
+            "response_time": 9.8
         }
     ]
 }
