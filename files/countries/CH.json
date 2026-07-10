@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 2.05
+            "response_time": 5.9
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
+            "timezone": "Europe/Zurich",
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.132",
+            "type": "http",
+            "port": "80",
+            "response_time": 5.96
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.24
+            "response_time": 6.81
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.24
+            "response_time": 6.81
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "5.101.85.133",
             "type": "socks4",
             "port": "9050",
-            "response_time": 14.24
+            "response_time": 9.63
         },
         {
             "status": "success",
@@ -96,7 +115,7 @@
             "query": "5.101.85.133",
             "type": "socks5",
             "port": "9050",
-            "response_time": 14.24
+            "response_time": 9.63
         }
     ]
 }
