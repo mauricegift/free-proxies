@@ -1,26 +1,26 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
             "country": "Estonia",
             "countryCode": "EE",
-            "region": "87",
-            "regionName": "V\u00f5rumaa",
-            "city": "Parksepa",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
             "zip": "",
-            "lat": 57.9097,
-            "lon": 26.9831,
+            "lat": 59.3577,
+            "lon": 27.4222,
             "timezone": "Europe/Tallinn",
-            "isp": "SkyLive Telecom ldt",
-            "org": "Elevi",
-            "as": "AS202652 Elevi AS",
-            "query": "185.157.111.3",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.45.125.201",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 0.66
+            "port": "1080",
+            "response_time": 0.32
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "PAGM network",
             "org": "Hosting Services",
             "as": "AS198068 P.A.G.M. OU",
-            "query": "45.67.131.229",
-            "type": "http",
+            "query": "5.45.125.201",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 0.68
+            "response_time": 0.32
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "5.45.118.209",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.04
+            "response_time": 0.34
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "87",
+            "regionName": "V\u00f5rumaa",
+            "city": "Parksepa",
+            "zip": "",
+            "lat": 57.9097,
+            "lon": 26.9831,
+            "timezone": "Europe/Tallinn",
+            "isp": "SkyLive Telecom ldt",
+            "org": "Elevi",
+            "as": "AS202652 Elevi AS",
+            "query": "185.157.111.3",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.47
         },
         {
             "status": "success",
@@ -75,9 +94,9 @@
             "org": "WorkTitans B.V",
             "as": "",
             "query": "5.181.23.213",
-            "type": "http",
+            "type": "socks4",
             "port": "8443",
-            "response_time": 4.17
+            "response_time": 4.36
         },
         {
             "status": "success",
@@ -96,7 +115,7 @@
             "query": "5.45.126.165",
             "type": "http",
             "port": "13215",
-            "response_time": 7.41
+            "response_time": 7.38
         },
         {
             "status": "success",
@@ -112,10 +131,29 @@
             "isp": "PAGM network",
             "org": "Hosting Services",
             "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.125.201",
+            "query": "45.67.131.229",
+            "type": "http",
+            "port": "1080",
+            "response_time": 9.55
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "45.67.131.229",
             "type": "socks4",
             "port": "1080",
-            "response_time": 8.47
+            "response_time": 9.55
         }
     ]
 }
