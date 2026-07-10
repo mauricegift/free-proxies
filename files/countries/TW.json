@@ -1,8 +1,27 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "Xindian District",
+            "zip": "",
+            "lat": 24.9547,
+            "lon": 121.5354,
+            "timezone": "Asia/Taipei",
+            "isp": "Extra-Lan Technologies Co., LTD",
+            "org": "cgnet",
+            "as": "AS18429 Extra-Lan Technologies Co., LTD",
+            "query": "27.147.28.73",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.17
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -20,26 +39,26 @@
             "query": "210.201.86.72",
             "type": "http",
             "port": "8080",
-            "response_time": 10.52
+            "response_time": 14.36
         },
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
-            "city": "Taipei",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "New Taipei City",
             "zip": "",
-            "lat": 25.053,
-            "lon": 121.5259,
+            "lat": 25.0693,
+            "lon": 121.4626,
             "timezone": "Asia/Taipei",
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "118.163.120.181",
+            "query": "61.216.156.222",
             "type": "http",
-            "port": "58837",
-            "response_time": 14.48
+            "port": "60808",
+            "response_time": 15.42
         }
     ]
 }
