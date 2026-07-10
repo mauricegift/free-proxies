@@ -1,8 +1,27 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.45.118.209",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.33
+        },
         {
             "status": "success",
             "country": "Estonia",
@@ -20,7 +39,7 @@
             "query": "5.181.23.213",
             "type": "socks4",
             "port": "8443",
-            "response_time": 5.36
+            "response_time": 0.37
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "45.67.131.229",
             "type": "http",
             "port": "1080",
-            "response_time": 7.7
+            "response_time": 0.67
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "45.67.131.229",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.7
+            "response_time": 0.67
         },
         {
             "status": "success",
@@ -74,10 +93,10 @@
             "isp": "PAGM network",
             "org": "Hosting Services",
             "as": "AS198068 P.A.G.M. OU",
-            "query": "5.101.114.63",
+            "query": "5.45.126.165",
             "type": "http",
-            "port": "8880",
-            "response_time": 10.7
+            "port": "13215",
+            "response_time": 6.28
         }
     ]
 }
