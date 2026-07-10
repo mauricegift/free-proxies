@@ -1,8 +1,27 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Arinj",
+            "zip": "",
+            "lat": 40.2337,
+            "lon": 44.5821,
+            "timezone": "Asia/Yerevan",
+            "isp": "Proitlab LLC",
+            "org": "Proitlab LLC",
+            "as": "AS216058 Proitlab LLC",
+            "query": "2.56.206.46",
+            "type": "http",
+            "port": "80",
+            "response_time": 0.79
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -11,16 +30,35 @@
             "regionName": "Yerevan",
             "city": "Yerevan",
             "zip": "",
-            "lat": 40.1793,
-            "lon": 44.5159,
+            "lat": 40.1814,
+            "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "BioNet LLC",
-            "org": "Hnet LLC",
-            "as": "AS42991 BioNet LLC",
-            "query": "91.204.190.140",
+            "isp": "UCOM-SUBSCRIBERS",
+            "org": "",
+            "as": "AS44395 Ucom CJSC",
+            "query": "109.75.42.82",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 4.72
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "ISP SUPPORT LLC",
+            "org": "ISP SUPPORT LLC",
+            "as": "AS201884 ISP SUPPORT LLC",
+            "query": "91.103.248.58",
             "type": "http",
-            "port": "81",
-            "response_time": 2.72
+            "port": "3128",
+            "response_time": 7.12
         }
     ]
 }
