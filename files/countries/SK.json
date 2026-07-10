@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "BL",
+            "regionName": "Bratislava Region",
+            "city": "Bratislava",
+            "zip": "821 04",
+            "lat": 48.1715,
+            "lon": 17.1678,
+            "timezone": "Europe/Bratislava",
+            "isp": "Root Localhost LLC",
+            "org": "Root Localhost LLC",
+            "as": "AS216093 Root Localhost LLC",
+            "query": "193.124.4.31",
+            "type": "socks4",
+            "port": "8885",
+            "response_time": 3.12
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +39,7 @@
             "query": "91.217.33.137",
             "type": "http",
             "port": "8080",
-            "response_time": 1.17
+            "response_time": 3.66
         }
     ]
 }
