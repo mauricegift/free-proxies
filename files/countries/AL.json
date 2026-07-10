@@ -1,88 +1,12 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 9,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "02",
-            "regionName": "Durr\u00ebs County",
-            "city": "Rrashbull",
-            "zip": "",
-            "lat": 41.3228,
-            "lon": 19.5103,
-            "timezone": "Europe/Tirane",
-            "isp": "Lightnet Sh.p.k.",
-            "org": "Lightnet Sh.p.k",
-            "as": "AS212637 LightNet Sh.p.k.",
-            "query": "185.190.90.2",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.59
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
-            "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
-            "timezone": "Europe/Tirane",
-            "isp": "Business Custommers",
-            "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "77.242.21.133",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.35
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Elbasan",
-            "zip": "3001",
-            "lat": 41.1533,
-            "lon": 20.1683,
-            "timezone": "Europe/Tirane",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "78.159.131.131",
-            "type": "http",
-            "port": "1081",
-            "response_time": 1.98
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Elbasan",
-            "zip": "3001",
-            "lat": 41.1533,
-            "lon": 20.1683,
-            "timezone": "Europe/Tirane",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "78.159.131.131",
-            "type": "socks4",
-            "port": "1081",
-            "response_time": 1.98
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
             "region": "03",
             "regionName": "Elbasan County",
             "city": "Elbasan",
@@ -96,7 +20,7 @@
             "query": "78.159.131.139",
             "type": "http",
             "port": "1081",
-            "response_time": 3.25
+            "response_time": 3.27
         },
         {
             "status": "success",
@@ -115,7 +39,7 @@
             "query": "78.159.131.139",
             "type": "socks4",
             "port": "1081",
-            "response_time": 3.25
+            "response_time": 3.27
         },
         {
             "status": "success",
@@ -129,12 +53,31 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone RESIDENTIAL NAT",
+            "org": "Vodafone",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.78.106",
+            "query": "188.164.218.209",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.88
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
+            "zip": "3001",
+            "lat": 41.1533,
+            "lon": 20.1683,
+            "timezone": "Europe/Tirane",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "78.159.131.131",
             "type": "socks4",
-            "port": "65530",
-            "response_time": 3.39
+            "port": "1081",
+            "response_time": 8.37
         },
         {
             "status": "success",
@@ -153,26 +96,7 @@
             "query": "78.159.131.112",
             "type": "http",
             "port": "1081",
-            "response_time": 6.31
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
-            "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
-            "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.165.246",
-            "type": "http",
-            "port": "8989",
-            "response_time": 8.86
+            "response_time": 10.65
         }
     ]
 }
