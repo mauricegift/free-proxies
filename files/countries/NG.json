@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 4,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "BO",
+            "regionName": "Borno State",
+            "city": "Maiduguri",
+            "zip": "",
+            "lat": 11.8311,
+            "lon": 13.151,
+            "timezone": "Africa/Lagos",
+            "isp": "Gutti Global Networks",
+            "org": "Gutti Global Networks",
+            "as": "AS327986 GUTTI GLOBAL NETWORKS",
+            "query": "169.239.236.201",
+            "type": "socks4",
+            "port": "10801",
+            "response_time": 4.27
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -14,13 +33,51 @@
             "lat": 6.52438,
             "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "eStream Networks",
-            "org": "Posh Apartment Adeniyi Jones IKJ",
-            "as": "AS37629 eStream Networks",
-            "query": "196.1.182.130",
+            "isp": "VDT COMMUNICATIONS LIMITED",
+            "org": "Customer Emerald Schools Gbagada",
+            "as": "AS37088 VDT COMMUNICATIONS LIMITED",
+            "query": "41.216.169.82",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.64
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Irewe",
+            "zip": "",
+            "lat": 6.41692,
+            "lon": 3.14058,
+            "timezone": "Africa/Lagos",
+            "isp": "Timeless Network Services Ltd",
+            "org": "Timeless Network Solutions",
+            "as": "AS328555 Timeless Network Services Ltd",
+            "query": "102.36.231.77",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.68
+            "response_time": 4.69
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "GLO",
+            "org": "",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.76.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.45
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "197.156.240.66",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.31
+            "response_time": 6.45
         },
         {
             "status": "success",
@@ -49,16 +106,16 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.52438,
+            "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "41.75.84.86",
+            "isp": "eStream Networks",
+            "org": "Posh Apartment Adeniyi Jones IKJ",
+            "as": "AS37629 eStream Networks",
+            "query": "196.1.182.130",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 2.98
+            "port": "1080",
+            "response_time": 7.05
         },
         {
             "status": "success",
@@ -74,10 +131,10 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.209.162",
+            "query": "154.113.208.190",
             "type": "http",
-            "port": "8082",
-            "response_time": 4.37
+            "port": "8080",
+            "response_time": 12.43
         }
     ]
 }
