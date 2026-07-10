@@ -1,8 +1,27 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "IB",
+            "regionName": "Balearic Islands",
+            "city": "Ibiza Town",
+            "zip": "07800",
+            "lat": 38.9088,
+            "lon": 1.43296,
+            "timezone": "Europe/Madrid",
+            "isp": "Vodafone Espana S.A.U.",
+            "org": "Fergusmed",
+            "as": "AS12430 VODAFONE ESPANA S.A.U.",
+            "query": "95.60.60.204",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.86
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,45 +39,7 @@
             "query": "45.13.185.217",
             "type": "http",
             "port": "3128",
-            "response_time": 6.14
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28108",
-            "lat": 40.5395,
-            "lon": -3.6456,
-            "timezone": "Europe/Madrid",
-            "isp": "The Constant Company, LLC",
-            "org": "The Constant Company, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "65.20.105.241",
-            "type": "socks4",
-            "port": "10001",
-            "response_time": 6.22
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Marbella",
-            "zip": "29600",
-            "lat": 36.5149,
-            "lon": -4.8838,
-            "timezone": "Europe/Madrid",
-            "isp": "AVATEL TELECOM, SA",
-            "org": "AVATEL TELECOM, SA",
-            "as": "AS200845 AVATEL TELECOM, SA",
-            "query": "185.202.165.1",
-            "type": "http",
-            "port": "53281",
-            "response_time": 6.69
+            "response_time": 10.49
         }
     ]
 }
