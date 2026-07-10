@@ -1,26 +1,26 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Neihu District",
+            "region": "TPE",
+            "regionName": "Taipei City",
+            "city": "Taipei",
             "zip": "",
-            "lat": 25.0689,
-            "lon": 121.591,
+            "lat": 25.053,
+            "lon": 121.5259,
             "timezone": "Asia/Taipei",
-            "isp": "CDS Global Cloud Co., Ltd",
-            "org": "Ucul",
-            "as": "AS63199 CDS Global Cloud Co., Ltd",
-            "query": "164.52.11.194",
-            "type": "http",
-            "port": "18080",
-            "response_time": 1.51
+            "isp": "WAP.AC LLC",
+            "org": "Ipxo Limited",
+            "as": "AS401443 WAP.AC LLC",
+            "query": "85.237.207.122",
+            "type": "socks4",
+            "port": "20001",
+            "response_time": 1.35
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "210.201.86.72",
             "type": "http",
             "port": "8080",
-            "response_time": 7.39
+            "response_time": 5.82
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.033,
+            "lon": 121.565,
+            "timezone": "Asia/Taipei",
+            "isp": "Sunoaki Network LLC",
+            "org": "Sunaoki Network Customer",
+            "as": "AS212336 ByteVirt LLC",
+            "query": "140.235.38.56",
+            "type": "socks4",
+            "port": "50161",
+            "response_time": 8.46
         }
     ]
 }
