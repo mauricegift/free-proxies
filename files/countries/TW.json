@@ -1,8 +1,46 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "New Taipei City",
+            "zip": "",
+            "lat": 25.0693,
+            "lon": 121.4626,
+            "timezone": "Asia/Taipei",
+            "isp": "Sony Network Taiwan Limited",
+            "org": "SONET",
+            "as": "AS18182 Sony Network Taiwan Limited",
+            "query": "219.84.152.242",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.73
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "Xindian District",
+            "zip": "",
+            "lat": 24.9547,
+            "lon": 121.5354,
+            "timezone": "Asia/Taipei",
+            "isp": "Extra-Lan Technologies Co., LTD",
+            "org": "cgnet",
+            "as": "AS18429 Extra-Lan Technologies Co., LTD",
+            "query": "27.147.28.73",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.14
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -18,9 +56,9 @@
             "org": "Sunaoki Network Customer",
             "as": "AS212336 ByteVirt LLC",
             "query": "140.235.38.56",
-            "type": "socks4",
+            "type": "socks5",
             "port": "50161",
-            "response_time": 5.76
+            "response_time": 9.68
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "59.124.62.9",
             "type": "http",
             "port": "3128",
-            "response_time": 9.73
+            "response_time": 11.27
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "118.163.13.200",
             "type": "http",
             "port": "8080",
-            "response_time": 9.83
+            "response_time": 14.61
         }
     ]
 }
