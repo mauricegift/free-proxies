@@ -1,46 +1,8 @@
 {
     "countryCode": "PS",
-    "country": "Palestinian Territory",
-    "count": 4,
+    "country": "Palestine",
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "HBN",
-            "regionName": "Hebron",
-            "city": "Hebron",
-            "zip": "",
-            "lat": 31.5313,
-            "lon": 35.0872,
-            "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.68.210",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.68
-        },
-        {
-            "status": "success",
-            "country": "Palestinian Territory",
-            "countryCode": "PS",
-            "region": "",
-            "regionName": "West Bank",
-            "city": "Ramallah",
-            "zip": "",
-            "lat": 31.9038,
-            "lon": 35.2034,
-            "timezone": "Asia/Hebron",
-            "isp": "BCI Telecommunication & Advanced Technology Company",
-            "org": "Bnet Network",
-            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.9.9",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.59
-        },
         {
             "status": "success",
             "country": "Palestine",
@@ -58,26 +20,26 @@
             "query": "87.229.14.128",
             "type": "http",
             "port": "8080",
-            "response_time": 1.72
+            "response_time": 0.57
         },
         {
             "status": "success",
             "country": "Palestine",
             "countryCode": "PS",
-            "region": "GZA",
-            "regionName": "Gaza Governorate",
-            "city": "Gaza",
+            "region": "HBN",
+            "regionName": "Hebron",
+            "city": "Hebron",
             "zip": "",
-            "lat": 31.5019,
-            "lon": 34.4666,
-            "timezone": "Asia/Gaza",
-            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "lat": 31.5313,
+            "lon": 35.0872,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
             "org": "Palestine Telecommunications Company",
             "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.244.95.175",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.75
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.94
         }
     ]
 }
