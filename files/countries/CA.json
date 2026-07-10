@@ -1,8 +1,27 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 7,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H4X",
+            "lat": 45.5029,
+            "lon": -73.5723,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "192.99.154.246",
+            "type": "socks4",
+            "port": "1439",
+            "response_time": 0.49
+        },
         {
             "status": "success",
             "country": "Canada",
@@ -20,64 +39,7 @@
             "query": "51.222.13.193",
             "type": "socks4",
             "port": "10084",
-            "response_time": 0.53
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H3A",
-            "lat": 45.5063,
-            "lon": -73.5794,
-            "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "167.114.172.208",
-            "type": "socks5",
-            "port": "1088",
-            "response_time": 0.58
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.5075,
-            "lon": -73.5887,
-            "timezone": "America/Toronto",
-            "isp": "Rica Web Services",
-            "org": "Rica Web Services",
-            "as": "AS26832 Rica Web Services",
-            "query": "38.49.210.79",
-            "type": "socks5",
-            "port": "40000",
-            "response_time": 1.66
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Laval",
-            "zip": "H7W",
-            "lat": 45.5355,
-            "lon": -73.761,
-            "timezone": "America/Toronto",
-            "isp": "Le Groupe Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "24.37.245.42",
-            "type": "socks4",
-            "port": "51056",
-            "response_time": 1.71
+            "response_time": 0.65
         },
         {
             "status": "success",
@@ -96,7 +58,26 @@
             "query": "51.79.71.106",
             "type": "http",
             "port": "8080",
-            "response_time": 2.8
+            "response_time": 0.71
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H3A",
+            "lat": 45.5063,
+            "lon": -73.5794,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "167.114.172.208",
+            "type": "socks5",
+            "port": "1088",
+            "response_time": 0.71
         },
         {
             "status": "success",
@@ -115,26 +96,7 @@
             "query": "192.99.44.178",
             "type": "http",
             "port": "3128",
-            "response_time": 4.32
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.5075,
-            "lon": -73.5887,
-            "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "158.69.49.18",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.21
+            "response_time": 13.4
         }
     ]
 }
