@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "N",
+            "regionName": "Halland County",
+            "city": "Falkenberg",
+            "zip": "311 39",
+            "lat": 56.9012,
+            "lon": 12.498,
+            "timezone": "Europe/Stockholm",
+            "isp": "Fornex Hosting S.L.",
+            "org": "FORNEX",
+            "as": "AS48040 Fornex Hosting S.L.",
+            "query": "194.154.31.227",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.28
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,7 @@
             "query": "138.124.26.19",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.8
+            "response_time": 0.61
         },
         {
             "status": "success",
@@ -34,12 +53,31 @@
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
             "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
+            "org": "Aeza International LTD",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.230.196",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 3.06
+            "query": "147.45.72.212",
+            "type": "socks4",
+            "port": "44816",
+            "response_time": 2.36
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Axiom Asia Services PTE. LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "109.120.155.157",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.63
         },
         {
             "status": "success",
@@ -56,28 +94,9 @@
             "org": "xorek.cloud International LTD",
             "as": "AS210644 AEZA INTERNATIONAL LTD",
             "query": "185.197.74.126",
-            "type": "socks4",
-            "port": "2080",
-            "response_time": 3.24
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "HostHatch",
-            "org": "HostHatch LLC",
-            "as": "AS63473 HostHatch, LLC",
-            "query": "176.126.70.111",
             "type": "socks5",
-            "port": "16379",
-            "response_time": 10.38
+            "port": "2080",
+            "response_time": 6.3
         }
     ]
 }
