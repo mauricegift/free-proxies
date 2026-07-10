@@ -1,8 +1,27 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Pristina",
+            "zip": "",
+            "lat": 42.6727,
+            "lon": 21.1669,
+            "timezone": "Europe/Belgrade",
+            "isp": "PPPoE",
+            "org": "",
+            "as": "AS206358 Qendrim Kryeziu trading as N.P.SH \"ISP - Broadcast",
+            "query": "185.188.217.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.97
+        },
         {
             "status": "success",
             "country": "Kosovo",
@@ -20,7 +39,7 @@
             "query": "213.163.115.194",
             "type": "http",
             "port": "8080",
-            "response_time": 2.03
+            "response_time": 4.31
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "91.187.113.68",
             "type": "http",
             "port": "8080",
-            "response_time": 10.87
+            "response_time": 9.91
         }
     ]
 }
