@@ -1,26 +1,26 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 5,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "",
-            "lat": 51.1876,
-            "lon": 71.4491,
-            "timezone": "Asia/Almaty",
-            "isp": "Jusan Mobile JSC",
-            "org": "Jusan Mobile",
+            "region": "23",
+            "regionName": "Atyrau Oblisi",
+            "city": "Atyrau",
+            "zip": "060011",
+            "lat": 47.1169,
+            "lon": 51.8853,
+            "timezone": "Asia/Atyrau",
+            "isp": "JSC \"KazTransCom\"",
+            "org": "Kozhan LLP",
             "as": "AS35104 Jusan Mobile JSC",
-            "query": "77.245.102.106",
+            "query": "93.185.68.82",
             "type": "http",
-            "port": "3128",
-            "response_time": 0.77
+            "port": "8080",
+            "response_time": 0.76
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 1.22
+            "response_time": 1.34
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "91.185.20.162",
             "type": "http",
             "port": "8080",
-            "response_time": 1.96
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "23",
-            "regionName": "Atyrau Oblisi",
-            "city": "Atyrau",
-            "zip": "060011",
-            "lat": 47.1169,
-            "lon": 51.8853,
-            "timezone": "Asia/Atyrau",
-            "isp": "JSC \"KazTransCom\"",
-            "org": "Kozhan LLP",
-            "as": "AS35104 Jusan Mobile JSC",
-            "query": "93.185.68.82",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.82
+            "response_time": 2.07
         },
         {
             "status": "success",
@@ -96,7 +77,64 @@
             "query": "199.189.255.230",
             "type": "http",
             "port": "1080",
-            "response_time": 14.3
+            "response_time": 2.71
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.71
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.55
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.73.250",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.12
         }
     ]
 }
