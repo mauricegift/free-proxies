@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "18",
-            "regionName": "Ra\u0161ka",
-            "city": "Novi Pazar",
-            "zip": "",
-            "lat": 43.1398,
-            "lon": 20.5146,
-            "timezone": "Europe/Belgrade",
-            "isp": "MadNet ISP",
-            "org": "Madnet d.o.o.",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "109.198.22.61",
-            "type": "http",
-            "port": "808",
-            "response_time": 1.99
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -39,7 +20,45 @@
             "query": "109.245.110.145",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.37
+            "response_time": 0.46
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "18",
+            "regionName": "Ra\u0161ka",
+            "city": "Novi Pazar",
+            "zip": "",
+            "lat": 43.1398,
+            "lon": 20.5146,
+            "timezone": "Europe/Belgrade",
+            "isp": "MadNet ISP",
+            "org": "Madnet d.o.o.",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "109.198.22.61",
+            "type": "http",
+            "port": "808",
+            "response_time": 1.57
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.48
         }
     ]
 }
