@@ -1,8 +1,27 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220094",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Cosmos TV Jllc",
+            "org": "Belarusian-American joint venture Cosmos TV, Ltd.",
+            "as": "AS31143 COSMOS TV JLLC",
+            "query": "91.149.142.139",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.29
+        },
         {
             "status": "success",
             "country": "Belarus",
@@ -20,7 +39,7 @@
             "query": "80.249.81.179",
             "type": "socks4",
             "port": "9050",
-            "response_time": 4.31
+            "response_time": 23.0
         }
     ]
 }
