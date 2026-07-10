@@ -1,7 +1,7 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "74.162.65.56",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.14
+            "response_time": 4.75
         },
         {
             "status": "success",
             "country": "United Arab Emirates",
             "countryCode": "AE",
-            "region": "DU",
-            "regionName": "Dubai",
-            "city": "Dubai",
+            "region": "AZ",
+            "regionName": "Abu Dhabi",
+            "city": "Masdar City",
             "zip": "",
-            "lat": 25.2048,
-            "lon": 55.2707,
+            "lat": 24.4321,
+            "lon": 54.6158,
             "timezone": "Asia/Dubai",
-            "isp": "HZ Hosting Ltd",
-            "org": "HZ Na61",
-            "as": "AS59711 HZ Hosting Ltd",
-            "query": "185.253.116.162",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.9
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.151.130.247",
+            "type": "http",
+            "port": "1111",
+            "response_time": 5.59
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "185.253.116.162",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.9
+            "response_time": 10.06
+        },
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "DU",
+            "regionName": "Dubai",
+            "city": "Dubai",
+            "zip": "",
+            "lat": 25.0734,
+            "lon": 55.2979,
+            "timezone": "Asia/Dubai",
+            "isp": "Emirates Integrated Telecommunications Company PJSC",
+            "org": "Emirates Integrated Telecommunications Company",
+            "as": "AS15802 Emirates Integrated Telecommunications Company PJSC",
+            "query": "91.73.223.206",
+            "type": "http",
+            "port": "3128",
+            "response_time": 18.23
         }
     ]
 }
