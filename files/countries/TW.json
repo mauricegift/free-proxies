@@ -1,26 +1,45 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "TAO",
-            "regionName": "Taoyuan",
-            "city": "Longtan District",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "Xindian District",
             "zip": "",
-            "lat": 24.863,
-            "lon": 121.2102,
+            "lat": 24.9547,
+            "lon": 121.5354,
+            "timezone": "Asia/Taipei",
+            "isp": "Extra-Lan Technologies Co., LTD",
+            "org": "cgnet",
+            "as": "AS18429 Extra-Lan Technologies Co., LTD",
+            "query": "27.147.28.73",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.33
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "New Taipei City",
+            "zip": "",
+            "lat": 25.0693,
+            "lon": 121.4626,
             "timezone": "Asia/Taipei",
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "220.132.41.160",
-            "type": "socks4",
-            "port": "1088",
-            "response_time": 6.06
+            "query": "118.163.13.200",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.14
         }
     ]
 }
