@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
             "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
+            "org": "Caucasus Online Ltd",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.115",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.73
+            "query": "85.117.32.166",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.104",
+            "query": "85.117.56.147",
             "type": "http",
             "port": "8080",
-            "response_time": 3.02
+            "response_time": 6.12
         },
         {
             "status": "success",
@@ -58,64 +58,7 @@
             "query": "85.117.63.207",
             "type": "http",
             "port": "8080",
-            "response_time": 3.05
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.43",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.6
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.85",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.64
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.82",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.76
+            "response_time": 10.49
         }
     ]
 }
