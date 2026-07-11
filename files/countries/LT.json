@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "SA",
+            "regionName": "Siauliai",
+            "city": "\u0160iauliai",
+            "zip": "79001",
+            "lat": 55.9399,
+            "lon": 23.3132,
+            "timezone": "Europe/Vilnius",
+            "isp": "Informacines sistemos ir technologijos, UAB",
+            "org": "BACLOUD-COM",
+            "as": "AS61272 Informacines sistemos ir technologijos, UAB",
+            "query": "85.206.161.77",
+            "type": "http",
+            "port": "9091",
+            "response_time": 1.56
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -10,17 +29,36 @@
             "region": "VL",
             "regionName": "Vilnius",
             "city": "Vilnius",
-            "zip": "25001",
+            "zip": "02007",
             "lat": 54.6876,
             "lon": 25.2806,
             "timezone": "Europe/Vilnius",
-            "isp": "BALTNET",
-            "org": "",
-            "as": "AS15440 UAB \"Baltnetos komunikacijos\"",
-            "query": "213.197.136.218",
+            "isp": "UAB \"Interneto vizija\"",
+            "org": "RACKRAY",
+            "as": "AS212531 Interneto vizija",
+            "query": "80.209.239.219",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 0.27
+            "port": "9055",
+            "response_time": 2.43
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "02007",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "UAB \"Interneto vizija\"",
+            "org": "RACKRAY",
+            "as": "AS212531 Interneto vizija",
+            "query": "80.209.239.219",
+            "type": "socks5",
+            "port": "9055",
+            "response_time": 2.43
         }
     ]
 }
