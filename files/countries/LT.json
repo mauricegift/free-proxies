@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 54.6876,
             "lon": 25.2806,
             "timezone": "Europe/Vilnius",
-            "isp": "AB \"Ogmios Centras\"",
-            "org": "Intesta",
-            "as": "AS44613 Ogmios centras AS number",
-            "query": "93.93.61.153",
+            "isp": "BALTNET",
+            "org": "",
+            "as": "AS15440 UAB \"Baltnetos komunikacijos\"",
+            "query": "213.197.136.218",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 1.37
+            "port": "5678",
+            "response_time": 1.25
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01001",
+            "lat": 54.6872,
+            "lon": 25.2797,
+            "timezone": "Europe/Vilnius",
+            "isp": "MB Redfox Cloud",
+            "org": "Digital Network S.R.L",
+            "as": "AS212853 MB Redfox Cloud",
+            "query": "45.81.254.174",
+            "type": "socks4",
+            "port": "9118",
+            "response_time": 2.56
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01001",
+            "lat": 54.6872,
+            "lon": 25.2797,
+            "timezone": "Europe/Vilnius",
+            "isp": "MB Redfox Cloud",
+            "org": "Digital Network S.R.L",
+            "as": "AS212853 MB Redfox Cloud",
+            "query": "45.81.254.174",
+            "type": "socks5",
+            "port": "9084",
+            "response_time": 14.0
         }
     ]
 }
