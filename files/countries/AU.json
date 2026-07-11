@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2165",
-            "lat": -33.8695,
-            "lon": 150.9518,
+            "city": "Goulburn",
+            "zip": "2580",
+            "lat": -34.7591,
+            "lon": 149.7225,
             "timezone": "Australia/Sydney",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS7600 Escape.net",
-            "query": "210.8.69.102",
+            "isp": "YLess4U Pty Ltd",
+            "org": "RemoteISP Pty Ltd",
+            "as": "AS45447 YLess4U Regional Broadband",
+            "query": "103.131.232.9",
             "type": "http",
-            "port": "808",
-            "response_time": 3.71
+            "port": "8080",
+            "response_time": 5.33
         },
         {
             "status": "success",
@@ -38,8 +38,46 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "8000",
-            "response_time": 13.43
+            "port": "80",
+            "response_time": 5.73
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "North Sydney",
+            "zip": "2060",
+            "lat": -33.8401,
+            "lon": 151.209,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.137.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.65
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
+            "timezone": "Australia/Melbourne",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.34
         }
     ]
 }
