@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "CZ",
             "region": "64",
             "regionName": "South Moravian",
-            "city": "Znojmo",
-            "zip": "669 02",
-            "lat": 48.8519,
-            "lon": 16.0465,
+            "city": "Slavkov u Brna",
+            "zip": "684 01",
+            "lat": 49.1474,
+            "lon": 16.8831,
             "timezone": "Europe/Prague",
-            "isp": "O2 Czech Republic, a.s.",
-            "org": "O2 Czech Republic",
-            "as": "AS5610 O2 Czech Republic, a.s.",
-            "query": "90.182.147.170",
+            "isp": "GIN's network",
+            "org": "",
+            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
+            "query": "85.132.139.45",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 7.44
+            "port": "4153",
+            "response_time": 2.42
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "71",
+            "regionName": "Olomouc Region",
+            "city": "P\u0159erov",
+            "zip": "750 02",
+            "lat": 49.4137,
+            "lon": 17.5032,
+            "timezone": "Europe/Prague",
+            "isp": "PREROV",
+            "org": "",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "217.197.151.182",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.49
         }
     ]
 }
