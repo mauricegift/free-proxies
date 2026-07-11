@@ -1,7 +1,7 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 37.9842,
             "lon": 23.7353,
             "timezone": "Europe/Athens",
-            "isp": "University of Thessaly",
-            "org": "Network Operations Center, University of Thessaly",
-            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
-            "query": "194.177.207.44",
+            "isp": "Ote SA (Hellenic Telecommunications Organisation)",
+            "org": "OTEnet",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.70.148.177",
             "type": "http",
-            "port": "3128",
-            "response_time": 2.17
+            "port": "8080",
+            "response_time": 4.45
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "N\u00e1ousa",
+            "zip": "",
+            "lat": 40.6305,
+            "lon": 22.0732,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.68.245.147",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.6
         }
     ]
 }
