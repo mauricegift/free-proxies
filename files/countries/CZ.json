@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 5,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "42",
+            "regionName": "\u00dast\u00ed nad Labem Region",
+            "city": "Kryry",
+            "zip": "439 81",
+            "lat": 50.1769,
+            "lon": 13.4222,
+            "timezone": "Europe/Prague",
+            "isp": "ISP Alliance a.s.",
+            "org": "GRAPE SC",
+            "as": "AS47232 ISP Alliance a.s.",
+            "query": "78.111.112.118",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.24
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,26 +39,7 @@
             "query": "85.132.139.45",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.27
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "64",
-            "regionName": "South Moravian",
-            "city": "Str\u00e1\u017enice",
-            "zip": "696 62",
-            "lat": 48.9035,
-            "lon": 17.3124,
-            "timezone": "Europe/Prague",
-            "isp": "O2 Czech Republic, a.s.",
-            "org": "O2 Czech Republic",
-            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
-            "query": "188.119.98.126",
-            "type": "http",
-            "port": "9999",
-            "response_time": 1.4
+            "response_time": 0.36
         },
         {
             "status": "success",
@@ -58,45 +58,26 @@
             "query": "77.240.97.77",
             "type": "http",
             "port": "8080",
-            "response_time": 4.36
+            "response_time": 7.09
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "10",
-            "regionName": "Prague",
-            "city": "Prague",
-            "zip": "150 00",
-            "lat": 50.0687,
-            "lon": 14.3947,
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Str\u00e1\u017enice",
+            "zip": "696 62",
+            "lat": 48.9035,
+            "lon": 17.3124,
             "timezone": "Europe/Prague",
-            "isp": "T-Mobile Czech Republic a.s.",
-            "org": "Tmcz Gpon",
-            "as": "AS13036 T-Mobile Czech Republic a.s.",
-            "query": "193.179.52.197",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "188.119.98.126",
             "type": "http",
-            "port": "3128",
-            "response_time": 6.3
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Pilsen",
-            "zip": "301 00",
-            "lat": 49.7016,
-            "lon": 13.3507,
-            "timezone": "Europe/Prague",
-            "isp": "United Networks SE",
-            "org": "United Networks SE",
-            "as": "AS197296 United Networks SE",
-            "query": "45.139.91.62",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.46
+            "port": "9999",
+            "response_time": 9.19
         }
     ]
 }
