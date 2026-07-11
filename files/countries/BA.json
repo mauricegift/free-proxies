@@ -1,8 +1,46 @@
 {
     "countryCode": "BA",
     "country": "Bosnia and Herzegovina",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bosnia and Herzegovina",
+            "countryCode": "BA",
+            "region": "BIH",
+            "regionName": "Federation of Bosnia and Herzegovina",
+            "city": "Novi Travnik",
+            "zip": "72290",
+            "lat": 44.1678,
+            "lon": 17.6563,
+            "timezone": "Europe/Sarajevo",
+            "isp": "Globalhost d.o.o. - Web Hosting Solutions",
+            "org": "",
+            "as": "AS200698 Globalhost d.o.o.",
+            "query": "185.99.3.100",
+            "type": "socks5",
+            "port": "995",
+            "response_time": 2.95
+        },
+        {
+            "status": "success",
+            "country": "Bosnia and Herzegovina",
+            "countryCode": "BA",
+            "region": "BIH",
+            "regionName": "Federation of Bosnia and Herzegovina",
+            "city": "Mostar",
+            "zip": "",
+            "lat": 43.3426,
+            "lon": 17.811,
+            "timezone": "Europe/Sarajevo",
+            "isp": "JP HT d.d. Mostar",
+            "org": "Htnet",
+            "as": "AS20875 JP HT d.d. Mostar",
+            "query": "212.39.114.139",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.4
+        },
         {
             "status": "success",
             "country": "Bosnia and Herzegovina",
@@ -20,7 +58,7 @@
             "query": "77.77.210.90",
             "type": "http",
             "port": "21056",
-            "response_time": 6.23
+            "response_time": 9.17
         }
     ]
 }
