@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "02007",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "UAB \"Interneto vizija\"",
+            "org": "InternetoVizija",
+            "as": "AS212531 Interneto vizija",
+            "query": "89.40.2.194",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.39
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -20,7 +39,45 @@
             "query": "88.119.139.237",
             "type": "http",
             "port": "53281",
-            "response_time": 5.07
+            "response_time": 5.18
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "TE",
+            "regionName": "Telsiai",
+            "city": "Ma\u017eeikiai",
+            "zip": "89021",
+            "lat": 56.3176,
+            "lon": 22.3463,
+            "timezone": "Europe/Vilnius",
+            "isp": "KLI",
+            "org": "",
+            "as": "AS43627 UAB \"Besmegeniai\"",
+            "query": "46.36.65.117",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.59
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01001",
+            "lat": 54.6872,
+            "lon": 25.2797,
+            "timezone": "Europe/Vilnius",
+            "isp": "MB Redfox Cloud",
+            "org": "Digital Network S.R.L",
+            "as": "AS212853 MB Redfox Cloud",
+            "query": "45.81.254.174",
+            "type": "socks5",
+            "port": "9118",
+            "response_time": 8.28
         }
     ]
 }
