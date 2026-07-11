@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "DEB",
+            "regionName": "Deir al-Balah Governorate",
+            "city": "Deir el-Balah",
+            "zip": "",
+            "lat": 31.4183,
+            "lon": 34.3493,
+            "timezone": "Asia/Gaza",
+            "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
+            "org": "Abuyousef Co & Partners General Trade",
+            "as": "AS44213 Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade",
+            "query": "87.229.14.128",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.04
+        },
         {
             "status": "success",
             "country": "Palestinian Territory",
@@ -20,7 +39,7 @@
             "query": "103.231.105.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 5.92
+            "response_time": 4.97
         }
     ]
 }
