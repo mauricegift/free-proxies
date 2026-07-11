@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Wexford",
+            "zip": "Y35",
+            "lat": 52.336,
+            "lon": -6.4516,
+            "timezone": "Europe/Dublin",
+            "isp": "Regional Broadband Ireland Ltd",
+            "org": "Regional Broadband Ireland Ltd.",
+            "as": "AS47942 Regional Telecom Ltd",
+            "query": "94.102.193.91",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.08
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -20,7 +39,7 @@
             "query": "5.83.244.250",
             "type": "http",
             "port": "8080",
-            "response_time": 8.84
+            "response_time": 3.84
         }
     ]
 }
