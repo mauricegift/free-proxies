@@ -1,26 +1,26 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "BK",
-            "regionName": "B\u00e1cs-Kiskun",
-            "city": "Kecskem\u00e9t",
-            "zip": "6000",
-            "lat": 46.905,
-            "lon": 19.6958,
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1094",
+            "lat": 47.5,
+            "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
-            "org": "INVITEL / DIGI",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "85.66.19.69",
-            "type": "http",
-            "port": "18080",
-            "response_time": 2.91
+            "isp": "UPC",
+            "org": "UPC Magyarorszag Kft.",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "178.48.13.177",
+            "type": "socks4",
+            "port": "80",
+            "response_time": 0.38
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "89.132.170.211",
             "type": "socks4",
             "port": "4145",
-            "response_time": 7.52
+            "response_time": 1.35
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+            "org": "Digi",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "84.236.30.237",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.28
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "45.130.240.238",
             "type": "http",
             "port": "8080",
-            "response_time": 8.35
+            "response_time": 5.32
         }
     ]
 }
