@@ -1,26 +1,26 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "MH",
-            "regionName": "Mehedin\u021bi County",
-            "city": "Drobeta-Turnu Severin",
-            "zip": "220022",
-            "lat": 44.6319,
-            "lon": 22.6561,
+            "region": "SV",
+            "regionName": "Suceava",
+            "city": "Radauti",
+            "zip": "725400",
+            "lat": 47.8462,
+            "lon": 25.9154,
             "timezone": "Europe/Bucharest",
-            "isp": "Data ZYX SRL",
-            "org": "",
-            "as": "AS49052 DATA ZYX SRL",
-            "query": "185.128.240.77",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.4
+            "isp": "SC NextGen Communications SRL",
+            "org": "SC NextGen Communications SRL",
+            "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
+            "query": "46.214.153.223",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.49
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "92.86.92.126",
             "type": "socks4",
             "port": "42740",
-            "response_time": 5.9
+            "response_time": 1.58
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucharest",
+            "city": "Bucharest",
+            "zip": "051207",
+            "lat": 44.4291,
+            "lon": 26.1006,
+            "timezone": "Europe/Bucharest",
+            "isp": "IP Solus Inc",
+            "org": "IP Solus Inc",
+            "as": "AS199834 IP Solus Inc",
+            "query": "185.141.26.131",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.44
         }
     ]
 }
