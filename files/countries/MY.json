@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Subang Jaya",
+            "zip": "47600",
+            "lat": 3.05,
+            "lon": 101.5695,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.144.198.226",
+            "type": "socks4",
+            "port": "31694",
+            "response_time": 2.19
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -17,10 +36,10 @@
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
             "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "175.139.201.193",
+            "query": "175.139.200.17",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.2
+            "response_time": 4.85
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "60.51.249.168",
             "type": "http",
             "port": "8080",
-            "response_time": 5.67
+            "response_time": 8.07
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "16",
+            "regionName": "Putrajaya",
+            "city": "Putrajaya",
+            "zip": "62200",
+            "lat": 2.89756,
+            "lon": 101.667,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Multimedia Development Corporation",
+            "org": "",
+            "as": "AS24514 MINISTRY OF HIGHER EDUCATION MALAYSIA",
+            "query": "150.129.185.3",
+            "type": "http",
+            "port": "80",
+            "response_time": 10.51
         }
     ]
 }
