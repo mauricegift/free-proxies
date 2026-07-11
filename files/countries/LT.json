@@ -1,8 +1,46 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "25001",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "AB \"Ogmios Centras\"",
+            "org": "Intesta",
+            "as": "AS44613 Ogmios centras AS number",
+            "query": "93.93.61.153",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.34
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "25001",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "BALTNET",
+            "org": "",
+            "as": "AS15440 UAB \"Baltnetos komunikacijos\"",
+            "query": "213.197.136.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.39
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -18,28 +56,9 @@
             "org": "BACLOUD-COM",
             "as": "AS61272 Informacines sistemos ir technologijos, UAB",
             "query": "85.206.161.77",
-            "type": "http",
-            "port": "9091",
-            "response_time": 0.49
-        },
-        {
-            "status": "success",
-            "country": "Lithuania",
-            "countryCode": "LT",
-            "region": "VL",
-            "regionName": "Vilnius",
-            "city": "Vilnius",
-            "zip": "09202",
-            "lat": 54.695,
-            "lon": 25.292,
-            "timezone": "Europe/Vilnius",
-            "isp": "UAB Delska Lithuania",
-            "org": "UAB Rakrejus",
-            "as": "AS62282 UAB Rakrejus",
-            "query": "185.193.25.206",
             "type": "socks4",
-            "port": "9050",
-            "response_time": 11.62
+            "port": "9091",
+            "response_time": 9.13
         }
     ]
 }
