@@ -1,8 +1,27 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 5,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "12010",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "S.I Group",
+            "org": "",
+            "as": "AS131207 SINET, Cambodia's specialist Internet and Telecom Service Provider.",
+            "query": "96.9.88.130",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.84
+        },
         {
             "status": "success",
             "country": "Cambodia",
@@ -20,7 +39,7 @@
             "query": "124.248.164.36",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.32
+            "response_time": 3.44
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "122.252.179.66",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.41
+            "response_time": 5.27
         },
         {
             "status": "success",
@@ -48,17 +67,17 @@
             "region": "12",
             "regionName": "Phnom Penh",
             "city": "Phnom Penh",
-            "zip": "12010",
+            "zip": "",
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "S.I Group",
-            "org": "",
-            "as": "AS131207 SINET, Cambodia's specialist Internet and Telecom Service Provider.",
-            "query": "96.9.88.130",
+            "isp": "CityLink Corporation, LTD",
+            "org": "CityLink Corporation, LTD",
+            "as": "AS24441 CityLink Corporation, LTD",
+            "query": "202.84.76.190",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 2.56
+            "port": "5678",
+            "response_time": 6.56
         },
         {
             "status": "success",
@@ -74,10 +93,10 @@
             "isp": "WiCAM Corporation Ltd",
             "org": "WiCAM Corporation, LTD",
             "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "119.15.89.87",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.58
+            "query": "119.15.84.74",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.17
         },
         {
             "status": "success",
@@ -90,13 +109,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "EZECOM CO., LTD.",
-            "org": "EZECOM limited",
-            "as": "AS38901 EZECOM CO., LTD.",
-            "query": "110.74.195.152",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.65
+            "isp": "MekongNet",
+            "org": "",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "116.212.149.218",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.3
         }
     ]
 }
