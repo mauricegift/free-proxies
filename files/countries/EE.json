@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "5.45.118.209",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.5
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "45",
-            "regionName": "Ida-Virumaa",
-            "city": "J\u00f5hvi",
-            "zip": "",
-            "lat": 59.3577,
-            "lon": 27.4222,
-            "timezone": "Europe/Tallinn",
-            "isp": "PAGM network",
-            "org": "Hosting Services",
-            "as": "AS198068 P.A.G.M. OU",
-            "query": "45.67.131.229",
-            "type": "http",
-            "port": "1080",
-            "response_time": 3.12
+            "response_time": 0.82
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "5.181.23.213",
             "type": "socks4",
             "port": "8443",
-            "response_time": 8.5
+            "response_time": 2.3
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "45.67.131.229",
+            "type": "http",
+            "port": "1080",
+            "response_time": 4.67
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "45.67.131.229",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.67
         }
     ]
 }
