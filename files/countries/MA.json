@@ -1,26 +1,45 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Morocco",
             "countryCode": "MA",
-            "region": "04",
-            "regionName": "Rabat-Sal\u00e9-K\u00e9nitra",
-            "city": "Rabat",
+            "region": "01",
+            "regionName": "Tanger-Tetouan-Al Hoceima",
+            "city": "Tangier",
             "zip": "",
-            "lat": 34.0084,
-            "lon": -6.85387,
+            "lat": 35.7758,
+            "lon": -5.7909,
             "timezone": "Africa/Casablanca",
-            "isp": "Casa Marrakech 4G MarocTelecom",
+            "isp": "ADSL Maroc telecom",
             "org": "",
-            "as": "AS6713 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-            "query": "102.53.135.70",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "41.140.74.102",
             "type": "http",
-            "port": "20201",
-            "response_time": 4.55
+            "port": "20001",
+            "response_time": 0.49
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "02",
+            "regionName": "Oriental",
+            "city": "Nador",
+            "zip": "",
+            "lat": 35.1717,
+            "lon": -2.932,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "41.140.128.243",
+            "type": "http",
+            "port": "30001",
+            "response_time": 3.71
         }
     ]
 }
