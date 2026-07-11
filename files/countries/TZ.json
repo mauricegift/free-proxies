@@ -1,26 +1,45 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Tanzania",
             "countryCode": "TZ",
-            "region": "09",
-            "regionName": "Kilimanjaro",
-            "city": "Moshi",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
             "zip": "",
-            "lat": -3.35,
-            "lon": 37.3333,
+            "lat": -3.3691,
+            "lon": 36.686,
             "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Habari Node Public Limited",
-            "org": "Habari Node Public Limited",
+            "isp": "Habari Node Ltd",
+            "org": "Habari KIA",
             "as": "AS36909 Habari Node Public Limited",
-            "query": "41.78.168.118",
+            "query": "41.220.142.73",
             "type": "http",
             "port": "8080",
-            "response_time": 10.58
+            "response_time": 2.3
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
+            "zip": "",
+            "lat": -6.69162,
+            "lon": 39.1751,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Tanzania Education And Research Network",
+            "org": "Tanzania Education And Research Network",
+            "as": "AS37182 Tanzania Education And Research Network",
+            "query": "41.93.63.66",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.02
         }
     ]
 }
