@@ -1,8 +1,27 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "02",
+            "regionName": "Oriental",
+            "city": "Nador",
+            "zip": "",
+            "lat": 35.1717,
+            "lon": -2.932,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "105.158.122.181",
+            "type": "http",
+            "port": "30001",
+            "response_time": 2.86
+        },
         {
             "status": "success",
             "country": "Morocco",
@@ -20,7 +39,7 @@
             "query": "105.154.69.146",
             "type": "http",
             "port": "8080",
-            "response_time": 8.99
+            "response_time": 7.91
         }
     ]
 }
