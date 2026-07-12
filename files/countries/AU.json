@@ -1,8 +1,46 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "139.99.238.83",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.13
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2165",
+            "lat": -33.8695,
+            "lon": 150.9518,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS7600 Escape.net",
+            "query": "210.8.69.102",
+            "type": "http",
+            "port": "808",
+            "response_time": 3.45
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +58,7 @@
             "query": "168.138.9.147",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.8
+            "response_time": 6.5
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "61.29.96.146",
             "type": "http",
             "port": "8000",
-            "response_time": 10.68
+            "response_time": 10.09
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "Contabo Asia Private Limited",
+            "org": "Yorkshire Tech Limited",
+            "as": "AS141995 Contabo Asia Private Limited",
+            "query": "46.250.241.190",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.34
         }
     ]
 }
