@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.35
+            "response_time": 0.4
         },
         {
             "status": "success",
@@ -39,26 +39,64 @@
             "query": "109.108.126.166",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.46
+            "response_time": 0.47
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "63",
-            "regionName": "Vysocina",
-            "city": "Humpolec",
-            "zip": "396 01",
-            "lat": 49.5474,
-            "lon": 15.3675,
+            "region": "53",
+            "regionName": "Pardubice Region",
+            "city": "Choce\u0148",
+            "zip": "565 01",
+            "lat": 50.0047,
+            "lon": 16.2268,
             "timezone": "Europe/Prague",
-            "isp": "STARNET, s.r.o.",
-            "org": "STARNET, s.r.o.",
-            "as": "AS44489 STARNET, s.r.o.",
-            "query": "109.164.35.23",
+            "isp": "CETIN a.s.",
+            "org": "CETIN",
+            "as": "AS28725 CETIN a.s.",
+            "query": "85.163.43.208",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 0.62
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "72",
+            "regionName": "Zl\u00edn",
+            "city": "Vala\u0161sk\u00e9 Klobouky",
+            "zip": "766 01",
+            "lat": 49.1472,
+            "lon": 18.0145,
+            "timezone": "Europe/Prague",
+            "isp": "Martin Vicenik",
+            "org": "VicenikRoute",
+            "as": "AS34955 Martin Vicenik",
+            "query": "81.162.195.35",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.41
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Str\u00e1\u017enice",
+            "zip": "696 62",
+            "lat": 48.9035,
+            "lon": 17.3124,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "188.119.98.126",
             "type": "http",
-            "port": "8888",
-            "response_time": 7.35
+            "port": "9999",
+            "response_time": 9.16
         }
     ]
 }
