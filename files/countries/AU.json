@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "NSW",
             "regionName": "New South Wales",
             "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
+            "zip": "2165",
+            "lat": -33.8695,
+            "lon": 150.9518,
             "timezone": "Australia/Sydney",
-            "isp": "OVH SAS",
-            "org": "OVH Australia PTY LTD",
-            "as": "AS16276 OVH SAS",
-            "query": "139.99.238.83",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS7600 Escape.net",
+            "query": "210.8.69.102",
+            "type": "http",
+            "port": "808",
+            "response_time": 2.95
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3150",
+            "lat": -37.8766,
+            "lon": 145.1623,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.182.72",
             "type": "http",
             "port": "8080",
-            "response_time": 1.8
+            "response_time": 14.78
         }
     ]
 }
