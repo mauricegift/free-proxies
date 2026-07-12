@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "PS",
             "region": "",
             "regionName": "West Bank",
-            "city": "\u1e28izm\u0101",
+            "city": "Ramallah",
             "zip": "",
-            "lat": 31.8334,
-            "lon": 35.2631,
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.217",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.6
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "HBN",
+            "regionName": "Hebron",
+            "city": "Hebron",
+            "zip": "",
+            "lat": 31.5313,
+            "lon": 35.0872,
             "timezone": "Asia/Hebron",
             "isp": "Palestine Telecommunications Company",
-            "org": "PALTEL-FTTH",
+            "org": "Palestine Telecommunications Company",
             "as": "AS12975 PALTEL Autonomous System",
-            "query": "103.231.105.158",
+            "query": "213.6.68.210",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.79
+            "response_time": 5.92
         }
     ]
 }
