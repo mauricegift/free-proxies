@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 9,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "23.137.251.64",
             "type": "http",
             "port": "8080",
-            "response_time": 0.26
+            "response_time": 0.32
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "31.13.239.4",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.56
+            "response_time": 0.38
         },
         {
             "status": "success",
@@ -58,64 +58,26 @@
             "query": "93.183.175.6",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.53
+            "response_time": 2.46
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "region": "23",
+            "regionName": "Sofia",
+            "city": "Samokov",
+            "zip": "2000",
+            "lat": 42.3348,
+            "lon": 23.5541,
             "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "Mobiltel EAD",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "92.247.31.130",
+            "isp": "Sarnica-Net LTD",
+            "org": "Sarnica-Net LTD",
+            "as": "AS48584 Sarnica-Net LTD",
+            "query": "78.128.124.108",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 2.28
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
-            "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "ESRI BULGARIA Network",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.8",
-            "type": "http",
-            "port": "8001",
-            "response_time": 3.21
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6951,
-            "lon": 23.325,
-            "timezone": "Europe/Sofia",
-            "isp": "Spectrum NET",
-            "org": "",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "212.50.19.150",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 3.33
+            "port": "5678",
+            "response_time": 3.35
         },
         {
             "status": "success",
@@ -134,7 +96,26 @@
             "query": "213.149.156.87",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.44
+            "response_time": 3.43
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
+            "timezone": "Europe/Sofia",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.02
         },
         {
             "status": "success",
@@ -144,35 +125,16 @@
             "regionName": "Sofia-Capital",
             "city": "Sofia",
             "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "lat": 42.6977,
+            "lon": 23.3219,
             "timezone": "Europe/Sofia",
-            "isp": "Mobiltel BNG",
-            "org": "",
-            "as": "AS29580 A1 Bulgaria EAD",
-            "query": "85.196.179.34",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.8",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.82
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "08",
-            "regionName": "Dobrich",
-            "city": "Dobrich",
-            "zip": "9300",
-            "lat": 43.5606,
-            "lon": 27.8299,
-            "timezone": "Europe/Sofia",
-            "isp": "DobrudjaCable Ltd.",
-            "org": "DobrudjaCable Ltd.",
-            "as": "AS57344 Telehouse EAD",
-            "query": "5.104.174.199",
-            "type": "http",
-            "port": "23500",
-            "response_time": 8.53
+            "port": "8001",
+            "response_time": 4.78
         }
     ]
 }
