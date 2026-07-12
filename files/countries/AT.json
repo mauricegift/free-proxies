@@ -1,26 +1,45 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1210",
-            "lat": 48.2765,
-            "lon": 16.4087,
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Kindberg",
+            "zip": "8650",
+            "lat": 47.5036,
+            "lon": 15.4499,
             "timezone": "Europe/Vienna",
-            "isp": "customers with static IP",
+            "isp": "BK DAT",
             "org": "",
-            "as": "AS25255 ==> TELE2 AUSTRIA <==",
-            "query": "178.115.255.177",
+            "as": "AS13292 Willibald Hambammer trading as BK-DAT Electronics e.U.",
+            "query": "213.173.75.222",
             "type": "socks4",
             "port": "5678",
-            "response_time": 8.09
+            "response_time": 0.8
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Mitterberg-Sankt Martin",
+            "zip": "8954",
+            "lat": 47.49,
+            "lon": 14.0803,
+            "timezone": "Europe/Vienna",
+            "isp": "A1 Telekom Austria AG",
+            "org": "A1 Telekom Austria AG",
+            "as": "AS8447 A1 Telekom Austria AG",
+            "query": "178.189.56.158",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.31
         }
     ]
 }
