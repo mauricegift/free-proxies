@@ -1,27 +1,8 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 8,
+    "count": 7,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "45",
-            "regionName": "Ida-Virumaa",
-            "city": "J\u00f5hvi",
-            "zip": "",
-            "lat": 59.3577,
-            "lon": 27.4222,
-            "timezone": "Europe/Tallinn",
-            "isp": "PAGM network",
-            "org": "Hosting Services",
-            "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.118.209",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 0.31
-        },
         {
             "status": "success",
             "country": "Estonia",
@@ -39,7 +20,7 @@
             "query": "45.67.131.229",
             "type": "http",
             "port": "1080",
-            "response_time": 0.58
+            "response_time": 0.74
         },
         {
             "status": "success",
@@ -55,29 +36,48 @@
             "isp": "PAGM network",
             "org": "Hosting Services",
             "as": "AS198068 P.A.G.M. OU",
-            "query": "45.67.131.229",
-            "type": "socks4",
+            "query": "5.45.118.209",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 0.58
+            "response_time": 1.41
         },
         {
             "status": "success",
             "country": "Estonia",
             "countryCode": "EE",
-            "region": "87",
-            "regionName": "V\u00f5rumaa",
-            "city": "Parksepa",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
             "zip": "",
-            "lat": 57.9097,
-            "lon": 26.9831,
+            "lat": 59.3577,
+            "lon": 27.4222,
             "timezone": "Europe/Tallinn",
-            "isp": "SkyLive Telecom ldt",
-            "org": "Elevi",
-            "as": "AS202652 Elevi AS",
-            "query": "185.157.111.3",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.45.125.201",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 0.68
+            "port": "1080",
+            "response_time": 1.69
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.45.125.201",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -96,45 +96,7 @@
             "query": "91.235.234.226",
             "type": "socks4",
             "port": "1080",
-            "response_time": 10.12
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "45",
-            "regionName": "Ida-Virumaa",
-            "city": "J\u00f5hvi",
-            "zip": "",
-            "lat": 59.3577,
-            "lon": 27.4222,
-            "timezone": "Europe/Tallinn",
-            "isp": "PAGM network",
-            "org": "Hosting Services",
-            "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.125.201",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 10.17
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "45",
-            "regionName": "Ida-Virumaa",
-            "city": "J\u00f5hvi",
-            "zip": "",
-            "lat": 59.3577,
-            "lon": 27.4222,
-            "timezone": "Europe/Tallinn",
-            "isp": "PAGM network",
-            "org": "Hosting Services",
-            "as": "AS198068 P.A.G.M. OU",
-            "query": "5.45.125.201",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 10.17
+            "response_time": 1.8
         },
         {
             "status": "success",
@@ -153,7 +115,26 @@
             "query": "5.45.127.203",
             "type": "http",
             "port": "9090",
-            "response_time": 10.52
+            "response_time": 3.9
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "37",
+            "regionName": "Harjumaa",
+            "city": "Tallinn",
+            "zip": "",
+            "lat": 59.4381,
+            "lon": 24.7369,
+            "timezone": "Europe/Tallinn",
+            "isp": "IT-Develop DOO",
+            "org": "HexCore cloud s.r.o",
+            "as": "AS211211 IT-Develop DOO",
+            "query": "217.78.239.5",
+            "type": "http",
+            "port": "4555",
+            "response_time": 11.02
         }
     ]
 }
