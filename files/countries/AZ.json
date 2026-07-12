@@ -1,7 +1,7 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.43.189.253",
             "type": "socks4",
             "port": "3629",
-            "response_time": 3.9
+            "response_time": 4.87
+        },
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "Izone LLC",
+            "org": "Izone LLC",
+            "as": "AS200154 IZONE LLC",
+            "query": "185.32.45.61",
+            "type": "http",
+            "port": "8090",
+            "response_time": 7.9
         }
     ]
 }
