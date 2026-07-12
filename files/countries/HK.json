@@ -1,7 +1,7 @@
 {
     "countryCode": "HK",
     "country": "Hong Kong",
-    "count": 14,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "101.36.109.77",
             "type": "http",
             "port": "8118",
-            "response_time": 1.35
+            "response_time": 1.31
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "103.27.78.251",
             "type": "socks4",
             "port": "30001",
-            "response_time": 1.38
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "ComsenzNet",
-            "org": "Tencent cloud computing (Beijing) Co., Ltd.",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "119.28.64.217",
-            "type": "socks4",
-            "port": "50161",
-            "response_time": 1.41
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -72,12 +53,12 @@
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
             "isp": "Alibaba (US) Technology Co., Ltd.",
-            "org": "Alibaba Cloud LLC",
+            "org": "Alibaba.com LLC",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.79.18.149",
+            "query": "43.99.100.108",
             "type": "http",
-            "port": "9200",
-            "response_time": 1.49
+            "port": "3128",
+            "response_time": 1.54
         },
         {
             "status": "success",
@@ -90,13 +71,13 @@
             "lat": 22.3193,
             "lon": 114.169,
             "timezone": "Asia/Hong_Kong",
-            "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "org": "Ucloud Information Technology (hk) Limited",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "152.32.132.190",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.128.63.68",
             "type": "http",
             "port": "7890",
-            "response_time": 1.71
+            "response_time": 3.23
         },
         {
             "status": "success",
@@ -112,29 +93,48 @@
             "isp": "Alibaba (US) Technology Co., Ltd.",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "8.217.11.244",
-            "type": "http",
-            "port": "9568",
-            "response_time": 1.91
+            "query": "8.217.248.219",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.6
         },
         {
             "status": "success",
             "country": "Hong Kong",
             "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
+            "region": "HCW",
+            "regionName": "Central and Western District",
             "city": "Hong Kong",
-            "zip": "999077",
+            "zip": "",
             "lat": 22.3193,
-            "lon": 114.169,
+            "lon": 114.1693,
             "timezone": "Asia/Hong_Kong",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - HK",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.86.42.224",
-            "type": "socks5",
-            "port": "1011",
-            "response_time": 2.65
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.150.27.141",
+            "type": "http",
+            "port": "20001",
+            "response_time": 8.48
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "HCW",
+            "regionName": "Central and Western",
+            "city": "Central",
+            "zip": "96521",
+            "lat": 22.2836,
+            "lon": 114.16,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "PCCW IMS Limited",
+            "org": "Hong Kong Telecommunications (HKT) Limited",
+            "as": "AS4760 HKT Limited",
+            "query": "42.2.4.163",
+            "type": "http",
+            "port": "1080",
+            "response_time": 8.62
         },
         {
             "status": "success",
@@ -153,7 +153,7 @@
             "query": "47.82.66.101",
             "type": "socks5",
             "port": "1011",
-            "response_time": 3.56
+            "response_time": 8.89
         },
         {
             "status": "success",
@@ -172,45 +172,7 @@
             "query": "43.129.80.138",
             "type": "socks4",
             "port": "18999",
-            "response_time": 3.65
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Aceville Pte.ltd",
-            "org": "",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.161.239.147",
-            "type": "http",
-            "port": "8888",
-            "response_time": 5.59
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Vapeline Technology",
-            "org": "",
-            "as": "AS401701 cognetcloud INC",
-            "query": "45.192.110.180",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.92
+            "response_time": 9.2
         },
         {
             "status": "success",
@@ -227,47 +189,28 @@
             "org": "Alibaba Cloud - HK",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
             "query": "47.239.140.6",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 8.47
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "HCW",
-            "regionName": "Central and Western",
-            "city": "Central",
-            "zip": "96521",
-            "lat": 22.2836,
-            "lon": 114.16,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "PCCW IMS Limited",
-            "org": "Hong Kong Telecommunications (HKT) Limited",
-            "as": "AS4760 HKT Limited",
-            "query": "42.2.4.163",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 8.77
-        },
-        {
-            "status": "success",
-            "country": "Hong Kong",
-            "countryCode": "HK",
-            "region": "",
-            "regionName": "Kowloon",
-            "city": "Hong Kong",
-            "zip": "999077",
-            "lat": 22.3193,
-            "lon": 114.169,
-            "timezone": "Asia/Hong_Kong",
-            "isp": "Aceville Pte.ltd",
-            "org": "",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.161.239.147",
             "type": "http",
-            "port": "11090",
-            "response_time": 14.06
+            "port": "80",
+            "response_time": 11.35
+        },
+        {
+            "status": "success",
+            "country": "Hong Kong",
+            "countryCode": "HK",
+            "region": "NKT",
+            "regionName": "Kwai Tsing District",
+            "city": "Ha Kwai Chung",
+            "zip": "",
+            "lat": 22.3604,
+            "lon": 114.128,
+            "timezone": "Asia/Hong_Kong",
+            "isp": "HK Kwaifong Group Limited",
+            "org": "Teleglobal Services Limited",
+            "as": "AS133115 HK Kwaifong Group Limited",
+            "query": "45.15.10.174",
+            "type": "http",
+            "port": "3128",
+            "response_time": 16.05
         }
     ]
 }
