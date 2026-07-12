@@ -1,7 +1,7 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "41.93.63.66",
             "type": "http",
             "port": "8080",
-            "response_time": 8.3
+            "response_time": 5.12
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
+            "zip": "",
+            "lat": -3.3691,
+            "lon": 36.686,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node Ltd",
+            "org": "Habari ips",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "41.220.138.121",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.04
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "09",
+            "regionName": "Kilimanjaro",
+            "city": "Moshi",
+            "zip": "",
+            "lat": -3.35,
+            "lon": 37.3333,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node Public Limited",
+            "org": "Habari Node Public Limited",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "41.78.168.118",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.59
         }
     ]
 }
