@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2165",
+            "lat": -33.8695,
+            "lon": 150.9518,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS7600 Escape.net",
+            "query": "210.8.69.102",
+            "type": "http",
+            "port": "808",
+            "response_time": 2.76
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -19,8 +38,8 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "80",
-            "response_time": 6.71
+            "port": "8000",
+            "response_time": 6.17
         }
     ]
 }
