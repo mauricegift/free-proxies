@@ -1,8 +1,46 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus Online Ltd",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.32.166",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.51
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Multisoft LLC",
+            "org": "Multisoft",
+            "as": "AS209012 MULTISOFT LLC",
+            "query": "2.57.218.131",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.04
+        },
         {
             "status": "success",
             "country": "Georgia",
@@ -17,10 +55,29 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.147",
+            "query": "85.117.61.110",
             "type": "http",
             "port": "8080",
-            "response_time": 4.69
+            "response_time": 6.01
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Kutaisi",
+            "zip": "",
+            "lat": 42.2648,
+            "lon": 42.7041,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Deltanet-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.122.174",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.63
         }
     ]
 }
