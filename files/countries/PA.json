@@ -1,8 +1,27 @@
 {
     "countryCode": "PA",
     "country": "Panama",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Panama",
+            "countryCode": "PA",
+            "region": "4",
+            "regionName": "Chiriqu\u00ed Province",
+            "city": "David",
+            "zip": "",
+            "lat": 8.4273,
+            "lon": -82.4309,
+            "timezone": "America/Panama",
+            "isp": "Internet Activo S.A.",
+            "org": "Internet Activo S.A",
+            "as": "AS265698 Internet Activo S.A.",
+            "query": "170.247.155.96",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.55
+        },
         {
             "status": "success",
             "country": "Panama",
@@ -20,7 +39,7 @@
             "query": "190.61.126.253",
             "type": "http",
             "port": "999",
-            "response_time": 10.69
+            "response_time": 4.65
         }
     ]
 }
