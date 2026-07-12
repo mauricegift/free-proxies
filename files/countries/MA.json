@@ -1,8 +1,27 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "06",
+            "regionName": "Casablanca-Settat",
+            "city": "Casablanca",
+            "zip": "",
+            "lat": 33.5922,
+            "lon": -7.6184,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "196.74.217.246",
+            "type": "http",
+            "port": "1332",
+            "response_time": 0.64
+        },
         {
             "status": "success",
             "country": "Morocco",
@@ -17,10 +36,10 @@
             "isp": "ADSL Maroc telecom",
             "org": "",
             "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-            "query": "196.74.225.2",
+            "query": "196.74.230.73",
             "type": "http",
-            "port": "1814",
-            "response_time": 2.59
+            "port": "1332",
+            "response_time": 0.71
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "196.74.225.2",
             "type": "http",
             "port": "1088",
-            "response_time": 4.63
+            "response_time": 3.73
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "09",
+            "regionName": "Souss-Massa",
+            "city": "Oulad Te\u00efma",
+            "zip": "",
+            "lat": 30.3894,
+            "lon": -9.208,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "105.154.69.146",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.11
         }
     ]
 }
