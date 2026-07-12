@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -9,37 +9,37 @@
             "countryCode": "CH",
             "region": "ZH",
             "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8098",
-            "lat": 47.3643,
-            "lon": 8.5437,
+            "city": "W\u00e4denswil",
+            "zip": "8820",
+            "lat": 47.2258,
+            "lon": 8.66224,
             "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
+            "isp": "netz116",
+            "org": "Rolf Tschumi (MGW Online)",
+            "as": "AS48971 DATAWIRE AG",
+            "query": "195.225.116.14",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 3.18
+            "port": "4145",
+            "response_time": 0.19
         },
         {
             "status": "success",
             "country": "Switzerland",
             "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8098",
-            "lat": 47.3643,
-            "lon": 8.5437,
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
             "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 3.18
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.132",
+            "type": "http",
+            "port": "80",
+            "response_time": 0.44
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 6.56
+            "response_time": 2.47
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8098",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.85
         }
     ]
 }
