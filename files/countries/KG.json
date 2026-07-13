@@ -1,7 +1,7 @@
 {
     "countryCode": "KG",
     "country": "Kyrgyzstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "178.217.168.164",
             "type": "http",
             "port": "55443",
-            "response_time": 1.96
+            "response_time": 2.23
+        },
+        {
+            "status": "success",
+            "country": "Kyrgyzstan",
+            "countryCode": "KG",
+            "region": "GB",
+            "regionName": "Bishkek",
+            "city": "Bishkek",
+            "zip": "",
+            "lat": 42.8696,
+            "lon": 74.5932,
+            "timezone": "Asia/Bishkek",
+            "isp": "Mega-Line Ltd.",
+            "org": "Megaline",
+            "as": "AS41750 Mega-Line Ltd.",
+            "query": "77.235.29.171",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.54
         }
     ]
 }
