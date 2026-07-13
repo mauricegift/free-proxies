@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "103.231.105.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.64
+            "response_time": 2.63
         },
         {
             "status": "success",
-            "country": "Palestine",
+            "country": "Palestinian Territory",
             "countryCode": "PS",
-            "region": "RBH",
-            "regionName": "Ramallah and al-Bireh Governorate",
+            "region": "",
+            "regionName": "West Bank",
             "city": "Ramallah",
             "zip": "",
-            "lat": 31.9014,
-            "lon": 35.1999,
+            "lat": 31.9038,
+            "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "Mada Al-Arab General Services Company",
-            "org": "Mada Network BB",
-            "as": "AS51407 Mada Al-Arab General Services Company",
-            "query": "84.242.58.9",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.69
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "DEB",
-            "regionName": "Deir al-Balah Governorate",
-            "city": "Deir el-Balah",
-            "zip": "",
-            "lat": 31.4183,
-            "lon": 34.3493,
-            "timezone": "Asia/Gaza",
-            "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
-            "org": "Abuyousef Co & Partners General Trade",
-            "as": "AS44213 Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade",
-            "query": "87.229.14.128",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.01
+            "isp": "BNET network",
+            "org": "",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.26",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.86
         }
     ]
 }
