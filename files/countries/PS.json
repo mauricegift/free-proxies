@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
-    "country": "Palestine",
-    "count": 1,
+    "country": "Palestinian Territory",
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "\u1e28izm\u0101",
+            "zip": "",
+            "lat": 31.8334,
+            "lon": 35.2631,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "PALTEL-FTTH",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "103.231.105.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.54
+        },
         {
             "status": "success",
             "country": "Palestine",
@@ -20,7 +39,7 @@
             "query": "87.229.14.128",
             "type": "http",
             "port": "8080",
-            "response_time": 8.42
+            "response_time": 2.7
         }
     ]
 }
