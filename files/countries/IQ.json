@@ -1,27 +1,8 @@
 {
     "countryCode": "IQ",
     "country": "Iraq",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Iraq",
-            "countryCode": "IQ",
-            "region": "BG",
-            "regionName": "Baghdad",
-            "city": "Baghdad",
-            "zip": "",
-            "lat": 33.3364,
-            "lon": 44.4004,
-            "timezone": "Asia/Baghdad",
-            "isp": "BROADBAND-SUBSCRIBERS",
-            "org": "EarthLink Ltd. Communications&",
-            "as": "AS203214 Hulum Almustakbal Company for Communication Engineering and Services Ltd",
-            "query": "37.239.47.74",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.27
-        },
         {
             "status": "success",
             "country": "Iraq",
@@ -39,7 +20,45 @@
             "query": "62.201.233.59",
             "type": "socks4",
             "port": "4145",
-            "response_time": 5.67
+            "response_time": 1.59
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "DA",
+            "regionName": "Duhok Governorate",
+            "city": "Duhok",
+            "zip": "",
+            "lat": 36.849,
+            "lon": 42.9321,
+            "timezone": "Asia/Baghdad",
+            "isp": "Duhok Networks",
+            "org": "",
+            "as": "AS208859 FACT LTD",
+            "query": "45.81.146.7",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.89
+        },
+        {
+            "status": "success",
+            "country": "Iraq",
+            "countryCode": "IQ",
+            "region": "SU",
+            "regionName": "Sulaymaniyah Governorate",
+            "city": "Kelar",
+            "zip": "",
+            "lat": 34.6308,
+            "lon": 45.3276,
+            "timezone": "Asia/Baghdad",
+            "isp": "BAG",
+            "org": "",
+            "as": "AS44217 IQ Networks for Data and Internet Services Ltd",
+            "query": "62.201.217.194",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.63
         }
     ]
 }
