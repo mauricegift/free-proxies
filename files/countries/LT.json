@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 5,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -18,9 +18,9 @@
             "org": "Digital Network S.R.L",
             "as": "AS212853 MB Redfox Cloud",
             "query": "45.81.254.174",
-            "type": "socks4",
-            "port": "9080",
-            "response_time": 1.0
+            "type": "socks5",
+            "port": "9091",
+            "response_time": 14.53
         },
         {
             "status": "success",
@@ -38,65 +38,8 @@
             "as": "AS212853 MB Redfox Cloud",
             "query": "45.81.254.174",
             "type": "socks5",
-            "port": "9080",
-            "response_time": 1.0
-        },
-        {
-            "status": "success",
-            "country": "Lithuania",
-            "countryCode": "LT",
-            "region": "VL",
-            "regionName": "Vilnius",
-            "city": "Vilnius",
-            "zip": "01001",
-            "lat": 54.6872,
-            "lon": 25.2797,
-            "timezone": "Europe/Vilnius",
-            "isp": "MB Redfox Cloud",
-            "org": "Digital Network S.R.L",
-            "as": "AS212853 MB Redfox Cloud",
-            "query": "45.81.254.174",
-            "type": "socks4",
-            "port": "9091",
-            "response_time": 1.57
-        },
-        {
-            "status": "success",
-            "country": "Lithuania",
-            "countryCode": "LT",
-            "region": "VL",
-            "regionName": "Vilnius",
-            "city": "Vilnius",
-            "zip": "01001",
-            "lat": 54.6872,
-            "lon": 25.2797,
-            "timezone": "Europe/Vilnius",
-            "isp": "MB Redfox Cloud",
-            "org": "Digital Network S.R.L",
-            "as": "AS212853 MB Redfox Cloud",
-            "query": "45.81.254.174",
-            "type": "socks4",
-            "port": "9118",
-            "response_time": 3.36
-        },
-        {
-            "status": "success",
-            "country": "Lithuania",
-            "countryCode": "LT",
-            "region": "VL",
-            "regionName": "Vilnius",
-            "city": "Vilnius",
-            "zip": "01001",
-            "lat": 54.6872,
-            "lon": 25.2797,
-            "timezone": "Europe/Vilnius",
-            "isp": "MB Redfox Cloud",
-            "org": "Digital Network S.R.L",
-            "as": "AS212853 MB Redfox Cloud",
-            "query": "45.81.254.174",
-            "type": "socks4",
             "port": "9084",
-            "response_time": 11.52
+            "response_time": 18.19
         }
     ]
 }
