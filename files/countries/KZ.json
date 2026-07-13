@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 3,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Kcell JSC",
+            "org": "\"KCell\" JSC",
+            "as": "AS29355 Kcell JSC",
+            "query": "2.78.60.10",
+            "type": "http",
+            "port": "3129",
+            "response_time": 1.82
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,26 +39,26 @@
             "query": "109.248.236.150",
             "type": "socks4",
             "port": "60606",
-            "response_time": 0.67
+            "response_time": 2.71
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "35",
-            "regionName": "Karaganda",
-            "city": "Karaganda",
-            "zip": "",
-            "lat": 49.7989,
-            "lon": 73.0994,
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
             "timezone": "Asia/Almaty",
-            "isp": "PE Fedinyak Sergey Vyacheslavovich",
-            "org": "PE Fedinyak Sergey Vyacheslavovich",
-            "as": "AS203087 Fedinyak Sergey Vyacheslavovich",
-            "query": "46.8.31.104",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.87
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.0
         },
         {
             "status": "success",
@@ -58,7 +77,45 @@
             "query": "93.170.73.0",
             "type": "socks4",
             "port": "8080",
-            "response_time": 6.81
+            "response_time": 5.78
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.72.62",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.89
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
+            "type": "http",
+            "port": "1080",
+            "response_time": 6.2
         }
     ]
 }
