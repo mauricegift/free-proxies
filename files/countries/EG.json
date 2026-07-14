@@ -1,26 +1,45 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Egypt",
             "countryCode": "EG",
-            "region": "C",
-            "regionName": "Cairo Governorate",
-            "city": "Cairo",
+            "region": "BH",
+            "regionName": "Beheira",
+            "city": "Al Y\u0101s\u012bn\u012byah",
             "zip": "",
-            "lat": 30.0507,
-            "lon": 31.2489,
+            "lat": 30.95,
+            "lon": 30.0667,
             "timezone": "Africa/Cairo",
-            "isp": "Etisalat Misr Mobile BB",
+            "isp": "Link Egypt (Link.NET)",
             "org": "",
-            "as": "AS36992 ETISALAT MISR",
-            "query": "41.65.103.190",
+            "as": "AS24863 Link Egypt (Link.NET)",
+            "query": "213.131.85.28",
+            "type": "http",
+            "port": "1981",
+            "response_time": 0.79
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "GZ",
+            "regionName": "Giza",
+            "city": "Giza",
+            "zip": "",
+            "lat": 30.0046,
+            "lon": 31.2044,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data - Egypt",
+            "org": "HiNet",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.248.140",
             "type": "http",
             "port": "8080",
-            "response_time": 3.49
+            "response_time": 4.42
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "41.33.219.140",
             "type": "http",
             "port": "1981",
-            "response_time": 6.4
+            "response_time": 9.98
         }
     ]
 }
