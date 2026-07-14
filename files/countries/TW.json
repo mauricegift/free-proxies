@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "210.201.86.72",
             "type": "http",
             "port": "8080",
-            "response_time": 8.53
+            "response_time": 9.59
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "164.52.11.194",
             "type": "http",
             "port": "18080",
-            "response_time": 12.85
+            "response_time": 10.19
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.033,
+            "lon": 121.565,
+            "timezone": "Asia/Taipei",
+            "isp": "Sunoaki Network LLC",
+            "org": "Sunaoki Network Customer",
+            "as": "AS212336 ByteVirt LLC",
+            "query": "140.235.38.56",
+            "type": "socks4",
+            "port": "50161",
+            "response_time": 10.69
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "Xindian District",
+            "zip": "",
+            "lat": 24.9547,
+            "lon": 121.5354,
+            "timezone": "Asia/Taipei",
+            "isp": "Extra-Lan Technologies Co., LTD",
+            "org": "cgnet",
+            "as": "AS18429 Extra-Lan Technologies Co., LTD",
+            "query": "27.147.28.73",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.3
         }
     ]
 }
