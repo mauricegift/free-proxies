@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 4,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "167.114.172.208",
             "type": "socks5",
             "port": "1088",
-            "response_time": 0.62
+            "response_time": 0.68
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H3H",
+            "lat": 45.5075,
+            "lon": -73.5887,
+            "timezone": "America/Toronto",
+            "isp": "Rica Web Services",
+            "org": "Rica Web Services",
+            "as": "AS26832 Rica Web Services",
+            "query": "38.49.210.79",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 0.72
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "51.222.13.193",
             "type": "socks4",
             "port": "10084",
-            "response_time": 1.18
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H2V",
-            "lat": 45.518,
-            "lon": -73.6048,
-            "timezone": "America/Toronto",
-            "isp": "Bell Canada",
-            "org": "Bell Canada",
-            "as": "AS577 Bell Canada",
-            "query": "142.112.52.229",
-            "type": "socks4",
-            "port": "8443",
-            "response_time": 1.73
+            "response_time": 0.97
         },
         {
             "status": "success",
@@ -76,8 +76,84 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "40.176.175.23",
             "type": "http",
-            "port": "33357",
-            "response_time": 1.97
+            "port": "33178",
+            "response_time": 1.86
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Beauharnois",
+            "zip": "J6N",
+            "lat": 45.3161,
+            "lon": -73.8736,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "54.39.28.106",
+            "type": "http",
+            "port": "8082",
+            "response_time": 3.51
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2R",
+            "lat": 51.05,
+            "lon": -114.0879,
+            "timezone": "America/Edmonton",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "40.177.99.164",
+            "type": "http",
+            "port": "5000",
+            "response_time": 4.87
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Beauharnois",
+            "zip": "J6N",
+            "lat": 45.3147,
+            "lon": -73.8785,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "51.222.12.245",
+            "type": "socks4",
+            "port": "10084",
+            "response_time": 5.54
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M5A",
+            "lat": 43.709,
+            "lon": -79.4057,
+            "timezone": "America/Toronto",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "138.197.148.194",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 6.41
         }
     ]
 }
