@@ -1,27 +1,8 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "14",
-            "regionName": "Kuala Lumpur",
-            "city": "Kuala Lumpur",
-            "zip": "50515",
-            "lat": 3.1408,
-            "lon": 101.6852,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - MY",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.254.235.222",
-            "type": "socks4",
-            "port": "909",
-            "response_time": 1.11
-        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -38,8 +19,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "56.68.116.64",
             "type": "http",
-            "port": "24619",
-            "response_time": 2.17
+            "port": "15693",
+            "response_time": 1.99
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "08",
+            "regionName": "Perak",
+            "city": "Lumut",
+            "zip": "32300",
+            "lat": 4.2323,
+            "lon": 100.63,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Unifi BIZ",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "1.32.57.85",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.41
         },
         {
             "status": "success",
@@ -58,26 +58,26 @@
             "query": "180.74.108.17",
             "type": "http",
             "port": "8080",
-            "response_time": 7.17
+            "response_time": 5.78
         },
         {
             "status": "success",
             "country": "Malaysia",
             "countryCode": "MY",
-            "region": "10",
-            "regionName": "Selangor",
-            "city": "Subang Jaya",
-            "zip": "47600",
-            "lat": 3.05,
-            "lon": 101.5695,
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Ampang",
+            "zip": "68000",
+            "lat": 3.1539,
+            "lon": 101.7448,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
             "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "175.144.198.226",
-            "type": "socks4",
-            "port": "31694",
-            "response_time": 8.38
+            "query": "60.51.249.168",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.8
         },
         {
             "status": "success",
@@ -90,13 +90,32 @@
             "lat": 3.1408,
             "lon": 101.6852,
             "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Amazon.com, Inc.",
-            "org": "United States Postal Service",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "56.68.116.64",
-            "type": "http",
-            "port": "51652",
-            "response_time": 10.88
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - MY",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.254.235.222",
+            "type": "socks4",
+            "port": "909",
+            "response_time": 8.43
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "55000",
+            "lat": 3.1502,
+            "lon": 101.7254,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.139.200.17",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 8.89
         }
     ]
 }
