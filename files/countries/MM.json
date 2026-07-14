@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "13",
+            "regionName": "Kayin State",
+            "city": "Myawaddy",
+            "zip": "",
+            "lat": 16.6891,
+            "lon": 98.5089,
+            "timezone": "Asia/Yangon",
+            "isp": "V D C Net Company Limited",
+            "org": "V D C Net Company Limited",
+            "as": "AS134484 Ultra Net",
+            "query": "103.197.156.9",
+            "type": "http",
+            "port": "8888",
+            "response_time": 5.47
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -14,13 +33,13 @@
             "lat": 16.7964,
             "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Telecom International Myanmar Company Limited",
+            "isp": "Myanma Post & Telecommunication",
             "org": "",
-            "as": "AS136255 Telecom International Myanmar Co., Ltd",
-            "query": "202.165.92.206",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.85
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.163.150",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 9.6
         }
     ]
 }
