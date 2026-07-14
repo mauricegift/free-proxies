@@ -1,8 +1,46 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Neihu District",
+            "zip": "",
+            "lat": 25.0689,
+            "lon": 121.591,
+            "timezone": "Asia/Taipei",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "Ucul",
+            "as": "AS63199 CDS Global Cloud Co., Ltd",
+            "query": "164.52.11.194",
+            "type": "http",
+            "port": "18080",
+            "response_time": 9.53
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taipei",
+            "city": "Banqiao",
+            "zip": "",
+            "lat": 24.9961,
+            "lon": 121.456,
+            "timezone": "Asia/Taipei",
+            "isp": "Asia Pacific On-line Service Inc.",
+            "org": "Far EasTone Telecommunication Co., Ltd.",
+            "as": "AS7482 Asia Pacific On-line Service Inc.",
+            "query": "210.201.86.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.57
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -20,7 +58,7 @@
             "query": "118.163.120.181",
             "type": "http",
             "port": "58837",
-            "response_time": 13.21
+            "response_time": 15.85
         }
     ]
 }
