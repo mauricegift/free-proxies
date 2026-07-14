@@ -1,8 +1,46 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "63",
+            "regionName": "Vysocina",
+            "city": "Humpolec",
+            "zip": "396 01",
+            "lat": 49.5474,
+            "lon": 15.3675,
+            "timezone": "Europe/Prague",
+            "isp": "STARNET, s.r.o.",
+            "org": "STARNET, s.r.o.",
+            "as": "AS44489 STARNET, s.r.o.",
+            "query": "109.164.35.23",
+            "type": "http",
+            "port": "8888",
+            "response_time": 0.25
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Slavkov u Brna",
+            "zip": "684 01",
+            "lat": 49.1474,
+            "lon": 16.8831,
+            "timezone": "Europe/Prague",
+            "isp": "GIN's network",
+            "org": "",
+            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
+            "query": "85.132.139.45",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.29
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,26 +58,26 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.2
+            "response_time": 4.23
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Pilsen",
-            "zip": "301 00",
-            "lat": 49.7016,
-            "lon": 13.3507,
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "\u0160ebetov",
+            "zip": "679 35",
+            "lat": 49.5487,
+            "lon": 16.7223,
             "timezone": "Europe/Prague",
-            "isp": "United Networks SE",
-            "org": "United Networks SE",
-            "as": "AS197296 United Networks SE",
-            "query": "45.139.91.62",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "Nordictelecomregional",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "185.82.238.42",
             "type": "http",
-            "port": "8080",
-            "response_time": 6.92
+            "port": "8888",
+            "response_time": 5.86
         }
     ]
 }
