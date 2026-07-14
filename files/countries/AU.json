@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "139.99.238.83",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.84
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,26 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 3.32
+            "response_time": 3.46
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Aussie Broadband",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Broadband",
+            "query": "159.196.192.173",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.09
         },
         {
             "status": "success",
@@ -38,8 +76,27 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "80",
-            "response_time": 4.12
+            "port": "8000",
+            "response_time": 5.95
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Goulburn",
+            "zip": "2580",
+            "lat": -34.7591,
+            "lon": 149.7225,
+            "timezone": "Australia/Sydney",
+            "isp": "YLess4U Pty Ltd",
+            "org": "RemoteISP Pty Ltd",
+            "as": "AS45447 YLess4U Regional Broadband",
+            "query": "103.131.232.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.77
         }
     ]
 }
