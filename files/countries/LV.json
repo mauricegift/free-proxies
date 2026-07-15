@@ -1,8 +1,27 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1055",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "SIA \"MWTV\"",
+            "org": "Mwtv",
+            "as": "AS44575 SIA \"MWTV\"",
+            "query": "92.63.83.23",
+            "type": "http",
+            "port": "3129",
+            "response_time": 1.7
+        },
         {
             "status": "success",
             "country": "Latvia",
@@ -20,7 +39,26 @@
             "query": "159.148.146.65",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.66
+            "response_time": 3.51
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1002",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "RETN Limited",
+            "org": "",
+            "as": "AS9002 RETN Limited",
+            "query": "45.130.212.97",
+            "type": "http",
+            "port": "8119",
+            "response_time": 3.82
         }
     ]
 }
