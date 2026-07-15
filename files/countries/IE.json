@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.109.106",
             "type": "http",
-            "port": "30389",
-            "response_time": 0.73
+            "port": "41467",
+            "response_time": 0.52
         },
         {
             "status": "success",
@@ -38,8 +38,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.109.106",
             "type": "http",
-            "port": "41467",
-            "response_time": 1.47
+            "port": "30389",
+            "response_time": 0.79
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "C",
+            "regionName": "Connacht",
+            "city": "Roscommon",
+            "zip": "F42",
+            "lat": 53.634,
+            "lon": -8.1819,
+            "timezone": "Europe/Dublin",
+            "isp": "EURONA-BRISKNET",
+            "org": "",
+            "as": "AS57791 Arden Broadband Ltd",
+            "query": "5.83.248.1",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.48
         }
     ]
 }
