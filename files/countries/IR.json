@@ -1,27 +1,8 @@
 {
     "countryCode": "IR",
     "country": "Iran",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Iran",
-            "countryCode": "IR",
-            "region": "23",
-            "regionName": "Tehran",
-            "city": "Tehran",
-            "zip": "",
-            "lat": 35.7219,
-            "lon": 51.3347,
-            "timezone": "Asia/Tehran",
-            "isp": "Iran Telecommunication Company PJS",
-            "org": "",
-            "as": "AS58224 Iran Telecommunication Company PJS",
-            "query": "151.232.18.66",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 0.92
-        },
         {
             "status": "success",
             "country": "Iran",
@@ -39,7 +20,7 @@
             "query": "5.160.103.246",
             "type": "socks4",
             "port": "8080",
-            "response_time": 1.11
+            "response_time": 3.43
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "80.191.40.133",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.0
+            "response_time": 5.32
         },
         {
             "status": "success",
@@ -68,16 +49,16 @@
             "regionName": "Tehran",
             "city": "Tehran",
             "zip": "",
-            "lat": 35.7837,
-            "lon": 51.4361,
+            "lat": 35.7779,
+            "lon": 51.3946,
             "timezone": "Asia/Tehran",
-            "isp": "SHATEL Network",
-            "org": "Shatel Group",
-            "as": "AS31549 Aria Shatel PJSC",
-            "query": "84.241.29.213",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.34
+            "isp": "Soroush Rasanheh Company Ltd",
+            "org": "Soroush Rasanheh Company Ltd",
+            "as": "AS21341 Soroush Rasanheh Company Ltd",
+            "query": "87.107.68.231",
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 6.25
         },
         {
             "status": "success",
@@ -87,35 +68,35 @@
             "regionName": "Tehran",
             "city": "Tehran",
             "zip": "",
-            "lat": 35.7446,
-            "lon": 51.4082,
+            "lat": 35.7678,
+            "lon": 51.4211,
+            "timezone": "Asia/Tehran",
+            "isp": "AbrArvan",
+            "org": "",
+            "as": "AS202468 AbrArvan CDN and IaaS",
+            "query": "45.82.138.121",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.95
+        },
+        {
+            "status": "success",
+            "country": "Iran",
+            "countryCode": "IR",
+            "region": "23",
+            "regionName": "Tehran",
+            "city": "Tajr\u012bsh",
+            "zip": "",
+            "lat": 35.8044,
+            "lon": 51.4256,
             "timezone": "Asia/Tehran",
             "isp": "Respina Networks & Beyond PJSC",
             "org": "Respina",
             "as": "AS42337 Respina Networks & Beyond PJSC",
-            "query": "46.209.15.187",
+            "query": "81.12.70.99",
             "type": "http",
             "port": "8080",
-            "response_time": 6.28
-        },
-        {
-            "status": "success",
-            "country": "Iran",
-            "countryCode": "IR",
-            "region": "03",
-            "regionName": "East Azerbaijan Province",
-            "city": "Tabriz",
-            "zip": "",
-            "lat": 38.0838,
-            "lon": 46.2947,
-            "timezone": "Asia/Tehran",
-            "isp": "Sefroyek Pardaz Engineering PJSC",
-            "org": "Sefroyek Pardaz Engineering Co. LTD",
-            "as": "AS44285 Sefroyek Pardaz Engineering PJSC",
-            "query": "37.75.246.67",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.79
+            "response_time": 11.23
         }
     ]
 }
