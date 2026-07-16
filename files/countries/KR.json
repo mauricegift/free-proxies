@@ -1,26 +1,26 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 7,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Ansan-si",
-            "zip": "155",
-            "lat": 37.2852,
-            "lon": 126.8251,
+            "region": "44",
+            "regionName": "Chungcheongnam-do",
+            "city": "Cheonan",
+            "zip": "310",
+            "lat": 36.8242,
+            "lon": 127.1293,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "",
+            "org": "Kornet",
             "as": "AS4766 Korea Telecom",
-            "query": "121.139.218.165",
+            "query": "211.224.221.93",
             "type": "socks4",
-            "port": "43295",
-            "response_time": 1.5
+            "port": "1080",
+            "response_time": 1.68
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.62
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "47",
-            "regionName": "Gyeongsangbuk-do",
-            "city": "Chilgok-gun",
-            "zip": "398",
-            "lat": 36.0734,
-            "lon": 128.3934,
-            "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "58.235.170.51",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.66
+            "response_time": 1.78
         },
         {
             "status": "success",
@@ -76,8 +57,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "54.180.117.151",
             "type": "http",
-            "port": "25291",
-            "response_time": 3.2
+            "port": "33934",
+            "response_time": 3.36
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "",
+            "lat": 37.5665,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-northeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "43.203.140.58",
+            "type": "http",
+            "port": "38029",
+            "response_time": 4.2
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "43.203.140.58",
             "type": "http",
             "port": "8860",
-            "response_time": 3.29
+            "response_time": 4.69
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "",
+            "lat": 37.5665,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-northeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "54.180.117.151",
+            "type": "http",
+            "port": "25291",
+            "response_time": 5.09
         },
         {
             "status": "success",
@@ -115,7 +134,45 @@
             "query": "112.221.46.117",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.59
+            "response_time": 5.65
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Gwacheon-si",
+            "zip": "14063",
+            "lat": 37.4041,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Shinbiro",
+            "org": "Sejong Networks",
+            "as": "AS4670 Shinbiro",
+            "query": "58.180.17.51",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.03
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks4",
+            "port": "3128",
+            "response_time": 6.69
         },
         {
             "status": "success",
@@ -134,7 +191,7 @@
             "query": "114.108.177.104",
             "type": "socks4",
             "port": "60984",
-            "response_time": 8.76
+            "response_time": 8.77
         }
     ]
 }
