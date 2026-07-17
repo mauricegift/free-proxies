@@ -1,7 +1,7 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.246.6.135",
             "type": "http",
-            "port": "1966",
-            "response_time": 2.35
+            "port": "43653",
+            "response_time": 2.06
         },
         {
             "status": "success",
@@ -39,26 +39,45 @@
             "query": "13.246.6.135",
             "type": "http",
             "port": "19847",
-            "response_time": 2.8
+            "response_time": 2.22
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "WC",
-            "regionName": "Western Cape",
-            "city": "Cape Town",
-            "zip": "7441",
-            "lat": -33.914,
-            "lon": 18.4129,
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Brits",
+            "zip": "0250",
+            "lat": -25.6356,
+            "lon": 27.7849,
             "timezone": "Africa/Johannesburg",
-            "isp": "SEACOM Limited",
-            "org": "Seacom Assignments",
-            "as": "AS37100 SEACOM Limited",
-            "query": "105.27.180.194",
+            "isp": "Info-Gro (PTY) Ltd",
+            "org": "Infogro DSL",
+            "as": "AS37403 Info-Gro (PTY) Ltd",
+            "query": "196.251.221.30",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.34
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Pretoria",
+            "zip": "0084",
+            "lat": -25.757,
+            "lon": 28.1443,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Herotel",
+            "org": "",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "169.159.128.73",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.26
+            "response_time": 3.03
         },
         {
             "status": "success",
@@ -77,26 +96,26 @@
             "query": "102.218.41.98",
             "type": "http",
             "port": "8082",
-            "response_time": 7.04
+            "response_time": 3.56
         },
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "WC",
-            "regionName": "Western Cape",
-            "city": "Cape Town",
-            "zip": "8000",
-            "lat": -33.914,
-            "lon": 18.4129,
+            "region": "NW",
+            "regionName": "North West",
+            "city": "Potchefstroom",
+            "zip": "2531",
+            "lat": -26.7168,
+            "lon": 27.1054,
             "timezone": "Africa/Johannesburg",
-            "isp": "Interworks Wireless Solutions",
-            "org": "Interworks",
-            "as": "AS327983 Interworks Wireless Solutions",
-            "query": "169.239.208.86",
+            "isp": "HERO TELECOMS (PTY) LTD",
+            "org": "Herotel",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "217.29.208.206",
             "type": "http",
-            "port": "8080",
-            "response_time": 9.07
+            "port": "9999",
+            "response_time": 5.38
         }
     ]
 }
