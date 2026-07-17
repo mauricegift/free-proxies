@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.148.102",
+            "type": "http",
+            "port": "51569",
+            "response_time": 4.43
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,7 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 4.14
+            "response_time": 4.5
         },
         {
             "status": "success",
@@ -29,55 +48,17 @@
             "region": "VIC",
             "regionName": "Victoria",
             "city": "Melbourne",
-            "zip": "3121",
-            "lat": -37.8335,
-            "lon": 145.0012,
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Circle Network",
-            "org": "",
-            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
-            "query": "103.18.205.162",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.148.102",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.97
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Burnside",
-            "zip": "3023",
-            "lat": -37.7469,
-            "lon": 144.749,
-            "timezone": "Australia/Melbourne",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
-            "type": "http",
-            "port": "80",
-            "response_time": 5.43
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2060",
-            "lat": -33.8688,
-            "lon": 151.2092,
-            "timezone": "Australia/Sydney",
-            "isp": "2E TELEKOMUNIKASYON LTD STI",
-            "org": "Digital LLC",
-            "as": "AS209604 2E TELEKOMUNIKASYON LTD STI",
-            "query": "45.38.149.26",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.85
+            "port": "8147",
+            "response_time": 5.1
         }
     ]
 }
