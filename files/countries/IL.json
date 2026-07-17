@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,31 @@
             "lon": 34.7807,
             "timezone": "Asia/Jerusalem",
             "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
+            "org": "A100 ROW Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.85.44.149",
+            "query": "51.17.154.141",
             "type": "http",
-            "port": "27359",
-            "response_time": 1.25
+            "port": "8091",
+            "response_time": 1.38
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "M",
+            "regionName": "Central District",
+            "city": "Petah Tikva",
+            "zip": "",
+            "lat": 32.0876,
+            "lon": 34.8739,
+            "timezone": "Asia/Jerusalem",
+            "isp": "BEZEQ-INTERNATIONAL",
+            "org": "",
+            "as": "AS8551 Bezeq International Ltd.",
+            "query": "31.168.143.90",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.66
         }
     ]
 }
