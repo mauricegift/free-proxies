@@ -1,8 +1,27 @@
 {
     "countryCode": "KG",
     "country": "Kyrgyzstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kyrgyzstan",
+            "countryCode": "KG",
+            "region": "GB",
+            "regionName": "Bishkek",
+            "city": "Bishkek",
+            "zip": "",
+            "lat": 42.8746,
+            "lon": 74.5698,
+            "timezone": "Asia/Bishkek",
+            "isp": "\"ElCat\" Ltd.",
+            "org": "Elcat",
+            "as": "AS8449 ElCat Ltd.",
+            "query": "31.192.248.55",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.99
+        },
         {
             "status": "success",
             "country": "Kyrgyzstan",
@@ -17,10 +36,10 @@
             "isp": "Mega-Line Ltd.",
             "org": "Megaline",
             "as": "AS41750 Mega-Line Ltd.",
-            "query": "77.235.31.24",
+            "query": "77.235.29.171",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.96
+            "port": "3128",
+            "response_time": 9.25
         }
     ]
 }
