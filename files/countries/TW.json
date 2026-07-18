@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "220.132.41.160",
             "type": "socks4",
             "port": "1088",
-            "response_time": 3.86
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Neihu District",
-            "zip": "",
-            "lat": 25.0689,
-            "lon": 121.591,
-            "timezone": "Asia/Taipei",
-            "isp": "CDS Global Cloud Co., Ltd",
-            "org": "Ucul",
-            "as": "AS63199 CDS Global Cloud Co., Ltd",
-            "query": "164.52.11.194",
-            "type": "http",
-            "port": "18080",
-            "response_time": 11.11
+            "response_time": 4.73
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "118.163.120.181",
             "type": "http",
             "port": "58837",
-            "response_time": 11.95
+            "response_time": 5.84
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Neihu District",
+            "zip": "",
+            "lat": 25.0689,
+            "lon": 121.591,
+            "timezone": "Asia/Taipei",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "Ucul",
+            "as": "AS63199 CDS Global Cloud Co., Ltd",
+            "query": "164.52.11.194",
+            "type": "http",
+            "port": "18080",
+            "response_time": 9.12
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TPE",
+            "regionName": "Taipei City",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.053,
+            "lon": 121.5259,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "61.216.156.222",
+            "type": "http",
+            "port": "60808",
+            "response_time": 13.45
         },
         {
             "status": "success",
@@ -75,9 +94,9 @@
             "org": "Sunaoki Network Customer",
             "as": "AS212336 ByteVirt LLC",
             "query": "140.235.38.56",
-            "type": "socks5",
+            "type": "socks4",
             "port": "50161",
-            "response_time": 16.71
+            "response_time": 14.72
         }
     ]
 }
