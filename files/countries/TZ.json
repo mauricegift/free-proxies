@@ -1,8 +1,27 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
+            "zip": "",
+            "lat": -6.827,
+            "lon": 39.2675,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "TTCL",
+            "org": "",
+            "as": "AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD",
+            "query": "41.59.112.250",
+            "type": "http",
+            "port": "3030",
+            "response_time": 5.78
+        },
         {
             "status": "success",
             "country": "Tanzania",
@@ -17,10 +36,29 @@
             "isp": "Kinetic Networks Limited",
             "org": "one",
             "as": "AS329529 Kinetic Networks Limited",
-            "query": "102.205.252.61",
+            "query": "102.205.252.46",
             "type": "http",
-            "port": "82",
-            "response_time": 5.74
+            "port": "83",
+            "response_time": 10.61
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "03",
+            "regionName": "Dodoma",
+            "city": "Dodoma",
+            "zip": "",
+            "lat": -6.17692,
+            "lon": 35.7492,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Kinetic Networks Limited",
+            "org": "one",
+            "as": "AS329529 Kinetic Networks Limited",
+            "query": "102.205.252.26",
+            "type": "http",
+            "port": "84",
+            "response_time": 11.52
         }
     ]
 }
