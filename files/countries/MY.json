@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "47.254.235.222",
             "type": "socks4",
             "port": "909",
-            "response_time": 1.17
+            "response_time": 1.51
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "175.139.255.25",
             "type": "http",
             "port": "8181",
-            "response_time": 2.19
+            "response_time": 2.3
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "16",
+            "regionName": "Putrajaya",
+            "city": "Putrajaya",
+            "zip": "62584",
+            "lat": 2.94405,
+            "lon": 101.723,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Extreme Broadband",
+            "org": "Extreme Broadband",
+            "as": "AS38182 Extreme Broadband - Total Broadband Experience",
+            "query": "58.84.16.214",
+            "type": "http",
+            "port": "1231",
+            "response_time": 6.23
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "08",
+            "regionName": "Perak",
+            "city": "Lumut",
+            "zip": "32300",
+            "lat": 4.2323,
+            "lon": 100.63,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Unifi BIZ",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "1.32.57.85",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.32
         }
     ]
 }
