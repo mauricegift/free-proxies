@@ -1,7 +1,7 @@
 {
     "countryCode": "EG",
     "country": "Egypt",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "EG",
             "region": "GZ",
             "regionName": "Giza",
-            "city": "Ab\u016b an Numrus",
+            "city": "Giza",
             "zip": "",
-            "lat": 29.9595,
-            "lon": 31.2589,
+            "lat": 30.0094,
+            "lon": 31.2086,
             "timezone": "Africa/Cairo",
-            "isp": "Vodafone Data - Egypt",
-            "org": "HiNet",
-            "as": "AS24835 Vodafone Data",
-            "query": "196.204.3.18",
+            "isp": "Etisalat Misr",
+            "org": "Nile Online",
+            "as": "AS36992 ETISALAT MISR",
+            "query": "217.52.247.84",
             "type": "http",
             "port": "1981",
-            "response_time": 6.58
+            "response_time": 3.27
+        },
+        {
+            "status": "success",
+            "country": "Egypt",
+            "countryCode": "EG",
+            "region": "SHR",
+            "regionName": "Sharqia",
+            "city": "At Tall al Kab\u012br",
+            "zip": "",
+            "lat": 30.5432,
+            "lon": 31.785,
+            "timezone": "Africa/Cairo",
+            "isp": "Vodafone Data",
+            "org": "",
+            "as": "AS24835 Vodafone Data",
+            "query": "196.204.83.229",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.96
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "LINKdotNET AS number",
             "org": "Link Egypt (Link.NET)",
             "as": "AS24863 Link Egypt (Link.NET)",
-            "query": "45.240.232.62",
+            "query": "45.245.208.182",
             "type": "http",
             "port": "8080",
-            "response_time": 9.59
+            "response_time": 11.64
         }
     ]
 }
