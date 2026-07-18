@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 9,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "79.76.59.115",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.18
+            "response_time": 0.22
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.53.139.178",
+            "type": "http",
+            "port": "9002",
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "91.186.217.195",
             "type": "http",
             "port": "8000",
-            "response_time": 0.55
+            "response_time": 2.56
         },
         {
             "status": "success",
@@ -55,29 +74,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-north-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.53.139.178",
+            "query": "13.48.13.125",
             "type": "http",
-            "port": "24322",
-            "response_time": 0.68
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0686,
-            "timezone": "Europe/Stockholm",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.51.196.44",
-            "type": "http",
-            "port": "20512",
-            "response_time": 0.7
+            "port": "58080",
+            "response_time": 3.69
         },
         {
             "status": "success",
@@ -96,7 +96,7 @@
             "query": "138.124.102.98",
             "type": "socks4",
             "port": "1082",
-            "response_time": 3.49
+            "response_time": 5.08
         },
         {
             "status": "success",
@@ -107,72 +107,15 @@
             "city": "Stockholm",
             "zip": "100 05",
             "lat": 59.3293,
-            "lon": 18.0686,
+            "lon": 18.0685,
             "timezone": "Europe/Stockholm",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.51.196.44",
-            "type": "http",
-            "port": "55568",
-            "response_time": 3.91
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Axiom Asia Services PTE. LTD",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "109.120.155.157",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.51
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "111 20",
-            "lat": 59.3326,
-            "lon": 18.0651,
-            "timezone": "Europe/Stockholm",
-            "isp": "Node Host Limited",
-            "org": "Node Host Limited",
-            "as": "AS198550 NODE HOST LIMITED",
-            "query": "2.26.124.123",
-            "type": "http",
-            "port": "3128",
-            "response_time": 9.4
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "HostHatch",
-            "org": "HostHatch LLC",
-            "as": "AS63473 HostHatch, LLC",
-            "query": "176.126.70.111",
-            "type": "socks5",
-            "port": "16379",
-            "response_time": 12.9
+            "isp": "xorek.cloud International LTD",
+            "org": "Servers Tech Fzco",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "89.22.238.103",
+            "type": "socks4",
+            "port": "38871",
+            "response_time": 8.5
         }
     ]
 }
