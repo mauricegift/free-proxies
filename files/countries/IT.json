@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 5,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.06
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.131.175",
-            "type": "http",
-            "port": "50688",
-            "response_time": 1.8
+            "response_time": 0.15
         },
         {
             "status": "success",
@@ -47,18 +28,18 @@
             "countryCode": "IT",
             "region": "52",
             "regionName": "Tuscany",
-            "city": "Siena",
-            "zip": "53100",
-            "lat": 43.3218,
-            "lon": 11.3262,
+            "city": "Empoli",
+            "zip": "50053",
+            "lat": 43.7179,
+            "lon": 10.9478,
             "timezone": "Europe/Rome",
-            "isp": "Consorzio Terrecablate",
-            "org": "Provincia Siena",
-            "as": "AS43960 Consorzio Terrecablate",
-            "query": "93.187.25.12",
+            "isp": "Leonet srl Empoli",
+            "org": "Leonet SRL",
+            "as": "AS15691 UAN COMPANY S.R.L.",
+            "query": "212.77.75.25",
             "type": "http",
-            "port": "58080",
-            "response_time": 6.27
+            "port": "3129",
+            "response_time": 1.5
         },
         {
             "status": "success",
@@ -75,9 +56,9 @@
             "org": "C1V ISP",
             "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
             "query": "5.59.248.134",
-            "type": "socks5",
+            "type": "socks4",
             "port": "8081",
-            "response_time": 6.83
+            "response_time": 3.01
         },
         {
             "status": "success",
@@ -96,7 +77,83 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 13.07
+            "response_time": 5.05
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "Provincia Siena",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.25.12",
+            "type": "http",
+            "port": "58080",
+            "response_time": 7.69
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Rome",
+            "zip": "00133",
+            "lat": 41.8905,
+            "lon": 12.5127,
+            "timezone": "Europe/Rome",
+            "isp": "INTERBUSINESS",
+            "org": "",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "79.52.233.34",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.99
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "Comune Colle",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.26.218",
+            "type": "http",
+            "port": "58080",
+            "response_time": 9.44
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
+            "timezone": "Europe/Rome",
+            "isp": "Aruba S.p.A.",
+            "org": "Aruba S.p.A. - Cloud Services",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "85.235.150.219",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.62
         }
     ]
 }
