@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,29 +17,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon Technologies Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.84.101.19",
+            "query": "51.85.44.149",
             "type": "http",
-            "port": "3815",
-            "response_time": 0.87
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "M",
-            "regionName": "Central District",
-            "city": "Petah Tikva",
-            "zip": "",
-            "lat": 32.0876,
-            "lon": 34.8739,
-            "timezone": "Asia/Jerusalem",
-            "isp": "BEZEQ-INTERNATIONAL",
-            "org": "",
-            "as": "AS8551 Bezeq International Ltd.",
-            "query": "31.168.143.90",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.9
+            "port": "56717",
+            "response_time": 0.98
         },
         {
             "status": "success",
@@ -57,8 +38,46 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.17.154.141",
             "type": "http",
-            "port": "9873",
-            "response_time": 3.87
+            "port": "8091",
+            "response_time": 1.76
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.85.44.149",
+            "type": "http",
+            "port": "25303",
+            "response_time": 3.03
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "HA",
+            "regionName": "Haifa",
+            "city": "Haifa",
+            "zip": "35085",
+            "lat": 32.794,
+            "lon": 34.9895,
+            "timezone": "Asia/Jerusalem",
+            "isp": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+            "org": "Cloudwebmanage IL HA",
+            "as": "AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+            "query": "83.229.73.113",
+            "type": "http",
+            "port": "13554",
+            "response_time": 10.44
         }
     ]
 }
