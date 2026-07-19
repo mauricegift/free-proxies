@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "159.148.146.65",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.41
+            "response_time": 1.47
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "109.205.126.6",
             "type": "http",
             "port": "8080",
-            "response_time": 2.38
+            "response_time": 7.01
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1063",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "CGI GLOBAL LIMITED",
+            "org": "CGI GLOBAL LIMITED",
+            "as": "AS56971 AS56971 Cloud",
+            "query": "95.182.115.33",
+            "type": "http",
+            "port": "1080",
+            "response_time": 17.41
         }
     ]
 }
