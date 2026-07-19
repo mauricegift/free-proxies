@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.02
+            "response_time": 2.53
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
+            "type": "http",
+            "port": "8081",
+            "response_time": 5.15
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Marsala",
+            "zip": "91025",
+            "lat": 37.7964,
+            "lon": 12.4278,
+            "timezone": "Europe/Rome",
+            "isp": "Fastweb Networks",
+            "org": "",
+            "as": "AS12874 Fastweb SpA",
+            "query": "93.55.126.184",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.26
         }
     ]
 }
