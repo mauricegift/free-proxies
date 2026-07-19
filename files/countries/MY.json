@@ -1,27 +1,8 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "14",
-            "regionName": "Kuala Lumpur",
-            "city": "Kuala Lumpur",
-            "zip": "50515",
-            "lat": 3.1408,
-            "lon": 101.6852,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Alibaba Cloud LLC",
-            "org": "Alibaba Cloud - MY",
-            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
-            "query": "47.254.235.222",
-            "type": "socks4",
-            "port": "909",
-            "response_time": 1.16
-        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -39,7 +20,45 @@
             "query": "175.139.255.25",
             "type": "http",
             "port": "8181",
-            "response_time": 2.33
+            "response_time": 2.32
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47820",
+            "lat": 3.16459,
+            "lon": 101.613,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "E-world Communication SDN BHD",
+            "org": "E-world Communication SDN BHD",
+            "as": "AS134202 E-WORLD COMMUNICATION SDN BHD",
+            "query": "103.58.16.106",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.35
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - MY",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.254.235.222",
+            "type": "socks4",
+            "port": "909",
+            "response_time": 5.24
         }
     ]
 }
