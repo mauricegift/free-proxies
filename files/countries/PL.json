@@ -1,26 +1,26 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "32",
-            "regionName": "West Pomerania",
-            "city": "I\u0144sko",
-            "zip": "73-140",
-            "lat": 53.4361,
-            "lon": 15.5502,
+            "region": "28",
+            "regionName": "Warmia-Masuria",
+            "city": "T\u0142okowo",
+            "zip": "11-320",
+            "lat": 54.0057,
+            "lon": 20.7445,
             "timezone": "Europe/Warsaw",
-            "isp": "AS Consulting Sp. z o. o.",
-            "org": "Data center",
-            "as": "AS60645 AS Consulting Sp. z o. o.",
-            "query": "185.32.6.121",
+            "isp": "Netservice",
+            "org": "",
+            "as": "AS201637 Tomasz Naruszewicz",
+            "query": "185.140.102.218",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 0.38
+            "port": "5678",
+            "response_time": 0.78
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "194.59.186.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.33
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -49,35 +49,16 @@
             "regionName": "Mazovia",
             "city": "Warsaw",
             "zip": "00-510",
-            "lat": 52.2297,
-            "lon": 21.0122,
+            "lat": 52.2299,
+            "lon": 21.0093,
             "timezone": "Europe/Warsaw",
-            "isp": "upc.pl",
-            "org": "UPC Polska Sp. z o.o",
-            "as": "AS9141 P4 Sp. z o.o.",
-            "query": "81.18.203.206",
-            "type": "http",
-            "port": "8900",
-            "response_time": 2.55
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "18",
-            "regionName": "Subcarpathia",
-            "city": "Rzesz\u00f3w",
-            "zip": "35-001",
-            "lat": 50.0398,
-            "lon": 22.0065,
-            "timezone": "Europe/Warsaw",
-            "isp": "Firma Handlowo Uslugowa RuszelNet Lukasz Ruszel",
-            "org": "Firma Handlowo Uslugowa RuszelNet Lukasz Ruszel",
-            "as": "AS203086 Firma Handlowo Uslugowa RuszelNet Lukasz Ruszel",
-            "query": "193.243.154.146",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 4.48
+            "isp": "Aeza International LTD",
+            "org": "\"Pronet\" LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "194.59.186.35",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -96,7 +77,64 @@
             "query": "46.171.28.162",
             "type": "socks4",
             "port": "59311",
-            "response_time": 7.57
+            "response_time": 2.44
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Siedlce",
+            "zip": "08-110",
+            "lat": 52.1703,
+            "lon": 22.2834,
+            "timezone": "Europe/Warsaw",
+            "isp": "Media Telekom Sp. z o.o.",
+            "org": "Media Telekom Sp. z o.o",
+            "as": "AS57723 Media Telekom Sp. z o.o.",
+            "query": "185.186.17.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.47
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "14",
+            "regionName": "Mazovia",
+            "city": "Warsaw",
+            "zip": "00-510",
+            "lat": 52.2297,
+            "lon": 21.0122,
+            "timezone": "Europe/Warsaw",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Internet Solutions LLC",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "77.83.246.110",
+            "type": "socks4",
+            "port": "2000",
+            "response_time": 4.38
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "32",
+            "regionName": "West Pomerania",
+            "city": "Chociwel",
+            "zip": "73-120",
+            "lat": 53.467,
+            "lon": 15.3334,
+            "timezone": "Europe/Warsaw",
+            "isp": "AS Consulting Sp. z o. o.",
+            "org": "Core Network Fiber",
+            "as": "AS60645 AS Consulting Sp. z o. o.",
+            "query": "185.32.4.65",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.52
         },
         {
             "status": "success",
@@ -115,7 +153,7 @@
             "query": "31.42.2.113",
             "type": "socks4",
             "port": "5678",
-            "response_time": 7.63
+            "response_time": 5.62
         }
     ]
 }
