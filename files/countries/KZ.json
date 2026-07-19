@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "",
+            "as": "AS205431 HostLab LLC",
+            "query": "176.12.72.62",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.75
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +39,7 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 2.84
+            "response_time": 2.95
         },
         {
             "status": "success",
@@ -29,17 +48,36 @@
             "region": "75",
             "regionName": "Almaty",
             "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
             "timezone": "Asia/Almaty",
-            "isp": "JSC Transtelecom",
-            "org": "MT FINANCE LLC",
-            "as": "AS41798 JSC Transtelecom",
-            "query": "170.168.101.28",
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
+            "type": "http",
+            "port": "1080",
+            "response_time": 11.76
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
+            "timezone": "Asia/Almaty",
+            "isp": "Netfire TEC",
+            "org": "HostLab LLC",
+            "as": "AS205431 HostLab LLC",
+            "query": "199.189.255.230",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.99
+            "response_time": 11.76
         }
     ]
 }
