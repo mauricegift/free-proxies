@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Syscodes Communications",
+            "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
-            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
-            "query": "102.36.133.62",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.172.58",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.94
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.209.162",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.68
+            "port": "8082",
+            "response_time": 4.99
         }
     ]
 }
