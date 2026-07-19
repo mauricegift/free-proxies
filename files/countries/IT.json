@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Stezzano",
+            "zip": "24040",
+            "lat": 45.6487,
+            "lon": 9.6501,
+            "timezone": "Europe/Rome",
+            "isp": "Planetel srl",
+            "org": "",
+            "as": "AS47217 Planetel SPA",
+            "query": "46.21.186.252",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.21
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,26 +39,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.42
+            "response_time": 0.38
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "82",
-            "regionName": "Sicily",
-            "city": "Marsala",
-            "zip": "91025",
-            "lat": 37.7964,
-            "lon": 12.4278,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Fastweb Networks",
-            "org": "",
-            "as": "AS12874 Fastweb SpA",
-            "query": "93.55.126.184",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
             "type": "http",
-            "port": "8080",
-            "response_time": 3.07
+            "port": "8081",
+            "response_time": 0.47
         },
         {
             "status": "success",
@@ -58,26 +77,26 @@
             "query": "79.52.233.34",
             "type": "http",
             "port": "8081",
-            "response_time": 11.27
+            "response_time": 3.92
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
+            "region": "75",
+            "regionName": "Apulia",
+            "city": "Altamura",
+            "zip": "70022",
+            "lat": 40.8266,
+            "lon": 16.5495,
             "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
+            "isp": "VODAFONE",
             "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.0",
+            "as": "AS30722 Fastweb SpA",
+            "query": "188.217.172.202",
             "type": "http",
-            "port": "8081",
-            "response_time": 13.01
+            "port": "8080",
+            "response_time": 8.32
         }
     ]
 }
