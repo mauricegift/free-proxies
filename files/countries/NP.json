@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 27.7108,
             "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
-            "isp": "WorldLink Communications",
+            "isp": "Subisu Cablenet",
             "org": "",
-            "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.219.80",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.11
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "110.34.1.180",
+            "type": "http",
+            "port": "32650",
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "139.5.75.83",
             "type": "http",
             "port": "8080",
-            "response_time": 2.81
+            "response_time": 7.85
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P4",
+            "regionName": "Gandaki Pradesh",
+            "city": "Pokhara",
+            "zip": "",
+            "lat": 28.2706,
+            "lon": 83.9704,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Pokhara Internet Pvt. Ltd",
+            "org": "",
+            "as": "AS138388 Pokhara Internet Pvt. Ltd.",
+            "query": "103.124.97.12",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.39
         }
     ]
 }
