@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "47.254.235.222",
             "type": "socks4",
             "port": "909",
-            "response_time": 0.93
+            "response_time": 0.87
         },
         {
             "status": "success",
@@ -39,26 +39,45 @@
             "query": "175.139.255.25",
             "type": "http",
             "port": "8181",
-            "response_time": 2.31
+            "response_time": 1.93
         },
         {
             "status": "success",
             "country": "Malaysia",
             "countryCode": "MY",
-            "region": "16",
-            "regionName": "Putrajaya",
-            "city": "Putrajaya",
-            "zip": "62584",
-            "lat": 2.94405,
-            "lon": 101.723,
+            "region": "01",
+            "regionName": "Johor",
+            "city": "Iskandar Puteri",
+            "zip": "79150",
+            "lat": 1.5029,
+            "lon": 103.6514,
             "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Extreme Broadband",
-            "org": "Extreme Broadband",
-            "as": "AS38182 Extreme Broadband - Total Broadband Experience",
-            "query": "58.84.16.214",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Unifi Home",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "180.74.108.17",
             "type": "http",
-            "port": "1231",
-            "response_time": 11.73
+            "port": "8080",
+            "response_time": 5.13
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - MY",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.250.112.180",
+            "type": "http",
+            "port": "443",
+            "response_time": 8.89
         }
     ]
 }
