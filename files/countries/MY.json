@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 3,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - MY",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.250.112.180",
+            "type": "http",
+            "port": "443",
+            "response_time": 1.46
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -20,7 +39,26 @@
             "query": "175.139.255.25",
             "type": "http",
             "port": "8181",
-            "response_time": 2.32
+            "response_time": 1.78
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Mont Kiara",
+            "zip": "52100",
+            "lat": 3.1683,
+            "lon": 101.6606,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "60.54.19.46",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.91
         },
         {
             "status": "success",
@@ -29,17 +67,36 @@
             "region": "14",
             "regionName": "Kuala Lumpur",
             "city": "Kuala Lumpur",
-            "zip": "59100",
-            "lat": 3.11613,
-            "lon": 101.666,
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "Alibaba Cloud LLC",
+            "org": "Alibaba Cloud - MY",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.254.235.222",
+            "type": "socks4",
+            "port": "909",
+            "response_time": 1.93
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "01",
+            "regionName": "Johor",
+            "city": "Iskandar Puteri",
+            "zip": "79150",
+            "lat": 1.5029,
+            "lon": 103.6514,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Streamyx",
+            "org": "Unifi Home",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "103.1.105.10",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 5.6
+            "query": "180.74.108.17",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.25
         },
         {
             "status": "success",
@@ -58,7 +115,7 @@
             "query": "60.51.249.168",
             "type": "http",
             "port": "8080",
-            "response_time": 15.45
+            "response_time": 11.53
         }
     ]
 }
