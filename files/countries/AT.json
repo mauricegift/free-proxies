@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "193.233.161.21",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.4
+            "response_time": 0.12
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "5",
+            "regionName": "State of Salzburg",
+            "city": "Salzburg",
+            "zip": "5020",
+            "lat": 47.7994,
+            "lon": 13.044,
+            "timezone": "Europe/Vienna",
+            "isp": "customers with static IP",
+            "org": "",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.230.100",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.5
         }
     ]
 }
