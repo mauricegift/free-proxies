@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -9,37 +9,18 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "270-1351",
-            "lat": 35.798,
-            "lon": 140.1803,
+            "city": "Minamishinagawa",
+            "zip": "140-0001",
+            "lat": 35.6164,
+            "lon": 139.7425,
             "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "140.238.32.108",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.24
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Chiyoda City",
-            "zip": "100-0001",
-            "lat": 35.694,
-            "lon": 139.754,
-            "timezone": "Asia/Tokyo",
-            "isp": "Fly.io, Inc.",
-            "org": "Fly.io, Inc",
-            "as": "AS40509 Fly.io, Inc.",
-            "query": "213.188.203.54",
-            "type": "socks5",
+            "isp": "The Constant Company",
+            "org": "Vultr Holdings, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "45.76.223.103",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 1.9
+            "response_time": 1.72
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "40.81.205.181",
             "type": "http",
             "port": "1080",
-            "response_time": 5.62
+            "response_time": 1.83
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "151-0053",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "HIVELOCITY, Inc.",
+            "org": "Strasmore, Inc.",
+            "as": "AS29802 HIVELOCITY, Inc.",
+            "query": "209.182.234.151",
+            "type": "socks4",
+            "port": "40000",
+            "response_time": 7.28
         },
         {
             "status": "success",
@@ -77,7 +77,45 @@
             "query": "140.227.226.120",
             "type": "http",
             "port": "3128",
-            "response_time": 8.47
+            "response_time": 8.49
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Minamishinagawa",
+            "zip": "140-0001",
+            "lat": 35.6164,
+            "lon": 139.7425,
+            "timezone": "Asia/Tokyo",
+            "isp": "Choopa",
+            "org": "Vultr Holdings, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "45.32.8.165",
+            "type": "http",
+            "port": "6688",
+            "response_time": 8.76
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-0001",
+            "lat": 35.694,
+            "lon": 139.754,
+            "timezone": "Asia/Tokyo",
+            "isp": "Fly.io, Inc.",
+            "org": "Fly.io, Inc",
+            "as": "AS40509 Fly.io, Inc.",
+            "query": "213.188.203.54",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 11.63
         }
     ]
 }
