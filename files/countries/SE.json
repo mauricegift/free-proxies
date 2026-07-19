@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 3,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.231.45",
+            "type": "http",
+            "port": "10808",
+            "response_time": 0.84
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,26 @@
             "query": "62.60.231.45",
             "type": "socks5",
             "port": "10808",
-            "response_time": 0.89
+            "response_time": 0.84
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Aeza International LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "147.45.72.31",
+            "type": "socks4",
+            "port": "45700",
+            "response_time": 5.26
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "138.124.102.98",
             "type": "http",
             "port": "8082",
-            "response_time": 4.38
+            "response_time": 9.95
         },
         {
             "status": "success",
@@ -48,17 +86,55 @@
             "region": "AB",
             "regionName": "Stockholm",
             "city": "Stockholm",
-            "zip": "100 05",
+            "zip": "",
             "lat": 59.3293,
             "lon": 18.0685,
             "timezone": "Europe/Stockholm",
-            "isp": "xorek.cloud International LTD",
-            "org": "Servers Tech Fzco",
-            "as": "AS210644 AEZA INTERNATIONAL LTD",
-            "query": "89.22.238.103",
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "193.148.58.181",
             "type": "socks4",
-            "port": "38871",
-            "response_time": 11.01
+            "port": "1080",
+            "response_time": 12.35
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "138.124.102.98",
+            "type": "socks4",
+            "port": "1082",
+            "response_time": 12.5
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "HostHatch",
+            "org": "HostHatch LLC",
+            "as": "AS63473 HostHatch, LLC",
+            "query": "176.126.70.111",
+            "type": "socks5",
+            "port": "16379",
+            "response_time": 16.73
         }
     ]
 }
