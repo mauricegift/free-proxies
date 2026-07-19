@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "212.50.19.150",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.23
+            "response_time": 0.21
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Petrich",
+            "zip": "2850",
+            "lat": 41.3993,
+            "lon": 23.2207,
+            "timezone": "Europe/Sofia",
+            "isp": "VIM TV LTD",
+            "org": "VIM TV Ltd",
+            "as": "AS199702 VIM TV LTD",
+            "query": "213.149.156.87",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.32
         },
         {
             "status": "success",
@@ -36,29 +55,10 @@
             "isp": "A1 Bulgaria EAD",
             "org": "ESRI BULGARIA Network",
             "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.8",
+            "query": "213.169.33.7",
             "type": "http",
             "port": "8001",
-            "response_time": 4.74
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6951,
-            "lon": 23.325,
-            "timezone": "Europe/Sofia",
-            "isp": "Belcloud LTD",
-            "org": "Redcluster LTD",
-            "as": "AS44901 Belcloud LTD",
-            "query": "185.205.210.154",
-            "type": "socks4",
-            "port": "1088",
-            "response_time": 7.13
+            "response_time": 3.69
         },
         {
             "status": "success",
@@ -77,45 +77,26 @@
             "query": "213.149.154.213",
             "type": "socks4",
             "port": "5678",
-            "response_time": 7.44
+            "response_time": 5.43
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "26",
-            "regionName": "Haskovo",
-            "city": "Svilengrad",
-            "zip": "6500",
-            "lat": 41.7662,
-            "lon": 26.1946,
+            "region": "08",
+            "regionName": "Dobrich",
+            "city": "Dobrich",
+            "zip": "9300",
+            "lat": 43.5606,
+            "lon": 27.8299,
             "timezone": "Europe/Sofia",
-            "isp": "ESCOM Ltd",
-            "org": "ESCOMBG",
-            "as": "AS25374 ESCOM Ltd. - Haskovo",
-            "query": "93.183.175.6",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 7.61
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
-            "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "ESRI BULGARIA Network",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.10",
+            "isp": "DobrudjaCable Ltd.",
+            "org": "DobrudjaCable Ltd.",
+            "as": "AS57344 Telehouse EAD",
+            "query": "5.104.174.199",
             "type": "http",
-            "port": "8001",
-            "response_time": 9.03
+            "port": "23500",
+            "response_time": 8.93
         }
     ]
 }
