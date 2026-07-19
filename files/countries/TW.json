@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "164.52.11.194",
             "type": "http",
             "port": "18080",
-            "response_time": 5.18
+            "response_time": 11.24
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.033,
+            "lon": 121.565,
+            "timezone": "Asia/Taipei",
+            "isp": "Sunoaki Network LLC",
+            "org": "Sunaoki Network Customer",
+            "as": "AS212336 ByteVirt LLC",
+            "query": "140.235.38.56",
+            "type": "socks4",
+            "port": "50161",
+            "response_time": 14.93
         }
     ]
 }
