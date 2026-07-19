@@ -1,27 +1,8 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 7,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "193.122.105.251",
-            "type": "socks4",
-            "port": "65535",
-            "response_time": 1.22
-        },
         {
             "status": "success",
             "country": "South Korea",
@@ -39,7 +20,45 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.68
+            "response_time": 1.67
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Gwangmyeong",
+            "zip": "08620",
+            "lat": 37.465,
+            "lon": 126.891,
+            "timezone": "Asia/Seoul",
+            "isp": "Netropy CO.",
+            "org": "NURILINK",
+            "as": "AS4766 Korea Telecom",
+            "query": "118.67.170.121",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 6.59
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "48",
+            "regionName": "Gyeongsangnam-do",
+            "city": "Jinju",
+            "zip": "527",
+            "lat": 35.2109,
+            "lon": 128.1122,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "58.235.170.51",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.83
         },
         {
             "status": "success",
@@ -58,45 +77,7 @@
             "query": "58.180.17.51",
             "type": "http",
             "port": "3128",
-            "response_time": 2.25
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "27",
-            "regionName": "Daegu",
-            "city": "Seo-gu",
-            "zip": "418",
-            "lat": 35.8731,
-            "lon": 128.5435,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Korea Telecom",
-            "as": "AS4766 Korea Telecom",
-            "query": "221.157.45.249",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 2.69
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Seongnam-si",
-            "zip": "13606",
-            "lat": 37.3595,
-            "lon": 127.105,
-            "timezone": "Asia/Seoul",
-            "isp": "NAVER Cloud Corp",
-            "org": "NAVER Cloud Corp.",
-            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
-            "query": "106.10.55.212",
-            "type": "http",
-            "port": "1121",
-            "response_time": 4.63
+            "response_time": 6.86
         },
         {
             "status": "success",
@@ -115,26 +96,7 @@
             "query": "211.233.44.58",
             "type": "http",
             "port": "8080",
-            "response_time": 5.95
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Ansan-si",
-            "zip": "155",
-            "lat": 37.2852,
-            "lon": 126.8251,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "",
-            "as": "AS4766 Korea Telecom",
-            "query": "121.139.218.165",
-            "type": "socks4",
-            "port": "43295",
-            "response_time": 8.54
+            "response_time": 17.09
         }
     ]
 }
