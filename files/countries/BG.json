@@ -1,8 +1,46 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 4,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.7027,
+            "lon": 23.3063,
+            "timezone": "Europe/Sofia",
+            "isp": "Telehouse EAD",
+            "org": "Rokada",
+            "as": "AS57344 Telehouse EAD",
+            "query": "94.72.158.129",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.24
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6975,
+            "lon": 23.3242,
+            "timezone": "Europe/Sofia",
+            "isp": "Vivacom Bulgaria EAD",
+            "org": "Vivacom Bulgaria EAD",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "77.85.168.253",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.38
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,7 +58,7 @@
             "query": "213.149.156.87",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.48
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -39,45 +77,26 @@
             "query": "31.13.239.4",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.36
+            "response_time": 3.39
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "region": "23",
+            "regionName": "Sofia",
+            "city": "Svoge",
+            "zip": "2260",
+            "lat": 42.9692,
+            "lon": 23.3531,
             "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "Mobiltel EAD",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "92.247.31.130",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.36
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
-            "timezone": "Europe/Sofia",
-            "isp": "A1 Bulgaria EAD",
-            "org": "ESRI BULGARIA Network",
-            "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.8",
+            "isp": "Wi-Max Network Ltd.",
+            "org": "WI-MAX NET Ltd",
+            "as": "AS205331 Wi-Max Network Ltd.",
+            "query": "5.104.183.41",
             "type": "http",
-            "port": "8001",
-            "response_time": 4.39
+            "port": "8080",
+            "response_time": 5.79
         }
     ]
 }
