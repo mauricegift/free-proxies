@@ -1,8 +1,27 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "088",
+            "regionName": "Saldus novads",
+            "city": "Saldus",
+            "zip": "LV-3801",
+            "lat": 56.6335,
+            "lon": 22.4471,
+            "timezone": "Europe/Riga",
+            "isp": "DNET ITRisinajumi Ltd.",
+            "org": "Sia Nano IT",
+            "as": "AS43513 Sia Nano IT",
+            "query": "31.170.19.142",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.4
+        },
         {
             "status": "success",
             "country": "Latvia",
@@ -20,26 +39,26 @@
             "query": "95.182.115.33",
             "type": "http",
             "port": "1080",
-            "response_time": 13.63
+            "response_time": 8.11
         },
         {
             "status": "success",
             "country": "Latvia",
             "countryCode": "LV",
             "region": "RIX",
-            "regionName": "Riga",
+            "regionName": "R\u012bga",
             "city": "Riga",
-            "zip": "LV-1063",
-            "lat": 56.9473,
-            "lon": 24.0979,
+            "zip": "",
+            "lat": 56.9728,
+            "lon": 24.1657,
             "timezone": "Europe/Riga",
-            "isp": "Sia Nano IT",
-            "org": "",
-            "as": "AS43513 Sia Nano IT",
-            "query": "85.31.96.14",
-            "type": "socks4",
-            "port": "9150",
-            "response_time": 14.74
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "185.113.139.149",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.42
         }
     ]
 }
