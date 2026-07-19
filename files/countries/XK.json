@@ -1,26 +1,45 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Kosovo",
             "countryCode": "XK",
             "region": "",
-            "regionName": "Gjilan",
-            "city": "Gjilan",
+            "regionName": "Pristina",
+            "city": "Podujevo",
             "zip": "",
-            "lat": 42.4604,
-            "lon": 21.4699,
+            "lat": 42.9108,
+            "lon": 21.1956,
             "timezone": "Europe/Belgrade",
-            "isp": "Artmotion Sh.P.K.",
-            "org": "Artmotion",
-            "as": "AS33983 ARTMOTION SH.P.K.",
-            "query": "37.35.65.190",
+            "isp": "Podujeve-Broadband",
+            "org": "",
+            "as": "AS206262 TelKos L.L.C",
+            "query": "185.174.208.195",
             "type": "http",
             "port": "8080",
-            "response_time": 2.41
+            "response_time": 7.46
+        },
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Pristina",
+            "zip": "",
+            "lat": 42.6673,
+            "lon": 21.1643,
+            "timezone": "Europe/Belgrade",
+            "isp": "Telekomi i Kosoves SH.A.",
+            "org": "Telekomi i Kosov\u00ebs",
+            "as": "AS8661 Telekomi i Kosoves SH.A.",
+            "query": "213.163.115.194",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.7
         }
     ]
 }
