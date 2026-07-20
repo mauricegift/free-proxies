@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.4
+            "response_time": 0.56
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.82
         },
         {
             "status": "success",
@@ -38,8 +57,27 @@
             "as": "AS3269 Telecom Italia S.p.A.",
             "query": "79.52.233.34",
             "type": "http",
-            "port": "8081",
-            "response_time": 7.68
+            "port": "8080",
+            "response_time": 3.98
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "75",
+            "regionName": "Apulia",
+            "city": "Altamura",
+            "zip": "70022",
+            "lat": 40.8266,
+            "lon": 16.5495,
+            "timezone": "Europe/Rome",
+            "isp": "VODAFONE",
+            "org": "",
+            "as": "AS30722 Fastweb SpA",
+            "query": "188.217.172.202",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.36
         },
         {
             "status": "success",
@@ -52,13 +90,32 @@
             "lat": 45.4722,
             "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
             "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.41",
+            "query": "85.208.200.185",
             "type": "http",
             "port": "8081",
-            "response_time": 10.4
+            "response_time": 4.45
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "45",
+            "regionName": "Emilia-Romagna",
+            "city": "Reggio Emilia",
+            "zip": "42121",
+            "lat": 44.7022,
+            "lon": 10.6307,
+            "timezone": "Europe/Rome",
+            "isp": "Telecom Italia S.p.A.IPTV Broadband Services",
+            "org": "INTERBUSINESS",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "188.11.179.26",
+            "type": "http",
+            "port": "8443",
+            "response_time": 15.28
         }
     ]
 }
