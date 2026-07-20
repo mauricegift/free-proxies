@@ -1,8 +1,27 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 5,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TXG",
+            "regionName": "Taichung City",
+            "city": "Taichung",
+            "zip": "",
+            "lat": 24.144,
+            "lon": 120.6844,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "220.132.41.160",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 3.78
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -20,64 +39,7 @@
             "query": "164.52.11.194",
             "type": "http",
             "port": "18080",
-            "response_time": 2.46
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TXG",
-            "regionName": "Taichung City",
-            "city": "Taichung",
-            "zip": "",
-            "lat": 24.144,
-            "lon": 120.6844,
-            "timezone": "Asia/Taipei",
-            "isp": "Chunghwa Telecom Co., Ltd.",
-            "org": "Chunghwa Telecom Co. Ltd.",
-            "as": "AS3462 Data Communication Business Group",
-            "query": "211.22.151.163",
-            "type": "http",
-            "port": "60808",
-            "response_time": 5.08
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.053,
-            "lon": 121.5259,
-            "timezone": "Asia/Taipei",
-            "isp": "Chunghwa Telecom Co., Ltd.",
-            "org": "Chunghwa Telecom Co. Ltd.",
-            "as": "AS3462 Data Communication Business Group",
-            "query": "61.216.156.222",
-            "type": "http",
-            "port": "60808",
-            "response_time": 9.61
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
-            "city": "Taipei",
-            "zip": "",
-            "lat": 25.053,
-            "lon": 121.5259,
-            "timezone": "Asia/Taipei",
-            "isp": "Chunghwa Telecom Co., Ltd.",
-            "org": "Chunghwa Telecom Co. Ltd.",
-            "as": "AS3462 Data Communication Business Group",
-            "query": "118.163.120.181",
-            "type": "http",
-            "port": "58837",
-            "response_time": 10.93
+            "response_time": 9.66
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "59.124.62.9",
             "type": "http",
             "port": "3128",
-            "response_time": 11.44
+            "response_time": 15.76
         }
     ]
 }
