@@ -1,26 +1,45 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "6",
-            "regionName": "Styria",
-            "city": "Kindberg",
-            "zip": "8650",
-            "lat": 47.5036,
-            "lon": 15.4499,
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1220",
+            "lat": 48.2049,
+            "lon": 16.3662,
             "timezone": "Europe/Vienna",
-            "isp": "BK DAT",
+            "isp": "customers with static IP",
             "org": "",
-            "as": "AS13292 Willibald Hambammer trading as BK-DAT Electronics e.U.",
-            "query": "213.173.75.222",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.255.177",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.4
+            "response_time": 0.72
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1004",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "95.163.176.131",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.84
         }
     ]
 }
