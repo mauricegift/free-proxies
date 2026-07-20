@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3122",
+            "lat": -37.8207,
+            "lon": 145.0408,
+            "timezone": "Australia/Melbourne",
+            "isp": "Wideband Networks Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.81
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,45 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 3.18
+            "response_time": 3.02
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Goulburn",
+            "zip": "2580",
+            "lat": -34.7591,
+            "lon": 149.7225,
+            "timezone": "Australia/Sydney",
+            "isp": "YLess4U Pty Ltd",
+            "org": "RemoteISP Pty Ltd",
+            "as": "AS45447 YLess4U Regional Broadband",
+            "query": "103.131.232.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.08
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.142.97",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.79
         }
     ]
 }
