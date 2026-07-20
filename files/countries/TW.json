@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "164.52.11.194",
             "type": "http",
             "port": "18080",
-            "response_time": 3.32
+            "response_time": 8.17
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TXG",
+            "regionName": "Taichung City",
+            "city": "Taichung",
+            "zip": "",
+            "lat": 24.144,
+            "lon": 120.6844,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "220.132.41.160",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 8.8
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taipei",
+            "city": "Banqiao",
+            "zip": "",
+            "lat": 24.9961,
+            "lon": 121.456,
+            "timezone": "Asia/Taipei",
+            "isp": "Asia Pacific On-line Service Inc.",
+            "org": "Far EasTone Telecommunication Co., Ltd.",
+            "as": "AS7482 Asia Pacific On-line Service Inc.",
+            "query": "210.201.86.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.31
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TAO",
+            "regionName": "Taoyuan",
+            "city": "Bade District",
+            "zip": "",
+            "lat": 24.9309,
+            "lon": 121.2904,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "59.124.62.9",
+            "type": "http",
+            "port": "3128",
+            "response_time": 13.17
         }
     ]
 }
