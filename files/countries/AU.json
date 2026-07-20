@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "iiNet Limited",
+            "org": "iiNet Limited",
+            "as": "AS4739 Internode Pty Ltd",
+            "query": "203.206.235.153",
+            "type": "socks4",
+            "port": "50042",
+            "response_time": 4.02
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -19,8 +38,27 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "80",
-            "response_time": 4.28
+            "port": "8000",
+            "response_time": 13.86
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "Mammoth Media Pty Ltd",
+            "org": "Mammoth Media Pty Ltd",
+            "as": "AS133159 Mammoth Media Pty Ltd",
+            "query": "103.249.237.158",
+            "type": "http",
+            "port": "8888",
+            "response_time": 16.57
         }
     ]
 }
