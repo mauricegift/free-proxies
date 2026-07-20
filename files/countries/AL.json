@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "185.196.182.22",
             "type": "http",
             "port": "8080",
-            "response_time": 2.71
+            "response_time": 1.25
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.165.246",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "188.164.218.209",
             "type": "http",
-            "port": "8989",
-            "response_time": 12.93
+            "port": "8080",
+            "response_time": 5.08
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone RESIDENTIAL NAT",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.78.106",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 5.43
         }
     ]
 }
