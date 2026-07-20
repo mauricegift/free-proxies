@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Yerevan",
             "city": "Yerevan",
             "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
+            "lat": 40.1793,
+            "lon": 44.5159,
             "timezone": "Asia/Yerevan",
-            "isp": "Ucom CJSC",
-            "org": "Ucom",
-            "as": "AS44395 Ucom CJSC",
-            "query": "81.16.9.222",
+            "isp": "BioNet LLC",
+            "org": "Hnet LLC",
+            "as": "AS42991 BioNet LLC",
+            "query": "91.204.190.140",
+            "type": "http",
+            "port": "81",
+            "response_time": 4.72
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1872,
+            "lon": 44.5152,
+            "timezone": "Asia/Yerevan",
+            "isp": "Data Campus Limited",
+            "org": "Data Campus Limited",
+            "as": "AS215929 Data Campus Limited",
+            "query": "45.142.195.110",
             "type": "socks4",
-            "port": "3629",
-            "response_time": 0.53
+            "port": "995",
+            "response_time": 10.03
         }
     ]
 }
