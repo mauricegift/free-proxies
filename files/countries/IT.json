@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.57
+            "response_time": 0.34
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Rome",
+            "zip": "00195",
+            "lat": 41.8905,
+            "lon": 12.5127,
+            "timezone": "Europe/Rome",
+            "isp": "UNIDATA S.p.A.",
+            "org": "UNIDATA S.p.A",
+            "as": "AS5394 Unidata",
+            "query": "194.183.1.205",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.35
         },
         {
             "status": "success",
@@ -34,31 +53,31 @@
             "lon": 11.3262,
             "timezone": "Europe/Rome",
             "isp": "Consorzio Terrecablate",
-            "org": "",
+            "org": "Provincia Siena",
             "as": "AS43960 Consorzio Terrecablate",
-            "query": "93.187.26.134",
+            "query": "93.187.25.12",
             "type": "http",
             "port": "58080",
-            "response_time": 1.48
+            "response_time": 5.43
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Curtatone",
-            "zip": "46010",
-            "lat": 45.1495,
-            "lon": 10.7193,
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Rome",
+            "zip": "00133",
+            "lat": 41.8905,
+            "lon": 12.5127,
             "timezone": "Europe/Rome",
-            "isp": "Mynet S.R.L.",
-            "org": "Mynet",
-            "as": "AS31263 MYNET S.R.L.",
-            "query": "84.247.236.86",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 2.53
+            "isp": "INTERBUSINESS",
+            "org": "",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "79.52.233.34",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.18
         },
         {
             "status": "success",
@@ -77,45 +96,7 @@
             "query": "79.52.233.34",
             "type": "http",
             "port": "8081",
-            "response_time": 4.29
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20153",
-            "lat": 45.4722,
-            "lon": 9.1922,
-            "timezone": "Europe/Rome",
-            "isp": "Sirius Technology SRL",
-            "org": "Sirius Technology SRL",
-            "as": "AS60501 Sirius Technology SRL",
-            "query": "149.86.206.27",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.55
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "75",
-            "regionName": "Apulia",
-            "city": "Altamura",
-            "zip": "70022",
-            "lat": 40.8266,
-            "lon": 16.5495,
-            "timezone": "Europe/Rome",
-            "isp": "VODAFONE",
-            "org": "",
-            "as": "AS30722 Fastweb SpA",
-            "query": "188.217.172.202",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.9
+            "response_time": 9.74
         }
     ]
 }
