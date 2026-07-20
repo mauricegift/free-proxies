@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "86.57.178.182",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.54
+            "response_time": 1.43
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "178.172.217.166",
             "type": "http",
             "port": "10736",
-            "response_time": 2.23
+            "response_time": 4.72
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Urechcha",
+            "zip": "",
+            "lat": 52.9479,
+            "lon": 27.893,
+            "timezone": "Europe/Minsk",
+            "isp": "Support Chain LLC",
+            "org": "HostFly.BY",
+            "as": "AS60591 Support Chain LLC",
+            "query": "178.172.217.166",
+            "type": "http",
+            "port": "10768",
+            "response_time": 5.58
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "BR",
+            "regionName": "Brest",
+            "city": "Brest",
+            "zip": "224000",
+            "lat": 52.0901,
+            "lon": 23.6836,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "AI PI DI Group",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "82.209.251.53",
+            "type": "http",
+            "port": "45678",
+            "response_time": 7.36
         }
     ]
 }
