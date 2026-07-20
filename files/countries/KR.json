@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.5
+            "response_time": 1.61
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Gwacheon-si",
+            "zip": "14063",
+            "lat": 37.4041,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Shinbiro",
+            "org": "Sejong Networks",
+            "as": "AS4670 Shinbiro",
+            "query": "58.180.17.51",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.67
         },
         {
             "status": "success",
@@ -29,17 +48,36 @@
             "region": "11",
             "regionName": "Seoul",
             "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "193.122.105.251",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.155.180.85",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.09
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
+            "timezone": "Asia/Seoul",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
             "type": "socks4",
-            "port": "65535",
-            "response_time": 2.33
+            "port": "60984",
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -47,18 +85,18 @@
             "countryCode": "KR",
             "region": "41",
             "regionName": "Gyeonggi-do",
-            "city": "Gwangju",
-            "zip": "127",
-            "lat": 37.3661,
-            "lon": 127.2255,
+            "city": "Gunpo",
+            "zip": "158",
+            "lat": 37.3466,
+            "lon": 126.9332,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "LG POWERCOMM",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "49.167.236.96",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.82
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "58.229.240.204",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 9.87
         },
         {
             "status": "success",
@@ -77,7 +115,7 @@
             "query": "14.34.180.21",
             "type": "http",
             "port": "38157",
-            "response_time": 14.47
+            "response_time": 14.08
         }
     ]
 }
