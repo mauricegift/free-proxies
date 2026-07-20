@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Cellcom Fixed Line Communication L.P",
+            "org": "Cellcom Fixed Line Communication L.P",
+            "as": "AS1680 Cellcom Fixed Line Communication L.P",
+            "query": "199.203.152.99",
+            "type": "http",
+            "port": "8111",
+            "response_time": 6.05
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,7 +39,7 @@
             "query": "31.168.143.90",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.57
+            "response_time": 7.8
         }
     ]
 }
