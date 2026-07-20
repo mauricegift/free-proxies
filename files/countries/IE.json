@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Carlow",
+            "zip": "R93",
+            "lat": 52.8397,
+            "lon": -6.9342,
+            "timezone": "Europe/Dublin",
+            "isp": "Regional Broadband Ireland Ltd",
+            "org": "Regional Broadband Ireland Ltd.",
+            "as": "AS47942 Regional Telecom Ltd",
+            "query": "94.102.193.91",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.44
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -17,10 +36,10 @@
             "isp": "EURONA-BRISKNET",
             "org": "",
             "as": "AS57791 Arden Broadband Ltd",
-            "query": "5.83.248.1",
+            "query": "5.83.244.250",
             "type": "http",
             "port": "8080",
-            "response_time": 5.06
+            "response_time": 5.51
         }
     ]
 }
