@@ -1,26 +1,45 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "KE",
-            "regionName": "Kom\u00e1rom-Esztergom",
-            "city": "Esztergom",
-            "zip": "2500",
-            "lat": 47.7928,
-            "lon": 18.7415,
+            "region": "JN",
+            "regionName": "J\u00e1sz-Nagykun-Szolnok",
+            "city": "J\u00e1szfels\u0151szentgy\u00f6rgy",
+            "zip": "5111",
+            "lat": 47.5048,
+            "lon": 19.783,
             "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Juropnet",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "79.121.102.227",
+            "isp": "One Hungary Ltd.",
+            "org": "One Hungary Ltd",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "89.135.59.71",
+            "type": "http",
+            "port": "8090",
+            "response_time": 4.74
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
+            "org": "Invitech - DIGI",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "89.186.119.140",
             "type": "http",
             "port": "8080",
-            "response_time": 8.43
+            "response_time": 6.87
         }
     ]
 }
