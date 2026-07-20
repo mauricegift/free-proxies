@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.38
+            "response_time": 0.33
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "Neratovice",
+            "zip": "277 11",
+            "lat": 50.2667,
+            "lon": 14.5264,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.24
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "90.181.120.18",
             "type": "http",
             "port": "8082",
-            "response_time": 10.22
+            "response_time": 2.69
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Slavkov u Brna",
+            "zip": "684 01",
+            "lat": 49.1474,
+            "lon": 16.8831,
+            "timezone": "Europe/Prague",
+            "isp": "GIN's network",
+            "org": "",
+            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
+            "query": "85.132.139.45",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.43
         }
     ]
 }
