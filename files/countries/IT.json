@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.74
+            "response_time": 0.65
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
-            "lat": 45.4722,
-            "lon": 9.1922,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
             "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.0",
-            "type": "http",
-            "port": "8081",
-            "response_time": 3.21
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.61
         },
         {
             "status": "success",
@@ -53,12 +53,31 @@
             "lon": 11.3262,
             "timezone": "Europe/Rome",
             "isp": "Consorzio Terrecablate",
-            "org": "Comune Colle",
+            "org": "",
             "as": "AS43960 Consorzio Terrecablate",
-            "query": "93.187.26.218",
+            "query": "93.187.26.134",
             "type": "http",
             "port": "58080",
-            "response_time": 3.41
+            "response_time": 2.65
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Rome",
+            "zip": "00133",
+            "lat": 41.8905,
+            "lon": 12.5127,
+            "timezone": "Europe/Rome",
+            "isp": "INTERBUSINESS",
+            "org": "",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "79.52.233.34",
+            "type": "http",
+            "port": "8081",
+            "response_time": 3.01
         },
         {
             "status": "success",
@@ -77,26 +96,26 @@
             "query": "85.208.200.185",
             "type": "http",
             "port": "8081",
-            "response_time": 6.0
+            "response_time": 5.5
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "82",
-            "regionName": "Sicily",
-            "city": "Marsala",
-            "zip": "91025",
-            "lat": 37.7964,
-            "lon": 12.4278,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Fastweb Networks",
+            "isp": "Mywic Costumers",
             "org": "",
-            "as": "AS12874 Fastweb SpA",
-            "query": "93.55.126.184",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.06
+            "port": "8081",
+            "response_time": 9.21
         }
     ]
 }
