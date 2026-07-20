@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 6,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Seongnam-si",
+            "zip": "13606",
+            "lat": 37.3595,
+            "lon": 127.105,
+            "timezone": "Asia/Seoul",
+            "isp": "NAVER Cloud Corp",
+            "org": "NAVER Cloud Corp.",
+            "as": "AS135354 NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+            "query": "106.10.55.212",
+            "type": "http",
+            "port": "1121",
+            "response_time": 1.49
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.61
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "58.180.17.51",
             "type": "http",
             "port": "3128",
-            "response_time": 3.67
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "04524",
-            "lat": 37.5658,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.155.180.85",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.09
+            "response_time": 4.12
         },
         {
             "status": "success",
@@ -77,45 +77,26 @@
             "query": "114.108.177.104",
             "type": "socks4",
             "port": "60984",
-            "response_time": 5.56
+            "response_time": 4.74
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Gunpo",
-            "zip": "158",
-            "lat": 37.3466,
-            "lon": 126.9332,
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "SK Broadband Co Ltd",
-            "org": "broadNnet",
-            "as": "AS9318 SK Broadband Co Ltd",
-            "query": "58.229.240.204",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 9.87
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Pyeongtaek-si",
-            "zip": "177",
-            "lat": 37.0847,
-            "lon": 127.0525,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Kornet",
-            "as": "AS4766 Korea Telecom",
-            "query": "14.34.180.21",
+            "isp": "Alibaba.com LLC",
+            "org": "Delta Centric LLC, Zenlayer Inc",
+            "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+            "query": "47.80.60.84",
             "type": "http",
-            "port": "38157",
-            "response_time": 14.08
+            "port": "3128",
+            "response_time": 7.51
         }
     ]
 }
