@@ -1,7 +1,7 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "172.120.166.205",
             "type": "http",
             "port": "443",
-            "response_time": 0.39
+            "response_time": 0.37
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "172.120.166.156",
             "type": "http",
             "port": "443",
-            "response_time": 0.76
+            "response_time": 0.39
         },
         {
             "status": "success",
@@ -58,64 +58,26 @@
             "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.44
+            "response_time": 0.41
         },
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "SV",
-            "regionName": "Suceava",
-            "city": "F\u0103lticeni",
-            "zip": "725200",
-            "lat": 47.4463,
-            "lon": 26.3025,
+            "region": "CT",
+            "regionName": "Constan\u021ba County",
+            "city": "N\u0103vodari",
+            "zip": "905700",
+            "lat": 44.3192,
+            "lon": 28.5956,
             "timezone": "Europe/Bucharest",
-            "isp": "Vodafone RO",
-            "org": "MobiFon S.A.",
-            "as": "AS12302 Vodafone Romania S.A.",
-            "query": "81.12.157.98",
+            "isp": "STYLISH BY A&L SRL",
+            "org": "SC Urban Network Solutions SRL",
+            "as": "AS39347 STYLISH BY A&L SRL",
+            "query": "85.122.120.46",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.44
-        },
-        {
-            "status": "success",
-            "country": "Romania",
-            "countryCode": "RO",
-            "region": "MS",
-            "regionName": "Mure\u0219 County",
-            "city": "Corunca",
-            "zip": "547367",
-            "lat": 46.5188,
-            "lon": 24.6182,
-            "timezone": "Europe/Bucharest",
-            "isp": "RCS & RDS",
-            "org": "RCS & RDS Business",
-            "as": "AS8708 RCS & RDS",
-            "query": "81.18.90.43",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 2.44
-        },
-        {
-            "status": "success",
-            "country": "Romania",
-            "countryCode": "RO",
-            "region": "B",
-            "regionName": "Bucharest",
-            "city": "Bucharest",
-            "zip": "010625",
-            "lat": 44.4946,
-            "lon": 26.0578,
-            "timezone": "Europe/Bucharest",
-            "isp": "Romtelecom",
-            "org": "",
-            "as": "AS9050 Orange Romania S.A.",
-            "query": "92.86.207.198",
-            "type": "http",
-            "port": "8080",
-            "response_time": 15.62
+            "port": "30000",
+            "response_time": 7.21
         }
     ]
 }
