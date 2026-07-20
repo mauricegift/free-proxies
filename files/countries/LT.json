@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 55.7158,
             "lon": 21.111,
             "timezone": "Europe/Vilnius",
-            "isp": "Telia Lietuva",
-            "org": "Telia Lietuva, AB",
-            "as": "AS8764 Telia Lietuva, AB",
-            "query": "88.119.139.237",
-            "type": "http",
-            "port": "53281",
-            "response_time": 10.46
+            "isp": "Balticum TV network",
+            "org": "",
+            "as": "AS39007 UAB \"Balticum TV\"",
+            "query": "86.100.63.246",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.37
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01025",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "AB \"Ogmios Centras\"",
+            "org": "Intesta",
+            "as": "AS44613 Ogmios centras AS number",
+            "query": "93.93.61.153",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.57
         }
     ]
 }
