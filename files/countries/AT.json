@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "213.173.75.222",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.08
+            "response_time": 2.47
         },
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1220",
-            "lat": 48.2049,
-            "lon": 16.3662,
+            "region": "7",
+            "regionName": "Tyrol",
+            "city": "S\u00f6ll",
+            "zip": "6306",
+            "lat": 47.5038,
+            "lon": 12.1922,
             "timezone": "Europe/Vienna",
-            "isp": "customers with static IP",
-            "org": "",
-            "as": "AS25255 ==> TELE2 AUSTRIA <==",
-            "query": "178.115.255.177",
+            "isp": "myNet GmbH",
+            "org": "myNET Internet Solutions",
+            "as": "AS31543 myNet GmbH",
+            "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 5.43
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1004",
-            "lat": 48.2049,
-            "lon": 16.3662,
-            "timezone": "Europe/Vienna",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.238.191",
-            "type": "http",
-            "port": "443",
-            "response_time": 10.15
+            "response_time": 3.53
         }
     ]
 }
