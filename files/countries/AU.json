@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 3.31
+            "response_time": 2.87
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4064",
+            "lat": -27.2167,
+            "lon": 151.7,
+            "timezone": "Australia/Brisbane",
+            "isp": "Aussie Broadband",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "180.181.215.232",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.01
         }
     ]
 }
