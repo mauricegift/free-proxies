@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "11051",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Next Tier Trading Company Limited",
+            "org": "Global Technology Co., Ltd",
+            "as": "AS136975 Global Technology",
+            "query": "154.18.220.190",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.4
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -20,7 +39,7 @@
             "query": "103.197.156.9",
             "type": "http",
             "port": "8888",
-            "response_time": 14.61
+            "response_time": 7.53
         }
     ]
 }
