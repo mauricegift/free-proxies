@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestinian Territory",
-    "count": 5,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "PS",
             "region": "",
             "regionName": "West Bank",
-            "city": "Ramallah",
+            "city": "Iktaba",
             "zip": "",
-            "lat": 31.9038,
-            "lon": 35.2034,
+            "lat": 32.3266,
+            "lon": 35.0526,
             "timezone": "Asia/Hebron",
-            "isp": "BNET network",
-            "org": "",
-            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.26",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.58
+            "isp": "Gemzo information technology Private Joint-Stock company",
+            "org": "Gemzo information technology Private Joint-Stock company",
+            "as": "AS51336 Gemzo information technology Private Joint-Stock company",
+            "query": "178.214.80.12",
+            "type": "http",
+            "port": "1981",
+            "response_time": 1.74
         },
         {
             "status": "success",
@@ -39,64 +39,7 @@
             "query": "93.184.7.217",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.56
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "GZA",
-            "regionName": "Gaza Governorate",
-            "city": "Gaza",
-            "zip": "",
-            "lat": 31.5019,
-            "lon": 34.4666,
-            "timezone": "Asia/Gaza",
-            "isp": "Mada Al-Arab General Services Company",
-            "org": "Mada Network BB",
-            "as": "AS51407 Mada Al-Arab General Services Company",
-            "query": "84.242.58.9",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.91
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "RBH",
-            "regionName": "Ramallah and al-Bireh Governorate",
-            "city": "Ramallah",
-            "zip": "",
-            "lat": 31.9014,
-            "lon": 35.1999,
-            "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "PALTEL-FTTH",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "103.231.105.158",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 2.68
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "GZA",
-            "regionName": "Gaza Governorate",
-            "city": "Gaza",
-            "zip": "",
-            "lat": 31.5019,
-            "lon": 34.4666,
-            "timezone": "Asia/Gaza",
-            "isp": "Palestine Telecommunications Company",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.146.119",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.5
+            "response_time": 10.92
         }
     ]
 }
