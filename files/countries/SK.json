@@ -1,7 +1,7 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 2,
+    "count": 1,
     "proxies": [
         {
             "status": "success",
@@ -17,29 +17,10 @@
             "isp": "Slovanet a.s.",
             "org": "Radiolan",
             "as": "AS43451 Slovanet a.s.",
-            "query": "188.121.172.2",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.65
-        },
-        {
-            "status": "success",
-            "country": "Slovakia",
-            "countryCode": "SK",
-            "region": "TA",
-            "regionName": "Trnava Region",
-            "city": "C\u00edfer",
-            "zip": "919 43",
-            "lat": 48.3154,
-            "lon": 17.4914,
-            "timezone": "Europe/Bratislava",
-            "isp": "GOLEM TECH s.r.o",
-            "org": "GOLEM TECH s.r.o.",
-            "as": "AS30929 GOLEM TECH s.r.o.",
-            "query": "185.98.208.98",
-            "type": "socks4",
-            "port": "28000",
-            "response_time": 3.48
+            "query": "188.121.168.60",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.38
         }
     ]
 }
