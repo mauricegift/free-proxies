@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "193.179.52.197",
             "type": "http",
             "port": "3128",
-            "response_time": 0.33
+            "response_time": 1.13
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "Dob\u0159\u00ed\u0161",
+            "zip": "263 01",
+            "lat": 49.782,
+            "lon": 14.1877,
+            "timezone": "Europe/Prague",
+            "isp": "DOBRISNET",
+            "org": "Dobris Network s.r.o",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.97.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.34
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Slavkov u Brna",
+            "zip": "684 01",
+            "lat": 49.1474,
+            "lon": 16.8831,
+            "timezone": "Europe/Prague",
+            "isp": "GIN's network",
+            "org": "",
+            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
+            "query": "85.132.139.45",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.29
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "72",
+            "regionName": "Zl\u00edn",
+            "city": "Brumov-Bylnice",
+            "zip": "763 31",
+            "lat": 49.0885,
+            "lon": 18.0263,
+            "timezone": "Europe/Prague",
+            "isp": "Martin Vicenik",
+            "org": "VicenikRoute",
+            "as": "AS34955 Martin Vicenik",
+            "query": "81.162.195.35",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.31
         }
     ]
 }
