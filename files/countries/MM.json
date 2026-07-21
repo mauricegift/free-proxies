@@ -1,8 +1,46 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "13",
+            "regionName": "Kayin State",
+            "city": "Myawaddy",
+            "zip": "",
+            "lat": 16.6891,
+            "lon": 98.5089,
+            "timezone": "Asia/Yangon",
+            "isp": "V D C Net Company Limited",
+            "org": "V D C Net Company Limited",
+            "as": "AS134484 Ultra Net",
+            "query": "103.197.156.9",
+            "type": "http",
+            "port": "8888",
+            "response_time": 3.33
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "11051",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Next Tier Trading Company Limited",
+            "org": "Global Technology Co., Ltd",
+            "as": "AS136975 Global Technology",
+            "query": "154.18.220.190",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.38
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -14,13 +52,13 @@
             "lat": 16.7964,
             "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Global Technology Co",
+            "isp": "Myanma Post & Telecommunication",
             "org": "",
-            "as": "AS133524 Global Technology Co., Ltd.",
-            "query": "185.133.213.86",
-            "type": "http",
-            "port": "8074",
-            "response_time": 11.78
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.163.150",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.6
         }
     ]
 }
