@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Myanma Post & Telecommunication",
+            "org": "",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.163.150",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.5
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -20,7 +39,26 @@
             "query": "154.18.220.190",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.4
+            "response_time": 2.91
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Global Technology Co",
+            "org": "",
+            "as": "AS133524 Global Technology Co., Ltd.",
+            "query": "185.133.213.86",
+            "type": "http",
+            "port": "8074",
+            "response_time": 10.12
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "103.197.156.9",
             "type": "http",
             "port": "8888",
-            "response_time": 7.53
+            "response_time": 10.42
         }
     ]
 }
