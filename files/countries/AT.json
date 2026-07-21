@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "213.173.75.222",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.62
+            "response_time": 3.08
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1220",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "customers with static IP",
+            "org": "",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.255.177",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.43
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 48.2049,
             "lon": 16.3662,
             "timezone": "Europe/Vienna",
-            "isp": "Baxet Group Inc.",
-            "org": "Baxet Group Inc",
-            "as": "AS26383 Baxet Group Inc.",
-            "query": "93.115.106.8",
+            "isp": "Aeza International LTD",
+            "org": "NetCrafters OU",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "62.60.238.191",
             "type": "http",
-            "port": "8080",
-            "response_time": 7.95
+            "port": "443",
+            "response_time": 10.15
         }
     ]
 }
