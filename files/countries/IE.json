@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,37 +9,18 @@
             "countryCode": "IE",
             "region": "L",
             "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "D02",
-            "lat": 53.3498,
-            "lon": -6.26031,
+            "city": "Carlow",
+            "zip": "R93",
+            "lat": 52.8397,
+            "lon": -6.9342,
             "timezone": "Europe/Dublin",
-            "isp": "BellSouth.net Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "108.131.109.106",
+            "isp": "Regional Broadband Ireland Ltd",
+            "org": "Regional Broadband Ireland Ltd.",
+            "as": "AS47942 Regional Telecom Ltd",
+            "query": "94.102.193.91",
             "type": "http",
-            "port": "30225",
-            "response_time": 0.77
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "L",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "D02",
-            "lat": 53.3498,
-            "lon": -6.26031,
-            "timezone": "Europe/Dublin",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "34.246.183.20",
-            "type": "http",
-            "port": "10668",
-            "response_time": 2.17
+            "port": "8080",
+            "response_time": 1.16
         },
         {
             "status": "success",
@@ -55,29 +36,10 @@
             "isp": "EURONA-BRISKNET",
             "org": "",
             "as": "AS57791 Arden Broadband Ltd",
-            "query": "5.83.244.250",
+            "query": "5.83.244.1",
             "type": "http",
             "port": "8080",
-            "response_time": 4.74
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "C",
-            "regionName": "Connacht",
-            "city": "Roscommon",
-            "zip": "F42",
-            "lat": 53.634,
-            "lon": -8.1819,
-            "timezone": "Europe/Dublin",
-            "isp": "EURONA-BRISKNET",
-            "org": "",
-            "as": "AS57791 Arden Broadband Ltd",
-            "query": "5.83.248.1",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.29
+            "response_time": 5.99
         }
     ]
 }
