@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 6,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,64 +20,26 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 2.43
+            "response_time": 2.95
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
+            "region": "33",
+            "regionName": "Zhetysu Region",
+            "city": "Taldykorgan",
             "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
+            "lat": 45.0142,
+            "lon": 78.3717,
             "timezone": "Asia/Almaty",
-            "isp": "Netfire TEC",
-            "org": "",
-            "as": "AS205431 HostLab LLC",
-            "query": "176.12.72.62",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.63
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "71",
-            "regionName": "Astana",
-            "city": "Astana",
-            "zip": "010000",
-            "lat": 51.1655,
-            "lon": 71.4272,
-            "timezone": "Asia/Almaty",
-            "isp": "TTC Network",
-            "org": "",
-            "as": "AS41798 JSC Transtelecom",
-            "query": "91.185.20.162",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.64
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "23",
-            "regionName": "Atyrau Oblisi",
-            "city": "Atyrau",
-            "zip": "060011",
-            "lat": 47.1169,
-            "lon": 51.8853,
-            "timezone": "Asia/Atyrau",
-            "isp": "JSC \"KazTransCom\"",
-            "org": "Kozhan LLP",
-            "as": "AS35104 Jusan Mobile JSC",
-            "query": "93.185.68.82",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.28
+            "isp": "TOO Kainar-Media",
+            "org": "TOO Kainar-AKB",
+            "as": "AS212999 TOO Kainar-Media",
+            "query": "95.182.107.210",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.04
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "109.248.236.150",
             "type": "socks4",
             "port": "60606",
-            "response_time": 5.82
+            "response_time": 3.08
         },
         {
             "status": "success",
@@ -113,9 +75,9 @@
             "org": "",
             "as": "AS205431 HostLab LLC",
             "query": "176.12.72.62",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.65
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.15
         }
     ]
 }
