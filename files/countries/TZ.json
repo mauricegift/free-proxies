@@ -1,26 +1,45 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Tanzania",
             "countryCode": "TZ",
-            "region": "18",
-            "regionName": "Mwanza",
-            "city": "Mwanza",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
             "zip": "",
-            "lat": -2.51667,
-            "lon": 32.9,
+            "lat": -3.3691,
+            "lon": 36.686,
             "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Habari Node Public Limited",
-            "org": "Habari RockCable",
+            "isp": "Habari Node Ltd",
+            "org": "Habari ips",
             "as": "AS36909 Habari Node Public Limited",
-            "query": "154.0.153.87",
+            "query": "41.220.138.121",
             "type": "http",
             "port": "8080",
-            "response_time": 4.53
+            "response_time": 6.8
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
+            "zip": "",
+            "lat": -6.827,
+            "lon": 39.2675,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "TTCL",
+            "org": "",
+            "as": "AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD",
+            "query": "41.59.112.250",
+            "type": "http",
+            "port": "3030",
+            "response_time": 8.1
         }
     ]
 }
