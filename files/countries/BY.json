@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS60591 Support Chain LLC",
             "query": "178.172.217.166",
             "type": "http",
-            "port": "10780",
-            "response_time": 0.57
+            "port": "10786",
+            "response_time": 0.62
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Urechcha",
+            "zip": "",
+            "lat": 52.9479,
+            "lon": 27.893,
+            "timezone": "Europe/Minsk",
+            "isp": "Support Chain LLC",
+            "org": "HostFly.BY",
+            "as": "AS60591 Support Chain LLC",
+            "query": "178.172.217.166",
+            "type": "http",
+            "port": "10773",
+            "response_time": 2.68
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "178.172.217.166",
             "type": "http",
             "port": "10869",
-            "response_time": 1.57
+            "response_time": 3.96
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Urechcha",
+            "zip": "",
+            "lat": 52.9479,
+            "lon": 27.893,
+            "timezone": "Europe/Minsk",
+            "isp": "Support Chain LLC",
+            "org": "HostFly.BY",
+            "as": "AS60591 Support Chain LLC",
+            "query": "178.172.217.166",
+            "type": "http",
+            "port": "10780",
+            "response_time": 6.79
         }
     ]
 }
