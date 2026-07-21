@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "84.242.58.9",
             "type": "http",
             "port": "8080",
-            "response_time": 0.58
+            "response_time": 3.6
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.146.119",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.5
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.244.95.175",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.94
         }
     ]
 }
