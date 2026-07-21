@@ -1,7 +1,7 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "91.187.113.68",
             "type": "http",
             "port": "8080",
-            "response_time": 10.49
+            "response_time": 1.08
+        },
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Podujevo",
+            "zip": "",
+            "lat": 42.9108,
+            "lon": 21.1956,
+            "timezone": "Europe/Belgrade",
+            "isp": "Podujeve-Broadband",
+            "org": "",
+            "as": "AS206262 TelKos L.L.C",
+            "query": "185.174.208.195",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.24
+        },
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Pristina",
+            "zip": "",
+            "lat": 42.6727,
+            "lon": 21.1669,
+            "timezone": "Europe/Belgrade",
+            "isp": "PPPoE",
+            "org": "",
+            "as": "AS206358 Qendrim Kryeziu trading as N.P.SH \"ISP - Broadcast",
+            "query": "185.188.217.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.04
         }
     ]
 }
