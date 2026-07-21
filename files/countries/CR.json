@@ -1,7 +1,7 @@
 {
     "countryCode": "CR",
     "country": "Costa Rica",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "200.192.236.242",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.12
+            "response_time": 3.17
+        },
+        {
+            "status": "success",
+            "country": "Costa Rica",
+            "countryCode": "CR",
+            "region": "A",
+            "regionName": "Alajuela Province",
+            "city": "Quesada",
+            "zip": "21001",
+            "lat": 10.328,
+            "lon": -84.4099,
+            "timezone": "America/Costa_Rica",
+            "isp": "Cooperativa de Electrificaci\u00f3n Rural de San Carlos R.L. (Coopelesca R.L.)",
+            "org": "Cooperativa de Electrificaci\u00f3n Rural de San Carlos R.L. (Coopelesca R.L.)",
+            "as": "AS262145 Cooperativa de Electrificaci\u00f3n Rural de San Carlos R.L. (Coopelesca R.L.)",
+            "query": "168.228.49.15",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.81
         }
     ]
 }
