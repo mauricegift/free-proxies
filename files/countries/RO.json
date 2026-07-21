@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "MS",
+            "regionName": "Mure\u0219 County",
+            "city": "Corunca",
+            "zip": "547367",
+            "lat": 46.5188,
+            "lon": 24.6182,
+            "timezone": "Europe/Bucharest",
+            "isp": "RCS & RDS",
+            "org": "RCS & RDS Business",
+            "as": "AS8708 RCS & RDS",
+            "query": "81.18.90.43",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.33
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +39,26 @@
             "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.43
+            "response_time": 1.44
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "IF",
+            "regionName": "Ilfov",
+            "city": "Pantelimon",
+            "zip": "077145",
+            "lat": 44.4474,
+            "lon": 26.2044,
+            "timezone": "Europe/Bucharest",
+            "isp": "Orange Romania Network",
+            "org": "Orange Romania S.A",
+            "as": "AS8953 Orange Romania S.A.",
+            "query": "109.166.207.162",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 5.48
         },
         {
             "status": "success",
@@ -37,9 +75,9 @@
             "org": "SC Urban Network Solutions SRL",
             "as": "AS39347 STYLISH BY A&L SRL",
             "query": "85.122.120.119",
-            "type": "socks4",
-            "port": "30016",
-            "response_time": 2.36
+            "type": "http",
+            "port": "20016",
+            "response_time": 8.84
         }
     ]
 }
