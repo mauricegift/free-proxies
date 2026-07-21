@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 8,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,83 +20,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 0.15
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
-            "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.15",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.3
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8087",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
-            "type": "http",
-            "port": "39815",
-            "response_time": 0.42
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8087",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon.com, Inc.",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.18.37.186",
-            "type": "http",
-            "port": "22518",
-            "response_time": 0.59
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8087",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
-            "type": "http",
-            "port": "58002",
-            "response_time": 0.7
+            "response_time": 0.28
         },
         {
             "status": "success",
@@ -115,7 +39,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.24
+            "response_time": 0.88
         },
         {
             "status": "success",
@@ -132,9 +56,28 @@
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
             "query": "45.95.232.35",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.88
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8087",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.34.28.236",
             "type": "http",
-            "port": "3128",
-            "response_time": 3.38
+            "port": "39815",
+            "response_time": 1.87
         },
         {
             "status": "success",
@@ -151,9 +94,9 @@
             "org": "Cust88530 Network",
             "as": "AS63023 GTHost",
             "query": "5.101.85.133",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 7.96
+            "response_time": 10.07
         }
     ]
 }
