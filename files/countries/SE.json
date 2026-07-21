@@ -1,27 +1,8 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 7,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.26.19",
-            "type": "http",
-            "port": "1080",
-            "response_time": 0.35
-        },
         {
             "status": "success",
             "country": "Sweden",
@@ -39,7 +20,7 @@
             "query": "13.60.163.108",
             "type": "http",
             "port": "9002",
-            "response_time": 0.6
+            "response_time": 0.54
         },
         {
             "status": "success",
@@ -57,8 +38,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.60.163.108",
             "type": "http",
-            "port": "39332",
-            "response_time": 0.62
+            "port": "34295",
+            "response_time": 0.64
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.53.139.178",
+            "type": "http",
+            "port": "39706",
+            "response_time": 0.66
         },
         {
             "status": "success",
@@ -76,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.48.13.125",
             "type": "http",
-            "port": "37931",
-            "response_time": 0.93
+            "port": "6969",
+            "response_time": 0.79
         },
         {
             "status": "success",
@@ -90,51 +90,32 @@
             "lat": 59.3287,
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.102.98",
+            "isp": "Play2go International Limited",
+            "org": "Play2go International Limited",
+            "as": "AS215439 PLAY2GO INTERNATIONAL LIMITED",
+            "query": "144.31.230.199",
             "type": "http",
-            "port": "8082",
-            "response_time": 5.63
+            "port": "3000",
+            "response_time": 2.48
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
             "region": "AB",
-            "regionName": "Stockholm",
+            "regionName": "Stockholm County",
             "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0685,
+            "zip": "128 62",
+            "lat": 59.2484,
+            "lon": 18.1223,
             "timezone": "Europe/Stockholm",
-            "isp": "xorek.cloud International LTD",
-            "org": "Servers Tech Fzco",
-            "as": "AS210644 AEZA INTERNATIONAL LTD",
-            "query": "89.22.238.103",
-            "type": "socks4",
-            "port": "38871",
-            "response_time": 6.86
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "",
-            "lat": 59.3293,
-            "lon": 18.0685,
-            "timezone": "Europe/Stockholm",
-            "isp": "Baykov Ilya Sergeevich",
-            "org": "Baykov Ilya Sergeevich",
-            "as": "AS41745 Baykov Ilya Sergeevich",
-            "query": "193.148.58.181",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.52.220",
             "type": "socks4",
             "port": "1080",
-            "response_time": 9.87
+            "response_time": 12.45
         }
     ]
 }
