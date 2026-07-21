@@ -1,8 +1,46 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "IF",
+            "regionName": "Ilfov",
+            "city": "Pantelimon",
+            "zip": "077145",
+            "lat": 44.4474,
+            "lon": 26.2044,
+            "timezone": "Europe/Bucharest",
+            "isp": "Orange Romania Network",
+            "org": "Orange Romania S.A",
+            "as": "AS8953 Orange Romania S.A.",
+            "query": "109.166.207.162",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 0.38
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "SV",
+            "regionName": "Suceava",
+            "city": "Radauti",
+            "zip": "725400",
+            "lat": 47.8462,
+            "lon": 25.9154,
+            "timezone": "Europe/Bucharest",
+            "isp": "SC NextGen Communications SRL",
+            "org": "SC NextGen Communications SRL",
+            "as": "AS48161 NEXTGEN COMMUNICATIONS SRL",
+            "query": "46.214.153.223",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.4
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,26 +58,26 @@
             "query": "81.12.169.254",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.4
+            "response_time": 1.44
         },
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "PH",
-            "regionName": "Prahova",
-            "city": "Sinaia",
-            "zip": "106100",
-            "lat": 45.3492,
-            "lon": 25.5554,
+            "region": "CT",
+            "regionName": "Constan\u021ba County",
+            "city": "N\u0103vodari",
+            "zip": "905700",
+            "lat": 44.3192,
+            "lon": 28.5956,
             "timezone": "Europe/Bucharest",
-            "isp": "Romtelecom",
-            "org": "",
-            "as": "AS9050 Orange Romania S.A.",
-            "query": "92.86.92.126",
+            "isp": "STYLISH BY A&L SRL",
+            "org": "SC Urban Network Solutions SRL",
+            "as": "AS39347 STYLISH BY A&L SRL",
+            "query": "85.122.120.119",
             "type": "socks4",
-            "port": "42740",
-            "response_time": 7.66
+            "port": "30016",
+            "response_time": 4.37
         }
     ]
 }
