@@ -1,27 +1,8 @@
 {
     "countryCode": "PY",
     "country": "Paraguay",
-    "count": 4,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Paraguay",
-            "countryCode": "PY",
-            "region": "ASU",
-            "regionName": "Asuncion",
-            "city": "Asunci\u00f3n",
-            "zip": "",
-            "lat": -25.2869,
-            "lon": -57.6511,
-            "timezone": "America/Asuncion",
-            "isp": "N\u00facleo S.A.",
-            "org": "N\u00facleo S.A",
-            "as": "AS27895 N\u00facleo S.A.",
-            "query": "190.104.143.94",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 2.5
-        },
         {
             "status": "success",
             "country": "Paraguay",
@@ -39,7 +20,26 @@
             "query": "45.177.16.137",
             "type": "http",
             "port": "999",
-            "response_time": 6.42
+            "response_time": 3.32
+        },
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "ASU",
+            "regionName": "Asuncion",
+            "city": "Asunci\u00f3n",
+            "zip": "",
+            "lat": -25.2869,
+            "lon": -57.6511,
+            "timezone": "America/Asuncion",
+            "isp": "CO.PA.CO.",
+            "org": "COMPA\u00d1IA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.)",
+            "as": "AS27866 COMPA\u00d1IA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.)",
+            "query": "190.52.165.120",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.4
         },
         {
             "status": "success",
@@ -55,10 +55,10 @@
             "isp": "MSW S.A.",
             "org": "Cross Connect Paraguay S.A",
             "as": "AS267885 MSW S.A.",
-            "query": "45.177.16.129",
+            "query": "45.177.16.131",
             "type": "http",
             "port": "999",
-            "response_time": 7.14
+            "response_time": 9.52
         },
         {
             "status": "success",
@@ -71,13 +71,32 @@
             "lat": -25.5036,
             "lon": -54.6507,
             "timezone": "America/Asuncion",
-            "isp": "GIG@NET SOCIEDAD ANONIMA",
-            "org": "GIG@NET SOCIEDAD ANONIMA",
-            "as": "AS61512 GIG@NET SOCIEDAD ANONIMA",
-            "query": "45.170.128.120",
+            "isp": "MSW S.A.",
+            "org": "Cross Connect Paraguay S.A",
+            "as": "AS267885 MSW S.A.",
+            "query": "45.177.16.133",
             "type": "http",
             "port": "999",
-            "response_time": 9.31
+            "response_time": 9.73
+        },
+        {
+            "status": "success",
+            "country": "Paraguay",
+            "countryCode": "PY",
+            "region": "9",
+            "regionName": "Departamento de Paraguar\u00ed",
+            "city": "Carapegu\u00e1",
+            "zip": "",
+            "lat": -25.7634,
+            "lon": -57.2468,
+            "timezone": "America/Asuncion",
+            "isp": "MACHADO BAEZ, NERY JAVIER",
+            "org": "MACHADO BAEZ, NERY JAVIER",
+            "as": "AS270096 MACHADO BAEZ, NERY JAVIER (LOCAL NET PARAGUAY)",
+            "query": "170.245.132.82",
+            "type": "http",
+            "port": "9000",
+            "response_time": 14.92
         }
     ]
 }
