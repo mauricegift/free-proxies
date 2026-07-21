@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "A",
+            "regionName": "East Macedonia and Thrace",
+            "city": "X\u00e1nthi",
+            "zip": "",
+            "lat": 41.1441,
+            "lon": 24.882,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "62.103.186.66",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.44
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,7 +39,7 @@
             "query": "149.210.1.189",
             "type": "http",
             "port": "18080",
-            "response_time": 4.06
+            "response_time": 7.05
         }
     ]
 }
