@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "C\u00edfer",
+            "zip": "919 43",
+            "lat": 48.3154,
+            "lon": 17.4914,
+            "timezone": "Europe/Bratislava",
+            "isp": "GOLEM TECH s.r.o",
+            "org": "GOLEM TECH s.r.o.",
+            "as": "AS30929 GOLEM TECH s.r.o.",
+            "query": "185.98.208.98",
+            "type": "socks4",
+            "port": "28000",
+            "response_time": 0.23
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +39,45 @@
             "query": "91.217.33.161",
             "type": "http",
             "port": "8080",
-            "response_time": 6.12
+            "response_time": 1.47
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Ve\u013ek\u00e9 Kosto\u013eany",
+            "zip": "922 07",
+            "lat": 48.5118,
+            "lon": 17.7309,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Radiolan",
+            "as": "AS43451 Slovanet a.s.",
+            "query": "188.121.168.60",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.5
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "PV",
+            "regionName": "Pre\u0161ov Region",
+            "city": "Giraltovce",
+            "zip": "087 01",
+            "lat": 49.1147,
+            "lon": 21.5131,
+            "timezone": "Europe/Bratislava",
+            "isp": "DELTA ONLINE spol. s r.o.",
+            "org": "Probasec-Net s.r.o",
+            "as": "AS34820 DELTA ONLINE spol. s r.o.",
+            "query": "185.225.204.5",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.4
         }
     ]
 }
