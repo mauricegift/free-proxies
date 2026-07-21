@@ -1,8 +1,27 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "7",
+            "regionName": "Tyrol",
+            "city": "S\u00f6ll",
+            "zip": "6306",
+            "lat": 47.5038,
+            "lon": 12.1922,
+            "timezone": "Europe/Vienna",
+            "isp": "myNet GmbH",
+            "org": "myNET Internet Solutions",
+            "as": "AS31543 myNet GmbH",
+            "query": "83.218.186.22",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.28
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -10,17 +29,36 @@
             "region": "9",
             "regionName": "State of Vienna",
             "city": "Vienna",
-            "zip": "1220",
+            "zip": "1004",
             "lat": 48.2049,
             "lon": 16.3662,
             "timezone": "Europe/Vienna",
-            "isp": "customers with static IP",
+            "isp": "Baxet Group Inc.",
+            "org": "Baxet Group Inc",
+            "as": "AS26383 Baxet Group Inc.",
+            "query": "93.115.106.8",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.55
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Kindberg",
+            "zip": "8650",
+            "lat": 47.5036,
+            "lon": 15.4499,
+            "timezone": "Europe/Vienna",
+            "isp": "BK DAT",
             "org": "",
-            "as": "AS25255 ==> TELE2 AUSTRIA <==",
-            "query": "178.115.255.177",
+            "as": "AS13292 Willibald Hambammer trading as BK-DAT Electronics e.U.",
+            "query": "213.173.75.222",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.42
+            "response_time": 8.57
         }
     ]
 }
