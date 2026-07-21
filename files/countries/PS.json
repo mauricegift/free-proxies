@@ -1,6 +1,6 @@
 {
     "countryCode": "PS",
-    "country": "Palestine",
+    "country": "Palestinian Territory",
     "count": 3,
     "proxies": [
         {
@@ -9,37 +9,18 @@
             "countryCode": "PS",
             "region": "",
             "regionName": "West Bank",
-            "city": "Salf\u012bt",
+            "city": "Ramallah",
             "zip": "",
-            "lat": 32.0837,
-            "lon": 35.1808,
+            "lat": 31.9038,
+            "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "AL Zaytona Company For Communication Ltd.",
-            "org": "Zaytona Network",
-            "as": "AS197350 AL Zaytona Company For Communication Ltd.",
-            "query": "46.60.15.42",
-            "type": "http",
-            "port": "8082",
-            "response_time": 2.82
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "GZA",
-            "regionName": "Gaza Governorate",
-            "city": "Gaza",
-            "zip": "",
-            "lat": 31.5019,
-            "lon": 34.4666,
-            "timezone": "Asia/Gaza",
-            "isp": "Mada Al-Arab General Services Company",
-            "org": "Mada Al-Arab General Services Company",
-            "as": "AS51407 Mada Al-Arab General Services Company",
-            "query": "84.242.51.241",
+            "isp": "BNET network",
+            "org": "",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.26",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 3.77
+            "port": "1080",
+            "response_time": 3.79
         },
         {
             "status": "success",
@@ -52,13 +33,32 @@
             "lat": 31.5019,
             "lon": 34.4666,
             "timezone": "Asia/Gaza",
-            "isp": "Mada Al-Arab General Services Company",
-            "org": "Mada Network BB",
-            "as": "AS51407 Mada Al-Arab General Services Company",
-            "query": "84.242.58.9",
+            "isp": "PALTEL (Palestine Telecommunications Co.).",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.244.95.175",
             "type": "http",
             "port": "8080",
-            "response_time": 5.71
+            "response_time": 3.81
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.217",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.75
         }
     ]
 }
