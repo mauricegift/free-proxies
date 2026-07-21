@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20121",
+            "lat": 45.4681,
+            "lon": 9.2011,
+            "timezone": "Europe/Rome",
+            "isp": "Amazon Technologies Inc",
+            "org": "AWS EC2 (eu-south-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "15.160.116.45",
+            "type": "http",
+            "port": "44636",
+            "response_time": 1.56
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "149.62.186.244",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.31
+            "response_time": 2.34
         },
         {
             "status": "success",
@@ -29,36 +48,36 @@
             "region": "25",
             "regionName": "Lombardy",
             "city": "Milan",
-            "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.59.54",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
             "type": "http",
-            "port": "9266",
-            "response_time": 0.52
+            "port": "8081",
+            "response_time": 10.44
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "75",
-            "regionName": "Apulia",
-            "city": "Altamura",
-            "zip": "70022",
-            "lat": 40.8266,
-            "lon": 16.5495,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Arezzo",
+            "zip": "52100",
+            "lat": 43.4631,
+            "lon": 11.8783,
             "timezone": "Europe/Rome",
-            "isp": "VODAFONE",
-            "org": "",
-            "as": "AS30722 Fastweb SpA",
-            "query": "188.217.172.202",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.68
+            "isp": "Aruba S.p.A.",
+            "org": "Aruba S.p.A.",
+            "as": "AS31034 Aruba S.p.A.",
+            "query": "77.81.230.90",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 12.96
         }
     ]
 }
