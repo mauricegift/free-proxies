@@ -1,7 +1,7 @@
 {
     "countryCode": "GH",
     "country": "Ghana",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "196.29.231.1",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.85
+            "response_time": 2.95
+        },
+        {
+            "status": "success",
+            "country": "Ghana",
+            "countryCode": "GH",
+            "region": "AA",
+            "regionName": "Greater Accra Region",
+            "city": "Accra",
+            "zip": "",
+            "lat": 5.6037,
+            "lon": -0.1869,
+            "timezone": "Africa/Accra",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Starlink",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "143.105.208.94",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.04
         }
     ]
 }
