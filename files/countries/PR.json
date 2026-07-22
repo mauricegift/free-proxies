@@ -1,26 +1,45 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Puerto Rico",
             "countryCode": "PR",
             "region": "",
-            "regionName": "Adjuntas",
-            "city": "Adjuntas",
-            "zip": "",
-            "lat": 18.1627,
-            "lon": -66.7221,
+            "regionName": "Guaynabo",
+            "city": "Guaynabo",
+            "zip": "00968",
+            "lat": 18.416,
+            "lon": -66.107,
             "timezone": "America/Puerto_Rico",
-            "isp": "Alphanet Corp",
-            "org": "Alphanet Corp",
-            "as": "AS400354 ALPHANET CORP",
-            "query": "23.138.88.65",
+            "isp": "OSNET Wireless",
+            "org": "FiberX",
+            "as": "AS21559 OSNET",
+            "query": "72.46.158.193",
+            "type": "http",
+            "port": "8087",
+            "response_time": 4.51
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Cayey",
+            "city": "Cayey",
+            "zip": "",
+            "lat": 18.1119,
+            "lon": -66.166,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "OSNet Wireless",
+            "as": "AS21559 OSNET",
+            "query": "154.64.211.145",
             "type": "http",
             "port": "999",
-            "response_time": 11.6
+            "response_time": 4.59
         }
     ]
 }
