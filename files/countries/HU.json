@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "ZA",
+            "regionName": "Zala County",
+            "city": "Nagykanizsa",
+            "zip": "8800",
+            "lat": 46.4535,
+            "lon": 16.991,
+            "timezone": "Europe/Budapest",
+            "isp": "One Hungary Ltd.",
+            "org": "One Hungary Ltd",
+            "as": "AS21334 One Hungary Ltd.",
+            "query": "89.132.170.211",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.29
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,7 @@
             "query": "46.107.230.122",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.46
+            "response_time": 3.42
         }
     ]
 }
