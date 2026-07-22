@@ -1,8 +1,27 @@
 {
     "countryCode": "MD",
     "country": "Moldova",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Moldova",
+            "countryCode": "MD",
+            "region": "CU",
+            "regionName": "Chi\u0219in\u0103u Municipality",
+            "city": "Chisinau",
+            "zip": "MD-2000",
+            "lat": 47.0042,
+            "lon": 28.8574,
+            "timezone": "Europe/Chisinau",
+            "isp": "JSC \"Moldtelecom\" S.A",
+            "org": "JSC Moldtelecom S.A.",
+            "as": "AS8926 Moldtelecom SA",
+            "query": "46.55.3.113",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.52
+        },
         {
             "status": "success",
             "country": "Moldova",
@@ -20,7 +39,7 @@
             "query": "89.28.81.217",
             "type": "http",
             "port": "8443",
-            "response_time": 5.19
+            "response_time": 2.02
         }
     ]
 }
