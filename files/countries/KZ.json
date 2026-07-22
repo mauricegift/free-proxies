@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 0.95
+            "response_time": 1.23
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
+            "region": "39",
+            "regionName": "Kostanay",
+            "city": "Kostanay",
+            "zip": "110000",
+            "lat": 53.2123,
+            "lon": 63.6281,
+            "timezone": "Asia/Qostanay",
+            "isp": "Uplink LLC",
+            "org": "Uplink LLC",
+            "as": "AS8200 Uplink LLC",
+            "query": "109.248.236.150",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 1.81
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "010000",
+            "lat": 51.1876,
+            "lon": 71.4491,
             "timezone": "Asia/Almaty",
             "isp": "JSC Transtelecom",
-            "org": "Big Data Host LLC",
+            "org": "JSC Transtelecom",
             "as": "AS41798 JSC Transtelecom",
-            "query": "194.58.42.209",
-            "type": "http",
-            "port": "8118",
-            "response_time": 1.48
+            "query": "91.246.81.230",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.53
         },
         {
             "status": "success",
@@ -58,45 +77,7 @@
             "query": "89.169.37.254",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.92
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
-            "timezone": "Asia/Almaty",
-            "isp": "ALM",
-            "org": "OOO IT-Grad",
-            "as": "AS48096 Enterprise Cloud Ltd.",
-            "query": "178.170.221.75",
-            "type": "http",
-            "port": "8443",
-            "response_time": 5.53
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
-            "timezone": "Asia/Almaty",
-            "isp": "Netfire TEC",
-            "org": "",
-            "as": "AS205431 HostLab LLC",
-            "query": "176.12.72.62",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 9.22
+            "response_time": 4.44
         }
     ]
 }
