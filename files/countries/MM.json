@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "13",
+            "regionName": "Kayin State",
+            "city": "Myawaddy",
+            "zip": "",
+            "lat": 16.6891,
+            "lon": 98.5089,
+            "timezone": "Asia/Yangon",
+            "isp": "V D C Net Company Limited",
+            "org": "V D C Net Company Limited",
+            "as": "AS134484 Ultra Net",
+            "query": "103.197.156.9",
+            "type": "http",
+            "port": "8888",
+            "response_time": 5.35
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -20,45 +39,7 @@
             "query": "154.18.220.190",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.69
-        },
-        {
-            "status": "success",
-            "country": "Myanmar",
-            "countryCode": "MM",
-            "region": "06",
-            "regionName": "Yangon",
-            "city": "Yangon",
-            "zip": "",
-            "lat": 16.7964,
-            "lon": 96.1667,
-            "timezone": "Asia/Yangon",
-            "isp": "Myanma Post & Telecommunication",
-            "org": "",
-            "as": "AS9988 Myanma Posts and Telecommunications",
-            "query": "136.228.163.150",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.72
-        },
-        {
-            "status": "success",
-            "country": "Myanmar",
-            "countryCode": "MM",
-            "region": "06",
-            "regionName": "Yangon",
-            "city": "Yangon",
-            "zip": "",
-            "lat": 16.7964,
-            "lon": 96.1667,
-            "timezone": "Asia/Yangon",
-            "isp": "Global Technology Co",
-            "org": "",
-            "as": "AS133524 Global Technology Co., Ltd.",
-            "query": "185.133.213.86",
-            "type": "http",
-            "port": "8074",
-            "response_time": 7.16
+            "response_time": 8.95
         }
     ]
 }
