@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "NSW",
             "regionName": "New South Wales",
             "city": "Sydney",
-            "zip": "2060",
-            "lat": -33.8688,
-            "lon": 151.2092,
+            "zip": "2000",
+            "lat": -33.8591,
+            "lon": 151.2002,
             "timezone": "Australia/Sydney",
-            "isp": "2E TELEKOMUNIKASYON LTD STI",
-            "org": "Digital LLC",
-            "as": "AS209604 2E TELEKOMUNIKASYON LTD STI",
-            "query": "45.38.149.26",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "54.206.129.120",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.77
+            "port": "11480",
+            "response_time": 3.14
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 3.28
+            "response_time": 3.16
         },
         {
             "status": "success",
@@ -52,32 +52,32 @@
             "lat": -33.8591,
             "lon": 151.2002,
             "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Corporate Services Pty Ltd, Amazon.com, Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.206.129.120",
+            "query": "54.79.125.20",
             "type": "http",
-            "port": "11480",
-            "response_time": 5.56
+            "port": "9091",
+            "response_time": 4.12
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
-            "timezone": "Australia/Sydney",
-            "isp": "OVH SAS",
-            "org": "OVH Australia PTY LTD",
-            "as": "AS16276 OVH SAS",
-            "query": "139.99.238.83",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.148.102",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.95
+            "port": "23290",
+            "response_time": 4.25
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "46.250.241.229",
             "type": "http",
             "port": "3128",
-            "response_time": 12.86
+            "response_time": 9.97
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "51.161.142.97",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.33
         }
     ]
 }
