@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 2.93
+            "response_time": 2.88
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "Contabo Asia Private Limited",
+            "org": "Yorkshire Tech Limited",
+            "as": "AS141995 Contabo Asia Private Limited",
+            "query": "46.250.241.229",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.23
         },
         {
             "status": "success",
@@ -28,18 +47,56 @@
             "countryCode": "AU",
             "region": "VIC",
             "regionName": "Victoria",
-            "city": "Melbourne",
+            "city": "Burnside",
             "zip": "3023",
-            "lat": -37.7512,
-            "lon": 144.7508,
+            "lat": -37.7469,
+            "lon": 144.749,
             "timezone": "Australia/Melbourne",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "168.138.9.147",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 13.48
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 6.35
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4064",
+            "lat": -27.2167,
+            "lon": 151.7,
+            "timezone": "Australia/Brisbane",
+            "isp": "Aussie Broadband",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "180.181.215.232",
+            "type": "http",
+            "port": "3128",
+            "response_time": 12.72
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Burnside",
+            "zip": "3023",
+            "lat": -37.7469,
+            "lon": 144.749,
+            "timezone": "Australia/Melbourne",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 14.27
         }
     ]
 }
