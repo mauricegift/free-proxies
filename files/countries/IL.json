@@ -1,26 +1,45 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Israel",
             "countryCode": "IL",
-            "region": "M",
-            "regionName": "Central District",
-            "city": "Petah Tikva",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Ramat Gan",
             "zip": "",
-            "lat": 32.0876,
-            "lon": 34.8739,
+            "lat": 32.0821,
+            "lon": 34.8122,
             "timezone": "Asia/Jerusalem",
-            "isp": "BEZEQ-INTERNATIONAL",
+            "isp": "013 Netvision Network",
             "org": "",
-            "as": "AS8551 Bezeq International Ltd.",
-            "query": "31.168.143.90",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.7
+            "as": "AS1680 Cellcom Fixed Line Communication L.P",
+            "query": "62.90.70.144",
+            "type": "http",
+            "port": "7443",
+            "response_time": 0.68
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "A100 ROW Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.17.154.141",
+            "type": "http",
+            "port": "8999",
+            "response_time": 1.87
         }
     ]
 }
