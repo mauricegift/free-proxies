@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "5.45.118.209",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.45
+            "response_time": 0.3
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "79",
+            "regionName": "Tartu",
+            "city": "Tartu",
+            "zip": "",
+            "lat": 58.3794,
+            "lon": 26.7322,
+            "timezone": "Europe/Tallinn",
+            "isp": "SkyLive Telecom ldt",
+            "org": "Elevi",
+            "as": "AS202652 Elevi AS",
+            "query": "185.157.111.3",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.32
         }
     ]
 }
