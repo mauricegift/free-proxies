@@ -1,8 +1,27 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus Online Ltd",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.32.166",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.59
+        },
         {
             "status": "success",
             "country": "Georgia",
@@ -20,26 +39,26 @@
             "query": "85.117.56.43",
             "type": "http",
             "port": "8080",
-            "response_time": 0.51
+            "response_time": 4.63
         },
         {
             "status": "success",
             "country": "Georgia",
             "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
+            "region": "AJ",
+            "regionName": "Adjara",
+            "city": "Batumi",
             "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
+            "lat": 41.6473,
+            "lon": 41.6258,
             "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.147",
+            "isp": "JSC \"Silknet\"",
+            "org": "UTG MPLS DSL",
+            "as": "AS35805 JSC Silknet",
+            "query": "94.43.164.242",
             "type": "http",
             "port": "8080",
-            "response_time": 7.87
+            "response_time": 6.74
         }
     ]
 }
