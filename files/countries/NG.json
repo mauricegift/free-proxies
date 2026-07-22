@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,16 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.5243,
-            "lon": 3.3792,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Space Exploration Technologies Corporation",
-            "org": "SpaceX Services, Inc",
-            "as": "AS14593 Space Exploration Technologies Corporation",
-            "query": "129.222.204.27",
-            "type": "http",
-            "port": "10000",
-            "response_time": 2.12
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "Visual ICT",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.17.106",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.25
         },
         {
             "status": "success",
@@ -28,18 +28,18 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Ikeja",
+            "city": "Lagos",
             "zip": "",
-            "lat": 6.5885,
-            "lon": 3.3406,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.170.1",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.12
+            "query": "154.113.147.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.3
         },
         {
             "status": "success",
@@ -58,7 +58,45 @@
             "query": "45.222.101.111",
             "type": "http",
             "port": "8080",
-            "response_time": 9.4
+            "response_time": 7.95
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Eti-Osa",
+            "zip": "",
+            "lat": 6.53094,
+            "lon": 3.32648,
+            "timezone": "Africa/Lagos",
+            "isp": "Information Connectivity Solutions Limited",
+            "org": "",
+            "as": "AS37269 Information Connectivity Solutions Limited",
+            "query": "105.235.201.234",
+            "type": "socks4",
+            "port": "32639",
+            "response_time": 8.05
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.209.162",
+            "type": "http",
+            "port": "8082",
+            "response_time": 11.42
         }
     ]
 }
