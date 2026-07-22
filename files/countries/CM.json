@@ -1,8 +1,27 @@
 {
     "countryCode": "CM",
     "country": "Cameroon",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Cameroon",
+            "countryCode": "CM",
+            "region": "LT",
+            "regionName": "Littoral",
+            "city": "Douala",
+            "zip": "",
+            "lat": 4.0505,
+            "lon": 9.7023,
+            "timezone": "Africa/Douala",
+            "isp": "SWECOM1623",
+            "org": "",
+            "as": "AS327820 SWECOM PLC",
+            "query": "102.132.17.30",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.34
+        },
         {
             "status": "success",
             "country": "Cameroon",
@@ -20,7 +39,7 @@
             "query": "41.216.232.213",
             "type": "socks4",
             "port": "4153",
-            "response_time": 8.22
+            "response_time": 9.47
         }
     ]
 }
