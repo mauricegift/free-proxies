@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "210.8.69.102",
             "type": "http",
             "port": "808",
-            "response_time": 5.66
+            "response_time": 2.55
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "61.29.96.146",
             "type": "http",
             "port": "8000",
-            "response_time": 6.69
+            "response_time": 8.09
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2060",
+            "lat": -33.8688,
+            "lon": 151.2092,
+            "timezone": "Australia/Sydney",
+            "isp": "2E TELEKOMUNIKASYON LTD STI",
+            "org": "Digital LLC",
+            "as": "AS209604 2E TELEKOMUNIKASYON LTD STI",
+            "query": "45.38.149.26",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.66
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Burnside",
+            "zip": "3023",
+            "lat": -37.7469,
+            "lon": 144.749,
+            "timezone": "Australia/Melbourne",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 11.78
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "103.131.232.9",
             "type": "http",
             "port": "8080",
-            "response_time": 8.45
+            "response_time": 14.2
         }
     ]
 }
