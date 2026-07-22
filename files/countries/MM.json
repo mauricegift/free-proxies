@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "13",
+            "regionName": "Kayin State",
+            "city": "Shwe Kokko",
+            "zip": "",
+            "lat": 16.8208,
+            "lon": 98.5309,
+            "timezone": "Asia/Yangon",
+            "isp": "Telecom International Myanmar Company Limited",
+            "org": "",
+            "as": "AS136255 Telecom International Myanmar Co., Ltd",
+            "query": "202.165.92.206",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.76
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -20,7 +39,7 @@
             "query": "154.18.220.190",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.62
+            "response_time": 6.49
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 16.7964,
             "lon": 96.1667,
             "timezone": "Asia/Yangon",
-            "isp": "Global Technology Co",
+            "isp": "Myanma Post & Telecommunication",
             "org": "",
-            "as": "AS133524 Global Technology Co., Ltd.",
-            "query": "185.133.213.86",
-            "type": "http",
-            "port": "8074",
-            "response_time": 3.21
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.163.150",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.83
         }
     ]
 }
