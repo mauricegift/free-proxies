@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 5,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "178.172.217.166",
             "type": "http",
             "port": "10786",
-            "response_time": 0.44
+            "response_time": 0.46
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "178.172.217.166",
             "type": "http",
             "port": "10869",
-            "response_time": 0.52
+            "response_time": 2.46
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "178.172.217.166",
             "type": "http",
             "port": "10780",
-            "response_time": 0.57
+            "response_time": 2.5
         },
         {
             "status": "success",
@@ -76,8 +76,8 @@
             "as": "AS60591 Support Chain LLC",
             "query": "178.172.217.166",
             "type": "http",
-            "port": "10773",
-            "response_time": 0.73
+            "port": "10845",
+            "response_time": 3.53
         },
         {
             "status": "success",
@@ -96,7 +96,45 @@
             "query": "178.172.217.166",
             "type": "http",
             "port": "10840",
-            "response_time": 2.45
+            "response_time": 4.64
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220004",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "PPPoE USERS GRODNO",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "86.57.178.182",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.48
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220002",
+            "lat": 53.9002,
+            "lon": 27.5665,
+            "timezone": "Europe/Minsk",
+            "isp": "Business network jv",
+            "org": "Business network LTD",
+            "as": "AS12406 Business Network Ltd",
+            "query": "80.249.81.179",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 20.28
         }
     ]
 }
