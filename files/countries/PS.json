@@ -1,26 +1,26 @@
 {
     "countryCode": "PS",
-    "country": "Palestinian Territory",
+    "country": "Palestine",
     "count": 3,
     "proxies": [
         {
             "status": "success",
-            "country": "Palestinian Territory",
+            "country": "Palestine",
             "countryCode": "PS",
-            "region": "",
-            "regionName": "West Bank",
-            "city": "Ramallah",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
             "zip": "",
-            "lat": 31.9038,
-            "lon": 35.2034,
-            "timezone": "Asia/Hebron",
-            "isp": "BNET network",
-            "org": "",
-            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.26",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.67
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.146.119",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.63
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 31.5019,
             "lon": 34.4666,
             "timezone": "Asia/Gaza",
-            "isp": "PALTEL (Palestine Telecommunications Co.).",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.244.95.175",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.21
+            "isp": "Mada Al-Arab General Services Company",
+            "org": "Mada Al-Arab General Services Company",
+            "as": "AS51407 Mada Al-Arab General Services Company",
+            "query": "84.242.51.241",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.66
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "84.242.58.9",
             "type": "http",
             "port": "8080",
-            "response_time": 5.73
+            "response_time": 8.27
         }
     ]
 }
