@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "83.56.15.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.53
+            "response_time": 4.32
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28108",
+            "lat": 40.5395,
+            "lon": -3.6456,
+            "timezone": "Europe/Madrid",
+            "isp": "The Constant Company, LLC",
+            "org": "The Constant Company, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "65.20.105.241",
+            "type": "socks4",
+            "port": "10001",
+            "response_time": 4.45
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28037",
+            "lat": 40.4327,
+            "lon": -3.621,
+            "timezone": "Europe/Madrid",
+            "isp": "RIMA (Red IP Multi Acceso)",
+            "org": "",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "2.139.38.192",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.98
         },
         {
             "status": "success",
@@ -39,7 +77,45 @@
             "query": "195.189.190.245",
             "type": "http",
             "port": "9090",
-            "response_time": 3.54
+            "response_time": 6.35
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "",
+            "lat": 40.4167,
+            "lon": -3.7037,
+            "timezone": "Europe/Madrid",
+            "isp": "BlueVPS OU",
+            "org": "BlueVPS OU",
+            "as": "AS62005 BlueVPS OU",
+            "query": "83.97.79.114",
+            "type": "socks5",
+            "port": "8443",
+            "response_time": 8.55
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28085",
+            "lat": 40.4153,
+            "lon": -3.694,
+            "timezone": "Europe/Madrid",
+            "isp": "Soluciones web on line s.l.",
+            "org": "Profesionalhosting",
+            "as": "AS201446 Soluciones web on line s.l.",
+            "query": "45.13.185.217",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.67
         }
     ]
 }
