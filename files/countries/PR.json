@@ -1,7 +1,7 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "67.206.213.202",
             "type": "socks4",
             "port": "55555",
-            "response_time": 2.96
+            "response_time": 3.91
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Cayey",
+            "city": "Cayey",
+            "zip": "",
+            "lat": 18.1119,
+            "lon": -66.166,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "OSNet Wireless",
+            "as": "AS21559 OSNET",
+            "query": "154.64.211.145",
+            "type": "http",
+            "port": "999",
+            "response_time": 12.04
         }
     ]
 }
