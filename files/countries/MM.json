@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "11051",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Next Tier Trading Company Limited",
+            "org": "Global Technology Co., Ltd",
+            "as": "AS136975 Global Technology",
+            "query": "154.18.220.190",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.36
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -20,7 +39,26 @@
             "query": "136.228.163.150",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.56
+            "response_time": 8.72
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "13",
+            "regionName": "Kayin State",
+            "city": "Myawaddy",
+            "zip": "",
+            "lat": 16.6891,
+            "lon": 98.5089,
+            "timezone": "Asia/Yangon",
+            "isp": "V D C Net Company Limited",
+            "org": "V D C Net Company Limited",
+            "as": "AS134484 Ultra Net",
+            "query": "103.197.156.9",
+            "type": "http",
+            "port": "8888",
+            "response_time": 11.96
         }
     ]
 }
