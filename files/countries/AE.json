@@ -1,8 +1,27 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "DU",
+            "regionName": "Dubai",
+            "city": "Dubai",
+            "zip": "171103",
+            "lat": 25.266666,
+            "lon": 55.316666,
+            "timezone": "Asia/Dubai",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (uaenorth)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "74.162.190.150",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.97
+        },
         {
             "status": "success",
             "country": "United Arab Emirates",
@@ -20,7 +39,7 @@
             "query": "91.73.223.206",
             "type": "http",
             "port": "3128",
-            "response_time": 24.82
+            "response_time": 17.88
         }
     ]
 }
