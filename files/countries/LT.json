@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 54.6876,
             "lon": 25.2806,
             "timezone": "Europe/Vilnius",
-            "isp": "AB \"Ogmios Centras\"",
-            "org": "Intesta",
-            "as": "AS44613 Ogmios centras AS number",
-            "query": "93.93.61.153",
+            "isp": "BALTNET",
+            "org": "",
+            "as": "AS15440 UAB Baltnetos komunikacijos",
+            "query": "213.197.136.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.3
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "KL",
+            "regionName": "Klaip\u0117da County",
+            "city": "Klaip\u0117da",
+            "zip": "91001",
+            "lat": 55.7158,
+            "lon": 21.111,
+            "timezone": "Europe/Vilnius",
+            "isp": "Balticum TV network",
+            "org": "",
+            "as": "AS39007 UAB \"Balticum TV\"",
+            "query": "86.100.63.246",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.37
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "TE",
+            "regionName": "Telsiai",
+            "city": "Ma\u017eeikiai",
+            "zip": "89021",
+            "lat": 56.3176,
+            "lon": 22.3463,
+            "timezone": "Europe/Vilnius",
+            "isp": "KLI",
+            "org": "",
+            "as": "AS43627 UAB Besmegeniai",
+            "query": "46.36.65.117",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.57
+            "response_time": 2.59
         }
     ]
 }
