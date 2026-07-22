@@ -1,26 +1,26 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "11000",
-            "lat": 44.8046,
-            "lon": 20.4637,
+            "region": "13",
+            "regionName": "Pomoravlje",
+            "city": "Jagodina",
+            "zip": "",
+            "lat": 43.9784,
+            "lon": 21.2571,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Network",
-            "org": "",
-            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.118.34",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Zbet",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "178.220.148.82",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 2.7
+            "port": "10801",
+            "response_time": 1.35
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "109.245.110.145",
             "type": "socks4",
             "port": "4145",
-            "response_time": 4.63
+            "response_time": 2.41
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.67
         }
     ]
 }
