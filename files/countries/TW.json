@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "164.52.11.194",
             "type": "http",
             "port": "18080",
-            "response_time": 9.66
+            "response_time": 3.17
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "Xindian District",
+            "zip": "",
+            "lat": 24.9547,
+            "lon": 121.5354,
+            "timezone": "Asia/Taipei",
+            "isp": "Extra-Lan Technologies Co., LTD",
+            "org": "cgnet",
+            "as": "AS18429 Extra-Lan Technologies Co., LTD",
+            "query": "27.147.28.73",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.55
         }
     ]
 }
