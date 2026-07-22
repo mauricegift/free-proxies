@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 31.5019,
             "lon": 34.4666,
             "timezone": "Asia/Gaza",
-            "isp": "PALTEL (Palestine Telecommunications Co.).",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.244.95.175",
+            "isp": "Mada Al-Arab General Services Company",
+            "org": "Mada Network BB",
+            "as": "AS51407 Mada Al-Arab General Services Company",
+            "query": "84.242.58.9",
             "type": "http",
             "port": "8080",
-            "response_time": 4.09
+            "response_time": 3.7
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "NBS",
+            "regionName": "Nablus Governorate",
+            "city": "Nablus",
+            "zip": "",
+            "lat": 32.2207,
+            "lon": 35.2542,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.74
         }
     ]
 }
