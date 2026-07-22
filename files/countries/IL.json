@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Ramat Gan",
+            "zip": "",
+            "lat": 32.0821,
+            "lon": 34.8122,
+            "timezone": "Asia/Jerusalem",
+            "isp": "013 Netvision Network",
+            "org": "",
+            "as": "AS1680 Cellcom Fixed Line Communication L.P",
+            "query": "62.90.70.144",
+            "type": "http",
+            "port": "7443",
+            "response_time": 0.48
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,7 +39,7 @@
             "query": "31.168.143.90",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.58
+            "response_time": 1.77
         }
     ]
 }
