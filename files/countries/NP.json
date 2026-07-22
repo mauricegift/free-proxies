@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "103.154.12.2",
             "type": "http",
             "port": "8088",
-            "response_time": 2.45
+            "response_time": 1.22
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "202.70.80.153",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.47
+            "response_time": 2.15
         },
         {
             "status": "success",
@@ -55,67 +55,10 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.79.47.159",
+            "query": "202.79.35.12",
             "type": "socks4",
-            "port": "10800",
-            "response_time": 6.08
-        },
-        {
-            "status": "success",
-            "country": "Nepal",
-            "countryCode": "NP",
-            "region": "P3",
-            "regionName": "Bagmati Province",
-            "city": "Kathmandu",
-            "zip": "",
-            "lat": 27.7108,
-            "lon": 85.3251,
-            "timezone": "Asia/Kathmandu",
-            "isp": "Vianet Communications Pvt. Ltd",
-            "org": "NET COMMUNICATION PUBLIC LIMITED",
-            "as": "AS45650 VIA NET COMMUNICATION LTD.",
-            "query": "110.44.115.83",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.29
-        },
-        {
-            "status": "success",
-            "country": "Nepal",
-            "countryCode": "NP",
-            "region": "P3",
-            "regionName": "Bagmati Province",
-            "city": "Lalitpur",
-            "zip": "",
-            "lat": 27.6847,
-            "lon": 85.3112,
-            "timezone": "Asia/Kathmandu",
-            "isp": "RO-228 BroadLink",
-            "org": "",
-            "as": "AS55427 Broadlink Nepal",
-            "query": "103.232.228.138",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.66
-        },
-        {
-            "status": "success",
-            "country": "Nepal",
-            "countryCode": "NP",
-            "region": "P3",
-            "regionName": "Bagmati Province",
-            "city": "Kathmandu",
-            "zip": "",
-            "lat": 27.7108,
-            "lon": 85.3251,
-            "timezone": "Asia/Kathmandu",
-            "isp": "WorldLink Communications",
-            "org": "",
-            "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.220.40",
-            "type": "http",
-            "port": "8080",
-            "response_time": 14.16
+            "port": "1080",
+            "response_time": 4.25
         }
     ]
 }
