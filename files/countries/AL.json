@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,7 +17,7 @@
             "isp": "Global Connectivity Solutions LLP",
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.221.111",
+            "query": "147.45.221.115",
             "type": "socks4",
             "port": "1082",
             "response_time": 0.15
@@ -26,20 +26,20 @@
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "02",
-            "regionName": "Durr\u00ebs County",
-            "city": "Rrashbull",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
             "zip": "",
-            "lat": 41.3228,
-            "lon": 19.5103,
+            "lat": 41.3253,
+            "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Lightnet Sh.p.k.",
-            "org": "Lightnet Sh.p.k",
-            "as": "AS212637 LightNet Sh.p.k.",
-            "query": "185.190.90.2",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Public",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.73.120",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 2.38
+            "port": "65530",
+            "response_time": 5.39
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "ATU",
             "org": "",
             "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
-            "query": "185.89.156.2",
+            "query": "37.26.86.206",
             "type": "http",
-            "port": "44224",
-            "response_time": 12.88
+            "port": "47464",
+            "response_time": 5.65
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "1010",
+            "lat": 41.3275,
+            "lon": 19.8187,
+            "timezone": "Europe/Tirane",
+            "isp": "Artmotion Sh.P.K.",
+            "org": "Artmotion",
+            "as": "AS33983 ARTMOTION SH.P.K.",
+            "query": "84.22.48.28",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.03
         }
     ]
 }
