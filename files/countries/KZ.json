@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 1.23
+            "response_time": 1.04
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "39",
-            "regionName": "Kostanay",
-            "city": "Kostanay",
-            "zip": "110000",
-            "lat": 53.2123,
-            "lon": 63.6281,
-            "timezone": "Asia/Qostanay",
-            "isp": "Uplink LLC",
-            "org": "Uplink LLC",
-            "as": "AS8200 Uplink LLC",
-            "query": "109.248.236.150",
+            "region": "35",
+            "regionName": "Karaganda",
+            "city": "Karaganda",
+            "zip": "",
+            "lat": 49.7989,
+            "lon": 73.0994,
+            "timezone": "Asia/Almaty",
+            "isp": "PE Fedinyak Sergey Vyacheslavovich",
+            "org": "PE Fedinyak Sergey Vyacheslavovich",
+            "as": "AS203087 Fedinyak Sergey Vyacheslavovich",
+            "query": "46.8.31.104",
             "type": "socks4",
-            "port": "60606",
-            "response_time": 1.81
+            "port": "1080",
+            "response_time": 1.35
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "91.246.81.230",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.53
+            "response_time": 1.86
         },
         {
             "status": "success",
@@ -77,7 +77,45 @@
             "query": "89.169.37.254",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.44
+            "response_time": 4.01
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "39",
+            "regionName": "Kostanay",
+            "city": "Kostanay",
+            "zip": "110000",
+            "lat": 53.2123,
+            "lon": 63.6281,
+            "timezone": "Asia/Qostanay",
+            "isp": "Uplink LLC",
+            "org": "Uplink LLC",
+            "as": "AS8200 Uplink LLC",
+            "query": "109.248.236.150",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 5.35
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "JSC Transtelecom",
+            "org": "Big Data Host LLC",
+            "as": "AS41798 JSC Transtelecom",
+            "query": "194.58.42.190",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.97
         }
     ]
 }
