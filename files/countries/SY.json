@@ -1,8 +1,27 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "RD",
+            "regionName": "Rif-dimashq",
+            "city": "D\u0101rayy\u0101",
+            "zip": "",
+            "lat": 33.4584,
+            "lon": 36.2326,
+            "timezone": "Asia/Damascus",
+            "isp": "Syrian Telecom",
+            "org": "Wafa Telecom J.S.C",
+            "as": "AS29256 STE PDN Internal AS",
+            "query": "193.43.140.240",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.59
+        },
         {
             "status": "success",
             "country": "Syria",
@@ -17,29 +36,10 @@
             "isp": "High Speed For Internet Services L.L.C",
             "org": "Telecom SY",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "131.222.210.40",
+            "query": "131.222.210.185",
             "type": "http",
             "port": "8080",
-            "response_time": 3.61
-        },
-        {
-            "status": "success",
-            "country": "Syria",
-            "countryCode": "SY",
-            "region": "ID",
-            "regionName": "Idlib Governorate",
-            "city": "\u1e28\u012bsh",
-            "zip": "",
-            "lat": 35.5479,
-            "lon": 36.6436,
-            "timezone": "Asia/Damascus",
-            "isp": "High Speed For Internet Services L.L.C",
-            "org": "HU Pantel INT",
-            "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "89.43.133.242",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.05
+            "response_time": 9.0
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "89.43.135.9",
             "type": "http",
             "port": "8080",
-            "response_time": 7.85
+            "response_time": 9.44
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "ID",
+            "regionName": "Idlib Governorate",
+            "city": "Ar\u012b\u1e29\u0101",
+            "zip": "",
+            "lat": 35.8137,
+            "lon": 36.6096,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "89.43.132.226",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.11
         }
     ]
 }
