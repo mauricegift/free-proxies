@@ -1,7 +1,7 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 9,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "77.83.246.110",
             "type": "socks4",
             "port": "2000",
-            "response_time": 0.19
+            "response_time": 0.18
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "51.68.153.51",
             "type": "http",
             "port": "3128",
-            "response_time": 0.33
+            "response_time": 0.38
         },
         {
             "status": "success",
@@ -55,10 +55,10 @@
             "isp": "AS Consulting Sp. z o. o.",
             "org": "Core Network Fiber",
             "as": "AS60645 AS Consulting Sp. z o. o.",
-            "query": "185.32.4.126",
+            "query": "185.32.4.110",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.39
+            "response_time": 2.41
         },
         {
             "status": "success",
@@ -74,29 +74,67 @@
             "isp": "Fione Spolka z Ogranicznona Odpowiedzialnoscia Spolka Komandytowa",
             "org": "Ostrog.Net",
             "as": "AS30813 Fione Sp. z o.o.",
-            "query": "78.31.92.145",
+            "query": "78.31.93.76",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.45
+            "response_time": 4.49
         },
         {
             "status": "success",
             "country": "Poland",
             "countryCode": "PL",
-            "region": "32",
-            "regionName": "West Pomerania",
-            "city": "Rewal",
-            "zip": "72-344",
-            "lat": 54.0851,
-            "lon": 15.0191,
+            "region": "30",
+            "regionName": "Greater Poland",
+            "city": "Poznan",
+            "zip": "61-558",
+            "lat": 52.3948,
+            "lon": 16.9189,
             "timezone": "Europe/Warsaw",
-            "isp": "Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa",
-            "org": "Prymas",
-            "as": "AS203028 PRYMAS INWESTYCJE SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA SPOLKA KOMANDYTOWA",
-            "query": "185.147.69.48",
+            "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
+            "org": "Pozman ZOO",
+            "as": "AS8364 Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center",
+            "query": "212.126.5.246",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 0.55
+            "port": "42344",
+            "response_time": 4.56
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "30",
+            "regionName": "Greater Poland",
+            "city": "Poznan",
+            "zip": "61-558",
+            "lat": 52.3948,
+            "lon": 16.9189,
+            "timezone": "Europe/Warsaw",
+            "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
+            "org": "Pozman ZOO",
+            "as": "AS8364 Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center",
+            "query": "212.126.5.245",
+            "type": "socks4",
+            "port": "42344",
+            "response_time": 5.38
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "30",
+            "regionName": "Greater Poland",
+            "city": "Rakoniewice",
+            "zip": "62-067",
+            "lat": 52.1391,
+            "lon": 16.2735,
+            "timezone": "Europe/Warsaw",
+            "isp": "Orange Polska Spolka Akcyjna",
+            "org": "Orange Polska Spolka Akcyjna",
+            "as": "AS5617 Orange Polska Spolka Akcyjna",
+            "query": "80.55.169.2",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.57
         },
         {
             "status": "success",
@@ -115,64 +153,7 @@
             "query": "77.65.50.118",
             "type": "socks4",
             "port": "34159",
-            "response_time": 4.77
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "28",
-            "regionName": "Warmia-Masuria",
-            "city": "T\u0142okowo",
-            "zip": "11-320",
-            "lat": 54.0057,
-            "lon": 20.7445,
-            "timezone": "Europe/Warsaw",
-            "isp": "Netservice",
-            "org": "",
-            "as": "AS201637 Tomasz Naruszewicz",
-            "query": "185.140.102.218",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.98
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "30",
-            "regionName": "Greater Poland",
-            "city": "Poznan",
-            "zip": "61-558",
-            "lat": 52.3948,
-            "lon": 16.9189,
-            "timezone": "Europe/Warsaw",
-            "isp": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",
-            "org": "Pozman ZOO",
-            "as": "AS8364 Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center",
-            "query": "212.126.5.249",
-            "type": "socks4",
-            "port": "42344",
-            "response_time": 7.61
-        },
-        {
-            "status": "success",
-            "country": "Poland",
-            "countryCode": "PL",
-            "region": "14",
-            "regionName": "Mazovia",
-            "city": "Warsaw",
-            "zip": "03-195",
-            "lat": 52.3029,
-            "lon": 20.9834,
-            "timezone": "Europe/Warsaw",
-            "isp": "WAWPOLIP",
-            "org": "",
-            "as": "AS1887 NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY",
-            "query": "148.81.121.5",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.44
+            "response_time": 7.6
         }
     ]
 }
