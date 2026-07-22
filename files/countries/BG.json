@@ -1,27 +1,8 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "22",
-            "regionName": "Sofia-Capital",
-            "city": "Sofia",
-            "zip": "1000",
-            "lat": 42.6977,
-            "lon": 23.3219,
-            "timezone": "Europe/Sofia",
-            "isp": "Neterra Ltd.",
-            "org": "Neterra Princess Svilengrad",
-            "as": "AS34224 Neterra Ltd.",
-            "query": "31.13.239.4",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 0.3
-        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -39,7 +20,7 @@
             "query": "109.160.97.49",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.77
+            "response_time": 1.66
         },
         {
             "status": "success",
@@ -57,27 +38,27 @@
             "as": "AS44901 Belcloud LTD",
             "query": "185.205.210.154",
             "type": "http",
-            "port": "8085",
-            "response_time": 1.1
+            "port": "8084",
+            "response_time": 1.94
         },
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "19",
-            "regionName": "Silistra",
-            "city": "Sitovo",
-            "zip": "7583",
-            "lat": 44.0273,
-            "lon": 27.0198,
+            "region": "01",
+            "regionName": "Blagoevgrad",
+            "city": "Belasitsa",
+            "zip": "2881",
+            "lat": 41.3662,
+            "lon": 23.1346,
             "timezone": "Europe/Sofia",
-            "isp": "ASNET",
-            "org": "",
-            "as": "AS49147 ET ASNET - Altan Halim",
-            "query": "85.187.5.66",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 2.89
+            "isp": "Netroniks EOOD",
+            "org": "Netronix Ltd.",
+            "as": "AS48233 Netroniks EOOD",
+            "query": "151.237.84.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.96
         },
         {
             "status": "success",
@@ -96,7 +77,45 @@
             "query": "212.5.132.74",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.39
+            "response_time": 4.56
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6951,
+            "lon": 23.325,
+            "timezone": "Europe/Sofia",
+            "isp": "Spectrum NET",
+            "org": "",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "212.50.19.150",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 5.33
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6975,
+            "lon": 23.3242,
+            "timezone": "Europe/Sofia",
+            "isp": "Vivacom Bulgaria EAD",
+            "org": "Vivacom Bulgaria EAD",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "77.85.168.253",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.65
         }
     ]
 }
