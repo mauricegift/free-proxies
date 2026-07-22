@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Ramat Gan",
+            "zip": "",
+            "lat": 32.0821,
+            "lon": 34.8122,
+            "timezone": "Asia/Jerusalem",
+            "isp": "013 Netvision Network",
+            "org": "",
+            "as": "AS1680 Cellcom Fixed Line Communication L.P",
+            "query": "62.90.70.144",
+            "type": "http",
+            "port": "7443",
+            "response_time": 0.61
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -15,12 +34,12 @@
             "lon": 34.7807,
             "timezone": "Asia/Jerusalem",
             "isp": "Amazon.com, Inc.",
-            "org": "A100 ROW Inc",
+            "org": "Amazon Technologies Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.17.154.141",
+            "query": "51.84.101.19",
             "type": "http",
-            "port": "8999",
-            "response_time": 1.2
+            "port": "25142",
+            "response_time": 0.77
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "51.84.101.19",
             "type": "http",
             "port": "8074",
-            "response_time": 2.25
+            "response_time": 0.81
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.0804,
+            "lon": 34.7807,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.85.44.149",
+            "type": "http",
+            "port": "55374",
+            "response_time": 0.98
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "31.168.143.90",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.63
+            "response_time": 2.58
         }
     ]
 }
