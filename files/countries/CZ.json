@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "186 00",
+            "lat": 50.0985,
+            "lon": 14.4524,
+            "timezone": "Europe/Prague",
+            "isp": "Telefonica O2 Czech Republic, a.s.",
+            "org": "CZ.CZNET",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.178.216.215",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.44
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +39,26 @@
             "query": "217.197.151.182",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.45
+            "response_time": 2.63
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "140 00",
+            "lat": 50.0471,
+            "lon": 14.4523,
+            "timezone": "Europe/Prague",
+            "isp": "JM-Networks, s.r.o.",
+            "org": "JM-Networks, s.r.o",
+            "as": "AS62099 JM-Networks, s.r.o.",
+            "query": "176.98.248.2",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.34
         }
     ]
 }
