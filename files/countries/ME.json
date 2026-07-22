@@ -1,8 +1,27 @@
 {
     "countryCode": "ME",
     "country": "Montenegro",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Montenegro",
+            "countryCode": "ME",
+            "region": "16",
+            "regionName": "Podgorica",
+            "city": "Podgorica",
+            "zip": "",
+            "lat": 42.4411,
+            "lon": 19.2632,
+            "timezone": "Europe/Podgorica",
+            "isp": "Drustvo za telekomunikacije \"MTEL\" DOO",
+            "org": "FTTH Users Podgorica AZ",
+            "as": "AS43940 Drustvo za telekomunikacije MTEL DOO",
+            "query": "109.72.100.113",
+            "type": "socks4",
+            "port": "48293",
+            "response_time": 1.32
+        },
         {
             "status": "success",
             "country": "Montenegro",
@@ -20,7 +39,7 @@
             "query": "109.228.65.179",
             "type": "http",
             "port": "81",
-            "response_time": 10.17
+            "response_time": 4.4
         }
     ]
 }
