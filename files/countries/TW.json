@@ -1,26 +1,64 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "NWT",
-            "regionName": "New Taipei City",
-            "city": "Xindian District",
+            "region": "TXG",
+            "regionName": "Taichung City",
+            "city": "Taichung",
             "zip": "",
-            "lat": 24.9547,
-            "lon": 121.5354,
+            "lat": 24.144,
+            "lon": 120.6844,
             "timezone": "Asia/Taipei",
-            "isp": "Extra-Lan Technologies Co., LTD",
-            "org": "cgnet",
-            "as": "AS18429 Extra-Lan Technologies Co., LTD",
-            "query": "27.147.28.73",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "220.132.41.160",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 2.75
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taipei",
+            "city": "Banqiao",
+            "zip": "",
+            "lat": 24.9961,
+            "lon": 121.456,
+            "timezone": "Asia/Taipei",
+            "isp": "Asia Pacific On-line Service Inc.",
+            "org": "Far EasTone Telecommunication Co., Ltd.",
+            "as": "AS7482 Asia Pacific On-line Service Inc.",
+            "query": "210.201.86.72",
             "type": "http",
             "port": "8080",
-            "response_time": 9.29
+            "response_time": 3.31
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Neihu District",
+            "zip": "",
+            "lat": 25.0689,
+            "lon": 121.591,
+            "timezone": "Asia/Taipei",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "Ucul",
+            "as": "AS63199 CDS Global Cloud Co., Ltd",
+            "query": "164.52.11.194",
+            "type": "http",
+            "port": "18080",
+            "response_time": 5.7
         },
         {
             "status": "success",
@@ -36,10 +74,10 @@
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "220.134.5.4",
+            "query": "122.116.180.77",
             "type": "http",
             "port": "8080",
-            "response_time": 12.59
+            "response_time": 6.39
         }
     ]
 }
