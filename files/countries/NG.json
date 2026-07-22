@@ -1,27 +1,8 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 4,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lagos",
-            "zip": "",
-            "lat": 6.5243,
-            "lon": 3.3792,
-            "timezone": "Africa/Lagos",
-            "isp": "Space Exploration Technologies Corporation",
-            "org": "SpaceX Services, Inc",
-            "as": "AS14593 Space Exploration Technologies Corporation",
-            "query": "129.222.204.27",
-            "type": "http",
-            "port": "10000",
-            "response_time": 1.97
-        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -36,10 +17,10 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.208.190",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.18
+            "query": "154.113.172.58",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.98
         },
         {
             "status": "success",
@@ -49,35 +30,16 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.52438,
+            "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "Zeta-WEB",
-            "org": "",
-            "as": "AS328035 Zeta-web Nigeria Limited",
-            "query": "45.222.101.111",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.37
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lagos",
-            "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
-            "timezone": "Africa/Lagos",
-            "isp": "Vodacom Business Nigeria",
-            "org": "Inq. Digital Nigeria",
-            "as": "AS16284 Inq. Digital Nigeria",
-            "query": "155.93.96.210",
-            "type": "http",
-            "port": "8080",
-            "response_time": 13.33
+            "isp": "eStream Networks",
+            "org": "Posh Apartment Adeniyi Jones IKJ",
+            "as": "AS37629 eStream Networks",
+            "query": "196.1.182.130",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 13.79
         }
     ]
 }
