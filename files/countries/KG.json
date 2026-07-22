@@ -1,7 +1,7 @@
 {
     "countryCode": "KG",
     "country": "Kyrgyzstan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "77.235.29.171",
             "type": "http",
             "port": "3128",
-            "response_time": 0.95
+            "response_time": 0.81
+        },
+        {
+            "status": "success",
+            "country": "Kyrgyzstan",
+            "countryCode": "KG",
+            "region": "GB",
+            "regionName": "Bishkek",
+            "city": "Bishkek",
+            "zip": "",
+            "lat": 42.8705,
+            "lon": 74.6006,
+            "timezone": "Asia/Bishkek",
+            "isp": "KRENA - Kyrgyz research and education network association",
+            "org": "KRENA Project",
+            "as": "AS197119 KRENA - Kyrgyz research and education network association",
+            "query": "178.217.168.164",
+            "type": "http",
+            "port": "55443",
+            "response_time": 3.09
         }
     ]
 }
