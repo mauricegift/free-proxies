@@ -1,7 +1,7 @@
 {
     "countryCode": "CY",
     "country": "Cyprus",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "213.7.196.26",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.66
+            "response_time": 4.77
+        },
+        {
+            "status": "success",
+            "country": "Cyprus",
+            "countryCode": "CY",
+            "region": "02",
+            "regionName": "Limassol District",
+            "city": "Limassol",
+            "zip": "",
+            "lat": 34.6874,
+            "lon": 33.0366,
+            "timezone": "Asia/Nicosia",
+            "isp": "CYTANET - Cyprus Telecommunications Authority",
+            "org": "",
+            "as": "AS6866 Cyprus Telecommunications Authority",
+            "query": "87.228.228.101",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 7.72
         }
     ]
 }
