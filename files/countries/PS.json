@@ -1,8 +1,46 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "RBH",
+            "regionName": "Ramallah and al-Bireh Governorate",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9014,
+            "lon": 35.1999,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "PALTEL-FTTH",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "103.231.105.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "DEB",
+            "regionName": "Deir al-Balah Governorate",
+            "city": "Deir el-Balah",
+            "zip": "",
+            "lat": 31.4183,
+            "lon": 34.3493,
+            "timezone": "Asia/Gaza",
+            "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
+            "org": "Abuyousef Co & Partners General Trade",
+            "as": "AS44213 Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade",
+            "query": "87.229.14.128",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.16
+        },
         {
             "status": "success",
             "country": "Palestine",
@@ -20,7 +58,7 @@
             "query": "84.242.58.9",
             "type": "http",
             "port": "8080",
-            "response_time": 1.6
+            "response_time": 6.89
         },
         {
             "status": "success",
@@ -33,13 +71,13 @@
             "lat": 31.5019,
             "lon": 34.4666,
             "timezone": "Asia/Gaza",
-            "isp": "PALTEL (Palestine Telecommunications Co.).",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.244.95.175",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.83
+            "isp": "Mada Al-Arab General Services Company",
+            "org": "Mada Al-Arab General Services Company",
+            "as": "AS51407 Mada Al-Arab General Services Company",
+            "query": "84.242.51.241",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 7.92
         }
     ]
 }
