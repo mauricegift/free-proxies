@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 31.5019,
             "lon": 34.4666,
             "timezone": "Asia/Gaza",
-            "isp": "Mada Al-Arab General Services Company",
-            "org": "Mada Network BB",
-            "as": "AS51407 Mada Al-Arab General Services Company",
-            "query": "84.242.58.9",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.146.119",
             "type": "http",
             "port": "8080",
-            "response_time": 9.84
+            "response_time": 2.56
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "NBS",
+            "regionName": "Nablus Governorate",
+            "city": "Nablus",
+            "zip": "",
+            "lat": 32.2207,
+            "lon": 35.2542,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.69
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BNET network",
+            "org": "",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.26",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.68
         }
     ]
 }
