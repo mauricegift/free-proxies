@@ -1,7 +1,7 @@
 {
     "countryCode": "UZ",
     "country": "Uzbekistan",
-    "count": 5,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "195.158.8.123",
             "type": "http",
             "port": "3128",
-            "response_time": 1.1
+            "response_time": 1.09
         },
         {
             "status": "success",
@@ -37,9 +37,9 @@
             "org": "\"SERVERCORE CIS\" FE LLC",
             "as": "AS43647 SERVERCORE CIS LLC",
             "query": "130.49.171.75",
-            "type": "http",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 1.8
+            "response_time": 5.83
         },
         {
             "status": "success",
@@ -49,54 +49,16 @@
             "regionName": "Tashkent",
             "city": "Tashkent",
             "zip": "",
-            "lat": 41.2615,
-            "lon": 69.2177,
+            "lat": 41.2646,
+            "lon": 69.2163,
             "timezone": "Asia/Tashkent",
-            "isp": "\"Uzbektelekom\" Joint Stock Company",
-            "org": "Uztelecom",
-            "as": "AS8193 Uzbektelekom Joint Stock Company",
-            "query": "83.222.7.47",
+            "isp": "Inform-Service TV Ltd",
+            "org": "ISTV First Network",
+            "as": "AS57016 Inform-Service TV Ltd.",
+            "query": "31.135.214.17",
             "type": "http",
-            "port": "3333",
-            "response_time": 2.69
-        },
-        {
-            "status": "success",
-            "country": "Uzbekistan",
-            "countryCode": "UZ",
-            "region": "TK",
-            "regionName": "Tashkent",
-            "city": "Tashkent",
-            "zip": "",
-            "lat": 41.2615,
-            "lon": 69.2177,
-            "timezone": "Asia/Tashkent",
-            "isp": "\"Uzbektelekom\" Joint Stock Company",
-            "org": "",
-            "as": "AS8193 Uzbektelekom Joint Stock Company",
-            "query": "93.188.85.150",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.22
-        },
-        {
-            "status": "success",
-            "country": "Uzbekistan",
-            "countryCode": "UZ",
-            "region": "TK",
-            "regionName": "Tashkent",
-            "city": "Tashkent",
-            "zip": "",
-            "lat": 41.2615,
-            "lon": 69.2177,
-            "timezone": "Asia/Tashkent",
-            "isp": "\"Uzbektelekom\" Joint Stock Company",
-            "org": "Uztelecom",
-            "as": "AS8193 Uzbektelekom Joint Stock Company",
-            "query": "195.158.10.99",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.08
+            "port": "8026",
+            "response_time": 11.11
         }
     ]
 }
