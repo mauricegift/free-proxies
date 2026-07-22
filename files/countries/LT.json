@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "213.197.136.218",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.3
+            "response_time": 1.34
         },
         {
             "status": "success",
@@ -39,26 +39,45 @@
             "query": "86.100.63.246",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.37
+            "response_time": 2.46
         },
         {
             "status": "success",
             "country": "Lithuania",
             "countryCode": "LT",
-            "region": "TE",
-            "regionName": "Telsiai",
-            "city": "Ma\u017eeikiai",
-            "zip": "89021",
-            "lat": 56.3176,
-            "lon": 22.3463,
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01025",
+            "lat": 54.6876,
+            "lon": 25.2806,
             "timezone": "Europe/Vilnius",
-            "isp": "KLI",
-            "org": "",
-            "as": "AS43627 UAB Besmegeniai",
-            "query": "46.36.65.117",
+            "isp": "AB \"Ogmios Centras\"",
+            "org": "Intesta",
+            "as": "AS44613 Ogmios centras AS number",
+            "query": "93.93.61.153",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.59
+            "response_time": 3.16
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "02011",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "UAB \"Interneto vizija\"",
+            "org": "InternetoVizija",
+            "as": "AS212531 Interneto vizija",
+            "query": "194.135.81.158",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.46
         }
     ]
 }
