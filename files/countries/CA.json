@@ -1,27 +1,8 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 6,
+    "count": 7,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H3H",
-            "lat": 45.5075,
-            "lon": -73.5887,
-            "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "149.56.110.191",
-            "type": "http",
-            "port": "8118",
-            "response_time": 0.6
-        },
         {
             "status": "success",
             "country": "Canada",
@@ -39,26 +20,26 @@
             "query": "167.114.172.208",
             "type": "socks5",
             "port": "1088",
-            "response_time": 1.47
+            "response_time": 0.59
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "H4E",
-            "lat": 45.4554,
-            "lon": -73.5946,
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Milton",
+            "zip": "L9T",
+            "lat": 43.5142,
+            "lon": -79.8845,
             "timezone": "America/Toronto",
-            "isp": "Le Groupe Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "24.37.245.42",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
             "type": "socks4",
-            "port": "51056",
-            "response_time": 1.75
+            "port": "50877",
+            "response_time": 0.67
         },
         {
             "status": "success",
@@ -77,7 +58,26 @@
             "query": "51.222.13.193",
             "type": "socks4",
             "port": "10084",
-            "response_time": 3.77
+            "response_time": 0.89
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
+            "timezone": "America/Toronto",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.251",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.56
         },
         {
             "status": "success",
@@ -86,17 +86,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H3A",
-            "lat": 45.5063,
-            "lon": -73.5794,
+            "zip": "H2V",
+            "lat": 45.518,
+            "lon": -73.6048,
             "timezone": "America/Toronto",
-            "isp": "OVH SAS",
-            "org": "OVH Hosting, Inc.",
-            "as": "AS16276 OVH SAS",
-            "query": "167.114.172.208",
-            "type": "http",
-            "port": "3129",
-            "response_time": 7.2
+            "isp": "Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "45.73.0.118",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.77
         },
         {
             "status": "success",
@@ -112,10 +112,29 @@
             "isp": "Rica Web Services",
             "org": "Rica Web Services",
             "as": "AS26832 Rica Web Services",
-            "query": "38.49.218.166",
+            "query": "38.49.210.79",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 7.6
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M5A",
+            "lat": 43.709,
+            "lon": -79.4057,
+            "timezone": "America/Toronto",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "138.197.148.194",
             "type": "socks4",
             "port": "9050",
-            "response_time": 8.78
+            "response_time": 8.69
         }
     ]
 }
