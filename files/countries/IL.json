@@ -1,8 +1,27 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "M",
+            "regionName": "Central District",
+            "city": "Petah Tikva",
+            "zip": "",
+            "lat": 32.0876,
+            "lon": 34.8739,
+            "timezone": "Asia/Jerusalem",
+            "isp": "BEZEQ-INTERNATIONAL",
+            "org": "",
+            "as": "AS8551 Bezeq International Ltd.",
+            "query": "31.168.143.90",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.7
+        },
         {
             "status": "success",
             "country": "Israel",
@@ -20,7 +39,7 @@
             "query": "83.229.73.113",
             "type": "http",
             "port": "13554",
-            "response_time": 5.89
+            "response_time": 6.85
         }
     ]
 }
