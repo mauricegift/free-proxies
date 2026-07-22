@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "154.18.220.190",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.48
+            "response_time": 2.62
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Global Technology Co",
+            "org": "",
+            "as": "AS133524 Global Technology Co., Ltd.",
+            "query": "185.133.213.86",
+            "type": "http",
+            "port": "8074",
+            "response_time": 3.21
         }
     ]
 }
