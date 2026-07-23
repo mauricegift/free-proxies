@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 8,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "147.45.221.112",
             "type": "socks4",
             "port": "1082",
-            "response_time": 0.14
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Labinot-Fush\u00eb",
-            "zip": "",
-            "lat": 41.1533,
-            "lon": 20.1683,
-            "timezone": "Europe/Tirane",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.221.115",
-            "type": "socks4",
-            "port": "1082",
-            "response_time": 0.17
+            "response_time": 0.22
         },
         {
             "status": "success",
@@ -58,26 +39,45 @@
             "query": "147.45.221.111",
             "type": "socks4",
             "port": "1082",
-            "response_time": 0.19
+            "response_time": 0.22
         },
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Labinot-Fush\u00eb",
             "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
+            "lat": 41.1533,
+            "lon": 20.1683,
             "timezone": "Europe/Tirane",
-            "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone Albania Public",
-            "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.73.120",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "147.45.221.115",
             "type": "socks4",
-            "port": "65530",
-            "response_time": 2.29
+            "port": "1082",
+            "response_time": 0.38
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
+            "zip": "",
+            "lat": 41.1122,
+            "lon": 20.0818,
+            "timezone": "Europe/Tirane",
+            "isp": "ATU",
+            "org": "",
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "185.89.156.2",
+            "type": "http",
+            "port": "44224",
+            "response_time": 5.42
         },
         {
             "status": "success",
@@ -93,10 +93,29 @@
             "isp": "ONE ALBANIA SH.A.",
             "org": "",
             "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.165.246",
+            "query": "79.106.33.26",
             "type": "http",
-            "port": "8989",
-            "response_time": 3.15
+            "port": "8079",
+            "response_time": 6.93
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "1010",
+            "lat": 41.3275,
+            "lon": 19.8187,
+            "timezone": "Europe/Tirane",
+            "isp": "Artmotion Sh.P.K.",
+            "org": "Artmotion",
+            "as": "AS33983 ARTMOTION SH.P.K.",
+            "query": "84.22.48.28",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.71
         },
         {
             "status": "success",
@@ -115,45 +134,7 @@
             "query": "66.186.199.33",
             "type": "http",
             "port": "8080",
-            "response_time": 4.06
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "07",
-            "regionName": "Kuk\u00ebs County",
-            "city": "Krume",
-            "zip": "8602",
-            "lat": 42.1992,
-            "lon": 20.4105,
-            "timezone": "Europe/Tirane",
-            "isp": "shqiponjaisp.al LLC",
-            "org": "",
-            "as": "AS206088 shqiponjaisp.al LLC",
-            "query": "185.196.182.22",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.15
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "03",
-            "regionName": "Elbasan County",
-            "city": "Elbasan",
-            "zip": "",
-            "lat": 41.1122,
-            "lon": 20.0818,
-            "timezone": "Europe/Tirane",
-            "isp": "ATU",
-            "org": "",
-            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
-            "query": "37.26.86.206",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 4.39
+            "response_time": 11.24
         }
     ]
 }
