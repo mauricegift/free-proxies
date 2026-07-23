@@ -1,26 +1,26 @@
 {
     "countryCode": "ZA",
     "country": "South Africa",
-    "count": 7,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
             "country": "South Africa",
             "countryCode": "ZA",
-            "region": "KZN",
-            "regionName": "KwaZulu-Natal",
-            "city": "Durban",
-            "zip": "4001",
-            "lat": -29.8553,
-            "lon": 31.0428,
+            "region": "FS",
+            "regionName": "Free State",
+            "city": "Parys",
+            "zip": "9585",
+            "lat": -26.8986,
+            "lon": 27.449,
             "timezone": "Africa/Johannesburg",
-            "isp": "SEACOM Limited Networks",
-            "org": "",
-            "as": "AS37100 SEACOM Limited",
-            "query": "105.30.248.241",
+            "isp": "Telkom SA Ltd",
+            "org": "SABERTEX",
+            "as": "AS5713 Telkom SA Ltd.",
+            "query": "196.15.250.17",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 1.11
+            "port": "4153",
+            "response_time": 1.02
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "13.246.6.135",
             "type": "http",
             "port": "10216",
-            "response_time": 2.57
+            "response_time": 2.26
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Benoni",
+            "zip": "1501",
+            "lat": -26.1833,
+            "lon": 28.3167,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Session Telecoms(PTY) Ltd",
+            "org": "SessionTelecoms",
+            "as": "AS327907 Session Telecoms(PTY) Ltd",
+            "query": "102.135.142.234",
+            "type": "http",
+            "port": "12354",
+            "response_time": 2.83
         },
         {
             "status": "success",
@@ -52,13 +71,70 @@
             "lat": -33.914,
             "lon": 18.4129,
             "timezone": "Africa/Johannesburg",
-            "isp": "Vox Telecommunications (Pty) Limited",
-            "org": "Vox Telecom (Pty) Ltd",
-            "as": "AS11845 Vox Telecom Ltd",
-            "query": "102.39.133.233",
+            "isp": "SEACOM Limited",
+            "org": "Seacom Assignments",
+            "as": "AS37100 SEACOM Limited",
+            "query": "105.27.180.194",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.02
+            "response_time": 2.91
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "GP",
+            "regionName": "Gauteng",
+            "city": "Pretoria",
+            "zip": "0084",
+            "lat": -25.757,
+            "lon": 28.1443,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Herotel",
+            "org": "",
+            "as": "AS328471 HERO TELECOMS (PTY) LTD",
+            "query": "169.159.128.73",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.03
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "EC",
+            "regionName": "Eastern Cape",
+            "city": "East London",
+            "zip": "5201",
+            "lat": -33.0153,
+            "lon": 27.9116,
+            "timezone": "Africa/Johannesburg",
+            "isp": "Telkom SA Ltd.",
+            "org": "Telkom SA Limited",
+            "as": "AS5713 Telkom SA Ltd.",
+            "query": "165.165.178.142",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.96
+        },
+        {
+            "status": "success",
+            "country": "South Africa",
+            "countryCode": "ZA",
+            "region": "EC",
+            "regionName": "Eastern Cape",
+            "city": "Jeffreys Bay",
+            "zip": "6330",
+            "lat": -33.9065,
+            "lon": 24.8657,
+            "timezone": "Africa/Johannesburg",
+            "isp": "TrueTechnologies",
+            "org": "",
+            "as": "AS329124 True Technologies cc",
+            "query": "102.214.147.147",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.97
         },
         {
             "status": "success",
@@ -77,7 +153,7 @@
             "query": "160.226.220.30",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.34
+            "response_time": 5.08
         },
         {
             "status": "success",
@@ -96,26 +172,7 @@
             "query": "41.162.162.142",
             "type": "socks4",
             "port": "4153",
-            "response_time": 6.2
-        },
-        {
-            "status": "success",
-            "country": "South Africa",
-            "countryCode": "ZA",
-            "region": "LP",
-            "regionName": "Limpopo",
-            "city": "Hoedspruit",
-            "zip": "1371",
-            "lat": -24.3486,
-            "lon": 30.9694,
-            "timezone": "Africa/Johannesburg",
-            "isp": "Herotel",
-            "org": "",
-            "as": "AS328471 HERO TELECOMS (PTY) LTD",
-            "query": "102.66.104.162",
-            "type": "http",
-            "port": "8865",
-            "response_time": 9.68
+            "response_time": 8.28
         },
         {
             "status": "success",
@@ -134,7 +191,7 @@
             "query": "154.126.213.152",
             "type": "http",
             "port": "8070",
-            "response_time": 12.45
+            "response_time": 9.04
         }
     ]
 }
