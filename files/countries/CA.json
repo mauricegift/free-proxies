@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 5,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,55 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H2V",
-            "lat": 45.518,
-            "lon": -73.6048,
+            "zip": "H3H",
+            "lat": 45.5075,
+            "lon": -73.5887,
             "timezone": "America/Toronto",
-            "isp": "Videotron Ltee",
-            "org": "Videotron Ltee",
-            "as": "AS5769 Videotron Ltee",
-            "query": "45.73.0.118",
+            "isp": "Rica Web Services",
+            "org": "Rica Web Services",
+            "as": "AS26832 Rica Web Services",
+            "query": "38.49.210.79",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 0.6
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Milton",
+            "zip": "L9T",
+            "lat": 43.5142,
+            "lon": -79.8845,
+            "timezone": "America/Toronto",
+            "isp": "Ontario Inc.",
+            "org": "UNIXCHOSTING.COM",
+            "as": "AS40028 1651884 Ontario Inc.",
+            "query": "192.158.15.201",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 0.75
+            "port": "50877",
+            "response_time": 0.61
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Beauharnois",
+            "zip": "J6N",
+            "lat": 45.3147,
+            "lon": -73.8785,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "51.222.12.245",
+            "type": "socks4",
+            "port": "10084",
+            "response_time": 0.63
         },
         {
             "status": "success",
@@ -38,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "35.183.127.162",
             "type": "http",
-            "port": "1088",
-            "response_time": 1.49
+            "port": "17059",
+            "response_time": 2.23
         },
         {
             "status": "success",
@@ -57,8 +95,46 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "40.176.175.23",
             "type": "http",
-            "port": "40221",
-            "response_time": 1.75
+            "port": "24886",
+            "response_time": 2.98
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "AB",
+            "regionName": "Alberta",
+            "city": "Calgary",
+            "zip": "T2R",
+            "lat": 51.05,
+            "lon": -114.0879,
+            "timezone": "America/Edmonton",
+            "isp": "Amazon.com, Inc.",
+            "org": "Amazon Technologies Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "40.176.175.23",
+            "type": "http",
+            "port": "3912",
+            "response_time": 3.0
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Beauharnois",
+            "zip": "J6N",
+            "lat": 45.3147,
+            "lon": -73.8785,
+            "timezone": "America/Toronto",
+            "isp": "OVH SAS",
+            "org": "OVH Hosting, Inc.",
+            "as": "AS16276 OVH SAS",
+            "query": "51.222.13.193",
+            "type": "socks4",
+            "port": "10084",
+            "response_time": 3.31
         },
         {
             "status": "success",
@@ -76,8 +152,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "35.183.127.162",
             "type": "http",
-            "port": "8703",
-            "response_time": 1.8
+            "port": "25690",
+            "response_time": 3.74
         },
         {
             "status": "success",
@@ -93,10 +169,29 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ca-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "35.182.12.78",
+            "query": "35.183.127.162",
             "type": "http",
-            "port": "297",
-            "response_time": 2.42
+            "port": "14585",
+            "response_time": 4.32
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "",
+            "lat": 43.6532,
+            "lon": -79.3832,
+            "timezone": "America/Toronto",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "35.183.127.162",
+            "type": "http",
+            "port": "8850",
+            "response_time": 4.41
         }
     ]
 }
