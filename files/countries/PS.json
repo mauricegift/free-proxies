@@ -1,45 +1,26 @@
 {
     "countryCode": "PS",
-    "country": "Palestine",
-    "count": 2,
+    "country": "Palestinian Territory",
+    "count": 1,
     "proxies": [
         {
             "status": "success",
-            "country": "Palestine",
+            "country": "Palestinian Territory",
             "countryCode": "PS",
-            "region": "RBH",
-            "regionName": "Ramallah and al-Bireh Governorate",
+            "region": "",
+            "regionName": "West Bank",
             "city": "Ramallah",
             "zip": "",
-            "lat": 31.9014,
-            "lon": 35.1999,
+            "lat": 31.9038,
+            "lon": 35.2034,
             "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "PALTEL-FTTH",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "103.231.105.158",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.9.9",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 1.57
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "NBS",
-            "regionName": "Nablus Governorate",
-            "city": "Nablus",
-            "zip": "",
-            "lat": 32.2207,
-            "lon": 35.2542,
-            "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.68.210",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 7.83
+            "port": "1080",
+            "response_time": 1.61
         }
     ]
 }
