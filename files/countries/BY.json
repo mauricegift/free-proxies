@@ -1,27 +1,8 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Belarus",
-            "countryCode": "BY",
-            "region": "MI",
-            "regionName": "Minsk",
-            "city": "Urechcha",
-            "zip": "",
-            "lat": 52.9479,
-            "lon": 27.893,
-            "timezone": "Europe/Minsk",
-            "isp": "Support Chain LLC",
-            "org": "HostFly.BY",
-            "as": "AS60591 Support Chain LLC",
-            "query": "178.172.217.166",
-            "type": "http",
-            "port": "10775",
-            "response_time": 0.6
-        },
         {
             "status": "success",
             "country": "Belarus",
@@ -39,7 +20,45 @@
             "query": "86.57.178.182",
             "type": "socks4",
             "port": "4153",
-            "response_time": 4.46
+            "response_time": 0.37
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Urechcha",
+            "zip": "",
+            "lat": 52.9479,
+            "lon": 27.893,
+            "timezone": "Europe/Minsk",
+            "isp": "Support Chain LLC",
+            "org": "HostFly.BY",
+            "as": "AS60591 Support Chain LLC",
+            "query": "178.172.217.166",
+            "type": "http",
+            "port": "10845",
+            "response_time": 0.5
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Urechcha",
+            "zip": "",
+            "lat": 52.9479,
+            "lon": 27.893,
+            "timezone": "Europe/Minsk",
+            "isp": "Support Chain LLC",
+            "org": "HostFly.BY",
+            "as": "AS60591 Support Chain LLC",
+            "query": "178.172.217.166",
+            "type": "http",
+            "port": "10775",
+            "response_time": 2.67
         },
         {
             "status": "success",
@@ -56,9 +75,9 @@
             "org": "Business network LTD",
             "as": "AS12406 Business Network Ltd",
             "query": "80.249.81.179",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 15.1
+            "response_time": 2.97
         }
     ]
 }
