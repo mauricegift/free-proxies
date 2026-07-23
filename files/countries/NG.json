@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Lagos",
+            "city": "Lekki",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.43457,
+            "lon": 3.49209,
             "timezone": "Africa/Lagos",
-            "isp": "Zeta-WEB",
+            "isp": "Information Connectivity Solutions Limited",
             "org": "",
-            "as": "AS328035 Zeta-web Nigeria Limited",
-            "query": "45.222.101.111",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.08
+            "as": "AS37269 Information Connectivity Solutions Limited",
+            "query": "105.235.193.46",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.03
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "154.113.208.190",
             "type": "http",
             "port": "8080",
-            "response_time": 8.24
+            "response_time": 8.25
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "IM",
+            "regionName": "Imo State",
+            "city": "Owerri",
+            "zip": "",
+            "lat": 5.4799,
+            "lon": 7.0271,
+            "timezone": "Africa/Lagos",
+            "isp": "MTN NIGERIA Communication limited",
+            "org": "Mtnn Asaba Region",
+            "as": "AS29465 MTN NIGERIA Communication limited",
+            "query": "102.90.0.146",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.83
         }
     ]
 }
