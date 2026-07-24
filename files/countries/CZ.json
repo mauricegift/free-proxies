@@ -1,27 +1,8 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "71",
-            "regionName": "Olomouc Region",
-            "city": "Kojet\u00edn",
-            "zip": "752 01",
-            "lat": 49.3664,
-            "lon": 17.2996,
-            "timezone": "Europe/Prague",
-            "isp": "LAN servis s.r.o",
-            "org": "LANservis s.r.o",
-            "as": "AS196815 LAN servis s.r.o.",
-            "query": "109.69.211.18",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.92
-        },
         {
             "status": "success",
             "country": "Czechia",
@@ -39,7 +20,45 @@
             "query": "217.197.151.182",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.31
+            "response_time": 1.39
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Blansko",
+            "zip": "678 01",
+            "lat": 49.3661,
+            "lon": 16.6587,
+            "timezone": "Europe/Prague",
+            "isp": "Alf servis, s.r.o",
+            "org": "#1 AlfServis s.r.o",
+            "as": "AS52092 Alf servis, s.r.o.",
+            "query": "46.149.118.34",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.19
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "B\u0159asy",
+            "zip": "338 24",
+            "lat": 49.8364,
+            "lon": 13.57,
+            "timezone": "Europe/Prague",
+            "isp": "T-Mobile Czech Republic a.s.",
+            "org": "T-Mobile Czech Republic",
+            "as": "AS13036 T-Mobile Czech Republic a.s.",
+            "query": "91.139.78.174",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.65
         }
     ]
 }
