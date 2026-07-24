@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "103.1.105.10",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.57
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "175.139.255.25",
             "type": "http",
             "port": "8181",
-            "response_time": 1.78
+            "response_time": 1.83
         },
         {
             "status": "success",
@@ -57,8 +57,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "56.68.116.64",
             "type": "http",
-            "port": "41757",
-            "response_time": 2.3
+            "port": "8079",
+            "response_time": 4.24
         },
         {
             "status": "success",
@@ -67,55 +67,36 @@
             "region": "14",
             "regionName": "Kuala Lumpur",
             "city": "Kuala Lumpur",
-            "zip": "50515",
-            "lat": 3.1408,
-            "lon": 101.6852,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Amazon.com, Inc.",
-            "org": "United States Postal Service",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "56.68.116.64",
-            "type": "http",
-            "port": "9155",
-            "response_time": 2.54
-        },
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "14",
-            "regionName": "Kuala Lumpur",
-            "city": "Kuala Lumpur",
-            "zip": "50515",
-            "lat": 3.1408,
-            "lon": 101.6852,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "Amazon.com, Inc.",
-            "org": "United States Postal Service",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "56.68.116.64",
-            "type": "http",
-            "port": "37317",
-            "response_time": 2.62
-        },
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "10",
-            "regionName": "Selangor",
-            "city": "Petaling Jaya",
-            "zip": "47830",
-            "lat": 3.1845,
-            "lon": 101.5902,
+            "zip": "55100",
+            "lat": 3.139,
+            "lon": 101.72,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
             "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "175.139.210.55",
+            "query": "175.139.200.17",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.94
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "01",
+            "regionName": "Johor",
+            "city": "Iskandar Puteri",
+            "zip": "79150",
+            "lat": 1.5029,
+            "lon": 103.6514,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Unifi Home",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "180.74.108.17",
             "type": "http",
             "port": "8080",
-            "response_time": 8.89
+            "response_time": 12.37
         }
     ]
 }
