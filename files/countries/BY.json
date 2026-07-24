@@ -1,27 +1,8 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Belarus",
-            "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220004",
-            "lat": 53.901,
-            "lon": 27.5707,
-            "timezone": "Europe/Minsk",
-            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-            "org": "PPPoE USERS GRODNO",
-            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-            "query": "86.57.178.182",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 0.37
-        },
         {
             "status": "success",
             "country": "Belarus",
@@ -57,8 +38,46 @@
             "as": "AS60591 Support Chain LLC",
             "query": "178.172.217.166",
             "type": "http",
+            "port": "10742",
+            "response_time": 0.53
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Urechcha",
+            "zip": "",
+            "lat": 52.9479,
+            "lon": 27.893,
+            "timezone": "Europe/Minsk",
+            "isp": "Support Chain LLC",
+            "org": "HostFly.BY",
+            "as": "AS60591 Support Chain LLC",
+            "query": "178.172.217.166",
+            "type": "http",
             "port": "10803",
-            "response_time": 0.52
+            "response_time": 1.66
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Urechcha",
+            "zip": "",
+            "lat": 52.9479,
+            "lon": 27.893,
+            "timezone": "Europe/Minsk",
+            "isp": "Support Chain LLC",
+            "org": "HostFly.BY",
+            "as": "AS60591 Support Chain LLC",
+            "query": "178.172.217.166",
+            "type": "http",
+            "port": "10813",
+            "response_time": 3.48
         }
     ]
 }
