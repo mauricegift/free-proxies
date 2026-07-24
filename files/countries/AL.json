@@ -1,45 +1,26 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
             "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
+            "lat": 41.1122,
+            "lon": 20.0818,
             "timezone": "Europe/Tirane",
-            "isp": "Vodafone Albania Sh.A.",
-            "org": "Enterprise",
-            "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.74.56",
-            "type": "socks4",
-            "port": "65530",
-            "response_time": 1.5
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
-            "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
-            "timezone": "Europe/Tirane",
-            "isp": "Business Custommers",
+            "isp": "ATU",
             "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "77.242.21.133",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.42
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "37.26.86.206",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.4
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "80.78.74.8",
             "type": "socks4",
             "port": "65530",
-            "response_time": 7.44
+            "response_time": 3.35
         },
         {
             "status": "success",
@@ -75,9 +56,47 @@
             "org": "",
             "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
             "query": "37.26.86.206",
+            "type": "http",
+            "port": "47464",
+            "response_time": 5.43
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "1010",
+            "lat": 41.3275,
+            "lon": 19.8187,
+            "timezone": "Europe/Tirane",
+            "isp": "Kamenicanet sh.p.k",
+            "org": "KamenicaNet",
+            "as": "AS210693 Kamenicanet sh.p.k",
+            "query": "188.93.112.240",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.83
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone RESIDENTIAL NAT",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.78.106",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 7.47
+            "port": "65530",
+            "response_time": 7.51
         }
     ]
 }
