@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 5,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "2.56.206.46",
             "type": "http",
             "port": "80",
-            "response_time": 0.86
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
-            "timezone": "Asia/Yerevan",
-            "isp": "ISP SUPPORT LLC",
-            "org": "ISP SUPPORT LLC",
-            "as": "AS201884 ISP SUPPORT LLC",
-            "query": "91.103.248.58",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.01
+            "response_time": 0.95
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "81.16.9.222",
             "type": "socks4",
             "port": "3629",
-            "response_time": 7.91
+            "response_time": 4.18
         },
         {
             "status": "success",
@@ -68,35 +49,16 @@
             "regionName": "Yerevan",
             "city": "Yerevan",
             "zip": "",
-            "lat": 40.1872,
-            "lon": 44.5152,
+            "lat": 40.1814,
+            "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Data Campus Limited",
-            "org": "Data Campus Limited",
-            "as": "AS215929 Data Campus Limited",
-            "query": "45.142.195.110",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.217",
             "type": "socks4",
-            "port": "995",
-            "response_time": 12.91
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1872,
-            "lon": 44.5152,
-            "timezone": "Asia/Yerevan",
-            "isp": "Data Campus Limited",
-            "org": "Data Campus Limited",
-            "as": "AS215929 Data Campus Limited",
-            "query": "45.142.195.110",
-            "type": "socks5",
-            "port": "995",
-            "response_time": 12.91
+            "port": "3629",
+            "response_time": 4.76
         }
     ]
 }
