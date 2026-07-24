@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.65
+            "response_time": 1.92
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Brno-South",
+            "zip": "619 00",
+            "lat": 49.1848,
+            "lon": 16.6221,
+            "timezone": "Europe/Prague",
+            "isp": "PREROV",
+            "org": "",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "217.197.151.182",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.31
         }
     ]
 }
