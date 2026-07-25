@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "85.117.32.166",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.64
+            "response_time": 0.46
         },
         {
             "status": "success",
@@ -29,36 +29,17 @@
             "region": "TB",
             "regionName": "Tbilisi",
             "city": "Tbilisi",
-            "zip": "",
+            "zip": "0186",
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.104",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.58
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.43",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.16
+            "isp": "Netlen Internet Hizmetleri Ltd. Sti.",
+            "org": "Netlen Internet",
+            "as": "AS44620 Netlen Internet Hizmetleri Ltd. Sti.",
+            "query": "217.11.164.84",
+            "type": "socks4",
+            "port": "9080",
+            "response_time": 1.92
         },
         {
             "status": "success",
@@ -77,7 +58,26 @@
             "query": "85.117.61.74",
             "type": "http",
             "port": "8080",
-            "response_time": 3.97
+            "response_time": 4.61
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.147",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.01
         },
         {
             "status": "success",
@@ -96,26 +96,45 @@
             "query": "85.117.61.112",
             "type": "http",
             "port": "8080",
-            "response_time": 7.27
+            "response_time": 8.84
         },
         {
             "status": "success",
             "country": "Georgia",
             "countryCode": "GE",
-            "region": "AJ",
-            "regionName": "Adjara",
-            "city": "Batumi",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
             "zip": "",
-            "lat": 41.6473,
-            "lon": 41.6258,
+            "lat": 41.6959,
+            "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "JSC \"Silknet\"",
-            "org": "UTG MPLS DSL",
-            "as": "AS35805 JSC Silknet",
-            "query": "94.43.164.242",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.82",
             "type": "http",
             "port": "8080",
-            "response_time": 8.35
+            "response_time": 10.84
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Airmax LLC",
+            "org": "",
+            "as": "AS208320 AIRMAX LLC",
+            "query": "45.143.108.114",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.15
         }
     ]
 }
