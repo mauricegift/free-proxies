@@ -1,7 +1,7 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "185.119.90.69",
             "type": "http",
             "port": "8888",
-            "response_time": 0.3
+            "response_time": 0.29
         },
         {
             "status": "success",
@@ -39,45 +39,26 @@
             "query": "109.245.110.145",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.51
+            "response_time": 0.45
         },
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "11",
-            "regionName": "Branicevo",
-            "city": "Po\u017earevac",
+            "region": "13",
+            "regionName": "Pomoravlje",
+            "city": "Jagodina",
             "zip": "",
-            "lat": 44.618,
-            "lon": 21.1723,
+            "lat": 43.9784,
+            "lon": 21.2571,
             "timezone": "Europe/Belgrade",
             "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Skupstina stanara solitera Y",
+            "org": "Zbet",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "91.150.77.58",
+            "query": "178.220.148.82",
             "type": "socks4",
-            "port": "56921",
-            "response_time": 1.36
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "11000",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Client Network",
-            "org": "",
-            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "217.169.223.18",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.44
+            "port": "10801",
+            "response_time": 2.32
         },
         {
             "status": "success",
@@ -96,7 +77,45 @@
             "query": "79.101.45.94",
             "type": "socks4",
             "port": "56921",
-            "response_time": 7.61
+            "response_time": 2.96
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "VO",
+            "regionName": "Vojvodina",
+            "city": "Novi Sad",
+            "zip": "",
+            "lat": 45.25,
+            "lon": 19.8362,
+            "timezone": "Europe/Belgrade",
+            "isp": "Serbia BroadBand",
+            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "query": "82.117.211.42",
+            "type": "http",
+            "port": "8085",
+            "response_time": 6.84
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "11000",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "Orion Telekom Network",
+            "org": "",
+            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+            "query": "95.140.118.34",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.59
         }
     ]
 }
