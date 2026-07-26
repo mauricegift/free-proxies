@@ -1,8 +1,27 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CN",
+            "regionName": "Canary Islands",
+            "city": "Puerto de Santiago",
+            "zip": "38683",
+            "lat": 28.2367,
+            "lon": -16.8433,
+            "timezone": "Atlantic/Canary",
+            "isp": "UNI2-ABI",
+            "org": "",
+            "as": "AS12479 Orange Espagne SA",
+            "query": "90.161.186.147",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.09
+        },
         {
             "status": "success",
             "country": "Spain",
@@ -20,7 +39,45 @@
             "query": "65.20.105.241",
             "type": "socks4",
             "port": "10001",
-            "response_time": 3.4
+            "response_time": 7.34
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "San Fernando de Henares",
+            "zip": "28830",
+            "lat": 40.4239,
+            "lon": -3.53261,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "83.56.15.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.61
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CN",
+            "regionName": "Canary Islands",
+            "city": "Arrecife",
+            "zip": "35500",
+            "lat": 28.9666,
+            "lon": -13.5543,
+            "timezone": "Atlantic/Canary",
+            "isp": "Suballocated IT1",
+            "org": "",
+            "as": "AS207906 VERITA NETWORKS SOCIEDAD LIMITADA",
+            "query": "195.189.190.245",
+            "type": "http",
+            "port": "9090",
+            "response_time": 7.69
         }
     ]
 }
