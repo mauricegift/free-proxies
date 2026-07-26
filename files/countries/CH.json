@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.35
+            "response_time": 1.74
         },
         {
             "status": "success",
@@ -28,18 +28,37 @@
             "countryCode": "CH",
             "region": "ZH",
             "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3769,
+            "lon": 8.54169,
             "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.15",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 2.33
+            "isp": "Grupo Panaglobal 15 S.A",
+            "org": "SwissLayer LLC",
+            "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
+            "query": "185.191.239.97",
+            "type": "http",
+            "port": "1080",
+            "response_time": 1.79
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
+            "timezone": "Europe/Zurich",
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.132",
+            "type": "http",
+            "port": "80",
+            "response_time": 6.54
         }
     ]
 }
