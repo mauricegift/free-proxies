@@ -1,27 +1,8 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "KT",
-            "regionName": "Kotayk",
-            "city": "Arinj",
-            "zip": "",
-            "lat": 40.2337,
-            "lon": 44.5821,
-            "timezone": "Asia/Yerevan",
-            "isp": "Proitlab LLC",
-            "org": "Proitlab LLC",
-            "as": "AS216058 Proitlab LLC",
-            "query": "2.56.206.46",
-            "type": "http",
-            "port": "80",
-            "response_time": 1.6
-        },
         {
             "status": "success",
             "country": "Armenia",
@@ -30,16 +11,16 @@
             "regionName": "Yerevan",
             "city": "Yerevan",
             "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
+            "lat": 40.1872,
+            "lon": 44.5152,
             "timezone": "Asia/Yerevan",
-            "isp": "GNC-Alfa CJSC",
-            "org": "GNC Customers29",
-            "as": "AS49800 GNC-Alfa CJSC",
-            "query": "195.250.92.58",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.87
+            "isp": "Data Campus Limited",
+            "org": "Data Campus Limited",
+            "as": "AS215929 Data Campus Limited",
+            "query": "45.142.195.110",
+            "type": "socks4",
+            "port": "995",
+            "response_time": 1.43
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "130.193.123.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.61
+            "response_time": 1.47
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.217",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Arinj",
+            "zip": "",
+            "lat": 40.2337,
+            "lon": 44.5821,
+            "timezone": "Asia/Yerevan",
+            "isp": "Proitlab LLC",
+            "org": "Proitlab LLC",
+            "as": "AS216058 Proitlab LLC",
+            "query": "2.56.206.46",
+            "type": "http",
+            "port": "80",
+            "response_time": 3.2
         }
     ]
 }
