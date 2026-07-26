@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 7,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "30",
+            "regionName": "Daejeon",
+            "city": "Daejeon",
+            "zip": "34178",
+            "lat": 36.3461,
+            "lon": 127.375,
+            "timezone": "Asia/Seoul",
+            "isp": "LG DACOM KIDC",
+            "org": "plannix",
+            "as": "AS3786 LG DACOM Corporation",
+            "query": "114.108.177.104",
+            "type": "socks4",
+            "port": "60984",
+            "response_time": 1.56
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,26 +39,26 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.49
+            "response_time": 3.0
         },
         {
             "status": "success",
             "country": "South Korea",
             "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Goyang-si",
-            "zip": "103",
-            "lat": 37.6752,
-            "lon": 126.7648,
+            "region": "27",
+            "regionName": "Daegu",
+            "city": "Seo-gu",
+            "zip": "418",
+            "lat": 35.8731,
+            "lon": 128.5435,
             "timezone": "Asia/Seoul",
             "isp": "Korea Telecom",
-            "org": "Kornet",
+            "org": "Korea Telecom",
             "as": "AS4766 Korea Telecom",
-            "query": "175.194.173.105",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.66
+            "query": "221.157.45.249",
+            "type": "socks4",
+            "port": "80",
+            "response_time": 3.58
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "112.221.46.117",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.66
+            "response_time": 4.73
         },
         {
             "status": "success",
@@ -77,64 +96,7 @@
             "query": "152.70.237.238",
             "type": "socks4",
             "port": "3128",
-            "response_time": 1.76
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "152.70.237.238",
-            "type": "socks5",
-            "port": "3128",
-            "response_time": 1.76
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "30",
-            "regionName": "Daejeon",
-            "city": "Daejeon",
-            "zip": "34178",
-            "lat": 36.3461,
-            "lon": 127.375,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "plannix",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "114.108.177.104",
-            "type": "socks4",
-            "port": "60984",
-            "response_time": 2.59
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "",
-            "lat": 37.5665,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-northeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.209.192.128",
-            "type": "http",
-            "port": "3129",
-            "response_time": 8.46
+            "response_time": 9.32
         }
     ]
 }
