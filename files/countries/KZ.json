@@ -1,8 +1,27 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "",
+            "lat": 51.1876,
+            "lon": 71.4491,
+            "timezone": "Asia/Almaty",
+            "isp": "NLS ASTANA LLP",
+            "org": "Beget",
+            "as": "AS205516 NLS ASTANA LLP",
+            "query": "89.169.37.254",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.01
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +39,26 @@
             "query": "2.78.60.10",
             "type": "http",
             "port": "3129",
-            "response_time": 2.03
+            "response_time": 1.35
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "23",
+            "regionName": "Atyrau Oblisi",
+            "city": "Atyrau",
+            "zip": "060011",
+            "lat": 47.1169,
+            "lon": 51.8853,
+            "timezone": "Asia/Atyrau",
+            "isp": "JSC \"KazTransCom\"",
+            "org": "Kozhan LLP",
+            "as": "AS35104 Jusan Mobile JSC",
+            "query": "93.185.68.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.13
         }
     ]
 }
