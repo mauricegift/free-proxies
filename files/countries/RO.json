@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "IF",
+            "regionName": "Ilfov",
+            "city": "Pantelimon",
+            "zip": "077145",
+            "lat": 44.4474,
+            "lon": 26.2044,
+            "timezone": "Europe/Bucharest",
+            "isp": "Orange Romania Network",
+            "org": "Orange Romania S.A",
+            "as": "AS8953 Orange Romania S.A.",
+            "query": "109.166.207.162",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 0.43
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -17,10 +36,10 @@
             "isp": "STYLISH BY A&L SRL",
             "org": "SC Urban Network Solutions SRL",
             "as": "AS39347 STYLISH BY A&L SRL",
-            "query": "85.122.120.119",
+            "query": "85.122.120.46",
             "type": "socks4",
-            "port": "30016",
-            "response_time": 11.14
+            "port": "30000",
+            "response_time": 2.42
         }
     ]
 }
