@@ -1,27 +1,8 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "DEB",
-            "regionName": "Deir al-Balah Governorate",
-            "city": "Deir el-Balah",
-            "zip": "",
-            "lat": 31.4183,
-            "lon": 34.3493,
-            "timezone": "Asia/Gaza",
-            "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
-            "org": "Abuyousef Co & Partners General Trade",
-            "as": "AS44213 Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade",
-            "query": "87.229.14.128",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.07
-        },
         {
             "status": "success",
             "country": "Palestine",
@@ -34,12 +15,12 @@
             "lon": 34.4666,
             "timezone": "Asia/Gaza",
             "isp": "Mada Al-Arab General Services Company",
-            "org": "Mada Network BB",
+            "org": "Mada Al-Arab General Services Company",
             "as": "AS51407 Mada Al-Arab General Services Company",
-            "query": "84.242.58.9",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.63
+            "query": "84.242.51.241",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.58
         }
     ]
 }
