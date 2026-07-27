@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Phnom Penh Cable TV",
             "org": "Phnom Penh Cable TV",
             "as": "AS38286 PPCTV broadband service is the first cable and DSL internet in Cambodia",
-            "query": "122.252.183.22",
+            "query": "122.252.179.66",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 1.18
+            "port": "5678",
+            "response_time": 1.13
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "103.197.242.106",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.32
+            "response_time": 4.34
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "36.37.251.137",
             "type": "http",
             "port": "8080",
-            "response_time": 5.96
+            "response_time": 8.8
         },
         {
             "status": "success",
@@ -71,32 +71,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "CityLink Corporation, LTD",
-            "org": "CityLink Corporation, LTD",
-            "as": "AS24441 CityLink Corporation, LTD",
-            "query": "202.84.76.190",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 6.24
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "12",
-            "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
-            "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "Phnom Penh Cable TV",
-            "org": "Phnom Penh Cable TV",
-            "as": "AS38286 PPCTV broadband service is the first cable and DSL internet in Cambodia",
-            "query": "122.252.179.66",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 6.35
+            "isp": "WiCAM Corporation Ltd",
+            "org": "WiCAM Corporation, LTD",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "119.15.84.74",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.17
         }
     ]
 }
