@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.52
+            "response_time": 5.46
         },
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
             "region": "9",
-            "regionName": "State of Vienna",
+            "regionName": "Vienna",
             "city": "Vienna",
-            "zip": "1004",
-            "lat": 48.2049,
-            "lon": 16.3662,
+            "zip": "1010",
+            "lat": 48.2082,
+            "lon": 16.3739,
             "timezone": "Europe/Vienna",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.238.191",
-            "type": "http",
-            "port": "443",
-            "response_time": 10.53
+            "isp": "xorek.cloud International LTD",
+            "org": "xorek.cloud International LTD",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "212.113.106.198",
+            "type": "socks4",
+            "port": "987",
+            "response_time": 7.27
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "5",
+            "regionName": "State of Salzburg",
+            "city": "Zell am See",
+            "zip": "5700",
+            "lat": 47.3286,
+            "lon": 12.798,
+            "timezone": "Europe/Vienna",
+            "isp": "SALZBURG-AG",
+            "org": "Salzburg AG",
+            "as": "AS8445 SALZBURG AG fur Energie, Verkehr und Telekommunikation",
+            "query": "83.215.25.66",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 12.2
         }
     ]
 }
