@@ -1,27 +1,8 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 3,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Klatovy",
-            "zip": "339 01",
-            "lat": 49.398,
-            "lon": 13.2893,
-            "timezone": "Europe/Prague",
-            "isp": "Airweb",
-            "org": "",
-            "as": "AS210712 ISP Alliance a.s.",
-            "query": "185.40.80.143",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 3.34
-        },
         {
             "status": "success",
             "country": "Czechia",
@@ -39,7 +20,64 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.71
+            "response_time": 0.35
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "42",
+            "regionName": "\u00dast\u00ed nad Labem Region",
+            "city": "Kryry",
+            "zip": "439 81",
+            "lat": 50.1769,
+            "lon": 13.4222,
+            "timezone": "Europe/Prague",
+            "isp": "ISP Alliance a.s.",
+            "org": "GRAPE SC",
+            "as": "AS47232 ISP Alliance a.s.",
+            "query": "78.111.112.118",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.46
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Slavkov u Brna",
+            "zip": "684 01",
+            "lat": 49.1474,
+            "lon": 16.8831,
+            "timezone": "Europe/Prague",
+            "isp": "GIN's network",
+            "org": "",
+            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
+            "query": "85.132.139.45",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.26
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Pilsen",
+            "zip": "301 00",
+            "lat": 49.7016,
+            "lon": 13.3507,
+            "timezone": "Europe/Prague",
+            "isp": "Telefonica O2 Czech Republic, a.s.",
+            "org": "CZ.CZNET",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.181.120.18",
+            "type": "http",
+            "port": "8082",
+            "response_time": 1.46
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "185.100.196.188",
             "type": "http",
             "port": "8080",
-            "response_time": 5.79
+            "response_time": 2.5
         }
     ]
 }
