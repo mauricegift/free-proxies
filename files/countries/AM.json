@@ -1,27 +1,8 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
-            "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
-            "timezone": "Asia/Yerevan",
-            "isp": "Ucom CJSC",
-            "org": "Ucom",
-            "as": "AS44395 Ucom CJSC",
-            "query": "81.16.9.222",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 7.67
-        },
         {
             "status": "success",
             "country": "Armenia",
@@ -39,7 +20,26 @@
             "query": "2.56.206.46",
             "type": "http",
             "port": "80",
-            "response_time": 9.47
+            "response_time": 0.86
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.193",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 5.59
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "91.103.248.58",
             "type": "http",
             "port": "3128",
-            "response_time": 11.17
+            "response_time": 12.97
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GLB Bulut Teknolojisi Limited Sirketi",
+            "org": "GLB Bulut Teknolojisi Limited Sirketi",
+            "as": "AS48207 GLB Bulut Teknolojisi Limited Sirketi",
+            "query": "170.168.102.55",
+            "type": "http",
+            "port": "3128",
+            "response_time": 13.69
         }
     ]
 }
