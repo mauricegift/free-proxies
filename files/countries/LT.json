@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "213.197.136.218",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.26
+            "response_time": 0.28
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "93.93.61.153",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.6
+            "response_time": 2.48
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "KL",
+            "regionName": "Klaip\u0117da County",
+            "city": "Klaip\u0117da",
+            "zip": "91001",
+            "lat": 55.7158,
+            "lon": 21.111,
+            "timezone": "Europe/Vilnius",
+            "isp": "Balticum TV network",
+            "org": "",
+            "as": "AS39007 UAB \"Balticum TV\"",
+            "query": "86.100.63.246",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.49
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "09202",
+            "lat": 54.695,
+            "lon": 25.292,
+            "timezone": "Europe/Vilnius",
+            "isp": "UAB Delska Lithuania",
+            "org": "UAB Rakrejus",
+            "as": "AS62282 UAB Rakrejus",
+            "query": "185.193.25.206",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 19.11
         }
     ]
 }
