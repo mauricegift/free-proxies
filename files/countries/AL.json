@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Global Connectivity Solutions LLP",
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.221.112",
+            "query": "147.45.221.111",
             "type": "socks4",
             "port": "1082",
-            "response_time": 0.15
+            "response_time": 0.18
         },
         {
             "status": "success",
@@ -34,12 +34,69 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone Albania Public",
+            "org": "Vodafone RESIDENTIAL NAT",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.73.120",
+            "query": "80.78.78.106",
             "type": "socks4",
             "port": "65530",
-            "response_time": 1.33
+            "response_time": 0.28
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "02",
+            "regionName": "Durr\u00ebs County",
+            "city": "Rrashbull",
+            "zip": "",
+            "lat": 41.3228,
+            "lon": 19.5103,
+            "timezone": "Europe/Tirane",
+            "isp": "Lightnet Sh.p.k.",
+            "org": "Lightnet Sh.p.k",
+            "as": "AS212637 LightNet Sh.p.k.",
+            "query": "185.190.90.2",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.3
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Sh.A",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "66.186.199.33",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.43
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.33.26",
+            "type": "http",
+            "port": "8079",
+            "response_time": 5.67
         },
         {
             "status": "success",
@@ -52,32 +109,13 @@
             "lat": 41.3275,
             "lon": 19.8187,
             "timezone": "Europe/Tirane",
-            "isp": "Kamenicanet sh.p.k",
-            "org": "KamenicaNet",
-            "as": "AS210693 Kamenicanet sh.p.k",
-            "query": "188.93.112.240",
+            "isp": "Artmotion Sh.P.K.",
+            "org": "Artmotion",
+            "as": "AS33983 ARTMOTION SH.P.K.",
+            "query": "84.22.48.28",
             "type": "http",
             "port": "8080",
-            "response_time": 4.19
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "07",
-            "regionName": "Kuk\u00ebs County",
-            "city": "Krume",
-            "zip": "8602",
-            "lat": 42.1992,
-            "lon": 20.4105,
-            "timezone": "Europe/Tirane",
-            "isp": "shqiponjaisp.al LLC",
-            "org": "",
-            "as": "AS206088 shqiponjaisp.al LLC",
-            "query": "185.196.182.22",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.76
+            "response_time": 7.5
         }
     ]
 }
