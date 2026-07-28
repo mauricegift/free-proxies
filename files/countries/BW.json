@@ -1,8 +1,27 @@
 {
     "countryCode": "BW",
     "country": "Botswana",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Botswana",
+            "countryCode": "BW",
+            "region": "GA",
+            "regionName": "Gaborone",
+            "city": "Gaborone",
+            "zip": "",
+            "lat": -24.6437,
+            "lon": 25.9112,
+            "timezone": "Africa/Gaborone",
+            "isp": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "org": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "as": "AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+            "query": "129.205.244.185",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.08
+        },
         {
             "status": "success",
             "country": "Botswana",
@@ -20,7 +39,7 @@
             "query": "129.205.244.158",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.08
+            "response_time": 2.43
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "83.143.29.225",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.31
+            "response_time": 4.15
         },
         {
             "status": "success",
@@ -49,16 +68,16 @@
             "regionName": "Gaborone",
             "city": "Gaborone",
             "zip": "",
-            "lat": -24.6437,
-            "lon": 25.9112,
+            "lat": -24.6491,
+            "lon": 25.9069,
             "timezone": "Africa/Gaborone",
             "isp": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
-            "org": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
-            "as": "AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
-            "query": "129.205.198.122",
+            "org": "Vbn Core",
+            "as": "AS328459 VBN Services",
+            "query": "83.143.24.66",
             "type": "http",
-            "port": "8080",
-            "response_time": 2.96
+            "port": "80",
+            "response_time": 9.78
         }
     ]
 }
