@@ -1,27 +1,8 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 7,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Goulburn",
-            "zip": "2580",
-            "lat": -34.7591,
-            "lon": 149.7225,
-            "timezone": "Australia/Sydney",
-            "isp": "YLess4U Pty Ltd",
-            "org": "RemoteISP Pty Ltd",
-            "as": "AS45447 YLess4U Regional Broadband",
-            "query": "103.131.232.9",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.31
-        },
         {
             "status": "success",
             "country": "Australia",
@@ -36,10 +17,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.135.215.62",
+            "query": "54.253.183.151",
             "type": "http",
-            "port": "9254",
-            "response_time": 3.49
+            "port": "17147",
+            "response_time": 4.66
         },
         {
             "status": "success",
@@ -52,13 +33,32 @@
             "lat": -37.8159,
             "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "Hewlett Packard Enterprise Company",
+            "isp": "Amazon.com",
+            "org": "Amazon Data Services Australia",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.143.154",
+            "query": "16.51.148.102",
             "type": "http",
-            "port": "57738",
-            "response_time": 3.63
+            "port": "15765",
+            "response_time": 4.8
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4006",
+            "lat": -27.4417,
+            "lon": 153.0197,
+            "timezone": "Australia/Brisbane",
+            "isp": "Aussie Fibre Pty Ltd",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "180.181.215.232",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.21
         },
         {
             "status": "success",
@@ -76,27 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "15.135.215.62",
             "type": "http",
-            "port": "48356",
-            "response_time": 4.26
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.253.167.61",
-            "type": "http",
-            "port": "50865",
-            "response_time": 5.96
+            "port": "8382",
+            "response_time": 5.95
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "103.18.205.162",
             "type": "http",
             "port": "8080",
-            "response_time": 9.9
+            "response_time": 8.57
         },
         {
             "status": "success",
@@ -134,7 +115,7 @@
             "query": "168.138.9.147",
             "type": "socks4",
             "port": "1080",
-            "response_time": 14.01
+            "response_time": 9.84
         }
     ]
 }
