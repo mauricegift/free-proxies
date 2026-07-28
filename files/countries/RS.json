@@ -1,7 +1,7 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "109.245.110.145",
             "type": "socks4",
             "port": "4145",
-            "response_time": 7.49
+            "response_time": 0.27
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "Orion Telekom Network",
             "org": "",
             "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.113.74",
-            "type": "http",
-            "port": "6666",
-            "response_time": 8.06
+            "query": "95.140.118.34",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.39
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "11",
+            "regionName": "Branicevo",
+            "city": "Po\u017earevac",
+            "zip": "",
+            "lat": 44.618,
+            "lon": 21.1723,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Skupstina stanara solitera Y",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "91.150.77.58",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 4.37
         }
     ]
 }
