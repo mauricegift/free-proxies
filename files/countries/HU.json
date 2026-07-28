@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "HU",
             "region": "HB",
             "regionName": "Hajd\u00fa-Bihar",
-            "city": "Hajd\u00fan\u00e1n\u00e1s",
-            "zip": "4080",
-            "lat": 47.8541,
-            "lon": 21.4404,
+            "city": "F\u00f6ldes",
+            "zip": "4177",
+            "lat": 47.2987,
+            "lon": 21.3613,
             "timezone": "Europe/Budapest",
             "isp": "Magyar Telekom",
             "org": "",
             "as": "AS5483 Magyar Telekom Plc.",
-            "query": "84.2.239.42",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 0.38
+            "query": "84.0.157.39",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.3
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "KE",
+            "regionName": "Kom\u00e1rom-Esztergom",
+            "city": "Esztergom",
+            "zip": "2500",
+            "lat": 47.7928,
+            "lon": 18.7415,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom plc.",
+            "org": "Juropnet",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "79.121.102.227",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.31
         }
     ]
 }
