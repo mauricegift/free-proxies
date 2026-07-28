@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.109.106",
             "type": "http",
-            "port": "18080",
-            "response_time": 0.57
+            "port": "33209",
+            "response_time": 3.63
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "5.83.244.1",
             "type": "http",
             "port": "8080",
-            "response_time": 7.73
+            "response_time": 3.87
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "D02",
+            "lat": 53.3498,
+            "lon": -6.26031,
+            "timezone": "Europe/Dublin",
+            "isp": "BellSouth.net Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "108.131.109.106",
+            "type": "http",
+            "port": "18080",
+            "response_time": 4.14
         }
     ]
 }
