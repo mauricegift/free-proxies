@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "IL",
             "region": "TA",
             "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
+            "city": "Ramat Gan",
             "zip": "",
-            "lat": 32.0804,
-            "lon": 34.7807,
+            "lat": 32.0821,
+            "lon": 34.8122,
             "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.85.44.149",
+            "isp": "013 Netvision Network",
+            "org": "",
+            "as": "AS1680 Cellcom Fixed Line Communication L.P",
+            "query": "62.90.70.144",
             "type": "http",
-            "port": "36287",
-            "response_time": 1.83
+            "port": "7443",
+            "response_time": 0.48
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "M",
+            "regionName": "Central District",
+            "city": "Petah Tikva",
+            "zip": "",
+            "lat": 32.0876,
+            "lon": 34.8739,
+            "timezone": "Asia/Jerusalem",
+            "isp": "BEZEQ-INTERNATIONAL",
+            "org": "",
+            "as": "AS8551 Bezeq International Ltd.",
+            "query": "31.168.143.90",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.69
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "A100 ROW Inc",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.16.4.39",
+            "query": "51.17.154.141",
             "type": "http",
-            "port": "55083",
-            "response_time": 2.19
+            "port": "2534",
+            "response_time": 2.16
         }
     ]
 }
