@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "PV",
+            "regionName": "Pre\u0161ov Region",
+            "city": "Giraltovce",
+            "zip": "087 01",
+            "lat": 49.1147,
+            "lon": 21.5131,
+            "timezone": "Europe/Bratislava",
+            "isp": "DELTA ONLINE spol. s r.o.",
+            "org": "Probasec-Net s.r.o",
+            "as": "AS34820 DELTA ONLINE spol. s r.o.",
+            "query": "185.225.204.5",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.34
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -17,10 +36,10 @@
             "isp": "AIRNET s.r.o.",
             "org": "Airnet",
             "as": "AS201603 AIRNET s.r.o.",
-            "query": "91.217.33.161",
+            "query": "91.217.33.137",
             "type": "http",
             "port": "8080",
-            "response_time": 9.37
+            "response_time": 3.9
         }
     ]
 }
