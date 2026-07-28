@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.32
+            "response_time": 1.38
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "186 00",
+            "lat": 50.0985,
+            "lon": 14.4524,
+            "timezone": "Europe/Prague",
+            "isp": "Telefonica O2 Czech Republic, a.s.",
+            "org": "CZ.CZNET",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.178.216.215",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.36
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "78.111.112.118",
             "type": "socks4",
             "port": "4145",
-            "response_time": 4.37
+            "response_time": 5.41
         },
         {
             "status": "success",
@@ -48,55 +67,17 @@
             "region": "10",
             "regionName": "Prague",
             "city": "Prague",
-            "zip": "150 00",
-            "lat": 50.0687,
-            "lon": 14.3947,
+            "zip": "100 00",
+            "lat": 50.0802,
+            "lon": 14.4652,
             "timezone": "Europe/Prague",
-            "isp": "T-Mobile Czech Republic a.s.",
-            "org": "Tmcz Gpon",
-            "as": "AS13036 T-Mobile Czech Republic a.s.",
-            "query": "193.179.52.197",
+            "isp": "pragmatel s.r.o.",
+            "org": "Interconnect",
+            "as": "AS200635 pragmatel s.r.o.",
+            "query": "185.100.196.188",
             "type": "http",
-            "port": "3128",
-            "response_time": 7.28
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "41",
-            "regionName": "Carlsbad Region",
-            "city": "Karlovy Vary",
-            "zip": "360 01",
-            "lat": 50.2336,
-            "lon": 12.8695,
-            "timezone": "Europe/Prague",
-            "isp": "ISP Alliance a.s.",
-            "org": "Netline",
-            "as": "AS201476 ISP Alliance a.s.",
-            "query": "185.73.103.23",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.48
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "B\u0159asy",
-            "zip": "338 24",
-            "lat": 49.8364,
-            "lon": 13.57,
-            "timezone": "Europe/Prague",
-            "isp": "T-Mobile Czech Republic a.s.",
-            "org": "T-Mobile Czech Republic",
-            "as": "AS13036 T-Mobile Czech Republic a.s.",
-            "query": "91.139.78.174",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.9
+            "port": "8080",
+            "response_time": 7.56
         }
     ]
 }
