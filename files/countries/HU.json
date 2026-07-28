@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "BU",
-            "regionName": "Budapest",
-            "city": "Budapest",
-            "zip": "1118",
-            "lat": 47.5,
-            "lon": 19.0412,
-            "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
-            "org": "Digi - Invitel",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "87.97.5.248",
-            "type": "http",
-            "port": "18080",
-            "response_time": 0.2
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,26 +20,7 @@
             "query": "81.183.231.55",
             "type": "socks4",
             "port": "80",
-            "response_time": 0.28
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "HB",
-            "regionName": "Hajd\u00fa-Bihar",
-            "city": "Debrecen",
-            "zip": "4033",
-            "lat": 47.5232,
-            "lon": 21.6334,
-            "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Portal",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "91.147.235.162",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 0.94
+            "response_time": 0.29
         },
         {
             "status": "success",
@@ -77,26 +39,7 @@
             "query": "84.2.239.42",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.6
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "PE",
-            "regionName": "Pest County",
-            "city": "\u00c9rd",
-            "zip": "2030",
-            "lat": 47.3949,
-            "lon": 18.9136,
-            "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-            "org": "Digi",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "84.236.15.74",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.33
+            "response_time": 3.43
         },
         {
             "status": "success",
@@ -112,10 +55,48 @@
             "isp": "One Hungary Ltd.",
             "org": "One Hungary Ltd",
             "as": "AS21334 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "89.135.59.71",
+            "query": "89.135.59.77",
             "type": "http",
             "port": "8090",
-            "response_time": 5.88
+            "response_time": 3.73
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1118",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
+            "org": "Digi - Invitel",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "87.97.5.248",
+            "type": "http",
+            "port": "18080",
+            "response_time": 7.19
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1112",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "htc",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "31.46.33.59",
+            "type": "http",
+            "port": "53281",
+            "response_time": 17.65
         }
     ]
 }
