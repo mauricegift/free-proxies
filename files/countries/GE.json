@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "85.117.32.166",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.39
+            "response_time": 1.44
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Airmax LLC",
             "org": "",
             "as": "AS208320 AIRMAX LLC",
-            "query": "45.143.108.118",
+            "query": "45.143.108.10",
             "type": "http",
             "port": "8080",
-            "response_time": 0.69
+            "response_time": 3.16
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "85.117.56.82",
             "type": "http",
             "port": "8080",
-            "response_time": 1.5
+            "response_time": 3.46
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Airmax LLC",
+            "org": "",
+            "as": "AS208320 AIRMAX LLC",
+            "query": "45.143.108.11",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.17
         },
         {
             "status": "success",
@@ -74,10 +93,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.62.70",
+            "query": "85.117.56.147",
             "type": "http",
             "port": "8080",
-            "response_time": 2.1
+            "response_time": 4.29
         },
         {
             "status": "success",
@@ -93,10 +112,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.43",
+            "query": "85.117.61.110",
             "type": "http",
             "port": "8080",
-            "response_time": 4.45
+            "response_time": 5.34
         },
         {
             "status": "success",
@@ -109,13 +128,13 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Multisoft LLC",
-            "org": "Multisoft",
-            "as": "AS209012 MULTISOFT LLC",
-            "query": "2.57.218.131",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.85",
             "type": "http",
             "port": "8080",
-            "response_time": 11.52
+            "response_time": 5.61
         }
     ]
 }
