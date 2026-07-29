@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 5,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "185.190.154.121",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.41
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -39,7 +20,7 @@
             "query": "79.101.45.94",
             "type": "socks4",
             "port": "56921",
-            "response_time": 1.3
+            "response_time": 0.28
         },
         {
             "status": "success",
@@ -48,55 +29,17 @@
             "region": "00",
             "regionName": "Belgrade",
             "city": "Belgrade",
-            "zip": "11000",
+            "zip": "",
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Network",
+            "isp": "TELEKOM-SRBIJA",
             "org": "",
-            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.118.34",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.71
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Smederevo",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "195.178.56.32",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.6
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "VO",
-            "regionName": "Vojvodina",
-            "city": "Novi Sad",
-            "zip": "",
-            "lat": 45.25,
-            "lon": 19.8362,
-            "timezone": "Europe/Belgrade",
-            "isp": "Serbia BroadBand",
-            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-            "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-            "query": "82.117.211.42",
-            "type": "http",
-            "port": "8085",
-            "response_time": 8.73
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.44
         }
     ]
 }
