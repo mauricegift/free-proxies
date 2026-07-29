@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,31 @@
             "lon": -0.8777,
             "timezone": "Europe/Madrid",
             "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
+            "org": "Amazon ZAZ",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.92.173.133",
+            "query": "51.49.153.183",
             "type": "http",
-            "port": "27305",
-            "response_time": 1.12
+            "port": "12929",
+            "response_time": 1.1
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Marbella",
+            "zip": "29600",
+            "lat": 36.5149,
+            "lon": -4.8838,
+            "timezone": "Europe/Madrid",
+            "isp": "AVATEL TELECOM, SA",
+            "org": "AVATEL TELECOM, SA",
+            "as": "AS200845 AVATEL TELECOM, SA",
+            "query": "185.202.165.1",
+            "type": "http",
+            "port": "53281",
+            "response_time": 2.83
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "83.56.15.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.47
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AR",
-            "regionName": "Aragon",
-            "city": "Zaragoza",
-            "zip": "50090",
-            "lat": 41.6579,
-            "lon": -0.8777,
-            "timezone": "Europe/Madrid",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.92.173.133",
-            "type": "http",
-            "port": "15770",
-            "response_time": 1.69
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "CT",
-            "regionName": "Catalonia",
-            "city": "Vilassar de Dalt",
-            "zip": "08339",
-            "lat": 41.5148,
-            "lon": 2.3724,
-            "timezone": "Europe/Madrid",
-            "isp": "RIMA (Red IP Multi Acceso)",
-            "org": "",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "79.159.164.214",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.39
+            "response_time": 5.58
         },
         {
             "status": "success",
@@ -86,17 +67,17 @@
             "region": "MD",
             "regionName": "Madrid",
             "city": "Madrid",
-            "zip": "28022",
-            "lat": 40.4505,
-            "lon": -3.5926,
+            "zip": "28017",
+            "lat": 40.4235,
+            "lon": -3.6463,
             "timezone": "Europe/Madrid",
-            "isp": "Citelia s.a.",
-            "org": "Fibercli",
-            "as": "AS206276 Citelia s.a.",
-            "query": "193.38.224.169",
+            "isp": "RIMA (Red IP Multi Acceso)",
+            "org": "",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "2.139.38.192",
             "type": "http",
-            "port": "8081",
-            "response_time": 3.75
+            "port": "3128",
+            "response_time": 5.95
         }
     ]
 }
