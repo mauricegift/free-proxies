@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Athens",
+            "zip": "",
+            "lat": 37.9842,
+            "lon": 23.7353,
+            "timezone": "Europe/Athens",
+            "isp": "FORTHnet SA address",
+            "org": "",
+            "as": "AS1241 Forthnet",
+            "query": "46.246.161.5",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.78
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,7 +39,7 @@
             "query": "94.68.245.147",
             "type": "http",
             "port": "8080",
-            "response_time": 7.52
+            "response_time": 9.14
         }
     ]
 }
