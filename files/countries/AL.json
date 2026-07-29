@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,7 +17,7 @@
             "isp": "Global Connectivity Solutions LLP",
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "78.159.131.103",
+            "query": "147.45.221.112",
             "type": "socks4",
             "port": "1082",
             "response_time": 0.13
@@ -36,10 +36,10 @@
             "isp": "Global Connectivity Solutions LLP",
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.221.111",
+            "query": "78.159.131.103",
             "type": "socks4",
             "port": "1082",
-            "response_time": 0.14
+            "response_time": 0.15
         },
         {
             "status": "success",
@@ -52,13 +52,51 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Business Custommers",
-            "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "77.242.21.133",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Enterprise",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "80.78.74.8",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 0.27
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Sh.A",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "66.186.199.33",
             "type": "http",
             "port": "8080",
-            "response_time": 5.15
+            "response_time": 1.65
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "1010",
+            "lat": 41.3275,
+            "lon": 19.8187,
+            "timezone": "Europe/Tirane",
+            "isp": "Kamenicanet sh.p.k",
+            "org": "KamenicaNet",
+            "as": "AS210693 Kamenicanet sh.p.k",
+            "query": "188.93.112.240",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.31
         }
     ]
 }
