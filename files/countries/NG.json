@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 5,
+    "count": 9,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Eti-Osa",
+            "zip": "",
+            "lat": 6.53094,
+            "lon": 3.32648,
+            "timezone": "Africa/Lagos",
+            "isp": "Information Connectivity Solutions Limited",
+            "org": "",
+            "as": "AS37269 Information Connectivity Solutions Limited",
+            "query": "105.235.201.234",
+            "type": "socks4",
+            "port": "32639",
+            "response_time": 1.08
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,7 @@
             "query": "105.235.193.46",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.64
+            "response_time": 1.9
         },
         {
             "status": "success",
@@ -30,16 +49,16 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.52438,
+            "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "Mainone Cable Company",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "197.253.23.4",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.4
+            "isp": "Accelon",
+            "org": "Krestal Laurel",
+            "as": "AS30988 IS InternetSolutions Limited",
+            "query": "197.156.240.66",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.13
         },
         {
             "status": "success",
@@ -58,26 +77,45 @@
             "query": "102.36.231.77",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.26
+            "response_time": 5.18
         },
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
-            "region": "OG",
-            "regionName": "Ogun State",
-            "city": "Abeokuta",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
             "zip": "",
-            "lat": 7.1472,
-            "lon": 3.3505,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "General Telecommunication Networks Limited",
-            "org": "General Telecommunication Networks (NIG) Limited",
-            "as": "AS37605 General Telecommunication Networks (NIG) Limited",
-            "query": "41.242.72.68",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "41.75.84.86",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 6.02
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Vodacom Business Nigeria",
+            "org": "Inq. Digital Nigeria",
+            "as": "AS16284 Inq. Digital Nigeria",
+            "query": "155.93.96.210",
             "type": "http",
             "port": "8080",
-            "response_time": 7.07
+            "response_time": 8.43
         },
         {
             "status": "success",
@@ -96,7 +134,45 @@
             "query": "41.203.83.242",
             "type": "http",
             "port": "8080",
-            "response_time": 12.57
+            "response_time": 9.22
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.52438,
+            "lon": 3.37921,
+            "timezone": "Africa/Lagos",
+            "isp": "eStream Networks",
+            "org": "Posh Apartment Adeniyi Jones IKJ",
+            "as": "AS37629 eStream Networks",
+            "query": "196.1.182.130",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.34
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Zeta-WEB",
+            "org": "",
+            "as": "AS328035 Zeta-web Nigeria Limited",
+            "query": "45.222.101.111",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.63
         }
     ]
 }
