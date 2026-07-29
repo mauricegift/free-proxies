@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "Mada Al-Arab General Services Company",
+            "org": "Mada Al-Arab General Services Company",
+            "as": "AS51407 Mada Al-Arab General Services Company",
+            "query": "84.242.51.241",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.77
+        },
         {
             "status": "success",
             "country": "Palestine",
@@ -20,7 +39,45 @@
             "query": "213.244.95.175",
             "type": "http",
             "port": "8080",
-            "response_time": 4.0
+            "response_time": 3.44
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Iktaba",
+            "zip": "",
+            "lat": 32.3266,
+            "lon": 35.0526,
+            "timezone": "Asia/Hebron",
+            "isp": "Gemzo information technology Private Joint-Stock company",
+            "org": "Gemzo information technology Private Joint-Stock company",
+            "as": "AS51336 Gemzo information technology Private Joint-Stock company",
+            "query": "178.214.80.27",
+            "type": "http",
+            "port": "1981",
+            "response_time": 4.61
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "GZA",
+            "regionName": "Gaza Governorate",
+            "city": "Gaza",
+            "zip": "",
+            "lat": 31.5019,
+            "lon": 34.4666,
+            "timezone": "Asia/Gaza",
+            "isp": "Mada Al-Arab General Services Company",
+            "org": "Mada Network BB",
+            "as": "AS51407 Mada Al-Arab General Services Company",
+            "query": "84.242.58.9",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.82
         }
     ]
 }
