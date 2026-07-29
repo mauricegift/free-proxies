@@ -1,26 +1,26 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
+            "region": "23",
+            "regionName": "Jablanica",
+            "city": "Leskovac",
             "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
+            "lat": 42.9958,
+            "lon": 21.9439,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Zbet",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "185.190.154.121",
+            "query": "178.220.148.82",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 0.56
+            "port": "10801",
+            "response_time": 1.31
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Client Network",
+            "isp": "Orion Telekom Network",
             "org": "",
             "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "217.169.223.18",
+            "query": "95.140.118.34",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.41
+            "response_time": 1.39
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Smederevo",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "195.178.56.37",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.93
         },
         {
             "status": "success",
@@ -55,10 +74,10 @@
             "isp": "TELEKOM SRBIJA a.d.",
             "org": "Skupstina stanara solitera Y",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "91.150.77.57",
+            "query": "91.150.77.58",
             "type": "socks4",
             "port": "56921",
-            "response_time": 7.5
+            "response_time": 3.35
         }
     ]
 }
