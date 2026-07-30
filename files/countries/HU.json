@@ -1,26 +1,45 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "KE",
-            "regionName": "Kom\u00e1rom-Esztergom",
-            "city": "Esztergom",
-            "zip": "2500",
-            "lat": 47.7928,
-            "lon": 18.7415,
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "F\u00f6ldes",
+            "zip": "4177",
+            "lat": 47.2987,
+            "lon": 21.3613,
             "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Juropnet",
+            "isp": "Magyar Telekom",
+            "org": "",
             "as": "AS5483 Magyar Telekom Plc.",
-            "query": "79.121.102.227",
+            "query": "84.0.157.39",
             "type": "http",
             "port": "8080",
-            "response_time": 10.18
+            "response_time": 2.36
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+            "org": "Digi",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "84.236.15.74",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.19
         }
     ]
 }
