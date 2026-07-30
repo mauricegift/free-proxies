@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": -37.8159,
             "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com",
-            "org": "Amazon Data Services Australia",
+            "isp": "Amazon.com, Inc.",
+            "org": "Hewlett Packard Enterprise Company",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.51.148.102",
+            "query": "16.26.99.200",
             "type": "http",
-            "port": "9090",
-            "response_time": 4.48
+            "port": "50611",
+            "response_time": 4.4
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3141",
+            "lat": -37.834,
+            "lon": 144.9832,
+            "timezone": "Australia/Melbourne",
+            "isp": "Aussie Broadband",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.09
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
+            "timezone": "Australia/Melbourne",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.68
         }
     ]
 }
