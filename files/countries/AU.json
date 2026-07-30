@@ -1,45 +1,26 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 4,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8591,
-            "lon": 151.2002,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.253.183.151",
-            "type": "http",
-            "port": "14",
-            "response_time": 4.32
-        },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
             "region": "VIC",
             "regionName": "Victoria",
-            "city": "Burnside",
+            "city": "Melbourne",
             "zip": "3023",
-            "lat": -37.7469,
-            "lon": 144.749,
+            "lat": -37.7512,
+            "lon": 144.7508,
             "timezone": "Australia/Melbourne",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
-            "type": "http",
-            "port": "80",
-            "response_time": 4.82
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "168.138.9.147",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.69
         },
         {
             "status": "success",
@@ -57,27 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.51.148.102",
             "type": "http",
-            "port": "19747",
-            "response_time": 5.31
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2009",
-            "lat": -33.8681,
-            "lon": 151.1967,
-            "timezone": "Australia/Sydney",
-            "isp": "Cogent Communications",
-            "org": "Contabo Asia Private LTD",
-            "as": "AS141995 Contabo Asia Private Limited",
-            "query": "154.26.154.47",
-            "type": "http",
-            "port": "1080",
-            "response_time": 11.37
+            "port": "26592",
+            "response_time": 3.11
         }
     ]
 }
