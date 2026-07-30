@@ -1,8 +1,27 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "24",
+            "regionName": "P\u010dinja",
+            "city": "Oraovica",
+            "zip": "",
+            "lat": 42.3289,
+            "lon": 21.6585,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "77.46.138.233",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.23
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -17,29 +36,29 @@
             "isp": "TELEKOM-SRBIJA",
             "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "79.101.45.94",
+            "query": "185.190.154.121",
             "type": "socks4",
-            "port": "56921",
-            "response_time": 1.34
+            "port": "4145",
+            "response_time": 7.48
         },
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "23",
-            "regionName": "Jablanica",
-            "city": "Leskovac",
+            "region": "VO",
+            "regionName": "Vojvodina",
+            "city": "Novi Sad",
             "zip": "",
-            "lat": 42.9958,
-            "lon": 21.9439,
+            "lat": 45.25,
+            "lon": 19.8362,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Zbet",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "178.220.148.82",
-            "type": "socks4",
-            "port": "10801",
-            "response_time": 7.46
+            "isp": "Serbia BroadBand",
+            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "query": "82.117.211.42",
+            "type": "http",
+            "port": "8085",
+            "response_time": 8.77
         }
     ]
 }
