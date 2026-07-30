@@ -1,7 +1,7 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,48 @@
             "isp": "High Speed For Internet Services L.L.C",
             "org": "Telecom SY",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "139.28.49.230",
+            "query": "139.28.49.111",
             "type": "http",
             "port": "8080",
-            "response_time": 5.75
+            "response_time": 4.37
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "HA",
+            "regionName": "Al-Hasakah Governorate",
+            "city": "Al-Qamishli",
+            "zip": "47300",
+            "lat": 37.0522,
+            "lon": 41.2314,
+            "timezone": "Asia/Damascus",
+            "isp": "RCell LLC",
+            "org": "RCell LLC",
+            "as": "AS214707 RCell LLC",
+            "query": "205.209.64.193",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.39
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "HL",
+            "regionName": "Aleppo Governorate",
+            "city": "Aleppo",
+            "zip": "",
+            "lat": 36.2012,
+            "lon": 37.1612,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "Telecom SY",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "139.28.49.23",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.79
         },
         {
             "status": "success",
@@ -36,10 +74,29 @@
             "isp": "Syrian Telecom",
             "org": "Wafa Telecom J.S.C",
             "as": "AS29256 STE PDN Internal AS",
-            "query": "193.43.140.100",
+            "query": "193.43.140.240",
             "type": "http",
             "port": "8080",
-            "response_time": 11.97
+            "response_time": 14.35
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "DI",
+            "regionName": "Damascus Governorate",
+            "city": "Damascus",
+            "zip": "",
+            "lat": 33.5102,
+            "lon": 36.2913,
+            "timezone": "Asia/Damascus",
+            "isp": "STE Public Data Network Backbone and LIR",
+            "org": "",
+            "as": "AS29256 STE PDN Internal AS",
+            "query": "91.144.30.93",
+            "type": "http",
+            "port": "8080",
+            "response_time": 15.61
         }
     ]
 }
