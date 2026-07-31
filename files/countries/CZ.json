@@ -1,26 +1,26 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "20",
-            "regionName": "Central Bohemia",
-            "city": "Neratovice",
-            "zip": "277 11",
-            "lat": 50.2667,
-            "lon": 14.5264,
+            "region": "72",
+            "regionName": "Zl\u00edn",
+            "city": "Brumov-Bylnice",
+            "zip": "763 31",
+            "lat": 49.0885,
+            "lon": 18.0263,
             "timezone": "Europe/Prague",
-            "isp": "O2 Czech Republic, a.s.",
-            "org": "O2 Czech Republic",
-            "as": "AS5610 O2 Czech Republic, a.s.",
-            "query": "90.182.147.170",
+            "isp": "Martin Vicenik",
+            "org": "VicenikRoute",
+            "as": "AS34955 Martin Vicenik",
+            "query": "81.162.195.35",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 5.34
+            "port": "4153",
+            "response_time": 1.33
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "77.240.97.77",
             "type": "http",
             "port": "8080",
-            "response_time": 7.63
+            "response_time": 4.43
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "160 00",
+            "lat": 50.1242,
+            "lon": 14.398,
+            "timezone": "Europe/Prague",
+            "isp": "STARNET, s.r.o.",
+            "org": "STARNET, s.r.o.",
+            "as": "AS44489 STARNET, s.r.o.",
+            "query": "109.164.35.23",
+            "type": "http",
+            "port": "8888",
+            "response_time": 7.3
         }
     ]
 }
