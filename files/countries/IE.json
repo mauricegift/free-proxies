@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,46 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "34.246.183.20",
             "type": "http",
-            "port": "29311",
-            "response_time": 0.41
+            "port": "10039",
+            "response_time": 2.15
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "M",
+            "regionName": "Munster",
+            "city": "Limerick",
+            "zip": "V94",
+            "lat": 52.667,
+            "lon": -8.6268,
+            "timezone": "Europe/Dublin",
+            "isp": "Enet Telecommunications Networks Limited",
+            "org": "Nuwave",
+            "as": "AS207044 Enet Telecommunications Networks Limited",
+            "query": "185.138.114.111",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.76
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Carlow",
+            "zip": "R93",
+            "lat": 52.8397,
+            "lon": -6.9342,
+            "timezone": "Europe/Dublin",
+            "isp": "Regional Broadband Ireland Ltd",
+            "org": "Regional Broadband Ireland Ltd.",
+            "as": "AS47942 Regional Telecom Ltd",
+            "query": "94.102.193.91",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.99
         }
     ]
 }
