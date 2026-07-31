@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 9,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.253.226",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.34
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "168.107.13.220",
             "type": "socks4",
             "port": "50161",
-            "response_time": 1.32
+            "response_time": 1.38
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.68
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "",
-            "lat": 37.5665,
-            "lon": 126.978,
-            "timezone": "Asia/Seoul",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-northeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.164.225.200",
-            "type": "http",
-            "port": "33430",
-            "response_time": 2.86
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "11",
-            "regionName": "Seoul",
-            "city": "Seoul",
-            "zip": "02878",
-            "lat": 37.5985,
-            "lon": 126.9783,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "152.70.253.226",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.9
+            "response_time": 1.71
         },
         {
             "status": "success",
@@ -95,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "43.200.174.95",
             "type": "http",
-            "port": "41638",
-            "response_time": 3.47
+            "port": "31759",
+            "response_time": 2.65
         },
         {
             "status": "success",
@@ -109,13 +90,13 @@
             "lat": 37.5665,
             "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "Amazon Technologies Inc.",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ap-northeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.164.225.200",
+            "query": "43.203.140.58",
             "type": "http",
-            "port": "9036",
-            "response_time": 3.88
+            "port": "45715",
+            "response_time": 3.0
         },
         {
             "status": "success",
@@ -134,7 +115,7 @@
             "query": "152.70.237.238",
             "type": "socks4",
             "port": "3128",
-            "response_time": 5.29
+            "response_time": 5.66
         },
         {
             "status": "success",
@@ -143,36 +124,17 @@
             "region": "11",
             "regionName": "Seoul",
             "city": "Seoul",
-            "zip": "",
-            "lat": 37.5665,
-            "lon": 126.978,
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
             "timezone": "Asia/Seoul",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-northeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.180.117.151",
-            "type": "http",
-            "port": "40702",
-            "response_time": 7.04
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "41",
-            "regionName": "Gyeonggi-do",
-            "city": "Gwangmyeong",
-            "zip": "08520",
-            "lat": 37.4918,
-            "lon": 126.884,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "finger",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "211.233.44.58",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.36
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks5",
+            "port": "3128",
+            "response_time": 5.66
         }
     ]
 }
