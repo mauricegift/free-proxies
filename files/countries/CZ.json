@@ -1,26 +1,45 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "10",
-            "regionName": "Prague",
-            "city": "Prague",
-            "zip": "160 00",
-            "lat": 50.1242,
-            "lon": 14.398,
+            "region": "71",
+            "regionName": "Olomouc Region",
+            "city": "P\u0159erov",
+            "zip": "750 02",
+            "lat": 49.4137,
+            "lon": 17.5032,
             "timezone": "Europe/Prague",
-            "isp": "STARNET, s.r.o.",
-            "org": "STARNET, s.r.o.",
-            "as": "AS44489 STARNET, s.r.o.",
-            "query": "109.164.35.23",
+            "isp": "LAN servis s.r.o",
+            "org": "LANservis s.r.o",
+            "as": "AS196815 LAN servis s.r.o.",
+            "query": "109.69.211.18",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.27
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "53",
+            "regionName": "Pardubice Region",
+            "city": "Os\u00edk",
+            "zip": "569 67",
+            "lat": 49.8478,
+            "lon": 16.2825,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "Nordictelecomregional",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "185.82.238.42",
             "type": "http",
             "port": "8888",
-            "response_time": 7.32
+            "response_time": 7.91
         }
     ]
 }
