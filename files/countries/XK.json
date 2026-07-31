@@ -1,7 +1,7 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "XK",
             "region": "",
             "regionName": "Pristina",
-            "city": "Podujevo",
+            "city": "Pristina",
             "zip": "",
-            "lat": 42.9108,
-            "lon": 21.1956,
+            "lat": 42.6727,
+            "lon": 21.1669,
             "timezone": "Europe/Belgrade",
-            "isp": "Podujeve-Broadband",
+            "isp": "PPPoE",
             "org": "",
-            "as": "AS206262 TelKos L.L.C",
-            "query": "185.174.208.195",
+            "as": "AS206358 Qendrim Kryeziu trading as N.P.SH \"ISP - Broadcast",
+            "query": "185.188.217.166",
             "type": "http",
             "port": "8080",
-            "response_time": 5.16
+            "response_time": 1.95
+        },
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Gjilan",
+            "city": "Gjilan",
+            "zip": "",
+            "lat": 42.4604,
+            "lon": 21.4699,
+            "timezone": "Europe/Belgrade",
+            "isp": "Artmotion Sh.P.K.",
+            "org": "Artmotion",
+            "as": "AS33983 ARTMOTION SH.P.K.",
+            "query": "37.35.65.190",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.39
         }
     ]
 }
