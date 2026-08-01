@@ -1,8 +1,46 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "128 62",
+            "lat": 59.2484,
+            "lon": 18.1223,
+            "timezone": "Europe/Stockholm",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.59.115",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.17
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "128 62",
+            "lat": 59.2484,
+            "lon": 18.1223,
+            "timezone": "Europe/Stockholm",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.52.220",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.22
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -15,12 +53,12 @@
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
             "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
+            "org": "Aeza International LTD",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.102.98",
+            "query": "147.45.72.31",
             "type": "socks4",
-            "port": "1082",
-            "response_time": 6.52
+            "port": "45700",
+            "response_time": 5.72
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "176.126.70.111",
             "type": "socks4",
             "port": "16379",
-            "response_time": 9.55
+            "response_time": 9.17
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3447,
+            "lon": 18.0676,
+            "timezone": "Europe/Stockholm",
+            "isp": "OVPN",
+            "org": "",
+            "as": "AS42675 Obehosting AB",
+            "query": "217.64.149.146",
+            "type": "http",
+            "port": "8118",
+            "response_time": 14.4
         }
     ]
 }
