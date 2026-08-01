@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "Neratovice",
+            "zip": "277 11",
+            "lat": 50.2667,
+            "lon": 14.5264,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.3
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,26 +39,45 @@
             "query": "194.1.188.8",
             "type": "socks4",
             "port": "60606",
-            "response_time": 4.3
+            "response_time": 2.32
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "64",
-            "regionName": "South Moravian",
-            "city": "Slavkov u Brna",
-            "zip": "684 01",
-            "lat": 49.1474,
-            "lon": 16.8831,
+            "region": "71",
+            "regionName": "Olomouc Region",
+            "city": "P\u0159erov",
+            "zip": "750 02",
+            "lat": 49.4137,
+            "lon": 17.5032,
             "timezone": "Europe/Prague",
-            "isp": "GIN's network",
-            "org": "",
-            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
-            "query": "85.132.139.45",
+            "isp": "LAN servis s.r.o",
+            "org": "LANservis s.r.o",
+            "as": "AS196815 LAN servis s.r.o.",
+            "query": "109.69.211.18",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 5.33
+            "port": "1080",
+            "response_time": 7.68
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "100 00",
+            "lat": 50.0802,
+            "lon": 14.4652,
+            "timezone": "Europe/Prague",
+            "isp": "pragmatel s.r.o.",
+            "org": "Interconnect",
+            "as": "AS200635 pragmatel s.r.o.",
+            "query": "185.100.196.188",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.58
         }
     ]
 }
