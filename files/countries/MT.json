@@ -1,8 +1,27 @@
 {
     "countryCode": "MT",
     "country": "Malta",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malta",
+            "countryCode": "MT",
+            "region": "57",
+            "regionName": "Is-Swieqi",
+            "city": "Swieqi",
+            "zip": "SWQ",
+            "lat": 35.9183,
+            "lon": 14.4719,
+            "timezone": "Europe/Malta",
+            "isp": "Melita plc",
+            "org": "Melita plc",
+            "as": "AS12709 Melita Limited",
+            "query": "84.255.40.228",
+            "type": "http",
+            "port": "8998",
+            "response_time": 1.97
+        },
         {
             "status": "success",
             "country": "Malta",
@@ -20,7 +39,7 @@
             "query": "213.165.185.211",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.63
+            "response_time": 7.71
         }
     ]
 }
