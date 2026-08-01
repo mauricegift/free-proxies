@@ -1,8 +1,27 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5072,
+            "lon": -0.127586,
+            "timezone": "Europe/London",
+            "isp": "NSFOCUS, Inc.",
+            "org": "NSFOCUS, Inc",
+            "as": "AS8757 NSFOCUS, Inc.",
+            "query": "212.58.132.5",
+            "type": "http",
+            "port": "8888",
+            "response_time": 0.96
+        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -20,7 +39,7 @@
             "query": "5.157.64.213",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.41
+            "response_time": 2.59
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "91.107.122.209",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.21
+            "response_time": 9.24
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "City of London",
+            "zip": "EC4N",
+            "lat": 51.5164,
+            "lon": -0.093,
+            "timezone": "Europe/London",
+            "isp": "Ipxo LLC",
+            "org": "Ipxo LLC",
+            "as": "AS203758 EUGAMEHOST LTD",
+            "query": "23.26.247.126",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.39
         },
         {
             "status": "success",
@@ -52,13 +90,13 @@
             "lat": 51.5072,
             "lon": -0.127586,
             "timezone": "Europe/London",
-            "isp": "NSFOCUS, Inc.",
-            "org": "NSFOCUS, Inc",
-            "as": "AS8757 NSFOCUS, Inc.",
-            "query": "212.58.132.5",
-            "type": "http",
-            "port": "8888",
-            "response_time": 8.35
+            "isp": "Aktsiaselts WaveCom",
+            "org": "EE Wavecom",
+            "as": "AS34702 Aktsiaselts WaveCom",
+            "query": "80.79.123.97",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 12.22
         }
     ]
 }
