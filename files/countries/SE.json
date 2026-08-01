@@ -10,6 +10,25 @@
             "region": "AB",
             "regionName": "Stockholm County",
             "city": "Stockholm",
+            "zip": "128 62",
+            "lat": 59.2484,
+            "lon": 18.1223,
+            "timezone": "Europe/Stockholm",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.59.115",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.25
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
             "zip": "100 04",
             "lat": 59.3287,
             "lon": 18.0717,
@@ -18,9 +37,9 @@
             "org": "NetCrafters OU",
             "as": "AS210644 AEZA GROUP LLC",
             "query": "62.60.230.196",
-            "type": "socks4",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 3.48
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "147.45.72.212",
             "type": "socks4",
             "port": "44816",
-            "response_time": 5.02
+            "response_time": 4.97
         },
         {
             "status": "success",
@@ -55,29 +74,10 @@
             "isp": "Aeza International LTD",
             "org": "Aeza International LTD",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "147.45.72.31",
+            "query": "109.120.133.253",
             "type": "socks4",
-            "port": "45700",
-            "response_time": 5.68
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Play2go International Limited",
-            "org": "Play2go International Limited",
-            "as": "AS215439 PLAY2GO INTERNATIONAL LIMITED",
-            "query": "144.31.230.199",
-            "type": "http",
-            "port": "3000",
-            "response_time": 7.58
+            "port": "9999",
+            "response_time": 10.49
         }
     ]
 }
