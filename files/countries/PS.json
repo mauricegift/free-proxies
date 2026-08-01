@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "103.231.105.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.8
+            "response_time": 1.7
         },
         {
             "status": "success",
             "country": "Palestine",
             "countryCode": "PS",
-            "region": "GZA",
-            "regionName": "Gaza Governorate",
-            "city": "Gaza",
+            "region": "DEB",
+            "regionName": "Deir al-Balah Governorate",
+            "city": "Deir el-Balah",
             "zip": "",
-            "lat": 31.5019,
-            "lon": 34.4666,
+            "lat": 31.4183,
+            "lon": 34.3493,
             "timezone": "Asia/Gaza",
-            "isp": "PALTEL (Palestine Telecommunications Co.).",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.244.95.175",
+            "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
+            "org": "Abuyousef Co & Partners General Trade",
+            "as": "AS44213 Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade",
+            "query": "87.229.14.128",
             "type": "http",
             "port": "8080",
-            "response_time": 7.73
+            "response_time": 1.99
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "JEN",
+            "regionName": "Jenin Governorate",
+            "city": "Jenin",
+            "zip": "",
+            "lat": 32.4648,
+            "lon": 35.3031,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "Palestine Telecommunications Company",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.68.210",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.55
         }
     ]
 }
