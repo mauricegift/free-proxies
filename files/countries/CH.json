@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "147.161.246.34",
             "type": "http",
             "port": "10799",
-            "response_time": 0.24
+            "response_time": 0.22
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "147.161.246.34",
             "type": "http",
             "port": "12010",
-            "response_time": 0.26
+            "response_time": 0.37
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.04
+            "response_time": 1.08
         },
         {
             "status": "success",
@@ -77,7 +77,64 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.04
+            "response_time": 1.08
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "W\u00e4denswil",
+            "zip": "8820",
+            "lat": 47.2258,
+            "lon": 8.66224,
+            "timezone": "Europe/Zurich",
+            "isp": "netz116",
+            "org": "Rolf Tschumi (MGW Online)",
+            "as": "AS48971 DATAWIRE AG",
+            "query": "195.225.116.15",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.35
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "W\u00e4denswil",
+            "zip": "8820",
+            "lat": 47.2258,
+            "lon": 8.66224,
+            "timezone": "Europe/Zurich",
+            "isp": "netz116",
+            "org": "Rolf Tschumi (MGW Online)",
+            "as": "AS48971 DATAWIRE AG",
+            "query": "195.225.116.14",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.31
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "GE",
+            "regionName": "Geneva",
+            "city": "Geneva",
+            "zip": "1200",
+            "lat": 46.2052,
+            "lon": 6.142,
+            "timezone": "Europe/Zurich",
+            "isp": "Serva ONE LTD",
+            "org": "Serva ONE LTD",
+            "as": "AS199058 SERVA ONE LTD",
+            "query": "45.85.93.15",
+            "type": "socks5",
+            "port": "4567",
+            "response_time": 10.38
         }
     ]
 }
