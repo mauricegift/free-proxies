@@ -1,7 +1,7 @@
 {
     "countryCode": "SA",
     "country": "Saudi Arabia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "01",
             "regionName": "Riyadh Region",
             "city": "Riyadh",
-            "zip": "",
-            "lat": 24.7136,
-            "lon": 46.6753,
+            "zip": "09848",
+            "lat": 24.6869,
+            "lon": 46.7224,
             "timezone": "Asia/Riyadh",
-            "isp": "Kaopu Cloud HK Limited",
+            "isp": "Bedge CO Limited",
             "org": "Lightnode-SA",
-            "as": "AS138915 Kaopu Cloud HK Limited",
+            "as": "AS154177 LIGHT NODE LIMITED",
             "query": "149.104.105.253",
             "type": "http",
             "port": "8080",
-            "response_time": 2.59
+            "response_time": 1.77
+        },
+        {
+            "status": "success",
+            "country": "Saudi Arabia",
+            "countryCode": "SA",
+            "region": "09",
+            "regionName": "Jazan Region",
+            "city": "Misl\u012byah",
+            "zip": "",
+            "lat": 17.4599,
+            "lon": 42.5572,
+            "timezone": "Asia/Riyadh",
+            "isp": "Saudinet",
+            "org": "",
+            "as": "AS25019 Saudi Telecom Company JSC",
+            "query": "176.44.202.253",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.28
         }
     ]
 }
