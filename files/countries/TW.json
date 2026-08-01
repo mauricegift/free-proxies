@@ -1,8 +1,27 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TXG",
+            "regionName": "Taichung City",
+            "city": "Taichung",
+            "zip": "",
+            "lat": 24.144,
+            "lon": 120.6844,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "220.132.41.160",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 1.7
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -20,45 +39,7 @@
             "query": "118.163.120.181",
             "type": "http",
             "port": "58837",
-            "response_time": 6.87
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Neihu District",
-            "zip": "",
-            "lat": 25.0689,
-            "lon": 121.591,
-            "timezone": "Asia/Taipei",
-            "isp": "CDS Global Cloud Co., Ltd",
-            "org": "Ucul",
-            "as": "AS63199 CDS Global Cloud Co., Ltd",
-            "query": "164.52.11.194",
-            "type": "http",
-            "port": "18080",
-            "response_time": 8.11
-        },
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "",
-            "regionName": "Taipei",
-            "city": "Banqiao",
-            "zip": "",
-            "lat": 24.9961,
-            "lon": 121.456,
-            "timezone": "Asia/Taipei",
-            "isp": "Asia Pacific On-line Service Inc.",
-            "org": "Far EasTone Telecommunication Co., Ltd.",
-            "as": "AS7482 Asia Pacific On-line Service Inc.",
-            "query": "210.201.86.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 13.68
+            "response_time": 6.57
         }
     ]
 }
