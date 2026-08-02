@@ -1,25 +1,25 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 8,
+    "count": 13,
     "proxies": [
         {
             "status": "success",
             "country": "Switzerland",
             "countryCode": "CH",
-            "region": "BE",
-            "regionName": "Bern",
-            "city": "Bern",
-            "zip": "3001",
-            "lat": 46.9454,
-            "lon": 7.4531,
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8087",
+            "lat": 47.3643,
+            "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "RouterHosting LLC",
-            "org": "anyNode",
-            "as": "AS14956 RouterHosting LLC",
-            "query": "45.59.122.132",
+            "isp": "Zscaler Switzerland GmbH",
+            "org": "Zscaler Zrh1",
+            "as": "AS62044 Zscaler Switzerland GmbH",
+            "query": "147.161.246.34",
             "type": "http",
-            "port": "80",
+            "port": "10799",
             "response_time": 0.22
         },
         {
@@ -38,7 +38,7 @@
             "as": "AS62044 Zscaler Switzerland GmbH",
             "query": "147.161.246.34",
             "type": "http",
-            "port": "11653",
+            "port": "443",
             "response_time": 0.23
         },
         {
@@ -57,27 +57,8 @@
             "as": "AS62044 Zscaler Switzerland GmbH",
             "query": "147.161.246.34",
             "type": "http",
-            "port": "10799",
-            "response_time": 0.24
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8087",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Zscaler Switzerland GmbH",
-            "org": "Zscaler Zrh1",
-            "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "147.161.246.34",
-            "type": "http",
             "port": "11735",
-            "response_time": 0.27
+            "response_time": 0.23
         },
         {
             "status": "success",
@@ -96,7 +77,7 @@
             "query": "147.161.246.34",
             "type": "http",
             "port": "12010",
-            "response_time": 0.29
+            "response_time": 0.3
         },
         {
             "status": "success",
@@ -114,8 +95,27 @@
             "as": "AS62044 Zscaler Switzerland GmbH",
             "query": "147.161.246.34",
             "type": "http",
-            "port": "443",
-            "response_time": 0.39
+            "port": "10498",
+            "response_time": 0.35
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8087",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Zscaler Switzerland GmbH",
+            "org": "Zscaler Zrh1",
+            "as": "AS62044 Zscaler Switzerland GmbH",
+            "query": "147.161.246.34",
+            "type": "http",
+            "port": "11653",
+            "response_time": 0.37
         },
         {
             "status": "success",
@@ -134,7 +134,64 @@
             "query": "147.161.246.34",
             "type": "http",
             "port": "11107",
-            "response_time": 0.42
+            "response_time": 0.38
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8087",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "YHC",
+            "org": "",
+            "as": "AS22363 Powerhouse Management, Inc.",
+            "query": "31.6.42.117",
+            "type": "http",
+            "port": "8118",
+            "response_time": 1.46
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8087",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.07
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8087",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.07
         },
         {
             "status": "success",
@@ -153,7 +210,45 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 3.37
+            "response_time": 4.17
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3001",
+            "lat": 46.9454,
+            "lon": 7.4531,
+            "timezone": "Europe/Zurich",
+            "isp": "RouterHosting LLC",
+            "org": "anyNode",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "45.59.122.132",
+            "type": "http",
+            "port": "80",
+            "response_time": 5.43
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "GE",
+            "regionName": "Geneva",
+            "city": "Geneva",
+            "zip": "1200",
+            "lat": 46.2052,
+            "lon": 6.142,
+            "timezone": "Europe/Zurich",
+            "isp": "Serva ONE LTD",
+            "org": "Serva ONE LTD",
+            "as": "AS199058 SERVA ONE LTD",
+            "query": "45.85.93.15",
+            "type": "socks4",
+            "port": "4567",
+            "response_time": 6.83
         }
     ]
 }
