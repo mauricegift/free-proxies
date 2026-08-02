@@ -1,45 +1,26 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
             "country": "Bulgaria",
             "countryCode": "BG",
-            "region": "01",
-            "regionName": "Blagoevgrad",
-            "city": "Petrich",
-            "zip": "2850",
-            "lat": 41.3993,
-            "lon": 23.2207,
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6826,
+            "lon": 23.3223,
             "timezone": "Europe/Sofia",
-            "isp": "VIM TV Ltd",
-            "org": "VIM TV Ltd",
-            "as": "AS199702 VIM TV LTD",
-            "query": "213.149.154.213",
+            "isp": "BTC Plc",
+            "org": "Bulgarian Telecommunications Company Plc.",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "212.5.132.74",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.32
-        },
-        {
-            "status": "success",
-            "country": "Bulgaria",
-            "countryCode": "BG",
-            "region": "24",
-            "regionName": "Stara Zagora",
-            "city": "Kazanlak",
-            "zip": "6100",
-            "lat": 42.6223,
-            "lon": 25.3937,
-            "timezone": "Europe/Sofia",
-            "isp": "Bulsatcom AD",
-            "org": "Bulsatcom AD",
-            "as": "AS8866 Vivacom Bulgaria EAD",
-            "query": "46.47.82.16",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 2.31
+            "response_time": 1.38
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "88.213.214.254",
             "type": "socks4",
             "port": "4145",
-            "response_time": 5.67
+            "response_time": 3.38
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "24",
+            "regionName": "Stara Zagora",
+            "city": "Kazanlak",
+            "zip": "6100",
+            "lat": 42.6223,
+            "lon": 25.3937,
+            "timezone": "Europe/Sofia",
+            "isp": "Bulsatcom AD",
+            "org": "Bulsatcom AD",
+            "as": "AS8866 Vivacom Bulgaria EAD",
+            "query": "46.47.82.16",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.59
         },
         {
             "status": "success",
@@ -68,16 +68,16 @@
             "regionName": "Sofia-Capital",
             "city": "Sofia",
             "zip": "1000",
-            "lat": 42.6826,
-            "lon": 23.3223,
+            "lat": 42.6977,
+            "lon": 23.3219,
             "timezone": "Europe/Sofia",
-            "isp": "BTC Plc",
-            "org": "Bulgarian Telecommunications Company Plc.",
-            "as": "AS8866 Vivacom Bulgaria EAD",
-            "query": "212.5.132.74",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 7.51
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.10",
+            "type": "http",
+            "port": "8001",
+            "response_time": 4.67
         },
         {
             "status": "success",
@@ -96,7 +96,45 @@
             "query": "193.68.115.14",
             "type": "http",
             "port": "8080",
-            "response_time": 10.37
+            "response_time": 4.73
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "22",
+            "regionName": "Sofia-Capital",
+            "city": "Sofia",
+            "zip": "1000",
+            "lat": 42.6977,
+            "lon": 23.3219,
+            "timezone": "Europe/Sofia",
+            "isp": "A1 Bulgaria EAD",
+            "org": "ESRI BULGARIA Network",
+            "as": "AS8717 A1 Bulgaria EAD",
+            "query": "213.169.33.7",
+            "type": "http",
+            "port": "8001",
+            "response_time": 6.26
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "16",
+            "regionName": "Plovdiv",
+            "city": "Bolyartsi",
+            "zip": "4114",
+            "lat": 42.0671,
+            "lon": 24.9717,
+            "timezone": "Europe/Sofia",
+            "isp": "DCC",
+            "org": "",
+            "as": "AS51582 Cifrova Kabelna Korporacia EOOD",
+            "query": "46.55.143.145",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.08
         },
         {
             "status": "success",
@@ -115,7 +153,7 @@
             "query": "185.205.210.154",
             "type": "http",
             "port": "8083",
-            "response_time": 13.45
+            "response_time": 20.13
         }
     ]
 }
