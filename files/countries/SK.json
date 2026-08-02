@@ -1,8 +1,46 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TC",
+            "regionName": "Tren\u010d\u00edn Region",
+            "city": "Tren\u010dianske Bohuslavice",
+            "zip": "913 07",
+            "lat": 48.8046,
+            "lon": 17.8642,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Slovanet",
+            "as": "AS31679 Slovanet a.s.",
+            "query": "185.165.36.136",
+            "type": "socks4",
+            "port": "8889",
+            "response_time": 0.18
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Trnava",
+            "zip": "917 01",
+            "lat": 48.3762,
+            "lon": 17.5829,
+            "timezone": "Europe/Bratislava",
+            "isp": "AIRNET s.r.o.",
+            "org": "Airnet",
+            "as": "AS201603 AIRNET s.r.o.",
+            "query": "91.217.33.137",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.46
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +58,7 @@
             "query": "188.121.168.60",
             "type": "http",
             "port": "8080",
-            "response_time": 5.11
+            "response_time": 7.62
         }
     ]
 }
