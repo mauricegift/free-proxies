@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "OVH SAS",
             "org": "OVH Australia PTY LTD",
             "as": "AS16276 OVH SAS",
-            "query": "139.99.171.39",
+            "query": "139.99.238.83",
             "type": "http",
-            "port": "80",
-            "response_time": 5.49
+            "port": "8080",
+            "response_time": 2.25
         },
         {
             "status": "success",
@@ -28,18 +28,37 @@
             "countryCode": "AU",
             "region": "VIC",
             "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3141",
-            "lat": -37.834,
-            "lon": 144.9832,
+            "city": "Burnside",
+            "zip": "3023",
+            "lat": -37.7469,
+            "lon": 144.749,
             "timezone": "Australia/Melbourne",
-            "isp": "Aussie Broadband",
-            "org": "Aussie Broadband Ltd",
-            "as": "AS4764 Aussie Fibre Pty Ltd",
-            "query": "159.196.182.72",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.86
+            "port": "8000",
+            "response_time": 5.03
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4006",
+            "lat": -27.4417,
+            "lon": 153.0197,
+            "timezone": "Australia/Brisbane",
+            "isp": "Aussie Fibre Pty Ltd",
+            "org": "Wideband Networks Pty Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "180.181.215.232",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.08
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "103.131.232.9",
             "type": "http",
             "port": "8080",
-            "response_time": 13.98
+            "response_time": 6.84
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
+            "timezone": "Australia/Sydney",
+            "isp": "Contabo Asia Private Limited",
+            "org": "Yorkshire Tech Limited",
+            "as": "AS141995 Contabo Asia Private Limited",
+            "query": "46.250.241.229",
+            "type": "http",
+            "port": "3128",
+            "response_time": 14.67
         }
     ]
 }
