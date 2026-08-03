@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "SZ",
+            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
+            "city": "Z\u00e1hony",
+            "zip": "4625",
+            "lat": 48.4137,
+            "lon": 22.1753,
+            "timezone": "Europe/Budapest",
+            "isp": "Szatmarnet",
+            "org": "",
+            "as": "AS58098 Szatmarnet Bt.",
+            "query": "46.107.230.122",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.44
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,26 @@
             "query": "77.234.86.72",
             "type": "http",
             "port": "8080",
-            "response_time": 9.21
+            "response_time": 5.24
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1052",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "INVITEL Zrt.",
+            "org": "Mikrohalo Kft.",
+            "as": "AS12301 Invitech ICT Services Kft.",
+            "query": "91.82.115.159",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.25
         }
     ]
 }
