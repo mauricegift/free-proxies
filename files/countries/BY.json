@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "86.57.178.182",
             "type": "socks4",
             "port": "4153",
-            "response_time": 4.69
+            "response_time": 2.54
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "BR",
+            "regionName": "Brest",
+            "city": "Brest",
+            "zip": "224000",
+            "lat": 52.0901,
+            "lon": 23.6836,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "AI PI DI Group",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "82.209.251.53",
+            "type": "http",
+            "port": "45678",
+            "response_time": 5.46
         },
         {
             "status": "success",
@@ -29,17 +48,17 @@
             "region": "HM",
             "regionName": "Minsk City",
             "city": "Minsk",
-            "zip": "220002",
-            "lat": 53.9002,
-            "lon": 27.5665,
+            "zip": "220000",
+            "lat": 53.901,
+            "lon": 27.5707,
             "timezone": "Europe/Minsk",
-            "isp": "Business network jv",
-            "org": "Business network LTD",
-            "as": "AS12406 Business Network Ltd",
-            "query": "80.249.81.179",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 9.03
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "IPoE USERS GRODNO",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "82.209.219.244",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.84
         }
     ]
 }
