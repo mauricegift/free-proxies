@@ -1,8 +1,27 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 3,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Yabucoa",
+            "city": "Comunas",
+            "zip": "",
+            "lat": 18.0872,
+            "lon": -65.8438,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Boom NET",
+            "org": "BOOM",
+            "as": "AS63393 BOOM NET",
+            "query": "192.203.0.78",
+            "type": "http",
+            "port": "999",
+            "response_time": 5.49
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -20,7 +39,26 @@
             "query": "172.99.187.33",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.2
+            "response_time": 6.06
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Guaynabo",
+            "city": "Guaynabo",
+            "zip": "00968",
+            "lat": 18.416,
+            "lon": -66.107,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "FiberX",
+            "as": "AS21559 OSNET",
+            "query": "104.238.232.210",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.62
         },
         {
             "status": "success",
@@ -39,26 +77,26 @@
             "query": "154.64.211.145",
             "type": "http",
             "port": "999",
-            "response_time": 7.04
+            "response_time": 9.12
         },
         {
             "status": "success",
             "country": "Puerto Rico",
             "countryCode": "PR",
             "region": "",
-            "regionName": "Carolina",
-            "city": "Carolina",
-            "zip": "00979",
-            "lat": 18.3736,
-            "lon": -65.9631,
+            "regionName": "Adjuntas",
+            "city": "Adjuntas",
+            "zip": "",
+            "lat": 18.1627,
+            "lon": -66.7221,
             "timezone": "America/Puerto_Rico",
-            "isp": "FiberX",
-            "org": "Yknet Puerto Rico Corporacion",
-            "as": "AS21559 OSNET",
-            "query": "204.77.11.13",
+            "isp": "Alphanet Corp",
+            "org": "Alphanet Corp",
+            "as": "AS400354 ALPHANET CORP",
+            "query": "23.138.88.1",
             "type": "http",
             "port": "999",
-            "response_time": 7.05
+            "response_time": 11.41
         }
     ]
 }
