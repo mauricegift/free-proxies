@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Global Connectivity Solutions LLP",
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "147.45.221.112",
+            "query": "147.45.221.115",
             "type": "socks4",
             "port": "1082",
-            "response_time": 0.16
+            "response_time": 0.34
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "03",
+            "regionName": "Elbasan County",
+            "city": "Elbasan",
+            "zip": "",
+            "lat": 41.1122,
+            "lon": 20.0818,
+            "timezone": "Europe/Tirane",
+            "isp": "ATU",
+            "org": "",
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "37.26.86.206",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.48
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "109.236.45.95",
             "type": "http",
             "port": "8989",
-            "response_time": 0.42
+            "response_time": 1.62
         },
         {
             "status": "success",
@@ -53,12 +72,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone RESIDENTIAL NAT",
+            "org": "Vodafone Albania Public",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.78.106",
+            "query": "80.78.73.120",
             "type": "socks4",
             "port": "65530",
-            "response_time": 0.48
+            "response_time": 5.42
         },
         {
             "status": "success",
@@ -71,13 +90,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Business Custommers",
+            "isp": "ONE ALBANIA SH.A.",
             "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "77.242.21.133",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.165.246",
             "type": "http",
-            "port": "8080",
-            "response_time": 6.35
+            "port": "8989",
+            "response_time": 9.17
         }
     ]
 }
