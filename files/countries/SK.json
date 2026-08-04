@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Ve\u013ek\u00e9 Kosto\u013eany",
+            "zip": "922 07",
+            "lat": 48.5118,
+            "lon": 17.7309,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Radiolan",
+            "as": "AS43451 Slovanet a.s.",
+            "query": "188.121.168.60",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.3
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -17,10 +36,10 @@
             "isp": "AIRNET s.r.o.",
             "org": "Airnet",
             "as": "AS201603 AIRNET s.r.o.",
-            "query": "91.217.33.161",
+            "query": "91.217.33.137",
             "type": "http",
             "port": "8080",
-            "response_time": 5.29
+            "response_time": 8.39
         }
     ]
 }
