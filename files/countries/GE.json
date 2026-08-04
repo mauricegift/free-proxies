@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Airmax LLC",
-            "org": "",
-            "as": "AS208320 AIRMAX LLC",
-            "query": "45.143.108.114",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.115",
             "type": "http",
             "port": "8080",
-            "response_time": 8.18
+            "response_time": 4.08
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.111",
+            "query": "85.117.61.110",
             "type": "http",
             "port": "8080",
-            "response_time": 8.45
+            "response_time": 8.33
         },
         {
             "status": "success",
@@ -52,13 +52,32 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "T-net Network",
+            "isp": "Airmax LLC",
             "org": "",
-            "as": "AS44327 DELTA COMM LLC",
-            "query": "92.51.97.3",
+            "as": "AS208320 AIRMAX LLC",
+            "query": "45.143.108.115",
             "type": "http",
             "port": "8080",
-            "response_time": 9.13
+            "response_time": 9.32
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "KK",
+            "regionName": "Kvemo Kartli",
+            "city": "Marneuli",
+            "zip": "",
+            "lat": 41.4809,
+            "lon": 44.8072,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Deltanet-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.122.174",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.85
         }
     ]
 }
