@@ -1,8 +1,46 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 3,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "128 62",
+            "lat": 59.2484,
+            "lon": 18.1223,
+            "timezone": "Europe/Stockholm",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.59.115",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.39
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Aeza International LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "109.120.133.180",
+            "type": "http",
+            "port": "1443",
+            "response_time": 0.54
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +58,26 @@
             "query": "138.124.102.98",
             "type": "socks4",
             "port": "1082",
-            "response_time": 1.73
+            "response_time": 3.43
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "100 05",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.53.139.178",
+            "type": "http",
+            "port": "11138",
+            "response_time": 3.75
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "144.31.230.199",
             "type": "http",
             "port": "3000",
-            "response_time": 9.28
+            "response_time": 4.52
         },
         {
             "status": "success",
@@ -53,12 +110,50 @@
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
             "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
+            "org": "Aeza International LTD",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "138.124.26.19",
+            "query": "147.45.72.212",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 16.61
+            "port": "44816",
+            "response_time": 5.96
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "HostHatch",
+            "org": "HostHatch LLC",
+            "as": "AS63473 HostHatch, LLC",
+            "query": "176.126.70.111",
+            "type": "socks4",
+            "port": "16379",
+            "response_time": 10.32
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "16353",
+            "lat": 59.3293,
+            "lon": 18.0685,
+            "timezone": "Europe/Stockholm",
+            "isp": "SIA VEESP",
+            "org": "SIA VEESP",
+            "as": "AS42532 SIA VEESP",
+            "query": "62.182.199.133",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.46
         }
     ]
 }
