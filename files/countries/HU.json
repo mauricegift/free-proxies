@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "SZ",
+            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
+            "city": "Z\u00e1hony",
+            "zip": "4625",
+            "lat": 48.4137,
+            "lon": 22.1753,
+            "timezone": "Europe/Budapest",
+            "isp": "Szatmarnet",
+            "org": "",
+            "as": "AS58098 Szatmarnet Bt.",
+            "query": "46.107.230.122",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.83
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -10,17 +29,17 @@
             "region": "BU",
             "regionName": "Budapest",
             "city": "Budapest",
-            "zip": "1161",
+            "zip": "1033",
             "lat": 47.5,
             "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom",
+            "isp": "DIGI",
             "org": "",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "84.1.150.26",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "77.234.86.72",
             "type": "http",
             "port": "8080",
-            "response_time": 9.74
+            "response_time": 11.18
         }
     ]
 }
