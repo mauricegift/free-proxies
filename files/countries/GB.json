@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5072,
-            "lon": -0.127586,
+            "city": "City of London",
+            "zip": "EC3R 7LP",
+            "lat": 51.5113,
+            "lon": -0.079212,
             "timezone": "Europe/London",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "130.49.187.61",
-            "type": "socks4",
-            "port": "1082",
-            "response_time": 0.44
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (uksouth)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.108.84.75",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.45
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "104.248.172.167",
+            "type": "http",
+            "port": "80",
+            "response_time": 0.62
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 2.25
+            "response_time": 1.32
         },
         {
             "status": "success",
@@ -48,17 +67,36 @@
             "region": "ENG",
             "regionName": "England",
             "city": "London",
-            "zip": "EC1A",
-            "lat": 51.5081,
-            "lon": -0.1278,
+            "zip": "W1B",
+            "lat": 51.5072,
+            "lon": -0.127586,
             "timezone": "Europe/London",
             "isp": "Global Connectivity Solutions LLP",
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "193.32.176.109",
+            "query": "130.49.187.61",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 6.91
+            "port": "1082",
+            "response_time": 1.64
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5072,
+            "lon": -0.127586,
+            "timezone": "Europe/London",
+            "isp": "Aktsiaselts WaveCom",
+            "org": "EE Wavecom",
+            "as": "AS34702 Aktsiaselts WaveCom",
+            "query": "80.79.123.97",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 10.63
         }
     ]
 }
