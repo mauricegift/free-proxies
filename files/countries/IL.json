@@ -1,26 +1,26 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Israel",
             "countryCode": "IL",
-            "region": "M",
-            "regionName": "Central District",
-            "city": "Petah Tikva",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
             "zip": "",
-            "lat": 32.0876,
-            "lon": 34.8739,
+            "lat": 32.0804,
+            "lon": 34.7807,
             "timezone": "Asia/Jerusalem",
-            "isp": "BEZEQ-INTERNATIONAL",
-            "org": "",
-            "as": "AS8551 Bezeq International Ltd.",
-            "query": "31.168.143.90",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.71
+            "isp": "Amazon.com, Inc.",
+            "org": "A100 ROW Inc",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.16.42.227",
+            "type": "http",
+            "port": "12714",
+            "response_time": 1.63
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "51.16.42.227",
             "type": "http",
             "port": "1981",
-            "response_time": 1.88
+            "response_time": 1.72
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "M",
+            "regionName": "Central District",
+            "city": "Petah Tikva",
+            "zip": "",
+            "lat": 32.0876,
+            "lon": 34.8739,
+            "timezone": "Asia/Jerusalem",
+            "isp": "BEZEQ-INTERNATIONAL",
+            "org": "",
+            "as": "AS8551 Bezeq International Ltd.",
+            "query": "31.168.143.90",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.86
         }
     ]
 }
