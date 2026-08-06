@@ -1,27 +1,8 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 5,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "72",
-            "regionName": "Zl\u00edn",
-            "city": "Brumov-Bylnice",
-            "zip": "763 31",
-            "lat": 49.0885,
-            "lon": 18.0263,
-            "timezone": "Europe/Prague",
-            "isp": "Martin Vicenik",
-            "org": "VicenikRoute",
-            "as": "AS34955 Martin Vicenik",
-            "query": "81.162.195.35",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.34
-        },
         {
             "status": "success",
             "country": "Czechia",
@@ -39,45 +20,26 @@
             "query": "90.182.147.170",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.41
+            "response_time": 0.28
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "71",
-            "regionName": "Olomouc Region",
-            "city": "P\u0159erov",
-            "zip": "750 02",
-            "lat": 49.4137,
-            "lon": 17.5032,
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "Votice",
+            "zip": "259 01",
+            "lat": 49.6409,
+            "lon": 14.6376,
             "timezone": "Europe/Prague",
-            "isp": "LAN servis s.r.o",
-            "org": "LANservis s.r.o",
-            "as": "AS196815 LAN servis s.r.o.",
-            "query": "109.69.211.18",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.18
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "31",
-            "regionName": "South Bohemian Region",
-            "city": "Vimperk",
-            "zip": "385 01",
-            "lat": 49.0531,
-            "lon": 13.7733,
-            "timezone": "Europe/Prague",
-            "isp": "IT PROFI s.r.o",
-            "org": "IP Profi",
-            "as": "AS3161 IT PROFI s.r.o.",
-            "query": "194.1.188.8",
-            "type": "socks4",
-            "port": "60606",
-            "response_time": 5.51
+            "isp": "BlueTone-CRa",
+            "org": "WIFCOM a.s.",
+            "as": "AS25248 RADIOKOMUNIKACE a.s.",
+            "query": "84.244.119.36",
+            "type": "http",
+            "port": "23500",
+            "response_time": 6.38
         },
         {
             "status": "success",
@@ -91,12 +53,12 @@
             "lon": 14.3947,
             "timezone": "Europe/Prague",
             "isp": "T-Mobile Czech Republic a.s.",
-            "org": "Tmcz Gpon",
-            "as": "AS13036 T-Mobile Czech Republic a.s.",
-            "query": "193.179.52.197",
+            "org": "T-Mobile Czech Republic",
+            "as": "AS48574 T-Mobile Czech Republic a.s.",
+            "query": "185.248.179.99",
             "type": "http",
-            "port": "3128",
-            "response_time": 6.22
+            "port": "8080",
+            "response_time": 8.33
         }
     ]
 }
