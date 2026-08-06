@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "23",
-            "regionName": "Jablanica",
-            "city": "Leskovac",
-            "zip": "",
-            "lat": 42.9958,
-            "lon": 21.9439,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Zbet",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "178.220.148.82",
-            "type": "socks4",
-            "port": "10801",
-            "response_time": 2.58
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -39,7 +20,45 @@
             "query": "212.200.223.89",
             "type": "http",
             "port": "8080",
-            "response_time": 4.71
+            "response_time": 3.7
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.77
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Smederevo",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "195.178.56.33",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.81
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "77.46.138.49",
             "type": "http",
             "port": "8080",
-            "response_time": 12.2
+            "response_time": 11.2
         }
     ]
 }
