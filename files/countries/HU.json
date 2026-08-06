@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BK",
+            "regionName": "B\u00e1cs-Kiskun",
+            "city": "Kecskem\u00e9t",
+            "zip": "6000",
+            "lat": 46.905,
+            "lon": 19.6958,
+            "timezone": "Europe/Budapest",
+            "isp": "Deltakon Kft.",
+            "org": "Deltanet Internet",
+            "as": "AS209001 DELTAKON KFT.",
+            "query": "95.214.123.140",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.07
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,7 @@
             "query": "84.1.150.26",
             "type": "http",
             "port": "8080",
-            "response_time": 5.31
+            "response_time": 4.18
         },
         {
             "status": "success",
@@ -39,7 +58,45 @@
             "query": "46.107.230.122",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.84
+            "response_time": 4.27
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BK",
+            "regionName": "B\u00e1cs-Kiskun",
+            "city": "Kecskem\u00e9t",
+            "zip": "6000",
+            "lat": 46.905,
+            "lon": 19.6958,
+            "timezone": "Europe/Budapest",
+            "isp": "Deltakon Kft.",
+            "org": "Deltanet Internet",
+            "as": "AS209001 DELTAKON KFT.",
+            "query": "95.214.123.80",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.3
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BK",
+            "regionName": "B\u00e1cs-Kiskun",
+            "city": "Kecskem\u00e9t",
+            "zip": "6000",
+            "lat": 46.905,
+            "lon": 19.6958,
+            "timezone": "Europe/Budapest",
+            "isp": "Deltakon Kft.",
+            "org": "Deltanet Internet",
+            "as": "AS209001 DELTAKON KFT.",
+            "query": "95.214.123.155",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.9
         }
     ]
 }
