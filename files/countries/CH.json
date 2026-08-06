@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 17,
+    "count": 9,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon.com, Inc.",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.62.123.236",
+            "query": "16.18.37.186",
             "type": "http",
-            "port": "28101",
-            "response_time": 0.46
+            "port": "35218",
+            "response_time": 0.47
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 47.3643,
             "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
+            "isp": "Zscaler Switzerland GmbH",
+            "org": "Zscaler Zrh1",
+            "as": "AS62044 Zscaler Switzerland GmbH",
+            "query": "147.161.246.246",
             "type": "http",
-            "port": "10463",
-            "response_time": 0.6
+            "port": "80",
+            "response_time": 0.69
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "16.18.37.186",
             "type": "http",
             "port": "9697",
-            "response_time": 0.67
+            "response_time": 1.34
         },
         {
             "status": "success",
@@ -74,10 +74,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "Amazon.com, Inc.",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.62.123.236",
+            "query": "16.18.37.186",
             "type": "http",
-            "port": "51152",
-            "response_time": 0.69
+            "port": "19175",
+            "response_time": 1.38
         },
         {
             "status": "success",
@@ -95,160 +95,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.34.28.236",
             "type": "http",
-            "port": "443",
-            "response_time": 1.13
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
-            "type": "http",
-            "port": "34939",
-            "response_time": 1.24
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Wetzikon",
-            "zip": "8620",
-            "lat": 47.3223,
-            "lon": 8.80102,
-            "timezone": "Europe/Zurich",
-            "isp": "Geronimo Ramirez Computer Network",
-            "org": "Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network",
-            "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
-            "query": "185.191.239.248",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.3
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
-            "type": "http",
-            "port": "11796",
-            "response_time": 1.55
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon.com, Inc.",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.62.123.236",
-            "type": "http",
-            "port": "54028",
-            "response_time": 1.66
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
-            "type": "http",
-            "port": "58073",
-            "response_time": 1.84
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZG",
-            "regionName": "Zug",
-            "city": "H\u00fcnenberg",
-            "zip": "6331",
-            "lat": 47.1937,
-            "lon": 8.4202,
-            "timezone": "Europe/Zurich",
-            "isp": "FORNEX",
-            "org": "Fornex Hosting S.L.",
-            "as": "AS51395 Datasource AG",
-            "query": "194.154.29.161",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.21
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.37
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.37
+            "port": "954",
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -267,7 +115,7 @@
             "query": "16.62.123.236",
             "type": "http",
             "port": "16576",
-            "response_time": 3.76
+            "response_time": 1.7
         },
         {
             "status": "success",
@@ -281,12 +129,12 @@
             "lon": 8.5437,
             "timezone": "Europe/Zurich",
             "isp": "Amazon.com, Inc.",
-            "org": "Amazon Technologies Inc",
+            "org": "Amazon.com, Inc.",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.34.28.236",
+            "query": "16.62.123.236",
             "type": "http",
-            "port": "59832",
-            "response_time": 4.26
+            "port": "41567",
+            "response_time": 3.73
         },
         {
             "status": "success",
@@ -303,9 +151,9 @@
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
             "query": "45.95.232.35",
-            "type": "http",
-            "port": "3128",
-            "response_time": 7.27
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.94
         },
         {
             "status": "success",
@@ -318,13 +166,13 @@
             "lat": 47.3643,
             "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "Hostkey B.V.",
-            "org": "Hostkey B.V",
-            "as": "AS57043 HOSTKEY B.V.",
-            "query": "151.241.217.200",
-            "type": "http",
-            "port": "3128",
-            "response_time": 11.11
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.94
         }
     ]
 }
