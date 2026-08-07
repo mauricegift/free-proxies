@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,64 +20,26 @@
             "query": "82.209.210.213",
             "type": "http",
             "port": "3128",
-            "response_time": 0.98
+            "response_time": 1.34
         },
         {
             "status": "success",
             "country": "Belarus",
             "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220004",
-            "lat": 53.901,
-            "lon": 27.5707,
+            "region": "BR",
+            "regionName": "Brest",
+            "city": "Brest",
+            "zip": "224000",
+            "lat": 52.0901,
+            "lon": 23.6836,
             "timezone": "Europe/Minsk",
             "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-            "org": "PPPoE USERS GRODNO",
+            "org": "AI PI DI Group",
             "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-            "query": "86.57.178.182",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.73
-        },
-        {
-            "status": "success",
-            "country": "Belarus",
-            "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220000",
-            "lat": 53.901,
-            "lon": 27.5707,
-            "timezone": "Europe/Minsk",
-            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-            "org": "IPoE USERS GRODNO",
-            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-            "query": "82.209.219.244",
+            "query": "82.209.251.53",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.79
-        },
-        {
-            "status": "success",
-            "country": "Belarus",
-            "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220000",
-            "lat": 53.901,
-            "lon": 27.5707,
-            "timezone": "Europe/Minsk",
-            "isp": "Cosmos TV Jllc",
-            "org": "Belarusian-American joint venture Cosmos TV, Ltd.",
-            "as": "AS31143 COSMOS TV JLLC",
-            "query": "91.149.142.139",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.47
+            "port": "45678",
+            "response_time": 8.84
         }
     ]
 }
