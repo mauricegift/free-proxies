@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 8,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Phnom Penh Cable TV",
             "org": "Phnom Penh Cable TV",
             "as": "AS38286 PPCTV broadband service is the first cable and DSL internet in Cambodia",
-            "query": "122.252.183.22",
+            "query": "122.252.179.66",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 1.51
+            "port": "5678",
+            "response_time": 3.64
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "EZECOM CO., LTD.",
+            "org": "EZECOM limited",
+            "as": "AS38901 EZECOM CO., LTD.",
+            "query": "110.74.206.40",
+            "type": "http",
+            "port": "8181",
+            "response_time": 4.62
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "36.37.147.34",
             "type": "http",
             "port": "8080",
-            "response_time": 2.07
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "8",
-            "regionName": "Kandal",
-            "city": "Ta Khmau",
-            "zip": "",
-            "lat": 11.4989,
-            "lon": 104.926,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "COGETEL Co., Ltd",
-            "org": "Cogetel Ltd",
-            "as": "AS23673 Cogetel Online, Cambodia, ISP",
-            "query": "103.197.242.106",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.07
+            "response_time": 5.3
         },
         {
             "status": "success",
@@ -71,13 +71,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "WiCAM Corporation",
-            "org": "WiCAM Corporation Ltd.",
-            "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "49.156.44.166",
+            "isp": "MekongNet",
+            "org": "",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "116.212.149.218",
             "type": "http",
             "port": "8080",
-            "response_time": 3.23
+            "response_time": 7.03
         },
         {
             "status": "success",
@@ -86,17 +86,17 @@
             "region": "12",
             "regionName": "Phnom Penh",
             "city": "Phnom Penh",
-            "zip": "12308",
-            "lat": 11.5448,
-            "lon": 104.8921,
+            "zip": "",
+            "lat": 11.5625,
+            "lon": 104.916,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "Today Communication Co",
-            "org": "Today Communication Co., Ltd",
-            "as": "AS135375 Today Communication Co.,Ltd",
-            "query": "103.216.48.124",
+            "isp": "S.I Group",
+            "org": "Sigroups",
+            "as": "AS131207 SINET, Cambodia's specialist Internet and Telecom Service Provider.",
+            "query": "203.217.169.26",
             "type": "http",
             "port": "8080",
-            "response_time": 4.57
+            "response_time": 8.57
         },
         {
             "status": "success",
@@ -115,7 +115,64 @@
             "query": "110.74.195.152",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.76
+            "response_time": 8.92
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "MEKONGNET",
+            "org": "",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "203.171.252.7",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.96
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "WiCAM Corporation",
+            "org": "WiCAM Corporation Ltd.",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "49.156.44.116",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.41
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "WiCAM Corporation",
+            "org": "WiCAM Corporation Ltd.",
+            "as": "AS24492 WiCAM Corporation Ltd.",
+            "query": "49.156.44.166",
+            "type": "http",
+            "port": "8080",
+            "response_time": 15.61
         },
         {
             "status": "success",
@@ -131,29 +188,10 @@
             "isp": "VIETTEL (CAMBODIA) PTE., LTD",
             "org": "Viettel (cambodia) Pte., Ltd.",
             "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.251.137",
+            "query": "175.100.35.103",
             "type": "http",
             "port": "8080",
-            "response_time": 8.08
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "12",
-            "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
-            "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "COGETEL Co",
-            "org": "Cogetel Ltd",
-            "as": "AS23673 Cogetel Online, Cambodia, ISP",
-            "query": "110.235.250.77",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.17
+            "response_time": 17.49
         }
     ]
 }
