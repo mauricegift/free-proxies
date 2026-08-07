@@ -1,27 +1,8 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 7,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5072,
-            "lon": -0.127586,
-            "timezone": "Europe/London",
-            "isp": "ICUK Computing Services Limited",
-            "org": "SKY",
-            "as": "AS51561 ICUK Computing Services Limited",
-            "query": "138.124.137.82",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.27
-        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -39,26 +20,7 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 1.31
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (uk-london-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "145.241.223.213",
-            "type": "http",
-            "port": "805",
-            "response_time": 1.39
+            "response_time": 1.23
         },
         {
             "status": "success",
@@ -76,8 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "18.170.25.193",
             "type": "http",
-            "port": "11683",
-            "response_time": 1.81
+            "port": "46044",
+            "response_time": 1.32
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "18.170.25.193",
             "type": "http",
             "port": "7451",
-            "response_time": 2.45
+            "response_time": 2.21
         },
         {
             "status": "success",
@@ -104,18 +66,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5074,
-            "lon": -0.127758,
+            "city": "City of London",
+            "zip": "EC4N 4TR",
+            "lat": 51.5134,
+            "lon": -0.0890675,
             "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.170.25.193",
+            "isp": "BL Networks",
+            "org": "BL Networks",
+            "as": "AS399629 BL Networks",
+            "query": "149.248.76.55",
             "type": "http",
-            "port": "1111",
-            "response_time": 3.7
+            "port": "10006",
+            "response_time": 2.52
         },
         {
             "status": "success",
@@ -123,18 +85,37 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Bromley",
-            "zip": "BR1",
-            "lat": 51.4048,
-            "lon": 0.0098,
+            "city": "City of London",
+            "zip": "EC4N 4TR",
+            "lat": 51.5134,
+            "lon": -0.0890675,
             "timezone": "Europe/London",
-            "isp": "JSC IOT",
-            "org": "JSCIOT",
-            "as": "AS29182 JSC IOT",
-            "query": "91.107.122.209",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.87
+            "isp": "FranTech Solutions",
+            "org": "RouterHosting LLC",
+            "as": "AS198983 Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",
+            "query": "104.194.148.204",
+            "type": "http",
+            "port": "80",
+            "response_time": 3.62
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digitalocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "46.101.36.247",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 13.41
         }
     ]
 }
