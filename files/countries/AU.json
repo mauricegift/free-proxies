@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "The Rocks",
-            "zip": "2000",
-            "lat": -33.86,
-            "lon": 151.2094,
+            "city": "Sydney",
+            "zip": "1001",
+            "lat": -33.8688,
+            "lon": 151.209,
             "timezone": "Australia/Sydney",
-            "isp": "Microsoft Corporation",
-            "org": "Microsoft Azure Cloud (australiaeast)",
-            "as": "AS8075 Microsoft Corporation",
-            "query": "4.147.85.147",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-sydney-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "192.9.171.168",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.9
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Burnside",
+            "zip": "3023",
+            "lat": -37.7469,
+            "lon": 144.749,
+            "timezone": "Australia/Melbourne",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
             "type": "http",
-            "port": "3128",
-            "response_time": 3.85
+            "port": "80",
+            "response_time": 10.3
         }
     ]
 }
