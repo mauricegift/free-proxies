@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "GLB Bulut Teknolojisi Limited Sirketi",
-            "org": "GLB Bulut Teknolojisi Limited Sirketi",
-            "as": "AS48207 GLB Bulut Teknolojisi Limited Sirketi",
-            "query": "170.168.102.55",
+            "isp": "GNC",
+            "org": "Hamynqneri_Miutyun_Sisian",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "130.193.123.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.69
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Zovuni",
+            "zip": "",
+            "lat": 40.2331,
+            "lon": 44.5113,
+            "timezone": "Asia/Yerevan",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.18",
             "type": "http",
-            "port": "3128",
-            "response_time": 2.45
+            "port": "81",
+            "response_time": 0.7
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "81.16.9.222",
             "type": "socks4",
             "port": "3629",
-            "response_time": 4.29
-        },
-        {
-            "status": "success",
-            "country": "Armenia",
-            "countryCode": "AM",
-            "region": "KT",
-            "regionName": "Kotayk",
-            "city": "Zovuni",
-            "zip": "",
-            "lat": 40.2331,
-            "lon": 44.5113,
-            "timezone": "Asia/Yerevan",
-            "isp": "LikeNet LLC",
-            "org": "Inecobank",
-            "as": "AS215421 LikeNet LLC",
-            "query": "46.36.123.30",
-            "type": "http",
-            "port": "81",
-            "response_time": 4.31
+            "response_time": 1.82
         },
         {
             "status": "success",
@@ -66,18 +66,37 @@
             "countryCode": "AM",
             "region": "ER",
             "regionName": "Yerevan",
-            "city": "Arabkir",
+            "city": "Yerevan",
             "zip": "",
-            "lat": 40.2041,
-            "lon": 44.4877,
+            "lat": 40.1814,
+            "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "UCOM-SUBSCRIBERS",
+            "isp": "GLB Bulut Teknolojisi Limited Sirketi",
+            "org": "GLB Bulut Teknolojisi Limited Sirketi",
+            "as": "AS48207 GLB Bulut Teknolojisi Limited Sirketi",
+            "query": "170.168.102.55",
+            "type": "http",
+            "port": "3128",
+            "response_time": 5.77
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom Mobile Network",
             "org": "",
             "as": "AS44395 Ucom CJSC",
-            "query": "109.75.42.82",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 5.79
+            "query": "5.77.252.202",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.61
         },
         {
             "status": "success",
@@ -96,7 +115,7 @@
             "query": "45.142.195.110",
             "type": "socks4",
             "port": "995",
-            "response_time": 6.26
+            "response_time": 12.03
         }
     ]
 }
