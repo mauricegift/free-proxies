@@ -1,26 +1,45 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Belarus",
             "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220004",
-            "lat": 53.901,
-            "lon": 27.5707,
+            "region": "BR",
+            "regionName": "Brest",
+            "city": "Brest",
+            "zip": "224000",
+            "lat": 52.0901,
+            "lon": 23.6836,
             "timezone": "Europe/Minsk",
             "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-            "org": "PPPoE USERS GRODNO",
+            "org": "AI PI DI Group",
             "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-            "query": "86.57.178.182",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 0.43
+            "query": "82.209.251.53",
+            "type": "http",
+            "port": "45678",
+            "response_time": 8.08
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Kolodishchi",
+            "zip": "223050",
+            "lat": 53.9516,
+            "lon": 27.7806,
+            "timezone": "Europe/Minsk",
+            "isp": "Yedinyye Resheniya LLC",
+            "org": "Yedinyye Resheniya LLC",
+            "as": "AS215272 Yedinyye Resheniya LLC",
+            "query": "185.251.38.116",
+            "type": "http",
+            "port": "3127",
+            "response_time": 10.82
         }
     ]
 }
