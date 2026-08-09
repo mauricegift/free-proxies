@@ -1,46 +1,8 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 5,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Cheltenham",
-            "zip": "GL50",
-            "lat": 51.9001,
-            "lon": -2.07972,
-            "timezone": "Europe/London",
-            "isp": "IP River",
-            "org": "",
-            "as": "AS62163 IP River Limited",
-            "query": "5.157.64.213",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.82
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5072,
-            "lon": -0.127586,
-            "timezone": "Europe/London",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "130.49.187.61",
-            "type": "socks4",
-            "port": "1082",
-            "response_time": 4.26
-        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -58,7 +20,7 @@
             "query": "212.58.132.5",
             "type": "http",
             "port": "8888",
-            "response_time": 8.35
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -66,18 +28,37 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Erith",
-            "zip": "DA8",
-            "lat": 51.4808,
-            "lon": 0.174675,
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5072,
+            "lon": -0.127586,
             "timezone": "Europe/London",
-            "isp": "OVH SAS",
-            "org": "OVH Ltd",
-            "as": "AS16276 OVH SAS",
-            "query": "57.128.159.156",
-            "type": "http",
-            "port": "21",
-            "response_time": 9.24
+            "isp": "IONOS SE",
+            "org": "IONOS SE",
+            "as": "AS8560 IONOS SE",
+            "query": "194.164.125.208",
+            "type": "socks4",
+            "port": "57422",
+            "response_time": 3.88
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Cheltenham",
+            "zip": "GL50",
+            "lat": 51.9001,
+            "lon": -2.07972,
+            "timezone": "Europe/London",
+            "isp": "IP River",
+            "org": "",
+            "as": "AS62163 IP River Limited",
+            "query": "5.157.64.213",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.95
         },
         {
             "status": "success",
@@ -94,9 +75,9 @@
             "org": "M247 LTD",
             "as": "AS9009 M247 Europe SRL",
             "query": "91.90.121.44",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 10.19
+            "response_time": 13.94
         }
     ]
 }
