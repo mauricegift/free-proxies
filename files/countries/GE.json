@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.115",
+            "query": "85.117.61.74",
             "type": "http",
             "port": "8080",
-            "response_time": 1.33
+            "response_time": 1.53
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.110",
+            "query": "85.117.56.104",
             "type": "http",
             "port": "8080",
-            "response_time": 4.69
+            "response_time": 7.28
         },
         {
             "status": "success",
@@ -52,51 +52,32 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.63.207",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.57
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.82",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.28
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "KK",
-            "regionName": "Kvemo Kartli",
-            "city": "Marneuli",
-            "zip": "",
-            "lat": 41.4809,
-            "lon": 44.8072,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Deltanet-net Network",
+            "isp": "T-net Network",
             "org": "",
             "as": "AS44327 DELTA COMM LLC",
-            "query": "92.51.122.174",
+            "query": "92.51.97.3",
             "type": "http",
             "port": "8080",
-            "response_time": 10.72
+            "response_time": 7.77
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.56.66",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.22
         }
     ]
 }
