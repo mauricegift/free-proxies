@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,29 +17,29 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.209.162",
-            "type": "http",
-            "port": "8082",
-            "response_time": 4.97
+            "query": "41.75.84.86",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.11
         },
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
-            "region": "OG",
-            "regionName": "Ogun State",
-            "city": "Abeokuta",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
             "zip": "",
-            "lat": 7.1472,
-            "lon": 3.3505,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "General Telecommunication Networks Limited",
-            "org": "General Telecommunication Networks (NIG) Limited",
-            "as": "AS37605 General Telecommunication Networks (NIG) Limited",
-            "query": "41.242.72.68",
+            "isp": "Syscodes Communications",
+            "org": "",
+            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
+            "query": "102.36.133.62",
             "type": "http",
             "port": "8080",
-            "response_time": 8.48
+            "response_time": 2.68
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.208.190",
+            "query": "154.113.209.164",
+            "type": "http",
+            "port": "8082",
+            "response_time": 4.65
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Zeta-WEB",
+            "org": "",
+            "as": "AS328035 Zeta-web Nigeria Limited",
+            "query": "45.222.101.111",
             "type": "http",
             "port": "8080",
-            "response_time": 10.78
+            "response_time": 8.59
         }
     ]
 }
