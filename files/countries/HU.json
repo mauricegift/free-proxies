@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "BU",
-            "regionName": "Budapest",
-            "city": "Budapest",
-            "zip": "1161",
-            "lat": 47.5,
-            "lon": 19.0412,
-            "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom",
-            "org": "",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "84.1.150.26",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.13
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,7 +20,26 @@
             "query": "81.183.231.55",
             "type": "socks4",
             "port": "80",
-            "response_time": 7.54
+            "response_time": 2.34
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1117",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "HDSNET",
+            "org": "",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "91.83.1.171",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.0
         },
         {
             "status": "success",
@@ -47,37 +47,18 @@
             "countryCode": "HU",
             "region": "HB",
             "regionName": "Hajd\u00fa-Bihar",
-            "city": "Debrecen",
-            "zip": "4033",
-            "lat": 47.5232,
-            "lon": 21.6334,
+            "city": "F\u00f6ldes",
+            "zip": "4177",
+            "lat": 47.2987,
+            "lon": 21.3613,
             "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Portal",
+            "isp": "Magyar Telekom",
+            "org": "",
             "as": "AS5483 Magyar Telekom Plc.",
-            "query": "91.147.235.162",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 8.25
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "BK",
-            "regionName": "B\u00e1cs-Kiskun",
-            "city": "Kecskem\u00e9t",
-            "zip": "6000",
-            "lat": 46.905,
-            "lon": 19.6958,
-            "timezone": "Europe/Budapest",
-            "isp": "Deltakon Kft.",
-            "org": "Deltanet Internet",
-            "as": "AS209001 DELTAKON KFT.",
-            "query": "95.214.123.99",
+            "query": "84.0.150.152",
             "type": "http",
             "port": "8080",
-            "response_time": 8.53
+            "response_time": 9.62
         }
     ]
 }
