@@ -1,7 +1,7 @@
 {
     "countryCode": "PK",
     "country": "Pakistan",
-    "count": 6,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -18,28 +18,9 @@
             "org": "WANGSU",
             "as": "AS132165 Connect Communications",
             "query": "111.119.162.248",
-            "type": "http",
-            "port": "10925",
-            "response_time": 1.26
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "PB",
-            "regionName": "Punjab",
-            "city": "Manhala",
-            "zip": "",
-            "lat": 31.5333,
-            "lon": 74.55,
-            "timezone": "Asia/Karachi",
-            "isp": "ConnecTel Internet Services",
-            "org": "",
-            "as": "AS55501 141-143 Maulana Shaukat Ali Road",
-            "query": "103.225.221.18",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 2.89
+            "port": "10925",
+            "response_time": 1.37
         },
         {
             "status": "success",
@@ -55,10 +36,67 @@
             "isp": "Galaxy Broadband (pvt.) Ltd.",
             "org": "Clickbb",
             "as": "AS139879 Galaxy Broadband",
-            "query": "103.146.137.61",
+            "query": "103.146.137.49",
             "type": "socks4",
             "port": "1081",
-            "response_time": 3.85
+            "response_time": 2.83
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75290",
+            "lat": 24.9239,
+            "lon": 67.1423,
+            "timezone": "Asia/Karachi",
+            "isp": "Galaxy Broadband (pvt.) Ltd.",
+            "org": "Clickbb",
+            "as": "AS139879 Galaxy Broadband",
+            "query": "103.146.137.65",
+            "type": "socks4",
+            "port": "1081",
+            "response_time": 3.37
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Lahore",
+            "zip": "54000",
+            "lat": 31.5826,
+            "lon": 74.3276,
+            "timezone": "Asia/Karachi",
+            "isp": "Wateen Telecom (Pvt.) Ltd",
+            "org": "Wateen Telecom Limited",
+            "as": "AS38264 National WiMAX/IMS environment",
+            "query": "110.38.234.74",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.03
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "SD",
+            "regionName": "Sindh",
+            "city": "Karachi",
+            "zip": "75600",
+            "lat": 24.7929,
+            "lon": 66.9719,
+            "timezone": "Asia/Karachi",
+            "isp": "Multinet 125-110/24",
+            "org": "Multinet Pakistan Pvt. Ltd.",
+            "as": "AS9260 Multinet Pakistan Pvt. Ltd.",
+            "query": "125.209.110.83",
+            "type": "socks4",
+            "port": "1981",
+            "response_time": 4.28
         },
         {
             "status": "success",
@@ -77,26 +115,7 @@
             "query": "103.146.137.69",
             "type": "socks4",
             "port": "1081",
-            "response_time": 6.1
-        },
-        {
-            "status": "success",
-            "country": "Pakistan",
-            "countryCode": "PK",
-            "region": "SD",
-            "regionName": "Sindh",
-            "city": "Karachi",
-            "zip": "75290",
-            "lat": 24.9239,
-            "lon": 67.1423,
-            "timezone": "Asia/Karachi",
-            "isp": "Galaxy Broadband (pvt.) Ltd.",
-            "org": "Clickbb",
-            "as": "AS139879 Galaxy Broadband",
-            "query": "103.146.137.229",
-            "type": "socks4",
-            "port": "1081",
-            "response_time": 6.99
+            "response_time": 8.74
         },
         {
             "status": "success",
@@ -115,7 +134,26 @@
             "query": "125.209.110.83",
             "type": "http",
             "port": "39617",
-            "response_time": 12.37
+            "response_time": 9.36
+        },
+        {
+            "status": "success",
+            "country": "Pakistan",
+            "countryCode": "PK",
+            "region": "PB",
+            "regionName": "Punjab",
+            "city": "Qadirpur Ran",
+            "zip": "",
+            "lat": 30.2918,
+            "lon": 71.6716,
+            "timezone": "Asia/Karachi",
+            "isp": "Prime Networks",
+            "org": "Prime Networks",
+            "as": "AS138590 Prime Networks",
+            "query": "103.134.1.14",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.43
         }
     ]
 }
