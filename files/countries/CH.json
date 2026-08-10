@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "CH",
             "region": "ZH",
             "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.14",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.34
+            "isp": "Zscaler Switzerland GmbH",
+            "org": "ZSCALER, INC.",
+            "as": "AS62044 Zscaler Switzerland GmbH",
+            "query": "165.225.66.38",
+            "type": "http",
+            "port": "11203",
+            "response_time": 0.43
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.61
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
-            "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.15",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 3.44
+            "response_time": 6.52
         },
         {
             "status": "success",
@@ -71,13 +52,13 @@
             "lat": 47.3643,
             "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "http",
-            "port": "3128",
-            "response_time": 4.1
+            "isp": "HostHatch",
+            "org": "HostHatch, LLC",
+            "as": "AS63473 HostHatch, LLC",
+            "query": "45.91.92.184",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 7.86
         }
     ]
 }
