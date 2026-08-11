@@ -1,27 +1,8 @@
 {
     "countryCode": "PS",
-    "country": "Palestine",
-    "count": 2,
+    "country": "Palestinian Territory",
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Palestinian Territory",
-            "countryCode": "PS",
-            "region": "",
-            "regionName": "West Bank",
-            "city": "Ramallah",
-            "zip": "",
-            "lat": 31.9038,
-            "lon": 35.2034,
-            "timezone": "Asia/Hebron",
-            "isp": "BNET network",
-            "org": "",
-            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.26",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.75
-        },
         {
             "status": "success",
             "country": "Palestine",
@@ -39,7 +20,45 @@
             "query": "213.6.68.210",
             "type": "socks4",
             "port": "4145",
-            "response_time": 5.8
+            "response_time": 1.77
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
+            "org": "Bnet Network",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.217",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.78
+        },
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Iktaba",
+            "zip": "",
+            "lat": 32.3266,
+            "lon": 35.0526,
+            "timezone": "Asia/Hebron",
+            "isp": "Gemzo information technology Private Joint-Stock company",
+            "org": "Gemzo information technology Private Joint-Stock company",
+            "as": "AS51336 Gemzo information technology Private Joint-Stock company",
+            "query": "178.214.80.12",
+            "type": "http",
+            "port": "1981",
+            "response_time": 8.7
         }
     ]
 }
