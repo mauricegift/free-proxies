@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 7,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Radicondoli",
+            "zip": "53030",
+            "lat": 43.2601,
+            "lon": 11.049,
+            "timezone": "Europe/Rome",
+            "isp": "Consorzio Terrecablate",
+            "org": "Provincia Siena",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.25.12",
+            "type": "http",
+            "port": "58080",
+            "response_time": 5.34
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,7 +39,7 @@
             "query": "66.163.119.55",
             "type": "http",
             "port": "10006",
-            "response_time": 1.27
+            "response_time": 8.34
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "66.163.119.55",
             "type": "socks4",
             "port": "10006",
-            "response_time": 1.27
+            "response_time": 8.34
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "66.163.119.55",
             "type": "socks5",
             "port": "10006",
-            "response_time": 1.27
+            "response_time": 8.34
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Rome",
+            "zip": "00135",
+            "lat": 41.8905,
+            "lon": 12.5127,
+            "timezone": "Europe/Rome",
+            "isp": "UNIDATA S.p.A.",
+            "org": "UNIDATA S.p.A",
+            "as": "AS5394 Unidata",
+            "query": "194.183.1.205",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.09
         },
         {
             "status": "success",
@@ -68,73 +106,16 @@
             "regionName": "Lombardy",
             "city": "Milan",
             "zip": "20121",
-            "lat": 45.4681,
-            "lon": 9.2011,
-            "timezone": "Europe/Rome",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.161.131.175",
-            "type": "http",
-            "port": "8081",
-            "response_time": 1.76
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "25",
-            "regionName": "Lombardy",
-            "city": "Milan",
-            "zip": "20100",
             "lat": 45.4722,
             "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Mywic Costumers",
-            "org": "",
-            "as": "AS44092 HAL Service SpA",
-            "query": "185.191.106.41",
-            "type": "http",
-            "port": "8081",
-            "response_time": 2.23
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Pomezia",
-            "zip": "00071",
-            "lat": 41.6693,
-            "lon": 12.5012,
-            "timezone": "Europe/Rome",
-            "isp": "Cinzia Tocci trading as Lumanex Srl",
-            "org": "C1V ISP",
-            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
-            "query": "5.59.248.134",
-            "type": "socks5",
-            "port": "8081",
-            "response_time": 4.73
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Arezzo",
-            "zip": "52100",
-            "lat": 43.4631,
-            "lon": 11.8783,
-            "timezone": "Europe/Rome",
-            "isp": "Aruba S.p.A.",
-            "org": "Aruba S.p.A. - Cloud Services",
-            "as": "AS31034 Aruba S.p.A.",
-            "query": "80.211.24.177",
+            "isp": "Seflow S.N.C. Di Marco Brame' & C.",
+            "org": "MyCore Milan Dedicated Services",
+            "as": "AS49367 Seflow s.r.l.",
+            "query": "83.136.106.85",
             "type": "http",
             "port": "3128",
-            "response_time": 8.66
+            "response_time": 11.08
         }
     ]
 }
