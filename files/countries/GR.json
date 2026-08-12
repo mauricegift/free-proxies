@@ -1,7 +1,7 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "GR",
             "region": "B",
             "regionName": "Central Macedonia",
-            "city": "N\u00e1ousa",
+            "city": "Pylaia",
             "zip": "",
-            "lat": 40.6305,
-            "lon": 22.0732,
+            "lat": 40.5992,
+            "lon": 22.9861,
             "timezone": "Europe/Athens",
-            "isp": "OTEnet",
-            "org": "OTEnet S.A.",
+            "isp": "Ote SA (Hellenic Telecommunications Organisation)",
+            "org": "OTEnet",
             "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "94.68.245.147",
+            "query": "94.70.148.177",
             "type": "http",
             "port": "8080",
-            "response_time": 6.45
+            "response_time": 2.72
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Athens",
+            "zip": "",
+            "lat": 37.987,
+            "lon": 23.7658,
+            "timezone": "Europe/Athens",
+            "isp": "OKEANOS Hosted VM's",
+            "org": "Greek Research and Technology Network (GRNET) S.A.",
+            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
+            "query": "83.212.72.114",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.25
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 37.9842,
             "lon": 23.7353,
             "timezone": "Europe/Athens",
-            "isp": "Cosmote Mobile Telecommunication S.A.",
-            "org": "Cosmote Mobile Telecommunications S.A.",
-            "as": "AS29247 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "149.210.0.102",
+            "isp": "University of Thessaly",
+            "org": "Network Operations Center, University of Thessaly",
+            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
+            "query": "194.177.207.44",
             "type": "http",
-            "port": "18080",
-            "response_time": 9.0
+            "port": "3128",
+            "response_time": 10.3
         }
     ]
 }
