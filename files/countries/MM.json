@@ -1,8 +1,27 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "13",
+            "regionName": "Kayin State",
+            "city": "Myawaddy",
+            "zip": "",
+            "lat": 16.6891,
+            "lon": 98.5089,
+            "timezone": "Asia/Yangon",
+            "isp": "V D C Net Company Limited",
+            "org": "V D C Net Company Limited",
+            "as": "AS134484 Ultra Net",
+            "query": "103.197.156.9",
+            "type": "http",
+            "port": "88",
+            "response_time": 4.36
+        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -20,7 +39,7 @@
             "query": "203.81.75.202",
             "type": "http",
             "port": "8080",
-            "response_time": 9.06
+            "response_time": 4.61
         }
     ]
 }
