@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Sia Nano IT",
             "org": "Sia Nano IT",
             "as": "AS43513 Sia Nano IT",
-            "query": "31.170.19.4",
+            "query": "31.170.19.1",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.47
+            "response_time": 0.26
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "088",
+            "regionName": "Saldus novads",
+            "city": "Saldus",
+            "zip": "LV-3801",
+            "lat": 56.6335,
+            "lon": 22.4471,
+            "timezone": "Europe/Riga",
+            "isp": "Sia Nano IT",
+            "org": "Sia Nano IT",
+            "as": "AS43513 Sia Nano IT",
+            "query": "31.170.19.142",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.34
         },
         {
             "status": "success",
@@ -34,12 +53,31 @@
             "lon": 24.0979,
             "timezone": "Europe/Riga",
             "isp": "CGI GLOBAL LIMITED",
-            "org": "CGI GLOBAL LIMITED",
+            "org": "Cloud Backbone",
             "as": "AS56971 AS56971 Cloud",
-            "query": "109.248.161.54",
+            "query": "31.58.79.229",
             "type": "http",
             "port": "8081",
-            "response_time": 11.47
+            "response_time": 9.42
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "R\u012bga",
+            "city": "Riga",
+            "zip": "",
+            "lat": 56.9728,
+            "lon": 24.1657,
+            "timezone": "Europe/Riga",
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "185.236.22.192",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 13.98
         }
     ]
 }
