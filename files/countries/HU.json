@@ -1,46 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "BU",
-            "regionName": "Budapest",
-            "city": "Budapest",
-            "zip": "1025",
-            "lat": 47.5,
-            "lon": 19.0412,
-            "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom",
-            "org": "",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "81.183.231.55",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 1.24
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "PE",
-            "regionName": "Pest County",
-            "city": "\u00c9rd",
-            "zip": "2030",
-            "lat": 47.3949,
-            "lon": 18.9136,
-            "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
-            "org": "DIGI Tavkozlesi es Szolgaltato Kft",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "92.52.238.192",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.04
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -58,7 +20,26 @@
             "query": "91.147.235.162",
             "type": "socks4",
             "port": "4153",
-            "response_time": 8.53
+            "response_time": 1.19
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1025",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "81.183.231.55",
+            "type": "socks4",
+            "port": "80",
+            "response_time": 5.39
         }
     ]
 }
