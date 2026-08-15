@@ -1,8 +1,27 @@
 {
     "countryCode": "PS",
-    "country": "Palestine",
-    "count": 3,
+    "country": "Palestinian Territory",
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Palestinian Territory",
+            "countryCode": "PS",
+            "region": "",
+            "regionName": "West Bank",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9038,
+            "lon": 35.2034,
+            "timezone": "Asia/Hebron",
+            "isp": "BNET network",
+            "org": "",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
+            "query": "93.184.7.26",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.72
+        },
         {
             "status": "success",
             "country": "Palestinian Territory",
@@ -17,48 +36,10 @@
             "isp": "Gemzo information technology Private Joint-Stock company",
             "org": "Gemzo information technology Private Joint-Stock company",
             "as": "AS51336 Gemzo information technology Private Joint-Stock company",
-            "query": "178.214.80.45",
+            "query": "178.214.80.27",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.82
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "JEN",
-            "regionName": "Jenin Governorate",
-            "city": "Jenin",
-            "zip": "",
-            "lat": 32.4648,
-            "lon": 35.3031,
-            "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.68.210",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 2.57
-        },
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "DEB",
-            "regionName": "Deir al-Balah Governorate",
-            "city": "Deir el-Balah",
-            "zip": "",
-            "lat": 31.4183,
-            "lon": 34.3493,
-            "timezone": "Asia/Gaza",
-            "isp": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade",
-            "org": "Abuyousef Co & Partners General Trade",
-            "as": "AS44213 Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade",
-            "query": "109.234.213.86",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.47
+            "port": "1981",
+            "response_time": 9.01
         }
     ]
 }
