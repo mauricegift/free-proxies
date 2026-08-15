@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.108",
+            "query": "85.117.61.74",
             "type": "http",
             "port": "8080",
-            "response_time": 7.86
+            "response_time": 1.52
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "KK",
+            "regionName": "Kvemo Kartli",
+            "city": "Marneuli",
+            "zip": "",
+            "lat": 41.4809,
+            "lon": 44.8072,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Deltanet-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.122.174",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.77
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.82",
+            "query": "85.117.62.70",
             "type": "http",
             "port": "8080",
-            "response_time": 8.88
+            "response_time": 6.07
         }
     ]
 }
