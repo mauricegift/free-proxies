@@ -1,8 +1,27 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "BR",
+            "regionName": "Brest",
+            "city": "Brest",
+            "zip": "224000",
+            "lat": 52.0901,
+            "lon": 23.6836,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "AI PI DI Group",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "82.209.251.53",
+            "type": "http",
+            "port": "45678",
+            "response_time": 7.56
+        },
         {
             "status": "success",
             "country": "Belarus",
@@ -18,9 +37,9 @@
             "org": "Business network LTD",
             "as": "AS12406 Business Network Ltd",
             "query": "80.249.81.179",
-            "type": "socks4",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 18.68
+            "response_time": 12.37
         }
     ]
 }
