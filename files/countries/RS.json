@@ -1,46 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 4,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom BB",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "212.200.223.89",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.07
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "79.101.45.94",
-            "type": "socks4",
-            "port": "56921",
-            "response_time": 2.5
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -58,7 +20,7 @@
             "query": "95.140.113.74",
             "type": "http",
             "port": "6666",
-            "response_time": 6.78
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -71,13 +33,13 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "62.101.137.150",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.58
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 7.71
         }
     ]
 }
