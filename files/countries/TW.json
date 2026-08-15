@@ -1,27 +1,8 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Taiwan",
-            "countryCode": "TW",
-            "region": "",
-            "regionName": "Taiwan",
-            "city": "Daan",
-            "zip": "",
-            "lat": 25.0278,
-            "lon": 121.543,
-            "timezone": "Asia/Taipei",
-            "isp": "CDS Global Cloud Co., Ltd",
-            "org": "Ucul",
-            "as": "AS63199 CDS Global Cloud Co., Ltd",
-            "query": "164.52.11.194",
-            "type": "http",
-            "port": "18080",
-            "response_time": 9.6
-        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -36,10 +17,10 @@
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "211.22.151.163",
-            "type": "http",
-            "port": "60808",
-            "response_time": 11.06
+            "query": "220.132.41.160",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 4.74
         }
     ]
 }
