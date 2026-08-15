@@ -1,7 +1,7 @@
 {
     "countryCode": "MN",
     "country": "Mongolia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Ulaanbaatar",
             "city": "Ulan Bator",
             "zip": "",
-            "lat": 47.9198,
-            "lon": 106.921,
+            "lat": 47.9094,
+            "lon": 106.8819,
             "timezone": "Asia/Ulaanbaatar",
-            "isp": "MCS-Univision",
+            "isp": "Mobinet LLC",
             "org": "",
-            "as": "AS17882 Univision LLC",
-            "query": "103.11.193.73",
+            "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
+            "query": "202.21.106.35",
             "type": "http",
             "port": "8080",
-            "response_time": 3.21
+            "response_time": 5.65
+        },
+        {
+            "status": "success",
+            "country": "Mongolia",
+            "countryCode": "MN",
+            "region": "1",
+            "regionName": "Ulaanbaatar",
+            "city": "Ulan Bator",
+            "zip": "",
+            "lat": 47.9094,
+            "lon": 106.8819,
+            "timezone": "Asia/Ulaanbaatar",
+            "isp": "Mongolia Telecom",
+            "org": "MTC Network",
+            "as": "AS9934 Mongolia Telecom",
+            "query": "202.179.2.250",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.7
         }
     ]
 }
