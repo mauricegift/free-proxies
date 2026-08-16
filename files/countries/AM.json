@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "5.77.252.205",
             "type": "http",
             "port": "8080",
-            "response_time": 0.51
+            "response_time": 1.49
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "5.77.252.202",
             "type": "http",
             "port": "8080",
-            "response_time": 6.82
+            "response_time": 5.64
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Zovuni",
+            "zip": "",
+            "lat": 40.2331,
+            "lon": 44.5113,
+            "timezone": "Asia/Yerevan",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.18",
+            "type": "http",
+            "port": "81",
+            "response_time": 9.74
         }
     ]
 }
