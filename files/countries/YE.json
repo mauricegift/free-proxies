@@ -1,27 +1,8 @@
 {
     "countryCode": "YE",
     "country": "Yemen",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Yemen",
-            "countryCode": "YE",
-            "region": "AD",
-            "regionName": "Aden",
-            "city": "Aden",
-            "zip": "",
-            "lat": 12.7822,
-            "lon": 45.0436,
-            "timezone": "Asia/Aden",
-            "isp": "AS30873 YemenNet",
-            "org": "Aljoraf area - Airport street",
-            "as": "AS30873 Public Telecommunication Corporation",
-            "query": "89.189.67.70",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.64
-        },
         {
             "status": "success",
             "country": "Yemen",
@@ -37,9 +18,9 @@
             "org": "AS12486 annoucement YemenNet -Grp3",
             "as": "AS30873 Public Telecommunication Corporation",
             "query": "82.114.181.147",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 7.56
+            "type": "http",
+            "port": "8080",
+            "response_time": 16.88
         }
     ]
 }
