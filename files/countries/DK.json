@@ -1,7 +1,7 @@
 {
     "countryCode": "DK",
     "country": "Denmark",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,31 @@
             "lon": 9.8842,
             "timezone": "Europe/Copenhagen",
             "isp": "Webdock.io ApS",
-            "org": "Webdock.io ApS",
+            "org": "IPXO",
             "as": "AS44803 Webdock.io ApS",
-            "query": "193.180.215.116",
+            "query": "92.113.150.45",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.36
+        },
+        {
+            "status": "success",
+            "country": "Denmark",
+            "countryCode": "DK",
+            "region": "82",
+            "regionName": "Central Jutland",
+            "city": "Lystrup",
+            "zip": "8520",
+            "lat": 56.2374,
+            "lon": 10.2318,
+            "timezone": "Europe/Copenhagen",
+            "isp": "TDC Holding A/S",
+            "org": "Peter Bodum A-S",
+            "as": "AS3292 TDC Holding A/S",
+            "query": "93.167.245.6",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 6.04
+            "port": "4145",
+            "response_time": 7.97
         }
     ]
 }
