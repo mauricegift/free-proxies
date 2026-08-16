@@ -1,27 +1,8 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.5
-        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -39,7 +20,45 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.5
+            "response_time": 3.87
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "W\u00e4denswil",
+            "zip": "8820",
+            "lat": 47.2258,
+            "lon": 8.66224,
+            "timezone": "Europe/Zurich",
+            "isp": "netz116",
+            "org": "Rolf Tschumi (MGW Online)",
+            "as": "AS48971 DATAWIRE AG",
+            "query": "195.225.116.14",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.49
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "YHC",
+            "org": "",
+            "as": "AS22363 Powerhouse Management, Inc.",
+            "query": "31.6.41.168",
+            "type": "http",
+            "port": "8118",
+            "response_time": 9.32
         }
     ]
 }
