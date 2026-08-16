@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "VO",
-            "regionName": "Vojvodina",
-            "city": "Novi Sad",
-            "zip": "",
-            "lat": 45.25,
-            "lon": 19.8362,
-            "timezone": "Europe/Belgrade",
-            "isp": "Serbia BroadBand",
-            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-            "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-            "query": "82.117.211.42",
-            "type": "http",
-            "port": "8085",
-            "response_time": 7.76
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -34,12 +15,50 @@
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
             "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom BB",
+            "org": "Telekom",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "212.200.223.89",
+            "query": "62.101.137.150",
             "type": "http",
             "port": "8080",
-            "response_time": 12.2
+            "response_time": 2.61
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "79.101.45.94",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 2.98
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "11",
+            "regionName": "Branicevo",
+            "city": "Po\u017earevac",
+            "zip": "",
+            "lat": 44.618,
+            "lon": 21.1723,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Skupstina stanara solitera Y",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "91.150.77.57",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 5.35
         }
     ]
 }
