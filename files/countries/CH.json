@@ -14,32 +14,13 @@
             "lat": 47.3643,
             "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "Zscaler Switzerland GmbH",
-            "org": "Zscaler Zrh1",
-            "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "147.161.246.37",
-            "type": "http",
-            "port": "11716",
-            "response_time": 0.39
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
             "isp": "Global Connectivity Solutions LLP",
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
             "query": "45.95.232.35",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.26
+            "response_time": 4.03
         },
         {
             "status": "success",
@@ -56,9 +37,9 @@
             "org": "Global Connectivity Solutions LLP",
             "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
             "query": "45.95.232.35",
-            "type": "http",
-            "port": "3128",
-            "response_time": 9.48
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.03
         },
         {
             "status": "success",
@@ -77,7 +58,26 @@
             "query": "84.234.28.219",
             "type": "socks5",
             "port": "9080",
-            "response_time": 21.32
+            "response_time": 7.94
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.46
         }
     ]
 }
