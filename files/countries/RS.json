@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 5,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "11",
-            "regionName": "Branicevo",
-            "city": "Po\u017earevac",
-            "zip": "",
-            "lat": 44.618,
-            "lon": 21.1723,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Skupstina stanara solitera Y",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "91.150.77.57",
-            "type": "socks4",
-            "port": "56921",
-            "response_time": 1.6
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -36,10 +17,10 @@
             "isp": "Orion Telekom Network",
             "org": "",
             "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.113.74",
-            "type": "http",
-            "port": "6666",
-            "response_time": 2.67
+            "query": "95.140.118.34",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.27
         },
         {
             "status": "success",
@@ -58,45 +39,7 @@
             "query": "77.46.138.49",
             "type": "http",
             "port": "8080",
-            "response_time": 4.13
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "23",
-            "regionName": "Jablanica",
-            "city": "Leskovac",
-            "zip": "",
-            "lat": 42.9958,
-            "lon": 21.9439,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Zbet",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "178.220.148.82",
-            "type": "socks4",
-            "port": "10801",
-            "response_time": 7.47
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "24",
-            "regionName": "P\u010dinja",
-            "city": "Oraovica",
-            "zip": "",
-            "lat": 42.3289,
-            "lon": 21.6585,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "77.46.138.38",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.28
+            "response_time": 10.85
         }
     ]
 }
