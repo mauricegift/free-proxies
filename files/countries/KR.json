@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.85
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -36,48 +36,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "152.70.237.238",
-            "type": "socks5",
+            "query": "132.226.171.101",
+            "type": "http",
             "port": "3128",
-            "response_time": 2.85
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "27",
-            "regionName": "Daegu",
-            "city": "Seo-gu",
-            "zip": "418",
-            "lat": 35.8731,
-            "lon": 128.5435,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Korea Telecom",
-            "as": "AS4766 Korea Telecom",
-            "query": "221.157.45.249",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 2.96
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "30",
-            "regionName": "Daejeon",
-            "city": "Daejeon",
-            "zip": "34178",
-            "lat": 36.3461,
-            "lon": 127.375,
-            "timezone": "Asia/Seoul",
-            "isp": "LG DACOM KIDC",
-            "org": "plannix",
-            "as": "AS3786 LG DACOM Corporation",
-            "query": "114.108.177.104",
-            "type": "socks4",
-            "port": "60984",
-            "response_time": 4.51
+            "response_time": 3.87
         },
         {
             "status": "success",
@@ -96,7 +58,26 @@
             "query": "183.101.185.89",
             "type": "http",
             "port": "20002",
-            "response_time": 10.79
+            "response_time": 5.44
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Gwangmyeong",
+            "zip": "08520",
+            "lat": 37.4758,
+            "lon": 126.883,
+            "timezone": "Asia/Seoul",
+            "isp": "SMILESERV",
+            "org": "SMILESERV",
+            "as": "AS38700 SMILESERV",
+            "query": "49.247.136.38",
+            "type": "http",
+            "port": "8118",
+            "response_time": 5.49
         }
     ]
 }
