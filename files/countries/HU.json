@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+            "org": "DIGI Tavkozlesi es Szolgaltato Kft",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "92.52.238.192",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.87
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,7 @@
             "query": "95.214.123.140",
             "type": "http",
             "port": "8080",
-            "response_time": 7.56
+            "response_time": 8.23
         }
     ]
 }
