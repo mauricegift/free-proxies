@@ -1,8 +1,27 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
+            "as": "AS44395 Ucom CJSC",
+            "query": "81.16.9.222",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 4.32
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -20,7 +39,26 @@
             "query": "170.168.102.55",
             "type": "http",
             "port": "3128",
-            "response_time": 2.48
+            "response_time": 5.27
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Zovuni",
+            "zip": "",
+            "lat": 40.2331,
+            "lon": 44.5113,
+            "timezone": "Asia/Yerevan",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.30",
+            "type": "http",
+            "port": "81",
+            "response_time": 7.66
         }
     ]
 }
