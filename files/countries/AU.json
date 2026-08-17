@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "152.69.167.87",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.47
+            "response_time": 2.21
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Burnside",
+            "zip": "3023",
+            "lat": -37.7469,
+            "lon": 144.749,
+            "timezone": "Australia/Melbourne",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 12.77
         },
         {
             "status": "success",
@@ -29,17 +48,17 @@
             "region": "NSW",
             "regionName": "New South Wales",
             "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
             "timezone": "Australia/Sydney",
-            "isp": "Contabo Asia Private Limited",
-            "org": "Yorkshire Tech Limited",
-            "as": "AS141995 Contabo Asia Private Limited",
-            "query": "46.250.241.229",
+            "isp": "Choopa",
+            "org": "Vultr Holdings, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "45.63.26.240",
             "type": "http",
-            "port": "3128",
-            "response_time": 9.75
+            "port": "80",
+            "response_time": 22.01
         }
     ]
 }
