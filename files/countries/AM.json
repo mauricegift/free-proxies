@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -14,32 +14,32 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Ucom CJSC",
-            "org": "Ucom",
+            "isp": "Ucom Mobile Network",
+            "org": "",
             "as": "AS44395 Ucom CJSC",
-            "query": "81.16.9.222",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 4.32
+            "query": "5.77.252.204",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.38
         },
         {
             "status": "success",
             "country": "Armenia",
             "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Zovuni",
             "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
+            "lat": 40.2331,
+            "lon": 44.5113,
             "timezone": "Asia/Yerevan",
-            "isp": "GLB Bulut Teknolojisi Limited Sirketi",
-            "org": "GLB Bulut Teknolojisi Limited Sirketi",
-            "as": "AS48207 GLB Bulut Teknolojisi Limited Sirketi",
-            "query": "170.168.102.55",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.18",
             "type": "http",
-            "port": "3128",
-            "response_time": 5.27
+            "port": "81",
+            "response_time": 8.25
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "46.36.123.30",
             "type": "http",
             "port": "81",
-            "response_time": 7.66
+            "response_time": 8.39
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "SU",
+            "regionName": "Syunik",
+            "city": "Darbas",
+            "zip": "",
+            "lat": 39.4389,
+            "lon": 46.1275,
+            "timezone": "Asia/Yerevan",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.66",
+            "type": "http",
+            "port": "81",
+            "response_time": 10.12
         }
     ]
 }
