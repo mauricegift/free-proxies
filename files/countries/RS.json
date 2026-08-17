@@ -1,26 +1,26 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "11000",
-            "lat": 44.8046,
-            "lon": 20.4637,
+            "region": "11",
+            "regionName": "Branicevo",
+            "city": "Po\u017earevac",
+            "zip": "",
+            "lat": 44.618,
+            "lon": 21.1723,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Network",
-            "org": "",
-            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.118.34",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Skupstina stanara solitera Y",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "91.150.77.57",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 4.6
+            "port": "56921",
+            "response_time": 1.49
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom BB",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "212.200.223.89",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.52
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.65
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "CETIN Ltd. Belgrade",
+            "org": "CETIN Ltd. Belgrade",
+            "as": "AS15958 CETINdoo-NET",
+            "query": "109.245.110.145",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.45
         }
     ]
 }
