@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 8,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "66.163.118.99",
             "type": "http",
             "port": "10006",
-            "response_time": 0.73
+            "response_time": 0.28
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "66.163.118.99",
             "type": "socks4",
             "port": "10006",
-            "response_time": 0.73
+            "response_time": 0.28
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "66.163.118.99",
             "type": "socks5",
             "port": "10006",
-            "response_time": 0.73
+            "response_time": 0.28
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CM",
+            "regionName": "Castille-La Mancha",
+            "city": "Quintanar del Rey",
+            "zip": "16220",
+            "lat": 39.335,
+            "lon": -1.9304,
+            "timezone": "Europe/Madrid",
+            "isp": "Free Technologies Excom S.L.",
+            "org": "Customers3",
+            "as": "AS35153 Free Technologies Excom S.L.",
+            "query": "185.212.138.43",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.35
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "66.163.118.105",
             "type": "socks4",
             "port": "10006",
-            "response_time": 3.05
+            "response_time": 5.25
         },
         {
             "status": "success",
@@ -96,64 +115,102 @@
             "query": "66.163.118.105",
             "type": "socks5",
             "port": "10006",
-            "response_time": 3.05
+            "response_time": 5.25
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28041",
-            "lat": 40.3722,
-            "lon": -3.6863,
+            "region": "CT",
+            "regionName": "Catalonia",
+            "city": "Barcelona",
+            "zip": "08035",
+            "lat": 41.4357,
+            "lon": 2.1339,
             "timezone": "Europe/Madrid",
-            "isp": "Uni2",
-            "org": "",
-            "as": "AS12479 Orange Espagne SA",
-            "query": "90.174.128.42",
+            "isp": "Adamo Telecom Iberia S.A Catalonia",
+            "org": "Adamo Telecom Iberia S.A.U",
+            "as": "AS35699 Adamo Telecom Iberia S.A.",
+            "query": "91.126.244.112",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.49
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Granada",
+            "zip": "18008",
+            "lat": 37.1692,
+            "lon": -3.5764,
+            "timezone": "Europe/Madrid",
+            "isp": "Vodafone Espana S.A.U.",
+            "org": "Fergusmed",
+            "as": "AS12430 VODAFONE ESPANA S.A.U.",
+            "query": "95.60.60.204",
             "type": "http",
             "port": "3128",
-            "response_time": 5.75
+            "response_time": 5.87
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28037",
-            "lat": 40.4327,
-            "lon": -3.621,
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Dos Hermanas",
+            "zip": "41702",
+            "lat": 37.2866,
+            "lon": -5.9208,
             "timezone": "Europe/Madrid",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Svenska AB",
-            "as": "AS31898 Oracle Corporation",
-            "query": "143.47.59.115",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 7.51
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28022",
-            "lat": 40.4505,
-            "lon": -3.5926,
-            "timezone": "Europe/Madrid",
-            "isp": "Citelia s.a.",
-            "org": "Fibercli",
-            "as": "AS206276 Citelia s.a.",
-            "query": "193.38.224.169",
+            "isp": "Pinkbear SLU",
+            "org": "PINKBEAR SL",
+            "as": "AS211141 PINKBEAR SLU",
+            "query": "185.226.195.249",
             "type": "http",
-            "port": "8081",
-            "response_time": 13.91
+            "port": "2222",
+            "response_time": 7.54
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CT",
+            "regionName": "Catalonia",
+            "city": "Barcelona",
+            "zip": "08017",
+            "lat": 41.4042,
+            "lon": 2.0966,
+            "timezone": "Europe/Madrid",
+            "isp": "Cloudi Nextgen SL",
+            "org": "Clouding VM",
+            "as": "AS49635 CLOUDI NEXTGEN SL",
+            "query": "187.33.151.110",
+            "type": "http",
+            "port": "3128",
+            "response_time": 8.51
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CT",
+            "regionName": "Catalonia",
+            "city": "Sant Climent de Llobregat",
+            "zip": "08849",
+            "lat": 41.3344,
+            "lon": 2.0052,
+            "timezone": "Europe/Madrid",
+            "isp": "Xtra Telecom S.A.",
+            "org": "Euskaltel CM",
+            "as": "AS15704 XTRA TELECOM S.A.",
+            "query": "85.87.180.159",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.65
         }
     ]
 }
