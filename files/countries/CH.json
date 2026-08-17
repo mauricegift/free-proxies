@@ -1,27 +1,8 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Zscaler Switzerland GmbH",
-            "org": "ZSCALER, INC.",
-            "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "165.225.66.40",
-            "type": "http",
-            "port": "11807",
-            "response_time": 0.62
-        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -39,7 +20,45 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 10.86
+            "response_time": 4.68
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
+            "timezone": "Europe/Zurich",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "45.95.232.35",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.14
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Oberburg",
+            "zip": "3414",
+            "lat": 47.0193,
+            "lon": 7.6089,
+            "timezone": "Europe/Zurich",
+            "isp": "Swisscom (Schweiz) AG - Bluewin",
+            "org": "Swisscom (Schweiz) AG",
+            "as": "AS3303 Swisscom (Switzerland) Ltd",
+            "query": "213.3.34.39",
+            "type": "http",
+            "port": "443",
+            "response_time": 6.72
         }
     ]
 }
