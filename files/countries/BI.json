@@ -1,7 +1,7 @@
 {
     "countryCode": "BI",
     "country": "Burundi",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "197.157.194.28",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.1
+            "response_time": 6.83
+        },
+        {
+            "status": "success",
+            "country": "Burundi",
+            "countryCode": "BI",
+            "region": "BM",
+            "regionName": "Bujumbura Mairie Province",
+            "city": "Bujumbura",
+            "zip": "",
+            "lat": -3.38465,
+            "lon": 29.3564,
+            "timezone": "Africa/Bujumbura",
+            "isp": "Spidernet Network",
+            "org": "Spidernet Sprl Burundi",
+            "as": "AS37429 SPIDERNET SPRL BURUNDI",
+            "query": "197.157.192.168",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.06
         }
     ]
 }
