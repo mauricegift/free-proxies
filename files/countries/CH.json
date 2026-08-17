@@ -1,27 +1,8 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 4,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8000",
-            "lat": 47.3643,
-            "lon": 8.5437,
-            "timezone": "Europe/Zurich",
-            "isp": "Global Connectivity Solutions LLP",
-            "org": "Global Connectivity Solutions LLP",
-            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-            "query": "45.95.232.35",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.42
-        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -39,7 +20,7 @@
             "query": "45.95.232.35",
             "type": "socks5",
             "port": "1080",
-            "response_time": 3.42
+            "response_time": 3.07
         },
         {
             "status": "success",
@@ -58,26 +39,7 @@
             "query": "45.95.232.35",
             "type": "http",
             "port": "3128",
-            "response_time": 7.65
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "GE",
-            "regionName": "Geneva",
-            "city": "Geneva",
-            "zip": "1200",
-            "lat": 46.1912,
-            "lon": 6.13048,
-            "timezone": "Europe/Zurich",
-            "isp": "Infomaniak Network SA",
-            "org": "Infomaniak Network SA",
-            "as": "AS29222 Infomaniak Network SA",
-            "query": "84.234.28.219",
-            "type": "socks5",
-            "port": "9080",
-            "response_time": 11.9
+            "response_time": 3.75
         }
     ]
 }
