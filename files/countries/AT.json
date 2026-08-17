@@ -1,8 +1,27 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Leoben",
+            "zip": "8700",
+            "lat": 47.376,
+            "lon": 15.0893,
+            "timezone": "Europe/Vienna",
+            "isp": "A1 Telekom Austria AG",
+            "org": "A1 Telekom Austria AG",
+            "as": "AS8447 A1 Telekom Austria AG",
+            "query": "178.189.56.158",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.28
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -15,12 +34,12 @@
             "lon": 16.3662,
             "timezone": "Europe/Vienna",
             "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
+            "org": "Aeza Group LLC",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.238.191",
+            "query": "193.233.232.226",
             "type": "http",
-            "port": "443",
-            "response_time": 3.83
+            "port": "3128",
+            "response_time": 9.93
         }
     ]
 }
