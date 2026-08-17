@@ -1,8 +1,27 @@
 {
     "countryCode": "CD",
     "country": "Democratic Republic of the Congo",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Democratic Republic of the Congo",
+            "countryCode": "CD",
+            "region": "KN",
+            "regionName": "Kinshasa City",
+            "city": "Masina",
+            "zip": "",
+            "lat": -4.38361,
+            "lon": 15.3914,
+            "timezone": "Africa/Kinshasa",
+            "isp": "Societe Congolaise des Postes et Telecommunications",
+            "org": "Scpt Network",
+            "as": "AS37677 Societe Congolaise des Postes et Telecommunications (SCPT)",
+            "query": "41.79.233.182",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.42
+        },
         {
             "status": "success",
             "country": "Democratic Republic of the Congo",
@@ -20,7 +39,7 @@
             "query": "102.36.168.185",
             "type": "http",
             "port": "8080",
-            "response_time": 3.5
+            "response_time": 13.53
         }
     ]
 }
