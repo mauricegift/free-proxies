@@ -1,7 +1,7 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.8
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -39,7 +39,83 @@
             "query": "114.108.177.104",
             "type": "socks4",
             "port": "60984",
-            "response_time": 2.71
+            "response_time": 1.68
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Gangnam-gu",
+            "zip": "062",
+            "lat": 37.4909,
+            "lon": 127.0452,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "210.94.84.86",
+            "type": "http",
+            "port": "8118",
+            "response_time": 3.47
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Ansan-si",
+            "zip": "155",
+            "lat": 37.2852,
+            "lon": 126.8251,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "",
+            "as": "AS4766 Korea Telecom",
+            "query": "121.139.218.165",
+            "type": "socks4",
+            "port": "43295",
+            "response_time": 8.75
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Pyeongtaek-si",
+            "zip": "177",
+            "lat": 37.0847,
+            "lon": 127.0525,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "14.34.180.21",
+            "type": "http",
+            "port": "38157",
+            "response_time": 10.23
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Geumcheon-gu",
+            "zip": "085",
+            "lat": 37.4784,
+            "lon": 126.8982,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Kornet",
+            "as": "AS4766 Korea Telecom",
+            "query": "183.101.185.89",
+            "type": "http",
+            "port": "20002",
+            "response_time": 21.56
         }
     ]
 }
