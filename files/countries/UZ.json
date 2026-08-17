@@ -1,7 +1,7 @@
 {
     "countryCode": "UZ",
     "country": "Uzbekistan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 69.2177,
             "timezone": "Asia/Tashkent",
             "isp": "\"Uzbektelekom\" Joint Stock Company",
-            "org": "Uztelecom",
+            "org": "",
             "as": "AS8193 Uzbektelekom Joint Stock Company",
-            "query": "195.158.8.123",
+            "query": "93.188.85.150",
             "type": "http",
-            "port": "3128",
-            "response_time": 5.35
+            "port": "8080",
+            "response_time": 2.47
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "31.135.214.17",
             "type": "http",
             "port": "8026",
-            "response_time": 8.06
+            "response_time": 4.93
         },
         {
             "status": "success",
@@ -53,12 +53,31 @@
             "lon": 69.2177,
             "timezone": "Asia/Tashkent",
             "isp": "\"Uzbektelekom\" Joint Stock Company",
-            "org": "",
+            "org": "Uztelecom",
             "as": "AS8193 Uzbektelekom Joint Stock Company",
-            "query": "93.188.85.150",
+            "query": "195.158.8.123",
             "type": "http",
-            "port": "8080",
-            "response_time": 8.56
+            "port": "3128",
+            "response_time": 5.34
+        },
+        {
+            "status": "success",
+            "country": "Uzbekistan",
+            "countryCode": "UZ",
+            "region": "TK",
+            "regionName": "Tashkent",
+            "city": "Tashkent",
+            "zip": "",
+            "lat": 41.2615,
+            "lon": 69.2177,
+            "timezone": "Asia/Tashkent",
+            "isp": "\"Uzbektelekom\" Joint Stock Company",
+            "org": "\"Uzbektelekom\" Joint Stock Company",
+            "as": "AS8193 Uzbektelekom Joint Stock Company",
+            "query": "89.104.102.209",
+            "type": "http",
+            "port": "58080",
+            "response_time": 8.42
         }
     ]
 }
