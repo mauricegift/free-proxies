@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "152.69.167.87",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.7
+            "response_time": 2.17
         },
         {
             "status": "success",
@@ -28,18 +28,37 @@
             "countryCode": "AU",
             "region": "VIC",
             "regionName": "Victoria",
-            "city": "Burnside",
-            "zip": "3023",
-            "lat": -37.7469,
-            "lon": 144.749,
+            "city": "Melbourne",
+            "zip": "3141",
+            "lat": -37.834,
+            "lon": 144.9832,
             "timezone": "Australia/Melbourne",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
+            "isp": "Aussie Fibre Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "159.196.182.72",
             "type": "http",
-            "port": "80",
-            "response_time": 12.92
+            "port": "8080",
+            "response_time": 6.84
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "1001",
+            "lat": -33.8688,
+            "lon": 151.209,
+            "timezone": "Australia/Sydney",
+            "isp": "SingTel Optus Pty Ltd",
+            "org": "SingTel Optus Pty Ltd",
+            "as": "AS7474 SingTel Optus Pty Ltd",
+            "query": "59.154.238.91",
+            "type": "http",
+            "port": "3128",
+            "response_time": 12.31
         }
     ]
 }
