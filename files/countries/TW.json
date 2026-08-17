@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "TW",
             "region": "NWT",
             "regionName": "New Taipei City",
-            "city": "Xindian District",
+            "city": "New Taipei City",
             "zip": "",
-            "lat": 24.9547,
-            "lon": 121.5354,
+            "lat": 25.0693,
+            "lon": 121.4626,
             "timezone": "Asia/Taipei",
-            "isp": "Extra-Lan Technologies Co., LTD",
-            "org": "cgnet",
-            "as": "AS18429 Extra-Lan Technologies Co., LTD",
-            "query": "27.147.28.73",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "220.134.5.4",
             "type": "http",
             "port": "8080",
-            "response_time": 8.94
+            "response_time": 10.02
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TPE",
+            "regionName": "Taiwan",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.0329,
+            "lon": 121.5654,
+            "timezone": "Asia/Taipei",
+            "isp": "Google LLC",
+            "org": "Google Cloud (asia-east1)",
+            "as": "AS15169 Google LLC",
+            "query": "35.206.248.95",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 11.81
         }
     ]
 }
