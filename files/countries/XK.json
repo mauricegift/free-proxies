@@ -1,8 +1,27 @@
 {
     "countryCode": "XK",
     "country": "Kosovo",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kosovo",
+            "countryCode": "XK",
+            "region": "",
+            "regionName": "Pristina",
+            "city": "Podujevo",
+            "zip": "",
+            "lat": 42.9108,
+            "lon": 21.1956,
+            "timezone": "Europe/Belgrade",
+            "isp": "Podujeve-Broadband",
+            "org": "",
+            "as": "AS206262 TelKos L.L.C",
+            "query": "185.174.208.195",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.67
+        },
         {
             "status": "success",
             "country": "Kosovo",
@@ -20,7 +39,7 @@
             "query": "91.187.113.68",
             "type": "http",
             "port": "8080",
-            "response_time": 10.21
+            "response_time": 5.6
         }
     ]
 }
