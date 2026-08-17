@@ -1,8 +1,27 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "Zscaler Switzerland GmbH",
+            "org": "ZSCALER, INC.",
+            "as": "AS62044 Zscaler Switzerland GmbH",
+            "query": "165.225.248.13",
+            "type": "http",
+            "port": "11101",
+            "response_time": 0.25
+        },
         {
             "status": "success",
             "country": "Austria",
@@ -20,26 +39,26 @@
             "query": "178.189.56.158",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.28
+            "response_time": 1.27
         },
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
+            "region": "7",
+            "regionName": "Tyrol",
+            "city": "L\u00e4ngenfeld",
+            "zip": "6444",
+            "lat": 47.0715,
+            "lon": 10.9651,
             "timezone": "Europe/Vienna",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "193.233.232.226",
-            "type": "http",
-            "port": "3128",
-            "response_time": 9.93
+            "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+            "org": "",
+            "as": "AS206091 Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+            "query": "185.196.178.238",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 7.68
         }
     ]
 }
