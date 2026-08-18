@@ -1,7 +1,7 @@
 {
     "countryCode": "GH",
     "country": "Ghana",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Greater Accra Region",
             "city": "Accra",
             "zip": "",
-            "lat": 5.6037,
-            "lon": -0.1869,
+            "lat": 5.55602,
+            "lon": -0.1969,
             "timezone": "Africa/Accra",
-            "isp": "Space Exploration Technologies Corporation",
-            "org": "SpaceX Starlink",
-            "as": "AS14593 Space Exploration Technologies Corporation",
-            "query": "143.105.208.94",
+            "isp": "K-Net",
+            "org": "",
+            "as": "AS33786 K-Net",
+            "query": "196.29.231.1",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 3.17
+        },
+        {
+            "status": "success",
+            "country": "Ghana",
+            "countryCode": "GH",
+            "region": "AA",
+            "regionName": "Greater Accra Region",
+            "city": "Tema",
+            "zip": "",
+            "lat": 5.6714,
+            "lon": -0.0086,
+            "timezone": "Africa/Accra",
+            "isp": "Scancom Ltd.",
+            "org": "Scancom Limited",
+            "as": "AS30986 Scancom Limited",
+            "query": "41.189.171.186",
             "type": "http",
             "port": "8080",
-            "response_time": 5.42
+            "response_time": 4.42
         }
     ]
 }
