@@ -1,7 +1,7 @@
 {
     "countryCode": "PS",
-    "country": "Palestinian Territory",
-    "count": 1,
+    "country": "Palestine",
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Gemzo information technology Private Joint-Stock company",
             "org": "Gemzo information technology Private Joint-Stock company",
             "as": "AS51336 Gemzo information technology Private Joint-Stock company",
-            "query": "178.214.80.27",
+            "query": "178.214.80.12",
             "type": "http",
             "port": "1981",
-            "response_time": 4.45
+            "response_time": 1.65
+        },
+        {
+            "status": "success",
+            "country": "Palestine",
+            "countryCode": "PS",
+            "region": "RBH",
+            "regionName": "Ramallah and al-Bireh Governorate",
+            "city": "Ramallah",
+            "zip": "",
+            "lat": 31.9014,
+            "lon": 35.1999,
+            "timezone": "Asia/Hebron",
+            "isp": "Palestine Telecommunications Company",
+            "org": "DSL -PALTEL",
+            "as": "AS12975 PALTEL Autonomous System",
+            "query": "213.6.249.37",
+            "type": "http",
+            "port": "19000",
+            "response_time": 3.55
         }
     ]
 }
