@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 3,
+    "count": 1,
     "proxies": [
         {
             "status": "success",
@@ -10,55 +10,17 @@
             "region": "9",
             "regionName": "State of Vienna",
             "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
+            "zip": "1210",
+            "lat": 48.2765,
+            "lon": 16.4087,
             "timezone": "Europe/Vienna",
-            "isp": "RAPIDSEEDBOX",
+            "isp": "customers with static IP",
             "org": "",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "193.8.215.80",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.236.219",
             "type": "http",
-            "port": "3128",
-            "response_time": 3.11
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
-            "timezone": "Europe/Vienna",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "95.163.176.131",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.18
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
-            "timezone": "Europe/Vienna",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.238.191",
-            "type": "http",
-            "port": "443",
-            "response_time": 14.33
+            "port": "8080",
+            "response_time": 16.89
         }
     ]
 }
