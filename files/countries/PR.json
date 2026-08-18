@@ -1,8 +1,46 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Carolina",
+            "city": "Carolina",
+            "zip": "00979",
+            "lat": 18.3736,
+            "lon": -65.9631,
+            "timezone": "America/Puerto_Rico",
+            "isp": "FiberX",
+            "org": "Yknet Puerto Rico Corporacion",
+            "as": "AS21559 OSNET",
+            "query": "204.77.11.13",
+            "type": "http",
+            "port": "999",
+            "response_time": 3.64
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Guaynabo",
+            "city": "Guaynabo",
+            "zip": "00968",
+            "lat": 18.416,
+            "lon": -66.107,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "FiberX",
+            "as": "AS21559 OSNET",
+            "query": "72.46.158.193",
+            "type": "http",
+            "port": "8087",
+            "response_time": 4.15
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -20,7 +58,7 @@
             "query": "192.203.0.210",
             "type": "http",
             "port": "999",
-            "response_time": 5.07
+            "response_time": 5.08
         }
     ]
 }
