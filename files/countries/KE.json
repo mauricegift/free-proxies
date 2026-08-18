@@ -1,7 +1,7 @@
 {
     "countryCode": "KE",
     "country": "Kenya",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": -1.2841,
             "lon": 36.8155,
             "timezone": "Africa/Nairobi",
-            "isp": "Vennet Solutions Limited",
-            "org": "Vennet Solutions Limited",
-            "as": "AS329437 VENNET SOLUTIONS LIMITED",
-            "query": "102.209.18.96",
+            "isp": "Unwired Communications Ltd",
+            "org": "Unwired Communications Ltd",
+            "as": "AS328490 Unwired Communications Limited",
+            "query": "102.68.76.247",
+            "type": "http",
+            "port": "5566",
+            "response_time": 4.2
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.28333,
+            "lon": 36.8167,
+            "timezone": "Africa/Nairobi",
+            "isp": "Frontier Optical Networks Ltd",
+            "org": "",
+            "as": "AS37305 Frontier Optical Networks Ltd",
+            "query": "41.79.9.229",
             "type": "http",
             "port": "8080",
-            "response_time": 2.33
+            "response_time": 5.22
         },
         {
             "status": "success",
@@ -36,10 +55,29 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "102.0.25.8",
+            "query": "102.0.14.38",
             "type": "http",
             "port": "8080",
-            "response_time": 3.86
+            "response_time": 5.23
+        },
+        {
+            "status": "success",
+            "country": "Kenya",
+            "countryCode": "KE",
+            "region": "30",
+            "regionName": "Nairobi County",
+            "city": "Nairobi",
+            "zip": "09831",
+            "lat": -1.2841,
+            "lon": 36.8155,
+            "timezone": "Africa/Nairobi",
+            "isp": "Vijiji Connect LTD",
+            "org": "Vijiji Connect Services",
+            "as": "AS328856 VIJIJI CONNECT LIMITED",
+            "query": "102.219.209.86",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.53
         },
         {
             "status": "success",
@@ -55,10 +93,10 @@
             "isp": "Safaricom Limited",
             "org": "Safaricom Limited",
             "as": "AS37061 Safaricom Limited",
-            "query": "197.248.16.109",
+            "query": "197.248.193.143",
             "type": "http",
             "port": "8080",
-            "response_time": 4.39
+            "response_time": 5.97
         },
         {
             "status": "success",
@@ -74,29 +112,10 @@
             "isp": "Airtel KE Mobile & Fixed Internet",
             "org": "",
             "as": "AS36926 Airtel Networks Kenya Limited",
-            "query": "154.79.251.168",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.11
-        },
-        {
-            "status": "success",
-            "country": "Kenya",
-            "countryCode": "KE",
-            "region": "30",
-            "regionName": "Nairobi County",
-            "city": "Nairobi",
-            "zip": "09831",
-            "lat": -1.2841,
-            "lon": 36.8155,
-            "timezone": "Africa/Nairobi",
-            "isp": "Alwen Networks Co. Limited",
-            "org": "Alwen Networks Co. Limited",
-            "as": "AS329452 Alwen Networks Co. Limited",
-            "query": "102.208.166.30",
+            "query": "102.0.25.184",
             "type": "http",
-            "port": "8082",
-            "response_time": 8.44
+            "port": "8080",
+            "response_time": 11.25
         }
     ]
 }
