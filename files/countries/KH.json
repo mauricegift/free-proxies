@@ -1,7 +1,7 @@
 {
     "countryCode": "KH",
     "country": "Cambodia",
-    "count": 11,
+    "count": 12,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "WiCAM Corporation Ltd",
-            "org": "WiCAM Corporation, LTD",
-            "as": "AS24492 WiCAM Corporation Ltd.",
-            "query": "119.15.89.87",
+            "isp": "CityLink Corporation, LTD",
+            "org": "CityLink Corporation, LTD",
+            "as": "AS24441 CityLink Corporation, LTD",
+            "query": "202.84.76.190",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.55
+            "response_time": 1.46
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "8",
+            "regionName": "Kandal",
+            "city": "Ta Khmau",
+            "zip": "",
+            "lat": 11.4989,
+            "lon": 104.926,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "COGETEL Co., Ltd",
+            "org": "Cogetel Ltd",
+            "as": "AS23673 Cogetel Online, Cambodia, ISP",
+            "query": "103.197.242.106",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.31
         },
         {
             "status": "success",
@@ -33,32 +52,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "MEKONGNET",
-            "org": "",
-            "as": "AS38235 ANGKOR DATA COMMUNICATION",
-            "query": "203.171.252.7",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.24
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "8",
-            "regionName": "Kandal",
-            "city": "Phum\u012d K\u00e2ndal",
-            "zip": "",
-            "lat": 11.5634,
-            "lon": 104.9644,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE",
-            "org": "Viettel (cambodia) Pte, Ltd.",
+            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+            "org": "Viettel (cambodia) Pte., Ltd.",
             "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.155.160",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.34
+            "query": "175.100.37.171",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "124.248.164.36",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.35
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -90,32 +90,13 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-            "org": "Viettel (cambodia) Pte., Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.203.215",
+            "isp": "SIGROUPS",
+            "org": "",
+            "as": "AS131207 SINET, Cambodia's specialist Internet and Telecom Service Provider.",
+            "query": "96.9.77.71",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 5.4
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "8",
-            "regionName": "Kandal",
-            "city": "Phum\u012d K\u00e2ndal",
-            "zip": "",
-            "lat": 11.5634,
-            "lon": 104.9644,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-            "org": "Viettel (cambodia) Pte, Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.147.34",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.64
+            "port": "51080",
+            "response_time": 2.76
         },
         {
             "status": "success",
@@ -128,13 +109,51 @@
             "lat": 11.5583,
             "lon": 104.9121,
             "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE",
-            "org": "Viettel (cambodia) Pte., Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "36.37.180.40",
+            "isp": "MEKONGNET",
+            "org": "",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "203.171.252.7",
             "type": "http",
             "port": "8080",
-            "response_time": 6.26
+            "response_time": 4.29
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
+            "org": "Viettel (cambodia) Pte., Ltd.",
+            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+            "query": "36.37.244.41",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.42
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "MekongNet",
+            "org": "",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "116.212.149.218",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.7
         },
         {
             "status": "success",
@@ -153,7 +172,26 @@
             "query": "110.74.195.34",
             "type": "http",
             "port": "25",
-            "response_time": 7.87
+            "response_time": 9.21
+        },
+        {
+            "status": "success",
+            "country": "Cambodia",
+            "countryCode": "KH",
+            "region": "12",
+            "regionName": "Phnom Penh",
+            "city": "Phnom Penh",
+            "zip": "",
+            "lat": 11.5583,
+            "lon": 104.9121,
+            "timezone": "Asia/Phnom_Penh",
+            "isp": "Angkor Data Communication",
+            "org": "Mekongnet",
+            "as": "AS38235 ANGKOR DATA COMMUNICATION",
+            "query": "203.176.139.172",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.8
         },
         {
             "status": "success",
@@ -169,29 +207,10 @@
             "isp": "EZECOM CO., LTD.",
             "org": "EZECOM limited",
             "as": "AS38901 EZECOM CO., LTD.",
-            "query": "110.74.195.152",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 8.33
-        },
-        {
-            "status": "success",
-            "country": "Cambodia",
-            "countryCode": "KH",
-            "region": "12",
-            "regionName": "Phnom Penh",
-            "city": "Phnom Penh",
-            "zip": "",
-            "lat": 11.5583,
-            "lon": 104.9121,
-            "timezone": "Asia/Phnom_Penh",
-            "isp": "VIETTEL (CAMBODIA) PTE., LTD",
-            "org": "Viettel (cambodia) Pte., Ltd.",
-            "as": "AS38623 ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
-            "query": "175.100.35.103",
+            "query": "110.74.206.40",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.64
+            "port": "8181",
+            "response_time": 11.93
         },
         {
             "status": "success",
@@ -210,7 +229,7 @@
             "query": "49.156.44.116",
             "type": "http",
             "port": "8080",
-            "response_time": 10.81
+            "response_time": 12.99
         }
     ]
 }
