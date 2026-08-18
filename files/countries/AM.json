@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 5,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "81.16.9.222",
             "type": "socks4",
             "port": "3629",
-            "response_time": 0.84
+            "response_time": 0.68
         },
         {
             "status": "success",
@@ -33,32 +33,51 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "GLB Bulut Teknolojisi Limited Sirketi",
-            "org": "GLB Bulut Teknolojisi Limited Sirketi",
-            "as": "AS48207 GLB Bulut Teknolojisi Limited Sirketi",
-            "query": "170.168.102.55",
-            "type": "http",
-            "port": "3128",
-            "response_time": 1.51
+            "isp": "GNC",
+            "org": "Hamynqneri_Miutyun_Sisian",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "130.193.123.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.56
         },
         {
             "status": "success",
             "country": "Armenia",
             "countryCode": "AM",
-            "region": "KT",
-            "regionName": "Kotayk",
-            "city": "Zovuni",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
             "zip": "",
-            "lat": 40.2331,
-            "lon": 44.5113,
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom CJSC",
+            "org": "Ucom CJSC",
+            "as": "AS44395 Ucom CJSC",
+            "query": "212.34.230.102",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "SU",
+            "regionName": "Syunik",
+            "city": "Darbas",
+            "zip": "",
+            "lat": 39.4389,
+            "lon": 46.1275,
             "timezone": "Asia/Yerevan",
             "isp": "LikeNet LLC",
             "org": "Inecobank",
             "as": "AS215421 LikeNet LLC",
-            "query": "46.36.123.18",
+            "query": "46.36.123.66",
             "type": "http",
             "port": "81",
-            "response_time": 2.25
+            "response_time": 7.54
         },
         {
             "status": "success",
@@ -77,7 +96,26 @@
             "query": "46.36.123.30",
             "type": "http",
             "port": "81",
-            "response_time": 3.01
+            "response_time": 7.94
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Zovuni",
+            "zip": "",
+            "lat": 40.2331,
+            "lon": 44.5113,
+            "timezone": "Asia/Yerevan",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.18",
+            "type": "http",
+            "port": "81",
+            "response_time": 9.77
         },
         {
             "status": "success",
@@ -87,16 +125,16 @@
             "regionName": "Yerevan",
             "city": "Yerevan",
             "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
+            "lat": 40.1872,
+            "lon": 44.5152,
             "timezone": "Asia/Yerevan",
-            "isp": "Ucom Mobile Network",
-            "org": "",
-            "as": "AS44395 Ucom CJSC",
-            "query": "5.77.252.205",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.03
+            "isp": "Data Campus Limited",
+            "org": "Data Campus Limited",
+            "as": "AS215929 Data Campus Limited",
+            "query": "45.142.195.110",
+            "type": "socks5",
+            "port": "995",
+            "response_time": 11.13
         }
     ]
 }
