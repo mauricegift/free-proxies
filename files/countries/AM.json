@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "GNC",
-            "org": "Hamynqneri_Miutyun_Sisian",
+            "isp": "GNC-Alfa CJSC",
+            "org": "GNC Customers29",
             "as": "AS49800 GNC-Alfa CJSC",
-            "query": "130.193.123.34",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.85
+            "query": "195.250.92.58",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.73
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "170.168.102.55",
             "type": "http",
             "port": "3128",
-            "response_time": 7.63
+            "response_time": 6.7
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "SU",
+            "regionName": "Syunik",
+            "city": "Darbas",
+            "zip": "",
+            "lat": 39.4389,
+            "lon": 46.1275,
+            "timezone": "Asia/Yerevan",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.66",
+            "type": "http",
+            "port": "81",
+            "response_time": 9.16
         }
     ]
 }
