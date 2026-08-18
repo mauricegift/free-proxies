@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "Pylaia",
+            "zip": "",
+            "lat": 40.5992,
+            "lon": 22.9861,
+            "timezone": "Europe/Athens",
+            "isp": "Ote SA (Hellenic Telecommunications Organisation)",
+            "org": "OTEnet",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.70.148.177",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.55
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,7 +39,7 @@
             "query": "149.210.11.221",
             "type": "http",
             "port": "18080",
-            "response_time": 8.86
+            "response_time": 5.48
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "149.210.0.102",
             "type": "http",
             "port": "18080",
-            "response_time": 10.1
+            "response_time": 9.81
         }
     ]
 }
