@@ -1,7 +1,7 @@
 {
     "countryCode": "MD",
     "country": "Moldova",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,32 @@
             "lat": 47.0042,
             "lon": 28.8574,
             "timezone": "Europe/Chisinau",
-            "isp": "JSC \"Moldtelecom\" S.A",
-            "org": "JSC Moldtelecom S.A.",
-            "as": "AS8926 Moldtelecom SA",
-            "query": "46.55.3.113",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.43
+            "isp": "SC STARNET SRL",
+            "org": "SC Starnet SRL",
+            "as": "AS31252 StarNet Solutii SRL",
+            "query": "89.28.81.217",
+            "type": "http",
+            "port": "8443",
+            "response_time": 1.49
+        },
+        {
+            "status": "success",
+            "country": "Moldova",
+            "countryCode": "MD",
+            "region": "CU",
+            "regionName": "Chi\u0219in\u0103u Municipality",
+            "city": "Chisinau",
+            "zip": "MD-2000",
+            "lat": 47.0042,
+            "lon": 28.8574,
+            "timezone": "Europe/Chisinau",
+            "isp": "Alexhost SRL",
+            "org": "Alexhost SRL",
+            "as": "AS200019 ALEXHOST SRL",
+            "query": "176.125.242.58",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.19
         }
     ]
 }
