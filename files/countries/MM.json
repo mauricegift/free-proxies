@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "203.81.75.202",
             "type": "http",
             "port": "8080",
-            "response_time": 4.51
+            "response_time": 6.27
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.8053,
+            "lon": 96.1561,
+            "timezone": "Asia/Yangon",
+            "isp": "Horizon Telecom International",
+            "org": "Horizon Telecom International Company Limited",
+            "as": "AS132148 HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
+            "query": "103.81.114.182",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 8.84
         }
     ]
 }
