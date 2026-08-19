@@ -1,27 +1,8 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "KK",
-            "regionName": "Kvemo Kartli",
-            "city": "Marneuli",
-            "zip": "",
-            "lat": 41.4809,
-            "lon": 44.8072,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Deltanet-net Network",
-            "org": "",
-            "as": "AS44327 DELTA COMM LLC",
-            "query": "92.51.122.174",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.53
-        },
         {
             "status": "success",
             "country": "Georgia",
@@ -36,10 +17,48 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.117",
+            "query": "85.117.63.207",
             "type": "http",
             "port": "8080",
-            "response_time": 5.16
+            "response_time": 4.63
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Kutaisi",
+            "zip": "",
+            "lat": 42.2648,
+            "lon": 42.7041,
+            "timezone": "Asia/Tbilisi",
+            "isp": "JSC \"Silknet\"",
+            "org": "Silknet Gpon",
+            "as": "AS35805 JSC Silknet",
+            "query": "31.146.73.192",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.95
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Airmax LLC",
+            "org": "",
+            "as": "AS208320 AIRMAX LLC",
+            "query": "45.143.109.137",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.72
         }
     ]
 }
