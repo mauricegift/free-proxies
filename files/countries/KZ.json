@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "212.154.169.90",
             "type": "http",
             "port": "3128",
-            "response_time": 1.06
+            "response_time": 0.76
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "94.131.92.155",
             "type": "http",
             "port": "3128",
-            "response_time": 3.11
+            "response_time": 3.18
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "33",
+            "regionName": "Zhetysu Region",
+            "city": "Taldykorgan",
+            "zip": "",
+            "lat": 45.0142,
+            "lon": 78.3717,
+            "timezone": "Asia/Almaty",
+            "isp": "TOO Kainar-Media",
+            "org": "TOO Kainar-AKB",
+            "as": "AS212999 TOO Kainar-Media",
+            "query": "95.182.107.210",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.26
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
+            "timezone": "Asia/Almaty",
+            "isp": "PS Internet Company LLP",
+            "org": "Pskz Hosting VPS ALA",
+            "as": "AS48716 PS Internet Company LLP",
+            "query": "46.247.41.222",
+            "type": "http",
+            "port": "443",
+            "response_time": 4.88
         },
         {
             "status": "success",
@@ -58,7 +96,26 @@
             "query": "93.185.68.82",
             "type": "http",
             "port": "8080",
-            "response_time": 9.04
+            "response_time": 5.25
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "35",
+            "regionName": "Karaganda",
+            "city": "Karaganda",
+            "zip": "",
+            "lat": 49.7989,
+            "lon": 73.0994,
+            "timezone": "Asia/Almaty",
+            "isp": "PE Fedinyak Sergey Vyacheslavovich",
+            "org": "PE Fedinyak Sergey Vyacheslavovich",
+            "as": "AS203087 Fedinyak Sergey Vyacheslavovich",
+            "query": "46.8.31.104",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.85
         }
     ]
 }
