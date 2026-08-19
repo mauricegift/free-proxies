@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,29 +17,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.63.207",
+            "query": "85.117.62.70",
             "type": "http",
             "port": "8080",
-            "response_time": 2.84
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.43",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.73
+            "response_time": 4.06
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "85.117.32.166",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.85
+            "response_time": 5.71
         },
         {
             "status": "success",
@@ -74,10 +55,48 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.117",
+            "query": "85.117.56.104",
             "type": "http",
             "port": "8080",
-            "response_time": 6.14
+            "response_time": 7.65
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "IM",
+            "regionName": "Imereti",
+            "city": "Kutaisi",
+            "zip": "",
+            "lat": 42.2648,
+            "lon": 42.7041,
+            "timezone": "Asia/Tbilisi",
+            "isp": "JSC \"Silknet\"",
+            "org": "Silknet Gpon",
+            "as": "AS35805 JSC Silknet",
+            "query": "31.146.73.192",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.84
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "AJ",
+            "regionName": "Adjara",
+            "city": "Batumi",
+            "zip": "",
+            "lat": 41.6473,
+            "lon": 41.6258,
+            "timezone": "Asia/Tbilisi",
+            "isp": "JSC \"Silknet\"",
+            "org": "UTG MPLS DSL",
+            "as": "AS35805 JSC Silknet",
+            "query": "94.43.164.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.01
         }
     ]
 }
