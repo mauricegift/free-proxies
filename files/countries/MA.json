@@ -1,8 +1,27 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "05",
+            "regionName": "Beni Mellal-Khenifra",
+            "city": "Khouribga",
+            "zip": "",
+            "lat": 32.8804,
+            "lon": -6.9057,
+            "timezone": "Africa/Casablanca",
+            "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "org": "MarocTelecomASDL",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "160.178.78.138",
+            "type": "http",
+            "port": "30001",
+            "response_time": 2.16
+        },
         {
             "status": "success",
             "country": "Morocco",
@@ -17,10 +36,10 @@
             "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
             "org": "IAM",
             "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-            "query": "105.159.164.192",
+            "query": "105.159.164.212",
             "type": "http",
-            "port": "4145",
-            "response_time": 8.55
+            "port": "4049",
+            "response_time": 4.15
         }
     ]
 }
