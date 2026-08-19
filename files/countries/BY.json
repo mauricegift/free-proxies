@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "82.209.251.53",
             "type": "http",
             "port": "45678",
-            "response_time": 10.81
+            "response_time": 0.51
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "MI",
+            "regionName": "Minsk",
+            "city": "Kolodishchi",
+            "zip": "223050",
+            "lat": 53.9516,
+            "lon": 27.7806,
+            "timezone": "Europe/Minsk",
+            "isp": "Yedinyye Resheniya LLC",
+            "org": "Yedinyye Resheniya LLC",
+            "as": "AS215272 Yedinyye Resheniya LLC",
+            "query": "185.251.38.116",
+            "type": "http",
+            "port": "3127",
+            "response_time": 0.63
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220000",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Cosmos TV Jllc",
+            "org": "Belarusian-American joint venture Cosmos TV, Ltd.",
+            "as": "AS31143 COSMOS TV JLLC",
+            "query": "91.149.142.139",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.7
         }
     ]
 }
