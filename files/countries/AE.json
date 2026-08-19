@@ -1,8 +1,27 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "DU",
+            "regionName": "Dubai",
+            "city": "Dubai",
+            "zip": "",
+            "lat": 25.0734,
+            "lon": 55.2979,
+            "timezone": "Asia/Dubai",
+            "isp": "Emirates Telecommunications Corporation",
+            "org": "Emirates Telecommunications Corporation",
+            "as": "AS5384 Emirates Internet",
+            "query": "217.165.138.211",
+            "type": "http",
+            "port": "8181",
+            "response_time": 4.7
+        },
         {
             "status": "success",
             "country": "United Arab Emirates",
@@ -20,7 +39,7 @@
             "query": "91.73.223.206",
             "type": "http",
             "port": "3128",
-            "response_time": 19.19
+            "response_time": 17.6
         }
     ]
 }
