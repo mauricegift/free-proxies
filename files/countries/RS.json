@@ -1,8 +1,27 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "CETIN Ltd. Belgrade",
+            "org": "CETIN Ltd. Belgrade",
+            "as": "AS15958 CETINdoo-NET",
+            "query": "109.245.110.145",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.3
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -20,26 +39,26 @@
             "query": "212.200.223.89",
             "type": "http",
             "port": "8080",
-            "response_time": 0.36
+            "response_time": 1.97
         },
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "11000",
-            "lat": 44.8046,
-            "lon": 20.4637,
+            "region": "VO",
+            "regionName": "Vojvodina",
+            "city": "Novi Sad",
+            "zip": "",
+            "lat": 45.25,
+            "lon": 19.8362,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Client Network",
-            "org": "",
-            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "217.169.223.18",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.28
+            "isp": "Serbia BroadBand",
+            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "as": "AS31042 Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "query": "82.117.211.42",
+            "type": "http",
+            "port": "8085",
+            "response_time": 7.71
         }
     ]
 }
