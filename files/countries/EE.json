@@ -1,7 +1,7 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.157.111.3",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.78
+            "response_time": 2.53
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.101.114.63",
+            "type": "http",
+            "port": "8880",
+            "response_time": 8.6
         }
     ]
 }
