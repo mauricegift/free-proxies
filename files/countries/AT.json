@@ -7,25 +7,6 @@
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "6",
-            "regionName": "Styria",
-            "city": "Leoben",
-            "zip": "8700",
-            "lat": 47.376,
-            "lon": 15.0893,
-            "timezone": "Europe/Vienna",
-            "isp": "A1 Telekom Austria AG",
-            "org": "A1 Telekom Austria AG",
-            "as": "AS8447 A1 Telekom Austria AG",
-            "query": "178.189.56.158",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 4.8
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
             "region": "9",
             "regionName": "State of Vienna",
             "city": "Vienna",
@@ -37,9 +18,28 @@
             "org": "Aeza Group LLC",
             "as": "AS210644 AEZA GROUP LLC",
             "query": "95.163.176.131",
-            "type": "socks5",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 9.02
+            "response_time": 4.25
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1210",
+            "lat": 48.2765,
+            "lon": 16.4087,
+            "timezone": "Europe/Vienna",
+            "isp": "customers with static IP",
+            "org": "",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.236.219",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.84
         }
     ]
 }
