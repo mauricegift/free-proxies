@@ -1,45 +1,26 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
+            "region": "23",
+            "regionName": "Jablanica",
+            "city": "Leskovac",
             "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
+            "lat": 42.9958,
+            "lon": 21.9439,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Zbet",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "185.190.154.121",
+            "query": "178.220.148.82",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 2.41
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "CETIN Ltd. Belgrade",
-            "org": "CETIN Ltd. Belgrade",
-            "as": "AS15958 CETINdoo-NET",
-            "query": "109.245.110.145",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 5.7
+            "port": "10801",
+            "response_time": 2.35
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "212.200.223.89",
             "type": "http",
             "port": "8080",
-            "response_time": 5.79
+            "response_time": 5.0
         }
     ]
 }
