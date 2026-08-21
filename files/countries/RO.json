@@ -1,7 +1,7 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "81.12.157.98",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.59
-        },
-        {
-            "status": "success",
-            "country": "Romania",
-            "countryCode": "RO",
-            "region": "CT",
-            "regionName": "Constan\u021ba County",
-            "city": "N\u0103vodari",
-            "zip": "905700",
-            "lat": 44.3192,
-            "lon": 28.5956,
-            "timezone": "Europe/Bucharest",
-            "isp": "STYLISH BY A&L SRL",
-            "org": "SC Urban Network Solutions SRL",
-            "as": "AS39347 STYLISH BY A&L SRL",
-            "query": "85.122.120.119",
-            "type": "socks4",
-            "port": "30016",
-            "response_time": 5.46
+            "response_time": 0.54
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "81.12.169.254",
             "type": "socks4",
             "port": "4153",
-            "response_time": 7.59
+            "response_time": 2.4
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "MH",
+            "regionName": "Mehedin\u021bi County",
+            "city": "Drobeta-Turnu Severin",
+            "zip": "220184",
+            "lat": 44.6319,
+            "lon": 22.6561,
+            "timezone": "Europe/Bucharest",
+            "isp": "Data ZYX SRL",
+            "org": "",
+            "as": "AS49052 DATA ZYX SRL",
+            "query": "185.128.240.77",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.04
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucharest",
+            "city": "Bucharest",
+            "zip": "050011",
+            "lat": 44.4291,
+            "lon": 26.1006,
+            "timezone": "Europe/Bucharest",
+            "isp": "FlokiNET ehf",
+            "org": "Romania",
+            "as": "AS200651 FlokiNET ehf",
+            "query": "185.247.224.57",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 9.88
         }
     ]
 }
