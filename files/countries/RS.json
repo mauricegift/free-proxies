@@ -1,26 +1,26 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "24",
-            "regionName": "P\u010dinja",
-            "city": "Oraovica",
+            "region": "11",
+            "regionName": "Branicevo",
+            "city": "Po\u017earevac",
             "zip": "",
-            "lat": 42.3289,
-            "lon": 21.6585,
+            "lat": 44.618,
+            "lon": 21.1723,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM-SRBIJA",
-            "org": "",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Skupstina stanara solitera Y",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "77.46.138.233",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.59
+            "query": "91.150.77.57",
+            "type": "socks4",
+            "port": "56921",
+            "response_time": 1.27
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Smederevo",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "195.178.56.35",
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.76
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "11000",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "Orion Telekom Network",
+            "org": "",
+            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+            "query": "95.140.113.74",
             "type": "http",
-            "port": "8080",
-            "response_time": 11.67
+            "port": "6666",
+            "response_time": 9.74
         }
     ]
 }
