@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "45.9.168.50",
             "type": "http",
             "port": "30001",
-            "response_time": 2.45
+            "response_time": 0.49
         },
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "SZ",
-            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
-            "city": "Z\u00e1hony",
-            "zip": "4625",
-            "lat": 48.4137,
-            "lon": 22.1753,
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "Debrecen",
+            "zip": "4033",
+            "lat": 47.5232,
+            "lon": 21.6334,
             "timezone": "Europe/Budapest",
-            "isp": "Szatmarnet",
-            "org": "",
-            "as": "AS58098 Szatmarnet Bt.",
-            "query": "46.107.230.122",
+            "isp": "Magyar Telekom plc.",
+            "org": "Portal",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "91.147.235.162",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 4.68
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "BK",
-            "regionName": "B\u00e1cs-Kiskun",
-            "city": "Kecskem\u00e9t",
-            "zip": "6000",
-            "lat": 46.905,
-            "lon": 19.6958,
-            "timezone": "Europe/Budapest",
-            "isp": "Deltakon Kft.",
-            "org": "Deltanet Internet",
-            "as": "AS209001 DELTAKON KFT.",
-            "query": "95.214.123.140",
-            "type": "http",
-            "port": "8080",
-            "response_time": 12.17
+            "port": "4153",
+            "response_time": 4.96
         }
     ]
 }
