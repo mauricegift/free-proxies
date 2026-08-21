@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,56 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Lekki",
+            "city": "Lagos",
             "zip": "",
-            "lat": 6.43457,
-            "lon": 3.49209,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
+            "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.201.234",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.198.17",
             "type": "socks4",
-            "port": "32639",
-            "response_time": 6.03
+            "port": "5678",
+            "response_time": 2.9
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Syscodes Communications",
+            "org": "",
+            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
+            "query": "102.36.133.62",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.97
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "41.75.84.86",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.1
         }
     ]
 }
