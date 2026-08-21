@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
+            "lat": 6.52438,
+            "lon": 3.37921,
+            "timezone": "Africa/Lagos",
+            "isp": "eStream Networks",
+            "org": "Posh Apartment Adeniyi Jones IKJ",
+            "as": "AS37629 eStream Networks",
+            "query": "196.1.182.130",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.36
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.209.164",
+            "query": "154.113.209.162",
             "type": "http",
             "port": "8082",
-            "response_time": 4.18
+            "response_time": 6.4
         },
         {
             "status": "success",
@@ -30,16 +49,16 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.52438,
+            "lon": 3.37921,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.208.190",
+            "isp": "MTN NIGERIA Communication limited",
+            "org": "Mtnn Asaba Region",
+            "as": "AS29465 MTN NIGERIA Communication limited",
+            "query": "102.90.0.146",
             "type": "http",
             "port": "8080",
-            "response_time": 6.49
+            "response_time": 9.15
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "NG",
             "region": "LA",
             "regionName": "Lagos",
-            "city": "Lagos",
+            "city": "Lekki",
             "zip": "",
-            "lat": 6.4474,
-            "lon": 3.3903,
+            "lat": 6.43457,
+            "lon": 3.49209,
             "timezone": "Africa/Lagos",
-            "isp": "GLO",
+            "isp": "Information Connectivity Solutions Limited",
             "org": "",
-            "as": "AS37148 Globacom Limited",
-            "query": "41.203.76.166",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.58
+            "as": "AS37269 Information Connectivity Solutions Limited",
+            "query": "105.235.193.46",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 9.6
         }
     ]
 }
