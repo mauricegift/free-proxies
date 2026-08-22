@@ -1,65 +1,8 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 7,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "42",
-            "regionName": "\u00dast\u00ed nad Labem Region",
-            "city": "Kryry",
-            "zip": "439 81",
-            "lat": 50.1769,
-            "lon": 13.4222,
-            "timezone": "Europe/Prague",
-            "isp": "ISP Alliance a.s.",
-            "org": "GRAPE SC",
-            "as": "AS47232 ISP Alliance a.s.",
-            "query": "78.111.112.118",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.35
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "53",
-            "regionName": "Pardubice Region",
-            "city": "Choce\u0148",
-            "zip": "565 01",
-            "lat": 50.0047,
-            "lon": 16.2268,
-            "timezone": "Europe/Prague",
-            "isp": "CETIN a.s.",
-            "org": "CETIN",
-            "as": "AS28725 CETIN a.s.",
-            "query": "85.163.43.208",
-            "type": "socks4",
-            "port": "48293",
-            "response_time": 0.56
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "20",
-            "regionName": "Central Bohemia",
-            "city": "Neratovice",
-            "zip": "277 11",
-            "lat": 50.2667,
-            "lon": 14.5264,
-            "timezone": "Europe/Prague",
-            "isp": "O2 Czech Republic, a.s.",
-            "org": "O2 Czech Republic",
-            "as": "AS5610 O2 Czech Republic, a.s.",
-            "query": "90.182.147.170",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 1.37
-        },
         {
             "status": "success",
             "country": "Czechia",
@@ -77,26 +20,26 @@
             "query": "217.197.151.182",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.45
+            "response_time": 1.46
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "72",
-            "regionName": "Zl\u00edn",
-            "city": "Brumov-Bylnice",
-            "zip": "763 31",
-            "lat": 49.0885,
-            "lon": 18.0263,
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Slavkov u Brna",
+            "zip": "684 01",
+            "lat": 49.1474,
+            "lon": 16.8831,
             "timezone": "Europe/Prague",
-            "isp": "Martin Vicenik",
-            "org": "VicenikRoute",
-            "as": "AS34955 Martin Vicenik",
-            "query": "81.162.195.35",
+            "isp": "GIN's network",
+            "org": "",
+            "as": "AS205400 VIVO CONNECTION spol. s r.o.",
+            "query": "85.132.139.45",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.38
+            "response_time": 4.59
         },
         {
             "status": "success",
@@ -115,7 +58,26 @@
             "query": "109.69.211.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.57
+            "response_time": 6.64
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "150 00",
+            "lat": 50.0687,
+            "lon": 14.3947,
+            "timezone": "Europe/Prague",
+            "isp": "T-Mobile Czech Republic a.s.",
+            "org": "T-Mobile Czech Republic",
+            "as": "AS48574 T-Mobile Czech Republic a.s.",
+            "query": "185.248.179.99",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.53
         },
         {
             "status": "success",
@@ -134,7 +96,7 @@
             "query": "90.181.120.18",
             "type": "http",
             "port": "8082",
-            "response_time": 10.14
+            "response_time": 15.16
         }
     ]
 }
