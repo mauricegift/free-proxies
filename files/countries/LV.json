@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,31 @@
             "lon": 24.0979,
             "timezone": "Europe/Riga",
             "isp": "CGI GLOBAL LIMITED",
-            "org": "Cloud Backbone",
+            "org": "CGI GLOBAL LIMITED",
             "as": "AS56971 AS56971 Cloud",
-            "query": "31.58.79.229",
+            "query": "31.57.27.86",
             "type": "http",
-            "port": "8081",
-            "response_time": 13.09
+            "port": "3128",
+            "response_time": 2.17
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "088",
+            "regionName": "Saldus novads",
+            "city": "Saldus",
+            "zip": "LV-3801",
+            "lat": 56.6335,
+            "lon": 22.4471,
+            "timezone": "Europe/Riga",
+            "isp": "Sia Nano IT",
+            "org": "Sia Nano IT",
+            "as": "AS43513 Sia Nano IT",
+            "query": "31.170.17.141",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.75
         }
     ]
 }
