@@ -1,8 +1,27 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
+            "as": "AS44395 Ucom CJSC",
+            "query": "81.16.9.222",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 1.04
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -20,26 +39,26 @@
             "query": "5.77.252.205",
             "type": "http",
             "port": "8080",
-            "response_time": 0.54
+            "response_time": 1.61
         },
         {
             "status": "success",
             "country": "Armenia",
             "countryCode": "AM",
-            "region": "ER",
-            "regionName": "Yerevan",
-            "city": "Yerevan",
+            "region": "SU",
+            "regionName": "Syunik",
+            "city": "Darbas",
             "zip": "",
-            "lat": 40.1793,
-            "lon": 44.5159,
+            "lat": 39.4389,
+            "lon": 46.1275,
             "timezone": "Asia/Yerevan",
-            "isp": "BioNet LLC",
-            "org": "Hnet LLC",
-            "as": "AS42991 BioNet LLC",
-            "query": "91.204.190.140",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.66",
             "type": "http",
             "port": "81",
-            "response_time": 2.54
+            "response_time": 4.53
         },
         {
             "status": "success",
@@ -52,13 +71,13 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "GNC",
-            "org": "Hamynqneri_Miutyun_Sisian",
-            "as": "AS49800 GNC-Alfa CJSC",
-            "query": "130.193.123.34",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 4.75
+            "isp": "GLB Bulut Teknolojisi Limited Sirketi",
+            "org": "GLB Bulut Teknolojisi Limited Sirketi",
+            "as": "AS48207 GLB Bulut Teknolojisi Limited Sirketi",
+            "query": "170.168.102.55",
+            "type": "http",
+            "port": "3128",
+            "response_time": 15.15
         }
     ]
 }
