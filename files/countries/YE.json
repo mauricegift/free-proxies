@@ -1,27 +1,8 @@
 {
     "countryCode": "YE",
     "country": "Yemen",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Yemen",
-            "countryCode": "YE",
-            "region": "SA",
-            "regionName": "Amanat Alasimah",
-            "city": "Sanaa",
-            "zip": "",
-            "lat": 15.3522,
-            "lon": 44.2095,
-            "timezone": "Asia/Aden",
-            "isp": "Public Telecommunication Corporation",
-            "org": "YemenNet",
-            "as": "AS30873 Public Telecommunication Corporation",
-            "query": "134.35.14.95",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.85
-        },
         {
             "status": "success",
             "country": "Yemen",
@@ -37,9 +18,9 @@
             "org": "AS12486 annoucement YemenNet -Grp3",
             "as": "AS30873 Public Telecommunication Corporation",
             "query": "82.114.181.147",
-            "type": "http",
-            "port": "8080",
-            "response_time": 17.31
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 14.92
         }
     ]
 }
