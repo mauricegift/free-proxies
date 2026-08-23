@@ -1,8 +1,27 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TXG",
+            "regionName": "Taichung City",
+            "city": "Taichung",
+            "zip": "",
+            "lat": 24.144,
+            "lon": 120.6844,
+            "timezone": "Asia/Taipei",
+            "isp": "Digital United Inc.",
+            "org": "New Century InfoComm Tech. Co., Ltd.",
+            "as": "AS4780 Digital United Inc.",
+            "query": "106.104.177.158",
+            "type": "http",
+            "port": "60808",
+            "response_time": 5.38
+        },
         {
             "status": "success",
             "country": "Taiwan",
@@ -20,7 +39,26 @@
             "query": "220.132.41.160",
             "type": "socks4",
             "port": "1088",
-            "response_time": 7.03
+            "response_time": 6.97
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taiwan",
+            "city": "Daan",
+            "zip": "",
+            "lat": 25.0278,
+            "lon": 121.543,
+            "timezone": "Asia/Taipei",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "Ucul",
+            "as": "AS63199 CDS Global Cloud Co., Ltd",
+            "query": "164.52.11.194",
+            "type": "http",
+            "port": "18080",
+            "response_time": 20.53
         }
     ]
 }
