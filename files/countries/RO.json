@@ -1,26 +1,45 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "MH",
-            "regionName": "Mehedin\u021bi County",
-            "city": "Drobeta-Turnu Severin",
-            "zip": "220184",
-            "lat": 44.6319,
-            "lon": 22.6561,
+            "region": "B",
+            "regionName": "Bucharest",
+            "city": "Bucharest",
+            "zip": "050011",
+            "lat": 44.4291,
+            "lon": 26.1006,
             "timezone": "Europe/Bucharest",
-            "isp": "Data ZYX SRL",
-            "org": "",
-            "as": "AS49052 DATA ZYX SRL",
-            "query": "185.128.240.77",
+            "isp": "FlokiNET ehf",
+            "org": "Romania",
+            "as": "AS200651 FlokiNET ehf",
+            "query": "185.247.224.57",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 1.36
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucharest",
+            "city": "Bucharest",
+            "zip": "050011",
+            "lat": 44.4291,
+            "lon": 26.1006,
+            "timezone": "Europe/Bucharest",
+            "isp": "FlokiNET ehf",
+            "org": "Romania",
+            "as": "AS200651 FlokiNET ehf",
+            "query": "185.247.224.57",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.92
+            "port": "8118",
+            "response_time": 1.85
         }
     ]
 }
