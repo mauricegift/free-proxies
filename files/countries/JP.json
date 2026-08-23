@@ -1,27 +1,8 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 8,
+    "count": 7,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "151-0053",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "Akamai Technologies",
-            "org": "Linode",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "172.105.212.216",
-            "type": "http",
-            "port": "8888",
-            "response_time": 1.73
-        },
         {
             "status": "success",
             "country": "Japan",
@@ -39,45 +20,7 @@
             "query": "45.43.60.220",
             "type": "http",
             "port": "8080",
-            "response_time": 1.97
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "102-0082",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "CDS Global Cloud Co., Ltd",
-            "org": "PCCW Global (HK) Limited",
-            "as": "AS63199 CDS Global Cloud Co., Ltd",
-            "query": "205.177.85.130",
-            "type": "socks4",
-            "port": "39593",
-            "response_time": 2.61
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "102-0082",
-            "lat": 35.6893,
-            "lon": 139.6899,
-            "timezone": "Asia/Tokyo",
-            "isp": "BrainStorm Network",
-            "org": "Oneprovider.com",
-            "as": "AS136258 BrainStorm Network, Inc",
-            "query": "103.75.118.84",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.64
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -96,26 +39,45 @@
             "query": "140.238.32.108",
             "type": "http",
             "port": "3128",
-            "response_time": 4.51
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "102-0082",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "BrainStorm Network",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "103.75.118.84",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.08
         },
         {
             "status": "success",
             "country": "Japan",
             "countryCode": "JP",
             "region": "27",
-            "regionName": "Osaka",
+            "regionName": "\u014csaka",
             "city": "Osaka",
-            "zip": "543-0062",
-            "lat": 34.693,
-            "lon": 135.5005,
+            "zip": "562-0021",
+            "lat": 34.8225,
+            "lon": 135.4711,
             "timezone": "Asia/Tokyo",
-            "isp": "IT7 Networks Inc",
-            "org": "IT7 Networks Inc",
-            "as": "AS25820 IT7 Networks Inc",
-            "query": "23.106.129.40",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-osaka-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "161.33.44.238",
             "type": "http",
-            "port": "9005",
-            "response_time": 6.33
+            "port": "7890",
+            "response_time": 9.17
         },
         {
             "status": "success",
@@ -131,10 +93,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "132.226.7.23",
+            "query": "138.3.218.141",
             "type": "socks4",
-            "port": "30277",
-            "response_time": 8.08
+            "port": "54261",
+            "response_time": 9.7
         },
         {
             "status": "success",
@@ -151,9 +113,28 @@
             "org": "Strasmore, Inc.",
             "as": "AS29802 HIVELOCITY, Inc.",
             "query": "209.182.234.151",
-            "type": "socks4",
+            "type": "http",
             "port": "40000",
-            "response_time": 8.46
+            "response_time": 10.47
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6916,
+            "lon": 139.768,
+            "timezone": "Asia/Tokyo",
+            "isp": "XSERVER Inc.",
+            "org": "BETINC",
+            "as": "AS131965 Xserver Inc.",
+            "query": "162.43.32.206",
+            "type": "http",
+            "port": "443",
+            "response_time": 11.64
         }
     ]
 }
