@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "PH",
+            "regionName": "Prahova",
+            "city": "Azuga",
+            "zip": "105100",
+            "lat": 45.4507,
+            "lon": 25.5491,
+            "timezone": "Europe/Bucharest",
+            "isp": "Romtelecom",
+            "org": "",
+            "as": "AS9050 Orange Romania S.A.",
+            "query": "92.86.92.126",
+            "type": "socks4",
+            "port": "42740",
+            "response_time": 3.53
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -17,10 +36,10 @@
             "isp": "STYLISH BY A&L SRL",
             "org": "SC Urban Network Solutions SRL",
             "as": "AS39347 STYLISH BY A&L SRL",
-            "query": "85.122.120.119",
+            "query": "85.122.120.46",
             "type": "http",
-            "port": "20016",
-            "response_time": 10.71
+            "port": "20000",
+            "response_time": 3.99
         }
     ]
 }
