@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "45.32.37.87",
             "type": "http",
             "port": "1080",
-            "response_time": 6.15
+            "response_time": 1.43
         },
         {
             "status": "success",
@@ -28,37 +28,37 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "270-1351",
-            "lat": 35.798,
-            "lon": 140.1803,
+            "city": "Koto City",
+            "zip": "136-0076",
+            "lat": 35.6728,
+            "lon": 139.8278,
             "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "140.238.32.108",
-            "type": "http",
-            "port": "3128",
-            "response_time": 8.2
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "151-0051",
-            "lat": 35.6791,
-            "lon": 139.709,
-            "timezone": "Asia/Tokyo",
-            "isp": "Zenlayer Inc",
-            "org": "UCLOUD",
-            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-            "query": "45.43.60.220",
+            "isp": "Lain.sh",
+            "org": "YUWAN NETWORK LIMITED",
+            "as": "AS215304 YUWAN NETWORKS LIMITED",
+            "query": "5.181.178.46",
             "type": "http",
             "port": "8080",
-            "response_time": 8.36
+            "response_time": 2.85
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "102-0082",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "BrainStorm Network",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "103.75.118.84",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.68
         },
         {
             "status": "success",
@@ -77,7 +77,7 @@
             "query": "209.182.234.151",
             "type": "socks4",
             "port": "40000",
-            "response_time": 12.56
+            "response_time": 9.09
         },
         {
             "status": "success",
@@ -96,26 +96,7 @@
             "query": "209.182.234.151",
             "type": "socks5",
             "port": "40000",
-            "response_time": 12.56
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "270-1351",
-            "lat": 35.798,
-            "lon": 140.1803,
-            "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "132.226.7.23",
-            "type": "socks4",
-            "port": "30277",
-            "response_time": 14.31
+            "response_time": 9.09
         }
     ]
 }
