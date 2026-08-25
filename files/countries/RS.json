@@ -1,7 +1,7 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "62.101.137.150",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.87
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom BB",
+            "isp": "CETIN Ltd. Belgrade",
+            "org": "CETIN Ltd. Belgrade",
+            "as": "AS15958 CETINdoo-NET",
+            "query": "109.245.110.145",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.44
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "24",
+            "regionName": "P\u010dinja",
+            "city": "Oraovica",
+            "zip": "",
+            "lat": 42.3289,
+            "lon": 21.6585,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "212.200.223.89",
+            "query": "77.46.138.38",
             "type": "http",
             "port": "8080",
-            "response_time": 7.23
+            "response_time": 8.14
         }
     ]
 }
