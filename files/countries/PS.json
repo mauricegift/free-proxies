@@ -1,27 +1,8 @@
 {
     "countryCode": "PS",
     "country": "Palestine",
-    "count": 2,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Palestine",
-            "countryCode": "PS",
-            "region": "NBS",
-            "regionName": "Nablus Governorate",
-            "city": "Nablus",
-            "zip": "",
-            "lat": 32.2207,
-            "lon": 35.2542,
-            "timezone": "Asia/Hebron",
-            "isp": "Palestine Telecommunications Company",
-            "org": "Palestine Telecommunications Company",
-            "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.167.58",
-            "type": "http",
-            "port": "9090",
-            "response_time": 2.96
-        },
         {
             "status": "success",
             "country": "Palestine",
@@ -34,12 +15,12 @@
             "lon": 35.1999,
             "timezone": "Asia/Hebron",
             "isp": "Palestine Telecommunications Company",
-            "org": "DSL -PALTEL",
+            "org": "PALTEL-FTTH",
             "as": "AS12975 PALTEL Autonomous System",
-            "query": "213.6.249.37",
-            "type": "http",
-            "port": "19000",
-            "response_time": 8.49
+            "query": "103.231.105.158",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.9
         }
     ]
 }
