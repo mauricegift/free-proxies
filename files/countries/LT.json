@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01001",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "BALTNET",
+            "org": "",
+            "as": "AS15440 UAB Baltnetos komunikacijos",
+            "query": "213.197.136.218",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.75
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -20,26 +39,26 @@
             "query": "194.135.81.158",
             "type": "http",
             "port": "3128",
-            "response_time": 3.77
+            "response_time": 8.72
         },
         {
             "status": "success",
             "country": "Lithuania",
             "countryCode": "LT",
-            "region": "KL",
-            "regionName": "Klaip\u0117da County",
-            "city": "Klaip\u0117da",
-            "zip": "91001",
-            "lat": 55.7158,
-            "lon": 21.111,
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "09202",
+            "lat": 54.695,
+            "lon": 25.292,
             "timezone": "Europe/Vilnius",
-            "isp": "Telia Lietuva",
-            "org": "Telia Lietuva, AB",
-            "as": "AS8764 Telia Lietuva, AB",
-            "query": "88.119.139.237",
-            "type": "http",
-            "port": "53281",
-            "response_time": 4.77
+            "isp": "UAB Delska Lithuania",
+            "org": "UAB Rakrejus",
+            "as": "AS62282 UAB Rakrejus",
+            "query": "185.193.26.120",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 12.59
         }
     ]
 }
