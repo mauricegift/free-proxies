@@ -1,27 +1,8 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
-            "timezone": "Europe/Vienna",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Network Vienna",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "94.228.163.46",
-            "type": "socks4",
-            "port": "9050",
-            "response_time": 4.49
-        },
         {
             "status": "success",
             "country": "Austria",
@@ -39,7 +20,26 @@
             "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.54
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Leoben",
+            "zip": "8700",
+            "lat": 47.376,
+            "lon": 15.0893,
+            "timezone": "Europe/Vienna",
+            "isp": "A1 Telekom Austria AG",
+            "org": "A1 Telekom Austria AG",
+            "as": "AS8447 A1 Telekom Austria AG",
+            "query": "178.189.56.158",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.34
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "95.163.176.131",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.17
+            "response_time": 3.55
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "State of Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "RAPIDSEEDBOX",
+            "org": "",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "193.8.215.80",
+            "type": "http",
+            "port": "3128",
+            "response_time": 12.93
         }
     ]
 }
