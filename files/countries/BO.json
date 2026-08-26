@@ -1,8 +1,27 @@
 {
     "countryCode": "BO",
     "country": "Bolivia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "L",
+            "regionName": "La Paz Department",
+            "city": "La Paz",
+            "zip": "",
+            "lat": -16.5002,
+            "lon": -68.1493,
+            "timezone": "America/La_Paz",
+            "isp": "Telef\u00f3nica Celular de Bolivia S.A.",
+            "org": "Telef\u00f3nica Celular de Bolivia S.A",
+            "as": "AS27882 Telef\u00f3nica Celular de Bolivia S.A.",
+            "query": "190.104.26.227",
+            "type": "socks4",
+            "port": "33638",
+            "response_time": 1.62
+        },
         {
             "status": "success",
             "country": "Bolivia",
@@ -20,7 +39,45 @@
             "query": "158.172.153.36",
             "type": "http",
             "port": "999",
-            "response_time": 7.68
+            "response_time": 6.42
+        },
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "L",
+            "regionName": "La Paz Department",
+            "city": "La Paz",
+            "zip": "",
+            "lat": -16.5002,
+            "lon": -68.1493,
+            "timezone": "America/La_Paz",
+            "isp": "AXS Bolivia S. A.",
+            "org": "AXS Bolivia S. A",
+            "as": "AS26210 AXS Bolivia S. A.",
+            "query": "200.105.192.6",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 8.54
+        },
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "C",
+            "regionName": "Cochabamba",
+            "city": "Cochabamba",
+            "zip": "",
+            "lat": -17.3822,
+            "lon": -66.1518,
+            "timezone": "America/La_Paz",
+            "isp": "Comteco Ltda",
+            "org": "Comteco Ltda",
+            "as": "AS27839 Comteco Ltda",
+            "query": "200.58.82.209",
+            "type": "http",
+            "port": "999",
+            "response_time": 11.12
         }
     ]
 }
