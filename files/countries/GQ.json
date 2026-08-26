@@ -1,8 +1,27 @@
 {
     "countryCode": "GQ",
     "country": "Equatorial Guinea",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Equatorial Guinea",
+            "countryCode": "GQ",
+            "region": "BN",
+            "regionName": "Bioko Norte",
+            "city": "Malabo",
+            "zip": "",
+            "lat": 3.7495,
+            "lon": 8.781,
+            "timezone": "Africa/Malabo",
+            "isp": "Conexxia GE S.L",
+            "org": "",
+            "as": "AS37529 Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial",
+            "query": "102.164.251.242",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 7.53
+        },
         {
             "status": "success",
             "country": "Equatorial Guinea",
@@ -20,7 +39,7 @@
             "query": "196.251.241.54",
             "type": "http",
             "port": "8080",
-            "response_time": 11.51
+            "response_time": 8.18
         }
     ]
 }
