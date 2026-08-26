@@ -1,8 +1,27 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 7,
+    "count": 11,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7108,
+            "lon": 85.3251,
+            "timezone": "Asia/Kathmandu",
+            "isp": "WorldLink Communications",
+            "org": "",
+            "as": "AS17501 WorldLink Communications Pvt Ltd",
+            "query": "202.79.35.143",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.99
+        },
         {
             "status": "success",
             "country": "Nepal",
@@ -20,7 +39,7 @@
             "query": "116.90.224.50",
             "type": "http",
             "port": "8080",
-            "response_time": 1.68
+            "response_time": 3.3
         },
         {
             "status": "success",
@@ -30,16 +49,16 @@
             "regionName": "Bagmati Province",
             "city": "Kathmandu",
             "zip": "",
-            "lat": 27.715,
-            "lon": 85.3115,
+            "lat": 27.7108,
+            "lon": 85.3251,
             "timezone": "Asia/Kathmandu",
-            "isp": "Techminds Network Pvt. Ltd.",
-            "org": "Smart Link Network Pvt Ltd",
-            "as": "AS58504 TECHMINDS NETWORKS PVT. LTD.",
-            "query": "103.167.187.4",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.31
+            "isp": "Subisu Cablenet",
+            "org": "SUBISU Retail Pool15",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "182.93.75.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.94
         },
         {
             "status": "success",
@@ -55,10 +74,67 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.220.40",
+            "query": "202.79.35.12",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.09
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7108,
+            "lon": 85.3251,
+            "timezone": "Asia/Kathmandu",
+            "isp": "SUBISU C7",
+            "org": "",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "110.34.3.144",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.24
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7017,
+            "lon": 85.3206,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Ncell Pty. Ltd.",
+            "org": "Ncell Pty. Ltd",
+            "as": "AS38565 Ncell Pvt. Ltd.",
+            "query": "36.253.25.10",
+            "type": "http",
+            "port": "8181",
+            "response_time": 4.73
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P5",
+            "regionName": "Lumbini Province",
+            "city": "Butwal",
+            "zip": "",
+            "lat": 27.6912,
+            "lon": 83.4525,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Fiberworld Communication Pvt. Ltd",
+            "org": "Mukundasen Cable Network",
+            "as": "AS140072 Fiberworld Communication Pvt.ltd",
+            "query": "103.167.229.147",
             "type": "http",
             "port": "8080",
-            "response_time": 5.05
+            "response_time": 7.59
         },
         {
             "status": "success",
@@ -74,10 +150,10 @@
             "isp": "Everest Wireless Network pvt. ltd",
             "org": "Ewnet",
             "as": "AS137580 Everest Wireless Network pvt. ltd",
-            "query": "103.154.12.43",
+            "query": "103.154.12.59",
             "type": "http",
             "port": "8088",
-            "response_time": 6.61
+            "response_time": 8.91
         },
         {
             "status": "success",
@@ -93,10 +169,29 @@
             "isp": "Everest Wireless Network pvt. ltd",
             "org": "Ewnet",
             "as": "AS137580 Everest Wireless Network pvt. ltd",
-            "query": "103.154.12.5",
+            "query": "103.154.12.35",
             "type": "http",
             "port": "8088",
-            "response_time": 8.78
+            "response_time": 9.01
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.7108,
+            "lon": 85.3251,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Subisu Cablenet",
+            "org": "",
+            "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+            "query": "110.34.8.110",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.65
         },
         {
             "status": "success",
@@ -115,26 +210,7 @@
             "query": "103.124.97.12",
             "type": "http",
             "port": "8080",
-            "response_time": 14.52
-        },
-        {
-            "status": "success",
-            "country": "Nepal",
-            "countryCode": "NP",
-            "region": "P3",
-            "regionName": "Bagmati Province",
-            "city": "Kathmandu",
-            "zip": "",
-            "lat": 27.7017,
-            "lon": 85.3206,
-            "timezone": "Asia/Kathmandu",
-            "isp": "Classic Tech Pvt. Ltd",
-            "org": "ClassicTech",
-            "as": "AS55915 Classic Tech Pvt. Ltd.",
-            "query": "103.1.93.184",
-            "type": "http",
-            "port": "55443",
-            "response_time": 15.15
+            "response_time": 10.66
         }
     ]
 }
