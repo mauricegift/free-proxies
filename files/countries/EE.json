@@ -1,8 +1,27 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.45.119.70",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.41
+        },
         {
             "status": "success",
             "country": "Estonia",
@@ -20,7 +39,45 @@
             "query": "185.157.111.3",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.6
+            "response_time": 3.56
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "159.253.21.21",
+            "type": "http",
+            "port": "3129",
+            "response_time": 5.68
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 P.A.G.M. OU",
+            "query": "5.101.114.63",
+            "type": "http",
+            "port": "8880",
+            "response_time": 7.54
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "5.45.126.165",
             "type": "http",
             "port": "13215",
-            "response_time": 6.7
+            "response_time": 12.13
         }
     ]
 }
