@@ -1,8 +1,27 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
+            "zip": "",
+            "lat": -3.36806,
+            "lon": 36.696,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node PLC Dar TIX",
+            "org": "",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "154.0.157.196",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.16
+        },
         {
             "status": "success",
             "country": "Tanzania",
@@ -20,7 +39,26 @@
             "query": "41.59.112.250",
             "type": "http",
             "port": "3030",
-            "response_time": 9.94
+            "response_time": 8.87
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
+            "zip": "",
+            "lat": -6.827,
+            "lon": 39.2675,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Tanzania Education And Research Network",
+            "org": "Tanzania Education And Research Network",
+            "as": "AS37182 Tanzania Education And Research Network",
+            "query": "41.93.63.66",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.01
         }
     ]
 }
