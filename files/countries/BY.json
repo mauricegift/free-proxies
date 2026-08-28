@@ -1,7 +1,7 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "93.125.3.22",
             "type": "http",
             "port": "8080",
-            "response_time": 8.21
+            "response_time": 6.45
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220002",
+            "lat": 53.9002,
+            "lon": 27.5665,
+            "timezone": "Europe/Minsk",
+            "isp": "Business network jv",
+            "org": "Business network LTD",
+            "as": "AS12406 Business Network Ltd",
+            "query": "80.249.81.179",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 7.06
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220002",
+            "lat": 53.9006,
+            "lon": 27.559,
+            "timezone": "Europe/Minsk",
+            "isp": "Yedinyye Resheniya LLC",
+            "org": "Yedinyye Resheniya LLC",
+            "as": "AS215272 Yedinyye Resheniya LLC",
+            "query": "185.244.50.54",
+            "type": "http",
+            "port": "18080",
+            "response_time": 8.05
         }
     ]
 }
