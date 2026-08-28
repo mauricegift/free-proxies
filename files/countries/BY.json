@@ -1,8 +1,27 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220004",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "PPPoE USERS GRODNO",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "86.57.178.182",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.54
+        },
         {
             "status": "success",
             "country": "Belarus",
@@ -20,45 +39,7 @@
             "query": "82.209.210.213",
             "type": "http",
             "port": "3128",
-            "response_time": 0.88
-        },
-        {
-            "status": "success",
-            "country": "Belarus",
-            "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220002",
-            "lat": 53.9002,
-            "lon": 27.5665,
-            "timezone": "Europe/Minsk",
-            "isp": "Business network jv",
-            "org": "Business network LTD",
-            "as": "AS12406 Business Network Ltd",
-            "query": "80.249.81.179",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 4.44
-        },
-        {
-            "status": "success",
-            "country": "Belarus",
-            "countryCode": "BY",
-            "region": "HM",
-            "regionName": "Minsk City",
-            "city": "Minsk",
-            "zip": "220005",
-            "lat": 53.901,
-            "lon": 27.5707,
-            "timezone": "Europe/Minsk",
-            "isp": "Unitary enterprise A1",
-            "org": "Unitary enterprise A1",
-            "as": "AS42772 Unitary enterprise A1",
-            "query": "93.125.3.22",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.79
+            "response_time": 0.62
         }
     ]
 }
