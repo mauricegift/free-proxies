@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "SZ",
-            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
-            "city": "Z\u00e1hony",
-            "zip": "4625",
-            "lat": 48.4137,
-            "lon": 22.1753,
-            "timezone": "Europe/Budapest",
-            "isp": "Szatmarnet",
-            "org": "",
-            "as": "AS58098 Szatmarnet Bt.",
-            "query": "46.107.230.122",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.64
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,26 +20,26 @@
             "query": "45.9.168.50",
             "type": "http",
             "port": "30001",
-            "response_time": 2.69
+            "response_time": 3.63
         },
         {
             "status": "success",
             "country": "Hungary",
             "countryCode": "HU",
-            "region": "JN",
-            "regionName": "J\u00e1sz-Nagykun-Szolnok",
-            "city": "J\u00e1szfels\u0151szentgy\u00f6rgy",
-            "zip": "5111",
-            "lat": 47.5048,
-            "lon": 19.783,
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1087",
+            "lat": 47.5,
+            "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "One Hungary Ltd.",
-            "org": "One Hungary Ltd",
-            "as": "AS21334 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "89.135.59.71",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+            "org": "Digi",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "84.236.15.216",
             "type": "http",
-            "port": "8090",
-            "response_time": 7.24
+            "port": "8080",
+            "response_time": 4.51
         }
     ]
 }
