@@ -1,8 +1,27 @@
 {
     "countryCode": "SI",
     "country": "Slovenia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovenia",
+            "countryCode": "SI",
+            "region": "061",
+            "regionName": "Ljubljana",
+            "city": "Ljubljana",
+            "zip": "1000",
+            "lat": 46.0503,
+            "lon": 14.5046,
+            "timezone": "Europe/Ljubljana",
+            "isp": "A1 Slovenija",
+            "org": "",
+            "as": "AS21283 A1 Slovenija telekomunikacijske storitve,d.d.",
+            "query": "46.122.16.54",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.02
+        },
         {
             "status": "success",
             "country": "Slovenia",
@@ -20,7 +39,7 @@
             "query": "31.15.169.77",
             "type": "http",
             "port": "808",
-            "response_time": 8.13
+            "response_time": 8.71
         }
     ]
 }
