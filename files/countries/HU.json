@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 5,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "SZ",
-            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
-            "city": "Ny\u00edregyh\u00e1za",
-            "zip": "4400",
-            "lat": 47.9573,
-            "lon": 21.7151,
-            "timezone": "Europe/Budapest",
-            "isp": "MAXKO d.o.o.",
-            "org": "MAXKO d.o.o",
-            "as": "AS211619 MAXKO d.o.o.",
-            "query": "45.9.168.50",
-            "type": "http",
-            "port": "30001",
-            "response_time": 2.84
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,7 +20,26 @@
             "query": "46.107.230.122",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.45
+            "response_time": 5.74
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "SZ",
+            "regionName": "Szabolcs-Szatm\u00e1r-Bereg",
+            "city": "Ny\u00edregyh\u00e1za",
+            "zip": "4400",
+            "lat": 47.9573,
+            "lon": 21.7151,
+            "timezone": "Europe/Budapest",
+            "isp": "MAXKO d.o.o.",
+            "org": "MAXKO d.o.o",
+            "as": "AS211619 MAXKO d.o.o.",
+            "query": "45.9.168.50",
+            "type": "http",
+            "port": "30001",
+            "response_time": 6.22
         },
         {
             "status": "success",
@@ -55,48 +55,10 @@
             "isp": "Deltakon Kft.",
             "org": "Deltanet Internet",
             "as": "AS209001 DELTAKON KFT.",
-            "query": "95.214.123.151",
+            "query": "95.214.123.11",
             "type": "http",
             "port": "8080",
-            "response_time": 4.82
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "JN",
-            "regionName": "J\u00e1sz-Nagykun-Szolnok",
-            "city": "J\u00e1szfels\u0151szentgy\u00f6rgy",
-            "zip": "5111",
-            "lat": 47.5048,
-            "lon": 19.783,
-            "timezone": "Europe/Budapest",
-            "isp": "One Hungary Ltd.",
-            "org": "One Hungary Ltd",
-            "as": "AS21334 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "89.135.59.65",
-            "type": "http",
-            "port": "8090",
-            "response_time": 8.76
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "KE",
-            "regionName": "Kom\u00e1rom-Esztergom",
-            "city": "Esztergom",
-            "zip": "2500",
-            "lat": 47.7928,
-            "lon": 18.7415,
-            "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Juropnet",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "79.121.102.227",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.24
+            "response_time": 8.39
         }
     ]
 }
