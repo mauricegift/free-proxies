@@ -1,7 +1,7 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "SK",
             "region": "TA",
             "regionName": "Trnava Region",
-            "city": "Ve\u013ek\u00e9 Kosto\u013eany",
-            "zip": "922 07",
-            "lat": 48.5118,
-            "lon": 17.7309,
+            "city": "\u0160ajd\u00edkove Humence",
+            "zip": "906 07",
+            "lat": 48.6559,
+            "lon": 17.2628,
             "timezone": "Europe/Bratislava",
-            "isp": "Slovanet a.s.",
-            "org": "Radiolan",
-            "as": "AS43451 Slovanet a.s.",
-            "query": "188.121.168.60",
+            "isp": "EHS, s.r.o.",
+            "org": "EHS, s.r.o",
+            "as": "AS201890 EHS, s.r.o.",
+            "query": "185.144.96.137",
             "type": "http",
-            "port": "8080",
-            "response_time": 3.6
+            "port": "8081",
+            "response_time": 1.21
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "\u0160ajd\u00edkove Humence",
+            "zip": "906 07",
+            "lat": 48.6559,
+            "lon": 17.2628,
+            "timezone": "Europe/Bratislava",
+            "isp": "EHS, s.r.o.",
+            "org": "EHS, s.r.o",
+            "as": "AS201890 EHS, s.r.o.",
+            "query": "185.144.96.140",
+            "type": "http",
+            "port": "8081",
+            "response_time": 15.25
         }
     ]
 }
