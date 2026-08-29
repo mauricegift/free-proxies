@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,54 @@
             "regionName": "Sofia-Capital",
             "city": "Sofia",
             "zip": "1000",
-            "lat": 42.6951,
-            "lon": 23.325,
+            "lat": 42.6977,
+            "lon": 23.3219,
             "timezone": "Europe/Sofia",
-            "isp": "Belcloud LTD",
-            "org": "Redcluster LTD",
-            "as": "AS44901 Belcloud LTD",
-            "query": "185.205.210.154",
+            "isp": "M247 Europe SRL",
+            "org": "3NT SOLUTIONS LLP",
+            "as": "AS9009 M247 Europe SRL",
+            "query": "38.180.2.107",
             "type": "http",
-            "port": "8085",
-            "response_time": 18.58
+            "port": "3128",
+            "response_time": 1.72
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "16",
+            "regionName": "Plovdiv",
+            "city": "Plovdiv",
+            "zip": "4000",
+            "lat": 42.1513,
+            "lon": 24.7518,
+            "timezone": "Europe/Sofia",
+            "isp": "Netguard LLC",
+            "org": "Flashnet",
+            "as": "AS39251 NETGUARD LLC",
+            "query": "91.92.80.199",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.31
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "27",
+            "regionName": "Shumen",
+            "city": "Venets",
+            "zip": "9751",
+            "lat": 43.55,
+            "lon": 26.9333,
+            "timezone": "Europe/Sofia",
+            "isp": "Netbox LTD",
+            "org": "NETBOX Mododex",
+            "as": "AS61071 NETBOX LTD",
+            "query": "88.213.214.254",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.47
         }
     ]
 }
