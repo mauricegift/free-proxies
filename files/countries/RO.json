@@ -1,26 +1,45 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "B",
-            "regionName": "Bucharest",
-            "city": "Bucharest",
-            "zip": "050011",
-            "lat": 44.4291,
-            "lon": 26.1006,
+            "region": "CT",
+            "regionName": "Constan\u021ba County",
+            "city": "N\u0103vodari",
+            "zip": "905700",
+            "lat": 44.3192,
+            "lon": 28.5956,
             "timezone": "Europe/Bucharest",
-            "isp": "Baxet Group Inc.",
-            "org": "Baxet Group Inc",
-            "as": "AS26383 Baxet Group Inc.",
-            "query": "195.133.55.108",
+            "isp": "STYLISH BY A&L SRL",
+            "org": "SC Urban Network Solutions SRL",
+            "as": "AS39347 STYLISH BY A&L SRL",
+            "query": "85.122.120.46",
+            "type": "socks4",
+            "port": "30000",
+            "response_time": 8.7
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "BV",
+            "regionName": "Bra\u0219ov County",
+            "city": "Brasov",
+            "zip": "500053",
+            "lat": 45.6524,
+            "lon": 25.6109,
+            "timezone": "Europe/Bucharest",
+            "isp": "RCS & RDS",
+            "org": "RCS & RDS Business - EASYSERVER NETWORK DC1",
+            "as": "AS8708 RCS & RDS",
+            "query": "82.79.17.197",
             "type": "http",
-            "port": "3128",
-            "response_time": 0.64
+            "port": "80",
+            "response_time": 13.57
         }
     ]
 }
