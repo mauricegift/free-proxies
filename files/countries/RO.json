@@ -1,26 +1,45 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "SB",
-            "regionName": "Sibiu County",
-            "city": "C\u00e2r\u0163i\u015foara",
-            "zip": "557075",
-            "lat": 45.7167,
-            "lon": 24.5833,
+            "region": "BV",
+            "regionName": "Bra\u0219ov County",
+            "city": "Brasov",
+            "zip": "500091",
+            "lat": 45.6524,
+            "lon": 25.6109,
             "timezone": "Europe/Bucharest",
-            "isp": "Vodafone RO",
-            "org": "MobiFon S.A.",
-            "as": "AS12302 Vodafone Romania S.A.",
-            "query": "81.12.157.98",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.67
+            "isp": "RCS & RDS",
+            "org": "RCS & RDS Business",
+            "as": "AS8708 RCS & RDS",
+            "query": "86.123.166.100",
+            "type": "http",
+            "port": "80",
+            "response_time": 7.45
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "BV",
+            "regionName": "Bra\u0219ov County",
+            "city": "Brasov",
+            "zip": "500053",
+            "lat": 45.6524,
+            "lon": 25.6109,
+            "timezone": "Europe/Bucharest",
+            "isp": "RCS & RDS",
+            "org": "RCS & RDS Business - EASYSERVER NETWORK DC1",
+            "as": "AS8708 RCS & RDS",
+            "query": "82.79.17.197",
+            "type": "http",
+            "port": "80",
+            "response_time": 9.33
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "STYLISH BY A&L SRL",
             "org": "SC Urban Network Solutions SRL",
             "as": "AS39347 STYLISH BY A&L SRL",
-            "query": "85.122.120.119",
+            "query": "85.122.120.46",
             "type": "http",
-            "port": "20016",
-            "response_time": 10.58
+            "port": "20000",
+            "response_time": 13.69
         }
     ]
 }
