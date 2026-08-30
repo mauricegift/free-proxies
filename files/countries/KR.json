@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Aceville Pte.ltd",
+            "org": "",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "150.109.247.86",
+            "type": "socks4",
+            "port": "8443",
+            "response_time": 1.66
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 1.68
+            "response_time": 1.96
         },
         {
             "status": "success",
@@ -28,18 +47,56 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Mapo-gu",
-            "zip": "039",
-            "lat": 37.5681,
-            "lon": 126.8998,
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.155.159.164",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.66
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "02878",
+            "lat": 37.5985,
+            "lon": 126.9783,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "152.70.237.238",
+            "type": "socks5",
+            "port": "3128",
+            "response_time": 6.03
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Songpa-gu",
+            "zip": "055",
+            "lat": 37.5108,
+            "lon": 127.1048,
             "timezone": "Asia/Seoul",
             "isp": "LG POWERCOMM",
             "org": "Xpeed",
             "as": "AS17858 LG POWERCOMM",
-            "query": "182.225.199.208",
-            "type": "http",
-            "port": "3128",
-            "response_time": 15.46
+            "query": "115.136.121.54",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 8.63
         }
     ]
 }
