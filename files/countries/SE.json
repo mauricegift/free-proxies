@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 12,
+    "count": 10,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "128 62",
+            "lat": 59.2484,
+            "lon": 18.1223,
+            "timezone": "Europe/Stockholm",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.59.115",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.23
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -18,44 +37,6 @@
             "org": "Bredband2",
             "as": "AS29518 Bredband2 AB",
             "query": "85.8.47.207",
-            "type": "http",
-            "port": "7080",
-            "response_time": 0.26
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AC",
-            "regionName": "V\u00e4sterbotten County",
-            "city": "Ume\u00e5",
-            "zip": "903 61",
-            "lat": 63.8247,
-            "lon": 20.2559,
-            "timezone": "Europe/Stockholm",
-            "isp": "Bredband2 AB",
-            "org": "Bredband2",
-            "as": "AS29518 Bredband2 AB",
-            "query": "85.8.47.209",
-            "type": "http",
-            "port": "7080",
-            "response_time": 0.29
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AC",
-            "regionName": "V\u00e4sterbotten County",
-            "city": "Ume\u00e5",
-            "zip": "903 61",
-            "lat": 63.8247,
-            "lon": 20.2559,
-            "timezone": "Europe/Stockholm",
-            "isp": "Bredband2 AB",
-            "org": "Bredband2",
-            "as": "AS29518 Bredband2 AB",
-            "query": "85.8.47.208",
             "type": "http",
             "port": "7080",
             "response_time": 0.33
@@ -74,10 +55,29 @@
             "isp": "Bredband2 AB",
             "org": "Bredband2",
             "as": "AS29518 Bredband2 AB",
+            "query": "85.8.47.210",
+            "type": "http",
+            "port": "7080",
+            "response_time": 0.35
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AC",
+            "regionName": "V\u00e4sterbotten County",
+            "city": "Ume\u00e5",
+            "zip": "903 61",
+            "lat": 63.8247,
+            "lon": 20.2559,
+            "timezone": "Europe/Stockholm",
+            "isp": "Bredband2 AB",
+            "org": "Bredband2",
+            "as": "AS29518 Bredband2 AB",
             "query": "85.8.47.211",
             "type": "http",
             "port": "7080",
-            "response_time": 0.36
+            "response_time": 0.43
         },
         {
             "status": "success",
@@ -96,7 +96,7 @@
             "query": "85.8.47.198",
             "type": "http",
             "port": "7080",
-            "response_time": 0.36
+            "response_time": 0.48
         },
         {
             "status": "success",
@@ -115,7 +115,7 @@
             "query": "85.8.47.212",
             "type": "http",
             "port": "7080",
-            "response_time": 0.37
+            "response_time": 0.53
         },
         {
             "status": "success",
@@ -131,67 +131,29 @@
             "isp": "Bredband2 AB",
             "org": "Bredband2",
             "as": "AS29518 Bredband2 AB",
-            "query": "85.8.47.210",
+            "query": "85.8.47.208",
             "type": "http",
             "port": "7080",
-            "response_time": 0.38
+            "response_time": 0.55
         },
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "128 62",
-            "lat": 59.2484,
-            "lon": 18.1223,
+            "region": "AC",
+            "regionName": "V\u00e4sterbotten County",
+            "city": "Ume\u00e5",
+            "zip": "903 61",
+            "lat": 63.8247,
+            "lon": 20.2559,
             "timezone": "Europe/Stockholm",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "79.76.59.115",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.51
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.230.196",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.0
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "16353",
-            "lat": 59.3293,
-            "lon": 18.0685,
-            "timezone": "Europe/Stockholm",
-            "isp": "SIA VEESP",
-            "org": "SIA VEESP",
-            "as": "AS42532 SIA VEESP",
-            "query": "62.182.199.133",
+            "isp": "Bredband2 AB",
+            "org": "Bredband2",
+            "as": "AS29518 Bredband2 AB",
+            "query": "85.8.47.209",
             "type": "http",
-            "port": "3128",
-            "response_time": 5.48
+            "port": "7080",
+            "response_time": 0.76
         },
         {
             "status": "success",
@@ -204,13 +166,13 @@
             "lat": 59.3287,
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "77.221.136.53",
+            "isp": "Alexhost SRL",
+            "org": "",
+            "as": "AS200019 ALEXHOST SRL",
+            "query": "143.246.197.187",
             "type": "socks4",
-            "port": "8443",
-            "response_time": 11.26
+            "port": "1080",
+            "response_time": 3.61
         },
         {
             "status": "success",
@@ -227,9 +189,9 @@
             "org": "ab stract",
             "as": "AS39287 Materialism s.r.l.",
             "query": "80.78.18.216",
-            "type": "socks4",
+            "type": "socks5",
             "port": "16379",
-            "response_time": 13.56
+            "response_time": 9.17
         }
     ]
 }
