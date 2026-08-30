@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "\u0160ajd\u00edkove Humence",
+            "zip": "906 07",
+            "lat": 48.6559,
+            "lon": 17.2628,
+            "timezone": "Europe/Bratislava",
+            "isp": "EHS, s.r.o.",
+            "org": "EHS, s.r.o",
+            "as": "AS201890 EHS, s.r.o.",
+            "query": "185.144.96.137",
+            "type": "http",
+            "port": "8081",
+            "response_time": 5.89
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +39,7 @@
             "query": "185.144.96.1",
             "type": "http",
             "port": "8081",
-            "response_time": 6.13
+            "response_time": 7.97
         }
     ]
 }
