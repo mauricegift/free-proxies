@@ -1,8 +1,27 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 6,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.164.136.235",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.12
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +39,7 @@
             "query": "1.231.81.166",
             "type": "http",
             "port": "3128",
-            "response_time": 3.33
+            "response_time": 3.31
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "114.108.177.104",
             "type": "socks4",
             "port": "60984",
-            "response_time": 3.6
+            "response_time": 3.83
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Mapo-gu",
+            "zip": "039",
+            "lat": 37.5681,
+            "lon": 126.8998,
+            "timezone": "Asia/Seoul",
+            "isp": "LG POWERCOMM",
+            "org": "Xpeed",
+            "as": "AS17858 LG POWERCOMM",
+            "query": "182.225.199.208",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.59
         },
         {
             "status": "success",
@@ -58,26 +96,7 @@
             "query": "220.81.123.23",
             "type": "http",
             "port": "48678",
-            "response_time": 4.94
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "44",
-            "regionName": "Chungcheongnam-do",
-            "city": "Yesan",
-            "zip": "324",
-            "lat": 36.6782,
-            "lon": 126.6974,
-            "timezone": "Asia/Seoul",
-            "isp": "Korea Telecom",
-            "org": "Kornet",
-            "as": "AS4766 Korea Telecom",
-            "query": "175.203.138.160",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 7.85
+            "response_time": 9.03
         },
         {
             "status": "success",
@@ -93,10 +112,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "146.56.170.84",
-            "type": "http",
-            "port": "10808",
-            "response_time": 8.36
+            "query": "152.70.237.238",
+            "type": "socks4",
+            "port": "3128",
+            "response_time": 9.49
         },
         {
             "status": "success",
@@ -104,18 +123,37 @@
             "countryCode": "KR",
             "region": "11",
             "regionName": "Seoul",
-            "city": "Songpa-gu",
-            "zip": "055",
-            "lat": 37.5108,
-            "lon": 127.1048,
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
             "timezone": "Asia/Seoul",
-            "isp": "LG POWERCOMM",
-            "org": "Xpeed",
-            "as": "AS17858 LG POWERCOMM",
-            "query": "115.136.121.54",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.164.129.84",
             "type": "http",
             "port": "3128",
-            "response_time": 10.58
+            "response_time": 12.32
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Yongsan-dong",
+            "zip": "06245",
+            "lat": 37.4901,
+            "lon": 127.035,
+            "timezone": "Asia/Seoul",
+            "isp": "Shanghai Xima Internet Technology Limited",
+            "org": "",
+            "as": "AS138195 MOACK.Co.LTD",
+            "query": "116.204.171.225",
+            "type": "http",
+            "port": "3128",
+            "response_time": 15.22
         }
     ]
 }
