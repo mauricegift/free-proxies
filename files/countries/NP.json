@@ -1,7 +1,7 @@
 {
     "countryCode": "NP",
     "country": "Nepal",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.219.80",
+            "query": "124.41.213.174",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 1.02
+            "port": "5678",
+            "response_time": 1.23
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "WorldLink Communications",
             "org": "",
             "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.79.35.143",
+            "query": "202.79.35.12",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 1.17
+            "port": "1080",
+            "response_time": 2.1
         },
         {
             "status": "success",
@@ -55,67 +55,48 @@
             "isp": "Everest Wireless Network pvt. ltd",
             "org": "Ewnet",
             "as": "AS137580 Everest Wireless Network pvt. ltd",
-            "query": "103.154.12.5",
+            "query": "103.154.12.17",
             "type": "http",
             "port": "8088",
-            "response_time": 3.52
+            "response_time": 2.41
         },
         {
             "status": "success",
             "country": "Nepal",
             "countryCode": "NP",
-            "region": "P1",
-            "regionName": "Koshi",
-            "city": "Nanche Bazar",
+            "region": "P5",
+            "regionName": "Lumbini Province",
+            "city": "Gulariy\u0101",
             "zip": "",
-            "lat": 27.8053,
-            "lon": 86.7106,
+            "lat": 28.2058,
+            "lon": 81.3453,
+            "timezone": "Asia/Kathmandu",
+            "isp": "Everest Wireless Network pvt. ltd",
+            "org": "Ewnet",
+            "as": "AS137580 Everest Wireless Network pvt. ltd",
+            "query": "103.154.12.2",
+            "type": "http",
+            "port": "8088",
+            "response_time": 3.63
+        },
+        {
+            "status": "success",
+            "country": "Nepal",
+            "countryCode": "NP",
+            "region": "P3",
+            "regionName": "Bagmati Province",
+            "city": "Kathmandu",
+            "zip": "",
+            "lat": 27.6856,
+            "lon": 85.346,
             "timezone": "Asia/Kathmandu",
             "isp": "Websurfer Nepal Communication System Pvt. Ltd",
             "org": "Websurfer Nepal Communication System Pvt. Ltd",
             "as": "AS24550 Websurfer Nepal Internet Service Provider",
-            "query": "118.91.175.146",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 8.53
-        },
-        {
-            "status": "success",
-            "country": "Nepal",
-            "countryCode": "NP",
-            "region": "P5",
-            "regionName": "Lumbini Province",
-            "city": "Gulariy\u0101",
-            "zip": "",
-            "lat": 28.2058,
-            "lon": 81.3453,
-            "timezone": "Asia/Kathmandu",
-            "isp": "Everest Wireless Network pvt. ltd",
-            "org": "Ewnet",
-            "as": "AS137580 Everest Wireless Network pvt. ltd",
-            "query": "103.154.12.35",
-            "type": "http",
-            "port": "8088",
-            "response_time": 8.87
-        },
-        {
-            "status": "success",
-            "country": "Nepal",
-            "countryCode": "NP",
-            "region": "P3",
-            "regionName": "Bagmati Province",
-            "city": "Kathmandu",
-            "zip": "",
-            "lat": 27.7108,
-            "lon": 85.3251,
-            "timezone": "Asia/Kathmandu",
-            "isp": "WorldLink Communications",
-            "org": "",
-            "as": "AS17501 WorldLink Communications Pvt Ltd",
-            "query": "202.166.220.40",
+            "query": "116.90.224.50",
             "type": "http",
             "port": "8080",
-            "response_time": 13.7
+            "response_time": 6.04
         }
     ]
 }
