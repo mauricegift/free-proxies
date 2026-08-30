@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "Choopa",
+            "org": "Vultr Holdings, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "45.63.26.240",
+            "type": "http",
+            "port": "80",
+            "response_time": 5.48
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,7 @@
             "query": "103.18.205.162",
             "type": "http",
             "port": "8080",
-            "response_time": 4.35
+            "response_time": 7.01
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "168.138.9.147",
             "type": "socks4",
             "port": "1080",
-            "response_time": 19.04
+            "response_time": 8.21
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Burnside",
+            "zip": "3023",
+            "lat": -37.7469,
+            "lon": 144.749,
+            "timezone": "Australia/Melbourne",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 9.02
         }
     ]
 }
