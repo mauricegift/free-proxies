@@ -1,27 +1,8 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 4,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "64",
-            "regionName": "South Moravian",
-            "city": "Brno-South",
-            "zip": "619 00",
-            "lat": 49.1848,
-            "lon": 16.6221,
-            "timezone": "Europe/Prague",
-            "isp": "PREROV",
-            "org": "",
-            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
-            "query": "217.197.151.182",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 2.32
-        },
         {
             "status": "success",
             "country": "Czechia",
@@ -39,7 +20,26 @@
             "query": "171.25.220.141",
             "type": "http",
             "port": "8080",
-            "response_time": 7.09
+            "response_time": 0.77
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "160 00",
+            "lat": 50.1242,
+            "lon": 14.398,
+            "timezone": "Europe/Prague",
+            "isp": "Druzstvo EUROSIGNAL",
+            "org": "Eurosignal",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.102.149",
+            "type": "http",
+            "port": "800",
+            "response_time": 1.84
         },
         {
             "status": "success",
@@ -58,26 +58,45 @@
             "query": "188.119.98.126",
             "type": "http",
             "port": "9999",
-            "response_time": 11.02
+            "response_time": 2.87
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "B\u0159asy",
-            "zip": "338 24",
-            "lat": 49.8364,
-            "lon": 13.57,
+            "region": "64",
+            "regionName": "South Moravian",
+            "city": "Brno-South",
+            "zip": "619 00",
+            "lat": 49.1848,
+            "lon": 16.6221,
             "timezone": "Europe/Prague",
-            "isp": "T-Mobile Czech Republic a.s.",
-            "org": "T-Mobile Czech Republic",
-            "as": "AS13036 T-Mobile Czech Republic a.s.",
-            "query": "91.139.78.174",
+            "isp": "PREROV",
+            "org": "",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "217.197.151.182",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.52
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "160 00",
+            "lat": 50.1242,
+            "lon": 14.398,
+            "timezone": "Europe/Prague",
+            "isp": "STARNET, s.r.o.",
+            "org": "STARNET, s.r.o.",
+            "as": "AS44489 STARNET, s.r.o.",
+            "query": "109.164.35.23",
             "type": "http",
-            "port": "3128",
-            "response_time": 12.22
+            "port": "8888",
+            "response_time": 7.77
         }
     ]
 }
