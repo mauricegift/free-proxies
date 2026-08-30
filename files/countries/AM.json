@@ -1,8 +1,46 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom Mobile Network",
+            "org": "",
+            "as": "AS44395 Ucom CJSC",
+            "query": "5.77.252.205",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.65
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1872,
+            "lon": 44.5152,
+            "timezone": "Asia/Yerevan",
+            "isp": "Data Campus Limited",
+            "org": "Data Campus Limited",
+            "as": "AS215929 Data Campus Limited",
+            "query": "45.142.195.110",
+            "type": "socks5",
+            "port": "995",
+            "response_time": 7.19
+        },
         {
             "status": "success",
             "country": "Armenia",
@@ -20,7 +58,7 @@
             "query": "46.36.123.30",
             "type": "http",
             "port": "81",
-            "response_time": 1.64
+            "response_time": 7.83
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "46.36.123.66",
             "type": "http",
             "port": "81",
-            "response_time": 6.05
+            "response_time": 8.04
         }
     ]
 }
