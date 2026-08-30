@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "103.75.118.84",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.15
+            "response_time": 4.23
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "5.181.178.46",
             "type": "http",
             "port": "8080",
-            "response_time": 5.77
+            "response_time": 5.58
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "151-0051",
+            "lat": 35.6791,
+            "lon": 139.709,
+            "timezone": "Asia/Tokyo",
+            "isp": "Zenlayer Inc",
+            "org": "UCLOUD",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "45.43.60.220",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.3
         },
         {
             "status": "success",
@@ -52,13 +71,32 @@
             "lat": 35.6893,
             "lon": 139.6899,
             "timezone": "Asia/Tokyo",
-            "isp": "ByteVirt LLC",
-            "org": "ByteVirt LLC",
-            "as": "AS212336 ByteVirt LLC",
-            "query": "31.57.172.220",
+            "isp": "HIVELOCITY, Inc.",
+            "org": "Strasmore, Inc.",
+            "as": "AS29802 HIVELOCITY, Inc.",
+            "query": "209.182.234.151",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 8.85
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Koto City",
+            "zip": "136-0076",
+            "lat": 35.6728,
+            "lon": 139.8278,
+            "timezone": "Asia/Tokyo",
+            "isp": "Lain.sh",
+            "org": "YUWAN NETWORK LIMITED",
+            "as": "AS215304 YUWAN NETWORKS LIMITED",
+            "query": "5.181.178.86",
             "type": "http",
-            "port": "10808",
-            "response_time": 25.88
+            "port": "8181",
+            "response_time": 9.82
         }
     ]
 }
