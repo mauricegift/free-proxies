@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "193.233.232.49",
             "type": "http",
             "port": "3131",
-            "response_time": 1.33
+            "response_time": 0.26
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "4",
+            "regionName": "Upper Austria",
+            "city": "Traun",
+            "zip": "4050",
+            "lat": 48.227,
+            "lon": 14.2336,
+            "timezone": "Europe/Vienna",
+            "isp": "LIWEST Kabelmedien GmbH",
+            "org": "LIWEST",
+            "as": "AS12605 LIWEST Kabelmedien GmbH",
+            "query": "90.146.196.18",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.69
         }
     ]
 }
