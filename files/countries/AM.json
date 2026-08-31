@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "GNC",
-            "org": "Hamynqneri_Miutyun_Sisian",
-            "as": "AS49800 GNC-Alfa CJSC",
-            "query": "130.193.123.34",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.193",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 0.63
+            "port": "3629",
+            "response_time": 0.66
         },
         {
             "status": "success",
@@ -39,7 +39,83 @@
             "query": "212.34.230.102",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.17
+            "response_time": 3.79
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC-Alfa CJSC",
+            "org": "GNC Customers29",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "195.250.92.58",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.26
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC",
+            "org": "Hamynqneri_Miutyun_Sisian",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "130.193.123.34",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.64
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom Mobile Network",
+            "org": "",
+            "as": "AS44395 Ucom CJSC",
+            "query": "5.77.252.205",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.97
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "KT",
+            "regionName": "Kotayk",
+            "city": "Zovuni",
+            "zip": "",
+            "lat": 40.2331,
+            "lon": 44.5113,
+            "timezone": "Asia/Yerevan",
+            "isp": "LikeNet LLC",
+            "org": "Inecobank",
+            "as": "AS215421 LikeNet LLC",
+            "query": "46.36.123.18",
+            "type": "http",
+            "port": "81",
+            "response_time": 7.82
         }
     ]
 }
