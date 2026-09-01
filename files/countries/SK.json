@@ -1,7 +1,7 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "91.217.33.137",
             "type": "http",
             "port": "8080",
-            "response_time": 3.48
+            "response_time": 4.18
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Trnava",
+            "zip": "917 01",
+            "lat": 48.3762,
+            "lon": 17.5829,
+            "timezone": "Europe/Bratislava",
+            "isp": "AIRNET s.r.o.",
+            "org": "Airnet",
+            "as": "AS201603 AIRNET s.r.o.",
+            "query": "91.217.33.161",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.39
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "BL",
+            "regionName": "Bratislava Region",
+            "city": "Bratislava",
+            "zip": "810 00",
+            "lat": 48.1486,
+            "lon": 17.1077,
+            "timezone": "Europe/Bratislava",
+            "isp": "eServer s.r.o.",
+            "org": "Digital City LTD",
+            "as": "AS61424 eServer s.r.o.",
+            "query": "45.129.141.174",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.87
         }
     ]
 }
