@@ -1,7 +1,7 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
             "query": "196.64.105.48",
             "type": "http",
-            "port": "1234",
-            "response_time": 4.73
+            "port": "1230",
+            "response_time": 5.86
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "01",
+            "regionName": "Tanger-Tetouan-Al Hoceima",
+            "city": "Tangier",
+            "zip": "",
+            "lat": 35.7758,
+            "lon": -5.7909,
+            "timezone": "Africa/Casablanca",
+            "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "org": "MarocTelecomASDL",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "160.177.243.122",
+            "type": "http",
+            "port": "1314",
+            "response_time": 12.11
         }
     ]
 }
