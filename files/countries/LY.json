@@ -1,7 +1,7 @@
 {
     "countryCode": "LY",
     "country": "Libya",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "TB",
             "regionName": "Tripoli",
             "city": "Tripoli",
-            "zip": "",
-            "lat": 32.8874,
-            "lon": 13.1873,
+            "zip": "218",
+            "lat": 32.8908,
+            "lon": 13.1796,
             "timezone": "Africa/Tripoli",
-            "isp": "Rawafed",
-            "org": "",
-            "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "154.73.29.33",
+            "isp": "GZA",
+            "org": "Giga Telecommunication and Technology Limited",
+            "as": "AS328539 Giga for Telecommunication and Technology Limited",
+            "query": "102.38.29.36",
             "type": "http",
             "port": "8080",
-            "response_time": 2.93
+            "response_time": 6.42
+        },
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "TB",
+            "regionName": "Tripoli",
+            "city": "Tripoli",
+            "zip": "218",
+            "lat": 32.8908,
+            "lon": 13.1796,
+            "timezone": "Africa/Tripoli",
+            "isp": "Giga for Telecommunication and Technology Limited",
+            "org": "Giga for Telecommunication and Technology Limited",
+            "as": "AS328539 Giga for Telecommunication and Technology Limited",
+            "query": "102.38.21.1",
+            "type": "http",
+            "port": "19000",
+            "response_time": 6.85
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "Aljeel Aljadeed For Technology",
             "org": "Aljeel Aljadeed Technology",
             "as": "AS37284 Aljeel Aljadeed For Technology",
-            "query": "165.16.88.218",
+            "query": "165.16.58.124",
             "type": "http",
             "port": "8080",
-            "response_time": 4.02
+            "response_time": 7.63
         },
         {
             "status": "success",
@@ -55,10 +74,29 @@
             "isp": "LTT Autonomous System, Tripoli Libya",
             "org": "Schlumberger Overseas S.A",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
-            "query": "102.68.132.4",
+            "query": "102.68.132.5",
             "type": "http",
-            "port": "19000",
-            "response_time": 8.86
+            "port": "18000",
+            "response_time": 8.25
+        },
+        {
+            "status": "success",
+            "country": "Libya",
+            "countryCode": "LY",
+            "region": "JU",
+            "regionName": "Al Jufrah",
+            "city": "Wadd\u0101n",
+            "zip": "",
+            "lat": 29.1692,
+            "lon": 16.1362,
+            "timezone": "Africa/Tripoli",
+            "isp": "Aljeel Aljadeed For Technology",
+            "org": "Aljeel Aljadeed Technology",
+            "as": "AS37284 Aljeel Aljadeed For Technology",
+            "query": "154.127.78.16",
+            "type": "http",
+            "port": "44444",
+            "response_time": 12.52
         }
     ]
 }
