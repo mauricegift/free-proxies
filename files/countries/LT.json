@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "UAB Delska Lithuania",
             "org": "UAB Rakrejus",
             "as": "AS62282 UAB Rakrejus",
-            "query": "185.193.25.181",
+            "query": "185.193.25.206",
             "type": "socks4",
             "port": "9050",
-            "response_time": 13.85
+            "response_time": 14.68
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "09202",
+            "lat": 54.695,
+            "lon": 25.292,
+            "timezone": "Europe/Vilnius",
+            "isp": "UAB Delska Lithuania",
+            "org": "UAB Rakrejus",
+            "as": "AS62282 UAB Rakrejus",
+            "query": "185.193.25.206",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 14.68
         }
     ]
 }
