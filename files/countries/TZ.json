@@ -1,8 +1,46 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "03",
+            "regionName": "Dodoma",
+            "city": "Dodoma",
+            "zip": "",
+            "lat": -6.17221,
+            "lon": 35.7395,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "TTCL",
+            "org": "",
+            "as": "AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD",
+            "query": "41.59.112.250",
+            "type": "http",
+            "port": "3030",
+            "response_time": 1.45
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
+            "zip": "",
+            "lat": -3.36806,
+            "lon": 36.696,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node PLC Dar TIX",
+            "org": "",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "154.0.157.196",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.66
+        },
         {
             "status": "success",
             "country": "Tanzania",
@@ -20,26 +58,7 @@
             "query": "154.74.183.34",
             "type": "http",
             "port": "8080",
-            "response_time": 4.98
-        },
-        {
-            "status": "success",
-            "country": "Tanzania",
-            "countryCode": "TZ",
-            "region": "02",
-            "regionName": "Dar es Salaam Region",
-            "city": "Dar es Salaam",
-            "zip": "",
-            "lat": -6.827,
-            "lon": 39.2675,
-            "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Tanzania Education And Research Network",
-            "org": "Tanzania Education And Research Network",
-            "as": "AS37182 Tanzania Education And Research Network",
-            "query": "41.93.63.66",
-            "type": "http",
-            "port": "8080",
-            "response_time": 14.05
+            "response_time": 14.45
         }
     ]
 }
