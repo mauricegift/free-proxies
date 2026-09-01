@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "BU",
             "regionName": "Budapest",
             "city": "Budapest",
-            "zip": "1054",
+            "zip": "1039",
             "lat": 47.5,
             "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "UPC",
-            "org": "UPC Magyarorszag Kft.",
-            "as": "AS21334 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "178.48.13.177",
-            "type": "socks4",
-            "port": "80",
-            "response_time": 2.42
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+            "org": "Digi",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "84.236.14.23",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.42
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1007",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft.",
+            "org": "Digi",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "84.236.71.146",
+            "type": "http",
+            "port": "18080",
+            "response_time": 10.83
         }
     ]
 }
