@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "122.117.18.15",
             "type": "socks5",
             "port": "1080",
-            "response_time": 6.44
+            "response_time": 5.97
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TXG",
+            "regionName": "Taichung City",
+            "city": "Taichung",
+            "zip": "",
+            "lat": 24.144,
+            "lon": 120.6844,
+            "timezone": "Asia/Taipei",
+            "isp": "Digital United Inc.",
+            "org": "New Century InfoComm Tech. Co., Ltd.",
+            "as": "AS4780 Digital United Inc.",
+            "query": "106.104.177.158",
+            "type": "http",
+            "port": "60808",
+            "response_time": 6.04
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "",
+            "regionName": "Taipei",
+            "city": "Banqiao",
+            "zip": "",
+            "lat": 24.9961,
+            "lon": 121.456,
+            "timezone": "Asia/Taipei",
+            "isp": "Asia Pacific On-line Service Inc.",
+            "org": "Far EasTone Telecommunication Co., Ltd.",
+            "as": "AS7482 Asia Pacific On-line Service Inc.",
+            "query": "210.201.86.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.85
         }
     ]
 }
