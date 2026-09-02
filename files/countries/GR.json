@@ -1,7 +1,7 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "149.210.1.78",
             "type": "http",
             "port": "18080",
-            "response_time": 5.3
+            "response_time": 4.36
         },
         {
             "status": "success",
@@ -30,16 +30,35 @@
             "regionName": "Attica",
             "city": "Athens",
             "zip": "",
-            "lat": 37.987,
-            "lon": 23.7658,
+            "lat": 37.9842,
+            "lon": 23.7353,
             "timezone": "Europe/Athens",
-            "isp": "OKEANOS Hosted VM's",
-            "org": "Greek Research and Technology Network (GRNET) S.A.",
-            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
-            "query": "83.212.72.114",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "62.103.66.18",
             "type": "http",
             "port": "3128",
-            "response_time": 8.33
+            "response_time": 10.04
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Korop\u00ed",
+            "zip": "",
+            "lat": 37.9011,
+            "lon": 23.8727,
+            "timezone": "Europe/Athens",
+            "isp": "TOPHOST-VPS",
+            "org": "",
+            "as": "AS20857 Signet B.V.",
+            "query": "185.4.132.222",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.83
         }
     ]
 }
