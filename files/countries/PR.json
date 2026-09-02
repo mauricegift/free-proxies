@@ -1,8 +1,46 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Humacao",
+            "city": "Humacao",
+            "zip": "00791",
+            "lat": 18.1524,
+            "lon": -65.8207,
+            "timezone": "America/Puerto_Rico",
+            "isp": "OSNET Wireless",
+            "org": "OSNet Wireless",
+            "as": "AS21559 OSNET",
+            "query": "154.64.211.145",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.7
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Yabucoa",
+            "city": "Comunas",
+            "zip": "",
+            "lat": 18.0872,
+            "lon": -65.8438,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Boom NET",
+            "org": "BOOM",
+            "as": "AS63393 BOOM NET",
+            "query": "192.203.0.210",
+            "type": "http",
+            "port": "999",
+            "response_time": 8.16
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -17,10 +55,29 @@
             "isp": "OSNET Wireless",
             "org": "FiberX",
             "as": "AS21559 OSNET",
-            "query": "72.46.158.193",
+            "query": "104.238.232.210",
             "type": "http",
-            "port": "8087",
-            "response_time": 5.13
+            "port": "999",
+            "response_time": 10.13
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Yabucoa",
+            "city": "Comunas",
+            "zip": "",
+            "lat": 18.0872,
+            "lon": -65.8438,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Boom NET",
+            "org": "BOOM",
+            "as": "AS63393 BOOM NET",
+            "query": "192.203.0.118",
+            "type": "http",
+            "port": "999",
+            "response_time": 10.41
         }
     ]
 }
