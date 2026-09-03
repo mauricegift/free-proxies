@@ -1,26 +1,45 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 CLOUD.DOG OU",
+            "query": "5.45.119.70",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.3
+        },
         {
             "status": "success",
             "country": "Estonia",
             "countryCode": "EE",
             "region": "37",
             "regionName": "Harjumaa",
-            "city": "Kuusalu",
+            "city": "Tabasalu",
             "zip": "",
-            "lat": 59.4417,
-            "lon": 25.4416,
+            "lat": 59.4264,
+            "lon": 24.5727,
             "timezone": "Europe/Tallinn",
             "isp": "HexCore cloud s.r.o.",
             "org": "HexCore cloud s.r.o",
             "as": "AS199144 HexCore cloud s.r.o.",
-            "query": "193.42.112.26",
+            "query": "217.78.239.5",
             "type": "http",
-            "port": "8080",
-            "response_time": 9.46
+            "port": "4555",
+            "response_time": 5.97
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "5.45.126.165",
             "type": "http",
             "port": "13215",
-            "response_time": 13.89
+            "response_time": 10.27
         }
     ]
 }
