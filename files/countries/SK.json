@@ -1,26 +1,45 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Slovakia",
             "countryCode": "SK",
-            "region": "PV",
-            "regionName": "Pre\u0161ov Region",
-            "city": "Kalni\u0161te",
-            "zip": "087 01",
-            "lat": 49.1424,
-            "lon": 21.4868,
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Rybky",
+            "zip": "906 04",
+            "lat": 48.7124,
+            "lon": 17.335,
             "timezone": "Europe/Bratislava",
-            "isp": "DELTA ONLINE spol. s r.o.",
-            "org": "Probasec-Net s.r.o",
-            "as": "AS34820 DELTA ONLINE spol. s r.o.",
-            "query": "185.225.204.5",
+            "isp": "EHS, s.r.o.",
+            "org": "EHS, s.r.o",
+            "as": "AS201890 EHS, s.r.o.",
+            "query": "185.144.96.138",
             "type": "http",
-            "port": "3128",
-            "response_time": 6.44
+            "port": "8081",
+            "response_time": 6.02
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Moravany nad V\u00e1hom",
+            "zip": "922 21",
+            "lat": 48.5997,
+            "lon": 17.8529,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Radiolan",
+            "as": "AS43451 Slovanet a.s.",
+            "query": "188.121.168.60",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.8
         }
     ]
 }
