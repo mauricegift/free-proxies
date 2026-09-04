@@ -1,26 +1,45 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "13",
-            "regionName": "Pomoravlje",
-            "city": "Jagodina",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
             "zip": "",
-            "lat": 43.9784,
-            "lon": 21.2571,
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.33
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
             "timezone": "Europe/Belgrade",
             "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Zbet",
+            "org": "Telekom BB",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "178.220.148.82",
-            "type": "socks4",
-            "port": "10801",
-            "response_time": 0.48
+            "query": "212.200.223.89",
+            "type": "http",
+            "port": "8080",
+            "response_time": 13.1
         }
     ]
 }
