@@ -1,7 +1,7 @@
 {
     "countryCode": "LK",
     "country": "Sri Lanka",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "116.12.85.67",
             "type": "http",
             "port": "2525",
-            "response_time": 7.06
+            "response_time": 3.07
+        },
+        {
+            "status": "success",
+            "country": "Sri Lanka",
+            "countryCode": "LK",
+            "region": "1",
+            "regionName": "Western Province",
+            "city": "Colombo",
+            "zip": "00300",
+            "lat": 6.8833,
+            "lon": 79.85,
+            "timezone": "Asia/Colombo",
+            "isp": "Lanka Communication Services (Pvt) Ltd.",
+            "org": "Lanka Communication Services (Pvt) Ltd",
+            "as": "AS5087 Lanka Communication Services",
+            "query": "203.143.19.137",
+            "type": "http",
+            "port": "5050",
+            "response_time": 11.6
         }
     ]
 }
