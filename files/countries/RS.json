@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "13",
-            "regionName": "Pomoravlje",
-            "city": "Jagodina",
-            "zip": "",
-            "lat": 43.9784,
-            "lon": 21.2571,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Zbet",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "178.220.148.82",
-            "type": "socks4",
-            "port": "10801",
-            "response_time": 2.38
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -33,13 +14,13 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "CETIN Ltd. Belgrade",
-            "org": "CETIN Ltd. Belgrade",
-            "as": "AS15958 CETINdoo-NET",
-            "query": "109.245.110.145",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
             "type": "socks4",
             "port": "4145",
-            "response_time": 3.49
+            "response_time": 4.95
         },
         {
             "status": "success",
@@ -55,10 +36,10 @@
             "isp": "Orion Telekom Network",
             "org": "",
             "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.118.34",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.78
+            "query": "95.140.113.74",
+            "type": "http",
+            "port": "6666",
+            "response_time": 10.54
         }
     ]
 }
