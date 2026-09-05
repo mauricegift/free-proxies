@@ -1,7 +1,7 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 4,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "00",
             "regionName": "Belgrade",
             "city": "Belgrade",
-            "zip": "11000",
+            "zip": "",
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Network",
+            "isp": "TELEKOM-SRBIJA",
             "org": "",
-            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.118.34",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 2.73
+            "port": "4145",
+            "response_time": 2.6
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "178.220.148.82",
             "type": "socks4",
             "port": "10801",
-            "response_time": 4.37
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "VO",
-            "regionName": "Vojvodina",
-            "city": "Tovari\u0161evo",
-            "zip": "",
-            "lat": 45.3554,
-            "lon": 19.3139,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Smederevo",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "195.178.56.33",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.01
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom BB",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "212.200.223.89",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.51
+            "response_time": 3.43
         }
     ]
 }
