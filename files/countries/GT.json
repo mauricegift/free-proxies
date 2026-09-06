@@ -1,8 +1,46 @@
 {
     "countryCode": "GT",
     "country": "Guatemala",
-    "count": 4,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01001",
+            "lat": 14.6343,
+            "lon": -90.5155,
+            "timezone": "America/Guatemala",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.119.107.80",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01051",
+            "lat": 14.5649,
+            "lon": -90.5258,
+            "timezone": "America/Guatemala",
+            "isp": "Comcel Guatemala S.A",
+            "org": "Municipalidad de Mixco",
+            "as": "AS26617 Navega.com S.A.",
+            "query": "181.189.132.74",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 2.03
+        },
         {
             "status": "success",
             "country": "Guatemala",
@@ -20,7 +58,26 @@
             "query": "190.14.5.164",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.03
+            "response_time": 4.11
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "02",
+            "regionName": "El Progreso",
+            "city": "Moraz\u00e1n",
+            "zip": "",
+            "lat": 14.9328,
+            "lon": -90.1431,
+            "timezone": "America/Guatemala",
+            "isp": "IFX Networks Argentina S.R.L",
+            "org": "UFINET Guatemala S. A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "186.33.7.203",
+            "type": "http",
+            "port": "999",
+            "response_time": 4.2
         },
         {
             "status": "success",
@@ -39,26 +96,7 @@
             "query": "45.5.116.151",
             "type": "http",
             "port": "8080",
-            "response_time": 3.1
-        },
-        {
-            "status": "success",
-            "country": "Guatemala",
-            "countryCode": "GT",
-            "region": "14",
-            "regionName": "Quich\u00e9",
-            "city": "Patzit\u00e9",
-            "zip": "",
-            "lat": 14.9643,
-            "lon": -91.2079,
-            "timezone": "America/Guatemala",
-            "isp": "JORGE MARIO, MENDOZA LUX",
-            "org": "JORGE MARIO, MENDOZA LUX",
-            "as": "AS267713 JORGE MARIO, MENDOZA LUX (PUNTO-NET)",
-            "query": "45.164.148.16",
-            "type": "http",
-            "port": "999",
-            "response_time": 11.92
+            "response_time": 5.83
         },
         {
             "status": "success",
@@ -71,13 +109,32 @@
             "lat": 14.6343,
             "lon": -90.5155,
             "timezone": "America/Guatemala",
-            "isp": "Comunicaciones Metropolitanas Cablecolor",
-            "org": "Ministerios Vida",
-            "as": "AS22869 CABLECOLOR S.A.",
-            "query": "190.122.185.170",
+            "isp": "Ufinet Panama S.A.",
+            "org": "Infinitum S.A",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "45.5.119.17",
             "type": "http",
             "port": "999",
-            "response_time": 13.55
+            "response_time": 9.9
+        },
+        {
+            "status": "success",
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "region": "01",
+            "regionName": "Guatemala",
+            "city": "Guatemala City",
+            "zip": "01001",
+            "lat": 14.6419,
+            "lon": -90.5133,
+            "timezone": "America/Guatemala",
+            "isp": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+            "org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+            "as": "AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+            "query": "200.119.141.114",
+            "type": "http",
+            "port": "999",
+            "response_time": 10.06
         }
     ]
 }
