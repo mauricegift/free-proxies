@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 13,
+    "count": 12,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3326,
+            "lon": 18.0651,
+            "timezone": "Europe/Stockholm",
+            "isp": "Bredband2 AB",
+            "org": "Bredband2",
+            "as": "AS29518 Bredband2 AB",
+            "query": "85.8.47.198",
+            "type": "http",
+            "port": "7080",
+            "response_time": 0.23
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,7 @@
             "query": "85.8.47.209",
             "type": "http",
             "port": "7080",
-            "response_time": 0.24
+            "response_time": 0.25
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "85.8.47.212",
             "type": "http",
             "port": "7080",
-            "response_time": 0.24
+            "response_time": 0.25
         },
         {
             "status": "success",
@@ -55,10 +74,10 @@
             "isp": "Bredband2 AB",
             "org": "Bredband2",
             "as": "AS29518 Bredband2 AB",
-            "query": "85.8.47.208",
+            "query": "85.8.47.210",
             "type": "http",
             "port": "7080",
-            "response_time": 0.36
+            "response_time": 0.25
         },
         {
             "status": "success",
@@ -74,10 +93,10 @@
             "isp": "Bredband2 AB",
             "org": "Bredband2",
             "as": "AS29518 Bredband2 AB",
-            "query": "85.8.47.198",
+            "query": "85.8.47.211",
             "type": "http",
             "port": "7080",
-            "response_time": 0.36
+            "response_time": 0.26
         },
         {
             "status": "success",
@@ -112,29 +131,10 @@
             "isp": "Bredband2 AB",
             "org": "Bredband2",
             "as": "AS29518 Bredband2 AB",
-            "query": "85.8.47.210",
+            "query": "85.8.47.208",
             "type": "http",
             "port": "7080",
-            "response_time": 0.59
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3293,
-            "lon": 18.0685,
-            "timezone": "Europe/Stockholm",
-            "isp": "xorek.cloud International LTD",
-            "org": "xorek.cloud International LTD",
-            "as": "AS210644 AEZA INTERNATIONAL LTD",
-            "query": "185.197.74.126",
-            "type": "socks4",
-            "port": "2080",
-            "response_time": 1.46
+            "response_time": 0.4
         },
         {
             "status": "success",
@@ -153,7 +153,7 @@
             "query": "79.76.59.115",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.46
+            "response_time": 2.34
         },
         {
             "status": "success",
@@ -161,75 +161,18 @@
             "countryCode": "SE",
             "region": "AB",
             "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
+            "city": "Upplands Vasby",
+            "zip": "194 35",
+            "lat": 59.5227,
+            "lon": 17.9009,
             "timezone": "Europe/Stockholm",
-            "isp": "Aeza International LTD",
-            "org": "Aeza International LTD",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "109.120.133.253",
+            "isp": "Bredbandsbolaget",
+            "org": "",
+            "as": "AS8434 Telenor Sverige AB",
+            "query": "85.228.42.180",
             "type": "socks4",
-            "port": "9999",
-            "response_time": 4.36
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3326,
-            "lon": 18.0651,
-            "timezone": "Europe/Stockholm",
-            "isp": "Bredband2 AB",
-            "org": "Bredband2",
-            "as": "AS29518 Bredband2 AB",
-            "query": "85.8.47.211",
-            "type": "http",
-            "port": "7080",
-            "response_time": 5.05
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "",
-            "lat": 59.3294,
-            "lon": 18.0687,
-            "timezone": "Europe/Stockholm",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (eu-stockholm-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "79.76.52.220",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.3
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "",
-            "lat": 59.3293,
-            "lon": 18.0685,
-            "timezone": "Europe/Stockholm",
-            "isp": "Baykov Ilya Sergeevich",
-            "org": "IBCS",
-            "as": "AS41745 Baykov Ilya Sergeevich",
-            "query": "138.124.85.83",
-            "type": "http",
-            "port": "8081",
-            "response_time": 7.62
+            "port": "4153",
+            "response_time": 5.36
         },
         {
             "status": "success",
@@ -248,7 +191,45 @@
             "query": "143.246.197.187",
             "type": "socks4",
             "port": "1081",
-            "response_time": 13.95
+            "response_time": 7.33
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "HostHatch",
+            "org": "HostHatch LLC",
+            "as": "AS63473 HostHatch, LLC",
+            "query": "176.126.70.111",
+            "type": "socks4",
+            "port": "16379",
+            "response_time": 14.55
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "Aeza International LTD",
+            "org": "Aeza International LTD",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "109.120.133.253",
+            "type": "socks5",
+            "port": "9999",
+            "response_time": 19.91
         }
     ]
 }
