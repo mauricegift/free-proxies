@@ -1,27 +1,8 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "37",
-            "regionName": "Harjumaa",
-            "city": "Kuusalu",
-            "zip": "",
-            "lat": 59.4417,
-            "lon": 25.4416,
-            "timezone": "Europe/Tallinn",
-            "isp": "HexCore cloud s.r.o.",
-            "org": "HexCore cloud s.r.o",
-            "as": "AS199144 HexCore cloud s.r.o.",
-            "query": "193.42.112.150",
-            "type": "http",
-            "port": "1088",
-            "response_time": 0.26
-        },
         {
             "status": "success",
             "country": "Estonia",
@@ -39,7 +20,7 @@
             "query": "5.45.119.70",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.42
+            "response_time": 0.45
         },
         {
             "status": "success",
@@ -47,18 +28,18 @@
             "countryCode": "EE",
             "region": "37",
             "regionName": "Harjumaa",
-            "city": "Tallinn",
+            "city": "Kuusalu",
             "zip": "",
-            "lat": 59.4369,
-            "lon": 24.7535,
+            "lat": 59.4417,
+            "lon": 25.4416,
             "timezone": "Europe/Tallinn",
-            "isp": "BlueVPS OU",
-            "org": "BV Na41",
-            "as": "AS62005 BlueVPS OU",
-            "query": "132.243.168.30",
-            "type": "socks4",
-            "port": "9150",
-            "response_time": 0.82
+            "isp": "HexCore cloud s.r.o.",
+            "org": "HexCore cloud s.r.o",
+            "as": "AS199144 HexCore cloud s.r.o.",
+            "query": "193.42.112.26",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.39
         }
     ]
 }
