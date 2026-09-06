@@ -1,26 +1,26 @@
 {
     "countryCode": "LB",
     "country": "Lebanon",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Lebanon",
             "countryCode": "LB",
-            "region": "BH",
-            "regionName": "Baalbek-Hermel Governorate",
-            "city": "Baalbek",
+            "region": "AS",
+            "regionName": "North Lebanon",
+            "city": "Tripoli",
             "zip": "",
-            "lat": 34.0046,
-            "lon": 36.2154,
+            "lat": 34.4301,
+            "lon": 35.8476,
             "timezone": "Asia/Beirut",
-            "isp": "NET 360 S.A.R.L",
-            "org": "",
-            "as": "AS42183 NET 360 S.A.R.L",
-            "query": "185.82.99.20",
-            "type": "http",
-            "port": "8724",
-            "response_time": 9.22
+            "isp": "Bitar NET Sarl",
+            "org": "Bitar NET Sarl",
+            "as": "AS50500 BITAR NET SARL",
+            "query": "185.114.89.74",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.65
         },
         {
             "status": "success",
@@ -36,10 +36,29 @@
             "isp": "NET 360 S.A.R.L",
             "org": "",
             "as": "AS42183 NET 360 S.A.R.L",
-            "query": "185.82.99.101",
+            "query": "185.82.99.210",
             "type": "http",
-            "port": "92",
-            "response_time": 10.36
+            "port": "8724",
+            "response_time": 5.93
+        },
+        {
+            "status": "success",
+            "country": "Lebanon",
+            "countryCode": "LB",
+            "region": "BA",
+            "regionName": "Beirut",
+            "city": "Beirut",
+            "zip": "",
+            "lat": 33.8966,
+            "lon": 35.4823,
+            "timezone": "Asia/Beirut",
+            "isp": "Transmog Inc S.A.L",
+            "org": "Skiespro",
+            "as": "AS24634 Transmog Inc S.A.L",
+            "query": "212.28.246.251",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.34
         }
     ]
 }
