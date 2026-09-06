@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,26 @@
             "query": "83.218.186.22",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.69
+            "response_time": 6.03
         },
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "6",
-            "regionName": "Styria",
-            "city": "Leoben",
-            "zip": "8700",
-            "lat": 47.376,
-            "lon": 15.0893,
+            "region": "5",
+            "regionName": "State of Salzburg",
+            "city": "Zell am See",
+            "zip": "5700",
+            "lat": 47.3286,
+            "lon": 12.798,
             "timezone": "Europe/Vienna",
-            "isp": "A1 Telekom Austria AG",
-            "org": "A1 Telekom Austria AG",
-            "as": "AS8447 A1 Telekom Austria AG",
-            "query": "178.189.56.158",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 3.4
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "9",
-            "regionName": "State of Vienna",
-            "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
-            "timezone": "Europe/Vienna",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "95.163.176.131",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.82
+            "isp": "SALZBURG-AG",
+            "org": "Salzburg AG",
+            "as": "AS8445 SALZBURG AG fur Energie, Verkehr und Telekommunikation",
+            "query": "83.215.25.66",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 10.82
         }
     ]
 }
