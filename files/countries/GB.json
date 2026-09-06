@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Worcester",
-            "zip": "WR1",
-            "lat": 52.1941,
-            "lon": -2.21905,
+            "city": "City of London",
+            "zip": "EC4N",
+            "lat": 51.5164,
+            "lon": -0.093,
             "timezone": "Europe/London",
-            "isp": "IONOS SE",
-            "org": "IONOS SE",
-            "as": "AS8560 IONOS SE",
-            "query": "194.164.125.208",
+            "isp": "Hydra Communications Ltd",
+            "org": "Hydra Communications Ltd",
+            "as": "AS25369 Hydra Communications Ltd",
+            "query": "81.19.210.10",
+            "type": "http",
+            "port": "80",
+            "response_time": 1.47
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "EC1A",
+            "lat": 51.5081,
+            "lon": -0.1278,
+            "timezone": "Europe/London",
+            "isp": "Akamai Technologies, Inc.",
+            "org": "Linode, LLC",
+            "as": "AS63949 Akamai Connected Cloud",
+            "query": "88.80.186.173",
             "type": "socks4",
-            "port": "57422",
-            "response_time": 3.1
+            "port": "19100",
+            "response_time": 7.29
         }
     ]
 }
