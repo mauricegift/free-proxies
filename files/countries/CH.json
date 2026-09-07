@@ -1,8 +1,27 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Opfikon",
+            "zip": "8152",
+            "lat": 47.43,
+            "lon": 8.5718,
+            "timezone": "Europe/Zurich",
+            "isp": "UP-NETWORK Sarl",
+            "org": "UP-NETWORK Sarl",
+            "as": "AS213929 UP-NETWORK Sarl",
+            "query": "31.59.100.1",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.3
+        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -20,7 +39,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 1.44
+            "response_time": 0.6
         }
     ]
 }
