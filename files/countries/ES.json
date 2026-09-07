@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "83.56.15.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.76
+            "response_time": 0.47
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CM",
+            "regionName": "Castille-La Mancha",
+            "city": "Albacete",
+            "zip": "02005",
+            "lat": 38.9967,
+            "lon": -1.8561,
+            "timezone": "Europe/Madrid",
+            "isp": "Free Technologies Excom S.L.",
+            "org": "Customers3",
+            "as": "AS35153 Free Technologies Excom S.L.",
+            "query": "185.212.138.43",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.01
         },
         {
             "status": "success",
@@ -29,17 +48,17 @@
             "region": "MD",
             "regionName": "Madrid",
             "city": "Madrid",
-            "zip": "",
-            "lat": 40.4167,
-            "lon": -3.7037,
+            "zip": "28108",
+            "lat": 40.5395,
+            "lon": -3.6456,
             "timezone": "Europe/Madrid",
-            "isp": "BlueVPS OU",
-            "org": "BV Na26",
-            "as": "AS62005 BlueVPS OU",
-            "query": "45.86.229.39",
+            "isp": "The Constant Company, LLC",
+            "org": "The Constant Company, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "65.20.109.90",
             "type": "http",
-            "port": "11000",
-            "response_time": 20.66
+            "port": "1082",
+            "response_time": 5.53
         }
     ]
 }
