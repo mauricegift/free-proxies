@@ -1,7 +1,7 @@
 {
     "countryCode": "UY",
     "country": "Uruguay",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -21,6 +21,25 @@
             "type": "socks4",
             "port": "4153",
             "response_time": 2.42
+        },
+        {
+            "status": "success",
+            "country": "Uruguay",
+            "countryCode": "UY",
+            "region": "MO",
+            "regionName": "Montevideo Department",
+            "city": "Montevideo",
+            "zip": "11000",
+            "lat": -34.912,
+            "lon": -56.2068,
+            "timezone": "America/Montevideo",
+            "isp": "Administracion Nacional de Telecomunicaciones",
+            "org": "Administracion Nacional de Telecomunicaciones",
+            "as": "AS6057 Administracion Nacional de Telecomunicaciones",
+            "query": "200.125.40.38",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.64
         }
     ]
 }
