@@ -1,26 +1,45 @@
 {
     "countryCode": "CD",
-    "country": "Democratic Republic of the Congo",
-    "count": 1,
+    "country": "Congo (DRC)",
+    "count": 2,
     "proxies": [
         {
             "status": "success",
-            "country": "Democratic Republic of the Congo",
+            "country": "Congo (DRC)",
             "countryCode": "CD",
             "region": "KN",
             "regionName": "Kinshasa City",
             "city": "Kinshasa",
             "zip": "",
-            "lat": -4.32758,
-            "lon": 15.3136,
+            "lat": -4.33,
+            "lon": 15.3104,
             "timezone": "Africa/Kinshasa",
-            "isp": "Orioncom SPRL",
-            "org": "Orioncom",
-            "as": "AS37638 Orioncom SPRL",
-            "query": "102.222.231.25",
+            "isp": "Liquid Telecommunications Ltd",
+            "org": "LIT DRC",
+            "as": "AS30844 Liquid Telecommunications Ltd",
+            "query": "41.174.132.82",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.48
+        },
+        {
+            "status": "success",
+            "country": "Congo (DRC)",
+            "countryCode": "CD",
+            "region": "KN",
+            "regionName": "Kinshasa City",
+            "city": "Kinshasa",
+            "zip": "",
+            "lat": -4.33,
+            "lon": 15.3104,
+            "timezone": "Africa/Kinshasa",
+            "isp": "Societe Congolaise des Postes et Telecommunications",
+            "org": "Scpt Network",
+            "as": "AS37677 Societe Congolaise des Postes et Telecommunications (SCPT)",
+            "query": "41.79.233.182",
             "type": "http",
-            "port": "2333",
-            "response_time": 8.55
+            "port": "8080",
+            "response_time": 6.72
         }
     ]
 }
