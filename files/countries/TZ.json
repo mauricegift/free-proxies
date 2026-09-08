@@ -1,7 +1,7 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Arusha",
             "city": "Arusha",
             "zip": "",
-            "lat": -3.3691,
-            "lon": 36.686,
+            "lat": -3.36806,
+            "lon": 36.696,
             "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Habari Node Ltd",
-            "org": "Habari GoldenRose",
+            "isp": "Habari Node PLC Dar TIX",
+            "org": "",
             "as": "AS36909 Habari Node Public Limited",
-            "query": "41.220.132.121",
+            "query": "154.0.157.196",
             "type": "http",
             "port": "8080",
-            "response_time": 9.14
+            "response_time": 3.61
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
+            "zip": "",
+            "lat": -3.36806,
+            "lon": 36.696,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node PLC Dar TIX",
+            "org": "",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "154.0.157.67",
+            "type": "http",
+            "port": "8080",
+            "response_time": 15.31
         }
     ]
 }
