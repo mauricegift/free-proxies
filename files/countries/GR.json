@@ -1,8 +1,46 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "H",
+            "regionName": "Central Greece",
+            "city": "Chalcis",
+            "zip": "",
+            "lat": 38.4658,
+            "lon": 23.5939,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "94.68.245.147",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.49
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Athens",
+            "zip": "",
+            "lat": 37.9842,
+            "lon": 23.7353,
+            "timezone": "Europe/Athens",
+            "isp": "Cosmote Mobile Telecommunication S.A.",
+            "org": "Cosmote Mobile Telecommunications S.A.",
+            "as": "AS29247 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "149.210.1.78",
+            "type": "http",
+            "port": "18080",
+            "response_time": 3.48
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,26 +58,7 @@
             "query": "62.103.186.66",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.53
-        },
-        {
-            "status": "success",
-            "country": "Greece",
-            "countryCode": "GR",
-            "region": "I",
-            "regionName": "Attica",
-            "city": "Athens",
-            "zip": "",
-            "lat": 37.9842,
-            "lon": 23.7353,
-            "timezone": "Europe/Athens",
-            "isp": "Ote SA (Hellenic Telecommunications Organisation)",
-            "org": "OTEnet",
-            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "94.70.148.177",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.19
+            "response_time": 4.6
         }
     ]
 }
