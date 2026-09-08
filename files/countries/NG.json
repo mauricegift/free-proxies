@@ -1,27 +1,8 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Lekki",
-            "zip": "",
-            "lat": 6.43457,
-            "lon": 3.49209,
-            "timezone": "Africa/Lagos",
-            "isp": "Information Connectivity Solutions Limited",
-            "org": "",
-            "as": "AS37269 Information Connectivity Solutions Limited",
-            "query": "105.235.201.234",
-            "type": "socks4",
-            "port": "32639",
-            "response_time": 3.51
-        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -36,10 +17,48 @@
             "isp": "Main one Cable Company Nigeria Limited",
             "org": "",
             "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.167.70",
+            "query": "154.113.198.17",
             "type": "socks4",
             "port": "5678",
-            "response_time": 8.36
+            "response_time": 1.02
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Timeless Network Services Ltd",
+            "org": "Timeless Network Solutions",
+            "as": "AS328555 Timeless Network Services Ltd",
+            "query": "102.36.231.77",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.54
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "OG",
+            "regionName": "Ogun State",
+            "city": "Abeokuta",
+            "zip": "",
+            "lat": 7.1472,
+            "lon": 3.3505,
+            "timezone": "Africa/Lagos",
+            "isp": "General Telecommunication Networks Limited",
+            "org": "General Telecommunication Networks (NIG) Limited",
+            "as": "AS37605 General Telecommunication Networks (NIG) Limited",
+            "query": "41.242.72.68",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.14
         }
     ]
 }
