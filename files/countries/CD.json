@@ -1,8 +1,27 @@
 {
     "countryCode": "CD",
     "country": "Democratic Republic of the Congo",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Democratic Republic of the Congo",
+            "countryCode": "CD",
+            "region": "KN",
+            "regionName": "Kinshasa City",
+            "city": "Kinshasa",
+            "zip": "",
+            "lat": -4.32758,
+            "lon": 15.3136,
+            "timezone": "Africa/Kinshasa",
+            "isp": "Orioncom SPRL",
+            "org": "Orioncom",
+            "as": "AS37638 Orioncom SPRL",
+            "query": "102.222.231.25",
+            "type": "http",
+            "port": "2333",
+            "response_time": 6.58
+        },
         {
             "status": "success",
             "country": "Democratic Republic of the Congo",
@@ -20,7 +39,7 @@
             "query": "102.222.231.1",
             "type": "http",
             "port": "2333",
-            "response_time": 23.26
+            "response_time": 10.76
         }
     ]
 }
