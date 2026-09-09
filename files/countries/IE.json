@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 8,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "34.246.183.20",
             "type": "http",
-            "port": "34558",
-            "response_time": 1.6
+            "port": "50168",
+            "response_time": 0.77
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "D",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "",
+            "lat": 53.33306,
+            "lon": -6.24889,
+            "timezone": "Europe/Dublin",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "34.246.183.20",
+            "type": "http",
+            "port": "57290",
+            "response_time": 1.37
         },
         {
             "status": "success",
@@ -38,8 +57,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.109.106",
             "type": "http",
-            "port": "33596",
-            "response_time": 1.91
+            "port": "25344",
+            "response_time": 1.57
         },
         {
             "status": "success",
@@ -57,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.109.106",
             "type": "http",
-            "port": "57866",
-            "response_time": 2.03
+            "port": "44593",
+            "response_time": 3.85
         },
         {
             "status": "success",
@@ -74,86 +93,29 @@
             "isp": "BellSouth.net Inc.",
             "org": "AWS EC2 (eu-west-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "108.131.152.118",
+            "query": "108.131.109.106",
             "type": "http",
-            "port": "8103",
-            "response_time": 2.4
+            "port": "25109",
+            "response_time": 4.36
         },
         {
             "status": "success",
             "country": "Ireland",
             "countryCode": "IE",
-            "region": "D",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "",
-            "lat": 53.33306,
-            "lon": -6.24889,
+            "region": "C",
+            "regionName": "Connacht",
+            "city": "Roscommon",
+            "zip": "F42",
+            "lat": 53.634,
+            "lon": -8.1819,
             "timezone": "Europe/Dublin",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "34.246.183.20",
+            "isp": "EURONA-BRISKNET",
+            "org": "",
+            "as": "AS57791 Arden Broadband Ltd",
+            "query": "5.83.244.1",
             "type": "http",
-            "port": "31976",
-            "response_time": 2.43
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "D",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "",
-            "lat": 53.33306,
-            "lon": -6.24889,
-            "timezone": "Europe/Dublin",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "34.246.183.20",
-            "type": "http",
-            "port": "9346",
-            "response_time": 3.34
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "D",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "",
-            "lat": 53.33306,
-            "lon": -6.24889,
-            "timezone": "Europe/Dublin",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "34.246.183.20",
-            "type": "http",
-            "port": "18080",
-            "response_time": 3.78
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "D",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "",
-            "lat": 53.33306,
-            "lon": -6.24889,
-            "timezone": "Europe/Dublin",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "34.246.183.20",
-            "type": "http",
-            "port": "57788",
-            "response_time": 4.06
+            "port": "8080",
+            "response_time": 7.57
         }
     ]
 }
