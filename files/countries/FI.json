@@ -1,8 +1,27 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 8,
+    "count": 9,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Aeza International LTD",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "193.233.139.106",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.32
+        },
         {
             "status": "success",
             "country": "Finland",
@@ -20,7 +39,7 @@
             "query": "34.88.38.81",
             "type": "http",
             "port": "9443",
-            "response_time": 0.31
+            "response_time": 0.47
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "83.147.216.208",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.6
+            "response_time": 0.52
         },
         {
             "status": "success",
@@ -48,36 +67,17 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00221",
-            "lat": 60.1719,
-            "lon": 24.9347,
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
             "timezone": "Europe/Helsinki",
-            "isp": "Aeza International LTD",
-            "org": "Aeza Group LLC",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "193.233.139.106",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 0.73
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00221",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Ihor Hosting LTD",
-            "org": "POWER-SERVERS-ROLE-ORG",
-            "as": "AS207569 IHOR HOSTING LTD",
-            "query": "194.53.54.201",
+            "isp": "DpkgSoft International Limited",
+            "org": "Xorek.Cloud Helsinki",
+            "as": "AS215590 DpkgSoft International Limited",
+            "query": "2.26.68.16",
             "type": "socks4",
-            "port": "8090",
-            "response_time": 1.69
+            "port": "1080",
+            "response_time": 7.46
         },
         {
             "status": "success",
@@ -91,12 +91,12 @@
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
             "isp": "Hetzner Online GmbH",
-            "org": "HETZNER-DC",
+            "org": "Hetzner Online GmbH",
             "as": "AS24940 Hetzner Online GmbH",
-            "query": "46.62.246.93",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 1.87
+            "query": "65.109.219.215",
+            "type": "socks4",
+            "port": "9094",
+            "response_time": 8.15
         },
         {
             "status": "success",
@@ -109,32 +109,13 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Baxet Group Inc.",
-            "org": "Baxet Group Inc",
-            "as": "AS26383 Baxet Group Inc.",
-            "query": "91.149.219.141",
-            "type": "http",
-            "port": "8081",
-            "response_time": 4.11
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00121",
-            "lat": 60.1699,
-            "lon": 24.9384,
-            "timezone": "Europe/Helsinki",
-            "isp": "Oy Crea Nova Hosting Solution Ltd",
-            "org": "Beafort Limited",
-            "as": "AS51765 Oy Creanova Hosting Solutions Ltd.",
-            "query": "45.149.115.244",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner Online GmbH",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "65.109.197.245",
             "type": "http",
             "port": "3128",
-            "response_time": 5.04
+            "response_time": 9.77
         },
         {
             "status": "success",
@@ -153,7 +134,45 @@
             "query": "144.31.52.77",
             "type": "http",
             "port": "3128",
-            "response_time": 14.92
+            "response_time": 11.1
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Baxet Group Inc.",
+            "org": "Baxet Group Inc",
+            "as": "AS26383 Baxet Group Inc.",
+            "query": "91.149.219.141",
+            "type": "http",
+            "port": "8081",
+            "response_time": 11.25
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Ihor Hosting LTD",
+            "org": "POWER-SERVERS-ROLE-ORG",
+            "as": "AS207569 IHOR HOSTING LTD",
+            "query": "185.17.2.127",
+            "type": "http",
+            "port": "3128",
+            "response_time": 16.59
         }
     ]
 }
