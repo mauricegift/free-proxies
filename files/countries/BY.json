@@ -1,26 +1,45 @@
 {
     "countryCode": "BY",
     "country": "Belarus",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Belarus",
             "countryCode": "BY",
-            "region": "MI",
-            "regionName": "Minsk",
-            "city": "Kolodishchi",
-            "zip": "223050",
-            "lat": 53.9516,
-            "lon": 27.7806,
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220002",
+            "lat": 53.9002,
+            "lon": 27.5665,
             "timezone": "Europe/Minsk",
-            "isp": "Yedinyye Resheniya LLC",
-            "org": "Yedinyye Resheniya LLC",
-            "as": "AS215272 Yedinyye Resheniya LLC",
-            "query": "185.251.38.116",
-            "type": "http",
-            "port": "3127",
-            "response_time": 1.14
+            "isp": "Business network jv",
+            "org": "Business network LTD",
+            "as": "AS12406 Business Network Ltd",
+            "query": "80.249.81.179",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 1.82
+        },
+        {
+            "status": "success",
+            "country": "Belarus",
+            "countryCode": "BY",
+            "region": "HM",
+            "regionName": "Minsk City",
+            "city": "Minsk",
+            "zip": "220004",
+            "lat": 53.901,
+            "lon": 27.5707,
+            "timezone": "Europe/Minsk",
+            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+            "org": "PPPoE USERS GRODNO",
+            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+            "query": "86.57.178.182",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.44
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 53.901,
             "lon": 27.5707,
             "timezone": "Europe/Minsk",
-            "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-            "org": "IPoE USERS GRODNO",
-            "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-            "query": "82.209.219.244",
+            "isp": "Cosmos TV Jllc",
+            "org": "Belarusian-American joint venture Cosmos TV, Ltd.",
+            "as": "AS31143 COSMOS TV JLLC",
+            "query": "91.149.142.139",
             "type": "http",
             "port": "8080",
-            "response_time": 6.91
+            "response_time": 4.8
         }
     ]
 }
