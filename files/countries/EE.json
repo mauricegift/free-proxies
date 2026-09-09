@@ -1,8 +1,27 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "45",
+            "regionName": "Ida-Virumaa",
+            "city": "J\u00f5hvi",
+            "zip": "",
+            "lat": 59.3577,
+            "lon": 27.4222,
+            "timezone": "Europe/Tallinn",
+            "isp": "PAGM network",
+            "org": "Hosting Services",
+            "as": "AS198068 CLOUD.DOG OU",
+            "query": "5.45.119.70",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.45
+        },
         {
             "status": "success",
             "country": "Estonia",
@@ -15,12 +34,12 @@
             "lon": 24.7535,
             "timezone": "Europe/Tallinn",
             "isp": "BlueVPS OU",
-            "org": "BlueVPS OU",
+            "org": "BV Na41",
             "as": "AS62005 BlueVPS OU",
-            "query": "146.19.143.200",
+            "query": "132.243.168.30",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 1.41
+            "port": "9150",
+            "response_time": 0.81
         }
     ]
 }
