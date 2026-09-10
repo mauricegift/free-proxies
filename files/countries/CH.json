@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,55 @@
             "region": "ZH",
             "regionName": "Zurich",
             "city": "Zurich",
-            "zip": "8008",
-            "lat": 47.3528,
-            "lon": 8.5549,
+            "zip": "",
+            "lat": 47.3595,
+            "lon": 8.6356,
             "timezone": "Europe/Zurich",
-            "isp": "Swisscom (Schweiz) AG - Bluewin",
-            "org": "Swisscom (Schweiz) AG",
-            "as": "AS3303 Swisscom (Switzerland) Ltd",
-            "query": "85.1.140.150",
+            "isp": "Google LLC",
+            "org": "Google Cloud (europe-west6)",
+            "as": "AS396982 Google LLC",
+            "query": "34.65.99.32",
             "type": "http",
             "port": "3128",
-            "response_time": 10.18
+            "response_time": 1.09
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Wetzikon",
+            "zip": "8620",
+            "lat": 47.3223,
+            "lon": 8.80102,
+            "timezone": "Europe/Zurich",
+            "isp": "Geronimo Ramirez Computer Network",
+            "org": "Fidel Ernesto Geronimo Ramirez trading as Geronimo Ramirez Computer Network",
+            "as": "AS264617 GRUPO PANAGLOBAL 15 S.A",
+            "query": "185.191.239.248",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.13
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "W\u00e4denswil",
+            "zip": "8820",
+            "lat": 47.2258,
+            "lon": 8.66224,
+            "timezone": "Europe/Zurich",
+            "isp": "netz116",
+            "org": "Rolf Tschumi (MGW Online)",
+            "as": "AS48971 DATAWIRE AG",
+            "query": "195.225.116.15",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 7.39
         }
     ]
 }
