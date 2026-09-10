@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 51.5072,
             "lon": -0.127586,
             "timezone": "Europe/London",
-            "isp": "IONOS SE",
-            "org": "IONOS SE",
-            "as": "AS8560 IONOS SE",
-            "query": "194.164.22.24",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.63
+            "isp": "ICUK Computing Services Limited",
+            "org": "SKY",
+            "as": "AS51561 ICUK Computing Services Limited",
+            "query": "138.124.137.82",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 2.26
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "35.178.71.54",
             "type": "http",
             "port": "3128",
-            "response_time": 10.16
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "EC1A",
-            "lat": 51.5081,
-            "lon": -0.1278,
-            "timezone": "Europe/London",
-            "isp": "Akamai Technologies, Inc.",
-            "org": "Linode, LLC",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "88.80.186.173",
-            "type": "socks5",
-            "port": "19100",
-            "response_time": 11.1
+            "response_time": 4.87
         }
     ]
 }
