@@ -1,26 +1,45 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Taiwan",
             "countryCode": "TW",
-            "region": "TPE",
-            "regionName": "Taipei City",
-            "city": "Wenshan",
+            "region": "TXG",
+            "regionName": "Taichung City",
+            "city": "Taichung",
             "zip": "",
-            "lat": 25,
-            "lon": 121.55,
+            "lat": 24.144,
+            "lon": 120.6844,
             "timezone": "Asia/Taipei",
             "isp": "Chunghwa Telecom Co., Ltd.",
             "org": "Chunghwa Telecom Co. Ltd.",
             "as": "AS3462 Data Communication Business Group",
-            "query": "122.116.180.77",
+            "query": "220.132.41.160",
+            "type": "socks4",
+            "port": "1088",
+            "response_time": 2.78
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "NWT",
+            "regionName": "New Taipei City",
+            "city": "New Taipei City",
+            "zip": "",
+            "lat": 25.0693,
+            "lon": 121.4626,
+            "timezone": "Asia/Taipei",
+            "isp": "Chunghwa Telecom Co., Ltd.",
+            "org": "Chunghwa Telecom Co. Ltd.",
+            "as": "AS3462 Data Communication Business Group",
+            "query": "220.134.5.4",
             "type": "http",
             "port": "8080",
-            "response_time": 5.58
+            "response_time": 12.54
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "27.147.28.73",
             "type": "http",
             "port": "8080",
-            "response_time": 15.9
+            "response_time": 12.8
         }
     ]
 }
