@@ -1,8 +1,27 @@
 {
     "countryCode": "MD",
     "country": "Moldova",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Moldova",
+            "countryCode": "MD",
+            "region": "CU",
+            "regionName": "Chi\u0219in\u0103u Municipality",
+            "city": "Chisinau",
+            "zip": "MD-2000",
+            "lat": 47.0042,
+            "lon": 28.8574,
+            "timezone": "Europe/Chisinau",
+            "isp": "Alexhost SRL",
+            "org": "Alexhost SRL",
+            "as": "AS200019 ALEXHOST SRL",
+            "query": "176.125.242.58",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.58
+        },
         {
             "status": "success",
             "country": "Moldova",
@@ -20,7 +39,26 @@
             "query": "46.55.3.113",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.44
+            "response_time": 0.66
+        },
+        {
+            "status": "success",
+            "country": "Moldova",
+            "countryCode": "MD",
+            "region": "BD",
+            "regionName": "Bender Municipality",
+            "city": "Tighina",
+            "zip": "MD-3200",
+            "lat": 46.8313,
+            "lon": 29.4683,
+            "timezone": "Europe/Chisinau",
+            "isp": "Foxcloud LLP",
+            "org": "Foxcloud LLP",
+            "as": "AS200904 FOXCLOUD LLP",
+            "query": "94.103.15.230",
+            "type": "socks4",
+            "port": "11080",
+            "response_time": 1.86
         }
     ]
 }
