@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 5,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Zscaler Switzerland GmbH",
             "org": "Zscaler, Inc",
             "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "165.225.200.17",
+            "query": "136.226.198.13",
             "type": "http",
-            "port": "11691",
-            "response_time": 0.18
+            "port": "12345",
+            "response_time": 0.19
         },
         {
             "status": "success",
@@ -34,69 +34,12 @@
             "lon": 16.3662,
             "timezone": "Europe/Vienna",
             "isp": "Zscaler Switzerland GmbH",
-            "org": "Zscaler, Inc.",
+            "org": "ZSCALER, INC.",
             "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "147.161.130.13",
-            "type": "http",
-            "port": "12667",
-            "response_time": 0.18
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "9",
-            "regionName": "Vienna",
-            "city": "Vienna",
-            "zip": "1010",
-            "lat": 48.2049,
-            "lon": 16.3662,
-            "timezone": "Europe/Vienna",
-            "isp": "Zscaler Switzerland GmbH",
-            "org": "Zscaler, Inc.",
-            "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "147.161.130.13",
+            "query": "165.225.248.13",
             "type": "http",
             "port": "11080",
-            "response_time": 0.32
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "7",
-            "regionName": "Tyrol",
-            "city": "S\u00f6ll",
-            "zip": "6306",
-            "lat": 47.5038,
-            "lon": 12.1922,
-            "timezone": "Europe/Vienna",
-            "isp": "myNet GmbH",
-            "org": "myNET Internet Solutions",
-            "as": "AS31543 myNet GmbH",
-            "query": "83.218.186.22",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.76
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "9",
-            "regionName": "Vienna",
-            "city": "Vienna",
-            "zip": "1210",
-            "lat": 48.2765,
-            "lon": 16.4087,
-            "timezone": "Europe/Vienna",
-            "isp": "customers with static IP",
-            "org": "",
-            "as": "AS25255 ==> TELE2 AUSTRIA <==",
-            "query": "178.115.230.100",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.23
+            "response_time": 1.33
         }
     ]
 }
