@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 5,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "108.61.213.218",
             "type": "http",
             "port": "80",
-            "response_time": 1.81
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3141",
-            "lat": -37.834,
-            "lon": 144.9832,
-            "timezone": "Australia/Melbourne",
-            "isp": "Aussie Fibre Pty Ltd",
-            "org": "Aussie Broadband Ltd",
-            "as": "AS4764 Aussie Fibre Pty Ltd",
-            "query": "159.196.182.72",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.05
+            "response_time": 1.78
         },
         {
             "status": "success",
@@ -47,56 +28,18 @@
             "countryCode": "AU",
             "region": "NSW",
             "regionName": "New South Wales",
-            "city": "Forest Lodge",
-            "zip": "2037",
-            "lat": -33.8832,
-            "lon": 151.183,
+            "city": "Sydney",
+            "zip": "2000",
+            "lat": -33.8672,
+            "lon": 151.1997,
             "timezone": "Australia/Sydney",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
+            "isp": "OVH SAS",
+            "org": "OVH Australia PTY LTD",
+            "as": "AS16276 OVH SAS",
+            "query": "139.99.171.39",
             "type": "http",
-            "port": "8000",
-            "response_time": 9.16
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "QLD",
-            "regionName": "Queensland",
-            "city": "Brisbane",
-            "zip": "4006",
-            "lat": -27.4417,
-            "lon": 153.0197,
-            "timezone": "Australia/Brisbane",
-            "isp": "Aussie Fibre Pty Ltd",
-            "org": "Wideband Networks Pty Ltd",
-            "as": "AS4764 Aussie Fibre Pty Ltd",
-            "query": "180.181.215.232",
-            "type": "http",
-            "port": "3128",
-            "response_time": 9.71
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3023",
-            "lat": -37.7512,
-            "lon": 144.7508,
-            "timezone": "Australia/Melbourne",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "168.138.9.147",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 16.58
+            "port": "80",
+            "response_time": 5.38
         }
     ]
 }
