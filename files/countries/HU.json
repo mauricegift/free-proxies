@@ -1,7 +1,7 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "46.107.230.122",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.58
+            "response_time": 2.53
         },
         {
             "status": "success",
@@ -39,45 +39,7 @@
             "query": "95.214.123.62",
             "type": "http",
             "port": "8080",
-            "response_time": 3.9
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "HB",
-            "regionName": "Hajd\u00fa-Bihar",
-            "city": "Debrecen",
-            "zip": "4031",
-            "lat": 47.5232,
-            "lon": 21.6334,
-            "timezone": "Europe/Budapest",
-            "isp": "Magyar Telekom plc.",
-            "org": "Portal",
-            "as": "AS5483 Magyar Telekom Plc.",
-            "query": "91.147.235.162",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 5.19
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "PE",
-            "regionName": "Pest County",
-            "city": "\u00c9rd",
-            "zip": "2030",
-            "lat": 47.3949,
-            "lon": 18.9136,
-            "timezone": "Europe/Budapest",
-            "isp": "DIGI",
-            "org": "",
-            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
-            "query": "80.95.80.100",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.69
+            "response_time": 3.34
         },
         {
             "status": "success",
@@ -96,7 +58,26 @@
             "query": "95.214.123.80",
             "type": "http",
             "port": "8080",
-            "response_time": 8.26
+            "response_time": 5.7
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "Debrecen",
+            "zip": "4030",
+            "lat": 47.5232,
+            "lon": 21.6334,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
+            "org": "INVITEL / DIGI",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "85.66.19.69",
+            "type": "http",
+            "port": "18080",
+            "response_time": 6.44
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "79.121.102.227",
             "type": "http",
             "port": "8080",
-            "response_time": 9.32
+            "response_time": 6.84
         }
     ]
 }
