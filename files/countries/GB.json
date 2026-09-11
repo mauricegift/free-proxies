@@ -1,8 +1,27 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Hinckley",
+            "zip": "LE10",
+            "lat": 52.5357,
+            "lon": -1.3662,
+            "timezone": "Europe/London",
+            "isp": "Virgin Media Limited",
+            "org": "Vmcbbuk",
+            "as": "AS5089 Virgin Media Limited",
+            "query": "82.9.133.51",
+            "type": "socks5",
+            "port": "9150",
+            "response_time": 1.24
+        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -20,7 +39,7 @@
             "query": "81.158.71.182",
             "type": "http",
             "port": "8888",
-            "response_time": 1.17
+            "response_time": 2.33
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "35.178.71.54",
             "type": "http",
             "port": "3128",
-            "response_time": 9.82
+            "response_time": 7.49
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "EC1A",
+            "lat": 51.5081,
+            "lon": -0.1278,
+            "timezone": "Europe/London",
+            "isp": "OVH SAS",
+            "org": "OVH Ltd",
+            "as": "AS16276 OVH SAS",
+            "query": "198.244.254.77",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.25
         }
     ]
 }
