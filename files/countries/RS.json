@@ -1,8 +1,27 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "18",
+            "regionName": "Ra\u0161ka",
+            "city": "Novi Pazar",
+            "zip": "",
+            "lat": 43.1398,
+            "lon": 20.5146,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "77.46.138.233",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.47
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -10,17 +29,36 @@
             "region": "00",
             "regionName": "Belgrade",
             "city": "Belgrade",
-            "zip": "11000",
+            "zip": "",
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Network",
-            "org": "",
-            "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.113.74",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Telekom",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "62.101.137.150",
             "type": "http",
-            "port": "6666",
-            "response_time": 7.81
+            "port": "8080",
+            "response_time": 4.38
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "18",
+            "regionName": "Ra\u0161ka",
+            "city": "Novi Pazar",
+            "zip": "",
+            "lat": 43.1398,
+            "lon": 20.5146,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "77.46.138.49",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.96
         }
     ]
 }
