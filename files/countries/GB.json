@@ -1,8 +1,27 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Hinckley",
+            "zip": "LE10",
+            "lat": 52.5357,
+            "lon": -1.3662,
+            "timezone": "Europe/London",
+            "isp": "Virgin Media Limited",
+            "org": "Vmcbbuk",
+            "as": "AS5089 Virgin Media Limited",
+            "query": "82.9.133.51",
+            "type": "socks5",
+            "port": "9150",
+            "response_time": 1.72
+        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -20,7 +39,7 @@
             "query": "81.158.71.182",
             "type": "http",
             "port": "8888",
-            "response_time": 1.96
+            "response_time": 2.73
         },
         {
             "status": "success",
@@ -39,26 +58,26 @@
             "query": "194.164.22.24",
             "type": "http",
             "port": "8080",
-            "response_time": 9.24
+            "response_time": 5.24
         },
         {
             "status": "success",
             "country": "United Kingdom",
             "countryCode": "GB",
-            "region": "ENG",
+            "region": "LND",
             "regionName": "England",
             "city": "London",
-            "zip": "EC1A",
-            "lat": 51.5081,
-            "lon": -0.1278,
+            "zip": "",
+            "lat": 51.50853,
+            "lon": -0.12574,
             "timezone": "Europe/London",
-            "isp": "Akamai Technologies, Inc.",
-            "org": "Akamai Technologies, Inc.",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "172.239.117.103",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "35.178.71.54",
             "type": "http",
             "port": "3128",
-            "response_time": 10.07
+            "response_time": 10.9
         }
     ]
 }
