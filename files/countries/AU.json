@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "108.61.213.218",
             "type": "http",
             "port": "80",
-            "response_time": 1.78
+            "response_time": 1.57
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4683,
+            "lon": 153.0322,
+            "timezone": "Australia/Brisbane",
+            "isp": "Mammoth Media Pty Ltd",
+            "org": "Mammoth Media Pty Ltd",
+            "as": "AS133159 Mammoth Media Pty Ltd",
+            "query": "175.45.182.48",
+            "type": "socks4",
+            "port": "1090",
+            "response_time": 3.8
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "QLD",
+            "regionName": "Queensland",
+            "city": "Brisbane",
+            "zip": "4000",
+            "lat": -27.4705,
+            "lon": 153.026,
+            "timezone": "Australia/Brisbane",
+            "isp": "ERX",
+            "org": "",
+            "as": "AS152482 Jasam Traders",
+            "query": "157.20.42.1",
+            "type": "http",
+            "port": "8090",
+            "response_time": 7.81
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Forest Lodge",
+            "zip": "2037",
+            "lat": -33.8832,
+            "lon": 151.183,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 10.08
         },
         {
             "status": "success",
@@ -33,13 +90,32 @@
             "lat": -33.8672,
             "lon": 151.1997,
             "timezone": "Australia/Sydney",
-            "isp": "OVH SAS",
-            "org": "OVH Australia PTY LTD",
-            "as": "AS16276 OVH SAS",
-            "query": "139.99.171.39",
+            "isp": "Mammoth Media Pty Ltd",
+            "org": "Mammoth Media Pty Ltd",
+            "as": "AS133159 Mammoth Media Pty Ltd",
+            "query": "103.249.237.158",
+            "type": "http",
+            "port": "8888",
+            "response_time": 10.86
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "Choopa",
+            "org": "Vultr Holdings, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "45.63.26.240",
             "type": "http",
             "port": "80",
-            "response_time": 5.38
+            "response_time": 14.61
         }
     ]
 }
