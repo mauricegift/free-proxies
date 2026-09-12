@@ -1,7 +1,7 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,16 @@
             "regionName": "Yangon",
             "city": "Yangon",
             "zip": "",
-            "lat": 16.7964,
-            "lon": 96.1667,
+            "lat": 16.8409,
+            "lon": 96.1735,
             "timezone": "Asia/Yangon",
             "isp": "Myanma Post & Telecommunication",
             "org": "",
             "as": "AS9988 Myanma Posts and Telecommunications",
-            "query": "136.228.163.150",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 3.99
+            "query": "203.81.75.202",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.57
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "185.133.213.86",
             "type": "http",
             "port": "8074",
-            "response_time": 6.9
+            "response_time": 7.2
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Myanma Post & Telecommunication",
+            "org": "",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.160.250",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.15
         }
     ]
 }
