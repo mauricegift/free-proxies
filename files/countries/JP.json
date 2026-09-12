@@ -1,8 +1,46 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 4,
+    "count": 9,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "102-0082",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "CDS Global Cloud Co., Ltd",
+            "org": "PCCW Global (HK) Limited",
+            "as": "AS63199 CDS Global Cloud Co., Ltd",
+            "query": "205.177.85.130",
+            "type": "socks4",
+            "port": "39593",
+            "response_time": 1.26
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "151-0053",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "HIVELOCITY, Inc.",
+            "org": "Strasmore, Inc.",
+            "as": "AS29802 HIVELOCITY, Inc.",
+            "query": "209.182.234.151",
+            "type": "http",
+            "port": "40000",
+            "response_time": 3.04
+        },
         {
             "status": "success",
             "country": "Japan",
@@ -20,7 +58,26 @@
             "query": "103.75.118.84",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.14
+            "response_time": 3.11
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "140-0001",
+            "lat": 35.6164,
+            "lon": 139.7425,
+            "timezone": "Asia/Tokyo",
+            "isp": "DMIT Cloud Services",
+            "org": "",
+            "as": "AS906 DMIT Cloud Services",
+            "query": "191.223.220.23",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 5.04
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "140.238.32.108",
             "type": "http",
             "port": "3128",
-            "response_time": 4.56
+            "response_time": 5.45
         },
         {
             "status": "success",
@@ -47,18 +104,18 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Koto City",
-            "zip": "136-0076",
-            "lat": 35.6728,
-            "lon": 139.8278,
+            "city": "Chiyoda City",
+            "zip": "100-8111",
+            "lat": 35.6906,
+            "lon": 139.77,
             "timezone": "Asia/Tokyo",
-            "isp": "Lain.sh",
-            "org": "YUWAN NETWORK LIMITED",
-            "as": "AS215304 YUWAN NETWORKS LIMITED",
-            "query": "5.181.178.46",
+            "isp": "InfoSphere",
+            "org": "NTTPC Communications, Inc",
+            "as": "AS2514 NTT PC Communications, Inc.",
+            "query": "140.227.61.201",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.11
+            "port": "3128",
+            "response_time": 5.59
         },
         {
             "status": "success",
@@ -77,7 +134,45 @@
             "query": "162.43.32.206",
             "type": "http",
             "port": "443",
-            "response_time": 7.83
+            "response_time": 7.47
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Koto City",
+            "zip": "136-0076",
+            "lat": 35.6728,
+            "lon": 139.8278,
+            "timezone": "Asia/Tokyo",
+            "isp": "Lain.sh",
+            "org": "YUWAN NETWORK LIMITED",
+            "as": "AS215304 YUWAN NETWORKS LIMITED",
+            "query": "5.181.178.46",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.67
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "152-8503",
+            "lat": 35.68,
+            "lon": 139.77,
+            "timezone": "Asia/Tokyo",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (japaneast)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "74.176.16.105",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.94
         }
     ]
 }
