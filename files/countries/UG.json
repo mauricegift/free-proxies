@@ -1,8 +1,46 @@
 {
     "countryCode": "UG",
     "country": "Uganda",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Uganda",
+            "countryCode": "UG",
+            "region": "W",
+            "regionName": "Western Region",
+            "city": "Mbarara",
+            "zip": "",
+            "lat": -0.6047,
+            "lon": 30.6485,
+            "timezone": "Africa/Kampala",
+            "isp": "Uganda Telecom Ltd",
+            "org": "UTL",
+            "as": "AS21491 Uganda Telecom",
+            "query": "196.0.113.10",
+            "type": "socks4",
+            "port": "31651",
+            "response_time": 4.77
+        },
+        {
+            "status": "success",
+            "country": "Uganda",
+            "countryCode": "UG",
+            "region": "W",
+            "regionName": "Western Region",
+            "city": "Mbarara",
+            "zip": "",
+            "lat": -0.6047,
+            "lon": 30.6485,
+            "timezone": "Africa/Kampala",
+            "isp": "Uganda Telecom Ltd",
+            "org": "UGANDA-TELECOM",
+            "as": "AS21491 Uganda Telecom",
+            "query": "196.0.111.186",
+            "type": "socks4",
+            "port": "46048",
+            "response_time": 8.29
+        },
         {
             "status": "success",
             "country": "Uganda",
@@ -20,7 +58,7 @@
             "query": "41.220.217.51",
             "type": "http",
             "port": "8080",
-            "response_time": 7.74
+            "response_time": 9.78
         }
     ]
 }
