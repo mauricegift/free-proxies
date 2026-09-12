@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "83.56.15.57",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.39
+            "response_time": 0.4
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AR",
+            "regionName": "Aragon",
+            "city": "Mequinensa / Mequinenza",
+            "zip": "50170",
+            "lat": 41.3706,
+            "lon": 0.3063,
+            "timezone": "Europe/Madrid",
+            "isp": "Aire Networks Del Mediterraneo SL Unipersonal",
+            "org": "ServiHosting Networks S.L",
+            "as": "AS29119 AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+            "query": "84.236.185.247",
+            "type": "socks4",
+            "port": "61710",
+            "response_time": 1.51
         },
         {
             "status": "success",
@@ -28,56 +47,18 @@
             "countryCode": "ES",
             "region": "CT",
             "regionName": "Catalonia",
-            "city": "Sant Fost de Campsentelles",
-            "zip": "08105",
-            "lat": 41.5199,
-            "lon": 2.2286,
+            "city": "Barcelona",
+            "zip": "08017",
+            "lat": 41.4042,
+            "lon": 2.0966,
             "timezone": "Europe/Madrid",
-            "isp": "Adamo Telecom Iberia S.A Catalonia",
-            "org": "Adamo Telecom Iberia S.A.U",
-            "as": "AS35699 Adamo Telecom Iberia S.A.",
-            "query": "91.126.244.112",
+            "isp": "Cloudi Nextgen SL",
+            "org": "Clouding VM",
+            "as": "AS49635 CLOUDI NEXTGEN SL",
+            "query": "187.33.151.110",
             "type": "http",
-            "port": "8080",
-            "response_time": 4.7
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Dos Hermanas",
-            "zip": "41704",
-            "lat": 37.2981,
-            "lon": -5.9376,
-            "timezone": "Europe/Madrid",
-            "isp": "Pinkbear SLU",
-            "org": "PINKBEAR SL",
-            "as": "AS211141 PINKBEAR SLU",
-            "query": "185.226.195.249",
-            "type": "http",
-            "port": "2222",
-            "response_time": 5.57
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "",
-            "lat": 40.4167,
-            "lon": -3.7037,
-            "timezone": "Europe/Madrid",
-            "isp": "BlueVPS OU",
-            "org": "BV Na26",
-            "as": "AS62005 BlueVPS OU",
-            "query": "45.86.229.39",
-            "type": "http",
-            "port": "11000",
-            "response_time": 16.63
+            "port": "3128",
+            "response_time": 9.46
         }
     ]
 }
