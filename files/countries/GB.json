@@ -1,46 +1,8 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Darlington",
-            "zip": "DL1",
-            "lat": 54.5554,
-            "lon": -1.5151,
-            "timezone": "Europe/London",
-            "isp": "BT Public Internet Service",
-            "org": "",
-            "as": "AS2856 British Telecommunications Limited",
-            "query": "81.158.71.182",
-            "type": "http",
-            "port": "8888",
-            "response_time": 3.39
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Bromley",
-            "zip": "BR1",
-            "lat": 51.4048,
-            "lon": 0.0098,
-            "timezone": "Europe/London",
-            "isp": "JSC IOT",
-            "org": "JSCIOT",
-            "as": "AS29182 JSC IOT",
-            "query": "91.107.122.209",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 11.3
-        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -58,7 +20,26 @@
             "query": "194.164.125.208",
             "type": "socks4",
             "port": "57422",
-            "response_time": 12.75
+            "response_time": 3.78
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "157.245.29.92",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.37
         }
     ]
 }
