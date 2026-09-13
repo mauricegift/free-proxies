@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 2,
+    "count": 1,
     "proxies": [
         {
             "status": "success",
@@ -9,37 +9,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Worcester",
-            "zip": "WR1",
-            "lat": 52.1941,
-            "lon": -2.21905,
+            "city": "London",
+            "zip": "W1B",
+            "lat": 51.5072,
+            "lon": -0.127586,
             "timezone": "Europe/London",
             "isp": "IONOS SE",
             "org": "IONOS SE",
             "as": "AS8560 IONOS SE",
-            "query": "194.164.125.208",
-            "type": "socks4",
-            "port": "57422",
-            "response_time": 3.78
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Slough",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "157.245.29.92",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 6.37
+            "query": "194.164.22.24",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.43
         }
     ]
 }
