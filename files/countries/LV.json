@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "45.38.198.127",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.09
+            "response_time": 6.62
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1001",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "Green Floid LLC",
+            "org": "ITLDC Latvia network",
+            "as": "AS50979 ROUTE 95 LLC",
+            "query": "195.123.212.87",
+            "type": "http",
+            "port": "3056",
+            "response_time": 8.25
         }
     ]
 }
