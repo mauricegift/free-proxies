@@ -1,26 +1,45 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "A",
+            "regionName": "East Macedonia and Thrace",
+            "city": "X\u00e1nthi",
+            "zip": "",
+            "lat": 41.1441,
+            "lon": 24.882,
+            "timezone": "Europe/Athens",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "62.103.186.66",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.48
+        },
         {
             "status": "success",
             "country": "Greece",
             "countryCode": "GR",
             "region": "B",
             "regionName": "Central Macedonia",
-            "city": "Thessaloniki",
+            "city": "Giannits\u00e1",
             "zip": "",
-            "lat": 40.6439,
-            "lon": 22.9358,
+            "lat": 40.7919,
+            "lon": 22.4075,
             "timezone": "Europe/Athens",
-            "isp": "University of Thessaly",
-            "org": "Network Operations Center, University of Thessaly",
-            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
-            "query": "194.177.207.44",
+            "isp": "INTERWORKS Single Member S.A.",
+            "org": "Customer Beeasy",
+            "as": "AS50919 INTERWORKS Single Member S.A.",
+            "query": "188.164.201.197",
             "type": "http",
-            "port": "3128",
-            "response_time": 4.72
+            "port": "666",
+            "response_time": 8.59
         }
     ]
 }
