@@ -1,8 +1,27 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "DU",
+            "regionName": "Dubai",
+            "city": "Dubai",
+            "zip": "",
+            "lat": 25.0734,
+            "lon": 55.2979,
+            "timezone": "Asia/Dubai",
+            "isp": "RouterHosting LLC",
+            "org": "FranTech Solutions",
+            "as": "AS14956 RouterHosting LLC",
+            "query": "172.86.76.137",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.07
+        },
         {
             "status": "success",
             "country": "United Arab Emirates",
@@ -20,7 +39,7 @@
             "query": "91.73.223.206",
             "type": "socks4",
             "port": "1080",
-            "response_time": 15.28
+            "response_time": 14.16
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "91.73.223.206",
             "type": "http",
             "port": "3128",
-            "response_time": 17.47
+            "response_time": 22.03
         }
     ]
 }
