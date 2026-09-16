@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,26 @@
             "query": "108.61.213.218",
             "type": "http",
             "port": "80",
-            "response_time": 1.82
+            "response_time": 1.8
         },
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Forest Lodge",
-            "zip": "2037",
-            "lat": -33.8832,
-            "lon": 151.183,
-            "timezone": "Australia/Sydney",
-            "isp": "AAPT Limited",
-            "org": "AAPT Limited",
-            "as": "AS2764 AAPT Limited",
-            "query": "61.29.96.146",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Bittern",
+            "zip": "3918",
+            "lat": -38.3485,
+            "lon": 145.176,
+            "timezone": "Australia/Melbourne",
+            "isp": "Terry Crews",
+            "org": "Terry Crews",
+            "as": "AS10023 Terry Crews",
+            "query": "202.86.48.105",
             "type": "http",
-            "port": "80",
-            "response_time": 4.74
+            "port": "8080",
+            "response_time": 5.23
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "103.199.83.239",
             "type": "http",
             "port": "8080",
-            "response_time": 8.45
+            "response_time": 8.05
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3141",
+            "lat": -37.834,
+            "lon": 144.9832,
+            "timezone": "Australia/Melbourne",
+            "isp": "Aussie Fibre Pty Ltd",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.45
         }
     ]
 }
