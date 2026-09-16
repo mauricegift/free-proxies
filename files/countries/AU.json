@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,7 @@
             "query": "108.61.213.218",
             "type": "http",
             "port": "80",
-            "response_time": 1.71
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "TAS",
-            "regionName": "Tasmania",
-            "city": "Burnie",
-            "zip": "7320",
-            "lat": -41.0531,
-            "lon": 145.906,
-            "timezone": "Australia/Hobart",
-            "isp": "Burnie City Council",
-            "org": "Burnie City Council",
-            "as": "AS134181 Burnie City Council",
-            "query": "111.235.128.218",
-            "type": "socks4",
-            "port": "60606",
-            "response_time": 5.02
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "3023",
-            "lat": -37.7512,
-            "lon": 144.7508,
-            "timezone": "Australia/Melbourne",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-melbourne-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "130.162.192.208",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.04
+            "response_time": 1.82
         },
         {
             "status": "success",
@@ -76,8 +38,27 @@
             "as": "AS2764 AAPT Limited",
             "query": "61.29.96.146",
             "type": "http",
-            "port": "8000",
-            "response_time": 11.61
+            "port": "80",
+            "response_time": 4.74
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Sale",
+            "zip": "3850",
+            "lat": -38.1125,
+            "lon": 147.0724,
+            "timezone": "Australia/Melbourne",
+            "isp": "Gippsland Wifi Pty Ltd",
+            "org": "Gippswifi",
+            "as": "AS140051 Gippsland Wifi Pty Ltd",
+            "query": "103.199.83.239",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.45
         }
     ]
 }
