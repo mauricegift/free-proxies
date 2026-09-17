@@ -1,8 +1,27 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "04",
+            "regionName": "Rabat-Sal\u00e9-K\u00e9nitra",
+            "city": "Rabat",
+            "zip": "",
+            "lat": 34.0072,
+            "lon": -6.8407,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "196.75.255.81",
+            "type": "http",
+            "port": "1001",
+            "response_time": 7.11
+        },
         {
             "status": "success",
             "country": "Morocco",
@@ -17,10 +36,10 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (af-casablanca-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "84.8.216.230",
+            "query": "84.8.216.34",
             "type": "http",
-            "port": "2001",
-            "response_time": 3.69
+            "port": "80",
+            "response_time": 9.49
         }
     ]
 }
