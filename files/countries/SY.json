@@ -1,7 +1,7 @@
 {
     "countryCode": "SY",
     "country": "Syria",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "193.33.157.195",
             "type": "http",
             "port": "8080",
-            "response_time": 0.67
+            "response_time": 0.65
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "HI",
+            "regionName": "Homs Governorate",
+            "city": "Homs",
+            "zip": "",
+            "lat": 34.733,
+            "lon": 36.7262,
+            "timezone": "Asia/Damascus",
+            "isp": "Syrian Telecom",
+            "org": "Wafa Telecom J.S.C",
+            "as": "AS29256 STE PDN Internal AS",
+            "query": "193.43.145.248",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.4
         },
         {
             "status": "success",
@@ -28,18 +47,18 @@
             "countryCode": "SY",
             "region": "HL",
             "regionName": "Aleppo Governorate",
-            "city": "Jar\u0101bulus",
+            "city": "Manbij",
             "zip": "",
-            "lat": 36.8175,
-            "lon": 38.0111,
+            "lat": 36.5281,
+            "lon": 37.9549,
             "timezone": "Asia/Damascus",
             "isp": "High Speed For Internet Services L.L.C",
             "org": "",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "128.0.7.11",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.8
+            "query": "89.43.135.181",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.59
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "SY",
             "region": "RD",
             "regionName": "Rif-dimashq",
-            "city": "Kafr Ba\u0163n\u0101",
+            "city": "Damascus",
             "zip": "",
-            "lat": 33.5117,
-            "lon": 36.3727,
+            "lat": 33.5137,
+            "lon": 36.3471,
             "timezone": "Asia/Damascus",
-            "isp": "ISP-TARASSUL",
-            "org": "",
-            "as": "AS29256 STE PDN Internal AS",
-            "query": "78.155.66.87",
+            "isp": "Abdul Rahman Mustafa trading as Alfateh Company for Communications",
+            "org": "AlSalamNet",
+            "as": "AS213812 Abdul Rahman Mustafa trading as Alfateh Company for Communications",
+            "query": "195.123.190.38",
             "type": "http",
             "port": "8080",
-            "response_time": 6.12
+            "response_time": 7.52
         },
         {
             "status": "success",
@@ -66,18 +85,37 @@
             "countryCode": "SY",
             "region": "ID",
             "regionName": "Idlib Governorate",
-            "city": "Idlib",
+            "city": "Ad D\u0101n\u0101",
             "zip": "",
-            "lat": 35.9306,
-            "lon": 36.6339,
+            "lat": 36.2125,
+            "lon": 36.77,
             "timezone": "Asia/Damascus",
             "isp": "High Speed For Internet Services L.L.C",
             "org": "",
             "as": "AS216472 High Speed For Internet Services L.L.C",
-            "query": "89.43.132.250",
+            "query": "89.43.132.231",
             "type": "http",
             "port": "8080",
-            "response_time": 6.58
+            "response_time": 8.33
+        },
+        {
+            "status": "success",
+            "country": "Syria",
+            "countryCode": "SY",
+            "region": "ID",
+            "regionName": "Idlib Governorate",
+            "city": "Ad D\u0101n\u0101",
+            "zip": "",
+            "lat": 36.2125,
+            "lon": 36.77,
+            "timezone": "Asia/Damascus",
+            "isp": "High Speed For Internet Services L.L.C",
+            "org": "",
+            "as": "AS216472 High Speed For Internet Services L.L.C",
+            "query": "89.43.132.81",
+            "type": "http",
+            "port": "8085",
+            "response_time": 8.41
         }
     ]
 }
