@@ -1,27 +1,8 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "10",
-            "regionName": "Selangor",
-            "city": "Petaling Jaya",
-            "zip": "47400",
-            "lat": 3.1261,
-            "lon": 101.6283,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Adsl Streamyx",
-            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "60.54.19.46",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.13
-        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -39,7 +20,26 @@
             "query": "103.1.105.10",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.02
+            "response_time": 1.34
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "14",
+            "regionName": "Kuala Lumpur",
+            "city": "Kuala Lumpur",
+            "zip": "50515",
+            "lat": 3.1408,
+            "lon": 101.6852,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.138.75.83",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.1
         },
         {
             "status": "success",
@@ -55,9 +55,28 @@
             "isp": "Telekom Malaysia Berhad",
             "org": "",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "175.136.215.4",
+            "query": "175.139.170.141",
             "type": "http",
-            "port": "18080",
+            "port": "8080",
+            "response_time": 8.56
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Seri Kembangan",
+            "zip": "43300",
+            "lat": 3.0384,
+            "lon": 101.7105,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "175.138.245.213",
+            "type": "http",
+            "port": "8081",
             "response_time": 15.54
         }
     ]
