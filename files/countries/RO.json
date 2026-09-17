@@ -1,7 +1,7 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 3,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "46.214.153.223",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.41
+            "response_time": 0.56
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "MS",
+            "regionName": "Mure\u0219 County",
+            "city": "T\u00e2rgu Mure\u015f",
+            "zip": "540067",
+            "lat": 46.5428,
+            "lon": 24.5692,
+            "timezone": "Europe/Bucharest",
+            "isp": "RCS & RDS",
+            "org": "RCS & RDS Business",
+            "as": "AS8708 RCS & RDS",
+            "query": "81.18.90.43",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.4
         },
         {
             "status": "success",
@@ -39,26 +58,64 @@
             "query": "81.12.157.98",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.56
+            "response_time": 1.55
         },
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "CJ",
-            "regionName": "Cluj County",
-            "city": "Cluj-Napoca",
-            "zip": "400001",
-            "lat": 46.7656,
-            "lon": 23.5945,
+            "region": "CT",
+            "regionName": "Constan\u021ba County",
+            "city": "N\u0103vodari",
+            "zip": "905700",
+            "lat": 44.3192,
+            "lon": 28.5956,
             "timezone": "Europe/Bucharest",
-            "isp": "Vodafone RO",
-            "org": "Vodafone Romania S.A.",
-            "as": "AS12302 Vodafone Romania S.A.",
-            "query": "81.12.169.254",
+            "isp": "STYLISH BY A&L SRL",
+            "org": "SC Urban Network Solutions SRL",
+            "as": "AS39347 STYLISH BY A&L SRL",
+            "query": "85.122.120.119",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 5.48
+            "port": "30016",
+            "response_time": 2.6
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "TM",
+            "regionName": "Timi\u0219 County",
+            "city": "F\u0103get",
+            "zip": "305300",
+            "lat": 45.8469,
+            "lon": 22.1795,
+            "timezone": "Europe/Bucharest",
+            "isp": "DAM TELECOM SERVICES SRL",
+            "org": "DAM TELECOM SERVICES SRL",
+            "as": "AS214529 DAM TELECOM SERVICES SRL",
+            "query": "188.211.30.65",
+            "type": "http",
+            "port": "8787",
+            "response_time": 5.61
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "MS",
+            "regionName": "Mure\u0219 County",
+            "city": "T\u00e2rgu Mure\u015f",
+            "zip": "540057",
+            "lat": 46.5428,
+            "lon": 24.5692,
+            "timezone": "Europe/Bucharest",
+            "isp": "RCS & RDS",
+            "org": "RCS & RDS Business",
+            "as": "AS8708 RCS & RDS",
+            "query": "86.121.33.98",
+            "type": "http",
+            "port": "80",
+            "response_time": 9.66
         }
     ]
 }
