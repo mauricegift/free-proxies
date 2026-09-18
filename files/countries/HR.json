@@ -1,26 +1,45 @@
 {
     "countryCode": "HR",
     "country": "Croatia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Croatia",
             "countryCode": "HR",
-            "region": "03",
-            "regionName": "Sisak-Moslavina County",
-            "city": "Sisak",
-            "zip": "44000",
-            "lat": 45.4675,
-            "lon": 16.3868,
+            "region": "21",
+            "regionName": "City of Zagreb",
+            "city": "Zagreb",
+            "zip": "10000",
+            "lat": 45.8293,
+            "lon": 15.9793,
             "timezone": "Europe/Zagreb",
-            "isp": "Croatian Academic and Research Network",
-            "org": "Carnet Osljgaj",
-            "as": "AS2108 Croatian Academic and Research Network",
-            "query": "82.132.19.108",
+            "isp": "Telemach Hrvatska d.o.o.",
+            "org": "Arena Hospitality Group",
+            "as": "AS34594 Telemach Hrvatska d.o.o.",
+            "query": "85.114.45.210",
             "type": "socks4",
             "port": "4153",
-            "response_time": 4.38
+            "response_time": 0.27
+        },
+        {
+            "status": "success",
+            "country": "Croatia",
+            "countryCode": "HR",
+            "region": "05",
+            "regionName": "Vara\u017edin County",
+            "city": "Vara\u017edin",
+            "zip": "42000",
+            "lat": 46.3058,
+            "lon": 16.3383,
+            "timezone": "Europe/Zagreb",
+            "isp": "Hrvatski Telekom d.d",
+            "org": "",
+            "as": "AS5391 Croatian Telecom Inc.",
+            "query": "93.137.24.144",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.3
         },
         {
             "status": "success",
@@ -38,8 +57,8 @@
             "as": "AS35549 A1 Hrvatska d.o.o.",
             "query": "212.92.204.54",
             "type": "http",
-            "port": "8080",
-            "response_time": 8.0
+            "port": "80",
+            "response_time": 5.29
         }
     ]
 }
