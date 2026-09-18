@@ -1,7 +1,7 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "ADSL Maroc telecom",
             "org": "",
             "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-            "query": "196.75.255.81",
+            "query": "196.75.168.177",
             "type": "http",
             "port": "1001",
-            "response_time": 7.11
+            "response_time": 3.26
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "04",
+            "regionName": "Rabat-Sal\u00e9-K\u00e9nitra",
+            "city": "Rabat",
+            "zip": "",
+            "lat": 34.0072,
+            "lon": -6.8407,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "196.75.172.11",
+            "type": "http",
+            "port": "1001",
+            "response_time": 3.57
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "84.8.216.34",
             "type": "http",
             "port": "80",
-            "response_time": 9.49
+            "response_time": 5.9
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "04",
+            "regionName": "Rabat-Sal\u00e9-K\u00e9nitra",
+            "city": "Rabat",
+            "zip": "",
+            "lat": 34.0072,
+            "lon": -6.8407,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "196.75.175.190",
+            "type": "http",
+            "port": "1001",
+            "response_time": 11.36
         }
     ]
 }
