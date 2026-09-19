@@ -1,7 +1,7 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -15,12 +15,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Enterprise",
+            "org": "Vodafone RESIDENTIAL NAT",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.74.8",
+            "query": "80.78.78.106",
             "type": "socks4",
             "port": "65530",
-            "response_time": 0.32
+            "response_time": 1.31
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "79.106.229.115",
             "type": "http",
             "port": "8989",
-            "response_time": 6.48
-        },
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "05",
-            "regionName": "Gjirokast\u00ebr County",
-            "city": "Tepelen\u00eb",
-            "zip": "",
-            "lat": 40.2959,
-            "lon": 20.024,
-            "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.108.156",
-            "type": "http",
-            "port": "8079",
-            "response_time": 10.08
+            "response_time": 4.4
         },
         {
             "status": "success",
@@ -72,12 +53,12 @@
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
             "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone Albania Sh.A",
+            "org": "Enterprise",
             "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "66.186.199.33",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.48
+            "query": "80.78.74.56",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 5.49
         },
         {
             "status": "success",
@@ -90,13 +71,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "TEST3777",
+            "isp": "ATU",
             "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.79.154",
-            "type": "http",
-            "port": "8989",
-            "response_time": 11.24
+            "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
+            "query": "37.26.86.206",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 7.51
         }
     ]
 }
