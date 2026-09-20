@@ -1,27 +1,8 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Ciempozuelos",
-            "zip": "28350",
-            "lat": 40.1591,
-            "lon": -3.62103,
-            "timezone": "Europe/Madrid",
-            "isp": "Telefonica de Espana SAU",
-            "org": "RIMA (Red IP Multi Acceso)",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "83.56.15.57",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 0.42
-        },
         {
             "status": "success",
             "country": "Spain",
@@ -39,7 +20,26 @@
             "query": "193.17.183.172",
             "type": "http",
             "port": "8080",
-            "response_time": 0.47
+            "response_time": 0.49
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "CT",
+            "regionName": "Catalonia",
+            "city": "Mollet del Vall\u00e8s",
+            "zip": "08100",
+            "lat": 41.5382,
+            "lon": 2.2154,
+            "timezone": "Europe/Madrid",
+            "isp": "Xtra Telecom S.A.",
+            "org": "Euskaltel CM",
+            "as": "AS15704 XTRA TELECOM S.A.",
+            "query": "85.85.187.31",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.1
         },
         {
             "status": "success",
@@ -55,10 +55,10 @@
             "isp": "customers4",
             "org": "",
             "as": "AS56697 SUIS BOGA TELECOM SL",
-            "query": "185.130.219.10",
+            "query": "185.130.219.12",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.51
+            "response_time": 2.49
         },
         {
             "status": "success",
@@ -66,18 +66,18 @@
             "countryCode": "ES",
             "region": "MD",
             "regionName": "Madrid",
-            "city": "Madrid",
-            "zip": "28071",
-            "lat": 40.4153,
-            "lon": -3.694,
+            "city": "Ciempozuelos",
+            "zip": "28350",
+            "lat": 40.1591,
+            "lon": -3.62103,
             "timezone": "Europe/Madrid",
-            "isp": "Ultahost, Inc.",
-            "org": "",
-            "as": "AS214036 Ultahost, Inc.",
-            "query": "154.62.226.187",
-            "type": "socks5",
-            "port": "9051",
-            "response_time": 3.83
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "83.56.15.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -96,26 +96,7 @@
             "query": "90.161.186.147",
             "type": "http",
             "port": "3128",
-            "response_time": 10.4
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AN",
-            "regionName": "Andalusia",
-            "city": "Mijas",
-            "zip": "29650",
-            "lat": 36.5997,
-            "lon": -4.6384,
-            "timezone": "Europe/Madrid",
-            "isp": "AVATEL TELECOM, SA",
-            "org": "AVATEL TELECOM, SA",
-            "as": "AS200845 AVATEL TELECOM, SA",
-            "query": "185.202.165.1",
-            "type": "http",
-            "port": "53281",
-            "response_time": 10.6
+            "response_time": 10.66
         }
     ]
 }
