@@ -1,7 +1,7 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "BA",
             "regionName": "Baku City",
             "city": "Baku",
-            "zip": "1012",
+            "zip": "",
             "lat": 40.3771,
             "lon": 49.8875,
             "timezone": "Asia/Baku",
-            "isp": "G-Core Labs S.A.",
-            "org": "GCL",
-            "as": "AS202422 G-Core Labs S.A.",
-            "query": "180.149.44.118",
+            "isp": "Izone LLC",
+            "org": "Izone LLC",
+            "as": "AS200154 IZONE LLC",
+            "query": "185.32.45.61",
             "type": "http",
-            "port": "10808",
-            "response_time": 1.64
+            "port": "8090",
+            "response_time": 0.9
+        },
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "AzFiberNet LLC",
+            "org": "Datacenter",
+            "as": "AS203971 AzFiberNet LLC",
+            "query": "185.118.51.230",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.92
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "G-Core Labs S.A.",
             "org": "GCL",
             "as": "AS202422 G-Core Labs S.A.",
-            "query": "180.149.44.118",
-            "type": "socks4",
+            "query": "180.149.45.45",
+            "type": "http",
             "port": "10808",
-            "response_time": 1.64
+            "response_time": 1.32
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "180.149.45.45",
             "type": "socks4",
             "port": "10808",
-            "response_time": 3.46
+            "response_time": 1.32
         },
         {
             "status": "success",
@@ -67,17 +86,55 @@
             "region": "BA",
             "regionName": "Baku City",
             "city": "Baku",
-            "zip": "",
+            "zip": "1012",
             "lat": 40.3771,
             "lon": 49.8875,
             "timezone": "Asia/Baku",
-            "isp": "Izone LLC",
-            "org": "Izone LLC",
-            "as": "AS200154 IZONE LLC",
-            "query": "185.32.45.61",
+            "isp": "G-Core Labs S.A.",
+            "org": "GCL",
+            "as": "AS202422 G-Core Labs S.A.",
+            "query": "180.149.44.118",
             "type": "http",
-            "port": "8090",
-            "response_time": 4.03
+            "port": "10808",
+            "response_time": 3.1
+        },
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "1012",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "G-Core Labs S.A.",
+            "org": "GCL",
+            "as": "AS202422 G-Core Labs S.A.",
+            "query": "180.149.44.118",
+            "type": "socks4",
+            "port": "10808",
+            "response_time": 3.1
+        },
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "1012",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "G-Core Labs S.A.",
+            "org": "GCL",
+            "as": "AS202422 G-Core Labs S.A.",
+            "query": "180.149.44.118",
+            "type": "socks5",
+            "port": "10808",
+            "response_time": 3.1
         }
     ]
 }
