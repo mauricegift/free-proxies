@@ -14,13 +14,13 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.115",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.94
+            "isp": "JSC \"Silknet\"",
+            "org": "Silknet Gpon",
+            "as": "AS35805 JSC Silknet",
+            "query": "31.146.73.192",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 3.84
         },
         {
             "status": "success",
@@ -36,10 +36,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.104",
+            "query": "85.117.56.66",
             "type": "http",
             "port": "8080",
-            "response_time": 4.98
+            "response_time": 3.85
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "94.43.164.242",
             "type": "http",
             "port": "8080",
-            "response_time": 7.25
+            "response_time": 5.05
+        },
+        {
+            "status": "success",
+            "country": "Georgia",
+            "countryCode": "GE",
+            "region": "TB",
+            "regionName": "Tbilisi",
+            "city": "Tbilisi",
+            "zip": "",
+            "lat": 41.6959,
+            "lon": 44.832,
+            "timezone": "Asia/Tbilisi",
+            "isp": "Multisoft LLC",
+            "org": "Multisoft",
+            "as": "AS209012 MULTISOFT LLC",
+            "query": "2.57.218.131",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.74
         },
         {
             "status": "success",
@@ -74,29 +93,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.111",
+            "query": "85.117.56.115",
             "type": "http",
             "port": "8080",
-            "response_time": 7.28
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "JSC \"Silknet\"",
-            "org": "Silknet Gpon",
-            "as": "AS35805 JSC Silknet",
-            "query": "31.146.73.192",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 7.79
+            "response_time": 7.2
         }
     ]
 }
