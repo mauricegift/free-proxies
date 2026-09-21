@@ -1,7 +1,7 @@
 {
     "countryCode": "PT",
     "country": "Portugal",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "193.126.225.110",
             "type": "http",
             "port": "8089",
-            "response_time": 5.76
+            "response_time": 2.2
+        },
+        {
+            "status": "success",
+            "country": "Portugal",
+            "countryCode": "PT",
+            "region": "16",
+            "regionName": "Viana do Castelo",
+            "city": "Valenza",
+            "zip": "4930-590",
+            "lat": 42.0218,
+            "lon": -8.6313,
+            "timezone": "Europe/Lisbon",
+            "isp": "PT Comunicacoes S.A",
+            "org": "PT Comunicacoes S.A.",
+            "as": "AS3243 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
+            "query": "2.81.147.78",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.53
         }
     ]
 }
