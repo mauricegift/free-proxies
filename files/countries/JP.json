@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "JP",
             "region": "13",
             "regionName": "Tokyo",
-            "city": "Shinjuku",
-            "zip": "289-2605",
-            "lat": 35.7139,
-            "lon": 139.702,
+            "city": "Koto City",
+            "zip": "136-0076",
+            "lat": 35.6728,
+            "lon": 139.8278,
             "timezone": "Asia/Tokyo",
-            "isp": "Reis Network Solutions",
-            "org": "Kdash D16",
-            "as": "AS140171 Reis Network Solutions",
-            "query": "103.38.183.18",
-            "type": "socks4",
-            "port": "1088",
-            "response_time": 7.96
+            "isp": "Lain.sh",
+            "org": "YUWAN NETWORK LIMITED",
+            "as": "AS215304 YUWAN NETWORKS LIMITED",
+            "query": "5.181.178.46",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.07
         },
         {
             "status": "success",
@@ -37,28 +37,9 @@
             "org": "Vultr Holdings, LLC",
             "as": "AS20473 The Constant Company, LLC",
             "query": "45.76.104.147",
-            "type": "socks4",
-            "port": "40001",
-            "response_time": 12.38
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "270-1351",
-            "lat": 35.798,
-            "lon": 140.1803,
-            "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "138.2.12.69",
             "type": "socks5",
-            "port": "21080",
-            "response_time": 14.08
+            "port": "40001",
+            "response_time": 9.31
         }
     ]
 }
