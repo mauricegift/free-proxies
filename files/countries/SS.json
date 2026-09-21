@@ -1,8 +1,27 @@
 {
     "countryCode": "SS",
     "country": "South Sudan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Sudan",
+            "countryCode": "SS",
+            "region": "EC",
+            "regionName": "Central Equatoria",
+            "city": "Juba",
+            "zip": "",
+            "lat": 4.8499,
+            "lon": 31.5812,
+            "timezone": "Africa/Juba",
+            "isp": "IPTEC South Sudan",
+            "org": "Iptec LTD",
+            "as": "AS36892 IPTEC Limited",
+            "query": "169.255.139.5",
+            "type": "socks4",
+            "port": "60279",
+            "response_time": 1.5
+        },
         {
             "status": "success",
             "country": "South Sudan",
@@ -20,7 +39,7 @@
             "query": "169.255.136.8",
             "type": "socks4",
             "port": "60279",
-            "response_time": 1.27
+            "response_time": 6.3
         }
     ]
 }
