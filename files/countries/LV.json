@@ -1,8 +1,27 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1001",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "SIA \"MWTV\"",
+            "org": "Mwtv",
+            "as": "AS44575 SIA \"MWTV\"",
+            "query": "92.63.83.23",
+            "type": "http",
+            "port": "3129",
+            "response_time": 0.91
+        },
         {
             "status": "success",
             "country": "Latvia",
@@ -10,17 +29,17 @@
             "region": "RIX",
             "regionName": "R\u012bga",
             "city": "Riga",
-            "zip": "",
+            "zip": "LV-1011",
             "lat": 56.9728,
             "lon": 24.1657,
             "timezone": "Europe/Riga",
-            "isp": "Cloud Software - FZCO",
-            "org": "EGIHosting",
-            "as": "AS211273 Cloud Software - FZCO",
-            "query": "45.38.198.127",
+            "isp": "SIA VEESP",
+            "org": "SIA VEESP",
+            "as": "AS42532 SIA VEESP",
+            "query": "188.253.20.105",
             "type": "http",
-            "port": "3128",
-            "response_time": 2.55
+            "port": "3129",
+            "response_time": 4.08
         },
         {
             "status": "success",
@@ -33,13 +52,32 @@
             "lat": 56.9473,
             "lon": 24.0979,
             "timezone": "Europe/Riga",
-            "isp": "Green Floid LLC",
-            "org": "ITLDC Latvia network",
-            "as": "AS50979 ROUTE 95 LLC",
-            "query": "195.123.212.87",
+            "isp": "CGI GLOBAL LIMITED",
+            "org": "CGI GLOBAL LIMITED",
+            "as": "AS56971 AS56971 Cloud",
+            "query": "188.215.31.189",
             "type": "http",
-            "port": "3056",
-            "response_time": 8.85
+            "port": "10808",
+            "response_time": 4.14
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "R\u012bga",
+            "city": "Riga",
+            "zip": "LV-1011",
+            "lat": 56.9728,
+            "lon": 24.1657,
+            "timezone": "Europe/Riga",
+            "isp": "SIA VEESP",
+            "org": "SIA VEESP",
+            "as": "AS42532 SIA VEESP",
+            "query": "216.173.68.250",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 8.09
         }
     ]
 }
