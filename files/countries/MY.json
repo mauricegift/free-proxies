@@ -1,8 +1,27 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 5,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "10",
+            "regionName": "Selangor",
+            "city": "Petaling Jaya",
+            "zip": "47400",
+            "lat": 3.1261,
+            "lon": 101.6283,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+            "org": "Adsl Streamyx",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "60.54.19.44",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 1.13
+        },
         {
             "status": "success",
             "country": "Malaysia",
@@ -17,10 +36,10 @@
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
             "org": "Adsl Streamyx",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "175.139.200.17",
+            "query": "175.139.201.193",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.99
+            "response_time": 2.46
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "103.1.105.10",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.44
-        },
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "10",
-            "regionName": "Selangor",
-            "city": "Petaling Jaya",
-            "zip": "47820",
-            "lat": 3.16459,
-            "lon": 101.613,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "E-world Communication SDN BHD",
-            "org": "E-world Communication SDN BHD",
-            "as": "AS134202 E-WORLD COMMUNICATION SDN BHD",
-            "query": "103.58.16.106",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 5.76
+            "response_time": 5.02
         },
         {
             "status": "success",
@@ -72,31 +72,12 @@
             "lon": 101.6639,
             "timezone": "Asia/Kuala_Lumpur",
             "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Adsl Streamyx",
+            "org": "Unifi BIZ",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "60.49.236.13",
+            "query": "1.32.48.243",
             "type": "http",
-            "port": "8080",
-            "response_time": 7.65
-        },
-        {
-            "status": "success",
-            "country": "Malaysia",
-            "countryCode": "MY",
-            "region": "14",
-            "regionName": "Kuala Lumpur",
-            "city": "Kuala Lumpur",
-            "zip": "50515",
-            "lat": 3.1408,
-            "lon": 101.6852,
-            "timezone": "Asia/Kuala_Lumpur",
-            "isp": "TM TECHNOLOGY SERVICES SDN BHD",
-            "org": "Adsl Streamyx",
-            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
-            "query": "175.138.75.83",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.05
+            "port": "8081",
+            "response_time": 18.07
         }
     ]
 }
