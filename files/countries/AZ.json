@@ -1,8 +1,46 @@
 {
     "countryCode": "AZ",
     "country": "Azerbaijan",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "BA",
+            "regionName": "Baku City",
+            "city": "Baku",
+            "zip": "1012",
+            "lat": 40.3771,
+            "lon": 49.8875,
+            "timezone": "Asia/Baku",
+            "isp": "G-Core Labs S.A.",
+            "org": "GCL",
+            "as": "AS202422 G-Core Labs S.A.",
+            "query": "180.149.45.180",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.01
+        },
+        {
+            "status": "success",
+            "country": "Azerbaijan",
+            "countryCode": "AZ",
+            "region": "GA",
+            "regionName": "Ganja City",
+            "city": "Ganja",
+            "zip": "",
+            "lat": 40.6811,
+            "lon": 46.3605,
+            "timezone": "Asia/Baku",
+            "isp": "Caspian Telecom CGN",
+            "org": "Caspian Telecom LLC",
+            "as": "AS201167 Caspian Telecom LLC",
+            "query": "185.43.189.253",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 5.92
+        },
         {
             "status": "success",
             "country": "Azerbaijan",
@@ -14,13 +52,13 @@
             "lat": 40.3771,
             "lon": 49.8875,
             "timezone": "Asia/Baku",
-            "isp": "AzFiberNet LLC",
-            "org": "Datacenter",
-            "as": "AS203971 AzFiberNet LLC",
-            "query": "185.118.51.230",
+            "isp": "Izone LLC",
+            "org": "Izone LLC",
+            "as": "AS200154 IZONE LLC",
+            "query": "185.32.45.61",
             "type": "http",
-            "port": "3128",
-            "response_time": 1.17
+            "port": "8090",
+            "response_time": 6.17
         }
     ]
 }
