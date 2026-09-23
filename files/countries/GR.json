@@ -1,7 +1,7 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "62.103.186.66",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.52
+            "response_time": 1.46
         },
         {
             "status": "success",
@@ -28,37 +28,18 @@
             "countryCode": "GR",
             "region": "B",
             "regionName": "Central Macedonia",
-            "city": "Giannits\u00e1",
+            "city": "Thessaloniki",
             "zip": "",
-            "lat": 40.7919,
-            "lon": 22.4075,
+            "lat": 40.6439,
+            "lon": 22.9358,
             "timezone": "Europe/Athens",
-            "isp": "INTERWORKS Single Member S.A.",
-            "org": "Customer Beeasy",
-            "as": "AS50919 INTERWORKS Single Member S.A.",
-            "query": "188.164.201.197",
+            "isp": "University of Thessaly",
+            "org": "Network Operations Center, University of Thessaly",
+            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
+            "query": "194.177.207.44",
             "type": "http",
-            "port": "666",
-            "response_time": 10.75
-        },
-        {
-            "status": "success",
-            "country": "Greece",
-            "countryCode": "GR",
-            "region": "I",
-            "regionName": "Attica",
-            "city": "Athens",
-            "zip": "",
-            "lat": 37.9842,
-            "lon": 23.7353,
-            "timezone": "Europe/Athens",
-            "isp": "Ote SA (Hellenic Telecommunications Organisation)",
-            "org": "OTEnet",
-            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "94.70.148.177",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.12
+            "port": "3128",
+            "response_time": 7.51
         }
     ]
 }
