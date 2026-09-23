@@ -1,26 +1,45 @@
 {
     "countryCode": "AF",
     "country": "Afghanistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Afghanistan",
             "countryCode": "AF",
-            "region": "NAN",
-            "regionName": "Nangarhar",
-            "city": "Jalalabad",
+            "region": "SAR",
+            "regionName": "Sar-e Pol Province",
+            "city": "Sozmah Qal'ah",
             "zip": "",
-            "lat": 34.4503,
-            "lon": 70.4225,
+            "lat": 36.0992,
+            "lon": 66.2082,
             "timezone": "Asia/Kabul",
-            "isp": "Aryan Dunya ICT",
-            "org": "Aryan Dunya ICT",
-            "as": "AS151081 ARYAN DUNYA ICT",
-            "query": "165.101.26.18",
+            "isp": "Etisalat Afghan",
+            "org": "ISP Customers VOIP MZR",
+            "as": "AS131284 Etisalat Afghan",
+            "query": "203.171.115.116",
             "type": "http",
             "port": "8080",
-            "response_time": 8.4
+            "response_time": 2.45
+        },
+        {
+            "status": "success",
+            "country": "Afghanistan",
+            "countryCode": "AF",
+            "region": "KAB",
+            "regionName": "Kabul",
+            "city": "Kabul",
+            "zip": "",
+            "lat": 34.5329,
+            "lon": 69.1682,
+            "timezone": "Asia/Kabul",
+            "isp": "Government Communications Network",
+            "org": "Government Communications Network",
+            "as": "AS55330 AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK",
+            "query": "149.54.16.170",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.35
         }
     ]
 }
