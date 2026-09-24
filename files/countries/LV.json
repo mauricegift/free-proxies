@@ -1,7 +1,7 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,45 +20,7 @@
             "query": "216.173.68.250",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.51
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "088",
-            "regionName": "Saldus novads",
-            "city": "Saldus",
-            "zip": "LV-3801",
-            "lat": 56.6335,
-            "lon": 22.4471,
-            "timezone": "Europe/Riga",
-            "isp": "Sia Nano IT",
-            "org": "Sia Nano IT",
-            "as": "AS43513 Sia Nano IT",
-            "query": "31.170.17.225",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.33
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "088",
-            "regionName": "Saldus novads",
-            "city": "Saldus",
-            "zip": "LV-3801",
-            "lat": 56.6335,
-            "lon": 22.4471,
-            "timezone": "Europe/Riga",
-            "isp": "Sia Nano IT",
-            "org": "Sia Nano IT",
-            "as": "AS43513 Sia Nano IT",
-            "query": "31.170.17.141",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 2.37
+            "response_time": 0.54
         },
         {
             "status": "success",
@@ -77,26 +39,7 @@
             "query": "31.170.19.5",
             "type": "socks4",
             "port": "4153",
-            "response_time": 3.36
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "Riga",
-            "city": "Riga",
-            "zip": "LV-1001",
-            "lat": 56.9496,
-            "lon": 24.1052,
-            "timezone": "Europe/Riga",
-            "isp": "Kronospan Riga SIA",
-            "org": "",
-            "as": "AS28699 Unistar",
-            "query": "109.205.126.6",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.97
+            "response_time": 3.61
         },
         {
             "status": "success",
@@ -109,13 +52,51 @@
             "lat": 56.9473,
             "lon": 24.0979,
             "timezone": "Europe/Riga",
-            "isp": "EDIS GmbH",
-            "org": "EDIS GmbH",
-            "as": "AS57169 EDIS GmbH",
-            "query": "213.111.180.252",
+            "isp": "Green Floid LLC",
+            "org": "ITLDC Latvia network",
+            "as": "AS50979 ROUTE 95 LLC",
+            "query": "195.123.212.87",
             "type": "http",
-            "port": "3128",
-            "response_time": 6.34
+            "port": "3056",
+            "response_time": 4.6
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1005",
+            "lat": 56.9891,
+            "lon": 24.1195,
+            "timezone": "Europe/Riga",
+            "isp": "SIA \"BITE Latvija\"",
+            "org": "SIA Latnet",
+            "as": "AS2588 SIA BITE Latvija",
+            "query": "159.148.146.65",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 7.55
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1001",
+            "lat": 56.9473,
+            "lon": 24.0979,
+            "timezone": "Europe/Riga",
+            "isp": "SIA \"MWTV\"",
+            "org": "Mwtv",
+            "as": "AS44575 SIA \"MWTV\"",
+            "query": "92.63.83.23",
+            "type": "http",
+            "port": "3129",
+            "response_time": 8.03
         }
     ]
 }
