@@ -1,8 +1,46 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "BL",
+            "regionName": "Bratislava Region",
+            "city": "Bratislava",
+            "zip": "811 01",
+            "lat": 48.157,
+            "lon": 17.0915,
+            "timezone": "Europe/Bratislava",
+            "isp": "VNET a.s.",
+            "org": "VNET a.s.",
+            "as": "AS29405 VNET a.s.",
+            "query": "93.184.72.130",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.45
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Trnava",
+            "zip": "917 01",
+            "lat": 48.3762,
+            "lon": 17.5829,
+            "timezone": "Europe/Bratislava",
+            "isp": "AIRNET s.r.o.",
+            "org": "Airnet",
+            "as": "AS201603 AIRNET s.r.o.",
+            "query": "91.217.33.161",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.28
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -17,10 +55,29 @@
             "isp": "EHS, s.r.o.",
             "org": "EHS, s.r.o",
             "as": "AS201890 EHS, s.r.o.",
-            "query": "185.144.96.97",
+            "query": "185.144.96.1",
             "type": "http",
             "port": "8081",
-            "response_time": 10.65
+            "response_time": 4.84
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Rybky",
+            "zip": "906 04",
+            "lat": 48.7124,
+            "lon": 17.335,
+            "timezone": "Europe/Bratislava",
+            "isp": "EHS, s.r.o.",
+            "org": "EHS, s.r.o",
+            "as": "AS201890 EHS, s.r.o.",
+            "query": "185.144.96.138",
+            "type": "http",
+            "port": "8081",
+            "response_time": 7.52
         }
     ]
 }
