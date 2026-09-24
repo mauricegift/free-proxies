@@ -1,8 +1,27 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "AZ",
+            "regionName": "Abu Dhabi",
+            "city": "Abu Dhabi",
+            "zip": "",
+            "lat": 24.4512,
+            "lon": 54.397,
+            "timezone": "Asia/Dubai",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (me-abudhabi-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "129.151.130.247",
+            "type": "http",
+            "port": "1111",
+            "response_time": 5.9
+        },
         {
             "status": "success",
             "country": "United Arab Emirates",
@@ -20,7 +39,7 @@
             "query": "91.73.223.206",
             "type": "http",
             "port": "3128",
-            "response_time": 14.23
+            "response_time": 15.31
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "91.73.223.206",
             "type": "socks4",
             "port": "1080",
-            "response_time": 17.73
+            "response_time": 36.16
         }
     ]
 }
