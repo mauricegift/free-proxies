@@ -1,8 +1,27 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "Giannits\u00e1",
+            "zip": "",
+            "lat": 40.7919,
+            "lon": 22.4075,
+            "timezone": "Europe/Athens",
+            "isp": "INTERWORKS Single Member S.A.",
+            "org": "Customer Beeasy",
+            "as": "AS50919 INTERWORKS Single Member S.A.",
+            "query": "188.164.201.197",
+            "type": "http",
+            "port": "666",
+            "response_time": 2.66
+        },
         {
             "status": "success",
             "country": "Greece",
@@ -20,7 +39,7 @@
             "query": "94.70.148.177",
             "type": "http",
             "port": "8080",
-            "response_time": 11.26
+            "response_time": 8.29
         }
     ]
 }
