@@ -1,8 +1,27 @@
 {
     "countryCode": "ME",
     "country": "Montenegro",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Montenegro",
+            "countryCode": "ME",
+            "region": "16",
+            "regionName": "Podgorica",
+            "city": "Podgorica",
+            "zip": "",
+            "lat": 42.4411,
+            "lon": 19.2632,
+            "timezone": "Europe/Podgorica",
+            "isp": "Crnogorski Telekom",
+            "org": "",
+            "as": "AS8585 Crnogorski Telekom a.d.Podgorica",
+            "query": "31.204.223.158",
+            "type": "http",
+            "port": "81",
+            "response_time": 4.65
+        },
         {
             "status": "success",
             "country": "Montenegro",
@@ -17,10 +36,10 @@
             "isp": "One Crna Gora DOO",
             "org": "Telenor d.o.o. Podgorica",
             "as": "AS47881 One Crna Gora DOO",
-            "query": "94.102.224.138",
+            "query": "94.102.224.132",
             "type": "http",
             "port": "32650",
-            "response_time": 12.43
+            "response_time": 4.84
         }
     ]
 }
