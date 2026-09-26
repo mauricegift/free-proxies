@@ -1,8 +1,46 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 5,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Vending doo",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "91.150.80.161",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.25
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.54
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -20,7 +58,26 @@
             "query": "109.245.110.145",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.25
+            "response_time": 1.45
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Telekom",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "62.101.137.150",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.58
         },
         {
             "status": "success",
@@ -33,13 +90,13 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Network",
+            "isp": "Orion Telekom Client Network",
             "org": "",
             "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "95.140.118.34",
+            "query": "217.169.223.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.45
+            "response_time": 5.38
         },
         {
             "status": "success",
@@ -58,45 +115,7 @@
             "query": "212.200.223.89",
             "type": "http",
             "port": "8080",
-            "response_time": 0.87
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Vending doo",
-            "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "91.150.80.161",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 2.24
-        },
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "VO",
-            "regionName": "Vojvodina",
-            "city": "Novi Sad",
-            "zip": "",
-            "lat": 45.25,
-            "lon": 19.8362,
-            "timezone": "Europe/Belgrade",
-            "isp": "Serbia BroadBand",
-            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-            "as": "AS31042 Yettel d.o.o.",
-            "query": "82.117.211.42",
-            "type": "http",
-            "port": "8085",
-            "response_time": 9.65
+            "response_time": 9.13
         }
     ]
 }
