@@ -1,7 +1,7 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "193.233.233.62",
             "type": "http",
             "port": "56736",
-            "response_time": 0.83
+            "response_time": 0.14
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2082,
+            "lon": 16.3739,
+            "timezone": "Europe/Vienna",
+            "isp": "xorek.cloud International LTD",
+            "org": "xorek.cloud International LTD",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "193.233.233.62",
+            "type": "socks4",
+            "port": "56736",
+            "response_time": 0.14
         },
         {
             "status": "success",
@@ -39,26 +58,26 @@
             "query": "193.233.233.62",
             "type": "socks5",
             "port": "56736",
-            "response_time": 0.83
+            "response_time": 0.14
         },
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "7",
-            "regionName": "Tyrol",
-            "city": "S\u00f6ll",
-            "zip": "6306",
-            "lat": 47.5038,
-            "lon": 12.1922,
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2082,
+            "lon": 16.3739,
             "timezone": "Europe/Vienna",
-            "isp": "myNet GmbH",
-            "org": "myNET Internet Solutions",
-            "as": "AS31543 myNet GmbH",
-            "query": "83.218.186.22",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.49
+            "isp": "xorek.cloud International LTD",
+            "org": "xorek.cloud International LTD",
+            "as": "AS210644 AEZA INTERNATIONAL LTD",
+            "query": "193.233.233.62",
+            "type": "http",
+            "port": "21840",
+            "response_time": 0.59
         },
         {
             "status": "success",
@@ -72,12 +91,12 @@
             "lon": 16.3662,
             "timezone": "Europe/Vienna",
             "isp": "Aeza International LTD",
-            "org": "AEZA-ORG",
+            "org": "Aeza Group LLC",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "78.153.130.53",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 3.0
+            "query": "193.233.128.69",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.23
         }
     ]
 }
