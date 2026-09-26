@@ -1,7 +1,7 @@
 {
     "countryCode": "TW",
     "country": "Taiwan",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "220.132.41.160",
             "type": "socks4",
             "port": "1088",
-            "response_time": 6.63
+            "response_time": 2.78
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "27.147.28.73",
             "type": "http",
             "port": "8080",
-            "response_time": 9.97
+            "response_time": 8.57
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "220.135.222.226",
             "type": "http",
             "port": "3128",
-            "response_time": 11.55
+            "response_time": 11.45
+        },
+        {
+            "status": "success",
+            "country": "Taiwan",
+            "countryCode": "TW",
+            "region": "TPE",
+            "regionName": "Taiwan",
+            "city": "Taipei",
+            "zip": "",
+            "lat": 25.0329,
+            "lon": 121.5654,
+            "timezone": "Asia/Taipei",
+            "isp": "Zenlayer Inc",
+            "org": "UCLOUD",
+            "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+            "query": "128.14.229.215",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 12.18
         }
     ]
 }
