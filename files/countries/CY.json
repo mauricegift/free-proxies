@@ -1,7 +1,7 @@
 {
     "countryCode": "CY",
     "country": "Cyprus",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "213.7.196.26",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.58
+            "response_time": 0.61
+        },
+        {
+            "status": "success",
+            "country": "Cyprus",
+            "countryCode": "CY",
+            "region": "01",
+            "regionName": "Nicosia",
+            "city": "Nicosia",
+            "zip": "",
+            "lat": 35.1681,
+            "lon": 33.3503,
+            "timezone": "Asia/Nicosia",
+            "isp": "CYTANET - Cyprus Telecommunications Authority",
+            "org": "",
+            "as": "AS6866 Cyprus Telecommunications Authority",
+            "query": "212.31.100.138",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.66
         },
         {
             "status": "success",
@@ -37,9 +56,9 @@
             "org": "Hostman LTD",
             "as": "AS214504 Hostman LTD",
             "query": "195.133.93.79",
-            "type": "socks5",
+            "type": "socks4",
             "port": "9080",
-            "response_time": 6.76
+            "response_time": 1.06
         }
     ]
 }
