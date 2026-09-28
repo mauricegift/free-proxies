@@ -1,8 +1,46 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Forest Lodge",
+            "zip": "2037",
+            "lat": -33.8832,
+            "lon": 151.183,
+            "timezone": "Australia/Sydney",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "80",
+            "response_time": 7.98
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3121",
+            "lat": -37.8335,
+            "lon": 145.0012,
+            "timezone": "Australia/Melbourne",
+            "isp": "Circle Network",
+            "org": "",
+            "as": "AS134371 CIRCLE NETWORK BANGLADESH",
+            "query": "103.18.205.162",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.95
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -17,10 +55,10 @@
             "isp": "OVH SAS",
             "org": "OVH Australia PTY LTD",
             "as": "AS16276 OVH SAS",
-            "query": "139.99.238.83",
+            "query": "51.161.137.166",
             "type": "http",
             "port": "8080",
-            "response_time": 2.21
+            "response_time": 15.91
         }
     ]
 }
