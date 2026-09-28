@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 8,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "135.136.189.169",
             "type": "http",
             "port": "1080",
-            "response_time": 1.5
+            "response_time": 0.27
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Ihor Hosting LTD",
-            "org": "POWER-SERVERS-ROLE-ORG",
-            "as": "AS207569 IHOR HOSTING LTD",
-            "query": "194.53.54.201",
+            "isp": "Hetzner Online GmbH",
+            "org": "HETZNER-DC",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "95.216.117.50",
             "type": "socks5",
-            "port": "8090",
-            "response_time": 1.52
+            "port": "9050",
+            "response_time": 0.96
         },
         {
             "status": "success",
@@ -52,13 +52,51 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Ihor Hosting LTD",
-            "org": "POWER-SERVERS-ROLE-ORG",
-            "as": "AS207569 IHOR HOSTING LTD",
-            "query": "95.81.126.73",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.56
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner Online GmbH",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "65.108.159.129",
+            "type": "http",
+            "port": "8081",
+            "response_time": 1.64
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "",
+            "lat": 60.1698,
+            "lon": 24.9383,
+            "timezone": "Europe/Helsinki",
+            "isp": "Baykov Ilya Sergeevich",
+            "org": "Baykov Ilya Sergeevich",
+            "as": "AS41745 Baykov Ilya Sergeevich",
+            "query": "193.221.203.14",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.26
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Baxet Group Inc.",
+            "org": "Baxet Group Inc",
+            "as": "AS26383 Baxet Group Inc.",
+            "query": "94.177.13.45",
+            "type": "socks4",
+            "port": "2000",
+            "response_time": 2.38
         },
         {
             "status": "success",
@@ -77,7 +115,26 @@
             "query": "185.112.83.80",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.23
+            "response_time": 2.46
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Ihor Hosting LTD",
+            "org": "POWER-SERVERS-ROLE-ORG",
+            "as": "AS207569 IHOR HOSTING LTD",
+            "query": "95.81.126.73",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.58
         },
         {
             "status": "success",
@@ -91,12 +148,31 @@
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
             "isp": "Hetzner Online GmbH",
-            "org": "Hetzner Online GmbH",
+            "org": "HETZNER-DC",
             "as": "AS24940 Hetzner Online GmbH",
-            "query": "65.108.159.129",
-            "type": "http",
-            "port": "5678",
-            "response_time": 4.46
+            "query": "46.62.246.93",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 7.56
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
+            "timezone": "Europe/Helsinki",
+            "isp": "Ihor Hosting LTD",
+            "org": "POWER-SERVERS-ROLE-ORG",
+            "as": "AS207569 IHOR HOSTING LTD",
+            "query": "46.243.1.99",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.4
         },
         {
             "status": "success",
@@ -114,46 +190,8 @@
             "as": "AS24940 Hetzner Online GmbH",
             "query": "95.217.167.252",
             "type": "socks4",
-            "port": "11104",
-            "response_time": 6.94
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "",
-            "lat": 60.1698,
-            "lon": 24.9383,
-            "timezone": "Europe/Helsinki",
-            "isp": "Baykov Ilya Sergeevich",
-            "org": "OY Creanova Hosting Solutions LTD",
-            "as": "AS41745 Baykov Ilya Sergeevich",
-            "query": "193.168.198.240",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 11.31
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00221",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Hetzner Online GmbH",
-            "org": "HETZNER-DC",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "46.62.246.93",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 13.18
+            "port": "11108",
+            "response_time": 9.77
         }
     ]
 }
