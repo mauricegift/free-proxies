@@ -1,8 +1,27 @@
 {
     "countryCode": "BW",
     "country": "Botswana",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Botswana",
+            "countryCode": "BW",
+            "region": "GA",
+            "regionName": "Gaborone",
+            "city": "Gaborone",
+            "zip": "",
+            "lat": -24.6545,
+            "lon": 25.9086,
+            "timezone": "Africa/Gaborone",
+            "isp": "VBN Services",
+            "org": "Vbn Corp",
+            "as": "AS328459 VBN Services",
+            "query": "83.143.29.225",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.15
+        },
         {
             "status": "success",
             "country": "Botswana",
@@ -18,9 +37,9 @@
             "org": "",
             "as": "AS328459 VBN Services",
             "query": "83.143.24.66",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.35
+            "type": "http",
+            "port": "80",
+            "response_time": 8.32
         }
     ]
 }
