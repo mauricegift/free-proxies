@@ -1,7 +1,7 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 4,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "81.12.169.254",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.34
-        },
-        {
-            "status": "success",
-            "country": "Romania",
-            "countryCode": "RO",
-            "region": "BR",
-            "regionName": "Br\u0103ila County",
-            "city": "Br\u0103ila",
-            "zip": "810001",
-            "lat": 45.2662,
-            "lon": 27.9804,
-            "timezone": "Europe/Bucharest",
-            "isp": "RCS & RDS",
-            "org": "RCS & RDS Business",
-            "as": "AS8708 RCS & RDS",
-            "query": "86.127.209.234",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.62
+            "response_time": 0.35
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "92.86.92.126",
             "type": "socks4",
             "port": "42740",
-            "response_time": 1.49
+            "response_time": 0.39
         },
         {
             "status": "success",
@@ -75,9 +56,9 @@
             "org": "SC Urban Network Solutions SRL",
             "as": "AS39347 STYLISH BY A&L SRL",
             "query": "85.122.120.46",
-            "type": "socks4",
-            "port": "30000",
-            "response_time": 4.47
+            "type": "http",
+            "port": "20000",
+            "response_time": 5.76
         }
     ]
 }
