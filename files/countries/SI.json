@@ -1,7 +1,7 @@
 {
     "countryCode": "SI",
     "country": "Slovenia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "ARNES provider",
             "org": "",
             "as": "AS2107 ARNES",
-            "query": "109.127.199.112",
+            "query": "109.127.199.124",
             "type": "http",
             "port": "9999",
-            "response_time": 0.6
+            "response_time": 6.76
+        },
+        {
+            "status": "success",
+            "country": "Slovenia",
+            "countryCode": "SI",
+            "region": "061",
+            "regionName": "Ljubljana",
+            "city": "Ljubljana",
+            "zip": "1000",
+            "lat": 46.0503,
+            "lon": 14.5046,
+            "timezone": "Europe/Ljubljana",
+            "isp": "ARNES provider",
+            "org": "",
+            "as": "AS2107 ARNES",
+            "query": "109.127.199.109",
+            "type": "http",
+            "port": "9999",
+            "response_time": 14.7
         }
     ]
 }
