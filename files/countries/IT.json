@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "91.192.25.158",
             "type": "socks4",
             "port": "4145",
-            "response_time": 2.89
+            "response_time": 0.74
         },
         {
             "status": "success",
@@ -39,26 +39,26 @@
             "query": "2.115.212.62",
             "type": "socks4",
             "port": "48293",
-            "response_time": 5.52
+            "response_time": 2.21
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "62",
-            "regionName": "Lazio",
-            "city": "Pomezia",
-            "zip": "00071",
-            "lat": 41.6693,
-            "lon": 12.5012,
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "Siena",
+            "zip": "53100",
+            "lat": 43.3218,
+            "lon": 11.3262,
             "timezone": "Europe/Rome",
-            "isp": "Cinzia Tocci trading as Lumanex Srl",
-            "org": "C1V ISP",
-            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
-            "query": "5.59.248.134",
+            "isp": "Consorzio Terrecablate",
+            "org": "Provincia Siena",
+            "as": "AS43960 Consorzio Terrecablate",
+            "query": "93.187.25.12",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.9
+            "port": "58080",
+            "response_time": 6.44
         },
         {
             "status": "success",
@@ -77,7 +77,45 @@
             "query": "185.62.48.126",
             "type": "socks4",
             "port": "5678",
-            "response_time": 12.04
+            "response_time": 7.96
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20153",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Sirius Technology SRL",
+            "org": "Sirius Technology SRL",
+            "as": "AS60501 Sirius Technology SRL",
+            "query": "149.86.203.217",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.24
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "HAL Service SpA",
+            "org": "Wiset srl",
+            "as": "AS44092 HAL Service SpA",
+            "query": "85.208.200.185",
+            "type": "http",
+            "port": "8081",
+            "response_time": 9.82
         }
     ]
 }
