@@ -1,8 +1,27 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "BL",
+            "regionName": "Bratislava Region",
+            "city": "Bratislava",
+            "zip": "811 01",
+            "lat": 48.157,
+            "lon": 17.0915,
+            "timezone": "Europe/Bratislava",
+            "isp": "VNET a.s.",
+            "org": "VNET a.s.",
+            "as": "AS29405 VNET a.s.",
+            "query": "93.184.72.130",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.02
+        },
         {
             "status": "success",
             "country": "Slovakia",
@@ -20,7 +39,45 @@
             "query": "217.145.199.47",
             "type": "socks4",
             "port": "56746",
-            "response_time": 1.12
+            "response_time": 5.36
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Borovce",
+            "zip": "922 09",
+            "lat": 48.5714,
+            "lon": 17.7513,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Slovanet",
+            "as": "AS31679 Slovanet a.s.",
+            "query": "185.165.37.168",
+            "type": "socks4",
+            "port": "8889",
+            "response_time": 7.5
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "TA",
+            "regionName": "Trnava Region",
+            "city": "Moravany nad V\u00e1hom",
+            "zip": "922 21",
+            "lat": 48.5997,
+            "lon": 17.8529,
+            "timezone": "Europe/Bratislava",
+            "isp": "Slovanet a.s.",
+            "org": "Radiolan",
+            "as": "AS43451 Slovanet a.s.",
+            "query": "188.121.168.60",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.31
         }
     ]
 }
