@@ -1,8 +1,27 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "TAS",
+            "regionName": "Tasmania",
+            "city": "Burnie",
+            "zip": "7320",
+            "lat": -41.0531,
+            "lon": 145.906,
+            "timezone": "Australia/Hobart",
+            "isp": "Burnie City Council",
+            "org": "Burnie City Council",
+            "as": "AS134181 Burnie City Council",
+            "query": "111.235.128.218",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 2.63
+        },
         {
             "status": "success",
             "country": "Australia",
@@ -20,7 +39,7 @@
             "query": "198.251.85.115",
             "type": "http",
             "port": "3128",
-            "response_time": 13.36
+            "response_time": 12.56
         }
     ]
 }
