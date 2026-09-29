@@ -1,8 +1,27 @@
 {
     "countryCode": "BE",
     "country": "Belgium",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Belgium",
+            "countryCode": "BE",
+            "region": "BRU",
+            "regionName": "Brussels Capital",
+            "city": "Brussels",
+            "zip": "1930",
+            "lat": 50.9009,
+            "lon": 4.4855,
+            "timezone": "Europe/Brussels",
+            "isp": "Google LLC",
+            "org": "Google Cloud (europe-west1)",
+            "as": "AS396982 Google LLC",
+            "query": "34.78.79.103",
+            "type": "http",
+            "port": "40001",
+            "response_time": 1.84
+        },
         {
             "status": "success",
             "country": "Belgium",
@@ -20,7 +39,7 @@
             "query": "34.78.79.103",
             "type": "socks4",
             "port": "40001",
-            "response_time": 2.34
+            "response_time": 1.84
         }
     ]
 }
