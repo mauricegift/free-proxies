@@ -1,8 +1,27 @@
 {
     "countryCode": "GH",
     "country": "Ghana",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ghana",
+            "countryCode": "GH",
+            "region": "AA",
+            "regionName": "Greater Accra Region",
+            "city": "Tema",
+            "zip": "",
+            "lat": 5.6714,
+            "lon": -0.0086,
+            "timezone": "Africa/Accra",
+            "isp": "Scancom Limited",
+            "org": "Scancom[MTNGhana]",
+            "as": "AS30986 Scancom Limited",
+            "query": "41.189.171.186",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.0
+        },
         {
             "status": "success",
             "country": "Ghana",
@@ -20,7 +39,7 @@
             "query": "41.218.225.250",
             "type": "http",
             "port": "3128",
-            "response_time": 7.3
+            "response_time": 10.6
         }
     ]
 }
