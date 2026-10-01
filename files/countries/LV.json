@@ -1,27 +1,8 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 4,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "Riga",
-            "city": "Riga",
-            "zip": "LV-1001",
-            "lat": 56.9496,
-            "lon": 24.1052,
-            "timezone": "Europe/Riga",
-            "isp": "Kronospan Riga SIA",
-            "org": "",
-            "as": "AS28699 Unistar",
-            "query": "109.205.126.6",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.65
-        },
         {
             "status": "success",
             "country": "Latvia",
@@ -39,7 +20,26 @@
             "query": "31.170.18.1",
             "type": "socks4",
             "port": "4153",
-            "response_time": 5.52
+            "response_time": 1.31
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "RIX",
+            "regionName": "Riga",
+            "city": "Riga",
+            "zip": "LV-1001",
+            "lat": 56.9496,
+            "lon": 24.1052,
+            "timezone": "Europe/Riga",
+            "isp": "Kronospan Riga SIA",
+            "org": "",
+            "as": "AS28699 Unistar",
+            "query": "109.205.126.6",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.97
         },
         {
             "status": "success",
@@ -58,26 +58,7 @@
             "query": "195.123.212.87",
             "type": "http",
             "port": "3056",
-            "response_time": 7.04
-        },
-        {
-            "status": "success",
-            "country": "Latvia",
-            "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "R\u012bga",
-            "city": "Riga",
-            "zip": "LV-1011",
-            "lat": 56.9728,
-            "lon": 24.1657,
-            "timezone": "Europe/Riga",
-            "isp": "SIA VEESP",
-            "org": "Veesp",
-            "as": "AS42532 SIA VEESP",
-            "query": "185.242.107.224",
-            "type": "socks5",
-            "port": "9999",
-            "response_time": 19.92
+            "response_time": 4.19
         }
     ]
 }
