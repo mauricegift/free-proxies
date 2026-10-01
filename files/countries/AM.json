@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Yerevan",
             "city": "Yerevan",
             "zip": "",
-            "lat": 40.1872,
-            "lon": 44.5152,
+            "lat": 40.1814,
+            "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "Data Campus Limited",
-            "org": "Data Campus Limited",
-            "as": "AS215929 Data Campus Limited",
-            "query": "45.142.195.110",
+            "isp": "Ucom CJSC",
+            "org": "Ucom CJSC",
+            "as": "AS44395 Ucom CJSC",
+            "query": "212.34.230.102",
             "type": "socks4",
-            "port": "995",
-            "response_time": 5.05
+            "port": "4153",
+            "response_time": 0.49
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Ucom CJSC",
+            "org": "Ucom",
+            "as": "AS44395 Ucom CJSC",
+            "query": "81.16.9.222",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 1.49
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "45.142.195.110",
             "type": "socks5",
             "port": "995",
-            "response_time": 5.05
+            "response_time": 1.68
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "2.56.205.182",
             "type": "http",
             "port": "3128",
-            "response_time": 11.16
+            "response_time": 2.4
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1872,
+            "lon": 44.5152,
+            "timezone": "Asia/Yerevan",
+            "isp": "GNC-Alfa CJSC",
+            "org": "Beafort Limited",
+            "as": "AS196709 GNC-Alfa CJSC",
+            "query": "88.218.92.64",
+            "type": "http",
+            "port": "3128",
+            "response_time": 7.63
         }
     ]
 }
