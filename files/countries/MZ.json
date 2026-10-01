@@ -1,7 +1,7 @@
 {
     "countryCode": "MZ",
     "country": "Mozambique",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "196.40.117.114",
             "type": "socks4",
             "port": "5678",
-            "response_time": 1.34
+            "response_time": 4.28
+        },
+        {
+            "status": "success",
+            "country": "Mozambique",
+            "countryCode": "MZ",
+            "region": "MPM",
+            "regionName": "Cidade de Maputo",
+            "city": "Maputo",
+            "zip": "",
+            "lat": -25.9655,
+            "lon": 32.5832,
+            "timezone": "Africa/Maputo",
+            "isp": "Voiptech Limitada",
+            "org": "Conecte Fixed",
+            "as": "AS328223 VOIPTECH LIMITADA",
+            "query": "160.119.159.98",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 8.41
         }
     ]
 }
