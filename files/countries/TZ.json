@@ -1,7 +1,7 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -11,16 +11,35 @@
             "regionName": "Arusha",
             "city": "Arusha",
             "zip": "",
-            "lat": -3.3691,
-            "lon": 36.686,
+            "lat": -3.36806,
+            "lon": 36.696,
             "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Habari Node Ltd",
-            "org": "Habari Clocktower",
+            "isp": "Habari Node Public Limited",
+            "org": "Habari KiliWireless",
             "as": "AS36909 Habari Node Public Limited",
-            "query": "41.220.131.48",
+            "query": "41.78.170.178",
             "type": "http",
             "port": "8040",
-            "response_time": 12.17
+            "response_time": 6.81
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "03",
+            "regionName": "Dodoma",
+            "city": "Dodoma",
+            "zip": "",
+            "lat": -6.17221,
+            "lon": 35.7395,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "TTCL",
+            "org": "",
+            "as": "AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD",
+            "query": "41.59.112.250",
+            "type": "http",
+            "port": "3030",
+            "response_time": 13.95
         }
     ]
 }
