@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 7,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "185.73.39.118",
             "type": "http",
             "port": "9999",
-            "response_time": 0.12
+            "response_time": 0.25
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "185.73.39.118",
             "type": "socks4",
             "port": "9999",
-            "response_time": 0.12
+            "response_time": 0.25
         },
         {
             "status": "success",
@@ -47,18 +47,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Cheltenham",
-            "zip": "GL50",
-            "lat": 51.9001,
-            "lon": -2.07972,
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
             "timezone": "Europe/London",
-            "isp": "IP River",
-            "org": "",
-            "as": "AS62163 IP River Limited",
-            "query": "5.157.64.213",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.55
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "143.110.161.67",
+            "type": "http",
+            "port": "10000",
+            "response_time": 0.37
         },
         {
             "status": "success",
@@ -77,7 +77,45 @@
             "query": "143.110.161.67",
             "type": "socks4",
             "port": "10000",
-            "response_time": 0.57
+            "response_time": 0.37
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Maidenhead",
+            "zip": "SL6",
+            "lat": 51.5226,
+            "lon": -0.724308,
+            "timezone": "Europe/London",
+            "isp": "Iomart Cloud Services Limited",
+            "org": "Iomart Cloud Services Limited",
+            "as": "AS20860 IOMART CLOUD SERVICES LIMITED",
+            "query": "81.168.119.85",
+            "type": "http",
+            "port": "5443",
+            "response_time": 0.4
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Hinckley",
+            "zip": "LE10",
+            "lat": 52.5357,
+            "lon": -1.3662,
+            "timezone": "Europe/London",
+            "isp": "Virgin Media Limited",
+            "org": "Vmcbbuk",
+            "as": "AS5089 Virgin Media Limited",
+            "query": "82.9.133.51",
+            "type": "socks5",
+            "port": "9150",
+            "response_time": 1.42
         },
         {
             "status": "success",
@@ -91,12 +129,12 @@
             "lon": -0.127586,
             "timezone": "Europe/London",
             "isp": "IONOS SE",
-            "org": "IONOS SE",
+            "org": "Gb Lon Ionos Cloud Lhr",
             "as": "AS8560 IONOS SE",
-            "query": "194.164.22.24",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.5
+            "query": "82.165.235.96",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 7.45
         },
         {
             "status": "success",
@@ -109,32 +147,13 @@
             "lat": 51.5081,
             "lon": -0.1278,
             "timezone": "Europe/London",
-            "isp": "Akamai Technologies, Inc.",
-            "org": "Akamai Technologies, Inc.",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "172.239.117.103",
+            "isp": "Lucidacloud Limited",
+            "org": "Xnnet Limited",
+            "as": "AS139659 LUCIDACLOUD LIMITED",
+            "query": "45.152.66.246",
             "type": "http",
             "port": "3128",
-            "response_time": 6.39
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Purfleet-on-Thames",
-            "zip": "DA8",
-            "lat": 51.487,
-            "lon": 0.1812,
-            "timezone": "Europe/London",
-            "isp": "OVH SAS",
-            "org": "OVH Ltd",
-            "as": "AS16276 OVH SAS",
-            "query": "51.68.199.41",
-            "type": "http",
-            "port": "8118",
-            "response_time": 6.55
+            "response_time": 8.11
         }
     ]
 }
