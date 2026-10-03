@@ -1,8 +1,46 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "06",
+            "regionName": "Casablanca-Settat",
+            "city": "Casablanca",
+            "zip": "",
+            "lat": 33.5883,
+            "lon": -7.6114,
+            "timezone": "Africa/Casablanca",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (af-casablanca-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "51.170.133.249",
+            "type": "http",
+            "port": "80",
+            "response_time": 0.57
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "02",
+            "regionName": "Oriental",
+            "city": "Nador",
+            "zip": "",
+            "lat": 35.1717,
+            "lon": -2.932,
+            "timezone": "Africa/Casablanca",
+            "isp": "ADSL Maroc telecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "105.156.183.150",
+            "type": "http",
+            "port": "30001",
+            "response_time": 2.69
+        },
         {
             "status": "success",
             "country": "Morocco",
@@ -17,10 +55,10 @@
             "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
             "org": "IAM",
             "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-            "query": "105.159.148.74",
+            "query": "105.159.147.132",
             "type": "http",
-            "port": "6386",
-            "response_time": 12.88
+            "port": "4961",
+            "response_time": 13.27
         }
     ]
 }
