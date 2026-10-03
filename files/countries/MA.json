@@ -1,7 +1,7 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "196.75.243.24",
             "type": "http",
             "port": "1976",
-            "response_time": 2.83
+            "response_time": 0.67
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "04",
+            "regionName": "Rabat-Sal\u00e9-K\u00e9nitra",
+            "city": "Rabat",
+            "zip": "",
+            "lat": 34.0072,
+            "lon": -6.8407,
+            "timezone": "Africa/Casablanca",
+            "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "org": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "196.64.120.129",
+            "type": "http",
+            "port": "2001",
+            "response_time": 3.56
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "196.64.117.148",
             "type": "http",
             "port": "2001",
-            "response_time": 4.87
+            "response_time": 6.84
         }
     ]
 }
