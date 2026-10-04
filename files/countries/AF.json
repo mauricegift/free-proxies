@@ -1,8 +1,27 @@
 {
     "countryCode": "AF",
     "country": "Afghanistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Afghanistan",
+            "countryCode": "AF",
+            "region": "TAK",
+            "regionName": "Takhar",
+            "city": "Taloqan",
+            "zip": "",
+            "lat": 36.736,
+            "lon": 69.5345,
+            "timezone": "Asia/Kabul",
+            "isp": "Telecom Development Company Afghanistan",
+            "org": "Roshan",
+            "as": "AS45178 ROSHAN",
+            "query": "111.125.154.22",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.04
+        },
         {
             "status": "success",
             "country": "Afghanistan",
@@ -20,7 +39,7 @@
             "query": "149.54.16.170",
             "type": "http",
             "port": "8080",
-            "response_time": 3.13
+            "response_time": 7.01
         }
     ]
 }
