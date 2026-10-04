@@ -1,45 +1,26 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 1,
     "proxies": [
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
-            "region": "6",
-            "regionName": "Styria",
-            "city": "Leoben",
-            "zip": "8700",
-            "lat": 47.376,
-            "lon": 15.0893,
+            "region": "3",
+            "regionName": "Lower Austria",
+            "city": "Wiener Neustadt",
+            "zip": "2700",
+            "lat": 47.8049,
+            "lon": 16.232,
             "timezone": "Europe/Vienna",
-            "isp": "A1 Telekom Austria AG",
-            "org": "A1 Telekom Austria AG",
-            "as": "AS8447 A1 Telekom Austria AG",
-            "query": "178.189.56.158",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.45
-        },
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "4",
-            "regionName": "Upper Austria",
-            "city": "Ansfelden",
-            "zip": "4052",
-            "lat": 48.2134,
-            "lon": 14.2875,
-            "timezone": "Europe/Vienna",
-            "isp": "LIWEST Kabelmedien GmbH",
-            "org": "LIWEST",
-            "as": "AS12605 LIWEST Kabelmedien GmbH",
-            "query": "90.146.196.18",
+            "isp": "customers with static IP",
+            "org": "",
+            "as": "AS25255 ==> TELE2 AUSTRIA <==",
+            "query": "178.115.230.100",
             "type": "http",
             "port": "8080",
-            "response_time": 5.53
+            "response_time": 5.61
         }
     ]
 }
