@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 7,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,37 +9,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Worcester",
-            "zip": "WR1",
-            "lat": 52.1941,
-            "lon": -2.21905,
+            "city": "Bexley",
+            "zip": "DA15",
+            "lat": 51.4409,
+            "lon": 0.0985,
             "timezone": "Europe/London",
-            "isp": "IONOS SE",
-            "org": "Fasthosts Internet Limited",
-            "as": "AS8560 IONOS SE",
-            "query": "213.171.212.110",
+            "isp": "OVH SAS",
+            "org": "OVH Ltd",
+            "as": "AS16276 OVH SAS",
+            "query": "57.129.134.10",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.02
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "EC1A",
-            "lat": 51.5081,
-            "lon": -0.1278,
-            "timezone": "Europe/London",
-            "isp": "Akamai Technologies, Inc.",
-            "org": "Akamai Technologies, Inc.",
-            "as": "AS63949 Akamai Connected Cloud",
-            "query": "172.239.117.103",
-            "type": "http",
-            "port": "8080",
-            "response_time": 1.8
+            "port": "8082",
+            "response_time": 0.18
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "185.73.39.118",
             "type": "http",
             "port": "9999",
-            "response_time": 3.07
+            "response_time": 10.13
         },
         {
             "status": "success",
@@ -77,64 +58,7 @@
             "query": "185.73.39.118",
             "type": "socks4",
             "port": "9999",
-            "response_time": 3.07
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "W1B",
-            "lat": 51.5072,
-            "lon": -0.127586,
-            "timezone": "Europe/London",
-            "isp": "IONOS SE",
-            "org": "Gb Lon Ionos Cloud Lhr",
-            "as": "AS8560 IONOS SE",
-            "query": "82.165.235.96",
-            "type": "http",
-            "port": "8888",
-            "response_time": 6.12
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "EC1A",
-            "lat": 51.5081,
-            "lon": -0.1278,
-            "timezone": "Europe/London",
-            "isp": "AH CLOUD LTD",
-            "org": "Alpha Internet Limited",
-            "as": "AS207108 AH CLOUD LTD",
-            "query": "185.139.7.97",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.31
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Hinckley",
-            "zip": "LE10",
-            "lat": 52.5357,
-            "lon": -1.3662,
-            "timezone": "Europe/London",
-            "isp": "Virgin Media Limited",
-            "org": "Vmcbbuk",
-            "as": "AS5089 Virgin Media Limited",
-            "query": "82.9.133.51",
-            "type": "socks4",
-            "port": "9150",
-            "response_time": 11.22
+            "response_time": 10.13
         }
     ]
 }
