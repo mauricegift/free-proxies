@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "93.184.7.73",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.88
+            "response_time": 4.67
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "M",
+            "regionName": "Central District",
+            "city": "Petah Tikva",
+            "zip": "",
+            "lat": 32.0876,
+            "lon": 34.8739,
+            "timezone": "Asia/Jerusalem",
+            "isp": "ITC NG ltd",
+            "org": "ITC NG ltd",
+            "as": "AS202940 ITC NG ltd",
+            "query": "147.236.181.86",
+            "type": "http",
+            "port": "50009",
+            "response_time": 4.72
         }
     ]
 }
