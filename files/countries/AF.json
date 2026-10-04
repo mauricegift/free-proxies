@@ -1,7 +1,7 @@
 {
     "countryCode": "AF",
     "country": "Afghanistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "111.125.154.22",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.14
+            "response_time": 3.08
+        },
+        {
+            "status": "success",
+            "country": "Afghanistan",
+            "countryCode": "AF",
+            "region": "SAR",
+            "regionName": "Sar-e Pol Province",
+            "city": "Sozmah Qal'ah",
+            "zip": "",
+            "lat": 36.0992,
+            "lon": 66.2082,
+            "timezone": "Asia/Kabul",
+            "isp": "Etisalat Afghan",
+            "org": "ISP Customers VOIP MZR",
+            "as": "AS131284 Etisalat Afghan",
+            "query": "203.171.115.116",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.26
         }
     ]
 }
