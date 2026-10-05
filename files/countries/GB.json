@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "185.73.39.118",
             "type": "http",
             "port": "9999",
-            "response_time": 8.08
+            "response_time": 0.26
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "185.73.39.118",
             "type": "socks4",
             "port": "9999",
-            "response_time": 8.08
+            "response_time": 0.26
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "68.183.35.25",
+            "type": "http",
+            "port": "10000",
+            "response_time": 0.29
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Cheltenham",
+            "zip": "GL50",
+            "lat": 51.9001,
+            "lon": -2.07972,
+            "timezone": "Europe/London",
+            "isp": "IP River",
+            "org": "",
+            "as": "AS62163 IP River Limited",
+            "query": "5.157.64.213",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.34
         }
     ]
 }
