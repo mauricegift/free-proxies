@@ -1,8 +1,46 @@
 {
     "countryCode": "KR",
     "country": "South Korea",
-    "count": 5,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "11",
+            "regionName": "Seoul",
+            "city": "Seoul",
+            "zip": "04524",
+            "lat": 37.5658,
+            "lon": 126.978,
+            "timezone": "Asia/Seoul",
+            "isp": "ComsenzNet",
+            "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "119.28.233.241",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.6
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "42",
+            "regionName": "Gangwon-do",
+            "city": "Chuncheon",
+            "zip": "24329",
+            "lat": 37.8897,
+            "lon": 127.736,
+            "timezone": "Asia/Seoul",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "144.24.94.153",
+            "type": "http",
+            "port": "1080",
+            "response_time": 1.64
+        },
         {
             "status": "success",
             "country": "South Korea",
@@ -20,7 +58,7 @@
             "query": "43.155.130.224",
             "type": "socks4",
             "port": "443",
-            "response_time": 2.87
+            "response_time": 2.02
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "183.106.215.208",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.47
+            "response_time": 3.02
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "41",
+            "regionName": "Gyeonggi-do",
+            "city": "Bucheon-si",
+            "zip": "145",
+            "lat": 37.4988,
+            "lon": 126.7824,
+            "timezone": "Asia/Seoul",
+            "isp": "SK Broadband Co Ltd",
+            "org": "broadNnet",
+            "as": "AS9318 SK Broadband Co Ltd",
+            "query": "210.94.84.86",
+            "type": "http",
+            "port": "8118",
+            "response_time": 3.05
         },
         {
             "status": "success",
@@ -58,26 +115,7 @@
             "query": "114.108.177.104",
             "type": "socks4",
             "port": "60984",
-            "response_time": 4.61
-        },
-        {
-            "status": "success",
-            "country": "South Korea",
-            "countryCode": "KR",
-            "region": "42",
-            "regionName": "Gangwon-do",
-            "city": "Chuncheon",
-            "zip": "24329",
-            "lat": 37.8897,
-            "lon": 127.736,
-            "timezone": "Asia/Seoul",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "140.245.66.105",
-            "type": "http",
-            "port": "8081",
-            "response_time": 9.51
+            "response_time": 4.7
         },
         {
             "status": "success",
@@ -93,10 +131,29 @@
             "isp": "Oracle Corporation",
             "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
             "as": "AS31898 Oracle Corporation",
-            "query": "146.56.191.98",
-            "type": "socks4",
-            "port": "14785",
-            "response_time": 14.15
+            "query": "152.70.237.238",
+            "type": "socks5",
+            "port": "3128",
+            "response_time": 11.58
+        },
+        {
+            "status": "success",
+            "country": "South Korea",
+            "countryCode": "KR",
+            "region": "26",
+            "regionName": "Busan",
+            "city": "Suyeong-gu",
+            "zip": "48298",
+            "lat": 35.1513,
+            "lon": 129.1203,
+            "timezone": "Asia/Seoul",
+            "isp": "Korea Telecom",
+            "org": "Korea Telecom",
+            "as": "AS4766 Korea Telecom",
+            "query": "121.174.186.199",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.66
         }
     ]
 }
