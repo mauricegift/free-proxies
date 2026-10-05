@@ -1,7 +1,7 @@
 {
     "countryCode": "PG",
     "country": "Papua New Guinea",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "103.110.31.155",
             "type": "http",
             "port": "8080",
-            "response_time": 11.73
+            "response_time": 6.83
+        },
+        {
+            "status": "success",
+            "country": "Papua New Guinea",
+            "countryCode": "PG",
+            "region": "NCD",
+            "regionName": "National Capital",
+            "city": "Port Moresby",
+            "zip": "",
+            "lat": -9.4666,
+            "lon": 147.1464,
+            "timezone": "Pacific/Port_Moresby",
+            "isp": "Digitec PNG Limited",
+            "org": "Digitecisp",
+            "as": "AS63945 Digitec PNG Limited",
+            "query": "103.43.145.42",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.81
         }
     ]
 }
