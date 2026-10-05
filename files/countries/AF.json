@@ -1,27 +1,8 @@
 {
     "countryCode": "AF",
     "country": "Afghanistan",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Afghanistan",
-            "countryCode": "AF",
-            "region": "TAK",
-            "regionName": "Takhar",
-            "city": "Taloqan",
-            "zip": "",
-            "lat": 36.736,
-            "lon": 69.5345,
-            "timezone": "Asia/Kabul",
-            "isp": "Telecom Development Company Afghanistan",
-            "org": "Roshan",
-            "as": "AS45178 ROSHAN",
-            "query": "111.125.154.22",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 1.18
-        },
         {
             "status": "success",
             "country": "Afghanistan",
@@ -39,7 +20,45 @@
             "query": "149.54.16.170",
             "type": "http",
             "port": "8080",
-            "response_time": 19.66
+            "response_time": 2.43
+        },
+        {
+            "status": "success",
+            "country": "Afghanistan",
+            "countryCode": "AF",
+            "region": "BAL",
+            "regionName": "Balkh",
+            "city": "Mazari Sharif",
+            "zip": "",
+            "lat": 36.7102,
+            "lon": 67.1273,
+            "timezone": "Asia/Kabul",
+            "isp": "Shah Net Internet Services Provider",
+            "org": "Shah Net Internet Services Provider",
+            "as": "AS137475 Shah Net Internet Services Provider",
+            "query": "103.151.88.201",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.14
+        },
+        {
+            "status": "success",
+            "country": "Afghanistan",
+            "countryCode": "AF",
+            "region": "BAL",
+            "regionName": "Balkh",
+            "city": "Mazari Sharif",
+            "zip": "",
+            "lat": 36.709,
+            "lon": 67.1109,
+            "timezone": "Asia/Kabul",
+            "isp": "Telecom Development Company Afghanistan",
+            "org": "",
+            "as": "AS45178 ROSHAN",
+            "query": "116.206.188.190",
+            "type": "http",
+            "port": "5050",
+            "response_time": 15.21
         }
     ]
 }
