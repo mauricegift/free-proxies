@@ -1,7 +1,7 @@
 {
     "countryCode": "GE",
     "country": "Georgia",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.74",
+            "query": "85.117.61.111",
             "type": "http",
             "port": "8080",
-            "response_time": 1.51
+            "response_time": 2.3
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Airmax LLC",
-            "org": "",
-            "as": "AS208320 AIRMAX LLC",
-            "query": "45.143.108.118",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.58
+            "isp": "Caucasus Online Ltd.",
+            "org": "Caucasus Online Ltd",
+            "as": "AS20771 Caucasus Online Ltd.",
+            "query": "85.117.32.166",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.69
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "85.117.63.207",
             "type": "http",
             "port": "8080",
-            "response_time": 3.67
+            "response_time": 4.49
         },
         {
             "status": "success",
@@ -74,10 +74,10 @@
             "isp": "Caucasus Online Ltd.",
             "org": "Caucasus",
             "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.56.104",
+            "query": "85.117.60.118",
             "type": "http",
             "port": "8080",
-            "response_time": 4.36
+            "response_time": 7.7
         },
         {
             "status": "success",
@@ -90,32 +90,13 @@
             "lat": 41.6959,
             "lon": 44.832,
             "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.108",
+            "isp": "Deltanet-net Network",
+            "org": "",
+            "as": "AS44327 DELTA COMM LLC",
+            "query": "92.51.122.174",
             "type": "http",
             "port": "8080",
-            "response_time": 11.69
-        },
-        {
-            "status": "success",
-            "country": "Georgia",
-            "countryCode": "GE",
-            "region": "TB",
-            "regionName": "Tbilisi",
-            "city": "Tbilisi",
-            "zip": "",
-            "lat": 41.6959,
-            "lon": 44.832,
-            "timezone": "Asia/Tbilisi",
-            "isp": "Caucasus Online Ltd.",
-            "org": "Caucasus",
-            "as": "AS20771 Caucasus Online Ltd.",
-            "query": "85.117.61.111",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.83
+            "response_time": 9.59
         }
     ]
 }
