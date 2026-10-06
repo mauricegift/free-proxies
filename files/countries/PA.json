@@ -1,7 +1,7 @@
 {
     "countryCode": "PA",
     "country": "Panama",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,36 @@
             "region": "8",
             "regionName": "Provincia de Panam\u00e1",
             "city": "Panama City",
-            "zip": "",
-            "lat": 9.01298,
-            "lon": -79.5118,
+            "zip": "34002",
+            "lat": 8.9948,
+            "lon": -79.523,
             "timezone": "America/Panama",
             "isp": "Cable Onda",
-            "org": "Cable Onda",
+            "org": "PARSA, S.A",
             "as": "AS18809 Cable Onda",
-            "query": "200.108.50.254",
+            "query": "190.140.31.195",
             "type": "socks4",
-            "port": "4145",
-            "response_time": 1.97
+            "port": "9900",
+            "response_time": 1.12
+        },
+        {
+            "status": "success",
+            "country": "Panama",
+            "countryCode": "PA",
+            "region": "8",
+            "regionName": "Provincia de Panam\u00e1",
+            "city": "San Miguelito",
+            "zip": "",
+            "lat": 9.05032,
+            "lon": -79.4707,
+            "timezone": "America/Panama",
+            "isp": "Ufinet Panama S.A.",
+            "org": "UFINET",
+            "as": "AS52468 UFINET PANAMA S.A.",
+            "query": "181.78.186.3",
+            "type": "http",
+            "port": "999",
+            "response_time": 1.28
         }
     ]
 }
