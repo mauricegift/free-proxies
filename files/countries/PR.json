@@ -1,7 +1,7 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 7,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "154.64.219.4",
             "type": "socks4",
             "port": "5555",
-            "response_time": 1.91
-        },
-        {
-            "status": "success",
-            "country": "Puerto Rico",
-            "countryCode": "PR",
-            "region": "",
-            "regionName": "Toa Baja",
-            "city": "Levittown",
-            "zip": "",
-            "lat": 18.4499,
-            "lon": -66.1816,
-            "timezone": "America/Puerto_Rico",
-            "isp": "Boom NET",
-            "org": "BOOM",
-            "as": "AS63393 BOOM NET",
-            "query": "192.203.0.210",
-            "type": "http",
-            "port": "999",
-            "response_time": 2.15
+            "response_time": 1.96
         },
         {
             "status": "success",
@@ -56,9 +37,9 @@
             "org": "Liberty Mobile Puerto Rico Inc",
             "as": "AS11992 Liberty Mobile Puerto Rico Inc.",
             "query": "67.206.213.202",
-            "type": "socks4",
-            "port": "55555",
-            "response_time": 2.93
+            "type": "http",
+            "port": "3120",
+            "response_time": 3.31
         },
         {
             "status": "success",
@@ -77,7 +58,7 @@
             "query": "192.203.0.118",
             "type": "http",
             "port": "999",
-            "response_time": 4.82
+            "response_time": 5.82
         },
         {
             "status": "success",
@@ -96,45 +77,45 @@
             "query": "23.138.88.1",
             "type": "http",
             "port": "999",
-            "response_time": 8.07
+            "response_time": 6.06
         },
         {
             "status": "success",
             "country": "Puerto Rico",
             "countryCode": "PR",
             "region": "",
-            "regionName": "Yabucoa",
-            "city": "Comunas",
+            "regionName": "Adjuntas",
+            "city": "Adjuntas",
             "zip": "",
-            "lat": 18.0872,
-            "lon": -65.8438,
+            "lat": 18.1627,
+            "lon": -66.7221,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Alphanet Corp",
+            "org": "Alphanet Corp",
+            "as": "AS400354 ALPHANET CORP",
+            "query": "23.138.88.96",
+            "type": "http",
+            "port": "999",
+            "response_time": 7.94
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Toa Baja",
+            "city": "Levittown",
+            "zip": "",
+            "lat": 18.4499,
+            "lon": -66.1816,
             "timezone": "America/Puerto_Rico",
             "isp": "Boom NET",
             "org": "BOOM",
             "as": "AS63393 BOOM NET",
-            "query": "192.203.0.78",
+            "query": "192.203.0.166",
             "type": "http",
             "port": "999",
-            "response_time": 8.32
-        },
-        {
-            "status": "success",
-            "country": "Puerto Rico",
-            "countryCode": "PR",
-            "region": "",
-            "regionName": "Guaynabo",
-            "city": "Guaynabo",
-            "zip": "00968",
-            "lat": 18.416,
-            "lon": -66.107,
-            "timezone": "America/Puerto_Rico",
-            "isp": "OSNET Wireless",
-            "org": "FiberX",
-            "as": "AS21559 OSNET",
-            "query": "72.46.158.193",
-            "type": "http",
-            "port": "8087",
-            "response_time": 9.97
+            "response_time": 9.93
         }
     ]
 }
