@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "45.152.66.246",
             "type": "http",
             "port": "3128",
-            "response_time": 1.98
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "LND",
-            "regionName": "England",
-            "city": "London",
-            "zip": "",
-            "lat": 51.50853,
-            "lon": -0.12574,
-            "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.175.170.244",
-            "type": "http",
-            "port": "45933",
-            "response_time": 2.06
+            "response_time": 4.26
         },
         {
             "status": "success",
@@ -58,7 +39,26 @@
             "query": "213.171.212.110",
             "type": "http",
             "port": "8080",
-            "response_time": 2.77
+            "response_time": 6.17
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digital Ocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "178.62.83.124",
+            "type": "http",
+            "port": "32766",
+            "response_time": 6.35
         },
         {
             "status": "success",
@@ -77,26 +77,7 @@
             "query": "143.110.161.67",
             "type": "http",
             "port": "10000",
-            "response_time": 10.17
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Slough",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "143.110.161.67",
-            "type": "socks4",
-            "port": "10000",
-            "response_time": 10.17
+            "response_time": 15.8
         }
     ]
 }
