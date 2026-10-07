@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "PE",
+            "regionName": "Pest County",
+            "city": "\u00c9rd",
+            "zip": "2030",
+            "lat": 47.3949,
+            "lon": 18.9136,
+            "timezone": "Europe/Budapest",
+            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
+            "org": "Invitech - DIGI",
+            "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
+            "query": "79.120.167.70",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.57
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -10,17 +29,17 @@
             "region": "BU",
             "regionName": "Budapest",
             "city": "Budapest",
-            "zip": "1007",
-            "lat": 47.4979,
-            "lon": 19.0402,
+            "zip": "1051",
+            "lat": 47.5,
+            "lon": 19.0412,
             "timezone": "Europe/Budapest",
-            "isp": "Szatmarnet",
-            "org": "",
-            "as": "AS58098 Szatmarnet Bt.",
-            "query": "46.107.230.122",
+            "isp": "One Hungary Ltd.",
+            "org": "2Connect Telecommunications Infrastructure & Network Services Ltd",
+            "as": "AS21334 2Connect Telecommunications Infrastructure & Network Services Ltd.",
+            "query": "89.132.170.211",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 0.65
+            "port": "4145",
+            "response_time": 5.42
         }
     ]
 }
