@@ -1,7 +1,7 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "102.36.231.77",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.12
+            "response_time": 6.23
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Eti-Osa",
+            "zip": "",
+            "lat": 6.46305,
+            "lon": 3.67895,
+            "timezone": "Africa/Lagos",
+            "isp": "Teltwine Networks Limited",
+            "org": "Teltwine Networks Limited",
+            "as": "AS329236 Teltwine Networks Limited",
+            "query": "102.212.104.129",
+            "type": "http",
+            "port": "8082",
+            "response_time": 11.0
         },
         {
             "status": "success",
@@ -33,13 +52,13 @@
             "lat": 6.4474,
             "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
+            "isp": "WIOCC",
             "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.147.14",
+            "as": "AS37662 West Indian Ocean Cable Company",
+            "query": "102.134.19.170",
             "type": "http",
             "port": "8080",
-            "response_time": 4.71
+            "response_time": 12.13
         }
     ]
 }
