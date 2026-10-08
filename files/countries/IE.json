@@ -1,7 +1,7 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 2,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.152.118",
             "type": "http",
-            "port": "8103",
-            "response_time": 2.12
+            "port": "43",
+            "response_time": 0.88
         },
         {
             "status": "success",
@@ -38,8 +38,84 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.152.118",
             "type": "http",
-            "port": "43",
-            "response_time": 3.51
+            "port": "775",
+            "response_time": 0.91
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "D",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "",
+            "lat": 53.33306,
+            "lon": -6.24889,
+            "timezone": "Europe/Dublin",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.214.92.206",
+            "type": "http",
+            "port": "8123",
+            "response_time": 1.72
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "D",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "",
+            "lat": 53.33306,
+            "lon": -6.24889,
+            "timezone": "Europe/Dublin",
+            "isp": "BellSouth.net Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "108.131.152.118",
+            "type": "http",
+            "port": "29511",
+            "response_time": 2.35
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "D",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "",
+            "lat": 53.33306,
+            "lon": -6.24889,
+            "timezone": "Europe/Dublin",
+            "isp": "BellSouth.net Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "108.131.152.118",
+            "type": "http",
+            "port": "52719",
+            "response_time": 2.44
+        },
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "L",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "D01",
+            "lat": 53.3478,
+            "lon": -6.2597,
+            "timezone": "Europe/Dublin",
+            "isp": "Microsoft Corporation",
+            "org": "Microsoft Azure Cloud (northeurope)",
+            "as": "AS8075 Microsoft Corporation",
+            "query": "20.223.124.87",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.83
         }
     ]
 }
