@@ -1,7 +1,7 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "RS",
             "region": "00",
             "regionName": "Belgrade",
-            "city": "Mladenovac",
+            "city": "Belgrade",
             "zip": "",
-            "lat": 44.4349,
-            "lon": 20.7013,
+            "lat": 44.8046,
+            "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "G NET-Gracija",
-            "org": "GNET-ISP d.o.o",
-            "as": "AS51002 ASTRA TELEKOM DOO BEOGRAD",
-            "query": "178.217.12.232",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "195.178.33.86",
             "type": "http",
-            "port": "6669",
-            "response_time": 8.01
+            "port": "8080",
+            "response_time": 10.48
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Telekom BB",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "212.200.223.89",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.53
         }
     ]
 }
