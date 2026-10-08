@@ -1,7 +1,7 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "185.98.208.98",
             "type": "socks4",
             "port": "28000",
-            "response_time": 7.41
+            "response_time": 1.57
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "ZI",
+            "regionName": "\u017dilina Region",
+            "city": "Doln\u00fd Kub\u00edn",
+            "zip": "026 01",
+            "lat": 49.2107,
+            "lon": 19.2977,
+            "timezone": "Europe/Bratislava",
+            "isp": "DSI DATA, a. s.",
+            "org": "PPPoE & IPoE Services",
+            "as": "AS35328 DSI DATA, a. s.",
+            "query": "77.234.249.216",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.15
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "91.217.33.137",
             "type": "http",
             "port": "8080",
-            "response_time": 9.52
+            "response_time": 8.95
         }
     ]
 }
