@@ -1,8 +1,46 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Humacao",
+            "city": "Humacao",
+            "zip": "00791",
+            "lat": 18.133,
+            "lon": -65.8204,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Dimelo Network",
+            "org": "OSNET",
+            "as": "AS401436 Dimelo Network",
+            "query": "200.5.26.3",
+            "type": "http",
+            "port": "8087",
+            "response_time": 4.2
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Toa Baja",
+            "city": "Levittown",
+            "zip": "",
+            "lat": 18.4499,
+            "lon": -66.1816,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Boom NET",
+            "org": "BOOM",
+            "as": "AS63393 BOOM NET",
+            "query": "192.203.0.118",
+            "type": "http",
+            "port": "999",
+            "response_time": 6.2
+        },
         {
             "status": "success",
             "country": "Puerto Rico",
@@ -17,10 +55,29 @@
             "isp": "Alphanet Corp",
             "org": "Alphanet Corp",
             "as": "AS400354 ALPHANET CORP",
-            "query": "23.138.88.96",
+            "query": "23.138.88.1",
             "type": "http",
             "port": "999",
-            "response_time": 8.28
+            "response_time": 7.77
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Trujillo Alto",
+            "city": "Trujillo Alto",
+            "zip": "",
+            "lat": 18.3547,
+            "lon": -66.0074,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Boom NET",
+            "org": "BOOM",
+            "as": "AS63393 BOOM NET",
+            "query": "192.92.193.18",
+            "type": "http",
+            "port": "999",
+            "response_time": 8.15
         }
     ]
 }
