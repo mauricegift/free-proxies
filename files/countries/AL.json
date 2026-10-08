@@ -1,26 +1,26 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
-            "region": "11",
-            "regionName": "Tirana",
-            "city": "Tirana",
+            "region": "05",
+            "regionName": "Gjirokast\u00ebr County",
+            "city": "Tepelen\u00eb",
             "zip": "",
-            "lat": 41.3253,
-            "lon": 19.8184,
+            "lat": 40.2959,
+            "lon": 20.024,
             "timezone": "Europe/Tirane",
-            "isp": "Vodafone Albania Sh.A.",
-            "org": "Vodafone RESIDENTIAL NAT",
-            "as": "AS21183 Vodafone Albania Sh.A.",
-            "query": "80.78.78.106",
-            "type": "socks4",
-            "port": "65530",
-            "response_time": 1.36
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.108.156",
+            "type": "http",
+            "port": "8079",
+            "response_time": 2.8
         },
         {
             "status": "success",
@@ -33,13 +33,32 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Business Custommers",
-            "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "77.242.21.133",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "Test13",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "217.24.245.58",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.08
+            "port": "8079",
+            "response_time": 4.66
+        },
+        {
+            "status": "success",
+            "country": "Albania",
+            "countryCode": "AL",
+            "region": "11",
+            "regionName": "Tirana",
+            "city": "Tirana",
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
+            "timezone": "Europe/Tirane",
+            "isp": "ONE ALBANIA SH.A.",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.165.246",
+            "type": "http",
+            "port": "8989",
+            "response_time": 4.68
         }
     ]
 }
