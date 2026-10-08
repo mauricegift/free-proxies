@@ -1,8 +1,27 @@
 {
     "countryCode": "BO",
     "country": "Bolivia",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bolivia",
+            "countryCode": "BO",
+            "region": "S",
+            "regionName": "Santa Cruz Department",
+            "city": "Pail\u00f3n",
+            "zip": "",
+            "lat": -17.6639,
+            "lon": -62.718,
+            "timezone": "America/La_Paz",
+            "isp": "Entel S.A. - EntelNet",
+            "org": "Empresa Nacional De Telecomunicaciones Sociedad Anonima",
+            "as": "AS6568 EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+            "query": "166.114.65.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.88
+        },
         {
             "status": "success",
             "country": "Bolivia",
@@ -20,7 +39,7 @@
             "query": "190.181.45.6",
             "type": "http",
             "port": "3128",
-            "response_time": 4.01
+            "response_time": 26.97
         }
     ]
 }
