@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS62044 Zscaler Switzerland GmbH",
             "query": "165.225.66.42",
             "type": "http",
-            "port": "11589",
-            "response_time": 0.91
+            "port": "11588",
+            "response_time": 1.12
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 4.38
+            "response_time": 2.38
         },
         {
             "status": "success",
@@ -57,65 +57,8 @@
             "as": "AS62044 Zscaler Switzerland GmbH",
             "query": "165.225.66.42",
             "type": "http",
-            "port": "11588",
-            "response_time": 4.88
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
-            "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.15",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 7.65
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "VD",
-            "regionName": "Vaud",
-            "city": "Lausanne",
-            "zip": "1001",
-            "lat": 46.5189,
-            "lon": 6.6362,
-            "timezone": "Europe/Zurich",
-            "isp": "Saitis Network, N.Desir",
-            "org": "Ordi Services",
-            "as": "AS6893 Saitis Network, N.Desir",
-            "query": "62.220.129.81",
-            "type": "http",
-            "port": "8080",
-            "response_time": 10.38
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "Zurich",
-            "zip": "8008",
-            "lat": 47.3528,
-            "lon": 8.5549,
-            "timezone": "Europe/Zurich",
-            "isp": "Swisscom (Schweiz) AG - Bluewin",
-            "org": "Swisscom (Schweiz) AG",
-            "as": "AS3303 Swisscom (Switzerland) Ltd",
-            "query": "85.1.140.150",
-            "type": "http",
-            "port": "3128",
-            "response_time": 11.9
+            "port": "11589",
+            "response_time": 2.99
         }
     ]
 }
