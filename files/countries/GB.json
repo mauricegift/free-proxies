@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 5,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "18.170.45.5",
             "type": "http",
-            "port": "5051",
-            "response_time": 0.49
+            "port": "6022",
+            "response_time": 1.54
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "198.244.254.77",
             "type": "http",
             "port": "3128",
-            "response_time": 1.45
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "LND",
-            "regionName": "England",
-            "city": "London",
-            "zip": "",
-            "lat": 51.50853,
-            "lon": -0.12574,
-            "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.175.170.244",
-            "type": "http",
-            "port": "4308",
-            "response_time": 2.15
+            "response_time": 1.72
         },
         {
             "status": "success",
@@ -76,8 +57,46 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "18.170.45.5",
             "type": "http",
-            "port": "26887",
-            "response_time": 3.8
+            "port": "4228",
+            "response_time": 2.38
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "LND",
+            "regionName": "England",
+            "city": "London",
+            "zip": "",
+            "lat": 51.50853,
+            "lon": -0.12574,
+            "timezone": "Europe/London",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.175.170.244",
+            "type": "http",
+            "port": "8123",
+            "response_time": 2.49
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "LND",
+            "regionName": "England",
+            "city": "London",
+            "zip": "",
+            "lat": 51.50853,
+            "lon": -0.12574,
+            "timezone": "Europe/London",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (eu-west-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.175.170.244",
+            "type": "http",
+            "port": "3680",
+            "response_time": 3.63
         },
         {
             "status": "success",
@@ -96,7 +115,45 @@
             "query": "5.157.64.213",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.65
+            "response_time": 5.46
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "London",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (uk-london-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "132.145.20.143",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.72
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Worcester",
+            "zip": "WR1",
+            "lat": 52.1941,
+            "lon": -2.21905,
+            "timezone": "Europe/London",
+            "isp": "IONOS SE",
+            "org": "Fasthosts Internet Limited",
+            "as": "AS8560 IONOS SE",
+            "query": "213.171.212.110",
+            "type": "http",
+            "port": "8080",
+            "response_time": 10.62
         }
     ]
 }
