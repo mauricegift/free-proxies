@@ -1,7 +1,7 @@
 {
     "countryCode": "SI",
     "country": "Slovenia",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "31.15.169.77",
             "type": "http",
             "port": "808",
-            "response_time": 9.37
+            "response_time": 5.59
+        },
+        {
+            "status": "success",
+            "country": "Slovenia",
+            "countryCode": "SI",
+            "region": "061",
+            "regionName": "Ljubljana",
+            "city": "Ljubljana",
+            "zip": "1000",
+            "lat": 46.0503,
+            "lon": 14.5046,
+            "timezone": "Europe/Ljubljana",
+            "isp": "A1 Slovenija",
+            "org": "",
+            "as": "AS21283 A1 Slovenija telekomunikacijske storitve,d.d.",
+            "query": "46.122.16.54",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.95
+        },
+        {
+            "status": "success",
+            "country": "Slovenia",
+            "countryCode": "SI",
+            "region": "061",
+            "regionName": "Ljubljana",
+            "city": "Ljubljana",
+            "zip": "1000",
+            "lat": 46.0503,
+            "lon": 14.5046,
+            "timezone": "Europe/Ljubljana",
+            "isp": "ARNES provider",
+            "org": "",
+            "as": "AS2107 ARNES",
+            "query": "109.127.199.112",
+            "type": "http",
+            "port": "9999",
+            "response_time": 11.83
         }
     ]
 }
