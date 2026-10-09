@@ -1,46 +1,8 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AR",
-            "regionName": "Aragon",
-            "city": "Zaragoza",
-            "zip": "",
-            "lat": 41.65606,
-            "lon": -0.87734,
-            "timezone": "Europe/Madrid",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.94.221.175",
-            "type": "http",
-            "port": "26592",
-            "response_time": 2.43
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "CT",
-            "regionName": "Catalonia",
-            "city": "Mollet del Vall\u00e8s",
-            "zip": "08100",
-            "lat": 41.5382,
-            "lon": 2.2154,
-            "timezone": "Europe/Madrid",
-            "isp": "Xtra Telecom S.A.",
-            "org": "Euskaltel CM",
-            "as": "AS15704 XTRA TELECOM S.A.",
-            "query": "85.85.187.31",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.57
-        },
         {
             "status": "success",
             "country": "Spain",
@@ -55,10 +17,10 @@
             "isp": "Amazon.com",
             "org": "AWS EC2 (eu-south-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.217.214.40",
+            "query": "15.217.107.97",
             "type": "http",
-            "port": "34380",
-            "response_time": 4.24
+            "port": "9091",
+            "response_time": 1.2
         },
         {
             "status": "success",
@@ -76,8 +38,46 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "15.217.107.97",
             "type": "http",
-            "port": "7014",
-            "response_time": 4.9
+            "port": "17980",
+            "response_time": 2.17
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28022",
+            "lat": 40.4505,
+            "lon": -3.5926,
+            "timezone": "Europe/Madrid",
+            "isp": "Citelia s.a.",
+            "org": "Fibercli",
+            "as": "AS206276 Citelia s.a.",
+            "query": "193.38.224.169",
+            "type": "http",
+            "port": "8081",
+            "response_time": 3.24
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28070",
+            "lat": 40.4168,
+            "lon": -3.70379,
+            "timezone": "Europe/Madrid",
+            "isp": "Comunitel Global",
+            "org": "Comunitel Global S.A.",
+            "as": "AS12430 VODAFONE ESPANA S.A.U.",
+            "query": "77.225.198.220",
+            "type": "socks4",
+            "port": "4673",
+            "response_time": 5.67
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "194.48.141.34",
             "type": "http",
             "port": "3129",
-            "response_time": 6.11
+            "response_time": 7.24
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28071",
+            "lat": 40.4153,
+            "lon": -3.694,
+            "timezone": "Europe/Madrid",
+            "isp": "Melbikomas UAB",
+            "org": "Melbikomas UAB",
+            "as": "AS56630 Melbikomas UAB",
+            "query": "5.188.183.157",
+            "type": "http",
+            "port": "3128",
+            "response_time": 16.81
         }
     ]
 }
