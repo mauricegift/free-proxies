@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Cheltenham",
-            "zip": "GL50",
-            "lat": 51.9001,
-            "lon": -2.07972,
+            "city": "London",
+            "zip": "",
+            "lat": 51.5123,
+            "lon": -0.0909,
             "timezone": "Europe/London",
-            "isp": "IP River",
-            "org": "",
-            "as": "AS62163 IP River Limited",
-            "query": "5.157.64.213",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.36
+            "isp": "Google LLC",
+            "org": "Google Cloud (europe-west2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.105.252.3",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.29
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "198.244.254.77",
             "type": "http",
             "port": "3128",
-            "response_time": 10.9
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Slough",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "DigitalOcean, LLC",
-            "org": "Digital Ocean",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "178.62.83.124",
-            "type": "http",
-            "port": "32766",
-            "response_time": 13.06
+            "response_time": 2.42
         }
     ]
 }
