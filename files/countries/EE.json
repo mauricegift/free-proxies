@@ -1,8 +1,27 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "37",
+            "regionName": "Harjumaa",
+            "city": "Kuusalu",
+            "zip": "",
+            "lat": 59.4417,
+            "lon": 25.4416,
+            "timezone": "Europe/Tallinn",
+            "isp": "HexCore cloud s.r.o.",
+            "org": "HexCore cloud s.r.o",
+            "as": "AS199144 HexCore cloud s.r.o.",
+            "query": "193.42.112.26",
+            "type": "http",
+            "port": "8080",
+            "response_time": 5.18
+        },
         {
             "status": "success",
             "country": "Estonia",
@@ -20,7 +39,7 @@
             "query": "185.157.111.3",
             "type": "socks4",
             "port": "5678",
-            "response_time": 7.66
+            "response_time": 7.68
         },
         {
             "status": "success",
@@ -29,17 +48,17 @@
             "region": "37",
             "regionName": "Harjumaa",
             "city": "Tallinn",
-            "zip": "10152",
-            "lat": 59.4305,
-            "lon": 24.7516,
+            "zip": "",
+            "lat": 59.437,
+            "lon": 24.7536,
             "timezone": "Europe/Tallinn",
-            "isp": "GloboTech Communications",
-            "org": "Tersys Group OU",
-            "as": "AS36666 GloboTech Communications",
-            "query": "72.10.173.106",
-            "type": "http",
-            "port": "8118",
-            "response_time": 8.18
+            "isp": "Aktsiaselts WaveCom",
+            "org": "EE Wavecom",
+            "as": "AS34702 Aktsiaselts WaveCom",
+            "query": "80.79.123.97",
+            "type": "socks4",
+            "port": "9050",
+            "response_time": 11.14
         }
     ]
 }
