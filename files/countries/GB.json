@@ -1,27 +1,8 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 6,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "LND",
-            "regionName": "England",
-            "city": "London",
-            "zip": "",
-            "lat": 51.50853,
-            "lon": -0.12574,
-            "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.175.170.244",
-            "type": "http",
-            "port": "45933",
-            "response_time": 1.27
-        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -38,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "18.170.45.5",
             "type": "http",
-            "port": "6022",
-            "response_time": 1.47
+            "port": "4228",
+            "response_time": 1.99
         },
         {
             "status": "success",
@@ -47,18 +28,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "London",
-            "zip": "EC1A",
-            "lat": 51.5081,
-            "lon": -0.1278,
+            "city": "Erith",
+            "zip": "DA8",
+            "lat": 51.4808,
+            "lon": 0.174675,
             "timezone": "Europe/London",
             "isp": "OVH SAS",
             "org": "OVH Ltd",
             "as": "AS16276 OVH SAS",
-            "query": "198.244.254.77",
+            "query": "57.128.159.156",
             "type": "http",
-            "port": "3128",
-            "response_time": 2.74
+            "port": "21",
+            "response_time": 8.84
         },
         {
             "status": "success",
@@ -77,45 +58,7 @@
             "query": "82.9.133.51",
             "type": "socks5",
             "port": "9150",
-            "response_time": 3.38
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Islington",
-            "zip": "EC1V",
-            "lat": 51.5269,
-            "lon": -0.0991,
-            "timezone": "Europe/London",
-            "isp": "Time-host LTD",
-            "org": "Time-host LTD",
-            "as": "AS212913 TIME-HOST LTD",
-            "query": "31.148.99.133",
-            "type": "http",
-            "port": "4000",
-            "response_time": 6.28
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Slough",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "143.110.161.67",
-            "type": "socks4",
-            "port": "10000",
-            "response_time": 8.35
+            "response_time": 10.29
         }
     ]
 }
