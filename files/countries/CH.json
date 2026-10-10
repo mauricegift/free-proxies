@@ -1,27 +1,8 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
-            "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.15",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 1.28
-        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -39,7 +20,45 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 3.2
+            "response_time": 1.0
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "W\u00e4denswil",
+            "zip": "8820",
+            "lat": 47.2258,
+            "lon": 8.66224,
+            "timezone": "Europe/Zurich",
+            "isp": "netz116",
+            "org": "Rolf Tschumi (MGW Online)",
+            "as": "AS48971 DATAWIRE AG",
+            "query": "195.225.116.15",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 4.34
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "W\u00e4denswil",
+            "zip": "8820",
+            "lat": 47.2258,
+            "lon": 8.66224,
+            "timezone": "Europe/Zurich",
+            "isp": "netz116",
+            "org": "Rolf Tschumi (MGW Online)",
+            "as": "AS48971 DATAWIRE AG",
+            "query": "195.225.116.14",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 5.34
         }
     ]
 }
