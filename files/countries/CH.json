@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 3,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 0.96
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "ZH",
-            "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
-            "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.14",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 4.28
+            "response_time": 1.06
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "195.225.116.15",
             "type": "socks4",
             "port": "4145",
-            "response_time": 8.15
+            "response_time": 4.31
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "GE",
+            "regionName": "Geneva",
+            "city": "Geneva",
+            "zip": "1200",
+            "lat": 46.2044,
+            "lon": 6.14316,
+            "timezone": "Europe/Zurich",
+            "isp": "Infomaniak Network SA",
+            "org": "Infomaniak Cloud",
+            "as": "AS29222 Infomaniak",
+            "query": "179.237.106.243",
+            "type": "socks5",
+            "port": "443",
+            "response_time": 5.99
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8008",
+            "lat": 47.3528,
+            "lon": 8.5549,
+            "timezone": "Europe/Zurich",
+            "isp": "Swisscom (Schweiz) AG - Bluewin",
+            "org": "Swisscom (Schweiz) AG",
+            "as": "AS3303 Swisscom (Switzerland) Ltd",
+            "query": "85.1.140.150",
+            "type": "http",
+            "port": "3128",
+            "response_time": 13.03
         }
     ]
 }
