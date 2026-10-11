@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00121",
-            "lat": 60.1699,
-            "lon": 24.9384,
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "UpCloud Ltd",
-            "org": "",
-            "as": "AS202053 UpCloud Ltd",
-            "query": "212.147.232.251",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner Online GmbH",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "65.108.159.129",
             "type": "http",
-            "port": "80",
-            "response_time": 1.19
+            "port": "8080",
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -38,8 +38,65 @@
             "as": "AS24940 Hetzner Online GmbH",
             "query": "65.108.159.129",
             "type": "http",
-            "port": "5678",
-            "response_time": 2.0
+            "port": "5153",
+            "response_time": 3.6
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
+            "timezone": "Europe/Helsinki",
+            "isp": "UpCloud Ltd",
+            "org": "",
+            "as": "AS202053 UpCloud Ltd",
+            "query": "212.147.232.251",
+            "type": "http",
+            "port": "80",
+            "response_time": 4.34
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
+            "timezone": "Europe/Helsinki",
+            "isp": "DpkgSoft International Limited",
+            "org": "Xorek.Cloud Helsinki",
+            "as": "AS215590 DpkgSoft International Limited",
+            "query": "2.27.53.95",
+            "type": "http",
+            "port": "3128",
+            "response_time": 9.11
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "18",
+            "regionName": "Uusimaa",
+            "city": "Helsinki",
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
+            "timezone": "Europe/Helsinki",
+            "isp": "First Server Limited",
+            "org": "FIRST SERVER, SOCIEDAD LIMITADA",
+            "as": "AS200740 FIRST SERVER LIMITED",
+            "query": "103.85.112.65",
+            "type": "socks5",
+            "port": "8080",
+            "response_time": 11.95
         }
     ]
 }
