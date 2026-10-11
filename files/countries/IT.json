@@ -1,7 +1,7 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 8,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,7 @@
             "query": "46.21.186.252",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.26
-        },
-        {
-            "status": "success",
-            "country": "Italy",
-            "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Siena",
-            "zip": "53100",
-            "lat": 43.3218,
-            "lon": 11.3262,
-            "timezone": "Europe/Rome",
-            "isp": "Consorzio Terrecablate",
-            "org": "Provincia Siena",
-            "as": "AS43960 Consorzio Terrecablate",
-            "query": "93.187.25.12",
-            "type": "http",
-            "port": "58080",
-            "response_time": 3.38
+            "response_time": 0.32
         },
         {
             "status": "success",
@@ -58,26 +39,26 @@
             "query": "94.198.213.252",
             "type": "socks4",
             "port": "5678",
-            "response_time": 4.41
+            "response_time": 0.34
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "21",
-            "regionName": "Piedmont",
-            "city": "Rivoli",
-            "zip": "10098",
-            "lat": 45.0711,
-            "lon": 7.5254,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Blevio",
+            "zip": "22020",
+            "lat": 45.8438,
+            "lon": 9.1007,
             "timezone": "Europe/Rome",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Corporation",
-            "as": "AS31898 Oracle Corporation",
-            "query": "84.8.248.36",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.63
+            "isp": "LA Wireless Srl",
+            "org": "LAwireless",
+            "as": "AS49979 LA Wireless Srl",
+            "query": "109.70.206.178",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.18
         },
         {
             "status": "success",
@@ -96,7 +77,26 @@
             "query": "171.22.182.164",
             "type": "socks4",
             "port": "1080",
-            "response_time": 7.77
+            "response_time": 2.52
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "21",
+            "regionName": "Piedmont",
+            "city": "Rivoli",
+            "zip": "10098",
+            "lat": 45.0711,
+            "lon": 7.5254,
+            "timezone": "Europe/Rome",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Corporation",
+            "as": "AS31898 Oracle Corporation",
+            "query": "84.8.248.36",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.66
         },
         {
             "status": "success",
@@ -112,10 +112,29 @@
             "isp": "T&T Tecnologie e Telecomunicazioni Srl",
             "org": "T&T Tecnologie e Telecomunicazioni Srl",
             "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
-            "query": "91.192.25.37",
+            "query": "91.192.25.158",
             "type": "socks4",
-            "port": "80",
-            "response_time": 7.82
+            "port": "4145",
+            "response_time": 5.04
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "62",
+            "regionName": "Lazio",
+            "city": "Pomezia",
+            "zip": "00071",
+            "lat": 41.6693,
+            "lon": 12.5012,
+            "timezone": "Europe/Rome",
+            "isp": "Cinzia Tocci trading as Lumanex Srl",
+            "org": "C1V ISP",
+            "as": "AS212271 Cinzia Tocci trading as Lumanex Srl",
+            "query": "5.59.248.134",
+            "type": "socks4",
+            "port": "8081",
+            "response_time": 5.72
         },
         {
             "status": "success",
@@ -131,29 +150,48 @@
             "isp": "Fastweb Networks",
             "org": "",
             "as": "AS12874 Fastweb SpA",
-            "query": "93.55.126.190",
+            "query": "93.55.126.184",
             "type": "http",
             "port": "8080",
-            "response_time": 8.1
+            "response_time": 8.01
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "52",
-            "regionName": "Tuscany",
-            "city": "Arezzo",
-            "zip": "52100",
-            "lat": 43.4631,
-            "lon": 11.8783,
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
             "timezone": "Europe/Rome",
-            "isp": "Aruba S.p.A.",
-            "org": "Aruba S.p.A.",
-            "as": "AS31034 Aruba S.p.A.",
-            "query": "77.81.230.90",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 15.54
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.0",
+            "type": "http",
+            "port": "8081",
+            "response_time": 8.97
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20100",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Mywic Costumers",
+            "org": "",
+            "as": "AS44092 HAL Service SpA",
+            "query": "185.191.106.41",
+            "type": "http",
+            "port": "8081",
+            "response_time": 13.33
         }
     ]
 }
