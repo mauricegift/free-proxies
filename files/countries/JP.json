@@ -1,7 +1,7 @@
 {
     "countryCode": "JP",
     "country": "Japan",
-    "count": 9,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "217.142.236.180",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.17
+            "response_time": 1.02
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Minamishinagawa",
+            "zip": "140-0001",
+            "lat": 35.6164,
+            "lon": 139.7425,
+            "timezone": "Asia/Tokyo",
+            "isp": "The Constant Company",
+            "org": "Vultr Holdings, LLC",
+            "as": "AS20473 The Constant Company, LLC",
+            "query": "45.76.104.147",
+            "type": "socks4",
+            "port": "40001",
+            "response_time": 2.34
         },
         {
             "status": "success",
@@ -39,7 +58,45 @@
             "query": "205.177.85.130",
             "type": "socks4",
             "port": "39593",
-            "response_time": 1.28
+            "response_time": 2.45
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "13",
+            "regionName": "Tokyo",
+            "city": "Tokyo",
+            "zip": "151-0053",
+            "lat": 35.6893,
+            "lon": 139.6899,
+            "timezone": "Asia/Tokyo",
+            "isp": "HIVELOCITY, Inc.",
+            "org": "Strasmore, Inc.",
+            "as": "AS29802 HIVELOCITY, Inc.",
+            "query": "209.182.234.151",
+            "type": "socks4",
+            "port": "40000",
+            "response_time": 3.13
+        },
+        {
+            "status": "success",
+            "country": "Japan",
+            "countryCode": "JP",
+            "region": "47",
+            "regionName": "Okinawa",
+            "city": "Ishigaki",
+            "zip": "907-0004",
+            "lat": 24.3448,
+            "lon": 124.157,
+            "timezone": "Asia/Tokyo",
+            "isp": "Open Computer Network",
+            "org": "Open Computer Network",
+            "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+            "query": "61.118.38.234",
+            "type": "http",
+            "port": "60808",
+            "response_time": 6.16
         },
         {
             "status": "success",
@@ -58,26 +115,7 @@
             "query": "140.238.32.108",
             "type": "http",
             "port": "3128",
-            "response_time": 1.34
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Minamishinagawa",
-            "zip": "140-0001",
-            "lat": 35.6164,
-            "lon": 139.7425,
-            "timezone": "Asia/Tokyo",
-            "isp": "The Constant Company",
-            "org": "Vultr Holdings, LLC",
-            "as": "AS20473 The Constant Company, LLC",
-            "query": "45.76.104.147",
-            "type": "socks5",
-            "port": "40001",
-            "response_time": 1.76
+            "response_time": 7.23
         },
         {
             "status": "success",
@@ -96,45 +134,7 @@
             "query": "43.246.198.172",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.16
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Tokyo",
-            "zip": "270-1351",
-            "lat": 35.798,
-            "lon": 140.1803,
-            "timezone": "Asia/Tokyo",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "158.101.89.163",
-            "type": "http",
-            "port": "3123",
-            "response_time": 5.79
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "13",
-            "regionName": "Tokyo",
-            "city": "Shinjuku",
-            "zip": "289-2605",
-            "lat": 35.7139,
-            "lon": 139.702,
-            "timezone": "Asia/Tokyo",
-            "isp": "Reis Network Solutions",
-            "org": "Kdash D16",
-            "as": "AS140171 Reis Network Solutions",
-            "query": "103.38.183.18",
-            "type": "socks4",
-            "port": "1088",
-            "response_time": 5.84
+            "response_time": 8.55
         },
         {
             "status": "success",
@@ -147,32 +147,13 @@
             "lat": 35.6893,
             "lon": 139.6899,
             "timezone": "Asia/Tokyo",
-            "isp": "Acck LLC",
-            "org": "Akile LTD",
-            "as": "AS401615 ACCK LLC",
-            "query": "45.192.198.50",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.165.133.188",
             "type": "socks5",
-            "port": "40001",
-            "response_time": 8.36
-        },
-        {
-            "status": "success",
-            "country": "Japan",
-            "countryCode": "JP",
-            "region": "27",
-            "regionName": "Osaka",
-            "city": "Osaka",
-            "zip": "540-0002",
-            "lat": 34.706,
-            "lon": 135.493,
-            "timezone": "Asia/Tokyo",
-            "isp": "SAKURA Internet Inc.",
-            "org": "SAKURA",
-            "as": "AS9370 SAKURA Internet Inc.",
-            "query": "163.43.113.134",
-            "type": "http",
-            "port": "80",
-            "response_time": 9.9
+            "port": "9050",
+            "response_time": 14.02
         }
     ]
 }
