@@ -1,7 +1,7 @@
 {
     "countryCode": "SK",
     "country": "Slovakia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "185.98.208.98",
             "type": "socks4",
             "port": "28000",
-            "response_time": 0.42
+            "response_time": 0.27
         },
         {
             "status": "success",
             "country": "Slovakia",
             "countryCode": "SK",
-            "region": "TA",
-            "regionName": "Trnava Region",
-            "city": "Borovce",
-            "zip": "922 09",
-            "lat": 48.5714,
-            "lon": 17.7513,
+            "region": "BL",
+            "regionName": "Bratislava Region",
+            "city": "Bratislava",
+            "zip": "811 03",
+            "lat": 48.157,
+            "lon": 17.0915,
+            "timezone": "Europe/Bratislava",
+            "isp": "VNET a.s.",
+            "org": "VNET a.s.",
+            "as": "AS29405 VNET a.s.",
+            "query": "86.110.236.27",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.21
+        },
+        {
+            "status": "success",
+            "country": "Slovakia",
+            "countryCode": "SK",
+            "region": "NI",
+            "regionName": "Nitra Region",
+            "city": "Kol\u00e1rovo",
+            "zip": "946 03",
+            "lat": 47.9261,
+            "lon": 17.9882,
             "timezone": "Europe/Bratislava",
             "isp": "Slovanet a.s.",
-            "org": "Slovanet",
-            "as": "AS31679 Slovanet a.s.",
-            "query": "185.165.36.136",
+            "org": "Gutanet",
+            "as": "AS12426 Slovanet a.s.",
+            "query": "217.145.199.47",
             "type": "socks4",
-            "port": "8889",
-            "response_time": 2.29
+            "port": "56746",
+            "response_time": 17.77
         }
     ]
 }
