@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,55 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "H4E",
-            "lat": 45.4554,
-            "lon": -73.5946,
+            "zip": "H3H",
+            "lat": 45.5075,
+            "lon": -73.5887,
             "timezone": "America/Toronto",
-            "isp": "Bell Canada",
-            "org": "Bell Canada",
-            "as": "AS577 Bell Canada",
-            "query": "142.112.52.229",
+            "isp": "Rica Web Services",
+            "org": "Rica Web Services",
+            "as": "AS26832 Rica Web Services",
+            "query": "38.49.210.79",
+            "type": "socks5",
+            "port": "40000",
+            "response_time": 0.59
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Toronto",
+            "zip": "M3C",
+            "lat": 43.7338,
+            "lon": -79.3325,
+            "timezone": "America/Toronto",
+            "isp": "BrainStorm Network, Inc",
+            "org": "Oneprovider.com",
+            "as": "AS136258 BrainStorm Network, Inc",
+            "query": "185.196.61.251",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.67
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H3K",
+            "lat": 45.4803,
+            "lon": -73.5558,
+            "timezone": "America/Toronto",
+            "isp": "Le Groupe Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "24.37.245.42",
             "type": "socks4",
-            "port": "8443",
-            "response_time": 0.6
+            "port": "51056",
+            "response_time": 1.77
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "184.75.221.82",
             "type": "http",
             "port": "3118",
-            "response_time": 1.04
+            "response_time": 2.78
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "ON",
+            "regionName": "Ontario",
+            "city": "Markham",
+            "zip": "L3R",
+            "lat": 43.8354,
+            "lon": -79.3308,
+            "timezone": "America/Toronto",
+            "isp": "TELUS Communications Inc",
+            "org": "TELUS Mobility-Ontario",
+            "as": "AS852 TELUS Communications Inc.",
+            "query": "173.182.69.5",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 4.51
         },
         {
             "status": "success",
@@ -58,7 +115,7 @@
             "query": "45.81.154.75",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.72
+            "response_time": 7.8
         },
         {
             "status": "success",
@@ -66,18 +123,18 @@
             "countryCode": "CA",
             "region": "QC",
             "regionName": "Quebec",
-            "city": "Beauharnois",
-            "zip": "J6N",
-            "lat": 45.3161,
-            "lon": -73.8736,
+            "city": "Montreal",
+            "zip": "H4X",
+            "lat": 45.5029,
+            "lon": -73.5723,
             "timezone": "America/Toronto",
             "isp": "OVH SAS",
-            "org": "OVH",
+            "org": "OVH Hosting, Inc.",
             "as": "AS16276 OVH SAS",
-            "query": "144.217.107.25",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 8.36
+            "query": "198.245.60.202",
+            "type": "http",
+            "port": "3128",
+            "response_time": 14.23
         }
     ]
 }
