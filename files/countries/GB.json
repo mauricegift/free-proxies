@@ -1,27 +1,8 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 4,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "EC1A",
-            "lat": 51.5081,
-            "lon": -0.1278,
-            "timezone": "Europe/London",
-            "isp": "OVH SAS",
-            "org": "OVH Ltd",
-            "as": "AS16276 OVH SAS",
-            "query": "198.244.254.77",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.21
-        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -39,7 +20,7 @@
             "query": "143.110.161.67",
             "type": "http",
             "port": "10000",
-            "response_time": 14.94
+            "response_time": 0.15
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "143.110.161.67",
             "type": "socks4",
             "port": "10000",
-            "response_time": 14.94
+            "response_time": 0.15
         },
         {
             "status": "success",
@@ -71,13 +52,70 @@
             "lat": 51.5123,
             "lon": -0.0909,
             "timezone": "Europe/London",
-            "isp": "GTHost",
-            "org": "objx.net",
-            "as": "AS63023 GTHost",
-            "query": "186.190.211.67",
+            "isp": "Google LLC",
+            "org": "Google Cloud (europe-west2)",
+            "as": "AS396982 Google LLC",
+            "query": "34.105.252.3",
             "type": "http",
-            "port": "80",
-            "response_time": 22.97
+            "port": "3128",
+            "response_time": 0.29
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Cheltenham",
+            "zip": "GL50",
+            "lat": 51.9001,
+            "lon": -2.07972,
+            "timezone": "Europe/London",
+            "isp": "IP River",
+            "org": "",
+            "as": "AS62163 IP River Limited",
+            "query": "5.157.64.213",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.42
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "DIGITALOCEAN",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "139.59.191.69",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.24
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
+            "timezone": "Europe/London",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digitalocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "178.128.40.78",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.93
         }
     ]
 }
