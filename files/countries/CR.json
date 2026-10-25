@@ -1,8 +1,27 @@
 {
     "countryCode": "CR",
     "country": "Costa Rica",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Costa Rica",
+            "countryCode": "CR",
+            "region": "SJ",
+            "regionName": "Provincia de San Jos\u00e9",
+            "city": "San Jos\u00e9",
+            "zip": "10102",
+            "lat": 9.9333,
+            "lon": -84.0845,
+            "timezone": "America/Costa_Rica",
+            "isp": "Comunicaciones Metropolitanas METROCOM, S.A.",
+            "org": "Comunicaciones Metropolitanas METROCOM, S.A.",
+            "as": "AS266853 Comunicaciones Metropolitanas METROCOM, S.A.",
+            "query": "38.210.160.159",
+            "type": "http",
+            "port": "8080",
+            "response_time": null
+        },
         {
             "status": "success",
             "country": "Costa Rica",
@@ -20,7 +39,7 @@
             "query": "200.192.236.242",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.11
+            "response_time": null
         }
     ]
 }
