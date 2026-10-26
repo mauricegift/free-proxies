@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "D",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "",
+            "lat": 53.33306,
+            "lon": -6.24889,
+            "timezone": "Europe/Dublin",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "52.214.92.206",
+            "type": "http",
+            "port": "51209",
+            "response_time": null
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -19,8 +38,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.152.118",
             "type": "http",
-            "port": "52719",
-            "response_time": 1.35
+            "port": "26990",
+            "response_time": null
         }
     ]
 }
