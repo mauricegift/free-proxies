@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -10,16 +10,35 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00240",
-            "lat": 60.2067,
-            "lon": 24.9245,
+            "zip": "00221",
+            "lat": 60.1719,
+            "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "U1 DIGITAL SERVICES LTD",
-            "org": "u1host Finland",
-            "as": "AS213877 U1 DIGITAL SERVICES LTD",
-            "query": "2.27.47.146",
+            "isp": "Hetzner Online GmbH",
+            "org": "Hetzner Online GmbH",
+            "as": "AS24940 Hetzner Online GmbH",
+            "query": "65.108.159.129",
             "type": "http",
-            "port": "3128",
+            "port": "999",
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Finland",
+            "countryCode": "FI",
+            "region": "02",
+            "regionName": "South Karelia",
+            "city": "Lappeenranta",
+            "zip": "",
+            "lat": 61.0549,
+            "lon": 28.1896,
+            "timezone": "Europe/Helsinki",
+            "isp": "Google LLC",
+            "org": "Google Cloud (europe-north1)",
+            "as": "AS396982 Google LLC",
+            "query": "34.88.38.81",
+            "type": "http",
+            "port": "9443",
             "response_time": null
         }
     ]
