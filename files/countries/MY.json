@@ -1,7 +1,7 @@
 {
     "countryCode": "MY",
     "country": "Malaysia",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "56.68.116.64",
             "type": "http",
-            "port": "52083",
-            "response_time": 2.07
+            "port": "5555",
+            "response_time": null
         },
         {
             "status": "success",
@@ -38,8 +38,27 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "56.68.116.64",
             "type": "http",
-            "port": "48247",
-            "response_time": 2.42
+            "port": "52083",
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Malaysia",
+            "countryCode": "MY",
+            "region": "05",
+            "regionName": "Negeri Sembilan",
+            "city": "Seremban",
+            "zip": "70300",
+            "lat": 2.7273,
+            "lon": 101.9337,
+            "timezone": "Asia/Kuala_Lumpur",
+            "isp": "TMnet",
+            "org": "",
+            "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "query": "219.94.75.224",
+            "type": "http",
+            "port": "8080",
+            "response_time": null
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "56.68.116.64",
             "type": "http",
             "port": "10086",
-            "response_time": 3.32
+            "response_time": null
         },
         {
             "status": "success",
@@ -76,8 +95,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "56.68.116.64",
             "type": "http",
-            "port": "5555",
-            "response_time": 3.58
+            "port": "48247",
+            "response_time": null
         }
     ]
 }
