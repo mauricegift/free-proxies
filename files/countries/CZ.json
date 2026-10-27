@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,6 +20,25 @@
             "query": "103.119.19.218",
             "type": "http",
             "port": "3128",
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "150 00",
+            "lat": 50.0687,
+            "lon": 14.3947,
+            "timezone": "Europe/Prague",
+            "isp": "Druzstvo EUROSIGNAL",
+            "org": "Eurosignal",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.102.149",
+            "type": "http",
+            "port": "800",
             "response_time": null
         }
     ]
