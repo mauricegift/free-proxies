@@ -1,7 +1,7 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,9 +17,28 @@
             "isp": "A1 Bulgaria EAD",
             "org": "ESRI BULGARIA Network",
             "as": "AS8717 A1 Bulgaria EAD",
-            "query": "213.169.33.12",
+            "query": "213.169.33.7",
             "type": "http",
             "port": "8001",
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
+            "timezone": "Europe/Sofia",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
+            "type": "http",
+            "port": "8080",
             "response_time": null
         }
     ]
