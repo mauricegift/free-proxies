@@ -1,8 +1,27 @@
 {
     "countryCode": "SG",
     "country": "Singapore",
-    "count": 10,
+    "count": 13,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "01",
+            "regionName": "Central Singapore",
+            "city": "Singapore",
+            "zip": "757695",
+            "lat": 1.28967,
+            "lon": 103.85007,
+            "timezone": "Asia/Singapore",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.142.95.213",
+            "type": "http",
+            "port": "38141",
+            "response_time": null
+        },
         {
             "status": "success",
             "country": "Singapore",
@@ -20,7 +39,7 @@
             "query": "159.223.41.216",
             "type": "http",
             "port": "9090",
-            "response_time": 0.96
+            "response_time": null
         },
         {
             "status": "success",
@@ -39,64 +58,7 @@
             "query": "43.159.54.178",
             "type": "http",
             "port": "80",
-            "response_time": 0.96
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "03",
-            "regionName": "North West",
-            "city": "Singapore",
-            "zip": "858877",
-            "lat": 1.35208,
-            "lon": 103.82,
-            "timezone": "Asia/Singapore",
-            "isp": "Shenzhen Tencent Computer Systems Company Limited",
-            "org": "Tencent Cloud Computing",
-            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
-            "query": "43.156.236.238",
-            "type": "http",
-            "port": "80",
-            "response_time": 1.42
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "757695",
-            "lat": 1.28967,
-            "lon": 103.85007,
-            "timezone": "Asia/Singapore",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.142.95.213",
-            "type": "http",
-            "port": "42298",
-            "response_time": 2.47
-        },
-        {
-            "status": "success",
-            "country": "Singapore",
-            "countryCode": "SG",
-            "region": "01",
-            "regionName": "Central Singapore",
-            "city": "Singapore",
-            "zip": "757695",
-            "lat": 1.28967,
-            "lon": 103.85007,
-            "timezone": "Asia/Singapore",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-southeast-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "54.255.249.161",
-            "type": "http",
-            "port": "54360",
-            "response_time": 3.02
+            "response_time": null
         },
         {
             "status": "success",
@@ -115,7 +77,26 @@
             "query": "54.255.249.161",
             "type": "http",
             "port": "55107",
-            "response_time": 3.48
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "143.198.85.218",
+            "type": "http",
+            "port": "3128",
+            "response_time": null
         },
         {
             "status": "success",
@@ -134,7 +115,26 @@
             "query": "18.142.95.213",
             "type": "http",
             "port": "32743",
-            "response_time": 3.66
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "PT Perwira Media Solusi",
+            "org": "PT Perwira Media Solusi",
+            "as": "AS211407 AS Perwira Media",
+            "query": "151.242.116.178",
+            "type": "http",
+            "port": "8181",
+            "response_time": null
         },
         {
             "status": "success",
@@ -147,13 +147,32 @@
             "lat": 1.28967,
             "lon": 103.85007,
             "timezone": "Asia/Singapore",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ap-southeast-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.142.95.213",
+            "query": "54.255.249.161",
             "type": "http",
-            "port": "38141",
-            "response_time": 5.49
+            "port": "54360",
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "05",
+            "regionName": "South West",
+            "city": "Singapore",
+            "zip": "627753",
+            "lat": 1.32123,
+            "lon": 103.695,
+            "timezone": "Asia/Singapore",
+            "isp": "DigitalOcean, LLC",
+            "org": "Digital Ocean",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "152.42.170.187",
+            "type": "http",
+            "port": "9090",
+            "response_time": null
         },
         {
             "status": "success",
@@ -172,7 +191,26 @@
             "query": "82.41.42.17",
             "type": "http",
             "port": "8080",
-            "response_time": 5.72
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "03",
+            "regionName": "North West",
+            "city": "Singapore",
+            "zip": "858877",
+            "lat": 1.35208,
+            "lon": 103.82,
+            "timezone": "Asia/Singapore",
+            "isp": "Shenzhen Tencent Computer Systems Company Limited",
+            "org": "Tencent Cloud Computing",
+            "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+            "query": "43.156.236.238",
+            "type": "http",
+            "port": "80",
+            "response_time": null
         },
         {
             "status": "success",
@@ -191,7 +229,26 @@
             "query": "18.142.95.213",
             "type": "http",
             "port": "1029",
-            "response_time": 8.46
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Singapore",
+            "countryCode": "SG",
+            "region": "01",
+            "regionName": "Central Singapore",
+            "city": "Singapore",
+            "zip": "757695",
+            "lat": 1.28967,
+            "lon": 103.85007,
+            "timezone": "Asia/Singapore",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "18.142.95.213",
+            "type": "http",
+            "port": "42298",
+            "response_time": null
         }
     ]
 }
