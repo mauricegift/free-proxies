@@ -1,8 +1,46 @@
 {
     "countryCode": "BG",
     "country": "Bulgaria",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "09",
+            "regionName": "Kardzhali",
+            "city": "Kardzhali",
+            "zip": "6600",
+            "lat": 41.6439,
+            "lon": 25.3594,
+            "timezone": "Europe/Sofia",
+            "isp": "Technolux Ltd",
+            "org": "Technolux Ltd.",
+            "as": "AS199173 TechnoLux Ltd.",
+            "query": "85.187.224.21",
+            "type": "http",
+            "port": "8080",
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Bulgaria",
+            "countryCode": "BG",
+            "region": "20",
+            "regionName": "Sliven",
+            "city": "Ticha",
+            "zip": "8980",
+            "lat": 42.9639,
+            "lon": 26.4371,
+            "timezone": "Europe/Sofia",
+            "isp": "Rutil Ltd.",
+            "org": "Rutil Ltd",
+            "as": "AS21249 Rutil Ltd.",
+            "query": "79.110.118.15",
+            "type": "http",
+            "port": "8085",
+            "response_time": null
+        },
         {
             "status": "success",
             "country": "Bulgaria",
@@ -20,7 +58,7 @@
             "query": "85.196.179.34",
             "type": "http",
             "port": "8080",
-            "response_time": 7.9
+            "response_time": null
         }
     ]
 }
