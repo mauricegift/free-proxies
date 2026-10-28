@@ -1,8 +1,27 @@
 {
     "countryCode": "DE",
     "country": "Germany",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Germany",
+            "countryCode": "DE",
+            "region": "HE",
+            "regionName": "Hesse",
+            "city": "Frankfurt am Main",
+            "zip": "60313",
+            "lat": 50.1169,
+            "lon": 8.6837,
+            "timezone": "Europe/Berlin",
+            "isp": "Global Connectivity Solutions LLP",
+            "org": "Global Connectivity Solutions LLP",
+            "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+            "query": "77.110.107.229",
+            "type": "http",
+            "port": "8080",
+            "response_time": null
+        },
         {
             "status": "success",
             "country": "Germany",
@@ -20,7 +39,7 @@
             "query": "185.166.196.14",
             "type": "http",
             "port": "3128",
-            "response_time": 3.36
+            "response_time": null
         }
     ]
 }
