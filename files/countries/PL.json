@@ -1,7 +1,7 @@
 {
     "countryCode": "PL",
     "country": "Poland",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "94.249.180.231",
             "type": "http",
             "port": "8080",
-            "response_time": 4.97
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "28",
+            "regionName": "Warmia-Masuria",
+            "city": "T\u0142okowo",
+            "zip": "11-320",
+            "lat": 54.0057,
+            "lon": 20.7445,
+            "timezone": "Europe/Warsaw",
+            "isp": "Netservice",
+            "org": "",
+            "as": "AS201637 Tomasz Naruszewicz",
+            "query": "185.140.103.22",
+            "type": "http",
+            "port": "8080",
+            "response_time": null
         },
         {
             "status": "success",
@@ -36,10 +55,10 @@
             "isp": "LUKASZ KUZMINSKI trading as RADIO",
             "org": "RADIO",
             "as": "AS207221 LUKASZ KUZMINSKI trading as RADIO-NET",
-            "query": "185.238.238.29",
+            "query": "185.238.238.169",
             "type": "http",
             "port": "58080",
-            "response_time": 5.71
+            "response_time": null
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "185.238.238.137",
             "type": "http",
             "port": "58080",
-            "response_time": 8.55
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "02",
+            "regionName": "Lower Silesia",
+            "city": "Koropatnik",
+            "zip": "57-100",
+            "lat": 50.7482,
+            "lon": 17.1024,
+            "timezone": "Europe/Warsaw",
+            "isp": "LUKASZ KUZMINSKI trading as RADIO",
+            "org": "RADIO",
+            "as": "AS207221 LUKASZ KUZMINSKI trading as RADIO-NET",
+            "query": "185.238.238.29",
+            "type": "http",
+            "port": "58080",
+            "response_time": null
         }
     ]
 }
