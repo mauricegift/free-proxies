@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,9 +17,28 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.170.45.5",
+            "query": "18.175.170.244",
             "type": "http",
-            "port": "6022",
+            "port": "29343",
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "United Kingdom",
+            "countryCode": "GB",
+            "region": "ENG",
+            "regionName": "England",
+            "city": "City of London",
+            "zip": "EC4N",
+            "lat": 51.5164,
+            "lon": -0.093,
+            "timezone": "Europe/London",
+            "isp": "Ipxo LLC",
+            "org": "Ipxo LLC",
+            "as": "AS203758 EUGAMEHOST LTD",
+            "query": "23.26.247.126",
+            "type": "http",
+            "port": "3128",
             "response_time": null
         }
     ]
