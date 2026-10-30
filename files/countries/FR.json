@@ -1,7 +1,7 @@
 {
     "countryCode": "FR",
     "country": "France",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "13.38.27.183",
             "type": "http",
             "port": "35577",
-            "response_time": 1.56
+            "response_time": null
+        },
+        {
+            "status": "success",
+            "country": "France",
+            "countryCode": "FR",
+            "region": "GES",
+            "regionName": "Grand Est",
+            "city": "Strasbourg",
+            "zip": "67000",
+            "lat": 48.5848,
+            "lon": 7.7419,
+            "timezone": "Europe/Paris",
+            "isp": "Host Europe GmbH",
+            "org": "Host Europe GmbH",
+            "as": "AS21499 Host Europe GmbH",
+            "query": "92.205.186.129",
+            "type": "http",
+            "port": "1080",
+            "response_time": null
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "13.38.27.183",
             "type": "http",
             "port": "1090",
-            "response_time": 1.8
+            "response_time": null
         }
     ]
 }
