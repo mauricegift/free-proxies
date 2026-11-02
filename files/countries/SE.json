@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3326,
+            "lon": 18.0651,
+            "timezone": "Europe/Stockholm",
+            "isp": "Stockholms Stadsnat AB",
+            "org": "Stockholms Stadsnat AB",
+            "as": "AS50821 Bredband2 Stockholms Stadsnaet AB",
+            "query": "46.39.105.157",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.55
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -20,7 +39,45 @@
             "query": "56.228.13.15",
             "type": "http",
             "port": "42938",
-            "response_time": 0.65
+            "response_time": 1.8
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "N",
+            "regionName": "Halland County",
+            "city": "Halmstad",
+            "zip": "302 28",
+            "lat": 56.6732,
+            "lon": 12.8598,
+            "timezone": "Europe/Stockholm",
+            "isp": "Bahnhof Internet",
+            "org": "Bahnhof AB",
+            "as": "AS8473 Bahnhof AB",
+            "query": "46.59.120.87",
+            "type": "http",
+            "port": "81",
+            "response_time": 2.74
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "M",
+            "regionName": "Sk\u00e5ne County",
+            "city": "Malm\u00f6",
+            "zip": "200 01",
+            "lat": 55.6078,
+            "lon": 12.9982,
+            "timezone": "Europe/Stockholm",
+            "isp": "Telia Company AB",
+            "org": "Telia Network Services",
+            "as": "AS3301 Telia Company AB",
+            "query": "81.228.44.187",
+            "type": "socks4",
+            "port": "65530",
+            "response_time": 8.71
         }
     ]
 }
