@@ -1,7 +1,7 @@
 {
     "countryCode": "FI",
     "country": "Finland",
-    "count": 7,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "176.124.206.150",
             "type": "socks5",
             "port": "8443",
-            "response_time": 0.52
+            "response_time": 0.61
         },
         {
             "status": "success",
@@ -33,13 +33,13 @@
             "lat": 60.1719,
             "lon": 24.9347,
             "timezone": "Europe/Helsinki",
-            "isp": "Hetzner Online GmbH",
-            "org": "Hetzner Online GmbH",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "65.108.203.37",
+            "isp": "Hostkey B.V.",
+            "org": "Hostkey B.V",
+            "as": "AS57043 HOSTKEY B.V.",
+            "query": "82.40.58.188",
             "type": "http",
-            "port": "28080",
-            "response_time": 0.85
+            "port": "8080",
+            "response_time": 4.79
         },
         {
             "status": "success",
@@ -48,36 +48,17 @@
             "region": "18",
             "regionName": "Uusimaa",
             "city": "Helsinki",
-            "zip": "00221",
-            "lat": 60.1719,
-            "lon": 24.9347,
+            "zip": "00121",
+            "lat": 60.1699,
+            "lon": 24.9384,
             "timezone": "Europe/Helsinki",
-            "isp": "Hetzner Online GmbH",
-            "org": "Hetzner Online GmbH",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "65.108.159.129",
-            "type": "http",
+            "isp": "First Server Limited",
+            "org": "First Server Limited",
+            "as": "AS204339 FIRST SERVER LIMITED",
+            "query": "91.186.211.105",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 1.8
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00221",
-            "lat": 60.1719,
-            "lon": 24.9347,
-            "timezone": "Europe/Helsinki",
-            "isp": "Hetzner Online GmbH",
-            "org": "HETZNER-DC",
-            "as": "AS24940 Hetzner Online GmbH",
-            "query": "95.217.119.215",
-            "type": "socks4",
-            "port": "60001",
-            "response_time": 3.21
+            "response_time": 6.64
         },
         {
             "status": "success",
@@ -96,45 +77,7 @@
             "query": "37.27.245.106",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.39
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00121",
-            "lat": 60.1699,
-            "lon": 24.9384,
-            "timezone": "Europe/Helsinki",
-            "isp": "First Server Limited",
-            "org": "First Server Limited",
-            "as": "AS204339 FIRST SERVER LIMITED",
-            "query": "91.186.211.105",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.63
-        },
-        {
-            "status": "success",
-            "country": "Finland",
-            "countryCode": "FI",
-            "region": "18",
-            "regionName": "Uusimaa",
-            "city": "Helsinki",
-            "zip": "00380",
-            "lat": 60.2188,
-            "lon": 24.8708,
-            "timezone": "Europe/Helsinki",
-            "isp": "Anton Levin",
-            "org": "Individual Entrepreneur Anton Levin",
-            "as": "AS50053 VDSka hosting",
-            "query": "185.239.141.194",
-            "type": "socks5",
-            "port": "10808",
-            "response_time": 17.58
+            "response_time": 8.9
         }
     ]
 }
