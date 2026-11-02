@@ -1,7 +1,7 @@
 {
     "countryCode": "AF",
     "country": "Afghanistan",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Shah Net Internet Services Provider",
             "org": "Shah Net Internet Services Provider",
             "as": "AS137475 Shah Net Internet Services Provider",
-            "query": "103.151.88.201",
+            "query": "103.151.88.65",
             "type": "http",
             "port": "8080",
-            "response_time": 6.44
+            "response_time": 3.62
+        },
+        {
+            "status": "success",
+            "country": "Afghanistan",
+            "countryCode": "AF",
+            "region": "TAK",
+            "regionName": "Takhar",
+            "city": "Taloqan",
+            "zip": "",
+            "lat": 36.736,
+            "lon": 69.5345,
+            "timezone": "Asia/Kabul",
+            "isp": "Telecom Development Company Afghanistan",
+            "org": "Roshan",
+            "as": "AS45178 ROSHAN",
+            "query": "111.125.154.86",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.38
         }
     ]
 }
