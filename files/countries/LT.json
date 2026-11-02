@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "LT",
             "region": "VL",
             "regionName": "Vilnius",
-            "city": "Vilnius",
-            "zip": "01001",
-            "lat": 54.6876,
-            "lon": 25.2806,
+            "city": "Elektr\u0117nai",
+            "zip": "26104",
+            "lat": 54.7831,
+            "lon": 24.6689,
             "timezone": "Europe/Vilnius",
-            "isp": "AB \"Ogmios Centras\"",
-            "org": "Intesta",
-            "as": "AS44613 Ogmios centras AS number",
-            "query": "93.93.61.153",
+            "isp": "Private Limited Liability Company \"KRENA\"",
+            "org": "Private Limmited Liability Company",
+            "as": "AS49602 Private Limited Liability Company \"KRENA\"",
+            "query": "81.7.112.174",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 0.65
+            "port": "4145",
+            "response_time": 0.5
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "46.166.167.60",
             "type": "http",
             "port": "8080",
-            "response_time": 1.42
+            "response_time": 0.58
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "KL",
+            "regionName": "Klaip\u0117da County",
+            "city": "Klaip\u0117da",
+            "zip": "91001",
+            "lat": 55.7158,
+            "lon": 21.111,
+            "timezone": "Europe/Vilnius",
+            "isp": "Telia Lietuva",
+            "org": "Telia Lietuva, AB",
+            "as": "AS8764 Telia Lietuva, AB",
+            "query": "88.119.139.237",
+            "type": "http",
+            "port": "53281",
+            "response_time": 4.76
         }
     ]
 }
