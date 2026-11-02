@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "N",
+            "regionName": "Halland County",
+            "city": "Halmstad",
+            "zip": "302 28",
+            "lat": 56.6732,
+            "lon": 12.8598,
+            "timezone": "Europe/Stockholm",
+            "isp": "Bahnhof Internet",
+            "org": "Bahnhof AB",
+            "as": "AS8473 Bahnhof AB",
+            "query": "46.59.120.87",
+            "type": "http",
+            "port": "81",
+            "response_time": 2.44
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -15,12 +34,12 @@
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
             "isp": "Aeza Group LLC",
-            "org": "Aeza Group LLC",
+            "org": "NetCrafters OU",
             "as": "AS210644 AEZA GROUP LLC",
-            "query": "147.45.72.31",
-            "type": "socks4",
-            "port": "45700",
-            "response_time": 7.13
+            "query": "62.60.230.196",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 7.92
         }
     ]
 }
