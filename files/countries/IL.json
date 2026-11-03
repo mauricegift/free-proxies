@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 11,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,29 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (il-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.16.4.39",
+            "query": "51.85.44.149",
             "type": "http",
-            "port": "13757",
-            "response_time": 1.06
+            "port": "44650",
+            "response_time": 1.25
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.08088,
+            "lon": 34.78057,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (il-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.85.44.149",
+            "type": "http",
+            "port": "19152",
+            "response_time": 1.3
         },
         {
             "status": "success",
@@ -39,26 +58,7 @@
             "query": "51.85.44.149",
             "type": "http",
             "port": "8080",
-            "response_time": 1.09
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "TA",
-            "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
-            "zip": "",
-            "lat": 32.08088,
-            "lon": 34.78057,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (il-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.85.44.149",
-            "type": "http",
-            "port": "12026",
-            "response_time": 1.1
+            "response_time": 1.37
         },
         {
             "status": "success",
@@ -76,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.16.4.39",
             "type": "http",
-            "port": "40674",
-            "response_time": 2.33
+            "port": "9002",
+            "response_time": 1.38
         },
         {
             "status": "success",
@@ -93,48 +93,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (il-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.85.44.149",
+            "query": "51.16.4.39",
             "type": "http",
-            "port": "18360",
-            "response_time": 2.53
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "TA",
-            "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
-            "zip": "",
-            "lat": 32.08088,
-            "lon": 34.78057,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (il-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.85.44.149",
-            "type": "http",
-            "port": "32788",
-            "response_time": 2.89
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "TA",
-            "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
-            "zip": "",
-            "lat": 32.0804,
-            "lon": 34.7807,
-            "timezone": "Asia/Jerusalem",
-            "isp": "ITC NG ltd",
-            "org": "ITC NG ltd",
-            "as": "AS202940 ITC NG ltd",
-            "query": "147.236.181.86",
-            "type": "http",
-            "port": "50009",
-            "response_time": 3.16
+            "port": "6703",
+            "response_time": 1.65
         },
         {
             "status": "success",
@@ -153,7 +115,7 @@
             "query": "51.85.44.149",
             "type": "http",
             "port": "8928",
-            "response_time": 3.56
+            "response_time": 1.97
         },
         {
             "status": "success",
@@ -169,10 +131,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (il-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.16.4.39",
+            "query": "51.85.44.149",
             "type": "http",
-            "port": "8050",
-            "response_time": 3.7
+            "port": "55322",
+            "response_time": 2.55
         },
         {
             "status": "success",
@@ -188,29 +150,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (il-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.16.4.39",
+            "query": "51.17.99.116",
             "type": "http",
-            "port": "20420",
-            "response_time": 4.62
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "",
-            "regionName": "Judea and Samaria Area",
-            "city": "Dolev",
-            "zip": "",
-            "lat": 31.9147,
-            "lon": 35.2068,
-            "timezone": "Asia/Hebron",
-            "isp": "BNET network",
-            "org": "BCI Telecommunication & Advanced Technology Company",
-            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
-            "query": "93.184.7.73",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 4.71
+            "port": "10336",
+            "response_time": 2.81
         }
     ]
 }
