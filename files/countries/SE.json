@@ -1,27 +1,8 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 5,
+    "count": 6,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm",
-            "city": "Stockholm",
-            "zip": "",
-            "lat": 59.32938,
-            "lon": 18.06871,
-            "timezone": "Europe/Stockholm",
-            "isp": "Amazon.com",
-            "org": "AWS EC2 (eu-north-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "56.228.13.15",
-            "type": "http",
-            "port": "42938",
-            "response_time": 1.25
-        },
         {
             "status": "success",
             "country": "Sweden",
@@ -39,7 +20,45 @@
             "query": "85.228.42.180",
             "type": "socks4",
             "port": "4153",
-            "response_time": 2.23
+            "response_time": 0.23
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "N",
+            "regionName": "Halland County",
+            "city": "Falkenberg",
+            "zip": "311 39",
+            "lat": 56.9012,
+            "lon": 12.498,
+            "timezone": "Europe/Stockholm",
+            "isp": "Fornex Hosting S.L.",
+            "org": "FORNEX",
+            "as": "AS48040 Fornex Hosting S.L.",
+            "query": "194.154.31.227",
+            "type": "http",
+            "port": "3128",
+            "response_time": 0.95
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "",
+            "lat": 59.32938,
+            "lon": 18.06871,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon.com",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "56.228.13.15",
+            "type": "http",
+            "port": "45522",
+            "response_time": 1.79
         },
         {
             "status": "success",
@@ -58,26 +77,7 @@
             "query": "193.181.35.114",
             "type": "http",
             "port": "8118",
-            "response_time": 3.68
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "N",
-            "regionName": "Halland County",
-            "city": "Halmstad",
-            "zip": "302 28",
-            "lat": 56.6732,
-            "lon": 12.8598,
-            "timezone": "Europe/Stockholm",
-            "isp": "Bahnhof Internet",
-            "org": "Bahnhof AB",
-            "as": "AS8473 Bahnhof AB",
-            "query": "46.59.120.87",
-            "type": "http",
-            "port": "81",
-            "response_time": 3.81
+            "response_time": 3.36
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "81.228.44.187",
             "type": "socks4",
             "port": "65530",
-            "response_time": 5.31
+            "response_time": 4.67
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "",
+            "lat": 59.3294,
+            "lon": 18.0687,
+            "timezone": "Europe/Stockholm",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (eu-stockholm-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.52.220",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.43
         }
     ]
 }
