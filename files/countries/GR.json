@@ -1,26 +1,45 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "B",
+            "regionName": "Central Macedonia",
+            "city": "Giannits\u00e1",
+            "zip": "",
+            "lat": 40.7919,
+            "lon": 22.4075,
+            "timezone": "Europe/Athens",
+            "isp": "INTERWORKS Single Member S.A.",
+            "org": "Customer Beeasy",
+            "as": "AS50919 INTERWORKS Single Member S.A.",
+            "query": "188.164.201.197",
+            "type": "http",
+            "port": "666",
+            "response_time": 2.49
+        },
         {
             "status": "success",
             "country": "Greece",
             "countryCode": "GR",
             "region": "I",
             "regionName": "Attica",
-            "city": "Athens",
+            "city": "Nikaia",
             "zip": "",
-            "lat": 37.9842,
-            "lon": 23.7353,
+            "lat": 37.9703,
+            "lon": 23.6413,
             "timezone": "Europe/Athens",
-            "isp": "Cosmote Mobile Telecommunication S.A.",
-            "org": "Cosmote Mobile Telecommunications S.A.",
-            "as": "AS29247 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "149.210.4.185",
+            "isp": "OTEnet",
+            "org": "OTEnet S.A.",
+            "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "79.130.240.61",
             "type": "http",
             "port": "18080",
-            "response_time": 4.9
+            "response_time": 3.24
         }
     ]
 }
