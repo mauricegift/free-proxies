@@ -1,45 +1,26 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 3,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Estonia",
             "countryCode": "EE",
-            "region": "37",
-            "regionName": "Harjumaa",
-            "city": "Tallinn",
-            "zip": "13415",
-            "lat": 59.4381,
-            "lon": 24.7369,
+            "region": "79",
+            "regionName": "Tartu",
+            "city": "Tartu",
+            "zip": "",
+            "lat": 58.3794,
+            "lon": 26.7322,
             "timezone": "Europe/Tallinn",
-            "isp": "OC NETWORKS LIMITED",
-            "org": "1Cent Host",
-            "as": "AS209693 OC NETWORKS LIMITED",
-            "query": "95.85.249.247",
+            "isp": "SkyLive Telecom ldt",
+            "org": "Elevi",
+            "as": "AS202652 Elevi AS",
+            "query": "185.157.111.3",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 7.75
-        },
-        {
-            "status": "success",
-            "country": "Estonia",
-            "countryCode": "EE",
-            "region": "37",
-            "regionName": "Harjumaa",
-            "city": "Tallinn",
-            "zip": "13415",
-            "lat": 59.4381,
-            "lon": 24.7369,
-            "timezone": "Europe/Tallinn",
-            "isp": "OC NETWORKS LIMITED",
-            "org": "1Cent Host",
-            "as": "AS209693 OC NETWORKS LIMITED",
-            "query": "95.85.249.247",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 7.75
+            "port": "5678",
+            "response_time": 0.57
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "193.42.112.26",
             "type": "http",
             "port": "8080",
-            "response_time": 13.71
+            "response_time": 4.39
         }
     ]
 }
