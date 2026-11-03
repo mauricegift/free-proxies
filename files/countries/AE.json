@@ -1,7 +1,7 @@
 {
     "countryCode": "AE",
     "country": "United Arab Emirates",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "94.200.195.220",
             "type": "http",
             "port": "8080",
-            "response_time": 1.23
+            "response_time": 2.33
+        },
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "DU",
+            "regionName": "Dubai",
+            "city": "Dubai",
+            "zip": "",
+            "lat": 25.0734,
+            "lon": 55.2979,
+            "timezone": "Asia/Dubai",
+            "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+            "org": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+            "as": "AS5384 Emirates Internet",
+            "query": "151.253.146.146",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.28
         }
     ]
 }
