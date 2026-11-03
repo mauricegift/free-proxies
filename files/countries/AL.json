@@ -1,45 +1,26 @@
 {
     "countryCode": "AL",
     "country": "Albania",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Albania",
-            "countryCode": "AL",
-            "region": "05",
-            "regionName": "Gjirokast\u00ebr County",
-            "city": "Tepelen\u00eb",
-            "zip": "",
-            "lat": 40.2959,
-            "lon": 20.024,
-            "timezone": "Europe/Tirane",
-            "isp": "ONE ALBANIA SH.A.",
-            "org": "",
-            "as": "AS42313 ONE ALBANIA SH.A.",
-            "query": "79.106.108.147",
-            "type": "http",
-            "port": "8079",
-            "response_time": 2.41
-        },
         {
             "status": "success",
             "country": "Albania",
             "countryCode": "AL",
             "region": "03",
             "regionName": "Elbasan County",
-            "city": "Elbasan",
+            "city": "Librazhd",
             "zip": "",
-            "lat": 41.1114,
-            "lon": 20.0822,
+            "lat": 41.1826,
+            "lon": 20.3121,
             "timezone": "Europe/Tirane",
             "isp": "ATU",
             "org": "",
             "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
-            "query": "185.89.156.2",
-            "type": "http",
-            "port": "44224",
-            "response_time": 5.02
+            "query": "37.26.86.206",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.61
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "79.106.229.208",
             "type": "http",
             "port": "8989",
-            "response_time": 6.59
+            "response_time": 0.73
         },
         {
             "status": "success",
@@ -71,13 +52,13 @@
             "lat": 41.3253,
             "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Abissnet PPPoE",
-            "org": "",
-            "as": "AS35047 Abissnet sh.a.",
-            "query": "109.236.45.95",
+            "isp": "Vodafone Albania Sh.A.",
+            "org": "Vodafone Albania Sh.A",
+            "as": "AS21183 Vodafone Albania Sh.A.",
+            "query": "66.186.199.33",
             "type": "http",
-            "port": "8989",
-            "response_time": 9.7
+            "port": "8080",
+            "response_time": 1.9
         },
         {
             "status": "success",
@@ -86,17 +67,17 @@
             "region": "11",
             "regionName": "Tirana",
             "city": "Tirana",
-            "zip": "1010",
-            "lat": 41.3275,
-            "lon": 19.8187,
+            "zip": "",
+            "lat": 41.3253,
+            "lon": 19.8184,
             "timezone": "Europe/Tirane",
-            "isp": "Artmotion Sh.P.K.",
-            "org": "Artmotion",
-            "as": "AS33983 ARTMOTION SH.P.K.",
-            "query": "37.35.65.190",
+            "isp": "TEST3777",
+            "org": "",
+            "as": "AS42313 ONE ALBANIA SH.A.",
+            "query": "79.106.79.154",
             "type": "http",
-            "port": "8080",
-            "response_time": 10.5
+            "port": "8989",
+            "response_time": 3.02
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "217.24.245.58",
             "type": "http",
             "port": "8079",
-            "response_time": 10.87
+            "response_time": 14.46
         }
     ]
 }
