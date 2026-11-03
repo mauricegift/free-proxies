@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "HB",
+            "regionName": "Hajd\u00fa-Bihar",
+            "city": "Debrecen",
+            "zip": "4033",
+            "lat": 47.5232,
+            "lon": 21.6334,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom plc.",
+            "org": "Portal",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "91.147.235.162",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.29
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -17,10 +36,10 @@
             "isp": "One Hungary Ltd.",
             "org": "One Hungary Ltd",
             "as": "AS21334 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "89.135.59.77",
+            "query": "89.135.59.71",
             "type": "http",
             "port": "8090",
-            "response_time": 2.51
+            "response_time": 2.58
         },
         {
             "status": "success",
@@ -39,45 +58,7 @@
             "query": "84.1.150.26",
             "type": "http",
             "port": "8080",
-            "response_time": 2.57
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "PE",
-            "regionName": "Pest County",
-            "city": "\u00c9rd",
-            "zip": "2030",
-            "lat": 47.3949,
-            "lon": 18.9136,
-            "timezone": "Europe/Budapest",
-            "isp": "HDSNET",
-            "org": "",
-            "as": "AS20845 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "92.249.162.233",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.92
-        },
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "HB",
-            "regionName": "Hajd\u00fa-Bihar",
-            "city": "Debrecen",
-            "zip": "4032",
-            "lat": 47.5232,
-            "lon": 21.6334,
-            "timezone": "Europe/Budapest",
-            "isp": "DIGI Tavkozlesi es Szolgaltato Kft",
-            "org": "INVITEL / DIGI",
-            "as": "AS20845 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "85.66.19.69",
-            "type": "http",
-            "port": "18080",
-            "response_time": 10.22
+            "response_time": 8.1
         }
     ]
 }
