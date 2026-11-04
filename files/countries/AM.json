@@ -1,7 +1,7 @@
 {
     "countryCode": "AM",
     "country": "Armenia",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "ER",
             "regionName": "Yerevan",
             "city": "Yerevan",
-            "zip": "000025",
+            "zip": "",
             "lat": 40.1814,
             "lon": 44.5102,
             "timezone": "Asia/Yerevan",
-            "isp": "G-Core Labs S.A.",
-            "org": "GCL",
-            "as": "AS202422 G-Core Labs S.A.",
-            "query": "85.90.207.232",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.78
+            "isp": "GNC-Alfa CJSC",
+            "org": "GNC",
+            "as": "AS49800 GNC-Alfa CJSC",
+            "query": "37.186.66.36",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 1.01
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "81.16.9.222",
             "type": "socks4",
             "port": "3629",
-            "response_time": 2.91
+            "response_time": 2.88
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.205",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 3.58
+        },
+        {
+            "status": "success",
+            "country": "Armenia",
+            "countryCode": "AM",
+            "region": "ER",
+            "regionName": "Yerevan",
+            "city": "Yerevan",
+            "zip": "",
+            "lat": 40.1814,
+            "lon": 44.5102,
+            "timezone": "Asia/Yerevan",
+            "isp": "Fnet LLC",
+            "org": "",
+            "as": "AS205368 Fnet LLC",
+            "query": "185.215.53.217",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 7.68
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "130.193.123.34",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.55
+            "response_time": 8.05
         },
         {
             "status": "success",
@@ -68,16 +106,16 @@
             "regionName": "Yerevan",
             "city": "Yerevan",
             "zip": "",
-            "lat": 40.1814,
-            "lon": 44.5102,
+            "lat": 40.1793,
+            "lon": 44.5159,
             "timezone": "Asia/Yerevan",
-            "isp": "Fnet LLC",
-            "org": "",
-            "as": "AS205368 Fnet LLC",
-            "query": "185.215.53.253",
-            "type": "socks4",
-            "port": "3629",
-            "response_time": 5.06
+            "isp": "BioNet LLC",
+            "org": "Hnet LLC",
+            "as": "AS42991 BioNet LLC",
+            "query": "91.204.190.140",
+            "type": "http",
+            "port": "81",
+            "response_time": 10.3
         }
     ]
 }
