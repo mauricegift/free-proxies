@@ -1,7 +1,7 @@
 {
     "countryCode": "LB",
     "country": "Lebanon",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 34.4335,
             "lon": 35.8442,
             "timezone": "Asia/Beirut",
-            "isp": "NET 360 S.A.R.L",
+            "isp": "Protected",
             "org": "",
             "as": "AS42183 NET 360 S.A.R.L",
-            "query": "185.82.96.190",
+            "query": "185.82.98.18",
             "type": "http",
-            "port": "8724",
-            "response_time": 3.91
+            "port": "8080",
+            "response_time": 3.56
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "185.82.99.204",
             "type": "http",
             "port": "92",
-            "response_time": 6.99
+            "response_time": 4.41
+        },
+        {
+            "status": "success",
+            "country": "Lebanon",
+            "countryCode": "LB",
+            "region": "AS",
+            "regionName": "North Lebanon",
+            "city": "Tripoli",
+            "zip": "",
+            "lat": 34.4335,
+            "lon": 35.8442,
+            "timezone": "Asia/Beirut",
+            "isp": "NET 360 S.A.R.L",
+            "org": "",
+            "as": "AS42183 NET 360 S.A.R.L",
+            "query": "185.82.97.10",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.55
         }
     ]
 }
