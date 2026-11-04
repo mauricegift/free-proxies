@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 5,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -17,29 +17,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (eu-west-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.175.170.244",
+            "query": "18.170.45.5",
             "type": "http",
-            "port": "5066",
-            "response_time": 3.39
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "LND",
-            "regionName": "England",
-            "city": "London",
-            "zip": "",
-            "lat": 51.50853,
-            "lon": -0.12574,
-            "timezone": "Europe/London",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (eu-west-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "18.175.170.244",
-            "type": "http",
-            "port": "29343",
-            "response_time": 3.53
+            "port": "4228",
+            "response_time": 1.29
         },
         {
             "status": "success",
@@ -58,45 +39,7 @@
             "query": "198.244.254.77",
             "type": "http",
             "port": "3128",
-            "response_time": 5.08
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Maidenhead",
-            "zip": "SL6",
-            "lat": 51.5226,
-            "lon": -0.724308,
-            "timezone": "Europe/London",
-            "isp": "Iomart Cloud Services Limited",
-            "org": "Iomart Cloud Services Limited",
-            "as": "AS20860 IOMART CLOUD SERVICES LIMITED",
-            "query": "81.168.119.85",
-            "type": "socks4",
-            "port": "443",
-            "response_time": 5.35
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Bexley",
-            "zip": "DA15",
-            "lat": 51.4409,
-            "lon": 0.0985,
-            "timezone": "Europe/London",
-            "isp": "OVH SAS",
-            "org": "OVH Ltd",
-            "as": "AS16276 OVH SAS",
-            "query": "57.129.128.223",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.76
+            "response_time": 9.57
         }
     ]
 }
