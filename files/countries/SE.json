@@ -1,8 +1,27 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "",
+            "lat": 59.3294,
+            "lon": 18.0687,
+            "timezone": "Europe/Stockholm",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (eu-stockholm-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "79.76.52.220",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 5.47
+        },
         {
             "status": "success",
             "country": "Sweden",
@@ -14,13 +33,13 @@
             "lat": 59.3287,
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "Melbikomas UAB",
-            "org": "Melbikomas UAB",
-            "as": "AS8849 Melbikomas UAB",
-            "query": "95.81.107.187",
-            "type": "http",
-            "port": "3128",
-            "response_time": 5.85
+            "isp": "Aeza Group LLC",
+            "org": "Aeza Group LLC",
+            "as": "AS210644 AEZA GROUP LLC",
+            "query": "147.45.72.31",
+            "type": "socks4",
+            "port": "45700",
+            "response_time": 11.62
         }
     ]
 }
