@@ -1,27 +1,8 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 4,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Hungary",
-            "countryCode": "HU",
-            "region": "BU",
-            "regionName": "Budapest",
-            "city": "Budapest",
-            "zip": "1007",
-            "lat": 47.4979,
-            "lon": 19.0402,
-            "timezone": "Europe/Budapest",
-            "isp": "Dravanet",
-            "org": "Dravanet Co Ltd",
-            "as": "AS197248 Dravanet Co Ltd.",
-            "query": "109.61.117.11",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 0.3
-        },
         {
             "status": "success",
             "country": "Hungary",
@@ -39,7 +20,26 @@
             "query": "178.48.13.177",
             "type": "socks4",
             "port": "80",
-            "response_time": 0.49
+            "response_time": 0.38
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1007",
+            "lat": 47.4979,
+            "lon": 19.0402,
+            "timezone": "Europe/Budapest",
+            "isp": "Dravanet",
+            "org": "Dravanet Co Ltd",
+            "as": "AS197248 Dravanet Co Ltd.",
+            "query": "109.61.117.11",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 4.47
         },
         {
             "status": "success",
@@ -58,7 +58,26 @@
             "query": "85.66.19.69",
             "type": "http",
             "port": "18080",
-            "response_time": 5.0
+            "response_time": 5.1
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1037",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "Magyar Telekom",
+            "org": "",
+            "as": "AS5483 Magyar Telekom Plc.",
+            "query": "84.1.150.26",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.76
         },
         {
             "status": "success",
@@ -74,10 +93,10 @@
             "isp": "One Hungary Ltd.",
             "org": "One Hungary Ltd",
             "as": "AS21334 2Connect Telecommunications Infrastructure & Network Services Ltd.",
-            "query": "89.135.59.77",
+            "query": "89.135.59.71",
             "type": "http",
             "port": "8090",
-            "response_time": 6.68
+            "response_time": 9.04
         }
     ]
 }
