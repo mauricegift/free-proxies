@@ -1,7 +1,7 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,37 @@
             "countryCode": "RS",
             "region": "VO",
             "regionName": "Vojvodina",
-            "city": "Novi Sad",
+            "city": "Obrovac",
             "zip": "",
-            "lat": 45.25,
-            "lon": 19.8362,
+            "lat": 45.3205,
+            "lon": 19.3448,
             "timezone": "Europe/Belgrade",
             "isp": "TELEKOM SRBIJA a.d.",
-            "org": "Telekom BB",
+            "org": "Smederevo",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "212.200.223.89",
+            "query": "195.178.56.35",
             "type": "http",
             "port": "8080",
-            "response_time": 4.19
+            "response_time": 1.77
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "00",
+            "regionName": "Belgrade",
+            "city": "Belgrade",
+            "zip": "",
+            "lat": 44.8046,
+            "lon": 20.4637,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "185.190.154.121",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.57
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "217.169.223.18",
             "type": "socks4",
             "port": "1080",
-            "response_time": 4.51
+            "response_time": 5.75
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "20",
+            "regionName": "Ni\u0161ava",
+            "city": "Ni\u0161",
+            "zip": "",
+            "lat": 43.3265,
+            "lon": 21.9023,
+            "timezone": "Europe/Belgrade",
+            "isp": "Jotel",
+            "org": "",
+            "as": "AS197423 Jotel d.o.o.",
+            "query": "217.16.130.83",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 6.34
         },
         {
             "status": "success",
@@ -47,18 +85,18 @@
             "countryCode": "RS",
             "region": "VO",
             "regionName": "Vojvodina",
-            "city": "E\u010dka",
+            "city": "Novi Sad",
             "zip": "",
-            "lat": 45.3202,
-            "lon": 20.4394,
+            "lat": 45.25,
+            "lon": 19.8362,
             "timezone": "Europe/Belgrade",
-            "isp": "Serbia BroadBand",
-            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-            "as": "AS31042 Yettel d.o.o.",
-            "query": "82.117.211.42",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Telekom BB",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "212.200.223.89",
             "type": "http",
-            "port": "8085",
-            "response_time": 7.26
+            "port": "8080",
+            "response_time": 7.58
         }
     ]
 }
