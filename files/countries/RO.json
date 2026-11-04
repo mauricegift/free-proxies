@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "IF",
+            "regionName": "Ilfov",
+            "city": "Dasc\u0103lu",
+            "zip": "077075",
+            "lat": 44.6039,
+            "lon": 26.2347,
+            "timezone": "Europe/Bucharest",
+            "isp": "Orange Romania Network",
+            "org": "Orange Romania S.A",
+            "as": "AS8953 Orange Romania S.A.",
+            "query": "109.166.207.162",
+            "type": "socks4",
+            "port": "3629",
+            "response_time": 0.44
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,45 +39,7 @@
             "query": "81.12.157.98",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.47
-        },
-        {
-            "status": "success",
-            "country": "Romania",
-            "countryCode": "RO",
-            "region": "PH",
-            "regionName": "Prahova",
-            "city": "Azuga",
-            "zip": "105100",
-            "lat": 45.4507,
-            "lon": 25.5491,
-            "timezone": "Europe/Bucharest",
-            "isp": "Romtelecom",
-            "org": "",
-            "as": "AS9050 Orange Romania S.A.",
-            "query": "92.86.92.126",
-            "type": "socks4",
-            "port": "42740",
-            "response_time": 2.85
-        },
-        {
-            "status": "success",
-            "country": "Romania",
-            "countryCode": "RO",
-            "region": "B",
-            "regionName": "Bucharest",
-            "city": "Bucharest",
-            "zip": "052829",
-            "lat": 44.4268,
-            "lon": 26.1025,
-            "timezone": "Europe/Bucharest",
-            "isp": "DAM TELECOM SERVICES SRL",
-            "org": "DAM TELECOM SERVICES SRL",
-            "as": "AS214529 DAM TELECOM SERVICES SRL",
-            "query": "89.40.77.249",
-            "type": "http",
-            "port": "8787",
-            "response_time": 12.22
+            "response_time": 1.61
         }
     ]
 }
