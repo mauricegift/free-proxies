@@ -1,8 +1,27 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 5,
+    "count": 7,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "20",
+            "regionName": "Ni\u0161ava",
+            "city": "Ni\u0161",
+            "zip": "",
+            "lat": 43.3265,
+            "lon": 21.9023,
+            "timezone": "Europe/Belgrade",
+            "isp": "Jotel",
+            "org": "",
+            "as": "AS197423 Jotel d.o.o.",
+            "query": "217.16.130.83",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.27
+        },
         {
             "status": "success",
             "country": "Serbia",
@@ -20,7 +39,7 @@
             "query": "109.245.110.145",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.31
+            "response_time": 1.3
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "95.140.118.34",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.44
+            "response_time": 2.27
         },
         {
             "status": "success",
@@ -47,18 +66,18 @@
             "countryCode": "RS",
             "region": "VO",
             "regionName": "Vojvodina",
-            "city": "E\u010dka",
+            "city": "Novi Sad",
             "zip": "",
-            "lat": 45.3202,
-            "lon": 20.4394,
+            "lat": 45.25,
+            "lon": 19.8362,
             "timezone": "Europe/Belgrade",
-            "isp": "Serbia BroadBand",
-            "org": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
-            "as": "AS31042 Yettel d.o.o.",
-            "query": "82.117.211.42",
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Telekom BB",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "212.200.223.89",
             "type": "http",
-            "port": "8085",
-            "response_time": 2.85
+            "port": "8080",
+            "response_time": 4.19
         },
         {
             "status": "success",
@@ -71,13 +90,32 @@
             "lat": 44.8046,
             "lon": 20.4637,
             "timezone": "Europe/Belgrade",
-            "isp": "Orion Telekom Client Network",
+            "isp": "Orion Telekom Network",
             "org": "",
             "as": "AS9125 Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
-            "query": "217.169.223.18",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.43
+            "query": "95.140.113.74",
+            "type": "http",
+            "port": "6666",
+            "response_time": 6.6
+        },
+        {
+            "status": "success",
+            "country": "Serbia",
+            "countryCode": "RS",
+            "region": "24",
+            "regionName": "P\u010dinja",
+            "city": "Pre\u0161evo",
+            "zip": "",
+            "lat": 42.3069,
+            "lon": 21.6401,
+            "timezone": "Europe/Belgrade",
+            "isp": "TELEKOM-SRBIJA",
+            "org": "",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "77.46.138.49",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.71
         },
         {
             "status": "success",
@@ -93,10 +131,10 @@
             "isp": "TELEKOM SRBIJA a.d.",
             "org": "Smederevo",
             "as": "AS8400 TELEKOM SRBIJA a.d.",
-            "query": "195.178.56.35",
+            "query": "195.178.56.32",
             "type": "http",
             "port": "8080",
-            "response_time": 8.95
+            "response_time": 11.46
         }
     ]
 }
