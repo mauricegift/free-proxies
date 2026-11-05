@@ -1,45 +1,26 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Sweden",
             "countryCode": "SE",
             "region": "AB",
-            "regionName": "Stockholm County",
+            "regionName": "Stockholm",
             "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
+            "zip": "",
+            "lat": 59.32938,
+            "lon": 18.06871,
             "timezone": "Europe/Stockholm",
-            "isp": "Aeza Group LLC",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.230.196",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 5.52
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3287,
-            "lon": 18.0717,
-            "timezone": "Europe/Stockholm",
-            "isp": "Aeza Group LLC",
-            "org": "NetCrafters OU",
-            "as": "AS210644 AEZA GROUP LLC",
-            "query": "62.60.230.196",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 5.52
+            "isp": "Amazon.com",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "56.228.13.15",
+            "type": "http",
+            "port": "11873",
+            "response_time": 1.78
         },
         {
             "status": "success",
@@ -55,29 +36,10 @@
             "isp": "PVDataNet AB",
             "org": "PVDataNet AB",
             "as": "AS42201 PVDataNet AB",
-            "query": "193.181.35.115",
+            "query": "193.181.35.106",
             "type": "http",
             "port": "8118",
-            "response_time": 8.45
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 04",
-            "lat": 59.3447,
-            "lon": 18.0676,
-            "timezone": "Europe/Stockholm",
-            "isp": "OVPN",
-            "org": "",
-            "as": "AS42675 Obehosting AB",
-            "query": "217.64.149.146",
-            "type": "http",
-            "port": "8118",
-            "response_time": 8.68
+            "response_time": 1.86
         },
         {
             "status": "success",
@@ -96,26 +58,7 @@
             "query": "46.59.120.87",
             "type": "http",
             "port": "81",
-            "response_time": 10.04
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "100 05",
-            "lat": 59.3447,
-            "lon": 18.0676,
-            "timezone": "Europe/Stockholm",
-            "isp": "OVPN",
-            "org": "",
-            "as": "AS42675 Obehosting AB",
-            "query": "185.157.160.159",
-            "type": "http",
-            "port": "8118",
-            "response_time": 14.2
+            "response_time": 8.11
         }
     ]
 }
