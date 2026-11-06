@@ -1,27 +1,8 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 3,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Austria",
-            "countryCode": "AT",
-            "region": "6",
-            "regionName": "Styria",
-            "city": "Mixnitz",
-            "zip": "8131",
-            "lat": 47.3276,
-            "lon": 15.3635,
-            "timezone": "Europe/Vienna",
-            "isp": "A1 Telekom Austria AG",
-            "org": "A1 Telekom Austria AG",
-            "as": "AS8447 A1 Telekom Austria AG",
-            "query": "178.189.56.158",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 0.31
-        },
         {
             "status": "success",
             "country": "Austria",
@@ -39,7 +20,45 @@
             "query": "213.173.75.222",
             "type": "socks4",
             "port": "5678",
-            "response_time": 0.35
+            "response_time": 0.27
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "IPAX GmbH",
+            "org": "Ipax Virtualline7",
+            "as": "AS44133 IPAX GmbH",
+            "query": "37.252.188.101",
+            "type": "http",
+            "port": "3128",
+            "response_time": 2.43
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Mixnitz",
+            "zip": "8131",
+            "lat": 47.3276,
+            "lon": 15.3635,
+            "timezone": "Europe/Vienna",
+            "isp": "A1 Telekom Austria AG",
+            "org": "A1 Telekom Austria AG",
+            "as": "AS8447 A1 Telekom Austria AG",
+            "query": "178.189.56.158",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 2.52
         },
         {
             "status": "success",
@@ -58,7 +77,26 @@
             "query": "193.233.232.33",
             "type": "http",
             "port": "3128",
-            "response_time": 3.5
+            "response_time": 4.24
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "9",
+            "regionName": "Vienna",
+            "city": "Vienna",
+            "zip": "1010",
+            "lat": 48.2049,
+            "lon": 16.3662,
+            "timezone": "Europe/Vienna",
+            "isp": "netcup GmbH",
+            "org": "NETCUP-KVM",
+            "as": "AS197540 netcup GmbH",
+            "query": "159.195.110.240",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.25
         }
     ]
 }
