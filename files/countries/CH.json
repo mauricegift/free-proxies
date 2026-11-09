@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "62.220.129.81",
             "type": "http",
             "port": "8080",
-            "response_time": 5.64
+            "response_time": 1.37
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 7.5
+            "response_time": 3.34
+        },
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "ZH",
+            "regionName": "Zurich",
+            "city": "Zurich",
+            "zip": "8004",
+            "lat": 47.3779,
+            "lon": 8.5236,
+            "timezone": "Europe/Zurich",
+            "isp": "Swisscom (Schweiz) AG - Bluewin",
+            "org": "Swisscom (Schweiz) AG",
+            "as": "AS3303 Swisscom (Switzerland) Ltd",
+            "query": "85.1.140.150",
+            "type": "http",
+            "port": "3128",
+            "response_time": 4.78
         }
     ]
 }
