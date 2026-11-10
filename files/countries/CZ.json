@@ -1,8 +1,46 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "\u00daherce",
+            "zip": "330 23",
+            "lat": 49.7035,
+            "lon": 13.2156,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 2.38
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "150 00",
+            "lat": 50.0687,
+            "lon": 14.3947,
+            "timezone": "Europe/Prague",
+            "isp": "Druzstvo EUROSIGNAL",
+            "org": "Eurosignal",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.102.149",
+            "type": "http",
+            "port": "800",
+            "response_time": 3.15
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +58,7 @@
             "query": "188.119.98.126",
             "type": "http",
             "port": "9999",
-            "response_time": 4.26
+            "response_time": 9.63
         }
     ]
 }
