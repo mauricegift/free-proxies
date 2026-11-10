@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "46.59.120.87",
             "type": "http",
             "port": "81",
-            "response_time": 10.16
+            "response_time": 2.73
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3293,
+            "lon": 18.0686,
+            "timezone": "Europe/Stockholm",
+            "isp": "NetCrafters OU",
+            "org": "NetCrafters OU",
+            "as": "AS203273 NetCrafters OU",
+            "query": "109.120.131.122",
+            "type": "http",
+            "port": "3128",
+            "response_time": 11.15
         }
     ]
 }
