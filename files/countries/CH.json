@@ -1,7 +1,7 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 5,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -17,10 +17,10 @@
             "isp": "Zscaler Switzerland GmbH",
             "org": "Zscaler Zrh1",
             "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "147.161.246.37",
+            "query": "147.161.246.16",
             "type": "http",
-            "port": "10727",
-            "response_time": 0.36
+            "port": "10045",
+            "response_time": 0.38
         },
         {
             "status": "success",
@@ -34,12 +34,12 @@
             "lon": 8.5437,
             "timezone": "Europe/Zurich",
             "isp": "Zscaler Switzerland GmbH",
-            "org": "Zscaler Zrh1",
+            "org": "ZSCALER, INC.",
             "as": "AS62044 Zscaler Switzerland GmbH",
-            "query": "147.161.246.39",
+            "query": "165.225.66.38",
             "type": "http",
-            "port": "11314",
-            "response_time": 0.38
+            "port": "12717",
+            "response_time": 0.45
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 0.68
+            "response_time": 0.53
         },
         {
             "status": "success",
@@ -66,37 +66,18 @@
             "countryCode": "CH",
             "region": "ZH",
             "regionName": "Zurich",
-            "city": "W\u00e4denswil",
-            "zip": "8820",
-            "lat": 47.2258,
-            "lon": 8.66224,
+            "city": "Zurich",
+            "zip": "8000",
+            "lat": 47.3643,
+            "lon": 8.5437,
             "timezone": "Europe/Zurich",
-            "isp": "netz116",
-            "org": "Rolf Tschumi (MGW Online)",
-            "as": "AS48971 DATAWIRE AG",
-            "query": "195.225.116.15",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 2.55
-        },
-        {
-            "status": "success",
-            "country": "Switzerland",
-            "countryCode": "CH",
-            "region": "VD",
-            "regionName": "Vaud",
-            "city": "Lausanne",
-            "zip": "1001",
-            "lat": 46.5189,
-            "lon": 6.6362,
-            "timezone": "Europe/Zurich",
-            "isp": "Saitis Network, N.Desir",
-            "org": "Ordi Services",
-            "as": "AS6893 Saitis Network, N.Desir",
-            "query": "62.220.129.81",
+            "isp": "YHC",
+            "org": "",
+            "as": "AS22363 Powerhouse Management, Inc.",
+            "query": "31.6.42.71",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.65
+            "port": "8118",
+            "response_time": 6.61
         }
     ]
 }
