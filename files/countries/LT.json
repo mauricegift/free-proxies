@@ -1,8 +1,46 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 2,
+    "count": 5,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01001",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "AB \"Ogmios Centras\"",
+            "org": "Intesta",
+            "as": "AS44613 Ogmios centras AS number",
+            "query": "93.93.61.153",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.63
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Elektr\u0117nai",
+            "zip": "26104",
+            "lat": 54.7831,
+            "lon": 24.6689,
+            "timezone": "Europe/Vilnius",
+            "isp": "Private Limited Liability Company \"KRENA\"",
+            "org": "Private Limmited Liability Company",
+            "as": "AS49602 Private Limited Liability Company \"KRENA\"",
+            "query": "81.7.112.174",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 1.94
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -20,7 +58,26 @@
             "query": "88.119.139.237",
             "type": "http",
             "port": "53281",
-            "response_time": 5.82
+            "response_time": 7.28
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "KU",
+            "regionName": "Kaunas",
+            "city": "Kaunas",
+            "zip": "44001",
+            "lat": 54.9048,
+            "lon": 23.8958,
+            "timezone": "Europe/Vilnius",
+            "isp": "Init",
+            "org": "",
+            "as": "AS24877 UAB INIT",
+            "query": "88.222.65.45",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.82
         },
         {
             "status": "success",
@@ -36,10 +93,10 @@
             "isp": "UAB Delska Lithuania",
             "org": "UAB Rakrejus",
             "as": "AS62282 UAB Rakrejus",
-            "query": "185.193.26.120",
+            "query": "185.193.25.181",
             "type": "socks5",
             "port": "9050",
-            "response_time": 13.61
+            "response_time": 21.23
         }
     ]
 }
