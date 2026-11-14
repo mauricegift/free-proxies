@@ -1,8 +1,46 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "Megahost KZ Uralsk",
+            "org": "",
+            "as": "AS208450 Megahost Kazakhstan TOO",
+            "query": "45.136.57.153",
+            "type": "http",
+            "port": "8443",
+            "response_time": 1.05
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "35",
+            "regionName": "Karaganda",
+            "city": "Karaganda",
+            "zip": "",
+            "lat": 49.7989,
+            "lon": 73.0994,
+            "timezone": "Asia/Almaty",
+            "isp": "AstanaMegatel Ltd.",
+            "org": "AstanaMegatel Ltd",
+            "as": "AS203481 AstanaMegatel Ltd.",
+            "query": "46.8.252.22",
+            "type": "http",
+            "port": "8123",
+            "response_time": 2.26
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +58,7 @@
             "query": "95.182.107.210",
             "type": "socks4",
             "port": "1080",
-            "response_time": 6.83
+            "response_time": 8.06
         },
         {
             "status": "success",
@@ -29,36 +67,17 @@
             "region": "75",
             "regionName": "Almaty",
             "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
+            "zip": "050000",
+            "lat": 43.238,
+            "lon": 76.8829,
             "timezone": "Asia/Almaty",
-            "isp": "ALM",
-            "org": "OOO IT-Grad",
-            "as": "AS48096 Enterprise Cloud Ltd.",
-            "query": "178.170.221.75",
-            "type": "http",
-            "port": "8443",
-            "response_time": 9.91
-        },
-        {
-            "status": "success",
-            "country": "Kazakhstan",
-            "countryCode": "KZ",
-            "region": "75",
-            "regionName": "Almaty",
-            "city": "Almaty",
-            "zip": "",
-            "lat": 43.2525,
-            "lon": 76.9115,
-            "timezone": "Asia/Almaty",
-            "isp": "JSC \"TIMEWEB\"",
-            "org": "TW Cloud",
-            "as": "AS9123 JSC \"TIMEWEB\"",
-            "query": "31.130.153.132",
+            "isp": "ITGLOBAL",
+            "org": "",
+            "as": "AS57008 ITGLOBAL.COM KZ LLP",
+            "query": "185.200.84.4",
             "type": "http",
             "port": "3128",
-            "response_time": 11.1
+            "response_time": 10.33
         }
     ]
 }
