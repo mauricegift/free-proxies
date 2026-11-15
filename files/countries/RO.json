@@ -1,8 +1,27 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "TM",
+            "regionName": "Timi\u0219 County",
+            "city": "F\u0103get",
+            "zip": "305300",
+            "lat": 45.8469,
+            "lon": 22.1795,
+            "timezone": "Europe/Bucharest",
+            "isp": "DAM TELECOM SERVICES SRL",
+            "org": "DAM TELECOM SERVICES SRL",
+            "as": "AS214529 DAM TELECOM SERVICES SRL",
+            "query": "188.211.30.65",
+            "type": "http",
+            "port": "8787",
+            "response_time": 2.04
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +39,7 @@
             "query": "92.86.92.126",
             "type": "socks4",
             "port": "42740",
-            "response_time": 5.77
+            "response_time": 2.64
         }
     ]
 }
