@@ -1,8 +1,27 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "BE",
+            "regionName": "Bern",
+            "city": "Bern",
+            "zip": "3008",
+            "lat": 46.9491,
+            "lon": 7.4199,
+            "timezone": "Europe/Zurich",
+            "isp": "Swisscom (Schweiz) AG - Bluewin",
+            "org": "Swisscom (Schweiz) AG",
+            "as": "AS3303 Swisscom (Switzerland) Ltd",
+            "query": "213.3.34.39",
+            "type": "http",
+            "port": "443",
+            "response_time": 2.16
+        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -20,7 +39,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 7.18
+            "response_time": 5.29
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "62.220.129.81",
             "type": "http",
             "port": "8080",
-            "response_time": 7.47
+            "response_time": 8.72
         }
     ]
 }
