@@ -1,8 +1,27 @@
 {
     "countryCode": "HU",
     "country": "Hungary",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1007",
+            "lat": 47.4979,
+            "lon": 19.0402,
+            "timezone": "Europe/Budapest",
+            "isp": "Dravanet",
+            "org": "Dravanet Co Ltd",
+            "as": "AS197248 Dravanet Co Ltd.",
+            "query": "109.61.117.11",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 0.27
+        },
         {
             "status": "success",
             "country": "Hungary",
@@ -20,7 +39,45 @@
             "query": "45.9.168.164",
             "type": "http",
             "port": "3128",
-            "response_time": 0.28
+            "response_time": 0.4
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "CS",
+            "regionName": "Csongr\u00e1d megye",
+            "city": "Ap\u00e1tfalva",
+            "zip": "6931",
+            "lat": 46.1635,
+            "lon": 20.5852,
+            "timezone": "Europe/Budapest",
+            "isp": "INVITEL Zrt.",
+            "org": "Mikrohalo Kft.",
+            "as": "AS12301 Invitech",
+            "query": "91.82.115.159",
+            "type": "http",
+            "port": "8080",
+            "response_time": 2.41
+        },
+        {
+            "status": "success",
+            "country": "Hungary",
+            "countryCode": "HU",
+            "region": "BU",
+            "regionName": "Budapest",
+            "city": "Budapest",
+            "zip": "1025",
+            "lat": 47.5,
+            "lon": 19.0412,
+            "timezone": "Europe/Budapest",
+            "isp": "HDSNET",
+            "org": "",
+            "as": "AS20845 2Connect Telecommunications Infrastructure & Network Services Ltd.",
+            "query": "91.83.1.105",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.8
         }
     ]
 }
