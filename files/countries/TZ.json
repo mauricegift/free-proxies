@@ -1,8 +1,27 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 3,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
+            "zip": "",
+            "lat": -3.36806,
+            "lon": 36.696,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node Public Limited",
+            "org": "Habari KiliWireless",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "41.78.170.178",
+            "type": "http",
+            "port": "8040",
+            "response_time": 4.26
+        },
         {
             "status": "success",
             "country": "Tanzania",
@@ -17,10 +36,10 @@
             "isp": "Computer Sales & Services, single-ip-customers",
             "org": "Computer Sales & Services",
             "as": "AS327792 Computer Sales & Services",
-            "query": "165.16.192.81",
+            "query": "165.16.192.57",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.48
+            "response_time": 5.13
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "41.220.131.48",
             "type": "http",
             "port": "8040",
-            "response_time": 8.37
+            "response_time": 5.46
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "154.0.155.133",
             "type": "http",
             "port": "8080",
-            "response_time": 12.88
+            "response_time": 14.75
         }
     ]
 }
