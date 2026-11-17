@@ -1,8 +1,27 @@
 {
     "countryCode": "CH",
     "country": "Switzerland",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "VD",
+            "regionName": "Vaud",
+            "city": "Lausanne",
+            "zip": "1001",
+            "lat": 46.5189,
+            "lon": 6.6362,
+            "timezone": "Europe/Zurich",
+            "isp": "Saitis Network, N.Desir",
+            "org": "Ordi Services",
+            "as": "AS6893 Saitis Network, N.Desir",
+            "query": "62.220.129.81",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.37
+        },
         {
             "status": "success",
             "country": "Switzerland",
@@ -20,7 +39,7 @@
             "query": "185.191.239.248",
             "type": "http",
             "port": "3128",
-            "response_time": 1.34
+            "response_time": 6.29
         }
     ]
 }
