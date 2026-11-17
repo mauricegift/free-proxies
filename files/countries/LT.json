@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 5,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "81.7.112.174",
             "type": "socks4",
             "port": "4145",
-            "response_time": 1.36
+            "response_time": 0.44
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "93.93.61.153",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.46
+            "response_time": 1.5
         },
         {
             "status": "success",
@@ -55,10 +55,29 @@
             "isp": "UAB Delska Lithuania",
             "org": "UAB Rakrejus",
             "as": "AS62282 UAB Rakrejus",
-            "query": "185.193.25.181",
-            "type": "socks5",
+            "query": "185.193.26.120",
+            "type": "socks4",
             "port": "9050",
-            "response_time": 9.54
+            "response_time": 7.56
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "KL",
+            "regionName": "Klaip\u0117da County",
+            "city": "Klaip\u0117da",
+            "zip": "91001",
+            "lat": 55.7158,
+            "lon": 21.111,
+            "timezone": "Europe/Vilnius",
+            "isp": "Telia Lietuva",
+            "org": "Telia Lietuva, AB",
+            "as": "AS8764 Telia Lietuva, AB",
+            "query": "88.119.139.237",
+            "type": "http",
+            "port": "53281",
+            "response_time": 8.46
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "88.222.65.45",
             "type": "http",
             "port": "3128",
-            "response_time": 13.13
+            "response_time": 8.92
         },
         {
             "status": "success",
@@ -93,10 +112,10 @@
             "isp": "UAB Delska Lithuania",
             "org": "UAB Rakrejus",
             "as": "AS62282 UAB Rakrejus",
-            "query": "185.193.25.206",
-            "type": "socks4",
+            "query": "185.193.25.181",
+            "type": "socks5",
             "port": "9050",
-            "response_time": 13.46
+            "response_time": 12.59
         }
     ]
 }
