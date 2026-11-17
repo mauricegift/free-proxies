@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 4,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -19,27 +19,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.239.253.213",
             "type": "http",
-            "port": "69",
-            "response_time": 3.37
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "",
-            "lat": -33.86785,
-            "lon": 151.20732,
-            "timezone": "Australia/Sydney",
-            "isp": "Amazon Technologies Inc.",
-            "org": "AWS EC2 (ap-southeast-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "3.26.199.107",
-            "type": "http",
-            "port": "42984",
-            "response_time": 3.67
+            "port": "16186",
+            "response_time": 3.14
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "13.239.253.213",
             "type": "http",
             "port": "3128",
-            "response_time": 3.78
+            "response_time": 3.3
         },
         {
             "status": "success",
@@ -76,8 +57,84 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.239.253.213",
             "type": "http",
-            "port": "16186",
-            "response_time": 5.94
+            "port": "3862",
+            "response_time": 3.61
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "",
+            "lat": -37.814,
+            "lon": 144.96332,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-4)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.26.208.68",
+            "type": "http",
+            "port": "56194",
+            "response_time": 3.82
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "St Helena",
+            "zip": "3088",
+            "lat": -37.6899,
+            "lon": 145.123,
+            "timezone": "Australia/Melbourne",
+            "isp": "Aussie Broadband",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.14
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "",
+            "lat": -37.814,
+            "lon": 144.96332,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com",
+            "org": "AWS EC2 (ap-southeast-4)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.5.77",
+            "type": "http",
+            "port": "51964",
+            "response_time": 5.62
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "2015",
+            "lat": -33.8978,
+            "lon": 151.1899,
+            "timezone": "Australia/Sydney",
+            "isp": "iiNet Limited",
+            "org": "iiNet Limited",
+            "as": "AS4739 Internode Pty Ltd",
+            "query": "203.206.235.153",
+            "type": "socks4",
+            "port": "50042",
+            "response_time": 9.09
         }
     ]
 }
