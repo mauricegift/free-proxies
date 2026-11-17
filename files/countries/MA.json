@@ -1,26 +1,45 @@
 {
     "countryCode": "MA",
     "country": "Morocco",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Morocco",
             "countryCode": "MA",
-            "region": "04",
-            "regionName": "Rabat-Sal\u00e9-K\u00e9nitra",
-            "city": "Rabat",
+            "region": "05",
+            "regionName": "Beni Mellal-Khenifra",
+            "city": "Beni Mellal",
             "zip": "",
-            "lat": 34.0072,
-            "lon": -6.8407,
+            "lat": 32.3388,
+            "lon": -6.353,
+            "timezone": "Africa/Casablanca",
+            "isp": "IP ADSL MarocTelecom",
+            "org": "",
+            "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "query": "196.206.13.37",
+            "type": "http",
+            "port": "30001",
+            "response_time": 1.4
+        },
+        {
+            "status": "success",
+            "country": "Morocco",
+            "countryCode": "MA",
+            "region": "06",
+            "regionName": "Casablanca-Settat",
+            "city": "Settat",
+            "zip": "",
+            "lat": 33.0011,
+            "lon": -7.6195,
             "timezone": "Africa/Casablanca",
             "isp": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-            "org": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+            "org": "MarocTelecomASDL",
             "as": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-            "query": "196.64.105.91",
+            "query": "160.179.210.73",
             "type": "http",
-            "port": "2000",
-            "response_time": 4.17
+            "port": "5002",
+            "response_time": 1.65
         }
     ]
 }
