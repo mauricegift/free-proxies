@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 2,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "01001",
+            "lat": 54.6876,
+            "lon": 25.2806,
+            "timezone": "Europe/Vilnius",
+            "isp": "Telia Lietuva",
+            "org": "Telia Lietuva, AB",
+            "as": "AS8764 Telia Lietuva, AB",
+            "query": "78.63.115.20",
+            "type": "socks5",
+            "port": "8899",
+            "response_time": 0.55
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -20,26 +39,26 @@
             "query": "93.93.61.153",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.51
+            "response_time": 1.47
         },
         {
             "status": "success",
             "country": "Lithuania",
             "countryCode": "LT",
-            "region": "VL",
-            "regionName": "Vilnius",
-            "city": "Vilnius",
-            "zip": "09202",
-            "lat": 54.695,
-            "lon": 25.292,
+            "region": "KU",
+            "regionName": "Kaunas",
+            "city": "Kaunas",
+            "zip": "44001",
+            "lat": 54.9048,
+            "lon": 23.8958,
             "timezone": "Europe/Vilnius",
-            "isp": "UAB Delska Lithuania",
-            "org": "UAB Rakrejus",
-            "as": "AS62282 UAB Rakrejus",
-            "query": "185.193.25.181",
-            "type": "socks5",
-            "port": "9050",
-            "response_time": 19.76
+            "isp": "Init",
+            "org": "",
+            "as": "AS24877 UAB INIT",
+            "query": "88.222.65.45",
+            "type": "http",
+            "port": "3128",
+            "response_time": 10.62
         }
     ]
 }
