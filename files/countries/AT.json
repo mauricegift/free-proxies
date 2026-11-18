@@ -1,26 +1,45 @@
 {
     "countryCode": "AT",
     "country": "Austria",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "6",
+            "regionName": "Styria",
+            "city": "Kindberg",
+            "zip": "8650",
+            "lat": 47.5036,
+            "lon": 15.4499,
+            "timezone": "Europe/Vienna",
+            "isp": "BK DAT",
+            "org": "",
+            "as": "AS13292 Willibald Hambammer trading as BK-DAT Electronics e.U.",
+            "query": "213.173.75.222",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 0.44
+        },
         {
             "status": "success",
             "country": "Austria",
             "countryCode": "AT",
             "region": "7",
             "regionName": "Tyrol",
-            "city": "S\u00f6ll",
-            "zip": "6306",
-            "lat": 47.5038,
-            "lon": 12.1922,
+            "city": "L\u00e4ngenfeld",
+            "zip": "6444",
+            "lat": 47.0715,
+            "lon": 10.9651,
             "timezone": "Europe/Vienna",
-            "isp": "myNet GmbH",
-            "org": "myNET Internet Solutions",
-            "as": "AS31543 myNet GmbH",
-            "query": "83.218.186.22",
+            "isp": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+            "org": "",
+            "as": "AS206091 Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+            "query": "185.196.178.238",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 1.88
+            "port": "60606",
+            "response_time": 1.43
         },
         {
             "status": "success",
@@ -39,7 +58,26 @@
             "query": "90.146.196.18",
             "type": "http",
             "port": "8080",
-            "response_time": 4.92
+            "response_time": 3.46
+        },
+        {
+            "status": "success",
+            "country": "Austria",
+            "countryCode": "AT",
+            "region": "3",
+            "regionName": "Lower Austria",
+            "city": "Baden",
+            "zip": "2500",
+            "lat": 48.0082,
+            "lon": 16.2242,
+            "timezone": "Europe/Vienna",
+            "isp": "NETPLANET GmbH",
+            "org": "carrier66.net NetWork VIENNA",
+            "as": "AS24953 NETPLANET GmbH",
+            "query": "80.64.142.192",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.32
         }
     ]
 }
