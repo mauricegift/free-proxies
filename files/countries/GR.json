@@ -1,26 +1,45 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Greece",
             "countryCode": "GR",
-            "region": "L",
-            "regionName": "South Aegean",
-            "city": "Fira",
+            "region": "I",
+            "regionName": "Attica",
+            "city": "Athens",
             "zip": "",
-            "lat": 36.4151,
-            "lon": 25.4289,
+            "lat": 37.9842,
+            "lon": 23.7353,
             "timezone": "Europe/Athens",
             "isp": "OTEnet",
             "org": "OTEnet S.A.",
             "as": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
-            "query": "85.72.219.13",
-            "type": "http",
-            "port": "18080",
-            "response_time": 3.61
+            "query": "62.103.186.66",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.42
+        },
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "H",
+            "regionName": "Central Greece",
+            "city": "Antikyra",
+            "zip": "",
+            "lat": 38.3833,
+            "lon": 22.6333,
+            "timezone": "Europe/Athens",
+            "isp": "Cosmote Mobile Telecommunication S.A.",
+            "org": "Cosmote Mobile Telecommunications S.A.",
+            "as": "AS29247 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "149.210.44.175",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.04
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "94.68.245.147",
             "type": "http",
             "port": "8080",
-            "response_time": 9.68
+            "response_time": 11.2
         }
     ]
 }
