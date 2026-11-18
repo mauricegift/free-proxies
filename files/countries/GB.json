@@ -1,46 +1,8 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 6,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "",
-            "lat": 51.5123,
-            "lon": -0.0909,
-            "timezone": "Europe/London",
-            "isp": "Google LLC",
-            "org": "Google Cloud (europe-west2)",
-            "as": "AS396982 Google LLC",
-            "query": "34.105.252.3",
-            "type": "http",
-            "port": "3128",
-            "response_time": 0.27
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "London",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "Oracle Corporation",
-            "org": "Oracle Cloud Infrastructure (uk-london-1)",
-            "as": "AS31898 Oracle Corporation",
-            "query": "141.147.109.224",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.0
-        },
         {
             "status": "success",
             "country": "United Kingdom",
@@ -52,13 +14,13 @@
             "lat": 51.5081,
             "lon": -0.1278,
             "timezone": "Europe/London",
-            "isp": "OVH SAS",
-            "org": "OVH Ltd",
-            "as": "AS16276 OVH SAS",
-            "query": "198.244.254.77",
-            "type": "http",
-            "port": "3128",
-            "response_time": 2.4
+            "isp": "Hostkey B.V.",
+            "org": "Hostkey B.V",
+            "as": "AS57043 HOSTKEY B.V.",
+            "query": "150.241.239.94",
+            "type": "socks5",
+            "port": "10808",
+            "response_time": 6.54
         },
         {
             "status": "success",
@@ -75,9 +37,9 @@
             "org": "Iomart Cloud Services Limited",
             "as": "AS20860 IOMART CLOUD SERVICES LIMITED",
             "query": "81.168.119.85",
-            "type": "http",
+            "type": "socks5",
             "port": "443",
-            "response_time": 3.18
+            "response_time": 7.67
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "31.148.99.133",
             "type": "http",
             "port": "4000",
-            "response_time": 4.41
+            "response_time": 10.02
         },
         {
             "status": "success",
@@ -104,18 +66,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "City of London",
-            "zip": "EC4N",
-            "lat": 51.5164,
-            "lon": -0.093,
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
             "timezone": "Europe/London",
-            "isp": "Ipxo LLC",
-            "org": "Ipxo LLC",
-            "as": "AS203758 EUGAMEHOST LTD",
-            "query": "23.26.247.126",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "161.35.44.214",
             "type": "http",
             "port": "3128",
-            "response_time": 5.58
+            "response_time": 10.59
         }
     ]
 }
