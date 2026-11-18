@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,64 @@
             "query": "147.45.79.130",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.67
+            "response_time": 0.39
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "G",
+            "regionName": "Kronoberg County",
+            "city": "Rottne",
+            "zip": "363 30",
+            "lat": 57.0164,
+            "lon": 14.9055,
+            "timezone": "Europe/Stockholm",
+            "isp": "Patrik Lagerman",
+            "org": "Kronnet",
+            "as": "AS35100 Patrik Lagerman",
+            "query": "171.25.158.95",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.08
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm",
+            "city": "Stockholm",
+            "zip": "",
+            "lat": 59.32938,
+            "lon": 18.06871,
+            "timezone": "Europe/Stockholm",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (eu-north-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.60.8.167",
+            "type": "socks4",
+            "port": "9080",
+            "response_time": 2.18
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "126 30",
+            "lat": 59.3098,
+            "lon": 17.9796,
+            "timezone": "Europe/Stockholm",
+            "isp": "GleSYS AB",
+            "org": "Frootynet",
+            "as": "AS42708 Glesys AB",
+            "query": "46.246.12.31",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.29
         },
         {
             "status": "success",
@@ -39,7 +96,7 @@
             "query": "188.150.229.60",
             "type": "socks4",
             "port": "5678",
-            "response_time": 7.4
+            "response_time": 2.38
         }
     ]
 }
