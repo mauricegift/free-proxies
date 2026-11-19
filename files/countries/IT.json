@@ -1,8 +1,27 @@
 {
     "countryCode": "IT",
     "country": "Italy",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "25",
+            "regionName": "Lombardy",
+            "city": "Milan",
+            "zip": "20153",
+            "lat": 45.4722,
+            "lon": 9.1922,
+            "timezone": "Europe/Rome",
+            "isp": "Sirius Technology SRL",
+            "org": "Sirius Technology SRL",
+            "as": "AS60501 Sirius Technology SRL",
+            "query": "149.86.206.27",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.29
+        },
         {
             "status": "success",
             "country": "Italy",
@@ -20,26 +39,45 @@
             "query": "93.187.26.134",
             "type": "http",
             "port": "58080",
-            "response_time": 6.53
+            "response_time": 7.37
         },
         {
             "status": "success",
             "country": "Italy",
             "countryCode": "IT",
-            "region": "72",
-            "regionName": "Campania",
-            "city": "Naples",
-            "zip": "80132",
-            "lat": 40.8449,
-            "lon": 14.2716,
+            "region": "82",
+            "regionName": "Sicily",
+            "city": "Catania",
+            "zip": "95131",
+            "lat": 37.4925,
+            "lon": 15.0701,
             "timezone": "Europe/Rome",
-            "isp": "Vodafone",
+            "isp": "INTERBUSINESS",
             "org": "",
-            "as": "AS30722 Fastweb SpA",
-            "query": "5.95.121.180",
+            "as": "AS3269 Telecom Italia S.p.A.",
+            "query": "79.52.108.2",
+            "type": "http",
+            "port": "8081",
+            "response_time": 10.35
+        },
+        {
+            "status": "success",
+            "country": "Italy",
+            "countryCode": "IT",
+            "region": "52",
+            "regionName": "Tuscany",
+            "city": "San Giovanni Valdarno",
+            "zip": "52027",
+            "lat": 43.5707,
+            "lon": 11.5331,
+            "timezone": "Europe/Rome",
+            "isp": "T&T Tecnologie e Telecomunicazioni Srl",
+            "org": "T&T Tecnologie e Telecomunicazioni Srl",
+            "as": "AS200100 T&T Tecnologie e Telecomunicazioni Srl",
+            "query": "91.192.25.158",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 7.75
+            "port": "4145",
+            "response_time": 14.79
         }
     ]
 }
