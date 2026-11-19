@@ -1,26 +1,26 @@
 {
     "countryCode": "EE",
     "country": "Estonia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Estonia",
             "countryCode": "EE",
-            "region": "79",
-            "regionName": "Tartu",
-            "city": "Tartu",
+            "region": "37",
+            "regionName": "Harjumaa",
+            "city": "Tallinn",
             "zip": "",
-            "lat": 58.3794,
-            "lon": 26.7322,
+            "lat": 59.4369,
+            "lon": 24.7535,
             "timezone": "Europe/Tallinn",
-            "isp": "Geenet ldt.",
-            "org": "",
-            "as": "AS203081 Geenet OY",
-            "query": "185.145.4.8",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.34
+            "isp": "BlueVPS OU",
+            "org": "BV Na41",
+            "as": "AS62005 BlueVPS OU",
+            "query": "132.243.168.30",
+            "type": "socks4",
+            "port": "9150",
+            "response_time": 0.99
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "185.157.111.3",
             "type": "socks4",
             "port": "5678",
-            "response_time": 3.65
+            "response_time": 3.51
+        },
+        {
+            "status": "success",
+            "country": "Estonia",
+            "countryCode": "EE",
+            "region": "37",
+            "regionName": "Harjumaa",
+            "city": "Tallinn",
+            "zip": "10152",
+            "lat": 59.4305,
+            "lon": 24.7516,
+            "timezone": "Europe/Tallinn",
+            "isp": "GloboTech Communications",
+            "org": "Tersys Group OU",
+            "as": "AS36666 GloboTech Communications",
+            "query": "72.10.173.106",
+            "type": "http",
+            "port": "8118",
+            "response_time": 8.2
         }
     ]
 }
