@@ -1,46 +1,8 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 6,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AR",
-            "regionName": "Aragon",
-            "city": "Zaragoza",
-            "zip": "",
-            "lat": 41.65606,
-            "lon": -0.87734,
-            "timezone": "Europe/Madrid",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.94.221.175",
-            "type": "http",
-            "port": "1857",
-            "response_time": 0.57
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "AR",
-            "regionName": "Aragon",
-            "city": "Zaragoza",
-            "zip": "",
-            "lat": 41.65606,
-            "lon": -0.87734,
-            "timezone": "Europe/Madrid",
-            "isp": "Amazon.com",
-            "org": "AWS EC2 (eu-south-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.217.214.40",
-            "type": "http",
-            "port": "34380",
-            "response_time": 0.6
-        },
         {
             "status": "success",
             "country": "Spain",
@@ -58,7 +20,45 @@
             "query": "35.43.85.195",
             "type": "http",
             "port": "27951",
-            "response_time": 0.85
+            "response_time": 0.88
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Madrid",
+            "zip": "28017",
+            "lat": 40.4235,
+            "lon": -3.6463,
+            "timezone": "Europe/Madrid",
+            "isp": "RIMA (Red IP Multi Acceso)",
+            "org": "",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "2.139.41.14",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.37
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Zahara de los Atunes",
+            "zip": "11393",
+            "lat": 36.134,
+            "lon": -5.8495,
+            "timezone": "Europe/Madrid",
+            "isp": "Nolu Network S.L.",
+            "org": "Nolu Network S.L",
+            "as": "AS206853 NOLU NETWORK S.L.",
+            "query": "185.174.80.7",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.38
         },
         {
             "status": "success",
@@ -71,32 +71,13 @@
             "lat": 41.65606,
             "lon": -0.87734,
             "timezone": "Europe/Madrid",
-            "isp": "Amazon.com",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (eu-south-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.217.214.40",
+            "query": "51.94.221.175",
             "type": "http",
-            "port": "19210",
-            "response_time": 0.86
-        },
-        {
-            "status": "success",
-            "country": "Spain",
-            "countryCode": "ES",
-            "region": "CT",
-            "regionName": "Catalonia",
-            "city": "Sant Joan les Fonts",
-            "zip": "17857",
-            "lat": 42.2153,
-            "lon": 2.5104,
-            "timezone": "Europe/Madrid",
-            "isp": "Connecta 1876 SLU",
-            "org": "1 NEXIATEL",
-            "as": "AS210086 CONNECTA 1876 SLU",
-            "query": "85.117.248.36",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 4.87
+            "port": "26592",
+            "response_time": 3.82
         },
         {
             "status": "success",
@@ -115,7 +96,7 @@
             "query": "84.236.185.247",
             "type": "socks4",
             "port": "61710",
-            "response_time": 5.61
+            "response_time": 5.62
         }
     ]
 }
