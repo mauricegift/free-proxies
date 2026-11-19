@@ -1,26 +1,45 @@
 {
     "countryCode": "GR",
     "country": "Greece",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Greece",
+            "countryCode": "GR",
+            "region": "H",
+            "regionName": "Central Greece",
+            "city": "Antikyra",
+            "zip": "",
+            "lat": 38.3833,
+            "lon": 22.6333,
+            "timezone": "Europe/Athens",
+            "isp": "Cosmote Mobile Telecommunication S.A.",
+            "org": "Cosmote Mobile Telecommunications S.A.",
+            "as": "AS29247 Ote SA (Hellenic Telecommunications Organisation)",
+            "query": "149.210.44.175",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.05
+        },
         {
             "status": "success",
             "country": "Greece",
             "countryCode": "GR",
             "region": "B",
             "regionName": "Central Macedonia",
-            "city": "Giannits\u00e1",
+            "city": "Thessaloniki",
             "zip": "",
-            "lat": 40.7919,
-            "lon": 22.4075,
+            "lat": 40.6439,
+            "lon": 22.9358,
             "timezone": "Europe/Athens",
-            "isp": "INTERWORKS Single Member S.A.",
-            "org": "Customer Beeasy",
-            "as": "AS50919 INTERWORKS Single Member S.A.",
-            "query": "188.164.201.197",
+            "isp": "University of Thessaly",
+            "org": "Network Operations Center, University of Thessaly",
+            "as": "AS5408 National Infrastructures for Research and Technology S.A.",
+            "query": "194.177.207.44",
             "type": "http",
-            "port": "666",
-            "response_time": 4.19
+            "port": "3128",
+            "response_time": 10.05
         }
     ]
 }
