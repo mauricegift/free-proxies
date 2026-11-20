@@ -1,8 +1,27 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
+            "zip": "",
+            "lat": -6.82349,
+            "lon": 39.2695,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Computer Sales & Services, single-ip-customers",
+            "org": "Computer Sales & Services",
+            "as": "AS327792 Computer Sales & Services",
+            "query": "165.16.192.205",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 0.91
+        },
         {
             "status": "success",
             "country": "Tanzania",
@@ -20,7 +39,7 @@
             "query": "154.72.67.190",
             "type": "http",
             "port": "8080",
-            "response_time": 9.04
+            "response_time": 5.05
         }
     ]
 }
