@@ -1,7 +1,7 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 7,
+    "count": 10,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "139.99.238.83",
             "type": "http",
             "port": "8080",
-            "response_time": 1.54
+            "response_time": 1.69
         },
         {
             "status": "success",
@@ -39,7 +39,45 @@
             "query": "134.199.160.93",
             "type": "http",
             "port": "8888",
-            "response_time": 1.78
+            "response_time": 1.9
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "NSW",
+            "regionName": "New South Wales",
+            "city": "Sydney",
+            "zip": "",
+            "lat": -33.86785,
+            "lon": 151.20732,
+            "timezone": "Australia/Sydney",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.239.253.213",
+            "type": "http",
+            "port": "3862",
+            "response_time": 3.37
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "",
+            "lat": -37.814,
+            "lon": 144.96332,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (ap-southeast-4)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.26.208.68",
+            "type": "http",
+            "port": "40001",
+            "response_time": 3.49
         },
         {
             "status": "success",
@@ -58,7 +96,7 @@
             "query": "13.239.253.213",
             "type": "http",
             "port": "13631",
-            "response_time": 3.19
+            "response_time": 3.68
         },
         {
             "status": "success",
@@ -74,10 +112,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ap-southeast-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "13.239.253.213",
+            "query": "3.26.199.107",
             "type": "http",
-            "port": "69",
-            "response_time": 3.29
+            "port": "42984",
+            "response_time": 4.0
         },
         {
             "status": "success",
@@ -96,26 +134,7 @@
             "query": "13.239.253.213",
             "type": "http",
             "port": "35329",
-            "response_time": 4.4
-        },
-        {
-            "status": "success",
-            "country": "Australia",
-            "countryCode": "AU",
-            "region": "VIC",
-            "regionName": "Victoria",
-            "city": "Melbourne",
-            "zip": "",
-            "lat": -37.814,
-            "lon": 144.96332,
-            "timezone": "Australia/Melbourne",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (ap-southeast-4)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.26.208.68",
-            "type": "http",
-            "port": "56194",
-            "response_time": 6.68
+            "response_time": 4.01
         },
         {
             "status": "success",
@@ -124,17 +143,55 @@
             "region": "NSW",
             "regionName": "New South Wales",
             "city": "Sydney",
-            "zip": "2000",
-            "lat": -33.8672,
-            "lon": 151.1997,
+            "zip": "",
+            "lat": -33.86785,
+            "lon": 151.20732,
             "timezone": "Australia/Sydney",
-            "isp": "RouterHosting LLC",
-            "org": "FranTech Solutions",
-            "as": "AS14956 RouterHosting LLC",
-            "query": "198.251.85.115",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ap-southeast-2)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "13.239.253.213",
             "type": "http",
-            "port": "3128",
-            "response_time": 8.77
+            "port": "69",
+            "response_time": 4.17
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
+            "timezone": "Australia/Melbourne",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
+            "type": "http",
+            "port": "8000",
+            "response_time": 5.81
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "St Helena",
+            "zip": "3088",
+            "lat": -37.6899,
+            "lon": 145.123,
+            "timezone": "Australia/Melbourne",
+            "isp": "Aussie Broadband",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 8.49
         }
     ]
 }
