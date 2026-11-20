@@ -1,26 +1,45 @@
 {
     "countryCode": "LV",
     "country": "Latvia",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Latvia",
             "countryCode": "LV",
-            "region": "RIX",
-            "regionName": "Riga",
-            "city": "Riga",
-            "zip": "LV-1001",
-            "lat": 56.9473,
-            "lon": 24.0979,
+            "region": "088",
+            "regionName": "Saldus novads",
+            "city": "Saldus",
+            "zip": "LV-3801",
+            "lat": 56.6335,
+            "lon": 22.4471,
             "timezone": "Europe/Riga",
-            "isp": "SIA Tet",
-            "org": "Apollo DDD",
-            "as": "AS12578 SIA Tet",
-            "query": "195.13.182.211",
+            "isp": "Sia Nano IT",
+            "org": "Sia Nano IT",
+            "as": "AS43513 Sia Nano IT",
+            "query": "31.170.19.4",
             "type": "socks4",
-            "port": "8080",
-            "response_time": 3.74
+            "port": "4153",
+            "response_time": 4.4
+        },
+        {
+            "status": "success",
+            "country": "Latvia",
+            "countryCode": "LV",
+            "region": "088",
+            "regionName": "Saldus novads",
+            "city": "Saldus",
+            "zip": "LV-3801",
+            "lat": 56.6335,
+            "lon": 22.4471,
+            "timezone": "Europe/Riga",
+            "isp": "Sia Nano IT",
+            "org": "Sia Nano IT",
+            "as": "AS43513 Sia Nano IT",
+            "query": "31.170.17.225",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 4.51
         }
     ]
 }
