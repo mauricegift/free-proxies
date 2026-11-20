@@ -11,25 +11,6 @@
             "regionName": "Abu Dhabi",
             "city": "Abu Dhabi",
             "zip": "",
-            "lat": 24.4542,
-            "lon": 54.406,
-            "timezone": "Asia/Dubai",
-            "isp": "Emirates Telecommunications Corporation",
-            "org": "Etisalat",
-            "as": "AS5384 Emirates Internet",
-            "query": "2.50.191.129",
-            "type": "socks5",
-            "port": "10800",
-            "response_time": 2.52
-        },
-        {
-            "status": "success",
-            "country": "United Arab Emirates",
-            "countryCode": "AE",
-            "region": "AZ",
-            "regionName": "Abu Dhabi",
-            "city": "Abu Dhabi",
-            "zip": "",
             "lat": 24.4512,
             "lon": 54.397,
             "timezone": "Asia/Dubai",
@@ -37,9 +18,28 @@
             "org": "Oracle Cloud Infrastructure (me-abudhabi-1)",
             "as": "AS31898 Oracle Corporation",
             "query": "129.151.130.247",
-            "type": "http",
+            "type": "socks4",
             "port": "1111",
-            "response_time": 4.91
+            "response_time": 1.21
+        },
+        {
+            "status": "success",
+            "country": "United Arab Emirates",
+            "countryCode": "AE",
+            "region": "DU",
+            "regionName": "Dubai",
+            "city": "Dubai",
+            "zip": "",
+            "lat": 25.0734,
+            "lon": 55.2979,
+            "timezone": "Asia/Dubai",
+            "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+            "org": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+            "as": "AS5384 Emirates Internet",
+            "query": "151.253.146.146",
+            "type": "http",
+            "port": "8080",
+            "response_time": 7.52
         }
     ]
 }
