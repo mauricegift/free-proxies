@@ -1,26 +1,26 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 6,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "10",
-            "regionName": "Prague",
-            "city": "Prague",
-            "zip": "140 00",
-            "lat": 50.0471,
-            "lon": 14.4523,
+            "region": "31",
+            "regionName": "South Bohemian Region",
+            "city": "Vesel\u00ed nad Lu\u017enic\u00ed",
+            "zip": "391 81",
+            "lat": 49.1919,
+            "lon": 14.6825,
             "timezone": "Europe/Prague",
-            "isp": "PODA a.s.",
-            "org": "PODA",
-            "as": "AS30764 PODA a.s.",
-            "query": "193.165.115.78",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 0.3
+            "isp": "SmartApe OU",
+            "org": "ESA",
+            "as": "AS62212 SmartApe OU",
+            "query": "91.199.137.149",
+            "type": "socks4",
+            "port": "2001",
+            "response_time": 0.73
         },
         {
             "status": "success",
@@ -39,26 +39,7 @@
             "query": "185.73.103.23",
             "type": "http",
             "port": "3128",
-            "response_time": 4.09
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "10",
-            "regionName": "Prague",
-            "city": "Prague",
-            "zip": "150 00",
-            "lat": 50.0687,
-            "lon": 14.3947,
-            "timezone": "Europe/Prague",
-            "isp": "T-Mobile Czech Republic a.s.",
-            "org": "T-Mobile Czech Republic",
-            "as": "AS13036 T-Mobile Czech Republic a.s.",
-            "query": "78.80.149.106",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 4.43
+            "response_time": 3.86
         },
         {
             "status": "success",
@@ -77,45 +58,7 @@
             "query": "188.119.98.126",
             "type": "http",
             "port": "9999",
-            "response_time": 4.61
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "20",
-            "regionName": "Central Bohemia",
-            "city": "P\u0159\u00edbram",
-            "zip": "261 01",
-            "lat": 49.6987,
-            "lon": 14.1948,
-            "timezone": "Europe/Prague",
-            "isp": "IP4ISP z.s.p.o",
-            "org": "LuckyNet s.r.o.",
-            "as": "AS49985 IP4ISP z.s.p.o",
-            "query": "176.62.237.51",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 7.55
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "20",
-            "regionName": "Central Bohemia",
-            "city": "V\u0161enory",
-            "zip": "252 31",
-            "lat": 49.9335,
-            "lon": 14.3169,
-            "timezone": "Europe/Prague",
-            "isp": "MASTER",
-            "org": "Virtualmaster, s.r.o.",
-            "as": "AS24971 MasterDC s.r.o.",
-            "query": "80.79.29.222",
-            "type": "http",
-            "port": "3128",
-            "response_time": 12.67
+            "response_time": 8.13
         }
     ]
 }
