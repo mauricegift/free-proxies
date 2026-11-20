@@ -1,7 +1,7 @@
 {
     "countryCode": "CM",
     "country": "Cameroon",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -19,8 +19,8 @@
             "as": "AS36912 Orange Cameroun SA",
             "query": "102.244.78.61",
             "type": "http",
-            "port": "8084",
-            "response_time": 1.98
+            "port": "8090",
+            "response_time": 2.69
         },
         {
             "status": "success",
@@ -38,65 +38,8 @@
             "as": "AS36912 Orange Cameroun SA",
             "query": "102.244.78.61",
             "type": "http",
-            "port": "8085",
-            "response_time": 3.75
-        },
-        {
-            "status": "success",
-            "country": "Cameroon",
-            "countryCode": "CM",
-            "region": "EN",
-            "regionName": "Far North Region",
-            "city": "Maroua",
-            "zip": "",
-            "lat": 10.5988,
-            "lon": 14.3225,
-            "timezone": "Africa/Douala",
-            "isp": "Orange CAM INTERNET",
-            "org": "Orange Cameroun SA",
-            "as": "AS36912 Orange Cameroun SA",
-            "query": "102.244.78.61",
-            "type": "http",
-            "port": "8086",
-            "response_time": 5.79
-        },
-        {
-            "status": "success",
-            "country": "Cameroon",
-            "countryCode": "CM",
-            "region": "EN",
-            "regionName": "Far North Region",
-            "city": "Maroua",
-            "zip": "",
-            "lat": 10.5988,
-            "lon": 14.3225,
-            "timezone": "Africa/Douala",
-            "isp": "Orange CAM INTERNET",
-            "org": "Orange Cameroun SA",
-            "as": "AS36912 Orange Cameroun SA",
-            "query": "102.244.78.61",
-            "type": "http",
-            "port": "8089",
-            "response_time": 6.72
-        },
-        {
-            "status": "success",
-            "country": "Cameroon",
-            "countryCode": "CM",
-            "region": "EN",
-            "regionName": "Far North Region",
-            "city": "Maroua",
-            "zip": "",
-            "lat": 10.5988,
-            "lon": 14.3225,
-            "timezone": "Africa/Douala",
-            "isp": "Orange CAM INTERNET",
-            "org": "Orange Cameroun SA",
-            "as": "AS36912 Orange Cameroun SA",
-            "query": "102.244.78.61",
-            "type": "http",
-            "port": "8082",
-            "response_time": 7.96
+            "port": "8083",
+            "response_time": 2.89
         },
         {
             "status": "success",
@@ -115,7 +58,45 @@
             "query": "102.244.78.61",
             "type": "http",
             "port": "8081",
-            "response_time": 9.03
+            "response_time": 5.96
+        },
+        {
+            "status": "success",
+            "country": "Cameroon",
+            "countryCode": "CM",
+            "region": "CE",
+            "regionName": "Centre",
+            "city": "Yaound\u00e9",
+            "zip": "",
+            "lat": 3.8616,
+            "lon": 11.5202,
+            "timezone": "Africa/Douala",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Starlink",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "143.105.153.7",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 6.27
+        },
+        {
+            "status": "success",
+            "country": "Cameroon",
+            "countryCode": "CM",
+            "region": "EN",
+            "regionName": "Far North Region",
+            "city": "Maroua",
+            "zip": "",
+            "lat": 10.5988,
+            "lon": 14.3225,
+            "timezone": "Africa/Douala",
+            "isp": "Orange CAM INTERNET",
+            "org": "Orange Cameroun SA",
+            "as": "AS36912 Orange Cameroun SA",
+            "query": "102.244.78.61",
+            "type": "http",
+            "port": "8089",
+            "response_time": 7.03
         }
     ]
 }
