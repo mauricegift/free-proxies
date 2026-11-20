@@ -1,26 +1,45 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
             "country": "Tanzania",
             "countryCode": "TZ",
-            "region": "15",
-            "regionName": "Zanzibar Urban/West",
-            "city": "Zanzibar",
+            "region": "01",
+            "regionName": "Arusha",
+            "city": "Arusha",
             "zip": "",
-            "lat": -6.16394,
-            "lon": 39.1979,
+            "lat": -3.38693,
+            "lon": 36.683,
             "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Zanzibar Information Communication Technology Infrastructure Agency",
-            "org": "Zanzibar Communication Corporation",
-            "as": "AS328676 Zanzibar Information Communication Technology Infrastructure Agency (ZICTIA)",
-            "query": "102.214.45.70",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 5.5
+            "isp": "Habari Node Public Limited",
+            "org": "Habari RockNetwork",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "154.0.155.133",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.04
+        },
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "18",
+            "regionName": "Mwanza",
+            "city": "Mwanza",
+            "zip": "",
+            "lat": -2.51667,
+            "lon": 32.9,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Habari Node Public Limited",
+            "org": "Habari RockCable",
+            "as": "AS36909 Habari Node Public Limited",
+            "query": "154.0.153.87",
+            "type": "http",
+            "port": "8080",
+            "response_time": 11.34
         }
     ]
 }
