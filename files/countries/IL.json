@@ -1,7 +1,7 @@
 {
     "countryCode": "IL",
     "country": "Israel",
-    "count": 9,
+    "count": 11,
     "proxies": [
         {
             "status": "success",
@@ -19,7 +19,45 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.85.44.149",
             "type": "http",
-            "port": "8013",
+            "port": "44650",
+            "response_time": 0.79
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.08088,
+            "lon": 34.78057,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (il-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.16.4.39",
+            "type": "http",
+            "port": "1452",
+            "response_time": 0.92
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.08088,
+            "lon": 34.78057,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (il-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.85.44.149",
+            "type": "http",
+            "port": "8928",
             "response_time": 1.23
         },
         {
@@ -38,46 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.85.44.149",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.9
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "TA",
-            "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
-            "zip": "",
-            "lat": 32.08088,
-            "lon": 34.78057,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (il-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.16.4.39",
-            "type": "http",
-            "port": "9002",
-            "response_time": 2.05
-        },
-        {
-            "status": "success",
-            "country": "Israel",
-            "countryCode": "IL",
-            "region": "TA",
-            "regionName": "Tel Aviv",
-            "city": "Tel Aviv",
-            "zip": "",
-            "lat": 32.08088,
-            "lon": 34.78057,
-            "timezone": "Asia/Jerusalem",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (il-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.16.4.39",
-            "type": "http",
-            "port": "4954",
-            "response_time": 2.09
+            "port": "55322",
+            "response_time": 1.5
         },
         {
             "status": "success",
@@ -95,8 +95,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.85.44.149",
             "type": "http",
-            "port": "44334",
-            "response_time": 2.16
+            "port": "80",
+            "response_time": 2.12
         },
         {
             "status": "success",
@@ -114,8 +114,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "51.85.44.149",
             "type": "http",
-            "port": "12026",
-            "response_time": 2.28
+            "port": "32788",
+            "response_time": 2.13
         },
         {
             "status": "success",
@@ -131,10 +131,10 @@
             "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (il-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.16.4.39",
+            "query": "51.85.44.149",
             "type": "http",
-            "port": "40674",
-            "response_time": 2.42
+            "port": "41625",
+            "response_time": 2.39
         },
         {
             "status": "success",
@@ -153,7 +153,7 @@
             "query": "51.16.4.39",
             "type": "http",
             "port": "8050",
-            "response_time": 4.45
+            "response_time": 2.7
         },
         {
             "status": "success",
@@ -163,16 +163,54 @@
             "regionName": "Tel Aviv",
             "city": "Tel Aviv",
             "zip": "",
-            "lat": 32.0804,
-            "lon": 34.7807,
+            "lat": 32.08088,
+            "lon": 34.78057,
             "timezone": "Asia/Jerusalem",
-            "isp": "ITC NG ltd",
-            "org": "ITC NG ltd",
-            "as": "AS202940 ITC NG ltd",
-            "query": "147.236.181.86",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (il-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.85.44.149",
             "type": "http",
-            "port": "50009",
-            "response_time": 6.21
+            "port": "19152",
+            "response_time": 4.14
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.08088,
+            "lon": 34.78057,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (il-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.16.4.39",
+            "type": "http",
+            "port": "8989",
+            "response_time": 4.2
+        },
+        {
+            "status": "success",
+            "country": "Israel",
+            "countryCode": "IL",
+            "region": "TA",
+            "regionName": "Tel Aviv",
+            "city": "Tel Aviv",
+            "zip": "",
+            "lat": 32.08088,
+            "lon": 34.78057,
+            "timezone": "Asia/Jerusalem",
+            "isp": "Amazon.com, Inc.",
+            "org": "AWS EC2 (il-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "51.85.44.149",
+            "type": "http",
+            "port": "8631",
+            "response_time": 4.88
         }
     ]
 }
