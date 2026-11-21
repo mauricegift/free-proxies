@@ -1,8 +1,27 @@
 {
     "countryCode": "IE",
     "country": "Ireland",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Ireland",
+            "countryCode": "IE",
+            "region": "D",
+            "regionName": "Leinster",
+            "city": "Dublin",
+            "zip": "",
+            "lat": 53.33306,
+            "lon": -6.24889,
+            "timezone": "Europe/Dublin",
+            "isp": "BellSouth.net Inc.",
+            "org": "AWS EC2 (eu-west-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "108.131.152.118",
+            "type": "http",
+            "port": "775",
+            "response_time": 1.49
+        },
         {
             "status": "success",
             "country": "Ireland",
@@ -20,7 +39,7 @@
             "query": "52.214.92.206",
             "type": "http",
             "port": "7055",
-            "response_time": 3.54
+            "response_time": 1.56
         },
         {
             "status": "success",
@@ -38,46 +57,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "108.131.152.118",
             "type": "http",
-            "port": "52719",
-            "response_time": 4.28
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "M",
-            "regionName": "Munster",
-            "city": "Limerick",
-            "zip": "V94",
-            "lat": 52.667,
-            "lon": -8.6268,
-            "timezone": "Europe/Dublin",
-            "isp": "Enet Telecommunications Networks Limited",
-            "org": "Nuwave",
-            "as": "AS207044 Enet Telecommunications Networks Limited",
-            "query": "185.138.114.111",
-            "type": "http",
-            "port": "8080",
-            "response_time": 9.39
-        },
-        {
-            "status": "success",
-            "country": "Ireland",
-            "countryCode": "IE",
-            "region": "D",
-            "regionName": "Leinster",
-            "city": "Dublin",
-            "zip": "",
-            "lat": 53.33306,
-            "lon": -6.24889,
-            "timezone": "Europe/Dublin",
-            "isp": "BellSouth.net Inc.",
-            "org": "AWS EC2 (eu-west-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "108.131.152.118",
-            "type": "http",
-            "port": "8103",
-            "response_time": 14.83
+            "port": "43",
+            "response_time": 4.34
         }
     ]
 }
