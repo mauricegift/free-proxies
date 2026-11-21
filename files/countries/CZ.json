@@ -1,8 +1,27 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 3,
+    "count": 8,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "\u00daherce",
+            "zip": "330 23",
+            "lat": 49.7035,
+            "lon": 13.2156,
+            "timezone": "Europe/Prague",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.14
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +39,45 @@
             "query": "193.165.115.78",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.21
+            "response_time": 0.31
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "31",
+            "regionName": "South Bohemian Region",
+            "city": "Vesel\u00ed nad Lu\u017enic\u00ed",
+            "zip": "391 81",
+            "lat": 49.1919,
+            "lon": 14.6825,
+            "timezone": "Europe/Prague",
+            "isp": "SmartApe OU",
+            "org": "ESA",
+            "as": "AS62212 SmartApe OU",
+            "query": "91.199.137.149",
+            "type": "socks5",
+            "port": "2010",
+            "response_time": 0.75
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Klatovy",
+            "zip": "339 01",
+            "lat": 49.3791,
+            "lon": 13.3059,
+            "timezone": "Europe/Prague",
+            "isp": "MAXTEL s.r.o. 1",
+            "org": "MAXTEL s.r.o.",
+            "as": "AS197296 United Networks SE",
+            "query": "46.23.61.97",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.47
         },
         {
             "status": "success",
@@ -39,7 +96,45 @@
             "query": "188.119.98.126",
             "type": "http",
             "port": "9999",
-            "response_time": 4.84
+            "response_time": 4.24
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "20",
+            "regionName": "Central Bohemia",
+            "city": "P\u0159\u00edbram",
+            "zip": "261 01",
+            "lat": 49.6987,
+            "lon": 14.1948,
+            "timezone": "Europe/Prague",
+            "isp": "IP4ISP z.s.p.o",
+            "org": "LuckyNet s.r.o.",
+            "as": "AS49985 IP4ISP z.s.p.o",
+            "query": "176.62.237.51",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.51
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "150 00",
+            "lat": 50.0687,
+            "lon": 14.3947,
+            "timezone": "Europe/Prague",
+            "isp": "Druzstvo EUROSIGNAL",
+            "org": "Eurosignal",
+            "as": "AS42189 Druzstvo EUROSIGNAL",
+            "query": "77.240.102.149",
+            "type": "http",
+            "port": "800",
+            "response_time": 7.46
         },
         {
             "status": "success",
@@ -58,7 +153,7 @@
             "query": "185.73.103.23",
             "type": "http",
             "port": "3128",
-            "response_time": 4.92
+            "response_time": 7.69
         }
     ]
 }
