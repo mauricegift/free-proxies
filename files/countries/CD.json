@@ -1,8 +1,46 @@
 {
     "countryCode": "CD",
     "country": "Democratic Republic of the Congo",
-    "count": 2,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Democratic Republic of the Congo",
+            "countryCode": "CD",
+            "region": "KN",
+            "regionName": "Kinshasa City",
+            "city": "Kinshasa",
+            "zip": "",
+            "lat": -4.32758,
+            "lon": 15.3136,
+            "timezone": "Africa/Kinshasa",
+            "isp": "Global Broadband Solution Inc",
+            "org": "Global Broadband Solution",
+            "as": "AS43256 Global Broadband Solution Inc",
+            "query": "217.171.94.166",
+            "type": "socks5",
+            "port": "1081",
+            "response_time": 7.28
+        },
+        {
+            "status": "success",
+            "country": "Democratic Republic of the Congo",
+            "countryCode": "CD",
+            "region": "KN",
+            "regionName": "Kinshasa City",
+            "city": "Kinshasa",
+            "zip": "",
+            "lat": -4.32758,
+            "lon": 15.3136,
+            "timezone": "Africa/Kinshasa",
+            "isp": "Orioncom SPRL",
+            "org": "Orioncom",
+            "as": "AS37638 Orioncom SPRL",
+            "query": "102.222.231.1",
+            "type": "http",
+            "port": "2333",
+            "response_time": 7.77
+        },
         {
             "status": "success",
             "country": "Congo (DRC)",
@@ -20,7 +58,7 @@
             "query": "41.79.233.182",
             "type": "http",
             "port": "8080",
-            "response_time": 5.3
+            "response_time": 9.05
         },
         {
             "status": "success",
@@ -39,7 +77,7 @@
             "query": "217.171.85.178",
             "type": "socks5",
             "port": "1080",
-            "response_time": 5.39
+            "response_time": 11.08
         }
     ]
 }
