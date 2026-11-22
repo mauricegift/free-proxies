@@ -1,8 +1,46 @@
 {
     "countryCode": "RO",
     "country": "Romania",
-    "count": 4,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucharest",
+            "city": "Bucharest",
+            "zip": "052829",
+            "lat": 44.4268,
+            "lon": 26.1025,
+            "timezone": "Europe/Bucharest",
+            "isp": "DAM TELECOM SERVICES SRL",
+            "org": "DAM TELECOM SERVICES SRL",
+            "as": "AS214529 DAM TELECOM SERVICES SRL",
+            "query": "89.40.77.249",
+            "type": "http",
+            "port": "8787",
+            "response_time": 1.23
+        },
+        {
+            "status": "success",
+            "country": "Romania",
+            "countryCode": "RO",
+            "region": "B",
+            "regionName": "Bucharest",
+            "city": "Bucharest",
+            "zip": "052829",
+            "lat": 44.4658,
+            "lon": 26.0864,
+            "timezone": "Europe/Bucharest",
+            "isp": "Vodafone RO",
+            "org": "MobiFon S.A.",
+            "as": "AS12302 Vodafone Romania S.A.",
+            "query": "81.12.157.98",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 1.42
+        },
         {
             "status": "success",
             "country": "Romania",
@@ -20,7 +58,7 @@
             "query": "81.18.90.43",
             "type": "socks4",
             "port": "4153",
-            "response_time": 1.33
+            "response_time": 1.45
         },
         {
             "status": "success",
@@ -29,17 +67,17 @@
             "region": "B",
             "regionName": "Bucharest",
             "city": "Bucharest",
-            "zip": "010017",
-            "lat": 44.4946,
-            "lon": 26.0578,
+            "zip": "020335",
+            "lat": 44.4205,
+            "lon": 26.169,
             "timezone": "Europe/Bucharest",
-            "isp": "Vodafone RO",
-            "org": "Vodafone Romania S.A.",
-            "as": "AS12302 Vodafone Romania S.A.",
-            "query": "81.12.169.254",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 1.57
+            "isp": "FlokiNET ehf",
+            "org": "FlokiNET Romania",
+            "as": "AS200651 FlokiNET ehf",
+            "query": "185.100.85.64",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.14
         },
         {
             "status": "success",
@@ -58,26 +96,26 @@
             "query": "194.50.50.100",
             "type": "socks4",
             "port": "1080",
-            "response_time": 5.62
+            "response_time": 4.48
         },
         {
             "status": "success",
             "country": "Romania",
             "countryCode": "RO",
-            "region": "DJ",
-            "regionName": "Dolj",
-            "city": "Craiova",
-            "zip": "200008",
-            "lat": 44.318,
-            "lon": 23.7967,
+            "region": "CV",
+            "regionName": "Covasna County",
+            "city": "Sfantu Gheorghe",
+            "zip": "520076",
+            "lat": 45.8647,
+            "lon": 25.7862,
             "timezone": "Europe/Bucharest",
-            "isp": "RCS & RDS",
-            "org": "RCS & RDS Business",
-            "as": "AS8708 RCS & RDS",
-            "query": "86.125.19.21",
-            "type": "http",
-            "port": "8080",
-            "response_time": 6.95
+            "isp": "Alter-NET SRL",
+            "org": "Asociatia Interlan",
+            "as": "AS39531 Alter-NET SRL",
+            "query": "93.115.174.1",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 7.5
         }
     ]
 }
