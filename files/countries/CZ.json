@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -20,26 +20,45 @@
             "query": "90.182.147.170",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.16
+            "response_time": 0.21
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "52",
-            "regionName": "Hradec Kr\u00e1lov\u00e9 Region",
-            "city": "Trutnov",
-            "zip": "541 01",
-            "lat": 50.65,
-            "lon": 15.9333,
+            "region": "72",
+            "regionName": "Zl\u00edn",
+            "city": "Kunovice",
+            "zip": "686 04",
+            "lat": 49.0506,
+            "lon": 17.465,
             "timezone": "Europe/Prague",
-            "isp": "IP4ISP z.s.p.o",
-            "org": "NECOSS s.r.o",
-            "as": "AS49985 IP4ISP z.s.p.o",
-            "query": "176.62.229.17",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 4.46
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "Nordictelecomregional",
+            "as": "AS42908 ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+            "query": "185.82.238.42",
+            "type": "http",
+            "port": "8888",
+            "response_time": 2.17
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "32",
+            "regionName": "Plze\u0148 Region",
+            "city": "Klatovy",
+            "zip": "339 01",
+            "lat": 49.3791,
+            "lon": 13.3059,
+            "timezone": "Europe/Prague",
+            "isp": "MAXTEL s.r.o. 1",
+            "org": "MAXTEL s.r.o.",
+            "as": "AS197296 United Networks SE",
+            "query": "46.23.61.97",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.73
         }
     ]
 }
