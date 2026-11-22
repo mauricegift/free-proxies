@@ -1,46 +1,8 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 4,
+    "count": 5,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "G",
-            "regionName": "Kronoberg County",
-            "city": "Rottne",
-            "zip": "363 30",
-            "lat": 57.0164,
-            "lon": 14.9055,
-            "timezone": "Europe/Stockholm",
-            "isp": "Patrik Lagerman",
-            "org": "Kronnet",
-            "as": "AS35100 Patrik Lagerman",
-            "query": "171.25.158.95",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 0.83
-        },
-        {
-            "status": "success",
-            "country": "Sweden",
-            "countryCode": "SE",
-            "region": "AB",
-            "regionName": "Stockholm County",
-            "city": "Stockholm",
-            "zip": "126 30",
-            "lat": 59.3098,
-            "lon": 17.9796,
-            "timezone": "Europe/Stockholm",
-            "isp": "GleSYS AB",
-            "org": "Frootynet",
-            "as": "AS42708 Glesys AB",
-            "query": "46.246.12.31",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 2.04
-        },
         {
             "status": "success",
             "country": "Sweden",
@@ -58,7 +20,64 @@
             "query": "188.150.229.60",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.3
+            "response_time": 0.14
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3326,
+            "lon": 18.0651,
+            "timezone": "Europe/Stockholm",
+            "isp": "Stockholms Stadsnat AB",
+            "org": "Stockholms Stadsnat AB",
+            "as": "AS50821 Bredband2 Stockholms Stadsnaet AB",
+            "query": "46.39.105.157",
+            "type": "http",
+            "port": "8080",
+            "response_time": 0.33
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "G",
+            "regionName": "Kronoberg County",
+            "city": "Rottne",
+            "zip": "363 30",
+            "lat": 57.0164,
+            "lon": 14.9055,
+            "timezone": "Europe/Stockholm",
+            "isp": "Patrik Lagerman",
+            "org": "Kronnet",
+            "as": "AS35100 Patrik Lagerman",
+            "query": "171.25.158.95",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 2.44
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3287,
+            "lon": 18.0717,
+            "timezone": "Europe/Stockholm",
+            "isp": "PVDataNet AB",
+            "org": "PVDataNet AB",
+            "as": "AS42201 PVDataNet AB",
+            "query": "193.181.35.86",
+            "type": "http",
+            "port": "8118",
+            "response_time": 3.19
         },
         {
             "status": "success",
@@ -77,7 +96,7 @@
             "query": "177.3.209.83",
             "type": "http",
             "port": "3128",
-            "response_time": 11.68
+            "response_time": 10.42
         }
     ]
 }
