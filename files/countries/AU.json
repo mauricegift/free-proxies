@@ -1,26 +1,26 @@
 {
     "countryCode": "AU",
     "country": "Australia",
-    "count": 7,
+    "count": 8,
     "proxies": [
         {
             "status": "success",
             "country": "Australia",
             "countryCode": "AU",
-            "region": "NSW",
-            "regionName": "New South Wales",
-            "city": "Sydney",
-            "zip": "2015",
-            "lat": -33.8978,
-            "lon": 151.1899,
-            "timezone": "Australia/Sydney",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "134.199.160.93",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "Melbourne",
+            "zip": "",
+            "lat": -37.814,
+            "lon": 144.96332,
+            "timezone": "Australia/Melbourne",
+            "isp": "Amazon.com",
+            "org": "AWS EC2 (ap-southeast-4)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "16.51.5.77",
             "type": "http",
-            "port": "8888",
-            "response_time": 1.58
+            "port": "58605",
+            "response_time": 4.38
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "16.51.5.77",
             "type": "http",
             "port": "2775",
-            "response_time": 3.72
+            "response_time": 4.9
         },
         {
             "status": "success",
@@ -57,8 +57,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.51.5.77",
             "type": "http",
-            "port": "58605",
-            "response_time": 4.14
+            "port": "1011",
+            "response_time": 6.25
         },
         {
             "status": "success",
@@ -76,8 +76,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "13.239.253.213",
             "type": "http",
-            "port": "35329",
-            "response_time": 4.17
+            "port": "3862",
+            "response_time": 6.35
         },
         {
             "status": "success",
@@ -96,7 +96,7 @@
             "query": "16.26.208.68",
             "type": "http",
             "port": "40001",
-            "response_time": 4.8
+            "response_time": 6.75
         },
         {
             "status": "success",
@@ -115,7 +115,7 @@
             "query": "180.181.215.232",
             "type": "http",
             "port": "3128",
-            "response_time": 8.52
+            "response_time": 10.52
         },
         {
             "status": "success",
@@ -123,18 +123,37 @@
             "countryCode": "AU",
             "region": "VIC",
             "regionName": "Victoria",
-            "city": "Bendigo",
-            "zip": "3551",
-            "lat": -36.7539,
-            "lon": 144.2661,
+            "city": "Melbourne",
+            "zip": "3000",
+            "lat": -37.8159,
+            "lon": 144.9669,
             "timezone": "Australia/Melbourne",
-            "isp": "Bendigo Community Telco Limited",
-            "org": "Bendigo Community Telco Limited",
-            "as": "AS38611 Bendigo Community Telco",
-            "query": "203.17.150.227",
+            "isp": "AAPT Limited",
+            "org": "AAPT Limited",
+            "as": "AS2764 AAPT Limited",
+            "query": "61.29.96.146",
             "type": "http",
-            "port": "80",
-            "response_time": 8.55
+            "port": "8000",
+            "response_time": 10.61
+        },
+        {
+            "status": "success",
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "VIC",
+            "regionName": "Victoria",
+            "city": "St Helena",
+            "zip": "3088",
+            "lat": -37.6899,
+            "lon": 145.123,
+            "timezone": "Australia/Melbourne",
+            "isp": "Aussie Broadband",
+            "org": "Aussie Broadband Ltd",
+            "as": "AS4764 Aussie Fibre Pty Ltd",
+            "query": "159.196.182.72",
+            "type": "http",
+            "port": "8080",
+            "response_time": 12.21
         }
     ]
 }
