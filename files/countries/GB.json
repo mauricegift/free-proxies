@@ -1,7 +1,7 @@
 {
     "countryCode": "GB",
     "country": "United Kingdom",
-    "count": 11,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -9,18 +9,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "London",
-            "zip": "",
-            "lat": 51.5123,
-            "lon": -0.0909,
+            "city": "Slough",
+            "zip": "SL1",
+            "lat": 51.5177,
+            "lon": -0.6215,
             "timezone": "Europe/London",
-            "isp": "Google LLC",
-            "org": "Google Cloud (europe-west2)",
-            "as": "AS396982 Google LLC",
-            "query": "34.105.252.3",
+            "isp": "DigitalOcean, LLC",
+            "org": "DigitalOcean, LLC",
+            "as": "AS14061 DigitalOcean, LLC",
+            "query": "159.65.27.1",
             "type": "http",
-            "port": "3128",
-            "response_time": 0.1
+            "port": "10000",
+            "response_time": 0.25
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "46.101.21.9",
             "type": "http",
             "port": "10000",
-            "response_time": 0.11
+            "response_time": 0.3
         },
         {
             "status": "success",
@@ -58,7 +58,7 @@
             "query": "46.101.21.9",
             "type": "socks4",
             "port": "10000",
-            "response_time": 0.11
+            "response_time": 0.3
         },
         {
             "status": "success",
@@ -66,56 +66,18 @@
             "countryCode": "GB",
             "region": "ENG",
             "regionName": "England",
-            "city": "Slough",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
+            "city": "City of London",
+            "zip": "EC4N 4TR",
+            "lat": 51.5134,
+            "lon": -0.0890675,
             "timezone": "Europe/London",
-            "isp": "DigitalOcean, LLC",
-            "org": "Digitalocean",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "46.101.21.9",
-            "type": "socks5",
-            "port": "10000",
-            "response_time": 0.11
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Slough",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "209.97.190.76",
+            "isp": "FranTech Solutions",
+            "org": "RouterHosting LLC",
+            "as": "AS198983 Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",
+            "query": "104.194.146.9",
             "type": "http",
-            "port": "10000",
-            "response_time": 0.24
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Slough",
-            "zip": "SL1",
-            "lat": 51.5177,
-            "lon": -0.6215,
-            "timezone": "Europe/London",
-            "isp": "DigitalOcean, LLC",
-            "org": "DigitalOcean, LLC",
-            "as": "AS14061 DigitalOcean, LLC",
-            "query": "159.65.27.1",
-            "type": "socks5",
-            "port": "10000",
-            "response_time": 1.71
+            "port": "80",
+            "response_time": 0.35
         },
         {
             "status": "success",
@@ -134,45 +96,7 @@
             "query": "195.5.168.195",
             "type": "http",
             "port": "8080",
-            "response_time": 2.62
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "City of London",
-            "zip": "EC4N",
-            "lat": 51.5164,
-            "lon": -0.093,
-            "timezone": "Europe/London",
-            "isp": "Hydra Communications Ltd",
-            "org": "Hydra Communications Ltd",
-            "as": "AS25369 Hydra Communications Ltd",
-            "query": "81.19.210.10",
-            "type": "http",
-            "port": "80",
-            "response_time": 3.03
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Manchester",
-            "zip": "M12 6AE",
-            "lat": 53.4758,
-            "lon": -2.21921,
-            "timezone": "Europe/London",
-            "isp": "Layershift Limited",
-            "org": "Layershift Limited",
-            "as": "AS205072 Layershift Limited",
-            "query": "195.5.168.34",
-            "type": "http",
-            "port": "8080",
-            "response_time": 3.73
+            "response_time": 3.62
         },
         {
             "status": "success",
@@ -191,26 +115,7 @@
             "query": "198.244.254.77",
             "type": "http",
             "port": "3128",
-            "response_time": 4.22
-        },
-        {
-            "status": "success",
-            "country": "United Kingdom",
-            "countryCode": "GB",
-            "region": "ENG",
-            "regionName": "England",
-            "city": "Coventry",
-            "zip": "CV1",
-            "lat": 52.4064,
-            "lon": -1.5082,
-            "timezone": "Europe/London",
-            "isp": "Shock Hosting LLC",
-            "org": "Shock2",
-            "as": "AS395092 Shock Hosting LLC",
-            "query": "45.95.18.155",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 6.65
+            "response_time": 5.62
         }
     ]
 }
