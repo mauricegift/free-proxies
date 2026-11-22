@@ -1,7 +1,7 @@
 {
     "countryCode": "CA",
     "country": "Canada",
-    "count": 11,
+    "count": 12,
     "proxies": [
         {
             "status": "success",
@@ -10,17 +10,17 @@
             "region": "QC",
             "regionName": "Quebec",
             "city": "Montreal",
-            "zip": "",
-            "lat": 45.50884,
-            "lon": -73.58781,
+            "zip": "H4G",
+            "lat": 45.4681,
+            "lon": -73.5382,
             "timezone": "America/Toronto",
-            "isp": "Amazon.com",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.52.81.236",
-            "type": "http",
-            "port": "27487",
-            "response_time": 1.14
+            "isp": "Leaseweb Canada Inc.",
+            "org": "iWeb Technologies Inc",
+            "as": "AS32613 Leaseweb Canada Inc.",
+            "query": "70.38.101.182",
+            "type": "socks4",
+            "port": "40000",
+            "response_time": 0.46
         },
         {
             "status": "success",
@@ -39,7 +39,7 @@
             "query": "16.52.81.236",
             "type": "http",
             "port": "30468",
-            "response_time": 1.33
+            "response_time": 1.43
         },
         {
             "status": "success",
@@ -55,10 +55,10 @@
             "isp": "Amazon Technologies Inc.",
             "org": "AWS EC2 (ca-central-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.223.187.219",
+            "query": "35.183.29.62",
             "type": "http",
-            "port": "30337",
-            "response_time": 1.37
+            "port": "39726",
+            "response_time": 1.52
         },
         {
             "status": "success",
@@ -66,18 +66,37 @@
             "countryCode": "CA",
             "region": "ON",
             "regionName": "Ontario",
-            "city": "Ignace",
-            "zip": "P0T",
-            "lat": 49.4201,
-            "lon": -91.6632,
-            "timezone": "America/Winnipeg",
-            "isp": "Celerity Telecom",
-            "org": "Celerity Telecom",
-            "as": "AS397128 Celerity Telecom",
-            "query": "162.254.178.133",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 1.94
+            "city": "Toronto",
+            "zip": "L4L",
+            "lat": 43.8072,
+            "lon": -79.5946,
+            "timezone": "America/Toronto",
+            "isp": "Oracle Corporation",
+            "org": "Oracle Cloud Infrastructure (ca-toronto-1)",
+            "as": "AS31898 Oracle Corporation",
+            "query": "192.18.158.84",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.62
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "H3K",
+            "lat": 45.4803,
+            "lon": -73.5558,
+            "timezone": "America/Toronto",
+            "isp": "Le Groupe Videotron Ltee",
+            "org": "Videotron Ltee",
+            "as": "AS5769 Videotron Ltee",
+            "query": "24.37.245.42",
+            "type": "socks4",
+            "port": "51056",
+            "response_time": 1.67
         },
         {
             "status": "success",
@@ -90,13 +109,32 @@
             "lat": 51.05011,
             "lon": -114.08529,
             "timezone": "America/Edmonton",
-            "isp": "Amazon.com",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (ca-west-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "56.112.92.32",
+            "query": "40.177.104.199",
             "type": "http",
-            "port": "40066",
-            "response_time": 2.32
+            "port": "22203",
+            "response_time": 1.83
+        },
+        {
+            "status": "success",
+            "country": "Canada",
+            "countryCode": "CA",
+            "region": "QC",
+            "regionName": "Quebec",
+            "city": "Montreal",
+            "zip": "",
+            "lat": 45.50884,
+            "lon": -73.58781,
+            "timezone": "America/Toronto",
+            "isp": "Amazon Technologies Inc.",
+            "org": "AWS EC2 (ca-central-1)",
+            "as": "AS16509 Amazon.com, Inc.",
+            "query": "35.183.29.62",
+            "type": "http",
+            "port": "24659",
+            "response_time": 1.92
         },
         {
             "status": "success",
@@ -114,8 +152,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.52.81.236",
             "type": "http",
-            "port": "45573",
-            "response_time": 2.6
+            "port": "17897",
+            "response_time": 1.92
         },
         {
             "status": "success",
@@ -133,8 +171,8 @@
             "as": "AS16509 Amazon.com, Inc.",
             "query": "16.52.81.236",
             "type": "http",
-            "port": "30001",
-            "response_time": 2.68
+            "port": "443",
+            "response_time": 2.59
         },
         {
             "status": "success",
@@ -153,26 +191,7 @@
             "query": "69.70.74.118",
             "type": "socks4",
             "port": "1337",
-            "response_time": 2.71
-        },
-        {
-            "status": "success",
-            "country": "Canada",
-            "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "",
-            "lat": 45.50884,
-            "lon": -73.58781,
-            "timezone": "America/Toronto",
-            "isp": "Amazon.com",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.52.81.236",
-            "type": "http",
-            "port": "13797",
-            "response_time": 4.54
+            "response_time": 2.68
         },
         {
             "status": "success",
@@ -185,32 +204,32 @@
             "lat": 51.05011,
             "lon": -114.08529,
             "timezone": "America/Edmonton",
-            "isp": "Amazon.com, Inc.",
+            "isp": "Amazon.com",
             "org": "AWS EC2 (ca-west-1)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "40.177.104.199",
+            "query": "56.112.92.32",
             "type": "http",
-            "port": "30577",
-            "response_time": 4.85
+            "port": "40066",
+            "response_time": 4.98
         },
         {
             "status": "success",
             "country": "Canada",
             "countryCode": "CA",
-            "region": "QC",
-            "regionName": "Quebec",
-            "city": "Montreal",
-            "zip": "",
-            "lat": 45.50884,
-            "lon": -73.58781,
-            "timezone": "America/Toronto",
-            "isp": "Amazon.com",
-            "org": "AWS EC2 (ca-central-1)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "16.52.81.236",
-            "type": "http",
-            "port": "7531",
-            "response_time": 5.21
+            "region": "BC",
+            "regionName": "British Columbia",
+            "city": "West Vancouver",
+            "zip": "V7S",
+            "lat": 49.375,
+            "lon": -123.1838,
+            "timezone": "America/Vancouver",
+            "isp": "Shaw Communications",
+            "org": "Shaw Communications Inc",
+            "as": "AS6327 Shaw Communications",
+            "query": "50.67.100.178",
+            "type": "socks4",
+            "port": "8080",
+            "response_time": 6.11
         }
     ]
 }
