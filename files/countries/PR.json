@@ -1,26 +1,26 @@
 {
     "countryCode": "PR",
     "country": "Puerto Rico",
-    "count": 6,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
             "country": "Puerto Rico",
             "countryCode": "PR",
             "region": "",
-            "regionName": "Humacao",
-            "city": "Humacao",
-            "zip": "00791",
-            "lat": 18.133,
-            "lon": -65.8204,
+            "regionName": "Adjuntas",
+            "city": "Adjuntas",
+            "zip": "",
+            "lat": 18.1627,
+            "lon": -66.7221,
             "timezone": "America/Puerto_Rico",
-            "isp": "Dimelo Network",
-            "org": "OSNET",
-            "as": "AS401436 Dimelo Network",
-            "query": "200.5.26.3",
+            "isp": "Alphanet Corp",
+            "org": "Alphanet Corp",
+            "as": "AS400354 ALPHANET CORP",
+            "query": "23.138.88.96",
             "type": "http",
-            "port": "8087",
-            "response_time": 3.48
+            "port": "999",
+            "response_time": 1.77
         },
         {
             "status": "success",
@@ -36,48 +36,10 @@
             "isp": "Boom NET",
             "org": "BOOM",
             "as": "AS63393 BOOM NET",
-            "query": "192.203.0.118",
+            "query": "192.203.0.142",
             "type": "http",
             "port": "999",
-            "response_time": 4.19
-        },
-        {
-            "status": "success",
-            "country": "Puerto Rico",
-            "countryCode": "PR",
-            "region": "",
-            "regionName": "Aguas Buenas",
-            "city": "Sumidero",
-            "zip": "",
-            "lat": 18.2186,
-            "lon": -66.1288,
-            "timezone": "America/Puerto_Rico",
-            "isp": "FiberX",
-            "org": "Yknet Puerto Rico Corporacion",
-            "as": "AS21559 OSNET",
-            "query": "204.77.11.13",
-            "type": "http",
-            "port": "999",
-            "response_time": 6.26
-        },
-        {
-            "status": "success",
-            "country": "Puerto Rico",
-            "countryCode": "PR",
-            "region": "",
-            "regionName": "Guaynabo",
-            "city": "Guaynabo",
-            "zip": "00968",
-            "lat": 18.416,
-            "lon": -66.107,
-            "timezone": "America/Puerto_Rico",
-            "isp": "OSNET Wireless",
-            "org": "FiberX",
-            "as": "AS21559 OSNET",
-            "query": "72.46.158.193",
-            "type": "http",
-            "port": "8087",
-            "response_time": 7.85
+            "response_time": 3.9
         },
         {
             "status": "success",
@@ -96,7 +58,7 @@
             "query": "104.238.232.210",
             "type": "http",
             "port": "999",
-            "response_time": 8.41
+            "response_time": 6.01
         },
         {
             "status": "success",
@@ -115,7 +77,26 @@
             "query": "192.203.0.78",
             "type": "http",
             "port": "999",
-            "response_time": 13.31
+            "response_time": 8.25
+        },
+        {
+            "status": "success",
+            "country": "Puerto Rico",
+            "countryCode": "PR",
+            "region": "",
+            "regionName": "Toa Baja",
+            "city": "Levittown",
+            "zip": "",
+            "lat": 18.4499,
+            "lon": -66.1816,
+            "timezone": "America/Puerto_Rico",
+            "isp": "Boom NET",
+            "org": "BOOM",
+            "as": "AS63393 BOOM NET",
+            "query": "192.203.0.250",
+            "type": "http",
+            "port": "999",
+            "response_time": 10.27
         }
     ]
 }
