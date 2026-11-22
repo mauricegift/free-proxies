@@ -1,27 +1,8 @@
 {
     "countryCode": "MM",
     "country": "Myanmar",
-    "count": 3,
+    "count": 4,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Myanmar",
-            "countryCode": "MM",
-            "region": "06",
-            "regionName": "Yangon",
-            "city": "Yangon",
-            "zip": "",
-            "lat": 16.7964,
-            "lon": 96.1667,
-            "timezone": "Asia/Yangon",
-            "isp": "Telecom International Myanmar Company Limited",
-            "org": "",
-            "as": "AS136255 Telecom International Myanmar Co., Ltd",
-            "query": "202.165.94.170",
-            "type": "http",
-            "port": "8082",
-            "response_time": 4.52
-        },
         {
             "status": "success",
             "country": "Myanmar",
@@ -36,10 +17,10 @@
             "isp": "Myanma Post & Telecommunication",
             "org": "",
             "as": "AS9988 Myanma Posts and Telecommunications",
-            "query": "203.81.75.202",
+            "query": "203.81.69.126",
             "type": "http",
-            "port": "8080",
-            "response_time": 5.62
+            "port": "1248",
+            "response_time": 1.98
         },
         {
             "status": "success",
@@ -58,7 +39,45 @@
             "query": "154.18.220.190",
             "type": "socks4",
             "port": "5678",
-            "response_time": 6.26
+            "response_time": 2.19
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Myanma Post & Telecommunication",
+            "org": "",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.160.250",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 3.12
+        },
+        {
+            "status": "success",
+            "country": "Myanmar",
+            "countryCode": "MM",
+            "region": "06",
+            "regionName": "Yangon",
+            "city": "Yangon",
+            "zip": "",
+            "lat": 16.7964,
+            "lon": 96.1667,
+            "timezone": "Asia/Yangon",
+            "isp": "Myanma Post & Telecommunication",
+            "org": "",
+            "as": "AS9988 Myanma Posts and Telecommunications",
+            "query": "136.228.160.250",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.81
         }
     ]
 }
