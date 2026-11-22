@@ -1,46 +1,8 @@
 {
     "countryCode": "AF",
     "country": "Afghanistan",
-    "count": 3,
+    "count": 1,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Afghanistan",
-            "countryCode": "AF",
-            "region": "SAR",
-            "regionName": "Sar-e Pol Province",
-            "city": "Sozmah Qal'ah",
-            "zip": "",
-            "lat": 36.0992,
-            "lon": 66.2082,
-            "timezone": "Asia/Kabul",
-            "isp": "Etisalat Afghan",
-            "org": "ISP Customers VOIP MZR",
-            "as": "AS131284 Etisalat Afghan",
-            "query": "203.171.115.116",
-            "type": "http",
-            "port": "8080",
-            "response_time": 2.14
-        },
-        {
-            "status": "success",
-            "country": "Afghanistan",
-            "countryCode": "AF",
-            "region": "KAB",
-            "regionName": "Kabul",
-            "city": "Kabul",
-            "zip": "",
-            "lat": 34.5554,
-            "lon": 69.1715,
-            "timezone": "Asia/Kabul",
-            "isp": "Easy Connect- ISP",
-            "org": "Easyconnectisp",
-            "as": "AS133894 Easy Connect- ISP",
-            "query": "103.96.233.10",
-            "type": "socks5",
-            "port": "1080",
-            "response_time": 4.59
-        },
         {
             "status": "success",
             "country": "Afghanistan",
@@ -55,10 +17,10 @@
             "isp": "Telecom Development Company Afghanistan",
             "org": "Roshan",
             "as": "AS45178 ROSHAN",
-            "query": "111.125.154.86",
-            "type": "http",
-            "port": "8080",
-            "response_time": 11.38
+            "query": "111.125.154.22",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.01
         }
     ]
 }
