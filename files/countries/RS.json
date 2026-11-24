@@ -1,27 +1,8 @@
 {
     "countryCode": "RS",
     "country": "Serbia",
-    "count": 3,
+    "count": 2,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Serbia",
-            "countryCode": "RS",
-            "region": "00",
-            "regionName": "Belgrade",
-            "city": "Belgrade",
-            "zip": "",
-            "lat": 44.8046,
-            "lon": 20.4637,
-            "timezone": "Europe/Belgrade",
-            "isp": "CETIN Ltd. Belgrade",
-            "org": "CETIN Ltd. Belgrade",
-            "as": "AS15958 CETINdoo-NET",
-            "query": "109.245.110.145",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 0.56
-        },
         {
             "status": "success",
             "country": "Serbia",
@@ -39,26 +20,26 @@
             "query": "95.140.118.34",
             "type": "socks4",
             "port": "1080",
-            "response_time": 0.67
+            "response_time": 0.49
         },
         {
             "status": "success",
             "country": "Serbia",
             "countryCode": "RS",
-            "region": "20",
-            "regionName": "Ni\u0161ava",
-            "city": "Ni\u0161",
+            "region": "VO",
+            "regionName": "Vojvodina",
+            "city": "Novi Sad",
             "zip": "",
-            "lat": 43.3265,
-            "lon": 21.9023,
+            "lat": 45.25,
+            "lon": 19.8362,
             "timezone": "Europe/Belgrade",
-            "isp": "Jotel",
-            "org": "",
-            "as": "AS197423 Jotel d.o.o.",
-            "query": "217.16.130.83",
-            "type": "socks4",
-            "port": "4145",
-            "response_time": 5.42
+            "isp": "TELEKOM SRBIJA a.d.",
+            "org": "Telekom BB",
+            "as": "AS8400 TELEKOM SRBIJA a.d.",
+            "query": "212.200.223.89",
+            "type": "http",
+            "port": "8080",
+            "response_time": 6.32
         }
     ]
 }
