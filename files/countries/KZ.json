@@ -1,26 +1,45 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "47",
-            "regionName": "Mangystau",
-            "city": "Aktau",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
             "zip": "",
-            "lat": 43.6611,
-            "lon": 51.1739,
-            "timezone": "Asia/Aqtau",
-            "isp": "Jusan Mobile JSC",
-            "org": "Jusan Mobile",
-            "as": "AS35104 QMOBILE JSC",
-            "query": "188.0.153.235",
-            "type": "socks5",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "JSC \"TIMEWEB\"",
+            "org": "TW Cloud",
+            "as": "AS9123 JSC \"TIMEWEB\"",
+            "query": "31.130.153.132",
+            "type": "http",
+            "port": "3128",
+            "response_time": 1.17
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "33",
+            "regionName": "Zhetysu Region",
+            "city": "Taldykorgan",
+            "zip": "",
+            "lat": 45.0142,
+            "lon": 78.3717,
+            "timezone": "Asia/Almaty",
+            "isp": "TOO Kainar-Media",
+            "org": "TOO Kainar-AKB",
+            "as": "AS212999 TOO Kainar-Media",
+            "query": "95.182.107.210",
+            "type": "socks4",
             "port": "1080",
-            "response_time": 1.01
+            "response_time": 1.85
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "213.155.29.25",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.02
+            "response_time": 1.93
         },
         {
             "status": "success",
@@ -58,7 +77,7 @@
             "query": "213.155.29.25",
             "type": "socks5",
             "port": "1080",
-            "response_time": 1.02
+            "response_time": 1.93
         },
         {
             "status": "success",
@@ -71,13 +90,13 @@
             "lat": 43.2525,
             "lon": 76.9115,
             "timezone": "Asia/Almaty",
-            "isp": "JSC \"TIMEWEB\"",
-            "org": "TW Cloud",
-            "as": "AS9123 JSC \"TIMEWEB\"",
-            "query": "31.130.153.132",
+            "isp": "ITGLOBAL",
+            "org": "",
+            "as": "AS57008 ITGLOBAL.COM KZ LLP",
+            "query": "85.198.90.68",
             "type": "http",
-            "port": "3128",
-            "response_time": 1.56
+            "port": "8118",
+            "response_time": 4.27
         },
         {
             "status": "success",
@@ -96,26 +115,26 @@
             "query": "46.235.83.76",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.87
+            "response_time": 4.43
         },
         {
             "status": "success",
             "country": "Kazakhstan",
             "countryCode": "KZ",
-            "region": "63",
-            "regionName": "East Kazakhstan",
-            "city": "Urzhar",
-            "zip": "",
-            "lat": 46.1994,
-            "lon": 81.0187,
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "010000",
+            "lat": 51.1655,
+            "lon": 71.4272,
             "timezone": "Asia/Almaty",
-            "isp": "Obit Telecommunications",
-            "org": "Kasit",
-            "as": "AS43370 OBIT-telecommunications, LLC",
-            "query": "37.221.202.30",
+            "isp": "TTC Network",
+            "org": "",
+            "as": "AS41798 JSC Transtelecom",
+            "query": "91.185.20.162",
             "type": "http",
             "port": "8080",
-            "response_time": 12.96
+            "response_time": 7.29
         }
     ]
 }
