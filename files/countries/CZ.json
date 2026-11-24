@@ -1,45 +1,26 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 6,
+    "count": 3,
     "proxies": [
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "31",
-            "regionName": "South Bohemian Region",
-            "city": "Vesel\u00ed nad Lu\u017enic\u00ed",
-            "zip": "391 81",
-            "lat": 49.1919,
-            "lon": 14.6825,
-            "timezone": "Europe/Prague",
-            "isp": "SmartApe OU",
-            "org": "ESA",
-            "as": "AS62212 SmartApe OU",
-            "query": "91.199.137.149",
-            "type": "socks5",
-            "port": "2005",
-            "response_time": 0.16
-        },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
             "region": "32",
             "regionName": "Plze\u0148 Region",
-            "city": "Klatovy",
-            "zip": "339 01",
-            "lat": 49.398,
-            "lon": 13.2893,
+            "city": "\u00daherce",
+            "zip": "330 23",
+            "lat": 49.7035,
+            "lon": 13.2156,
             "timezone": "Europe/Prague",
-            "isp": "Airweb",
-            "org": "",
-            "as": "AS210712 ISP Alliance a.s.",
-            "query": "185.40.80.143",
+            "isp": "O2 Czech Republic, a.s.",
+            "org": "O2 Czech Republic",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.182.147.170",
             "type": "socks4",
-            "port": "4153",
-            "response_time": 0.19
+            "port": "4145",
+            "response_time": 1.14
         },
         {
             "status": "success",
@@ -58,7 +39,7 @@
             "query": "193.165.115.78",
             "type": "socks5",
             "port": "1080",
-            "response_time": 0.25
+            "response_time": 3.29
         },
         {
             "status": "success",
@@ -77,45 +58,7 @@
             "query": "188.119.98.126",
             "type": "http",
             "port": "9999",
-            "response_time": 3.33
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Klatovy",
-            "zip": "339 01",
-            "lat": 49.3791,
-            "lon": 13.3059,
-            "timezone": "Europe/Prague",
-            "isp": "MAXTEL s.r.o. 1",
-            "org": "MAXTEL s.r.o.",
-            "as": "AS197296 United Networks SE",
-            "query": "46.23.61.97",
-            "type": "http",
-            "port": "8080",
-            "response_time": 4.98
-        },
-        {
-            "status": "success",
-            "country": "Czechia",
-            "countryCode": "CZ",
-            "region": "20",
-            "regionName": "Central Bohemia",
-            "city": "Vrchotovy Janovice",
-            "zip": "257 53",
-            "lat": 49.6694,
-            "lon": 14.5732,
-            "timezone": "Europe/Prague",
-            "isp": "BlueTone-CRa",
-            "org": "WIFCOM a.s.",
-            "as": "AS25248 RADIOKOMUNIKACE a.s.",
-            "query": "84.244.119.36",
-            "type": "http",
-            "port": "23500",
-            "response_time": 5.33
+            "response_time": 7.74
         }
     ]
 }
