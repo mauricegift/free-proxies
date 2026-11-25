@@ -1,8 +1,27 @@
 {
     "countryCode": "TZ",
     "country": "Tanzania",
-    "count": 3,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Tanzania",
+            "countryCode": "TZ",
+            "region": "02",
+            "regionName": "Dar es Salaam Region",
+            "city": "Dar es Salaam",
+            "zip": "",
+            "lat": -6.82349,
+            "lon": 39.2695,
+            "timezone": "Africa/Dar_es_Salaam",
+            "isp": "Computer Sales & Services, single-ip-customers",
+            "org": "Computer Sales & Services",
+            "as": "AS327792 Computer Sales & Services",
+            "query": "165.16.192.205",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 4.31
+        },
         {
             "status": "success",
             "country": "Tanzania",
@@ -20,45 +39,7 @@
             "query": "154.72.67.190",
             "type": "http",
             "port": "8080",
-            "response_time": 1.69
-        },
-        {
-            "status": "success",
-            "country": "Tanzania",
-            "countryCode": "TZ",
-            "region": "02",
-            "regionName": "Dar es Salaam Region",
-            "city": "Dar es Salaam",
-            "zip": "",
-            "lat": -6.77664,
-            "lon": 39.2454,
-            "timezone": "Africa/Dar_es_Salaam",
-            "isp": "CSS",
-            "org": "",
-            "as": "AS327792 Computer Sales & Services",
-            "query": "169.255.48.50",
-            "type": "socks4",
-            "port": "1080",
-            "response_time": 3.06
-        },
-        {
-            "status": "success",
-            "country": "Tanzania",
-            "countryCode": "TZ",
-            "region": "02",
-            "regionName": "Dar es Salaam Region",
-            "city": "Dar es Salaam",
-            "zip": "",
-            "lat": -6.69162,
-            "lon": 39.1751,
-            "timezone": "Africa/Dar_es_Salaam",
-            "isp": "Tanzania Education And Research Network",
-            "org": "Tanzania Education And Research Network",
-            "as": "AS37182 Tanzania Education And Research Network",
-            "query": "41.93.63.66",
-            "type": "http",
-            "port": "8080",
-            "response_time": 14.17
+            "response_time": 4.91
         }
     ]
 }
