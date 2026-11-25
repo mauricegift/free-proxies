@@ -1,7 +1,7 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 2,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "31.130.153.132",
             "type": "http",
             "port": "3128",
-            "response_time": 1.01
+            "response_time": 1.11
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "47",
+            "regionName": "Mangystau",
+            "city": "Aktau",
+            "zip": "",
+            "lat": 43.6611,
+            "lon": 51.1739,
+            "timezone": "Asia/Aqtau",
+            "isp": "Jusan Mobile JSC",
+            "org": "Jusan Mobile",
+            "as": "AS35104 QMOBILE JSC",
+            "query": "188.0.153.235",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.34
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "71",
+            "regionName": "Astana",
+            "city": "Astana",
+            "zip": "",
+            "lat": 51.1876,
+            "lon": 71.4491,
+            "timezone": "Asia/Almaty",
+            "isp": "Jusan Mobile JSC",
+            "org": "Qmobile",
+            "as": "AS35104 QMOBILE JSC",
+            "query": "46.235.83.76",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 3.14
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "93.185.68.82",
             "type": "http",
             "port": "8080",
-            "response_time": 6.75
+            "response_time": 8.28
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "63",
+            "regionName": "East Kazakhstan",
+            "city": "Urzhar",
+            "zip": "",
+            "lat": 46.1994,
+            "lon": 81.0187,
+            "timezone": "Asia/Almaty",
+            "isp": "Obit Telecommunications",
+            "org": "Kasit",
+            "as": "AS43370 OBIT-telecommunications, LLC",
+            "query": "37.221.202.30",
+            "type": "http",
+            "port": "8080",
+            "response_time": 9.96
         }
     ]
 }
