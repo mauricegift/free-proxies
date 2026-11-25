@@ -1,7 +1,7 @@
 {
     "countryCode": "ES",
     "country": "Spain",
-    "count": 6,
+    "count": 7,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "15.217.214.40",
             "type": "http",
             "port": "19210",
-            "response_time": 0.63
+            "response_time": 1.58
         },
         {
             "status": "success",
@@ -33,32 +33,32 @@
             "lat": 41.65606,
             "lon": -0.87734,
             "timezone": "Europe/Madrid",
-            "isp": "Amazon.com",
+            "isp": "Amazon.com, Inc.",
             "org": "AWS EC2 (eu-south-2)",
             "as": "AS16509 Amazon.com, Inc.",
-            "query": "15.217.107.97",
+            "query": "35.43.85.195",
             "type": "http",
-            "port": "7014",
-            "response_time": 1.35
+            "port": "16861",
+            "response_time": 1.62
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "MD",
-            "regionName": "Madrid",
-            "city": "Ciempozuelos",
-            "zip": "28350",
-            "lat": 40.1591,
-            "lon": -3.62103,
+            "region": "AN",
+            "regionName": "Andalusia",
+            "city": "Zahara de los Atunes",
+            "zip": "11393",
+            "lat": 36.134,
+            "lon": -5.8495,
             "timezone": "Europe/Madrid",
-            "isp": "Telefonica de Espana SAU",
-            "org": "RIMA (Red IP Multi Acceso)",
-            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
-            "query": "83.56.15.57",
-            "type": "socks4",
-            "port": "5678",
-            "response_time": 1.46
+            "isp": "Nolu Network S.L.",
+            "org": "Nolu Network S.L",
+            "as": "AS206853 NOLU NETWORK S.L.",
+            "query": "185.174.80.7",
+            "type": "http",
+            "port": "3128",
+            "response_time": 3.46
         },
         {
             "status": "success",
@@ -77,26 +77,45 @@
             "query": "35.43.246.3",
             "type": "http",
             "port": "23739",
-            "response_time": 2.65
+            "response_time": 4.53
         },
         {
             "status": "success",
             "country": "Spain",
             "countryCode": "ES",
-            "region": "AR",
-            "regionName": "Aragon",
-            "city": "Zaragoza",
-            "zip": "",
-            "lat": 41.65606,
-            "lon": -0.87734,
+            "region": "VC",
+            "regionName": "Valencia",
+            "city": "Finestrat",
+            "zip": "03509",
+            "lat": 38.5676,
+            "lon": -0.2144,
             "timezone": "Europe/Madrid",
-            "isp": "Amazon.com, Inc.",
-            "org": "AWS EC2 (eu-south-2)",
-            "as": "AS16509 Amazon.com, Inc.",
-            "query": "51.94.221.175",
+            "isp": "CLOUDWIFI, SL",
+            "org": "CLOUDWIFI, SL",
+            "as": "AS202913 CLOUDWIFI, SL",
+            "query": "80.78.128.94",
             "type": "http",
-            "port": "26592",
-            "response_time": 3.98
+            "port": "8080",
+            "response_time": 4.6
+        },
+        {
+            "status": "success",
+            "country": "Spain",
+            "countryCode": "ES",
+            "region": "MD",
+            "regionName": "Madrid",
+            "city": "Ciempozuelos",
+            "zip": "28350",
+            "lat": 40.1591,
+            "lon": -3.62103,
+            "timezone": "Europe/Madrid",
+            "isp": "Telefonica de Espana SAU",
+            "org": "RIMA (Red IP Multi Acceso)",
+            "as": "AS3352 TELEFONICA DE ESPANA S.A.U.",
+            "query": "83.56.15.57",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 5.56
         },
         {
             "status": "success",
@@ -115,7 +134,7 @@
             "query": "2.139.41.14",
             "type": "http",
             "port": "3128",
-            "response_time": 10.21
+            "response_time": 8.4
         }
     ]
 }
