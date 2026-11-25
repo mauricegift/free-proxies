@@ -1,7 +1,7 @@
 {
     "countryCode": "CM",
     "country": "Cameroon",
-    "count": 4,
+    "count": 5,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,7 @@
             "query": "102.244.78.61",
             "type": "http",
             "port": "8086",
-            "response_time": 1.67
+            "response_time": 1.66
         },
         {
             "status": "success",
@@ -38,7 +38,7 @@
             "as": "AS36912 Orange Cameroun SA",
             "query": "102.244.78.61",
             "type": "http",
-            "port": "8085",
+            "port": "8083",
             "response_time": 1.7
         },
         {
@@ -57,8 +57,8 @@
             "as": "AS36912 Orange Cameroun SA",
             "query": "102.244.78.61",
             "type": "http",
-            "port": "8089",
-            "response_time": 1.71
+            "port": "8084",
+            "response_time": 1.8
         },
         {
             "status": "success",
@@ -76,8 +76,27 @@
             "as": "AS36912 Orange Cameroun SA",
             "query": "102.244.78.61",
             "type": "http",
-            "port": "8090",
-            "response_time": 1.77
+            "port": "8089",
+            "response_time": 1.84
+        },
+        {
+            "status": "success",
+            "country": "Cameroon",
+            "countryCode": "CM",
+            "region": "LT",
+            "regionName": "Littoral",
+            "city": "Douala",
+            "zip": "",
+            "lat": 4.0505,
+            "lon": 9.7023,
+            "timezone": "Africa/Douala",
+            "isp": "SWECOM1623",
+            "org": "",
+            "as": "AS327820 SWECOM PLC",
+            "query": "102.132.17.30",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 9.5
         }
     ]
 }
