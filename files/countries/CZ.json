@@ -1,8 +1,46 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "186 00",
+            "lat": 50.0985,
+            "lon": 14.4524,
+            "timezone": "Europe/Prague",
+            "isp": "Telefonica O2 Czech Republic, a.s.",
+            "org": "CZ.CZNET",
+            "as": "AS5610 O2 Czech Republic, a.s.",
+            "query": "90.178.216.215",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.45
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "31",
+            "regionName": "South Bohemian Region",
+            "city": "Vimperk",
+            "zip": "385 01",
+            "lat": 49.0531,
+            "lon": 13.7733,
+            "timezone": "Europe/Prague",
+            "isp": "IT PROFI s.r.o",
+            "org": "IP Profi",
+            "as": "AS3161 IT PROFI s.r.o.",
+            "query": "194.1.188.8",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 2.28
+        },
         {
             "status": "success",
             "country": "Czechia",
@@ -20,7 +58,26 @@
             "query": "193.165.115.78",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.39
+            "response_time": 5.49
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "41",
+            "regionName": "Carlsbad Region",
+            "city": "Merkl\u00edn",
+            "zip": "362 34",
+            "lat": 50.3279,
+            "lon": 12.8609,
+            "timezone": "Europe/Prague",
+            "isp": "ISP Alliance a.s.",
+            "org": "Netline",
+            "as": "AS201476 ISP Alliance a.s.",
+            "query": "185.73.103.23",
+            "type": "http",
+            "port": "3128",
+            "response_time": 6.8
         }
     ]
 }
