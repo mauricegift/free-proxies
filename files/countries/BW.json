@@ -1,8 +1,27 @@
 {
     "countryCode": "BW",
     "country": "Botswana",
-    "count": 4,
+    "count": 3,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Botswana",
+            "countryCode": "BW",
+            "region": "GA",
+            "regionName": "Gaborone",
+            "city": "Gaborone",
+            "zip": "",
+            "lat": -24.6545,
+            "lon": 25.9086,
+            "timezone": "Africa/Gaborone",
+            "isp": "VBN Services",
+            "org": "Vbn Corp",
+            "as": "AS328459 VBN Services",
+            "query": "83.143.29.225",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 3.05
+        },
         {
             "status": "success",
             "country": "Botswana",
@@ -20,7 +39,7 @@
             "query": "83.143.29.225",
             "type": "http",
             "port": "80",
-            "response_time": 5.46
+            "response_time": 5.49
         },
         {
             "status": "success",
@@ -36,48 +55,10 @@
             "isp": "inqBW",
             "org": "",
             "as": "AS328459 VBN Services",
-            "query": "83.143.24.66",
+            "query": "83.143.24.29",
             "type": "socks4",
-            "port": "1080",
-            "response_time": 6.36
-        },
-        {
-            "status": "success",
-            "country": "Botswana",
-            "countryCode": "BW",
-            "region": "KW",
-            "regionName": "Kweneng District",
-            "city": "Dumadumana",
-            "zip": "",
-            "lat": -24.5872,
-            "lon": 25.8744,
-            "timezone": "Africa/Gaborone",
-            "isp": "JENNY INTERNET (PTY) LTD",
-            "org": "Jenny BW V",
-            "as": "AS327750 JENNY INTERNET (PTY) LTD",
-            "query": "102.222.51.105",
-            "type": "http",
-            "port": "8080",
-            "response_time": 7.86
-        },
-        {
-            "status": "success",
-            "country": "Botswana",
-            "countryCode": "BW",
-            "region": "CH",
-            "regionName": "Chobe",
-            "city": "Kasane",
-            "zip": "",
-            "lat": -17.8016,
-            "lon": 25.1602,
-            "timezone": "Africa/Gaborone",
-            "isp": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
-            "org": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
-            "as": "AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
-            "query": "129.205.198.122",
-            "type": "http",
-            "port": "8080",
-            "response_time": 8.19
+            "port": "5678",
+            "response_time": 8.16
         }
     ]
 }
