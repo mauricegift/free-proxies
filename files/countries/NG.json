@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 5,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lagos",
+            "zip": "",
+            "lat": 6.4474,
+            "lon": 3.3903,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "41.75.84.86",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 0.84
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,26 +39,26 @@
             "query": "196.1.182.130",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.27
+            "response_time": 0.9
         },
         {
             "status": "success",
             "country": "Nigeria",
             "countryCode": "NG",
-            "region": "ED",
-            "regionName": "Edo State",
-            "city": "Benin City",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Lekki",
             "zip": "",
-            "lat": 6.3332,
-            "lon": 5.6238,
+            "lat": 6.43457,
+            "lon": 3.49209,
             "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
+            "isp": "Information Connectivity Solutions Limited",
             "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.170.129",
+            "as": "AS37269 Information Connectivity Solutions Limited",
+            "query": "105.235.201.234",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 4.44
+            "port": "32639",
+            "response_time": 1.19
         },
         {
             "status": "success",
@@ -49,35 +68,16 @@
             "regionName": "Lagos",
             "city": "Lagos",
             "zip": "",
-            "lat": 6.44281,
-            "lon": 3.4296,
+            "lat": 6.4474,
+            "lon": 3.3903,
             "timezone": "Africa/Lagos",
-            "isp": "Vodacom Business Nigeria",
-            "org": "Inq. Digital Nigeria",
-            "as": "AS16284 Inq. Digital Nigeria",
-            "query": "155.93.96.210",
-            "type": "http",
-            "port": "8080",
-            "response_time": 5.22
-        },
-        {
-            "status": "success",
-            "country": "Nigeria",
-            "countryCode": "NG",
-            "region": "LA",
-            "regionName": "Lagos",
-            "city": "Satellite Town",
-            "zip": "",
-            "lat": 6.4427,
-            "lon": 3.2482,
-            "timezone": "Africa/Lagos",
-            "isp": "Main one Cable Company Nigeria Limited",
-            "org": "",
-            "as": "AS37282 Main one Cable Company Nigeria Limited",
-            "query": "154.113.179.218",
+            "isp": "Timeless Network Services Ltd",
+            "org": "Timeless Network Solutions",
+            "as": "AS328555 Timeless Network Services Ltd",
+            "query": "102.36.231.77",
             "type": "socks4",
-            "port": "5678",
-            "response_time": 8.35
+            "port": "1080",
+            "response_time": 2.12
         },
         {
             "status": "success",
@@ -96,7 +96,26 @@
             "query": "102.212.104.129",
             "type": "http",
             "port": "8082",
-            "response_time": 13.33
+            "response_time": 3.42
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Obalende",
+            "zip": "",
+            "lat": 6.44694,
+            "lon": 3.41528,
+            "timezone": "Africa/Lagos",
+            "isp": "Globacom Limited",
+            "org": "Globacom",
+            "as": "AS37148 Globacom Limited",
+            "query": "41.203.83.242",
+            "type": "http",
+            "port": "8080",
+            "response_time": 14.0
         }
     ]
 }
