@@ -1,8 +1,27 @@
 {
     "countryCode": "NG",
     "country": "Nigeria",
-    "count": 3,
+    "count": 6,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "AN",
+            "regionName": "Anambra",
+            "city": "Awka",
+            "zip": "",
+            "lat": 6.2132,
+            "lon": 7.067,
+            "timezone": "Africa/Lagos",
+            "isp": "MTN NIGERIA Communication limited",
+            "org": "Mtnn Asaba Region",
+            "as": "AS29465 MTN NIGERIA Communication limited",
+            "query": "102.90.0.149",
+            "type": "http",
+            "port": "8080",
+            "response_time": 1.87
+        },
         {
             "status": "success",
             "country": "Nigeria",
@@ -20,7 +39,26 @@
             "query": "102.36.231.77",
             "type": "socks4",
             "port": "1080",
-            "response_time": 3.01
+            "response_time": 1.9
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "LA",
+            "regionName": "Lagos",
+            "city": "Ebute-Metta",
+            "zip": "",
+            "lat": 6.48799,
+            "lon": 3.38166,
+            "timezone": "Africa/Lagos",
+            "isp": "Syscodes Communications",
+            "org": "",
+            "as": "AS328556 SYSCODES COMMUNICATIONS LIMITED",
+            "query": "102.36.133.62",
+            "type": "http",
+            "port": "8080",
+            "response_time": 3.19
         },
         {
             "status": "success",
@@ -39,7 +77,26 @@
             "query": "105.235.201.234",
             "type": "socks4",
             "port": "32639",
-            "response_time": 3.06
+            "response_time": 3.67
+        },
+        {
+            "status": "success",
+            "country": "Nigeria",
+            "countryCode": "NG",
+            "region": "ED",
+            "regionName": "Edo State",
+            "city": "Benin City",
+            "zip": "",
+            "lat": 6.3332,
+            "lon": 5.6238,
+            "timezone": "Africa/Lagos",
+            "isp": "Main one Cable Company Nigeria Limited",
+            "org": "",
+            "as": "AS37282 Main one Cable Company Nigeria Limited",
+            "query": "154.113.170.145",
+            "type": "socks4",
+            "port": "5678",
+            "response_time": 6.31
         },
         {
             "status": "success",
@@ -58,7 +115,7 @@
             "query": "102.212.104.129",
             "type": "http",
             "port": "8082",
-            "response_time": 8.58
+            "response_time": 9.02
         }
     ]
 }
