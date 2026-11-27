@@ -1,8 +1,65 @@
 {
     "countryCode": "KZ",
     "country": "Kazakhstan",
-    "count": 1,
+    "count": 4,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "",
+            "lat": 43.2525,
+            "lon": 76.9115,
+            "timezone": "Asia/Almaty",
+            "isp": "ITGLOBAL",
+            "org": "",
+            "as": "AS57008 ITGLOBAL.COM KZ LLP",
+            "query": "85.198.90.68",
+            "type": "http",
+            "port": "8118",
+            "response_time": 3.99
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "23",
+            "regionName": "Atyrau Oblisi",
+            "city": "Atyrau",
+            "zip": "060011",
+            "lat": 47.1169,
+            "lon": 51.8853,
+            "timezone": "Asia/Atyrau",
+            "isp": "JSC \"KazTransCom\"",
+            "org": "Kozhan LLP",
+            "as": "AS35104 QMOBILE JSC",
+            "query": "93.185.68.82",
+            "type": "http",
+            "port": "8080",
+            "response_time": 4.57
+        },
+        {
+            "status": "success",
+            "country": "Kazakhstan",
+            "countryCode": "KZ",
+            "region": "75",
+            "regionName": "Almaty",
+            "city": "Almaty",
+            "zip": "050000",
+            "lat": 43.1941,
+            "lon": 76.8339,
+            "timezone": "Asia/Almaty",
+            "isp": "PS Internet Company LLP",
+            "org": "PS Internet Company LLC",
+            "as": "AS48716 PS Internet Company LLP",
+            "query": "194.39.65.230",
+            "type": "socks4",
+            "port": "1080",
+            "response_time": 6.04
+        },
         {
             "status": "success",
             "country": "Kazakhstan",
@@ -20,7 +77,7 @@
             "query": "188.0.153.235",
             "type": "socks5",
             "port": "1080",
-            "response_time": 2.38
+            "response_time": 6.25
         }
     ]
 }
