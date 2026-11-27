@@ -1,7 +1,7 @@
 {
     "countryCode": "CZ",
     "country": "Czechia",
-    "count": 4,
+    "count": 6,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "90.182.147.170",
             "type": "socks4",
             "port": "4145",
-            "response_time": 0.23
+            "response_time": 0.14
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "31",
+            "regionName": "South Bohemian Region",
+            "city": "Vimperk",
+            "zip": "385 01",
+            "lat": 49.0531,
+            "lon": 13.7733,
+            "timezone": "Europe/Prague",
+            "isp": "IT PROFI s.r.o",
+            "org": "IP Profi",
+            "as": "AS3161 IT PROFI s.r.o.",
+            "query": "194.1.188.8",
+            "type": "socks4",
+            "port": "60606",
+            "response_time": 0.21
         },
         {
             "status": "success",
@@ -39,7 +58,7 @@
             "query": "90.178.216.215",
             "type": "socks4",
             "port": "4153",
-            "response_time": 0.25
+            "response_time": 1.33
         },
         {
             "status": "success",
@@ -58,26 +77,45 @@
             "query": "37.221.248.119",
             "type": "socks5",
             "port": "10002",
-            "response_time": 0.81
+            "response_time": 1.51
         },
         {
             "status": "success",
             "country": "Czechia",
             "countryCode": "CZ",
-            "region": "32",
-            "regionName": "Plze\u0148 Region",
-            "city": "Klatovy",
-            "zip": "339 01",
-            "lat": 49.398,
-            "lon": 13.2893,
+            "region": "10",
+            "regionName": "Prague",
+            "city": "Prague",
+            "zip": "140 00",
+            "lat": 50.0471,
+            "lon": 14.4523,
             "timezone": "Europe/Prague",
-            "isp": "Airweb",
-            "org": "",
-            "as": "AS210712 ISP Alliance a.s.",
-            "query": "185.40.80.143",
-            "type": "socks4",
-            "port": "4153",
-            "response_time": 5.57
+            "isp": "PODA a.s.",
+            "org": "PODA",
+            "as": "AS30764 PODA a.s.",
+            "query": "193.165.115.78",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 5.75
+        },
+        {
+            "status": "success",
+            "country": "Czechia",
+            "countryCode": "CZ",
+            "region": "41",
+            "regionName": "Carlsbad Region",
+            "city": "Merkl\u00edn",
+            "zip": "362 34",
+            "lat": 50.3279,
+            "lon": 12.8609,
+            "timezone": "Europe/Prague",
+            "isp": "ISP Alliance a.s.",
+            "org": "Netline",
+            "as": "AS201476 ISP Alliance a.s.",
+            "query": "185.73.103.23",
+            "type": "http",
+            "port": "3128",
+            "response_time": 14.12
         }
     ]
 }
