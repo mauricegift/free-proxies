@@ -1,8 +1,27 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 2,
     "proxies": [
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Elektr\u0117nai",
+            "zip": "26104",
+            "lat": 54.7831,
+            "lon": 24.6689,
+            "timezone": "Europe/Vilnius",
+            "isp": "Private Limited Liability Company \"KRENA\"",
+            "org": "Private Limmited Liability Company",
+            "as": "AS49602 Private Limited Liability Company \"KRENA\"",
+            "query": "81.7.112.174",
+            "type": "socks4",
+            "port": "4145",
+            "response_time": 0.55
+        },
         {
             "status": "success",
             "country": "Lithuania",
@@ -20,7 +39,7 @@
             "query": "93.93.61.153",
             "type": "socks4",
             "port": "1080",
-            "response_time": 2.39
+            "response_time": 2.54
         }
     ]
 }
