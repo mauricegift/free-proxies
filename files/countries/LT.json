@@ -1,7 +1,7 @@
 {
     "countryCode": "LT",
     "country": "Lithuania",
-    "count": 1,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,51 @@
             "lat": 54.6876,
             "lon": 25.2806,
             "timezone": "Europe/Vilnius",
-            "isp": "AB \"Ogmios Centras\"",
-            "org": "Intesta",
-            "as": "AS44613 Ogmios centras AS number",
-            "query": "93.93.61.153",
-            "type": "socks4",
+            "isp": "Telia Lietuva",
+            "org": "Telia Lietuva, AB",
+            "as": "AS8764 Telia Lietuva, AB",
+            "query": "78.63.115.20",
+            "type": "socks5",
+            "port": "8899",
+            "response_time": 0.49
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "TE",
+            "regionName": "Telsiai",
+            "city": "Plung\u0117",
+            "zip": "90001",
+            "lat": 55.9153,
+            "lon": 21.8427,
+            "timezone": "Europe/Vilnius",
+            "isp": "KLI",
+            "org": "",
+            "as": "AS43627 UAB \"Besmegeniai\"",
+            "query": "46.36.74.66",
+            "type": "socks5",
             "port": "1080",
-            "response_time": 7.59
+            "response_time": 3.47
+        },
+        {
+            "status": "success",
+            "country": "Lithuania",
+            "countryCode": "LT",
+            "region": "VL",
+            "regionName": "Vilnius",
+            "city": "Vilnius",
+            "zip": "09202",
+            "lat": 54.695,
+            "lon": 25.292,
+            "timezone": "Europe/Vilnius",
+            "isp": "UAB Delska Lithuania",
+            "org": "UAB Rakrejus",
+            "as": "AS62282 UAB Rakrejus",
+            "query": "185.193.25.181",
+            "type": "socks5",
+            "port": "9050",
+            "response_time": 16.95
         }
     ]
 }
