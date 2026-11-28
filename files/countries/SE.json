@@ -1,7 +1,7 @@
 {
     "countryCode": "SE",
     "country": "Sweden",
-    "count": 2,
+    "count": 3,
     "proxies": [
         {
             "status": "success",
@@ -14,13 +14,13 @@
             "lat": 59.3287,
             "lon": 18.0717,
             "timezone": "Europe/Stockholm",
-            "isp": "PVDataNet AB",
-            "org": "PVDataNet AB",
-            "as": "AS42201 PVDataNet AB",
-            "query": "193.181.35.79",
+            "isp": "Akamai Technologies, Inc.",
+            "org": "Akamai Technologies, Inc.",
+            "as": "AS63949 Akamai Connected Cloud",
+            "query": "172.232.155.226",
             "type": "http",
             "port": "8118",
-            "response_time": 0.46
+            "response_time": 0.32
         },
         {
             "status": "success",
@@ -39,7 +39,26 @@
             "query": "188.150.229.60",
             "type": "socks4",
             "port": "5678",
-            "response_time": 2.37
+            "response_time": 3.35
+        },
+        {
+            "status": "success",
+            "country": "Sweden",
+            "countryCode": "SE",
+            "region": "AB",
+            "regionName": "Stockholm County",
+            "city": "Stockholm",
+            "zip": "100 04",
+            "lat": 59.3447,
+            "lon": 18.0676,
+            "timezone": "Europe/Stockholm",
+            "isp": "OVPN",
+            "org": "",
+            "as": "AS42675 Obehosting AB",
+            "query": "217.64.149.146",
+            "type": "http",
+            "port": "8118",
+            "response_time": 8.56
         }
     ]
 }
