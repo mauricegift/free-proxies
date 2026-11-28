@@ -1,7 +1,7 @@
 {
     "countryCode": "MN",
     "country": "Mongolia",
-    "count": 2,
+    "count": 4,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,45 @@
             "query": "119.40.98.29",
             "type": "socks4",
             "port": "8069",
-            "response_time": 0.93
+            "response_time": 0.87
+        },
+        {
+            "status": "success",
+            "country": "Mongolia",
+            "countryCode": "MN",
+            "region": "065",
+            "regionName": "Govi-Altai Province",
+            "city": "Altai",
+            "zip": "",
+            "lat": 46.3748,
+            "lon": 96.2691,
+            "timezone": "Asia/Hovd",
+            "isp": "Gemnet",
+            "org": "Gemnet",
+            "as": "AS45204 GEMNET LLC",
+            "query": "180.149.95.214",
+            "type": "socks4",
+            "port": "4153",
+            "response_time": 1.41
+        },
+        {
+            "status": "success",
+            "country": "Mongolia",
+            "countryCode": "MN",
+            "region": "1",
+            "regionName": "Ulaanbaatar",
+            "city": "Ulan Bator",
+            "zip": "",
+            "lat": 47.9094,
+            "lon": 106.8819,
+            "timezone": "Asia/Ulaanbaatar",
+            "isp": "Mobinet LLC",
+            "org": "",
+            "as": "AS9484 Mobinet LLC. AS Mobinet Internet Service Provider",
+            "query": "202.21.124.132",
+            "type": "http",
+            "port": "1011",
+            "response_time": 6.84
         },
         {
             "status": "success",
@@ -38,8 +76,8 @@
             "as": "AS10109 Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia",
             "query": "119.40.98.29",
             "type": "http",
-            "port": "8080",
-            "response_time": 1.66
+            "port": "20",
+            "response_time": 10.29
         }
     ]
 }
