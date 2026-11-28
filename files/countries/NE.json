@@ -1,7 +1,7 @@
 {
     "countryCode": "NE",
     "country": "Niger",
-    "count": 1,
+    "count": 2,
     "proxies": [
         {
             "status": "success",
@@ -20,7 +20,26 @@
             "query": "129.222.104.231",
             "type": "socks4",
             "port": "1080",
-            "response_time": 1.06
+            "response_time": 1.3
+        },
+        {
+            "status": "success",
+            "country": "Niger",
+            "countryCode": "NE",
+            "region": "8",
+            "regionName": "Niamey",
+            "city": "Niamey",
+            "zip": "",
+            "lat": 13.5115,
+            "lon": 2.1253,
+            "timezone": "Africa/Niamey",
+            "isp": "Space Exploration Technologies Corporation",
+            "org": "SpaceX Services, Inc.",
+            "as": "AS14593 Space Exploration Technologies Corporation",
+            "query": "129.222.104.186",
+            "type": "socks5",
+            "port": "1080",
+            "response_time": 1.37
         }
     ]
 }
